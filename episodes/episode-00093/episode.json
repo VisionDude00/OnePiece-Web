@@ -1,0 +1,572 @@
+{
+  "episodeNumber": 93,
+  "episodeTitle": "Coming to the Desert Kingdom! The Rain-Calling Powder and the Rebel Army",
+  "description": "The Straw Hat crew arrives at Nanohana, Arabasta's port city. Luffy separates from the group and discovers Dance Powder, learning about its role in the kingdom's crisis. Meanwhile, Chopper accidentally ends up at the rebel base in Katorea.",
+  "airDate": "2001-12-16",
+  "airDateJapan": "2001-12-16",
+  "airDateUS": "2009-12-15",
+  "arcName": "Arabasta Arc",
+  "sagaName": "Arabasta Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Believe",
+    "artist": "Folder5",
+    "episodeRange": [48, 115]
+  },
+  "endingSong": {
+    "title": "BEFORE DAWN",
+    "artist": "Ai-Sachi",
+    "episodeRange": [82, 94]
+  },
+  "credits": {
+    "animationDirector": "Eisaku Inoue",
+    "director": "Konosuke Uda",
+    "artDirector": "Tomoko Yoshida",
+    "screenplay": "Junki Takegami",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Misa Watanabe"
+      },
+      {
+        "character": "Koza",
+        "actor": "Takeshi Kusao"
+      },
+      {
+        "character": "Kamonegi",
+        "actor": "Tomomichi Nishimura"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Caitlin Glass"
+      },
+      {
+        "character": "Koza",
+        "actor": "Todd Haberkorn"
+      },
+      {
+        "character": "Kamonegi",
+        "actor": "Bryan Massey"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep093-event-001",
+      "episodeNumber": 93,
+      "timestamp": "03:00",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Straw Hats Arrive at Nanohana",
+      "description": "The Straw Hat Pirates arrive at Nanohana, the principal port city of Arabasta Kingdom. The crew prepares to disembark and begin their mission to help Vivi save her kingdom.",
+      "significance": "Marks the crew's first landing in Arabasta, the main setting for the arc. This is where their journey to stop the rebellion and Baroque Works truly begins.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "vivi", "karoo"],
+      "locationIds": ["nanohana", "arabasta"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [92],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep093-event-002",
+      "episodeNumber": 93,
+      "timestamp": "05:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Nanohana Port City Revealed",
+      "description": "The bustling port city of Nanohana is shown in detail, featuring Islamic-inspired architecture, crowded bazaars, and its famous perfume shops. The city is described as the principal entrance to Arabasta.",
+      "significance": "Introduces one of the key locations in the Arabasta Arc where multiple important events will unfold. Nanohana serves as the crew's base of operations early in the arc.",
+      "characterIds": [],
+      "locationIds": ["nanohana"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [94, 95],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep093-event-003",
+      "episodeNumber": 93,
+      "timestamp": "07:15",
+      "eventType": "MAJOR_DECISION",
+      "title": "Luffy Runs Off for Food",
+      "description": "Despite Nami's warnings to stay together and behave, Luffy immediately runs off into the city searching for food, separating from the crew.",
+      "significance": "This separation leads to Luffy's discovery of Dance Powder, a crucial element of the conspiracy. It demonstrates Luffy's characteristic impulsiveness and sets up the episode's main events.",
+      "characterIds": ["luffy", "nami"],
+      "locationIds": ["nanohana"],
+      "quotes": [
+        {
+          "text": "Food! I need to find some food!",
+          "speaker": "Luffy",
+          "context": "Luffy's immediate priority upon arriving in Arabasta"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep093-event-004",
+      "episodeNumber": 93,
+      "timestamp": "08:45",
+      "eventType": "CULTURAL_MOMENT",
+      "title": "Crew Disguises Themselves",
+      "description": "The Straw Hat crew members purchase desert clothing and disguise themselves to blend in with the local population. Vivi and Karoo hide under a blanket since she cannot risk being recognized by the citizens.",
+      "significance": "Shows the crew's awareness of the dangerous political situation in Arabasta. Vivi's need to hide emphasizes her status as a wanted princess in her own kingdom.",
+      "characterIds": ["zoro", "nami", "usopp", "sanji", "vivi", "karoo"],
+      "locationIds": ["nanohana"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep093-event-005",
+      "episodeNumber": 93,
+      "timestamp": "11:20",
+      "eventType": "CULTURAL_MOMENT",
+      "title": "Chopper's Perfume Encounter",
+      "description": "While shopping for supplies with Sanji, Chopper is overwhelmed by the famous Nanohana perfume. Sanji becomes distracted by beautiful women in the marketplace.",
+      "significance": "Provides character moments showing Chopper's sensitivity to smells and Sanji's predictable weakness for women. This distraction leads to Chopper being left alone.",
+      "characterIds": ["chopper", "sanji"],
+      "locationIds": ["nanohana"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep093-event-006",
+      "episodeNumber": 93,
+      "timestamp": "13:30",
+      "eventType": "CULTURAL_MOMENT",
+      "title": "Chopper Accidentally Goes to Katorea",
+      "description": "Exhausted by the heat, Chopper rests in the shade of a truck to cool down and falls asleep. The truck departs with Chopper inside, traveling from Nanohana to the rebel base at Katorea.",
+      "significance": "This accident allows Chopper to witness the rebel army firsthand and see Koza, providing the Straw Hats with intelligence about the rebellion. It's an anime-original extension that adds to the worldbuilding.",
+      "characterIds": ["chopper"],
+      "locationIds": ["nanohana", "katorea"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep093-event-007",
+      "episodeNumber": 93,
+      "timestamp": "15:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Katorea Rebel Base Revealed",
+      "description": "Katorea, a town built around an oasis, is revealed as the headquarters of the rebel army. The base consists of a fenced compound of tents where rebels plan their operations against King Cobra.",
+      "significance": "Introduces the rebel army's base of operations, a key location in understanding the civil war. Shows the scale and organization of the rebellion.",
+      "characterIds": [],
+      "locationIds": ["katorea"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [100, 107],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep093-event-008",
+      "episodeNumber": 93,
+      "timestamp": "16:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Koza's Debut",
+      "description": "Koza, the 20-year-old leader of the Arabasta Rebellion, appears for the first time. He is shown at the rebel base discussing plans with his followers, declaring that he and the rebel army will change Arabasta.",
+      "significance": "Introduces a major character who is central to the Arabasta conflict. Koza's determination and leadership are established, setting him up as the face of the rebellion. His childhood friendship with Vivi will later become crucial.",
+      "characterIds": ["koza"],
+      "locationIds": ["katorea"],
+      "devilFruitIds": [],
+      "crewIds": ["arabasta-rebel-army"],
+      "quotes": [
+        {
+          "text": "We will change Arabasta!",
+          "speaker": "Koza",
+          "context": "Koza's declaration of the rebel army's mission"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [100, 122, 125],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep093-event-009",
+      "episodeNumber": 93,
+      "timestamp": "17:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Matsuge Helps Chopper Escape",
+      "description": "Matsuge, a camel with distinctive long eyelashes, discovers Chopper hiding at the rebel base and helps him escape. The camel is revealed to be transporting weapons between Nanohana and Katorea for the rebels.",
+      "significance": "Introduces Matsuge, who will later become the Straw Hats' transportation companion through the desert. This anime-original scene establishes Chopper and Matsuge's friendship earlier than in the manga.",
+      "characterIds": ["matsuge", "chopper"],
+      "locationIds": ["katorea"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [97],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep093-event-010",
+      "episodeNumber": 93,
+      "timestamp": "19:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Kamonegi the Smuggler Appears",
+      "description": "Kamonegi, an anime-only character, is introduced as a smuggler in Nanohana. He is shown guarding a secret stash of green powder in a warehouse.",
+      "significance": "Introduces the antagonist for this episode's subplot. Kamonegi's Dance Powder smuggling operation becomes the vehicle for revealing crucial plot information to Luffy.",
+      "characterIds": ["kamonegi"],
+      "locationIds": ["nanohana"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep093-event-011",
+      "episodeNumber": 93,
+      "timestamp": "20:15",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Luffy Discovers Dance Powder",
+      "description": "While searching for food, Luffy stumbles upon Kamonegi's warehouse containing bags of green Dance Powder. Curious about the substance, Luffy tastes it and finds it disgusting.",
+      "significance": "This discovery is pivotal to understanding Baroque Works' conspiracy. Dance Powder is central to the plot to frame King Cobra and destabilize Arabasta.",
+      "characterIds": ["luffy", "kamonegi"],
+      "locationIds": ["nanohana"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [94, 110],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep093-event-012",
+      "episodeNumber": 93,
+      "timestamp": "21:30",
+      "eventType": "CULTURAL_MOMENT",
+      "title": "Luffy Burns the Dance Powder",
+      "description": "Disliking the taste of Dance Powder, Luffy disposes of the bags by throwing them into a chimney and burning them. The burning powder releases green vapor that rises into the sky, creating dark clouds and triggering artificial rainfall.",
+      "significance": "Demonstrates how Dance Powder works, visually showing its rain-creating properties. This accidental destruction of the smuggled powder triggers the conflict with Kamonegi.",
+      "characterIds": ["luffy"],
+      "locationIds": ["nanohana"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep093-event-013",
+      "episodeNumber": 93,
+      "timestamp": "22:45",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Kamonegi Attacks Luffy",
+      "description": "Discovering that Luffy has destroyed his valuable Dance Powder stash, Kamonegi attacks Luffy despite the pirate's apology. The smuggler is quickly defeated.",
+      "significance": "A brief confrontation that serves to transition into the exposition about Dance Powder's significance. Shows Luffy's strength while keeping the focus on the information reveal.",
+      "characterIds": ["luffy", "kamonegi"],
+      "locationIds": ["nanohana"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep093-event-014",
+      "episodeNumber": 93,
+      "timestamp": "23:30",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Dance Powder Explanation",
+      "description": "After his defeat, Kamonegi explains Dance Powder to Luffy. He reveals that it's also called Rain-Calling Powder, a substance banned by the World Government because it artificially creates rainfall in one area while causing droughts elsewhere. The powder's use has contributed to Arabasta's civil war.",
+      "significance": "This is crucial exposition that reveals a key element of Baroque Works' conspiracy. Understanding Dance Powder is essential to comprehending how Crocodile has manipulated Arabasta into civil war by framing the king.",
+      "characterIds": ["luffy", "kamonegi"],
+      "locationIds": ["nanohana"],
+      "quotes": [
+        {
+          "text": "That green powder is called Dance Powder, also known as Rain-Calling Powder. It goes through a complicated process to artificially make rainfall.",
+          "speaker": "Kamonegi",
+          "context": "Explaining the nature of Dance Powder to Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [110, 122],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep093-event-015",
+      "episodeNumber": 93,
+      "timestamp": "24:30",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MAJOR",
+      "title": "Connection to Arabasta's Drought",
+      "description": "Kamonegi connects the Dance Powder to Arabasta's ongoing drought and the rebellion. Luffy begins to understand the complexity of the situation in Arabasta, though he doesn't fully grasp all the implications.",
+      "significance": "Foreshadows the revelation that the king has been framed for using Dance Powder, which is the root cause of the rebellion. This sets up the major conflict that the Straw Hats will need to resolve.",
+      "characterIds": ["luffy"],
+      "locationIds": ["nanohana"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [110, 122],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["koza", "matsuge", "kamonegi"],
+    "locations": ["nanohana", "katorea"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": [],
+    "items": ["dance-powder"]
+  },
+  "episodeRelationships": {
+    "setupFor": [94, 95, 100, 110],
+    "payoffFrom": [92],
+    "thematicLinks": [110, 122, 125]
+  },
+  "quotes": [
+    {
+      "text": "We will change Arabasta!",
+      "speaker": "Koza",
+      "context": "Declaration at the rebel base",
+      "timestamp": "16:30"
+    },
+    {
+      "text": "That green powder is called Dance Powder, also known as Rain-Calling Powder. It goes through a complicated process to artificially make rainfall.",
+      "speaker": "Kamonegi",
+      "context": "Explaining Dance Powder to Luffy",
+      "timestamp": "23:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Political Manipulation",
+      "description": "The episode reveals how Dance Powder has been used to manipulate the population of Arabasta against their king, showing the power of misinformation and conspiracy.",
+      "symbolism": "Dance Powder represents how external forces can weaponize resources and blame to destabilize a nation.",
+      "culturalReferences": ["Cloud seeding and weather manipulation technologies"]
+    },
+    {
+      "theme": "The Cost of Rebellion",
+      "description": "Through Koza's introduction and the rebel base, we see how drought and desperation have driven citizens to take up arms against their own kingdom.",
+      "symbolism": "The oasis at Katorea symbolizes hope and survival in the midst of a dying kingdom.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Innocent Exploration Leading to Discovery",
+      "description": "Both Luffy and Chopper's wandering (for food and rest respectively) lead to important discoveries about the rebellion and the conspiracy.",
+      "symbolism": "The Straw Hats' innocent actions inadvertently reveal the truth.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Mysterious", "Tense", "Adventurous", "Informative"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Discovery agent",
+      "development": "Luffy's quest for food leads him to discover Dance Powder, beginning to understand the depth of Arabasta's crisis beyond just helping Vivi.",
+      "keyActions": [
+        "Runs off looking for food",
+        "Discovers Kamonegi's Dance Powder stash",
+        "Burns the Dance Powder accidentally",
+        "Learns about the powder's connection to Arabasta's problems"
+      ],
+      "quotes": ["Food! I need to find some food!"]
+    },
+    {
+      "characterId": "chopper",
+      "role": "Accidental spy",
+      "development": "Chopper's heat exhaustion leads him to the rebel base, where he witnesses Koza and the rebel army firsthand, providing intelligence.",
+      "keyActions": [
+        "Goes shopping with Sanji",
+        "Falls asleep in a truck",
+        "Accidentally travels to Katorea",
+        "Meets Matsuge who helps him escape"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "koza",
+      "role": "Rebel leader introduction",
+      "development": "Koza is introduced as the determined leader of the rebellion, committed to changing Arabasta through force.",
+      "keyActions": [
+        "Appears at rebel base",
+        "Discusses plans with rebels",
+        "Declares intent to change Arabasta"
+      ],
+      "quotes": ["We will change Arabasta!"]
+    },
+    {
+      "characterId": "vivi",
+      "role": "Hidden princess",
+      "development": "Vivi must hide her identity in her own kingdom, emphasizing the danger she faces and the division in Arabasta.",
+      "keyActions": [
+        "Hides under blanket to avoid recognition",
+        "Guides crew through Nanohana"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "Chopper's journey to Katorea and meeting Matsuge is anime-original content. In the manga, Matsuge is first encountered later in the desert.",
+      "episodeTimestamp": "13:30-17:45",
+      "mangaReference": "Chapter 158",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "Kamonegi is an anime-only character. The Dance Powder discovery and explanation are expanded from brief manga panels.",
+      "episodeTimestamp": "19:00-24:30",
+      "mangaReference": "Chapter 158, pages 14-16",
+      "type": "ANIME_EXPANSION"
+    },
+    {
+      "difference": "The crew disguising themselves and shopping in Nanohana is shown in more detail in the anime.",
+      "episodeTimestamp": "08:45-11:20",
+      "mangaReference": "Chapter 158",
+      "type": "ANIME_EXPANSION"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "The episode title uses the romanized Japanese 'Iza sabaku no kuni e! Ame o yobu kona to hanrangun' which directly translates to the English title.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_93",
+          "title": "Episode 93 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The 'To be continued' screen at the end displays heat distortion effects to emphasize the desert setting.",
+      "category": "ANIMATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_93",
+          "title": "Episode 93 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Dance Powder is inspired by real-world cloud seeding technology, particularly silver iodide which is burned to create ice particles in clouds.",
+      "category": "WORLD_BUILDING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Dance_Powder",
+          "title": "Dance Powder - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode covers only pages 2-3 and 14-16 of Chapter 158, making it one of the slower-paced episodes with significant anime-original content.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_93",
+          "title": "Episode 93 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Koza's character design includes purple-tinted glasses and a scar over his left eye from a childhood incident with a bandit named Agotogi.",
+      "category": "CHARACTER_DESIGN",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Koza",
+          "title": "Koza - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Nanohana's architecture was designed to resemble typical Middle Eastern desert towns following Islamic architectural conventions.",
+      "category": "WORLD_BUILDING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Nanohana",
+          "title": "Nanohana - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Matsuge's name means 'eyelashes' in Japanese, referring to his distinctive long bottom eyelashes.",
+      "category": "CHARACTER_DESIGN",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

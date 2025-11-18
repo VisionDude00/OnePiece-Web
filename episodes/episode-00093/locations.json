@@ -1,0 +1,158 @@
+[
+  {
+    "name": {
+      "english": "Nanohana",
+      "japanese": "ナノハナ",
+      "romanized": "Nanohana"
+    },
+    "locationType": "PORT_CITY",
+    "seaRegion": "PARADISE",
+    "islandName": "Arabasta",
+    "debutEpisode": 93,
+    "debutChapter": 158,
+    "description": "A bustling port city in the Arabasta Kingdom, known for its great shops and irresistible perfume. Features Islamic-inspired architecture and serves as the principal entrance to Arabasta. Located south of Alubarna, east of the Sandora River, and west of Katorea.",
+    "episodeAppearances": [93],
+    "keyEvents": [
+      {
+        "episodeNumber": 93,
+        "eventId": "ep093-event-001",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Straw Hats Arrive at Nanohana",
+        "description": "The Straw Hat Pirates arrive at Nanohana's port, their first landing in Arabasta Kingdom.",
+        "significance": "The beginning of the Straw Hats' mission to help Vivi save her kingdom from civil war.",
+        "timestamp": "03:00"
+      },
+      {
+        "episodeNumber": 93,
+        "eventId": "ep093-event-002",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Nanohana Port City Revealed",
+        "description": "The city is shown in detail with its Middle Eastern architecture, bustling marketplace, and famous perfume shops.",
+        "significance": "Establishes Nanohana as a key location for the Arabasta Arc.",
+        "timestamp": "05:30"
+      },
+      {
+        "episodeNumber": 93,
+        "eventId": "ep093-event-011",
+        "eventType": "WORLD_LORE",
+        "title": "Dance Powder Discovery in Nanohana",
+        "description": "Luffy discovers smuggled Dance Powder in a warehouse in Nanohana.",
+        "significance": "Reveals evidence of the conspiracy affecting Arabasta within the port city.",
+        "timestamp": "20:15"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 93,
+        "episodeEnd": "present",
+        "reason": "Functioning port city during the civil war"
+      }
+    ],
+    "parentLocation": "arabasta",
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "vivi", "karoo", "kamonegi"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Arabasta Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Katorea",
+      "japanese": "カトレア",
+      "romanized": "Katorea"
+    },
+    "locationType": "TOWN",
+    "seaRegion": "PARADISE",
+    "islandName": "Arabasta",
+    "debutEpisode": 93,
+    "debutChapter": 163,
+    "description": "A town in the Arabasta Kingdom built around an oasis, featuring coconut trees and traditional Arabastan architecture. Serves as the headquarters for the rebel army and supplies water and perfume to Nanohana.",
+    "episodeAppearances": [93],
+    "keyEvents": [
+      {
+        "episodeNumber": 93,
+        "eventId": "ep093-event-007",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Katorea Rebel Base Revealed",
+        "description": "Katorea is revealed as the headquarters of the rebel army, with a fenced compound of tents where rebels plan operations against King Cobra.",
+        "significance": "Establishes the rebel army's base and shows the organization of the rebellion.",
+        "timestamp": "15:45"
+      },
+      {
+        "episodeNumber": 93,
+        "eventId": "ep093-event-008",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Koza at Rebel Base",
+        "description": "Koza appears at the rebel base in Katorea, discussing plans with his followers.",
+        "significance": "Shows Katorea as the operational center of the rebellion.",
+        "timestamp": "16:30"
+      },
+      {
+        "episodeNumber": 93,
+        "eventId": "ep093-event-009",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Matsuge Helps Chopper Escape",
+        "description": "Chopper accidentally arrives at Katorea and meets Matsuge, who helps him escape back to Nanohana.",
+        "significance": "Reveals that weapons are being transported to Katorea from Nanohana.",
+        "timestamp": "17:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 93,
+        "episodeEnd": "present",
+        "reason": "Functioning as rebel army headquarters"
+      }
+    ],
+    "parentLocation": "arabasta",
+    "childLocations": ["katorea-rebel-base"],
+    "relatedCharacters": ["koza", "chopper", "matsuge"],
+    "relatedCrews": ["arabasta-rebel-army"],
+    "relatedArcs": ["Arabasta Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Arabasta",
+      "japanese": "アラバスタ",
+      "romanized": "Arabasuta"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "PARADISE",
+    "islandName": "Arabasta",
+    "debutEpisode": 93,
+    "debutChapter": 155,
+    "description": "A large desert kingdom on Sandy Island in the Grand Line. The kingdom is suffering from a severe drought and civil war manipulated by Baroque Works. Known for its Middle Eastern-inspired architecture and culture.",
+    "episodeAppearances": [93],
+    "keyEvents": [
+      {
+        "episodeNumber": 93,
+        "eventId": "ep093-event-001",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Straw Hats Arrive at Arabasta",
+        "description": "The Straw Hat Pirates make their first landing in the Arabasta Kingdom at the port city of Nanohana.",
+        "significance": "The crew finally arrives at the kingdom they've been sailing toward, beginning the main Arabasta Arc conflict.",
+        "timestamp": "03:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "CIVIL_WAR",
+        "episodeStart": 93,
+        "episodeEnd": "present",
+        "reason": "Kingdom is divided by rebellion against King Cobra due to drought crisis"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["nanohana", "katorea", "alubarna"],
+    "relatedCharacters": ["vivi", "cobra", "koza"],
+    "relatedCrews": ["straw-hat-pirates", "arabasta-rebel-army", "baroque-works"],
+    "relatedArcs": ["Arabasta Arc"],
+    "images": []
+  }
+]

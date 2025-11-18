@@ -1,0 +1,568 @@
+{
+  "episodeNumber": 94,
+  "episodeTitle": "The Heroes' Reunion! His Name is Fire Fist Ace!",
+  "episodeTitleJapanese": "豪傑達の再会!ヤツの名は火拳のエース",
+  "episodeTitleRomanized": "Gōketsu-tachi no Saikai! Yatsu no Na wa Hiken no Ēsu",
+  "description": "The Straw Hat Pirates arrive in Nanohana, Arabasta. While exploring the port town, Luffy encounters Captain Smoker and is rescued by a mysterious pirate with fire powers who is revealed to be Portgas D. Ace, Luffy's older brother and Second Division Commander of the Whitebeard Pirates.",
+  "airDate": "2001-12-23",
+  "airDateJapan": "2001-12-23",
+  "airDateUS": "2009-12-15",
+  "airDateUSFunimation": "2009-12-15",
+  "arcName": "Arabasta",
+  "sagaName": "Arabasta Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Believe",
+    "titleJapanese": "ビリーブ",
+    "artist": "Folder5",
+    "composer": "GROOVE SURFERS",
+    "lyricist": "Chiroru Yaho",
+    "episodeRange": [48, 115]
+  },
+  "endingSong": {
+    "title": "BEFORE DAWN",
+    "titleJapanese": "BEFORE DAWN",
+    "artist": "Ai-Sachi",
+    "composer": "Ai-Sachi",
+    "lyricist": "Ai-Sachi",
+    "episodeRange": [82, 94]
+  },
+  "credits": {
+    "director": "Junji Shimizu",
+    "screenplay": "Michiru Shimada",
+    "artDirector": "Miyuki Sato",
+    "animationDirector": "Takeo Ide",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Misa Watanabe"
+      },
+      {
+        "character": "Portgas D. Ace",
+        "actor": "Toshio Furukawa"
+      },
+      {
+        "character": "Smoker",
+        "actor": "Mahito Oba"
+      },
+      {
+        "character": "Tashigi",
+        "actor": "Junko Noda"
+      },
+      {
+        "character": "Yoshimoto",
+        "actor": "Unknown"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Caitlin Glass"
+      },
+      {
+        "character": "Portgas D. Ace",
+        "actor": "Travis Willingham"
+      },
+      {
+        "character": "Smoker",
+        "actor": "Greg Dulcie"
+      },
+      {
+        "character": "Tashigi",
+        "actor": "Monica Rial"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep094-event-001",
+      "episodeNumber": 94,
+      "timestamp": "03:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Straw Hats Arrive in Nanohana",
+      "description": "The Straw Hat Pirates arrive at Nanohana, a bustling port town in Arabasta Kingdom. The crew begins exploring the town, with its shops and aromatic perfumes, while Vivi explains the layout of the desert kingdom.",
+      "significance": "Marks the crew's entry into the main setting of the Arabasta Arc, where they will encounter both allies and enemies.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "vivi", "karoo"],
+      "locationIds": ["nanohana"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [92, 93],
+      "payoffInEpisodes": [95],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep094-event-002",
+      "episodeNumber": 94,
+      "timestamp": "05:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Con Artist Attempts to Scam Chopper and Usopp",
+      "description": "A salesman tries to sell Chopper and Usopp a 'magical golden apple' for an exorbitant price. Zoro and Nami intervene after discovering the con artist's associate painting regular apples gold.",
+      "significance": "Demonstrates the street-wise nature of Nanohana and provides comedic relief while establishing the town's atmosphere.",
+      "characterIds": ["chopper", "usopp", "zoro", "nami"],
+      "locationIds": ["nanohana"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep094-event-003",
+      "episodeNumber": 94,
+      "timestamp": "06:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Zoro Encounters Tashigi",
+      "description": "Zoro spots Tashigi in Nanohana, where she is criticizing a sword merchant for overpricing his wares. Zoro quickly hides to avoid confrontation with the Marine officer who resembles his deceased childhood friend.",
+      "significance": "Continues the ongoing tension between Zoro and Tashigi, building on their complicated relationship established in Loguetown.",
+      "characterIds": ["zoro", "tashigi"],
+      "locationIds": ["nanohana"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [48, 49, 50, 51],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [48]
+    },
+    {
+      "id": "ep094-event-004",
+      "episodeNumber": 94,
+      "timestamp": "08:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Smoker Arrives in Nanohana with Captured Pirates",
+      "description": "Marine Captain Smoker makes his presence known in Nanohana, carrying several captured small-time pirates. His appearance immediately raises the stakes for the Straw Hat crew.",
+      "significance": "Re-establishes Smoker as a persistent threat to Luffy and sets up the confrontation that will lead to Ace's intervention.",
+      "characterIds": ["smoker"],
+      "locationIds": ["nanohana"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [48, 49, 50, 51],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [48, 49, 50, 51]
+    },
+    {
+      "id": "ep094-event-005",
+      "episodeNumber": 94,
+      "timestamp": "10:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Ace Appears in Nanohana Searching for Luffy",
+      "description": "A mysterious young man is shown walking through Nanohana, asking locals if they have seen Luffy while showing his wanted poster. The townspeople direct him to the Spice Bean restaurant.",
+      "significance": "Introduces Portgas D. Ace to the story as he actively searches for his younger brother, setting up the episode's central reunion.",
+      "characterIds": ["ace"],
+      "locationIds": ["nanohana"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [91],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [91]
+    },
+    {
+      "id": "ep094-event-006",
+      "episodeNumber": 94,
+      "timestamp": "12:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Ace Falls Asleep in His Food",
+      "description": "At Spice Bean restaurant, Ace falls asleep face-first into his meal due to his narcolepsy. Onlookers gather around, believing he has died. Ace suddenly wakes up and apologizes, continuing to eat as if nothing happened.",
+      "significance": "Establishes Ace's signature character trait of sudden narcolepsy, a recurring comedic element that becomes iconic to his character.",
+      "characterIds": ["ace"],
+      "locationIds": ["spice-bean", "nanohana"],
+      "quotes": [
+        {
+          "text": "Sorry about that. I fell asleep.",
+          "speaker": "Ace",
+          "context": "Ace apologizes after falling asleep in his food, alarming nearby patrons"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep094-event-007",
+      "episodeNumber": 94,
+      "timestamp": "14:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Luffy Uses Gomu Gomu no Rocket into Spice Bean",
+      "description": "Luffy, hungry and excited, uses his Gomu Gomu no Rocket technique to launch himself toward the Spice Bean restaurant. He crashes through the building's wall, accidentally hitting both Smoker and Ace and sending them flying through several adjacent buildings.",
+      "significance": "Luffy's characteristic reckless behavior inadvertently brings together three significant characters - himself, his brother Ace, and his Marine pursuer Smoker.",
+      "characterIds": ["luffy", "ace", "smoker"],
+      "locationIds": ["spice-bean", "nanohana"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep094-event-008",
+      "episodeNumber": 94,
+      "timestamp": "16:20",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Luffy Demands Food from Yoshimoto",
+      "description": "After crashing into the Spice Bean, Luffy immediately demands food from the restaurant owner Yoshimoto, completely unaware that he just sent two people flying through multiple walls. Yoshimoto, maintaining his composure, serves Luffy.",
+      "significance": "Showcases Luffy's single-minded focus on food and his obliviousness to the chaos he creates.",
+      "characterIds": ["luffy", "yoshimoto"],
+      "locationIds": ["spice-bean"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep094-event-009",
+      "episodeNumber": 94,
+      "timestamp": "17:45",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Ace Revealed as Luffy's Older Brother",
+      "description": "Ace returns to the restaurant and attempts to greet Luffy. When Smoker confronts Luffy and asks why Ace is protecting him, Ace casually states that a big brother has to look out for his little brother. Luffy confirms to the shocked Straw Hat crew that Ace is indeed his older brother.",
+      "significance": "Major revelation that establishes one of the most important relationships in the series. The existence of Luffy's older brother adds significant depth to Luffy's backstory and sets up future emotional arcs.",
+      "characterIds": ["ace", "luffy", "smoker", "nami", "zoro", "sanji", "usopp", "chopper", "vivi"],
+      "locationIds": ["spice-bean", "nanohana"],
+      "quotes": [
+        {
+          "text": "A big brother has to look out for his little brother.",
+          "speaker": "Ace",
+          "context": "Ace explains to Smoker why he's protecting Luffy"
+        },
+        {
+          "text": "Yeah, that's my brother!",
+          "speaker": "Luffy",
+          "context": "Luffy confirms to his shocked crew that Ace is his older brother"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [91],
+      "payoffInEpisodes": [95, 159, 483, 484, 485],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep094-event-010",
+      "episodeNumber": 94,
+      "timestamp": "18:15",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Smoker Identifies Ace as Whitebeard's Second Division Commander",
+      "description": "Captain Smoker recognizes Ace and identifies him as Portgas D. Ace, the Second Division Commander of the Whitebeard Pirates. This revelation shocks everyone present, as the Whitebeard Pirates are one of the most powerful pirate crews in the world.",
+      "significance": "Establishes Ace's position in the pirate world hierarchy and foreshadows the importance of the Whitebeard Pirates to the overall story. The reveal that Luffy's brother holds such a prestigious position raises questions about their shared past.",
+      "characterIds": ["ace", "smoker"],
+      "locationIds": ["spice-bean", "nanohana"],
+      "crewIds": ["whitebeard-pirates"],
+      "quotes": [
+        {
+          "text": "Portgas D. Ace... Second Division Commander of the Whitebeard Pirates.",
+          "speaker": "Smoker",
+          "context": "Smoker identifies Ace's position in one of the world's strongest pirate crews"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [151, 316, 459, 460, 461],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep094-event-011",
+      "episodeNumber": 94,
+      "timestamp": "19:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Ace Reveals His Mera Mera no Mi Devil Fruit Powers",
+      "description": "Ace tells Luffy that he ate the Mera Mera no Mi (Flame-Flame Fruit), granting him the power to create, control, and become fire. Luffy is surprised to learn his brother is now a Devil Fruit user like himself.",
+      "significance": "Introduces one of the most iconic Logia-type Devil Fruits in the series. The Mera Mera no Mi becomes a significant plot element in future arcs, particularly after Ace's fate is sealed.",
+      "characterIds": ["ace", "luffy"],
+      "locationIds": ["spice-bean", "nanohana"],
+      "devilFruitIds": ["mera-mera-no-mi"],
+      "quotes": [
+        {
+          "text": "I ate the Mera Mera no Mi. I'm a fire man now.",
+          "speaker": "Ace",
+          "context": "Ace explains his Devil Fruit powers to Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [721, 722, 723],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep094-event-012",
+      "episodeNumber": 94,
+      "timestamp": "20:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Ace Uses Kagero to Block Smoker's Attack",
+      "description": "When Smoker launches his 'White Blow' attack at Luffy, Ace intervenes by using his Kagero technique - shooting a stream of fire from his palm that neutralizes Smoker's smoke-based assault. This demonstrates the power of Logia-type Devil Fruits and their elemental interactions.",
+      "significance": "First demonstration of Ace's combat abilities and the Mera Mera no Mi's power in action. Shows that fire can counter Smoker's smoke abilities, establishing the rock-paper-scissors nature of Devil Fruit matchups.",
+      "characterIds": ["ace", "smoker"],
+      "locationIds": ["nanohana"],
+      "devilFruitIds": ["mera-mera-no-mi", "moku-moku-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep094-event-013",
+      "episodeNumber": 94,
+      "timestamp": "21:30",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "Straw Hats Escape Thanks to Ace",
+      "description": "With Ace holding off Smoker using his fire powers, the Straw Hat Pirates are able to escape from Nanohana. Tashigi arrives too late, having run to the wrong part of town, missing the entire confrontation.",
+      "significance": "Demonstrates Ace's protective nature toward Luffy and allows the Straw Hats to continue their mission in Arabasta without Marine interference.",
+      "characterIds": ["ace", "luffy", "smoker", "tashigi", "nami", "zoro", "sanji", "usopp", "chopper", "vivi"],
+      "locationIds": ["nanohana"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [95],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["ace"],
+    "locations": ["spice-bean"],
+    "devilFruits": ["mera-mera-no-mi"],
+    "crews": ["whitebeard-pirates"],
+    "abilities": ["kagero"]
+  },
+  "episodeRelationships": {
+    "setupFor": [95, 159],
+    "payoffFrom": [91],
+    "thematicLinks": [159, 483, 484, 485]
+  },
+  "quotes": [
+    {
+      "text": "A big brother has to look out for his little brother.",
+      "speaker": "Ace",
+      "context": "Explaining to Smoker why he's protecting Luffy",
+      "timestamp": "17:45"
+    },
+    {
+      "text": "Yeah, that's my brother!",
+      "speaker": "Luffy",
+      "context": "Confirming to his crew that Ace is his older brother",
+      "timestamp": "17:45"
+    },
+    {
+      "text": "Portgas D. Ace... Second Division Commander of the Whitebeard Pirates.",
+      "speaker": "Smoker",
+      "context": "Identifying Ace's position in the pirate world",
+      "timestamp": "18:15"
+    },
+    {
+      "text": "I ate the Mera Mera no Mi. I'm a fire man now.",
+      "speaker": "Ace",
+      "context": "Revealing his Devil Fruit powers to Luffy",
+      "timestamp": "19:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Family Bonds",
+      "description": "The episode centers on the reunion of Luffy and Ace, establishing the strong brotherly bond between them. Ace's protective nature and willingness to confront a Marine officer demonstrates the depth of their relationship.",
+      "symbolism": "Ace blocking Smoker's attack with fire represents his role as Luffy's protector and the warmth of their familial connection.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Power and Position",
+      "description": "Ace's reveal as Second Division Commander of the Whitebeard Pirates introduces the concept of the established pirate hierarchy and major players in the One Piece world beyond the East Blue.",
+      "symbolism": "The fire vs. smoke confrontation symbolizes the clash between different levels of power and authority in the pirate world.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Destiny and Legacy",
+      "description": "The presence of the 'D' in both Luffy and Ace's names hints at a shared destiny and mysterious legacy that connects certain individuals in the One Piece world.",
+      "symbolism": "Both brothers carrying the Will of D suggests a deeper connection to the world's mysteries.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Exciting", "Heartwarming", "Comedic", "Mysterious"],
+  "characterSpotlights": [
+    {
+      "characterId": "ace",
+      "role": "Deuteragonist introduction",
+      "development": "Ace is formally introduced as Luffy's older brother and a powerful pirate in his own right. His narcolepsy, fire powers, and protective nature toward Luffy are all established in this episode.",
+      "keyActions": [
+        "Searches for Luffy in Nanohana",
+        "Falls asleep in his food at Spice Bean",
+        "Reveals his relationship to Luffy",
+        "Demonstrates his Mera Mera no Mi powers",
+        "Protects Luffy from Smoker using Kagero technique"
+      ],
+      "quotes": [
+        "A big brother has to look out for his little brother.",
+        "I ate the Mera Mera no Mi. I'm a fire man now."
+      ]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Protagonist",
+      "development": "Luffy's character is deepened through the revelation that he has an older brother who is a powerful pirate. His reaction to Ace shows a different, more vulnerable side of the usually carefree captain.",
+      "keyActions": [
+        "Crashes into Spice Bean using Gomu Gomu no Rocket",
+        "Initially doesn't recognize the danger from Smoker",
+        "Reunites with his brother Ace",
+        "Confirms Ace's identity to his shocked crew"
+      ],
+      "quotes": [
+        "Yeah, that's my brother!"
+      ]
+    },
+    {
+      "characterId": "smoker",
+      "role": "Antagonist/Pursuer",
+      "development": "Smoker continues his relentless pursuit of Luffy but is outmatched by Ace's fire powers, showing that there are limits to his abilities when facing stronger opponents.",
+      "keyActions": [
+        "Appears in Nanohana with captured pirates",
+        "Confronts Luffy at Spice Bean",
+        "Identifies Ace as Whitebeard's Second Division Commander",
+        "Attempts to capture Luffy but is stopped by Ace"
+      ],
+      "quotes": [
+        "Portgas D. Ace... Second Division Commander of the Whitebeard Pirates."
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended several scenes in Nanohana, including more interaction with the con artist selling golden apples and additional shots of the town's atmosphere.",
+      "episodeTimestamp": "05:30",
+      "mangaReference": "Chapter 157",
+      "type": "ANIME_EXTENDED_SCENE"
+    },
+    {
+      "difference": "The anime added more comedic reactions from the Straw Hat crew when Ace is revealed to be Luffy's brother.",
+      "episodeTimestamp": "17:45",
+      "mangaReference": "Chapter 158",
+      "type": "ANIME_EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the final use of 'BEFORE DAWN' as the ending theme, which had been used since Episode 82.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/BEFORE_DAWN",
+          "title": "BEFORE DAWN - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "In the original Funimation dub, Smoker incorrectly refers to Ace as the 'Fourth Division Commander' of the Whitebeard Pirates when he should be identified as the 'Second Division Commander.' This error was later corrected in subsequent releases.",
+      "category": "DUBBING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_94",
+          "title": "Episode 94 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Toshio Furukawa, Ace's Japanese voice actor, is also known for voicing Piccolo in Dragon Ball Z and Ataru Moroboshi in Urusei Yatsura.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://www.behindthevoiceactors.com/tv-shows/One-Piece/Portgas-D-Ace/",
+          "title": "Portgas D. Ace Voice - One Piece",
+          "platform": "Behind The Voice Actors",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode adapts portions of Chapters 157 (pages 12-17) and 158 (pages 4-13) of the manga.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_94",
+          "title": "Episode 94 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Ace's narcolepsy, first shown in this episode when he falls asleep in his food, is a recurring character trait that appears multiple times throughout his appearances in the series.",
+      "category": "CHARACTER",
+      "sources": []
+    },
+    {
+      "fact": "The episode has an IMDb rating of 8.9/10, making it one of the higher-rated episodes of the Arabasta Arc.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://www.imdb.com/title/tt0982400/",
+          "title": "One Piece - Gouketsu-tachi no Saikai! Yatsu no Na wa Hiken no Ace",
+          "platform": "IMDb",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
