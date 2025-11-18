@@ -1,0 +1,451 @@
+{
+  "episodeNumber": 119,
+  "episodeTitle": "Essence of a Mighty Sword! The Power to Cut Steel and the Breath of All Things",
+  "description": "Zoro faces off against Mr. 1 in a desperate battle where he must learn to cut steel to survive. Through a flashback to his master Koushirou's teachings and a profound realization about the 'breath of all things,' Zoro achieves a breakthrough in his swordsmanship and defeats the steel-bodied assassin with his new technique, Shishi Sonson.",
+  "airDate": "2002-07-21",
+  "airDateJapan": "2002-07-21",
+  "airDateUS": "2010-03-16",
+  "arcName": "Arabasta",
+  "sagaName": "Alabasta Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Hikari e",
+    "artist": "The Babystars",
+    "episodeRange": [116, 168]
+  },
+  "endingSong": {
+    "title": "Shining ray",
+    "artist": "Janne Da Arc",
+    "episodeRange": [119, 132]
+  },
+  "credits": {
+    "director": "Munehisa Sakai",
+    "screenplay": "Junki Takegami",
+    "artDirector": "Miyuki Sato, Toshiaki Marumori",
+    "animationDirector": "Eisaku Inoue",
+    "voiceActorsJP": [
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Daz Bonez (Mr. 1)",
+        "actor": "Tetsu Inada"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Shimotsuki Koushirou",
+        "actor": "Unshō Ishizuka"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Daz Bonez (Mr. 1)",
+        "actor": "Brett Weaver"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Shimotsuki Koushirou",
+        "actor": "Chuck Huber"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep119-event-001",
+      "episodeNumber": 119,
+      "timestamp": "02:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Zoro vs Mr. 1 Battle Intensifies",
+      "description": "The episode opens with Zoro struggling against Mr. 1's Supa Supa no Mi powers. Mr. 1's steel body deflects all of Zoro's sword attacks, leaving Zoro wounded and desperate for a solution.",
+      "significance": "Sets up the central conflict of the episode - Zoro must overcome the seemingly impossible challenge of cutting steel or face defeat.",
+      "characterIds": ["zoro", "mr-1"],
+      "locationIds": ["alubarna"],
+      "devilFruitIds": ["supa-supa-no-mi"],
+      "crewIds": ["straw-hat-pirates", "baroque-works"],
+      "quotes": [
+        {
+          "text": "You can't cut me. I'm made of steel!",
+          "speaker": "Mr. 1",
+          "context": "Mr. 1 taunts Zoro about the futility of his attacks"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [118],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep119-event-002",
+      "episodeNumber": 119,
+      "timestamp": "05:15",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Mr. 1's Sparkling Daisy",
+      "description": "Mr. 1 demonstrates his Sparkling Daisy technique, a dual-hand stabbing and slicing combination that showcases the deadly versatility of his blade powers.",
+      "significance": "Demonstrates the full extent of Mr. 1's Devil Fruit mastery and the danger Zoro faces.",
+      "characterIds": ["mr-1", "zoro"],
+      "devilFruitIds": ["supa-supa-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep119-event-003",
+      "episodeNumber": 119,
+      "timestamp": "06:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Mr. 1's Atomic Spar",
+      "description": "Mr. 1 unleashes Atomic Spar, a crossed-hand X-pattern slash that further damages Zoro and demonstrates the assassin's combat prowess.",
+      "significance": "Shows Mr. 1's technical skill and puts Zoro at greater disadvantage.",
+      "characterIds": ["mr-1", "zoro"],
+      "devilFruitIds": ["supa-supa-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep119-event-004",
+      "episodeNumber": 119,
+      "timestamp": "08:20",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Koushirou's Teaching - The Way to Cut Steel",
+      "description": "Zoro has a flashback to his childhood training with master Koushirou, who teaches him a fundamental principle of swordsmanship: a true swordsman should be able to cut anything they want to cut, but also have the ability to not cut what they don't want to cut - even paper.",
+      "significance": "This flashback provides the philosophical foundation that will allow Zoro to achieve his breakthrough. It's a pivotal moment that reveals the deeper meaning of swordsmanship beyond mere physical strength.",
+      "characterIds": ["zoro", "koushirou"],
+      "locationIds": ["shimotsuki-village"],
+      "quotes": [
+        {
+          "text": "There are swordsmen in this world who can cut nothing. A blade that cuts everything is not a sword. The strongest sword is one that can protect what it wants to protect and cut what it wants to cut.",
+          "speaker": "Koushirou",
+          "context": "Teaching young Zoro the essence of true swordsmanship"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [2, 19],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [2, 19]
+    },
+    {
+      "id": "ep119-event-005",
+      "episodeNumber": 119,
+      "timestamp": "11:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Mr. 1's Spiral Hollow",
+      "description": "Mr. 1 attacks with Spiral Hollow, spinning his forearm blades like drills in a devastating attack that further wounds Zoro.",
+      "significance": "Demonstrates another technique in Mr. 1's arsenal and pushes Zoro closer to the brink of defeat.",
+      "characterIds": ["mr-1", "zoro"],
+      "devilFruitIds": ["supa-supa-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep119-event-006",
+      "episodeNumber": 119,
+      "timestamp": "13:45",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Zoro Awakens to the Breath of All Things",
+      "description": "Lying defeated on the ground, Zoro experiences a moment of enlightenment. He begins to hear and feel the 'breath' of everything around him - the rocks, the buildings, even Mr. 1's steel body. This supernatural awareness allows him to sense where and when falling debris will land and, crucially, where he can cut.",
+      "significance": "This is one of the most important moments in Zoro's character development. The ability to sense the 'breath of all things' is the key that unlocks his potential to cut steel and represents a major leap in his growth as a swordsman. This concept later connects to Observation Haki.",
+      "characterIds": ["zoro"],
+      "quotes": [
+        {
+          "text": "I can hear it... the breath of the rocks... the breath of the earth... I can hear everything.",
+          "speaker": "Zoro",
+          "context": "Zoro's moment of enlightenment"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [2, 19],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep119-event-007",
+      "episodeNumber": 119,
+      "timestamp": "15:20",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Zoro Dodges Falling Debris",
+      "description": "Using his newfound awareness, Zoro effortlessly dodges falling debris without looking, demonstrating his new ability to sense the breath of all things.",
+      "significance": "Provides concrete proof that Zoro's enlightenment is real and showcases his enhanced perception.",
+      "characterIds": ["zoro"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep119-event-008",
+      "episodeNumber": 119,
+      "timestamp": "16:10",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Zoro Uses Gazami Dori",
+      "description": "Zoro attacks Mr. 1 with Gazami Dori, a crab-capturing technique, but this is a setup for his true finishing move.",
+      "significance": "Shows Zoro has regained his fighting spirit and is preparing for his final attack.",
+      "characterIds": ["zoro", "mr-1"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep119-event-009",
+      "episodeNumber": 119,
+      "timestamp": "17:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "CRITICAL",
+      "title": "Shishi Sonson - Lion's Song Debut",
+      "description": "Zoro unveils his One Sword Style secret technique, Ittoryu Iai: Shishi Sonson (Lion's Song). Holding his sword in reverse grip above his head, he listens to Mr. 1's 'breath,' then rapidly unsheathes his blade, slashes through Mr. 1's steel body, and resheathes his sword in one fluid motion. For the first time, Zoro successfully cuts steel.",
+      "significance": "This is a defining moment for Zoro - the first time he cuts steel and debuts one of his most iconic techniques. Shishi Sonson becomes one of Zoro's signature finishing moves used throughout the series. This moment represents Zoro's growth from a strong swordsman to a master swordsman.",
+      "characterIds": ["zoro", "mr-1"],
+      "devilFruitIds": ["supa-supa-no-mi"],
+      "quotes": [
+        {
+          "text": "Ittoryu Iai: Shishi Sonson!",
+          "speaker": "Zoro",
+          "context": "Zoro's battle cry as he unleashes his new technique"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [2, 19],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep119-event-010",
+      "episodeNumber": 119,
+      "timestamp": "19:15",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Mr. 1's Defeat",
+      "description": "Mr. 1, his steel body cut clean through, collapses in defeat. He acknowledges Zoro's victory with respect, accepting his loss to the superior swordsman.",
+      "significance": "Marks Zoro's victory over one of Baroque Works' strongest agents and proves his growth as a swordsman. Mr. 1 shows honor in defeat, respecting Zoro's achievement.",
+      "characterIds": ["zoro", "mr-1"],
+      "crewIds": ["baroque-works"],
+      "quotes": [
+        {
+          "text": "I see... so you've finally done it.",
+          "speaker": "Mr. 1",
+          "context": "Mr. 1 acknowledging his defeat"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [118],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep119-event-011",
+      "episodeNumber": 119,
+      "timestamp": "20:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Zoro's Victory Pose",
+      "description": "After defeating Mr. 1, Zoro sheathes his sword and stands victorious, having overcome what seemed like an impossible challenge.",
+      "significance": "A quiet moment of triumph that shows Zoro's growth and determination. Despite his injuries, he remains standing.",
+      "characterIds": ["zoro"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep119-event-012",
+      "episodeNumber": 119,
+      "timestamp": "21:00",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MAJOR",
+      "title": "Mihawk Flashback",
+      "description": "A brief flashback shows Dracule Mihawk, the world's strongest swordsman who defeated Zoro at the Baratie, reminding viewers of Zoro's ultimate goal.",
+      "significance": "Reminds the audience of Zoro's promise to become the world's greatest swordsman and never lose again. This victory over Mr. 1 is a step toward that goal.",
+      "characterIds": ["zoro", "mihawk"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [24],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [24]
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["shishi-sonson", "gazami-dori", "sparkling-daisy", "atomic-spar", "spiral-hollow"]
+  },
+  "episodeRelationships": {
+    "setupFor": [120, 121, 122],
+    "payoffFrom": [103, 118],
+    "thematicLinks": [2, 19, 24]
+  },
+  "quotes": [
+    {
+      "text": "There are swordsmen in this world who can cut nothing. A blade that cuts everything is not a sword. The strongest sword is one that can protect what it wants to protect and cut what it wants to cut.",
+      "speaker": "Koushirou",
+      "context": "Teaching Zoro about the essence of swordsmanship in flashback",
+      "timestamp": "08:20"
+    },
+    {
+      "text": "I can hear it... the breath of the rocks... the breath of the earth... I can hear everything.",
+      "speaker": "Zoro",
+      "context": "Zoro's moment of enlightenment",
+      "timestamp": "13:45"
+    },
+    {
+      "text": "Ittoryu Iai: Shishi Sonson!",
+      "speaker": "Zoro",
+      "context": "Unleashing his technique to cut steel and defeat Mr. 1",
+      "timestamp": "17:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Growth Through Adversity",
+      "description": "Zoro faces an opponent who seems unbeatable and must grow beyond his current limits to survive. His breakthrough comes not from physical strength alone, but from understanding a deeper philosophy of swordsmanship.",
+      "symbolism": "The inability to cut steel represents Zoro's current limitations, while learning to hear the 'breath of all things' symbolizes enlightenment and transcendence.",
+      "culturalReferences": ["The concept of hearing the 'breath' of objects draws from Japanese swordsmanship philosophy and Zen Buddhism"]
+    },
+    {
+      "theme": "Master and Student",
+      "description": "The flashback to Koushirou's teaching demonstrates how the wisdom of mentors guides us even when they're not present. Zoro's breakthrough comes from remembering and finally understanding his master's lesson.",
+      "symbolism": "Koushirou's teaching about cutting and not cutting represents the balance and control that defines a true master.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Honor in Combat",
+      "description": "Both Zoro and Mr. 1 fight with absolute determination and acknowledge each other's strength. Mr. 1 accepts his defeat with grace and respect.",
+      "symbolism": "The mutual respect between opponents represents the warrior's code and honor even among enemies.",
+      "culturalReferences": ["Reflects samurai bushido code and the respect between warriors"]
+    }
+  ],
+  "emotionalTone": ["Intense", "Philosophical", "Triumphant", "Dramatic"],
+  "characterSpotlights": [
+    {
+      "characterId": "zoro",
+      "role": "Protagonist facing ultimate challenge",
+      "development": "Zoro achieves a major breakthrough in his swordsmanship by learning to sense the 'breath of all things,' allowing him to cut steel for the first time. This represents significant growth toward his goal of becoming the world's greatest swordsman.",
+      "keyActions": [
+        "Struggles against Mr. 1's steel body",
+        "Remembers Koushirou's teachings in flashback",
+        "Awakens to sensing the breath of all things",
+        "Defeats Mr. 1 with Shishi Sonson",
+        "Successfully cuts steel for the first time"
+      ],
+      "quotes": [
+        "I can hear it... the breath of the rocks... the breath of the earth... I can hear everything.",
+        "Ittoryu Iai: Shishi Sonson!"
+      ]
+    },
+    {
+      "characterId": "mr-1",
+      "role": "Formidable antagonist",
+      "development": "Mr. 1 serves as the obstacle that forces Zoro to grow. His honorable acceptance of defeat shows that even villains in One Piece can have admirable qualities.",
+      "keyActions": [
+        "Demonstrates multiple Devil Fruit techniques",
+        "Pushes Zoro to the brink of defeat",
+        "Tests Zoro's resolve and skill",
+        "Accepts defeat with honor and respect"
+      ],
+      "quotes": [
+        "You can't cut me. I'm made of steel!",
+        "I see... so you've finally done it."
+      ]
+    },
+    {
+      "characterId": "koushirou",
+      "role": "Mentor (flashback)",
+      "development": "Though appearing only in flashback, Koushirou's teaching provides the key to Zoro's victory. His wisdom transcends time and space to guide his student.",
+      "keyActions": [
+        "Teaches Zoro the philosophy of cutting and not cutting",
+        "Explains the concept of a true swordsman"
+      ],
+      "quotes": [
+        "There are swordsmen in this world who can cut nothing. A blade that cuts everything is not a sword. The strongest sword is one that can protect what it wants to protect and cut what it wants to cut."
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends the battle sequence with additional shots of Zoro struggling and Mr. 1's techniques to fill the episode runtime.",
+      "episodeTimestamp": "05:00-12:00",
+      "mangaReference": "Chapters 194-195",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "The flashback to Koushirou is expanded in the anime with more detailed visuals and longer dialogue.",
+      "episodeTimestamp": "08:20",
+      "mangaReference": "Chapter 194",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episode 119 is the first episode to use 'Shining ray' by Janne Da Arc as its ending theme.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_119",
+          "title": "Episode 119 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The concept of hearing the 'breath of all things' that Zoro learns in this episode is later revealed to be related to Observation Haki, though Haki is not formally introduced until much later in the series.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "Shishi Sonson (Lion's Song) becomes one of Zoro's signature finishing techniques and is used multiple times throughout the series against powerful opponents.",
+      "category": "ABILITIES",
+      "sources": []
+    },
+    {
+      "fact": "This episode achieved a 12.6% TV rating in Japan, ranking #5 in viewership for its timeslot.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_119",
+          "title": "Episode 119 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Unshō Ishizuka, who voices Koushirou in the Japanese version, is a legendary voice actor who also voices characters like Professor Oak in Pokémon and Jet Black in Cowboy Bebop.",
+      "category": "VOICE_ACTING",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
