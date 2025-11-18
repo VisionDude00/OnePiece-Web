@@ -1,0 +1,289 @@
+[
+  {
+    "id": "sanji",
+    "name": {
+      "english": "Sanji",
+      "japanese": "サンジ",
+      "romanized": "Sanji",
+      "alternateNames": ["Black Leg Sanji", "Mr. Prince"]
+    },
+    "debut": {
+      "episode": 20,
+      "context": "Debut was in earlier episode"
+    },
+    "episodeAppearances": [185],
+    "keyMoments": [
+      {
+        "episodeNumber": 185,
+        "timestamp": "03:20",
+        "title": "Awakens to Save Nami",
+        "description": "Sanji wakes up in shock, realizing Nami is in grave danger aboard Enel's ship and immediately plans her rescue despite knowing Enel's overwhelming power.",
+        "significance": "Demonstrates Sanji's unwavering protective instinct and devotion to his crew.",
+        "relatedEventId": "ep185-event-001"
+      },
+      {
+        "episodeNumber": 185,
+        "timestamp": "07:30",
+        "title": "Strategic Split Decision",
+        "description": "Sanji decides to split up from Usopp to maximize rescue chances and covertly sabotage the Ark Maxim's systems.",
+        "significance": "Shows Sanji's tactical intelligence and ability to think strategically even in desperate situations.",
+        "relatedEventId": "ep185-event-003"
+      },
+      {
+        "episodeNumber": 185,
+        "timestamp": "17:05",
+        "title": "Heroic Sacrifice for Crew",
+        "description": "Sanji kicks Usopp to safety and takes the full force of Enel's God's Judgment attack, one of the most powerful lightning strikes in the series.",
+        "significance": "One of Sanji's most heroic moments, demonstrating his willingness to die for his crewmates. Shows his care extends beyond just Nami to all crew members.",
+        "relatedEventId": "ep185-event-009"
+      },
+      {
+        "episodeNumber": 185,
+        "timestamp": "17:45",
+        "title": "Iconic 'I Needed a Light' Moment",
+        "description": "After being struck by God's Judgment, Sanji remains standing, smokes a cigarette lit by the lightning, and delivers his legendary line: 'Thanks... I was just about to ask for a light. Yeah... you'll pay for this.'",
+        "significance": "Arguably Sanji's most iconic moment in the entire series. Demonstrates his unbreakable spirit, cool demeanor under pressure, and defiant nature. This scene has become legendary in the One Piece community.",
+        "relatedEventId": "ep185-event-010"
+      },
+      {
+        "episodeNumber": 185,
+        "timestamp": "18:30",
+        "title": "Sabotage of the Ark Maxim Revealed",
+        "description": "After Sanji collapses, it's revealed he sabotaged the Ark Maxim's systems during his infiltration, causing malfunctions that will hinder Enel's plans.",
+        "significance": "Reveals Sanji's strategic thinking and ability to multitask - even while focused on rescuing Nami, he thought ahead to damage Enel's greater scheme.",
+        "relatedEventId": "ep185-event-011"
+      }
+    ],
+    "relationships": [
+      {
+        "characterId": "nami",
+        "type": "CREW_MATE",
+        "description": "Sanji risks his life to rescue Nami from Enel, showing his deep protective feelings and willingness to sacrifice everything for her safety.",
+        "introducedInEpisode": 185
+      },
+      {
+        "characterId": "usopp",
+        "type": "CREW_MATE",
+        "description": "Sanji works with Usopp on the rescue mission and ultimately saves his life along with Nami's, demonstrating his care for all crewmates.",
+        "introducedInEpisode": 185
+      },
+      {
+        "characterId": "enel",
+        "type": "ENEMY",
+        "description": "Sanji directly confronts Enel, taking his devastating attack and sabotaging his ship, establishing himself as a thorn in the god's plans.",
+        "introducedInEpisode": 185
+      }
+    ]
+  },
+  {
+    "id": "usopp",
+    "name": {
+      "english": "Usopp",
+      "japanese": "ウソップ",
+      "romanized": "Usoppu",
+      "alternateNames": ["Sogeking", "God Usopp"]
+    },
+    "debut": {
+      "episode": 9,
+      "context": "Debut was in earlier episode"
+    },
+    "episodeAppearances": [185],
+    "keyMoments": [
+      {
+        "episodeNumber": 185,
+        "timestamp": "05:45",
+        "title": "Climbs to the Ark Maxim Despite Fear",
+        "description": "Despite his terror of Enel's power and the extreme height, Usopp climbs to the Ark Maxim with Sanji to rescue Nami.",
+        "significance": "Shows Usopp's growth in courage, as he participates in a dangerous mission despite his cowardice.",
+        "relatedEventId": "ep185-event-002"
+      },
+      {
+        "episodeNumber": 185,
+        "timestamp": "13:45",
+        "title": "Usopp Spell Technique Debut",
+        "description": "Usopp attempts a new psychological attack technique where the target must think about needles under their fingernails. The technique comically fails to affect Enel but works on Nami instead.",
+        "significance": "Demonstrates Usopp's creative approach to combat and his tendency to develop unique, if often ineffective, techniques.",
+        "relatedEventId": "ep185-event-006"
+      },
+      {
+        "episodeNumber": 185,
+        "timestamp": "14:30",
+        "title": "Reaches Nami First",
+        "description": "Usopp is the first to reach Nami on the deck and attempts to rescue her using the Waver.",
+        "significance": "Despite his fear, Usopp takes the lead in the rescue attempt, showing his ability to act when it matters most.",
+        "relatedEventId": "ep185-event-007"
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Usopp Spell",
+        "type": "Psychological Attack",
+        "description": "A technique where Usopp tries to make the target think about painful imagery (needles under fingernails) to distract or weaken them mentally. Also called 'Usopp Voodoo' in the English dub.",
+        "firstUsedInEpisode": 185,
+        "relatedEventId": "ep185-event-006"
+      }
+    ],
+    "relationships": [
+      {
+        "characterId": "sanji",
+        "type": "CREW_MATE",
+        "description": "Usopp partners with Sanji on the rescue mission. Sanji ultimately saves Usopp's life by taking Enel's attack.",
+        "introducedInEpisode": 185
+      },
+      {
+        "characterId": "nami",
+        "type": "CREW_MATE",
+        "description": "Usopp risks his life to rescue Nami from Enel, showing his loyalty to his crew despite his fear.",
+        "introducedInEpisode": 185
+      }
+    ]
+  },
+  {
+    "id": "nami",
+    "name": {
+      "english": "Nami",
+      "japanese": "ナミ",
+      "romanized": "Nami",
+      "alternateNames": ["Cat Burglar Nami"]
+    },
+    "debut": {
+      "episode": 1,
+      "context": "Debut was in earlier episode"
+    },
+    "episodeAppearances": [185],
+    "keyMoments": [
+      {
+        "episodeNumber": 185,
+        "timestamp": "11:00",
+        "title": "Strategic Use of Thunder Ball",
+        "description": "Nami demonstrates tactical use of her Clima-Tact's Thunder Ball ability to redirect Enel's lightning attacks away from herself.",
+        "significance": "Shows Nami's growing combat intelligence and her ability to use weather knowledge against even a lightning-based opponent.",
+        "relatedEventId": "ep185-event-005"
+      },
+      {
+        "episodeNumber": 185,
+        "timestamp": "14:30",
+        "title": "Guardian of Luffy's Straw Hat",
+        "description": "Nami has Luffy's precious straw hat after he was thrown off the ship by Enel, keeping it safe for her captain.",
+        "significance": "Symbolizes Nami's role in protecting what's precious to the crew and her deep bond with Luffy.",
+        "relatedEventId": "ep185-event-007"
+      },
+      {
+        "episodeNumber": 185,
+        "timestamp": "19:45",
+        "title": "Rescued by Sanji's Sacrifice",
+        "description": "Nami successfully escapes the Ark Maxim with Usopp thanks to Sanji taking the devastating attack meant for them.",
+        "significance": "Demonstrates the crew's willingness to sacrifice for each other and deepens Nami's bond with Sanji.",
+        "relatedEventId": "ep185-event-012"
+      }
+    ],
+    "relationships": [
+      {
+        "characterId": "sanji",
+        "type": "CREW_MATE",
+        "description": "Sanji risks everything to rescue Nami, taking a potentially fatal attack to ensure her escape. Nami shows genuine concern and gratitude for his sacrifice.",
+        "introducedInEpisode": 185
+      },
+      {
+        "characterId": "luffy",
+        "type": "CREW_MATE",
+        "description": "Nami protects Luffy's straw hat after he's defeated, showing her role as someone who carries on when the captain falls.",
+        "introducedInEpisode": 185
+      }
+    ]
+  },
+  {
+    "id": "enel",
+    "name": {
+      "english": "Enel",
+      "japanese": "エネル",
+      "romanized": "Eneru",
+      "alternateNames": ["God Enel", "Eneru"]
+    },
+    "debut": {
+      "episode": 167,
+      "context": "Debut was in earlier episode"
+    },
+    "episodeAppearances": [185],
+    "keyMoments": [
+      {
+        "episodeNumber": 185,
+        "timestamp": "09:15",
+        "title": "Detects Intruders with Mantra",
+        "description": "Enel casually detects Sanji and Usopp infiltrating his ship using his Mantra (Observation Haki), calling them 'rats' who've snuck aboard.",
+        "significance": "Demonstrates Enel's overwhelming advantage with his Haki abilities and his god complex in how he dismissively refers to the Straw Hats.",
+        "relatedEventId": "ep185-event-004"
+      },
+      {
+        "episodeNumber": 185,
+        "timestamp": "16:20",
+        "title": "Unleashes God's Judgment",
+        "description": "Enel unleashes one of his most powerful attacks, God's Judgment, a massive lightning bolt designed to kill Usopp and Nami.",
+        "significance": "Shows Enel's ruthlessness and willingness to kill without hesitation. The attack's power level establishes the deadly threat he poses.",
+        "relatedEventId": "ep185-event-008"
+      },
+      {
+        "episodeNumber": 185,
+        "timestamp": "18:30",
+        "title": "Discovers Ship Sabotage",
+        "description": "Enel realizes with frustration that Sanji has sabotaged the Ark Maxim's systems, causing malfunctions throughout the ship.",
+        "significance": "This is one of the first times Enel loses his composure, showing he can be outsmarted despite his overwhelming power.",
+        "relatedEventId": "ep185-event-011"
+      }
+    ],
+    "abilities": [
+      {
+        "name": "God's Judgment",
+        "type": "Devil Fruit Technique",
+        "description": "A massive lightning bolt attack with devastating destructive power, capable of instantly killing most opponents.",
+        "firstUsedInEpisode": 182,
+        "relatedEventId": "ep185-event-008"
+      },
+      {
+        "name": "Mantra",
+        "type": "Haki",
+        "description": "Observation Haki that allows Enel to detect people's presence and predict their movements, making stealth impossible against him.",
+        "firstUsedInEpisode": 168,
+        "relatedEventId": "ep185-event-004"
+      }
+    ],
+    "relationships": [
+      {
+        "characterId": "sanji",
+        "type": "ENEMY",
+        "description": "Sanji sabotages Enel's ship and takes his powerful attack, establishing himself as a significant thorn in Enel's plans and earning the god's anger.",
+        "introducedInEpisode": 185
+      },
+      {
+        "characterId": "nami",
+        "type": "ENEMY",
+        "description": "Enel holds Nami captive aboard his ship and attempts to kill her, seeing her as a useful navigator but ultimately expendable.",
+        "introducedInEpisode": 184
+      }
+    ]
+  },
+  {
+    "id": "robin",
+    "name": {
+      "english": "Nico Robin",
+      "japanese": "ニコ・ロビン",
+      "romanized": "Niko Robin",
+      "alternateNames": ["Devil Child"]
+    },
+    "debut": {
+      "episode": 67,
+      "context": "Debut was in earlier episode"
+    },
+    "episodeAppearances": [185],
+    "keyMoments": [
+      {
+        "episodeNumber": 185,
+        "timestamp": "20:30",
+        "title": "Rescues Injured Warriors in Shandora",
+        "description": "Robin uses her Hana Hana no Mi abilities to carry the wounded bodies of Zoro, Wyper, and others near Giant Jack in the ruins of Shandora.",
+        "significance": "Demonstrates Robin's integration with the crew and her willingness to help protect and save others, showing her character growth from a solitary survivor to a caring crew member.",
+        "relatedEventId": "ep185-event-013"
+      }
+    ]
+  }
+]
