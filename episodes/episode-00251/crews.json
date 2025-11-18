@@ -1,0 +1,159 @@
+[
+  {
+    "name": {
+      "english": "CP9",
+      "japanese": "CP9",
+      "romanized": "CP9"
+    },
+    "crewType": "GOVERNMENT_ORGANIZATION",
+    "captainId": "spandam",
+    "debutEpisode": 246,
+    "debutChapter": 343,
+    "episodeAppearances": [251],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 251,
+        "eventId": "ep251-event-003",
+        "momentType": "WORLD_LORE",
+        "title": "CP9 Threatens Buster Call",
+        "description": "CP9 reveals they have the authority from Admiral Aokiji to initiate a Buster Call, forcing Robin to surrender.",
+        "significance": "This demonstrates CP9's immense power and authority within the World Government, capable of calling the most devastating military attack.",
+        "timestamp": "11:30"
+      },
+      {
+        "episodeNumber": 251,
+        "eventId": "ep251-event-008",
+        "momentType": "BATTLE_START",
+        "title": "CP9 Captures Franky",
+        "description": "Led by Rob Lucci, CP9 successfully captures Franky at his hideout, with Blueno using his Devil Fruit powers to restrain opponents.",
+        "significance": "This shows CP9's efficiency in completing their mission to capture both Robin and Franky for transport to Enies Lobby.",
+        "timestamp": "21:15"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "CP9 does not have a Jolly Roger as they are a World Government organization",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "#000000",
+    "relationships": {
+      "allies": ["world-government"],
+      "enemies": ["straw-hat-pirates", "franky-family"],
+      "parentOrganization": "world-government"
+    }
+  },
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "luffy",
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [251],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 251,
+        "eventId": "ep251-event-002",
+        "momentType": "BACKSTORY_REVEAL",
+        "title": "Robin's Sacrifice for the Crew Revealed",
+        "description": "It's revealed that Robin surrendered herself to CP9 to protect the Straw Hats from a Buster Call, showing the depth of her loyalty to her nakama.",
+        "significance": "This revelation transforms the crew's mission from confusion to a unified determination to rescue Robin, demonstrating the bonds of the Straw Hat crew.",
+        "timestamp": "08:15"
+      },
+      {
+        "episodeNumber": 251,
+        "eventId": "ep251-event-005",
+        "momentType": "MAJOR_DECISION",
+        "title": "Crew Decides to Rescue Robin",
+        "description": "After learning the truth, Nami immediately moves to gather the crew to save Robin, beginning the rescue mission.",
+        "significance": "This marks the beginning of what will become the Enies Lobby assault, one of the crew's most daring missions.",
+        "timestamp": "17:20"
+      },
+      {
+        "episodeNumber": 251,
+        "eventId": "ep251-event-006",
+        "momentType": "CULTURAL_MOMENT",
+        "title": "Going Merry Set Adrift",
+        "description": "The crew's beloved first ship, the Going Merry, is released by the Galley-La foremen to drift out to sea.",
+        "significance": "This foreshadows the eventual farewell to the Going Merry and represents a transition point for the crew.",
+        "timestamp": "19:00"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Going Merry",
+        "episodeAcquired": 17,
+        "episodeLost": null,
+        "description": "In this episode, the Going Merry is set adrift by the Galley-La foremen, beginning its journey toward eventual destruction."
+      }
+    ],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull wearing a straw hat with crossed bones behind it",
+      "episodeFirstSeen": 1,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": ["franky-family"],
+      "enemies": ["cp9", "world-government"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Galley-La Company",
+      "japanese": "ガレーラカンパニー",
+      "romanized": "Garēra Kanpanī"
+    },
+    "crewType": "COMPANY",
+    "captainId": "iceburg",
+    "debutEpisode": 229,
+    "debutChapter": 323,
+    "episodeAppearances": [251],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 251,
+        "eventId": "ep251-event-001",
+        "momentType": "CULTURAL_MOMENT",
+        "title": "Iceburg and Paulie Rescued",
+        "description": "Chopper saves Iceburg and Paulie from the burning Galley-La headquarters, earning the gratitude of Water 7 citizens.",
+        "significance": "This heroic act begins to restore the Straw Hats' reputation in Water 7 after being falsely accused.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 251,
+        "eventId": "ep251-event-006",
+        "momentType": "CULTURAL_MOMENT",
+        "title": "Galley-La Releases Going Merry",
+        "description": "The Galley-La foremen release the Going Merry, allowing it to drift to sea as an act of mercy for the unrepairable ship.",
+        "significance": "This decision by Galley-La marks the beginning of the end for the Going Merry.",
+        "timestamp": "19:00"
+      }
+    ],
+    "ships": [],
+    "bases": ["galley-la-company"],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "Galley-La Company does not have a Jolly Roger as they are a legitimate business",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "#4169E1",
+    "relationships": {
+      "allies": ["water-seven-citizens"],
+      "enemies": ["cp9"],
+      "parentOrganization": null
+    }
+  }
+]

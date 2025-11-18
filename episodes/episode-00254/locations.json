@@ -1,0 +1,146 @@
+[
+  {
+    "name": {
+      "english": "Water 7 Backstreets",
+      "japanese": "ウォーターセブン裏通り",
+      "romanized": "Wōtā Sebun Uradōri"
+    },
+    "locationType": "DISTRICT",
+    "seaRegion": "PARADISE",
+    "islandName": "Water 7",
+    "debutEpisode": 229,
+    "debutChapter": 323,
+    "description": "The lower-lying backstreet district of Water 7, vulnerable to the annual Aqua Laguna tidal wave. This area was heavily damaged when the crew members were trapped during the storm.",
+    "episodeAppearances": [254],
+    "keyEvents": [
+      {
+        "episodeNumber": 254,
+        "eventId": "ep254-event-002",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Nami Braves the Aqua Laguna",
+        "description": "Nami descends through the dangerous backstreets to reach Luffy during the approaching Aqua Laguna.",
+        "significance": "Shows Nami's bravery and dedication to her crew.",
+        "timestamp": "06:15"
+      },
+      {
+        "episodeNumber": 254,
+        "eventId": "ep254-event-003",
+        "eventType": "BACKSTORY_REVEAL",
+        "title": "Nami Reveals Robin's Sacrifice",
+        "description": "In the backstreets, Nami tells Luffy about Robin's sacrifice.",
+        "significance": "This location becomes the catalyst point for the Enies Lobby mission.",
+        "timestamp": "08:45"
+      },
+      {
+        "episodeNumber": 254,
+        "eventId": "ep254-event-008",
+        "eventType": "WORLD_LORE",
+        "title": "Aqua Laguna Destroys the Backstreets",
+        "description": "The massive Aqua Laguna wave crashes into the backstreets with devastating force, destroying buildings and threatening all life in the area.",
+        "significance": "Demonstrates the destructive power of Water 7's annual natural disaster.",
+        "timestamp": "16:00"
+      }
+    ],
+    "status": "DAMAGED",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 229,
+        "episodeEnd": 253,
+        "reason": "Functional district before Aqua Laguna"
+      },
+      {
+        "status": "DAMAGED",
+        "episodeStart": 254,
+        "episodeEnd": "present",
+        "reason": "Heavily damaged by Aqua Laguna in this episode"
+      }
+    ],
+    "parentLocation": "water-seven",
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "nami", "zoro", "chopper", "paulie"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Water 7"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Enies Lobby",
+      "japanese": "エニエス・ロビー",
+      "romanized": "Eniesu Robī"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "PARADISE",
+    "islandName": "Enies Lobby",
+    "debutEpisode": 241,
+    "debutChapter": 375,
+    "description": "A government stronghold island that serves as a gateway to Impel Down and Marine Headquarters. Known as the 'Island of No Night' due to its perpetual daylight. This is where CP9 is taking Robin.",
+    "episodeAppearances": [254],
+    "keyEvents": [
+      {
+        "episodeNumber": 254,
+        "eventId": "ep254-event-001",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Spandam Awaits at Enies Lobby",
+        "description": "Spandam is shown at Enies Lobby with Funkfreed, eagerly awaiting CP9's arrival with Robin and Franky.",
+        "significance": "Establishes Enies Lobby as the destination for Robin and the target for the Straw Hats' rescue mission.",
+        "timestamp": "03:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 241,
+        "episodeEnd": "present",
+        "reason": "World Government stronghold in operation"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": [],
+    "relatedCharacters": ["spandam", "funkfreed", "robin"],
+    "relatedCrews": ["cp9"],
+    "relatedArcs": ["Water 7", "Enies Lobby"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Sea Train Puffing Tom",
+      "japanese": "海列車パッフィング・トム",
+      "romanized": "Umiresha Paffingu Tomu"
+    },
+    "locationType": "VEHICLE",
+    "seaRegion": "PARADISE",
+    "islandName": null,
+    "debutEpisode": 229,
+    "debutChapter": 322,
+    "description": "The sea-going train that connects Water 7 to Enies Lobby. In this episode, it is carrying CP9, Robin, Franky, and Usopp (as Sogeking) toward Enies Lobby, while Sanji fights government agents aboard.",
+    "episodeAppearances": [254],
+    "keyEvents": [
+      {
+        "episodeNumber": 254,
+        "eventId": "ep254-event-010",
+        "eventType": "BATTLE_END",
+        "title": "Sanji Defeats Government Agents",
+        "description": "Sanji finishes defeating all government agents in his train car aboard the Puffing Tom.",
+        "significance": "Shows Sanji's progress in fighting through the train to reach Robin.",
+        "timestamp": "18:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 229,
+        "episodeEnd": "present",
+        "reason": "Train in operation heading to Enies Lobby"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": [],
+    "relatedCharacters": ["sanji", "robin", "franky", "usopp", "rob-lucci", "kaku", "kalifa", "blueno"],
+    "relatedCrews": ["straw-hat-pirates", "cp9"],
+    "relatedArcs": ["Water 7", "Enies Lobby"],
+    "images": []
+  }
+]
