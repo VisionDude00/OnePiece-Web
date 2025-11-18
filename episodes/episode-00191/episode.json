@@ -1,0 +1,476 @@
+{
+  "episodeNumber": 191,
+  "episodeTitle": "Chop Down Giant Jack! The Last Hope of Escaping",
+  "episodeTitleJapanese": "巨大豆蔓（ジャイアントジャック）を倒せ！脱出への最後の望み",
+  "episodeTitleRomanized": "Kyodai Mame-zuru (Jaianto Jakku) o Taose! Dasshutsu e no Saigo no Nozomi",
+  "description": "Nami devises a plan to help Luffy reach Enel by cutting down Giant Jack. Robin reveals to Wyper the historical connection between Mont Blanc Noland and his descendant Cricket. The crew works together to topple the massive beanstalk while Enel prepares his devastating Raigou attack.",
+  "airDate": "2004-05-02",
+  "airDateJapan": "2004-05-02",
+  "airDateUS": "2008-12-31",
+  "arcName": "Skypiea Arc",
+  "sagaName": "Sky Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "BON VOYAGE!",
+    "artist": "Bon-Bon Blanco",
+    "episodeRange": [169, 206]
+  },
+  "endingSong": {
+    "title": "Tsuki to Taiyo",
+    "artist": "Shela",
+    "episodeRange": [182, 195]
+  },
+  "credits": {
+    "director": "Yoko Ikeda",
+    "screenplay": "Hirohiko Kamisaka",
+    "artDirectors": ["Miyuki Sato", "Michiyo Kawasaki"],
+    "animationDirector": "Masayuki Takagi",
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Enel",
+        "actor": "Toshiyuki Morikawa"
+      },
+      {
+        "character": "Wyper",
+        "actor": "Masaki Aizawa"
+      },
+      {
+        "character": "Gan Fall",
+        "actor": "Joji Yanami"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Enel",
+        "actor": "J. Michael Tatum"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep191-event-001",
+      "episodeNumber": 191,
+      "timestamp": "03:15",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Robin Reveals Noland's Connection to Cricket",
+      "description": "Nico Robin explains to Wyper that Mont Blanc Noland has a descendant named Mont Blanc Cricket who is searching for the Gold City. This revelation helps Wyper understand why Luffy is so determined to ring the Golden Bell - to prove that the city of gold exists and clear Noland's name.",
+      "significance": "This moment connects the historical tragedy of Noland and Kalgara to the present day, giving emotional weight to Luffy's mission and creating an alliance of understanding between Wyper and the Straw Hats.",
+      "characterIds": ["robin", "wyper"],
+      "locationIds": ["upper-yard"],
+      "quotes": [
+        {
+          "text": "Mont Blanc Noland has a descendant that is searching for the Gold City. That's the reason why Luffy wants to ring the Golden Bell.",
+          "speaker": "Nico Robin",
+          "context": "Robin explaining Luffy's motivation to Wyper"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [187, 188, 189],
+      "payoffInEpisodes": [195],
+      "callbacksToEpisodes": [187, 188, 189]
+    },
+    {
+      "id": "ep191-event-002",
+      "episodeNumber": 191,
+      "timestamp": "05:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Nami's Plan to Reach Enel",
+      "description": "Nami devises a brilliant strategy to help Luffy reach Enel by cutting down Giant Jack. Instead of fleeing, she decides to stay and help Luffy confront the god. She writes instructions on a leaf and drops them to the crew below, telling them to cut the beanstalk from the west.",
+      "significance": "This showcases Nami's tactical intelligence and her growth as a character who will risk her safety for her captain's dream. It sets in motion the climactic confrontation with Enel.",
+      "characterIds": ["nami", "luffy"],
+      "locationIds": ["giant-jack"],
+      "quotes": [
+        {
+          "text": "I won't leave because Luffy can't steer the waver.",
+          "speaker": "Nami",
+          "context": "Nami deciding to stay and help Luffy instead of escaping"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [190],
+      "payoffInEpisodes": [192, 193],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep191-event-003",
+      "episodeNumber": 191,
+      "timestamp": "08:45",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Enel Discovers the Golden Bell",
+      "description": "Enel reaches the great Belfry and discovers the magnificent Golden Bell of Shandora, though it is covered in vines and slightly tilted. He appreciates its grandeur before preparing to destroy all of Skypiea with his Raigou.",
+      "significance": "This is the first time in 400 years that someone has reached the Golden Bell, the symbol of the friendship between Noland and Kalgara. Enel's discovery sets the stage for Luffy's climactic battle.",
+      "characterIds": ["enel"],
+      "locationIds": ["golden-belfry"],
+      "quotes": [
+        {
+          "text": "Magnificent...",
+          "speaker": "Enel",
+          "context": "Enel's reaction upon seeing the Golden Bell"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [187, 188, 189],
+      "payoffInEpisodes": [195],
+      "callbacksToEpisodes": [187]
+    },
+    {
+      "id": "ep191-event-004",
+      "episodeNumber": 191,
+      "timestamp": "11:20",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Usopp's Kayaku Hoshi Boshi",
+      "description": "Usopp attempts to help cut down Giant Jack by using his Kayaku Hoshi Boshi (Gunpowder Star Star) technique, firing explosive pellets at the massive beanstalk. He also uses Rolling Kayaku Boshi, rolling while firing explosive shots.",
+      "significance": "Shows variations of Usopp's explosive star techniques as he contributes to the effort to topple Giant Jack, demonstrating his creativity in combat.",
+      "characterIds": ["usopp"],
+      "locationIds": ["giant-jack"],
+      "devilFruitIds": [],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "Kayaku Hoshi Boshi!",
+          "speaker": "Usopp",
+          "context": "Usopp attacking Giant Jack with explosive stars"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep191-event-005",
+      "episodeNumber": 191,
+      "timestamp": "13:50",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Zoro Cuts Giant Jack",
+      "description": "Roronoa Zoro delivers a powerful slash that cuts halfway through the massive trunk of Giant Jack. However, despite the significant damage, the beanstalk does not fall. The crew realizes they need more power to completely topple it.",
+      "significance": "Demonstrates Zoro's incredible strength and sword skills, but also shows the immense scale of Giant Jack that even Zoro's powerful attack cannot fell it alone.",
+      "characterIds": ["zoro"],
+      "locationIds": ["giant-jack"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [190],
+      "payoffInEpisodes": [191],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep191-event-006",
+      "episodeNumber": 191,
+      "timestamp": "15:10",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Enel Attacks with Lightning",
+      "description": "Before Zoro can deliver a second cut to Giant Jack, Enel launches a devastating lightning attack from above, targeting Zoro and the others attempting to cut down the beanstalk. The lightning barrage prevents them from finishing their task.",
+      "significance": "Shows Enel's awareness and interference, raising the stakes and demonstrating his godlike power to attack from a distance.",
+      "characterIds": ["enel", "zoro"],
+      "locationIds": ["giant-jack"],
+      "devilFruitIds": ["goro-goro-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [190],
+      "payoffInEpisodes": [191, 192],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep191-event-007",
+      "episodeNumber": 191,
+      "timestamp": "17:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Nola's Flashback to Kalgara and Seto",
+      "description": "The giant snake Nola has a flashback to 400 years ago, remembering when Kalgara and Seto would ring the Golden Bell for Noland. The memory shows the bond between Nola and the ancient Shandia warriors, and the serpent's sadness at losing them.",
+      "significance": "Provides emotional depth to Nola's character, revealing that the snake has been alive for over 400 years and still remembers its friends. This connects to the overarching theme of promises and friendship spanning centuries.",
+      "characterIds": ["nola", "kalgara", "seto"],
+      "locationIds": ["upper-yard", "shandora"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [187, 188, 189],
+      "payoffInEpisodes": [195],
+      "callbacksToEpisodes": [187, 188]
+    },
+    {
+      "id": "ep191-event-008",
+      "episodeNumber": 191,
+      "timestamp": "18:45",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Wyper Uses Reject Dial to Fell Giant Jack",
+      "description": "Despite being badly wounded, Wyper stands up one more time and uses his Reject Dial - a devastating weapon that damages both the user and the target - to attack Giant Jack. Combined with Nola's headbutt and Zoro's earlier cut, Wyper's sacrifice finally causes the massive beanstalk to begin falling westward.",
+      "significance": "This is a pivotal heroic moment for Wyper, showing his determination to help ring the bell and honor his ancestor Kalgara. The Reject Dial's power is emphasized as it accomplishes what even Zoro's swords could not finish alone. Wyper's willingness to risk his life demonstrates his growth and acceptance of the Straw Hats' cause.",
+      "characterIds": ["wyper"],
+      "locationIds": ["giant-jack"],
+      "quotes": [
+        {
+          "text": "For Kalgara... for all the Shandia!",
+          "speaker": "Wyper",
+          "context": "Wyper's determination as he uses the Reject Dial"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [169, 188, 190],
+      "payoffInEpisodes": [192, 195],
+      "callbacksToEpisodes": [169, 187]
+    },
+    {
+      "id": "ep191-event-009",
+      "episodeNumber": 191,
+      "timestamp": "20:15",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Luffy and Nami Ride the Falling Beanstalk",
+      "description": "As Giant Jack begins to topple, Luffy takes Nami's waver and they ride at full speed up the falling beanstalk toward Enel's Ark Maxim. Enel launches lightning attacks at the two as they race toward him, but they continue their ascent undeterred.",
+      "significance": "This dramatic scene sets up the final confrontation between Luffy and Enel. The visual of riding up a falling beanstalk showcases the creative and adventurous spirit of One Piece's action sequences.",
+      "characterIds": ["luffy", "nami", "enel"],
+      "locationIds": ["giant-jack", "ark-maxim"],
+      "devilFruitIds": ["goro-goro-no-mi", "gomu-gomu-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [190, 191],
+      "payoffInEpisodes": [192, 193, 194, 195],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep191-event-010",
+      "episodeNumber": 191,
+      "timestamp": "21:30",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Enel Plans to Destroy Skypiea with Raigou",
+      "description": "Enel reveals his true plan: to create a massive Raigou (Thunder Welcome) by condensing enormous thunderclouds and bringing it down to completely annihilate all of Skypiea. He plans to destroy the island before departing for Fairy Vearth (the moon), believing it to be his rightful homeland.",
+      "significance": "Establishes the ultimate stakes of the arc - not just defeating Enel, but preventing the complete destruction of Skypiea and all its inhabitants. Reveals Enel's megalomaniacal nature and his connection to the moon, which becomes important to the series' lore.",
+      "characterIds": ["enel"],
+      "locationIds": ["skypiea", "ark-maxim"],
+      "devilFruitIds": ["goro-goro-no-mi"],
+      "quotes": [
+        {
+          "text": "I will destroy this land with Raigou and then set out for Fairy Vearth.",
+          "speaker": "Enel",
+          "context": "Enel revealing his plan to destroy Skypiea"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [182, 190],
+      "payoffInEpisodes": [192, 193, 194],
+      "callbacksToEpisodes": [182]
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["kayaku-hoshi-boshi", "rolling-kayaku-boshi"]
+  },
+  "episodeRelationships": {
+    "setupFor": [192, 193, 194, 195],
+    "payoffFrom": [187, 188, 189, 190],
+    "thematicLinks": [187, 188, 189, 195]
+  },
+  "quotes": [
+    {
+      "text": "Mont Blanc Noland has a descendant that is searching for the Gold City. That's the reason why Luffy wants to ring the Golden Bell.",
+      "speaker": "Nico Robin",
+      "context": "Robin explaining Luffy's motivation to Wyper",
+      "timestamp": "03:15"
+    },
+    {
+      "text": "I won't leave because Luffy can't steer the waver.",
+      "speaker": "Nami",
+      "context": "Nami deciding to stay and help Luffy",
+      "timestamp": "05:30"
+    },
+    {
+      "text": "I will destroy this land with Raigou and then set out for Fairy Vearth.",
+      "speaker": "Enel",
+      "context": "Enel revealing his destructive plan",
+      "timestamp": "21:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Inherited Will",
+      "description": "The episode emphasizes how the will and dreams of ancestors are inherited and carried forward by their descendants. Cricket seeks to clear Noland's name, while Wyper fights to honor Kalgara's memory.",
+      "symbolism": "The Golden Bell represents the promise between Noland and Kalgara that transcends death and time.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Sacrifice and Determination",
+      "description": "Multiple characters demonstrate their willingness to sacrifice themselves for their beliefs and friends. Wyper uses the devastating Reject Dial despite his injuries, and Nami risks her life to help Luffy.",
+      "symbolism": "The Reject Dial symbolizes the cost of determination - achieving one's goals sometimes requires personal sacrifice.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Teamwork and Trust",
+      "description": "The episode showcases how the Straw Hats and their allies work together to accomplish what no individual could do alone. Each character contributes their unique abilities to topple Giant Jack.",
+      "symbolism": "Giant Jack represents an insurmountable obstacle that can only be overcome through combined effort and trust.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Dramatic", "Determined", "Emotional"],
+  "characterSpotlights": [
+    {
+      "characterId": "wyper",
+      "role": "Supporting hero",
+      "development": "Wyper demonstrates tremendous character growth by choosing to help the Straw Hats after learning about Luffy's true motivation. His use of the Reject Dial shows his willingness to sacrifice himself for the greater good.",
+      "keyActions": [
+        "Learns about Cricket and Noland's connection from Robin",
+        "Decides to help fell Giant Jack despite being severely wounded",
+        "Uses the Reject Dial to successfully topple the beanstalk"
+      ],
+      "quotes": ["For Kalgara... for all the Shandia!"]
+    },
+    {
+      "characterId": "nami",
+      "role": "Strategist and supporter",
+      "development": "Nami shows her tactical brilliance and loyalty by devising the plan to cut down Giant Jack. She also demonstrates personal growth by choosing to stay in danger rather than flee to safety.",
+      "keyActions": [
+        "Devises the plan to cut down Giant Jack westward",
+        "Writes instructions on a leaf for the crew below",
+        "Decides to stay and help Luffy reach Enel",
+        "Rides the waver with Luffy up the falling beanstalk"
+      ],
+      "quotes": ["I won't leave because Luffy can't steer the waver."]
+    },
+    {
+      "characterId": "robin",
+      "role": "Information provider",
+      "development": "Robin serves as the bridge between past and present, using her knowledge to help Wyper understand the bigger picture and align his goals with the Straw Hats.",
+      "keyActions": [
+        "Reveals Noland's connection to Cricket to Wyper",
+        "Explains why Luffy wants to ring the Golden Bell"
+      ],
+      "quotes": ["Mont Blanc Noland has a descendant that is searching for the Gold City. That's the reason why Luffy wants to ring the Golden Bell."]
+    },
+    {
+      "characterId": "enel",
+      "role": "Antagonist",
+      "development": "Enel's megalomania and god complex reach their peak as he prepares to destroy all of Skypiea. His discovery of the Golden Bell and his plan for Raigou establish him as a truly dangerous threat.",
+      "keyActions": [
+        "Discovers and admires the Golden Bell",
+        "Prepares the massive Raigou to destroy Skypiea",
+        "Attacks Luffy and Nami with lightning as they approach",
+        "Reveals his plan to depart for Fairy Vearth"
+      ],
+      "quotes": ["Magnificent...", "I will destroy this land with Raigou and then set out for Fairy Vearth."]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime expands Nola's flashback sequence with additional emotional scenes showing the bond between Nola, Kalgara, and Seto.",
+      "episodeTimestamp": "17:30",
+      "mangaReference": "Chapter 296",
+      "type": "EXPANDED_SCENE"
+    },
+    {
+      "difference": "Additional animated sequences showing Enel's lightning attacks and the falling of Giant Jack are extended for dramatic effect.",
+      "episodeTimestamp": "20:15",
+      "mangaReference": "Chapter 296",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode adapts manga chapters 295-297, covering a significant portion of the climax of the Skypiea arc.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_191",
+          "title": "Episode 191 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-01-15"
+        }
+      ]
+    },
+    {
+      "fact": "The Reject Dial used by Wyper is stated to be ten times more powerful than an Impact Dial, but it causes severe damage to the user's body. A normal person would die from using it once.",
+      "category": "WORLD_BUILDING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Wyper",
+          "title": "Wyper - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-01-15"
+        }
+      ]
+    },
+    {
+      "fact": "Nola, the giant serpent, has been alive for over 400 years, making her one of the oldest living creatures introduced in the series at this point.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Nola",
+          "title": "Nola - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-01-15"
+        }
+      ]
+    },
+    {
+      "fact": "The opening theme 'BON VOYAGE!' by Bon-Bon Blanco is the fourth opening of the One Piece anime and was used from episode 169 to 206.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/BON_VOYAGE!",
+          "title": "BON VOYAGE! - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-01-15"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
