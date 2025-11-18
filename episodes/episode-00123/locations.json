@@ -1,0 +1,148 @@
+[
+  {
+    "id": "tomb-of-the-kings",
+    "name": {
+      "english": "Tomb of the Kings",
+      "japanese": "王家の墓",
+      "romanized": "Ōke no Haka"
+    },
+    "locationType": "UNDERGROUND_CHAMBER",
+    "seaRegion": "PARADISE",
+    "islandName": "Alabasta",
+    "debutEpisode": 123,
+    "debutChapter": 202,
+    "description": "An ancient underground tomb located beneath Alubarna, the capital of the Arabasta Kingdom. The tomb houses the burial sites of past kings and contains a hidden chamber with a Poneglyph that has been protected by the royal family for generations. The chamber features large columns, a sarcophagus, and statues depicting sea cats. Deep within lies the Arabasta Poneglyph Chamber containing information about the kingdom's history.",
+    "episodeAppearances": [123],
+    "keyEvents": [
+      {
+        "episodeNumber": 123,
+        "eventId": "ep123-event-003",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Crocodile Arrives at the Tomb",
+        "description": "Crocodile enters the Tomb of the Kings where Robin and King Cobra are located with the Poneglyph.",
+        "significance": "The location where Crocodile's entire plan reaches its culmination and ultimately fails.",
+        "timestamp": "09:15"
+      },
+      {
+        "episodeNumber": 123,
+        "eventId": "ep123-event-004",
+        "eventType": "WORLD_LORE",
+        "title": "The Poneglyph is Read",
+        "description": "Nico Robin reads the Poneglyph in the tomb at Crocodile's demand, revealing it contains only historical information about Arabasta.",
+        "significance": "Critical moment where the ancient secrets of Alabasta are revealed, though not the information Crocodile sought.",
+        "timestamp": "12:45"
+      },
+      {
+        "episodeNumber": 123,
+        "eventId": "ep123-event-005",
+        "eventType": "MAJOR_DECISION",
+        "title": "Crocodile Betrays Robin in the Tomb",
+        "description": "Within the tomb, Crocodile stabs Robin after she reveals the Poneglyph doesn't mention Pluton.",
+        "significance": "The tomb becomes the site of one of the series' most significant betrayals.",
+        "timestamp": "14:20"
+      },
+      {
+        "episodeNumber": 123,
+        "eventId": "ep123-event-006",
+        "eventType": "MAJOR_DECISION",
+        "title": "Self-Destruct Mechanism Activated",
+        "description": "King Cobra activates a mechanism that will cause the tomb to collapse and bury everyone inside.",
+        "significance": "The tomb's destruction is initiated to prevent Crocodile from escaping with dangerous knowledge.",
+        "timestamp": "16:00"
+      }
+    ],
+    "status": "COLLAPSING",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 123,
+        "episodeEnd": 123,
+        "reason": "Ancient tomb that has stood for generations"
+      },
+      {
+        "status": "COLLAPSING",
+        "episodeStart": 123,
+        "episodeEnd": 126,
+        "reason": "King Cobra activated the self-destruct mechanism to stop Crocodile"
+      }
+    ],
+    "parentLocation": "alubarna",
+    "childLocations": ["poneglyph-chamber"],
+    "relatedCharacters": ["crocodile", "nico-robin", "cobra", "luffy"],
+    "relatedCrews": [],
+    "relatedArcs": ["Arabasta Arc"],
+    "images": [],
+    "culturalSignificance": "The Tomb of the Kings represents the sacred history of Alabasta and the responsibility of the Nefertari royal family to protect ancient secrets. It houses a Poneglyph, making it one of the few locations in the world with access to knowledge from the Void Century. The tomb's design with sea cat statues reflects Alabasta's desert culture and ancient civilization.",
+    "historicalEvents": [
+      "Built centuries ago to house the remains of Alabasta's kings",
+      "Chosen as the hiding place for a Poneglyph by ancient ancestors",
+      "Protected by the Nefertari family for generations",
+      "Site of Crocodile's defeat and the climax of Operation Utopia"
+    ]
+  },
+  {
+    "id": "alubarna",
+    "name": {
+      "english": "Alubarna",
+      "japanese": "アルバーナ",
+      "romanized": "Arubāna"
+    },
+    "locationType": "CITY",
+    "seaRegion": "PARADISE",
+    "islandName": "Alabasta",
+    "debutEpisode": 92,
+    "debutChapter": 155,
+    "description": "The capital city of the Alabasta Kingdom, featuring the royal palace where King Cobra resides. The city becomes a battlefield during Crocodile's Operation Utopia.",
+    "episodeAppearances": [123],
+    "keyEvents": [
+      {
+        "episodeNumber": 123,
+        "eventId": "ep123-event-001",
+        "eventType": "POWER_REVEAL",
+        "title": "Luffy Revives in Alubarna",
+        "description": "Luffy revives from Crocodile's dehydration attack when water falls on him somewhere in the city.",
+        "significance": "The location where Luffy makes his miraculous recovery before the final battle.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 123,
+        "eventId": "ep123-event-002",
+        "eventType": "RELATIONSHIP_REVEAL",
+        "title": "Tashigi Directs Luffy",
+        "description": "Tashigi helps Luffy find the route to the Tomb of the Kings where Crocodile went.",
+        "significance": "Shows the moral complexity of the Marines' involvement in Alabasta.",
+        "timestamp": "06:30"
+      },
+      {
+        "episodeNumber": 123,
+        "eventId": "ep123-event-008",
+        "eventType": "MAJOR_DECISION",
+        "title": "Searching for the Bomb",
+        "description": "The Straw Hat crew, Vivi, and Pell continue searching Alubarna for the hidden bomb that threatens to destroy the city.",
+        "significance": "The city faces imminent destruction if the bomb isn't found.",
+        "timestamp": "20:00"
+      }
+    ],
+    "status": "ENDANGERED",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 92,
+        "episodeEnd": 122,
+        "reason": "Functioning as the capital city of Alabasta"
+      },
+      {
+        "status": "ENDANGERED",
+        "episodeStart": 120,
+        "episodeEnd": 126,
+        "reason": "Under threat from a hidden bomb planted by Baroque Works"
+      }
+    ],
+    "parentLocation": "alabasta",
+    "childLocations": ["tomb-of-the-kings", "royal-palace"],
+    "relatedCharacters": ["cobra", "vivi", "luffy", "crocodile", "tashigi"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Arabasta Arc"],
+    "images": []
+  }
+]

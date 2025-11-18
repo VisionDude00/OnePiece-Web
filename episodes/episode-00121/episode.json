@@ -1,0 +1,636 @@
+{
+  "episodeNumber": 121,
+  "episodeTitle": "Vivi's Voice Goes Unheard! A Hero Descends!",
+  "episodeTitleJapanese": "ビビの声の行方!英雄は舞い降りた!",
+  "episodeTitleRomanized": "Bibi no Koe no Yukue! Hīrō wa Maiorita!",
+  "description": "Koza desperately tries to stop the rebel army from fighting, but Baroque Works infiltrators on both sides escalate the violence. When Crocodile captures Vivi and drops her from a cliff, Luffy arrives dramatically on Pell's back to save her and challenges Crocodile to a rematch, revealing he has discovered the Warlord's weakness: water.",
+  "airDate": "2002-08-11",
+  "airDateJapan": "2002-08-11",
+  "airDateUS": "2010-03-16",
+  "arcName": "Alabasta Arc",
+  "sagaName": "Alabasta Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Hikari e",
+    "titleJapanese": "ヒカリへ",
+    "artist": "The Babystars",
+    "episodeRange": [116, 168]
+  },
+  "endingSong": {
+    "title": "Shining ray",
+    "artist": "Janne Da Arc",
+    "episodeRange": [119, 132]
+  },
+  "credits": {
+    "director": "Harume Kosaka",
+    "screenplayWriter": "Junki Takegami",
+    "artDirection": ["Miyuki Sato", "Michiyo Kawasaki"],
+    "animation": ["Natsuko Makiyo"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Misa Watanabe"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Crocodile",
+        "actor": "Ryuzaburo Otomo"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Koza",
+        "actor": "Takeshi Kusao"
+      },
+      {
+        "character": "Pell",
+        "actor": "Kenji Nomura"
+      },
+      {
+        "character": "Chaka",
+        "actor": "Keiichi Sonobe"
+      },
+      {
+        "character": "Nefertari Cobra",
+        "actor": "Toshiya Ueda"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Caitlin Glass"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Crocodile",
+        "actor": "John Swasey"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Koza",
+        "actor": "Todd Haberkorn"
+      },
+      {
+        "character": "Pell",
+        "actor": "Kevin M. Connolly"
+      },
+      {
+        "character": "Chaka",
+        "actor": "Robert McCollum"
+      },
+      {
+        "character": "Nefertari Cobra",
+        "actor": "John Gremillion"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep121-event-001",
+      "episodeNumber": 121,
+      "timestamp": "03:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Civil War Erupts in Alubarna",
+      "description": "The rebel army and royal guards clash violently in Alubarna's palace square. Koza and the rebels charge forward as the battle between the two armies officially begins in full force.",
+      "significance": "This marks the full-scale outbreak of the civil war that Baroque Works has been orchestrating for years. The tragedy is that both sides are being manipulated and don't know the true enemy.",
+      "characterIds": ["koza", "chaka", "cobra"],
+      "locationIds": ["alubarna-palace"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [110, 119, 120],
+      "payoffInEpisodes": [122, 123, 124, 125],
+      "callbacksToEpisodes": [100, 110]
+    },
+    {
+      "id": "ep121-event-002",
+      "episodeNumber": 121,
+      "timestamp": "05:15",
+      "eventType": "BATTLE_END",
+      "severity": "CRITICAL",
+      "title": "Koza Shot by Baroque Works Infiltrator",
+      "description": "Koza is shot by a Baroque Works agent disguised as a Royal Guard. As he collapses, bleeding, he desperately tries to tell the rebel army to stop fighting, but his voice cannot be heard over the chaos of battle.",
+      "significance": "This is a pivotal moment showing how Baroque Works manipulates both sides to ensure the fighting continues. Koza, who wanted to stop the war, becomes a victim of the very conflict he tried to prevent.",
+      "characterIds": ["koza"],
+      "locationIds": ["alubarna-palace"],
+      "quotes": [
+        {
+          "text": "Stop... don't fight...",
+          "speaker": "Koza",
+          "context": "Koza's desperate plea as he collapses from being shot"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [120],
+      "payoffInEpisodes": [125],
+      "callbacksToEpisodes": [100, 110]
+    },
+    {
+      "id": "ep121-event-003",
+      "episodeNumber": 121,
+      "timestamp": "07:00",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Baroque Works Agents Revealed on Both Sides",
+      "description": "The Royal Guards confront the soldier who shot Koza, exposing him as a Baroque Works infiltrator. It becomes clear that Baroque Works has planted agents within both the rebel army and the royal guards to ensure the fighting continues.",
+      "significance": "This reveals the full extent of Crocodile's manipulation scheme. By having agents on both sides firing shots and escalating violence, Baroque Works ensures that neither army can stop fighting, even when leaders like Koza try to intervene.",
+      "characterIds": ["koza", "chaka"],
+      "locationIds": ["alubarna-palace"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [110, 120],
+      "payoffInEpisodes": [125],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep121-event-004",
+      "episodeNumber": 121,
+      "timestamp": "08:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Sandstorm Obscures the Battlefield",
+      "description": "A massive sandstorm suddenly blows through the palace courtyard, obscuring the battlefield and creating chaos. In the confusion, Baroque Works agents on both sides fire more shots at the opposing armies, triggering a renewed clash.",
+      "significance": "The sandstorm (likely created or manipulated by Crocodile) provides perfect cover for Baroque Works' infiltrators to escalate the violence. The reduced visibility makes it impossible for either side to identify who is really attacking them.",
+      "characterIds": ["crocodile"],
+      "locationIds": ["alubarna-palace"],
+      "devilFruitIds": ["suna-suna-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [110],
+      "payoffInEpisodes": [122, 125],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep121-event-005",
+      "episodeNumber": 121,
+      "timestamp": "10:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Vivi's Voice Cannot Be Heard",
+      "description": "Princess Vivi desperately tries to stop the fighting by calling out to both armies, but her voice is completely drowned out by the sounds of battle, gunfire, and the roaring sandstorm. Neither side can hear her pleas for peace.",
+      "significance": "This moment embodies the episode's title and the tragedy of the Alabasta conflict. Despite Vivi's best efforts and pure intentions, the manipulation and violence have reached a point where peaceful words cannot stop the momentum of war.",
+      "characterIds": ["vivi"],
+      "locationIds": ["alubarna-palace"],
+      "quotes": [
+        {
+          "text": "Stop fighting! Please, everyone stop!",
+          "speaker": "Vivi",
+          "context": "Vivi's desperate but unheard pleas to stop the civil war"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [110, 119, 120],
+      "payoffInEpisodes": [123, 125],
+      "callbacksToEpisodes": [100]
+    },
+    {
+      "id": "ep121-event-006",
+      "episodeNumber": 121,
+      "timestamp": "13:00",
+      "eventType": "BATTLE_START",
+      "severity": "CRITICAL",
+      "title": "Crocodile Captures Vivi",
+      "description": "Crocodile appears and captures Princess Vivi, grabbing her by the neck. He tells her she was too weak to maintain such zealous ideals and mocks her efforts to stop the war.",
+      "significance": "This represents Crocodile's complete disregard for Vivi's determination and efforts. Having orchestrated the entire civil war, he sees her attempts at peace as naive weakness.",
+      "characterIds": ["crocodile", "vivi"],
+      "locationIds": ["alubarna-palace"],
+      "quotes": [
+        {
+          "text": "You're too weak to have such zealous ideals.",
+          "speaker": "Crocodile",
+          "context": "Crocodile mocking Vivi as he captures her"
+        },
+        {
+          "text": "As the princess of this country, I will never yield to you or give up!",
+          "speaker": "Vivi",
+          "context": "Vivi's defiant response even while captured"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [110],
+      "payoffInEpisodes": [121, 122],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep121-event-007",
+      "episodeNumber": 121,
+      "timestamp": "14:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Crocodile Acknowledges Vivi's Spy Work",
+      "description": "Crocodile notes that Vivi had been working as a spy in Baroque Works for two years, acknowledging her infiltration efforts while dismissing them as ultimately futile.",
+      "significance": "This reminds viewers of Vivi's courage in infiltrating the criminal organization and the personal risk she took to uncover Crocodile's plot. It also shows Crocodile was aware of her the entire time.",
+      "characterIds": ["crocodile", "vivi"],
+      "locationIds": ["alubarna-palace"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [62, 63, 64],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [62, 63, 64]
+    },
+    {
+      "id": "ep121-event-008",
+      "episodeNumber": 121,
+      "timestamp": "15:45",
+      "eventType": "DEATH",
+      "severity": "CRITICAL",
+      "title": "Crocodile Drops Vivi Off the Cliff",
+      "description": "In a cruel display of power, Crocodile drops Princess Vivi off a massive cliff at the palace, sending her plummeting toward almost certain death on the rocks below.",
+      "significance": "This is one of the darkest moments in the Alabasta arc, showing Crocodile's ruthlessness and willingness to kill even royalty. It appears to be the end for Vivi until an unexpected hero arrives.",
+      "characterIds": ["crocodile", "vivi"],
+      "locationIds": ["alubarna-palace"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [121],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep121-event-009",
+      "episodeNumber": 121,
+      "timestamp": "17:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "CRITICAL",
+      "title": "Luffy Arrives on Pell's Back - The Hero Descends",
+      "description": "In a dramatic and triumphant moment, Monkey D. Luffy arrives flying through the air on the back of Pell (in his falcon form), shocking everyone, especially Crocodile. Luffy and Pell catch Vivi mid-fall, saving her from certain death.",
+      "significance": "This is the emotional climax of the episode and fulfills the title's promise of 'a hero descends.' After being defeated by Crocodile in Episode 110 and carried away unconscious, Luffy returns at the crucial moment to save Vivi and challenge Crocodile again. It's one of the most iconic hero entrances in the series.",
+      "characterIds": ["luffy", "pell", "vivi", "crocodile"],
+      "locationIds": ["alubarna-palace"],
+      "quotes": [
+        {
+          "text": "Luffy!",
+          "speaker": "Vivi",
+          "context": "Vivi's shocked and relieved cry as Luffy catches her"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [110, 118, 119, 120],
+      "payoffInEpisodes": [122, 123],
+      "callbacksToEpisodes": [110]
+    },
+    {
+      "id": "ep121-event-010",
+      "episodeNumber": 121,
+      "timestamp": "18:30",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Vivi Reveals the Bomb Threat",
+      "description": "As Luffy and Pell save her, Vivi tearfully tells them about the massive bomb that Baroque Works has planted in the palace square. The bomb is set to explode at a specific time and will kill everyone in the area - both rebels and royal guards.",
+      "significance": "This reveals the true depth of Crocodile's evil plan - he doesn't just want the armies to fight, he wants them all dead. The bomb represents his ultimate betrayal of everyone in Alabasta.",
+      "characterIds": ["vivi", "luffy", "pell"],
+      "locationIds": ["alubarna-palace"],
+      "quotes": [
+        {
+          "text": "There's a bomb in the central square! It's going to explode and kill everyone!",
+          "speaker": "Vivi",
+          "context": "Vivi's desperate warning about the bomb planted by Baroque Works"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [120],
+      "payoffInEpisodes": [122, 123, 124, 125],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep121-event-011",
+      "episodeNumber": 121,
+      "timestamp": "19:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Pell Decides to Help Find the Bomb",
+      "description": "After learning about the bomb threat, Pell immediately commits to helping locate and stop it. As one of Alabasta's guardians, he takes on the responsibility to protect the kingdom and its people.",
+      "significance": "This sets up Pell's crucial role in the later episodes and demonstrates the loyalty of Alabasta's guardians to their kingdom and people, even in the face of extreme danger.",
+      "characterIds": ["pell", "vivi"],
+      "locationIds": ["alubarna-palace"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [125],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep121-event-012",
+      "episodeNumber": 121,
+      "timestamp": "20:00",
+      "eventType": "BATTLE_START",
+      "severity": "CRITICAL",
+      "title": "Luffy Challenges Crocodile to a Rematch",
+      "description": "After saving Vivi, Luffy confronts Crocodile directly, challenging him to a rematch. Unlike their first battle where Luffy was completely outmatched, Luffy now stands before Crocodile with renewed determination and confidence.",
+      "significance": "This sets up the climactic rematch between Luffy and Crocodile. After his devastating defeat in Episode 110, Luffy returns stronger and with a strategy to defeat the Warlord.",
+      "characterIds": ["luffy", "crocodile"],
+      "locationIds": ["alubarna-palace"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [110],
+      "payoffInEpisodes": [122, 123],
+      "callbacksToEpisodes": [110]
+    },
+    {
+      "id": "ep121-event-013",
+      "episodeNumber": 121,
+      "timestamp": "21:15",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Luffy Reveals Water is Crocodile's Weakness",
+      "description": "Luffy reveals that he has discovered Crocodile's weakness: water. He explains that during their first fight, when water from Yuba spilled on Crocodile, it prevented him from turning into sand. This is why Crocodile stole Alabasta's rain - to eliminate his weakness.",
+      "significance": "This is a crucial plot revelation that explains both how Luffy can fight Crocodile and why Crocodile orchestrated the drought in Alabasta. It shows Luffy's growth and ability to learn from his defeats.",
+      "characterIds": ["luffy", "crocodile"],
+      "locationIds": ["alubarna-palace"],
+      "devilFruitIds": ["suna-suna-no-mi"],
+      "quotes": [
+        {
+          "text": "Water is your weakness! That's why you stole Alabasta's rain!",
+          "speaker": "Luffy",
+          "context": "Luffy revealing his discovery of Crocodile's weakness"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [110],
+      "payoffInEpisodes": [122],
+      "callbacksToEpisodes": [110]
+    },
+    {
+      "id": "ep121-event-014",
+      "episodeNumber": 121,
+      "timestamp": "22:00",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Luffy Carries a Barrel of Water",
+      "description": "Luffy arrives with his trump card: a large barrel full of water strapped to his back. This water is his weapon to neutralize Crocodile's sand powers and make him vulnerable to physical attacks.",
+      "significance": "This represents Luffy's strategic thinking and preparation for the rematch. Unlike their first encounter where he had no way to harm Crocodile, he now comes prepared with a specific counter to the Warlord's Devil Fruit powers.",
+      "characterIds": ["luffy", "crocodile"],
+      "locationIds": ["alubarna-palace"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [110],
+      "payoffInEpisodes": [122],
+      "callbacksToEpisodes": [110]
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [122, 123, 124, 125],
+    "payoffFrom": [100, 110, 119, 120],
+    "thematicLinks": [100, 110, 122, 123, 125, 130]
+  },
+  "quotes": [
+    {
+      "text": "Stop... don't fight...",
+      "speaker": "Koza",
+      "context": "Koza's desperate plea as he collapses from being shot by a Baroque Works infiltrator",
+      "timestamp": "05:15"
+    },
+    {
+      "text": "Stop fighting! Please, everyone stop!",
+      "speaker": "Vivi",
+      "context": "Vivi's desperate but unheard pleas to stop the civil war",
+      "timestamp": "10:45"
+    },
+    {
+      "text": "You're too weak to have such zealous ideals.",
+      "speaker": "Crocodile",
+      "context": "Crocodile mocking Vivi as he captures her",
+      "timestamp": "13:00"
+    },
+    {
+      "text": "As the princess of this country, I will never yield to you or give up!",
+      "speaker": "Vivi",
+      "context": "Vivi's defiant response even while captured by Crocodile",
+      "timestamp": "13:00"
+    },
+    {
+      "text": "Luffy!",
+      "speaker": "Vivi",
+      "context": "Vivi's shocked and relieved cry as Luffy catches her mid-fall",
+      "timestamp": "17:00"
+    },
+    {
+      "text": "There's a bomb in the central square! It's going to explode and kill everyone!",
+      "speaker": "Vivi",
+      "context": "Vivi's desperate warning about the bomb planted by Baroque Works",
+      "timestamp": "18:30"
+    },
+    {
+      "text": "Water is your weakness! That's why you stole Alabasta's rain!",
+      "speaker": "Luffy",
+      "context": "Luffy revealing his discovery of Crocodile's weakness",
+      "timestamp": "21:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Manipulation and War",
+      "description": "The episode powerfully illustrates how easily conflict can be manipulated by outside forces. Baroque Works' infiltrators on both sides ensure that even those who want peace (like Koza and Vivi) cannot stop the violence.",
+      "symbolism": "The sandstorm represents the obscuring of truth - neither side can see who their real enemy is through the chaos.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Futility of Unheard Voices",
+      "description": "Both Koza and Vivi try desperately to stop the fighting, but their voices literally cannot be heard over the sounds of war. This represents how once violence reaches a certain momentum, peaceful words become powerless.",
+      "symbolism": "Vivi's unheard voice in the title represents the tragedy of well-intentioned leaders unable to stop conflicts they didn't start.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Heroic Arrival",
+      "description": "Luffy's dramatic entrance represents the archetypal hero arriving at the darkest moment. When all seems lost and Vivi is falling to her death, Luffy descends from the sky to save her.",
+      "symbolism": "Luffy arriving on Pell (the falcon guardian) symbolizes hope descending from above when it's needed most.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Learning from Defeat",
+      "description": "Luffy's return shows his growth from his crushing defeat in Episode 110. Rather than giving up, he analyzed his loss, discovered his enemy's weakness, and returned with a strategy.",
+      "symbolism": "The barrel of water represents preparation, learning, and adaptation - turning knowledge into power.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Sacrifice and Duty",
+      "description": "Koza sacrifices himself trying to stop the war, while Pell immediately commits to finding the bomb despite the danger. The episode shows characters willing to risk everything for their ideals and their people.",
+      "symbolism": "Koza being shot while trying to raise the white flag represents the tragedy of peace advocates becoming casualties of the conflicts they try to end.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tragic", "Desperate", "Triumphant", "Suspenseful", "Intense"],
+  "characterSpotlights": [
+    {
+      "characterId": "vivi",
+      "role": "Emotional center and victim",
+      "development": "Vivi experiences the ultimate failure of her peace efforts as her voice literally cannot be heard, then faces death at Crocodile's hands. Her rescue by Luffy represents hope that she doesn't have to carry this burden alone.",
+      "keyActions": [
+        "Desperately tries to stop the fighting but cannot be heard",
+        "Defies Crocodile even while captured",
+        "Warns Luffy about the bomb after being rescued"
+      ],
+      "quotes": [
+        "Stop fighting! Please, everyone stop!",
+        "As the princess of this country, I will never yield to you or give up!",
+        "There's a bomb in the central square! It's going to explode and kill everyone!"
+      ]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Returning hero",
+      "development": "Luffy makes his triumphant return after his defeat in Episode 110, demonstrating that he has learned from his loss and discovered how to fight Crocodile. His dramatic entrance represents hope and determination.",
+      "keyActions": [
+        "Arrives dramatically on Pell's back",
+        "Saves Vivi from falling to her death",
+        "Reveals Crocodile's weakness is water",
+        "Challenges Crocodile to a rematch with a barrel of water"
+      ],
+      "quotes": [
+        "Water is your weakness! That's why you stole Alabasta's rain!"
+      ]
+    },
+    {
+      "characterId": "koza",
+      "role": "Tragic peace advocate",
+      "development": "Koza demonstrates his growth from rebel leader to peace seeker, but becomes a victim of the very war he tried to stop. His shooting shows the cruel reality of Baroque Works' manipulation.",
+      "keyActions": [
+        "Tries to stop the rebel army from fighting",
+        "Is shot by a Baroque Works infiltrator",
+        "Desperately tries to tell everyone to stop fighting as he collapses"
+      ],
+      "quotes": [
+        "Stop... don't fight..."
+      ]
+    },
+    {
+      "characterId": "crocodile",
+      "role": "Ruthless antagonist",
+      "development": "Crocodile's cruelty reaches new heights as he mocks Vivi's ideals, acknowledges her spy work as futile, and attempts to kill her by dropping her off a cliff. His shock at Luffy's return shows a rare moment of surprise.",
+      "keyActions": [
+        "Captures Vivi and mocks her ideals",
+        "Drops Vivi off a cliff to kill her",
+        "Is shocked by Luffy's unexpected arrival",
+        "Faces the revelation that Luffy knows his weakness"
+      ],
+      "quotes": [
+        "You're too weak to have such zealous ideals."
+      ]
+    },
+    {
+      "characterId": "pell",
+      "role": "Guardian and rescuer",
+      "development": "Pell serves as the means of Luffy's dramatic return and proves his worth as one of Alabasta's guardians by helping save Vivi and committing to stop the bomb threat.",
+      "keyActions": [
+        "Carries Luffy to Alubarna",
+        "Helps catch Vivi mid-fall",
+        "Commits to helping find and stop the bomb"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends several dramatic moments, including Vivi's fall and Luffy's arrival, with additional animation and reaction shots not present in the manga.",
+      "episodeTimestamp": "15:45-17:30",
+      "mangaReference": "Chapters 198-199",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "The sandstorm obscuring the battlefield is given more visual emphasis in the anime with extended animation sequences.",
+      "episodeTimestamp": "08:30",
+      "mangaReference": "Chapter 198",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode adapts manga chapters 198 ('4:15 PM') and 199 ('Hope!!'), with the chapter titles referencing the countdown to the bomb and Luffy's arrival as a symbol of hope.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_121",
+          "title": "Episode 121 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Luffy's dramatic arrival on Pell's back is one of the most iconic hero entrances in the Alabasta arc and demonstrates the 'hero descends' trope common in shonen anime.",
+      "category": "NARRATIVE",
+      "sources": []
+    },
+    {
+      "fact": "This episode's Japanese air date (August 11, 2002) had a TV rating of 11.2%, ranking 7th for that week in Japan.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_121",
+          "title": "Episode 121 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The revelation that water is Crocodile's weakness not only provides a way for Luffy to fight him, but also retroactively explains why Crocodile wanted to create a drought in Alabasta - eliminating the one thing that could counter his powers.",
+      "category": "WORLDBUILDING",
+      "sources": []
+    },
+    {
+      "fact": "This episode marks Luffy's first appearance since Episode 118, making his return even more impactful for viewers who had been watching the other Straw Hats' battles for several episodes.",
+      "category": "NARRATIVE",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

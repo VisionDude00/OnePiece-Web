@@ -1,0 +1,469 @@
+{
+  "episodeNumber": 123,
+  "episodeTitle": "That Looks Croc-ish! Luffy, Run to the Royal Tomb!",
+  "episodeTitleJapanese": "ワニっぽい！王家の墓へ走れルフィ！",
+  "episodeTitleRomanized": "Wanippoi! Ōke no haka e hashire Rufi!",
+  "episodeTitle4Kids": "The Crypt Script",
+  "description": "Luffy miraculously revives when water falls on him after being defeated by Crocodile. He races to the Tomb of the Kings to confront Crocodile once more. Meanwhile, Crocodile forces Robin to translate the Poneglyph, but when she reveals it doesn't mention Pluton, he betrays and stabs her. King Cobra activates a self-destruct mechanism to stop Crocodile, while the Straw Hats desperately search for the hidden bomb.",
+  "airDate": "2002-08-25",
+  "airDateJapan": "2002-08-25",
+  "airDateUS": "2010-03-16",
+  "airDate4Kids": "2007-05-26",
+  "arcName": "Arabasta Arc",
+  "sagaName": "Arabasta Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Hikari e",
+    "titleJapanese": "ヒカリへ",
+    "artist": "The Babystars",
+    "episodeRange": [116, 168]
+  },
+  "endingSong": {
+    "title": "Shining ray",
+    "artist": "Janne Da Arc",
+    "episodeRange": [119, 132]
+  },
+  "credits": {
+    "writer": "Michiru Shimada",
+    "director": "Junji Shimizu",
+    "animationDirector": "Kenji Yokoyama",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Sir Crocodile",
+        "actor": "Ryuzaburo Otomo"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Nefertari Cobra",
+        "actor": "Toshiya Ueda"
+      },
+      {
+        "character": "Tashigi",
+        "actor": "Junko Noda"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Misa Watanabe"
+      },
+      {
+        "character": "Pell",
+        "actor": "Kenji Nomura"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Sir Crocodile",
+        "actor": "John Swasey"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep123-event-001",
+      "episodeNumber": 123,
+      "timestamp": "03:45",
+      "eventType": "POWER_REVEAL",
+      "severity": "MINOR",
+      "title": "Luffy Revives from Crocodile's Dehydration",
+      "description": "After being defeated and dehydrated by Crocodile, Luffy is miraculously revived when the water he had shot at Crocodile earlier falls back down on him. This allows him to recover and continue his pursuit of the villain.",
+      "significance": "Demonstrates Luffy's incredible resilience and sets up the third confrontation between Luffy and Crocodile. Shows that water can counter Crocodile's powers.",
+      "characterIds": ["luffy", "crocodile"],
+      "locationIds": ["alubarna"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [122],
+      "payoffInEpisodes": [124, 125, 126],
+      "callbacksToEpisodes": [110, 122]
+    },
+    {
+      "id": "ep123-event-002",
+      "episodeNumber": 123,
+      "timestamp": "06:30",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MINOR",
+      "title": "Tashigi Helps Luffy Find Crocodile",
+      "description": "Despite being a Marine, Tashigi directs Luffy toward the route Crocodile took to the Tomb of the Kings. She struggles with the decision but ultimately helps him, showing her conflicted feelings about justice and the situation in Alabasta.",
+      "significance": "Highlights Tashigi's moral complexity and her willingness to bend the rules when confronted with greater injustice. Continues to develop her relationship with the Straw Hats.",
+      "characterIds": ["luffy", "tashigi"],
+      "locationIds": ["alubarna"],
+      "quotes": [
+        {
+          "text": "That way... he went that way.",
+          "speaker": "Tashigi",
+          "context": "Tashigi reluctantly helps Luffy find Crocodile despite being a Marine"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [61, 122],
+      "payoffInEpisodes": [124],
+      "callbacksToEpisodes": [61]
+    },
+    {
+      "id": "ep123-event-003",
+      "episodeNumber": 123,
+      "timestamp": "09:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Crocodile Arrives at the Tomb of the Kings",
+      "description": "Crocodile enters the Tomb of the Kings where Nico Robin and King Cobra are located with the Poneglyph. This marks the beginning of the climactic confrontation and the revelation about Pluton.",
+      "significance": "Sets the stage for Crocodile's ultimate goal being revealed and his subsequent betrayal of Robin. This is the moment his entire plan reaches its culmination.",
+      "characterIds": ["crocodile", "nico-robin", "cobra"],
+      "locationIds": ["tomb-of-the-kings"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [110, 118, 122],
+      "payoffInEpisodes": [123, 124, 125],
+      "callbacksToEpisodes": [110]
+    },
+    {
+      "id": "ep123-event-004",
+      "episodeNumber": 123,
+      "timestamp": "12:45",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Robin Reads the Poneglyph",
+      "description": "Nico Robin reads the Poneglyph in the Tomb of the Kings at Crocodile's demand. She discovers that the Poneglyph contains only historical information about the Arabasta Kingdom and does not mention the location of the ancient weapon Pluton.",
+      "significance": "Critical revelation that the Poneglyph Crocodile sought doesn't contain information about Pluton, showing that his entire Operation Utopia was based on incomplete intelligence. This is a major plot point in the Ancient Weapons storyline.",
+      "characterIds": ["nico-robin", "crocodile", "cobra"],
+      "locationIds": ["tomb-of-the-kings"],
+      "devilFruitIds": [],
+      "crewIds": [],
+      "quotes": [
+        {
+          "text": "Nothing of the name Pluton is mentioned.",
+          "speaker": "Nico Robin",
+          "context": "Robin reveals to Crocodile that the Poneglyph doesn't contain information about Pluton"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [110, 118, 122],
+      "payoffInEpisodes": [123],
+      "callbacksToEpisodes": [110]
+    },
+    {
+      "id": "ep123-event-005",
+      "episodeNumber": 123,
+      "timestamp": "14:20",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Crocodile Stabs Nico Robin",
+      "description": "After Robin reveals that the Poneglyph doesn't mention Pluton, Crocodile accuses her of lying and stabs her with his poisoned hook, declaring she is no longer useful to him. He admits he never trusted her during their four years working together in Baroque Works.",
+      "significance": "Marks the end of the Crocodile-Robin partnership and reveals Crocodile's ruthless nature. This betrayal is a turning point that leads to Robin being saved by the Straw Hats and eventually joining their crew. It's one of the most shocking villain betrayals in the series.",
+      "characterIds": ["crocodile", "nico-robin"],
+      "locationIds": ["tomb-of-the-kings"],
+      "quotes": [
+        {
+          "text": "You've been useful for the four years we've been together. However, you would have to die since you broke your promise.",
+          "speaker": "Crocodile",
+          "context": "Crocodile's cold dismissal of Robin after stabbing her"
+        },
+        {
+          "text": "I never trusted you from the beginning.",
+          "speaker": "Crocodile",
+          "context": "Crocodile reveals his true feelings about Robin"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [67, 110],
+      "payoffInEpisodes": [124, 125, 126, 130],
+      "callbacksToEpisodes": [67, 76]
+    },
+    {
+      "id": "ep123-event-006",
+      "episodeNumber": 123,
+      "timestamp": "16:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "King Cobra Activates Self-Destruct Mechanism",
+      "description": "To prevent Crocodile from escaping with knowledge about the Ancient Weapons and to protect his kingdom's secrets, King Cobra activates a mechanism that will cause the Tomb of the Kings to collapse and bury everyone inside.",
+      "significance": "Shows Cobra's willingness to sacrifice himself to stop Crocodile. This raises the stakes for Luffy's upcoming battle and creates a ticking clock scenario for the final confrontation.",
+      "characterIds": ["cobra", "crocodile"],
+      "locationIds": ["tomb-of-the-kings"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [122],
+      "payoffInEpisodes": [124, 125, 126],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep123-event-007",
+      "episodeNumber": 123,
+      "timestamp": "18:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Luffy Begins Chase to the Tomb",
+      "description": "After recovering from his defeat, Luffy races through Alubarna toward the Tomb of the Kings, determined to stop Crocodile once and for all. This sets up their third and final confrontation.",
+      "significance": "Begins Luffy's final pursuit of Crocodile, setting up the climactic battle of the Arabasta Arc. Shows Luffy's determination despite being defeated twice already.",
+      "characterIds": ["luffy"],
+      "locationIds": ["alubarna", "tomb-of-the-kings"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [110, 122],
+      "payoffInEpisodes": [124, 125, 126],
+      "callbacksToEpisodes": [110, 122]
+    },
+    {
+      "id": "ep123-event-008",
+      "episodeNumber": 123,
+      "timestamp": "20:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Straw Hats Search for the Bomb",
+      "description": "The Straw Hat crew members, along with Vivi and Pell, continue their desperate search for the hidden bomb that threatens to destroy Alubarna. Time is running out as the bomb is set to explode soon.",
+      "significance": "Maintains tension and shows the parallel efforts to save Alabasta - Luffy confronting Crocodile while the crew searches for the bomb. Both must succeed to save the kingdom.",
+      "characterIds": ["zoro", "nami", "usopp", "sanji", "chopper", "vivi", "pell"],
+      "locationIds": ["alubarna"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [120, 121, 122],
+      "payoffInEpisodes": [125, 126],
+      "callbacksToEpisodes": [120]
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": ["tomb-of-the-kings"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [124, 125, 126],
+    "payoffFrom": [110, 120, 121, 122],
+    "thematicLinks": [67, 76, 110, 130]
+  },
+  "quotes": [
+    {
+      "text": "Nothing of the name Pluton is mentioned.",
+      "speaker": "Nico Robin",
+      "context": "Robin reveals the Poneglyph's contents to Crocodile",
+      "timestamp": "12:45"
+    },
+    {
+      "text": "You've been useful for the four years we've been together. However, you would have to die since you broke your promise.",
+      "speaker": "Crocodile",
+      "context": "Crocodile's betrayal of Robin",
+      "timestamp": "14:20"
+    },
+    {
+      "text": "I never trusted you from the beginning.",
+      "speaker": "Crocodile",
+      "context": "Crocodile reveals his true feelings after stabbing Robin",
+      "timestamp": "14:30"
+    },
+    {
+      "text": "That way... he went that way.",
+      "speaker": "Tashigi",
+      "context": "Tashigi helps Luffy find Crocodile's location",
+      "timestamp": "06:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Betrayal and Trust",
+      "description": "The episode centers on Crocodile's betrayal of Robin after years of partnership, revealing that he never trusted her. This theme explores how villains use people as tools and discard them when no longer useful.",
+      "symbolism": "Crocodile's poisoned hook stabbing Robin symbolizes the toxic nature of their relationship and how trust was never truly present.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Resilience and Determination",
+      "description": "Despite being defeated twice, Luffy refuses to give up and continues to pursue Crocodile. His miraculous revival through water demonstrates both literal and metaphorical resilience.",
+      "symbolism": "Water reviving Luffy represents hope and renewal, showing that even in the darkest moments, there's always a chance for recovery.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Sacrifice for the Greater Good",
+      "description": "King Cobra activates the self-destruct mechanism, willing to sacrifice himself to protect his kingdom's secrets and stop Crocodile, showing the responsibilities of leadership.",
+      "symbolism": "The collapsing tomb represents the burial of dangerous knowledge and the price leaders must sometimes pay.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Ancient History and Forbidden Knowledge",
+      "description": "The Poneglyph reading scene explores the theme of dangerous ancient knowledge and how the pursuit of power can lead to destruction.",
+      "symbolism": "The Poneglyph itself represents forbidden knowledge from the Void Century that the World Government wants to keep hidden.",
+      "culturalReferences": ["References to ancient civilizations and lost knowledge"]
+    }
+  ],
+  "emotionalTone": ["Dramatic", "Tense", "Dark", "Suspenseful"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist pursuing villain",
+      "development": "Shows Luffy's incredible resilience and determination, refusing to stay down even after being defeated twice by Crocodile. His miraculous recovery sets up the final confrontation.",
+      "keyActions": [
+        "Revives from Crocodile's dehydration attack",
+        "Asks Tashigi for directions to Crocodile",
+        "Races toward the Tomb of the Kings for the final battle"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "crocodile",
+      "role": "Primary antagonist",
+      "development": "Reveals his true ruthless nature by betraying Robin when she's no longer useful. Shows that his entire plan was built on mistrust and manipulation.",
+      "keyActions": [
+        "Arrives at the Tomb of the Kings",
+        "Demands Robin translate the Poneglyph",
+        "Stabs Robin with his poisoned hook when she reveals Pluton isn't mentioned",
+        "Reveals he never trusted Robin"
+      ],
+      "quotes": [
+        "You've been useful for the four years we've been together. However, you would have to die since you broke your promise.",
+        "I never trusted you from the beginning."
+      ]
+    },
+    {
+      "characterId": "nico-robin",
+      "role": "Victim of betrayal",
+      "development": "Robin's reading of the Poneglyph and subsequent betrayal by Crocodile marks a turning point in her character arc. This moment of vulnerability eventually leads to her joining the Straw Hats.",
+      "keyActions": [
+        "Forces King Cobra to lead her to the Poneglyph",
+        "Reads the Poneglyph to Crocodile",
+        "Reveals that Pluton is not mentioned in the Poneglyph",
+        "Gets stabbed by Crocodile's poisoned hook"
+      ],
+      "quotes": [
+        "Nothing of the name Pluton is mentioned."
+      ]
+    },
+    {
+      "characterId": "cobra",
+      "role": "Sacrificial king",
+      "development": "Shows his willingness to die to protect his kingdom's secrets and stop Crocodile, demonstrating true leadership and sacrifice.",
+      "keyActions": [
+        "Is forced to lead Robin to the Poneglyph",
+        "Activates the self-destruct mechanism for the tomb"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "tashigi",
+      "role": "Conflicted Marine",
+      "development": "Despite being a Marine, Tashigi helps Luffy find Crocodile, showing her growing understanding that justice isn't always black and white.",
+      "keyActions": [
+        "Directs Luffy to where Crocodile went",
+        "Struggles with her decision to help a pirate"
+      ],
+      "quotes": [
+        "That way... he went that way."
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime expanded some scenes of the Straw Hats searching for the bomb to fill time, while the manga kept the focus more tightly on the Poneglyph scene.",
+      "episodeTimestamp": "20:00",
+      "mangaReference": "Chapters 202-203",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode features one of the most significant betrayals in One Piece, with Crocodile stabbing Robin. This moment directly leads to Robin joining the Straw Hat crew later in the arc.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_123",
+          "title": "Episode 123 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The Tomb of the Kings makes its debut in this episode and becomes an important location for the climax of the Arabasta Arc.",
+      "category": "LOCATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Tomb_of_the_Kings",
+          "title": "Tomb of the Kings - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The revelation that the Poneglyph doesn't mention Pluton creates a major plot point that wouldn't be fully resolved until much later in the series when it's revealed Pluton is actually in Wano Country.",
+      "category": "WORLD_BUILDING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Pluton",
+          "title": "Pluton - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode aired on August 25, 2002 in Japan, during the height of the Arabasta Arc's popularity.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_123",
+          "title": "Episode 123 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": [],
+  "mangaChapters": [202, 203]
+}
