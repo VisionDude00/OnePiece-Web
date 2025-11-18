@@ -1,0 +1,136 @@
+[
+  {
+    "id": "shandora",
+    "name": {
+      "english": "Shandora",
+      "japanese": "シャンドラ",
+      "romanized": "Shandora"
+    },
+    "locationType": "ANCIENT_RUINS",
+    "seaRegion": "SKY_ISLAND",
+    "islandName": "Upper Yard",
+    "debutEpisode": 179,
+    "debutChapter": 273,
+    "description": "The legendary City of Gold, Shandora is an ancient ruined city that was built 1100 years ago by the Shandorians. Once a prosperous golden city on the island of Jaya, it was blasted up to the sky 400 years ago by the Knock-Up Stream along with half of Jaya. The ruins lie hidden beneath Upper Yard, covered by Island Clouds until Enel's Sango attack reveals them. Despite its reputation as the City of Gold, Enel has plundered all its treasures.",
+    "episodeAppearances": [179],
+    "keyEvents": [
+      {
+        "episodeNumber": 179,
+        "eventId": "ep179-event-008",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "The Survivors Fall to Shandora",
+        "description": "As the upper ruins collapse from Enel's Sango attack, Zoro, Robin, Wyper, and Gan Fall tumble down and land in the ancient ruins of Shandora.",
+        "significance": "Major reveal of Shandora's location and the convergence of all key players for the arc's climax.",
+        "timestamp": "13:30"
+      },
+      {
+        "episodeNumber": 179,
+        "eventId": "ep179-event-010",
+        "eventType": "WORLD_LORE",
+        "title": "Discovery That Shandora's Gold is Gone",
+        "description": "The survivors discover that despite being called the City of Gold, all of Shandora's treasures have been plundered by Enel.",
+        "significance": "Reveals Enel's systematic looting of Sky Island's heritage for his own purposes.",
+        "timestamp": "15:30"
+      },
+      {
+        "episodeNumber": 179,
+        "eventId": "ep179-event-011",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Wyper Recognizes His Ancestral Homeland",
+        "description": "Wyper realizes he has finally reached Shandora, the sacred homeland the Shandia have fought to reclaim for 400 years.",
+        "significance": "Deeply personal moment connecting Wyper to his people's centuries-long struggle.",
+        "timestamp": "16:15"
+      },
+      {
+        "episodeNumber": 179,
+        "eventId": "ep179-event-012",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Nola Recognizes Shandora",
+        "description": "The 400-year-old giant snake Nola recognizes the ruins of Shandora as her ancient home from when it was still part of Jaya, shedding an emotional tear.",
+        "significance": "Connects Nola to the ancient history and adds emotional depth to themes of homecoming.",
+        "timestamp": "17:30"
+      },
+      {
+        "episodeNumber": 179,
+        "eventId": "ep179-event-015",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Enel Confronts the Final Four in Shandora",
+        "description": "Enel appears before the survivors in Shandora, establishing it as the stage for the arc's final battles.",
+        "significance": "Makes Shandora the central battleground where the fate of Sky Island will be decided.",
+        "timestamp": "20:15"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "DESTROYED",
+        "episodeStart": 0,
+        "episodeEnd": 179,
+        "reason": "City was destroyed during the Void Century and further damaged when blasted into the sky 400 years ago"
+      },
+      {
+        "status": "ACTIVE",
+        "episodeStart": 179,
+        "episodeEnd": "present",
+        "reason": "Revealed as the location beneath Upper Yard where final battles will take place"
+      }
+    ],
+    "parentLocation": "upper-yard",
+    "childLocations": [],
+    "relatedCharacters": ["enel", "zoro", "robin", "wyper", "gan-fall", "nola"],
+    "relatedCrews": ["shandia"],
+    "relatedArcs": ["Skypiea"],
+    "images": [],
+    "historicalSignificance": "Shandora was built 1100 years ago and survived through the Void Century while protecting an important Poneglyph. The city was famous for its golden bell and immense wealth. 400 years ago, half of Jaya including Shandora was shot into the sky by the Knock-Up Stream, creating the mystery that led to Mont Blanc Noland's execution. The Shandia people have fought for 400 years to reclaim this sacred homeland.",
+    "culturalImportance": "Shandora represents the ancestral homeland of the Shandia people and contains their most sacred treasures including the Golden Bell and a Poneglyph. The city's protection was the Shandia's sacred duty, passed down through generations. Its rediscovery marks a turning point in the 400-year conflict over Upper Yard."
+  },
+  {
+    "id": "upper-yard",
+    "name": {
+      "english": "Upper Yard",
+      "japanese": "アッパーヤード",
+      "romanized": "Appā Yādo"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "SKY_ISLAND",
+    "islandName": "Upper Yard",
+    "debutEpisode": 153,
+    "debutChapter": 237,
+    "description": "The sacred island in the sky that was once part of Jaya. Upper Yard contains the hidden ruins of Shandora beneath its surface, which are revealed when Enel destroys the upper level structures.",
+    "episodeAppearances": [179],
+    "keyEvents": [
+      {
+        "episodeNumber": 179,
+        "eventId": "ep179-event-001",
+        "eventType": "BATTLE_END",
+        "title": "Nami and Gan Fall Escape Nola",
+        "description": "Nami and Gan Fall successfully escape from Nola's belly in Upper Yard.",
+        "significance": "Frees two key survivors from danger.",
+        "timestamp": "02:30"
+      },
+      {
+        "episodeNumber": 179,
+        "eventId": "ep179-event-006",
+        "eventType": "TECHNIQUE_DEBUT",
+        "title": "Enel Destroys the Upper Ruins with Sango",
+        "description": "Enel's Sango attack causes the upper ruins structures to collapse, revealing Shandora beneath.",
+        "significance": "Transforms the battlefield and forces all survivors to descend to Shandora.",
+        "timestamp": "10:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 153,
+        "episodeEnd": "present"
+      }
+    ],
+    "parentLocation": "skypiea",
+    "childLocations": ["shandora"],
+    "relatedCharacters": ["enel", "nami", "gan-fall", "conis", "sanji", "usopp"],
+    "relatedCrews": ["shandia", "straw-hat-pirates"],
+    "relatedArcs": ["Skypiea"],
+    "images": []
+  }
+]
