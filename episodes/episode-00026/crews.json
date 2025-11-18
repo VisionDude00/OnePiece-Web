@@ -1,0 +1,77 @@
+[
+  {
+    "name": {
+      "english": "Cook Pirates",
+      "japanese": "料理海賊団",
+      "romanized": "Ryōri Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "zeff",
+    "debutEpisode": 26,
+    "debutChapter": 56,
+    "episodeAppearances": [26],
+    "members": [
+      {
+        "characterId": "zeff",
+        "role": "Captain",
+        "episodeJoined": 26,
+        "episodeLeft": 26,
+        "joinCircumstances": "Zeff was the captain of the Cook Pirates before the crew was lost in the storm."
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 26,
+        "eventId": "ep026-event-002",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Cook Pirates Attack Cruise Ship",
+        "description": "Zeff's Cook Pirates attack a luxury cruise ship where young Sanji works as a cook, plundering the ship and beating the crew.",
+        "significance": "The event that brings Zeff and Sanji together for the first time.",
+        "timestamp": "05:20"
+      },
+      {
+        "episodeNumber": 26,
+        "eventId": "ep026-event-004",
+        "momentType": "CREW_DISSOLUTION",
+        "title": "Cook Pirates Lost in Storm",
+        "description": "The Cook Pirates' ship is destroyed in a massive storm, and Zeff becomes separated from his crew to save Sanji.",
+        "significance": "The end of Zeff's pirate career and the beginning of his new life with Sanji.",
+        "timestamp": "07:30"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Cook Pirates Ship",
+        "episodeAcquired": 26,
+        "episodeLost": 26,
+        "description": "The pirate ship commanded by Zeff, destroyed in the storm that changed his and Sanji's lives."
+      }
+    ],
+    "bases": [],
+    "status": "DISBANDED",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 26,
+        "episodeEnd": 26,
+        "reason": "Crew was active during the attack on the cruise ship"
+      },
+      {
+        "status": "DISBANDED",
+        "episodeStart": 26,
+        "episodeEnd": "present",
+        "reason": "Crew lost in the storm; Zeff retired from piracy"
+      }
+    ],
+    "jollyRoger": {
+      "description": "Unknown",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "relationships": {
+      "allies": [],
+      "enemies": [],
+      "parentOrganization": null
+    }
+  }
+]

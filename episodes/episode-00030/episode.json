@@ -1,0 +1,557 @@
+{
+  "episodeNumber": 30,
+  "episodeTitle": "Set Sail! The Seafaring Cook Sets Off With Luffy!",
+  "episodeTitleJapanese": "旅立ち！海のコックはルフィとともに",
+  "episodeTitleRomanized": "Tabidachi! Umi no Kokku wa Rufi to Tomo ni",
+  "description": "After defeating the Krieg Pirates, Luffy invites Sanji to join his crew. The Baratie staff feign dislike for Sanji's cooking to encourage him to pursue his dream of finding the All Blue. Sanji tearfully parts with Zeff and officially joins the Straw Hat Pirates as their cook. The crew sets sail toward the Conomi Islands where Nami has gone.",
+  "airDate": "2000-06-28",
+  "airDateJapan": "2000-06-28",
+  "airDateUS": "2009-01-20",
+  "arcName": "Baratie Arc",
+  "sagaName": "East Blue Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Are!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [1, 47]
+  },
+  "endingSong": {
+    "title": "Memories",
+    "artist": "Maki Otsuki",
+    "episodeRange": [1, 30]
+  },
+  "credits": {
+    "animationDirector": "Noboru Koizumi",
+    "director": "Hidehiko Kadota",
+    "artDirector": "Tomoko Yoshida",
+    "screenplay": "Junki Takegami",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Zeff",
+        "actor": "Koji Yada"
+      },
+      {
+        "character": "Patty",
+        "actor": "Tetsu Inada"
+      },
+      {
+        "character": "Carne",
+        "actor": "Shinobu Satouchi"
+      },
+      {
+        "character": "Yosaku",
+        "actor": "Joji Nakata"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Zeff",
+        "actor": "Grant James"
+      },
+      {
+        "character": "Patty",
+        "actor": "Jeremy Inman"
+      },
+      {
+        "character": "Carne",
+        "actor": "John Burgmeier"
+      },
+      {
+        "character": "Yosaku",
+        "actor": "Duncan Brannan"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep030-event-001",
+      "episodeNumber": 30,
+      "timestamp": "02:30",
+      "eventType": "CREW_JOIN",
+      "severity": "CRITICAL",
+      "title": "Luffy Invites Sanji to Join the Crew",
+      "description": "After the defeat of Don Krieg, Luffy officially extends an invitation to Sanji to become the cook of the Straw Hat Pirates. Sanji initially refuses, citing his obligation to the Baratie and Zeff, despite clearly being tempted by the opportunity to pursue his dream.",
+      "significance": "The beginning of Sanji's recruitment to the Straw Hat Pirates, marking a crucial expansion of the crew with their first specialist role beyond combat. This sets up the emotional climax of the Baratie Arc.",
+      "characterIds": ["luffy", "sanji"],
+      "locationIds": ["baratie"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "Join my crew! Be our cook!",
+          "speaker": "Luffy",
+          "context": "Luffy's direct invitation to Sanji"
+        },
+        {
+          "text": "I can't. I have a debt to this restaurant and to the old man.",
+          "speaker": "Sanji",
+          "context": "Sanji's initial refusal"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [20, 21, 22, 23, 24, 25, 26, 27, 28, 29],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep030-event-002",
+      "episodeNumber": 30,
+      "timestamp": "04:15",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Sanji Reveals His Dream of Finding the All Blue",
+      "description": "Sanji shares his lifelong dream with Luffy: to find the All Blue, a legendary ocean where the East, West, North, and South Blues meet, containing fish from all four seas. This dream was inspired by his mentor Zeff, who also sought the mythical sea during his pirating days.",
+      "significance": "Establishes Sanji's core motivation and dream that parallels other crew members' ambitions. The All Blue becomes a recurring theme throughout the series and represents Sanji's ultimate goal as a cook.",
+      "characterIds": ["sanji", "luffy", "zeff"],
+      "locationIds": ["baratie"],
+      "quotes": [
+        {
+          "text": "The All Blue... a chef's paradise where all four seas meet. That's my dream.",
+          "speaker": "Sanji",
+          "context": "Sanji explaining his ultimate dream to Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep030-event-003",
+      "episodeNumber": 30,
+      "timestamp": "06:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Baratie Staff Test Sanji's Soup",
+      "description": "Zeff orchestrates a plan to free Sanji from his sense of obligation. The Baratie staff, including Patty, Carne, and Zeff himself, taste Sanji's soup and deliberately pretend to hate it, criticizing it harshly. They insult Sanji's cooking abilities to make him angry enough to leave.",
+      "significance": "A heartbreaking act of tough love that demonstrates Zeff's deep care for Sanji. By attacking what Sanji values most (his cooking), they give him permission to pursue his dream without guilt.",
+      "characterIds": ["sanji", "zeff", "patty", "carne"],
+      "locationIds": ["baratie"],
+      "quotes": [
+        {
+          "text": "This soup is terrible! It tastes like garbage!",
+          "speaker": "Patty",
+          "context": "Patty deliberately insulting Sanji's cooking to encourage him to leave"
+        },
+        {
+          "text": "I've had better soup from a second-rate chef!",
+          "speaker": "Zeff",
+          "context": "Zeff pretending to hate Sanji's soup"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep030-event-004",
+      "episodeNumber": 30,
+      "timestamp": "08:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Sanji Storms Out in Anger",
+      "description": "Furious at the harsh criticism of his cooking, Sanji storms out of the dining area in anger, convinced that his presence is no longer valued at the Baratie. He believes the staff truly disliked his soup and feels hurt by their rejection.",
+      "significance": "Sanji's emotional response shows how deeply he values his cooking and the approval of his mentors. This moment of vulnerability is necessary for him to break free from his obligations.",
+      "characterIds": ["sanji"],
+      "locationIds": ["baratie"],
+      "quotes": [
+        {
+          "text": "Fine! If you don't appreciate my cooking, I'll leave!",
+          "speaker": "Sanji",
+          "context": "Sanji angrily responding to the criticism"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep030-event-005",
+      "episodeNumber": 30,
+      "timestamp": "09:45",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Zeff Reveals His True Intentions to Luffy",
+      "description": "After Sanji leaves, Zeff reveals to Luffy that the harsh criticism was all an act. He explains that Sanji would never leave on his own due to his sense of debt and loyalty. Zeff asks Luffy to take Sanji with him so the young cook can pursue the dream they once shared.",
+      "significance": "Reveals the depth of Zeff's love for Sanji and his selfless desire for Sanji to achieve their shared dream. This moment crystallizes the father-son relationship between them and shows Zeff's sacrifice.",
+      "characterIds": ["zeff", "luffy"],
+      "locationIds": ["baratie"],
+      "quotes": [
+        {
+          "text": "That little eggplant would never leave on his own. He's too stubborn, too loyal. But he needs to chase the All Blue... Take him with you.",
+          "speaker": "Zeff",
+          "context": "Zeff revealing the truth to Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep030-event-006",
+      "episodeNumber": 30,
+      "timestamp": "11:20",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Sanji Overhears Zeff's Confession",
+      "description": "Hiding outside the restaurant, Sanji overhears Zeff's conversation with Luffy. He learns that the criticism was fake and realizes the depth of Zeff's care for him. Sanji is moved to tears as he understands that Zeff wants him to pursue the All Blue.",
+      "significance": "The emotional turning point that allows Sanji to accept Luffy's offer without guilt. This revelation transforms his anger into gratitude and makes his departure possible.",
+      "characterIds": ["sanji", "zeff", "luffy"],
+      "locationIds": ["baratie"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep030-event-007",
+      "episodeNumber": 30,
+      "timestamp": "13:45",
+      "eventType": "CREW_JOIN",
+      "severity": "CRITICAL",
+      "title": "Sanji Accepts Luffy's Invitation",
+      "description": "With Zeff's blessing now understood, Sanji officially accepts Luffy's invitation to join the Straw Hat Pirates as their cook. He commits to sailing with Luffy toward the Grand Line in search of the All Blue.",
+      "significance": "Marks the official addition of the fourth member of the Straw Hat Pirates and their first non-combatant specialist role. Sanji becomes an essential part of the crew's foundation.",
+      "characterIds": ["sanji", "luffy"],
+      "locationIds": ["baratie"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "Alright, Luffy. I'll be your cook.",
+          "speaker": "Sanji",
+          "context": "Sanji officially accepting Luffy's invitation"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [20, 21, 22, 23, 24, 25, 26, 27, 28, 29],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep030-event-008",
+      "episodeNumber": 30,
+      "timestamp": "15:30",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MAJOR",
+      "title": "Emotional Farewell at the Baratie",
+      "description": "As Sanji prepares to depart with the Straw Hats, he has an emotional farewell with the Baratie staff. The chefs who pretended to hate his cooking now show their true feelings, expressing sadness at his departure while encouraging him to follow his dream.",
+      "significance": "A powerful emotional moment that shows the found family Sanji is leaving behind. The contrast between the fake criticism and genuine affection highlights the love they all share.",
+      "characterIds": ["sanji", "patty", "carne"],
+      "locationIds": ["baratie"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep030-event-009",
+      "episodeNumber": 30,
+      "timestamp": "17:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "CRITICAL",
+      "title": "Sanji's Farewell to Zeff",
+      "description": "In the most emotional moment of the episode, Sanji kneels on the deck and tearfully thanks Zeff for everything he has done for him. He expresses his gratitude for the years of training, care, and the life that Zeff gave him. Sanji bows deeply in respect to his mentor and father figure.",
+      "significance": "One of the most iconic and emotional scenes in early One Piece. This moment crystallizes the father-son relationship between Sanji and Zeff and shows Sanji's deep respect and gratitude. It sets the emotional standard for crew farewells in the series.",
+      "characterIds": ["sanji", "zeff"],
+      "locationIds": ["baratie"],
+      "quotes": [
+        {
+          "text": "Owner Zeff! I owe you a debt I can never repay! All this time, for all these years... I truly appreciate it! Thank you for everything!",
+          "speaker": "Sanji",
+          "context": "Sanji's tearful farewell to Zeff"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [20, 21, 22, 23, 24, 25, 26, 27, 28, 29],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep030-event-010",
+      "episodeNumber": 30,
+      "timestamp": "19:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Zeff's Tearful Response",
+      "description": "As Sanji sails away, Zeff stands on the Baratie's deck with tears streaming down his face. The gruff old pirate, who always maintained a tough exterior, openly weeps as he watches his adopted son depart to chase their shared dream.",
+      "significance": "Reveals Zeff's true emotions and the depth of his love for Sanji. This moment shows that beneath his harsh demeanor, Zeff is a caring father figure who sacrificed everything for Sanji's future.",
+      "characterIds": ["zeff"],
+      "locationIds": ["baratie"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep030-event-011",
+      "episodeNumber": 30,
+      "timestamp": "20:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Introduction to the Next Destination",
+      "description": "Yosaku reveals that Nami has headed to the Conomi Islands, and explains that the islands are ruled by the ruthless Arlong Pirates. The crew sets their course to follow Nami and face this new threat.",
+      "significance": "Sets up the next arc and introduces the Arlong Pirates as antagonists. This transition bridges the Baratie Arc to the Arlong Park Arc.",
+      "characterIds": ["yosaku", "luffy", "sanji", "zoro", "usopp"],
+      "locationIds": ["baratie"],
+      "quotes": [
+        {
+          "text": "Nami went to a dangerous place... an island ruled by the fish-man pirate Arlong.",
+          "speaker": "Yosaku",
+          "context": "Yosaku explaining where Nami has gone"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep030-event-012",
+      "episodeNumber": 30,
+      "timestamp": "21:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "First Glimpse of Conomi Islands",
+      "description": "The episode ends with the first visual appearance of the Conomi Islands in the distance, showing the archipelago where Nami's hometown is located. The islands appear peaceful from afar, but the crew knows danger awaits.",
+      "significance": "The debut of the Conomi Islands location in the anime, setting the stage for the Arlong Park Arc which will explore Nami's backstory and the crew's first major rescue mission.",
+      "characterIds": [],
+      "locationIds": ["conomi-islands"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep030-event-013",
+      "episodeNumber": 30,
+      "timestamp": "22:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "First Visual of Arlong Park",
+      "description": "As the crew approaches the Conomi Islands, a distant view of Arlong Park is shown for the first time. The imposing eight-story building with the Arlong Pirates' Jolly Roger at the top looms ominously on the coast.",
+      "significance": "The debut appearance of Arlong Park, the headquarters of the Arlong Pirates and the primary location for the next arc. This visual foreshadows the major confrontation to come.",
+      "characterIds": [],
+      "locationIds": ["arlong-park"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": ["conomi-islands", "arlong-park"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
+    "payoffFrom": [20, 21, 22, 23, 24, 25, 26, 27, 28, 29],
+    "thematicLinks": [68, 309, 405]
+  },
+  "quotes": [
+    {
+      "text": "Join my crew! Be our cook!",
+      "speaker": "Luffy",
+      "context": "Luffy's invitation to Sanji",
+      "timestamp": "02:30"
+    },
+    {
+      "text": "The All Blue... a chef's paradise where all four seas meet. That's my dream.",
+      "speaker": "Sanji",
+      "context": "Sanji revealing his ultimate dream",
+      "timestamp": "04:15"
+    },
+    {
+      "text": "That little eggplant would never leave on his own. He's too stubborn, too loyal. But he needs to chase the All Blue... Take him with you.",
+      "speaker": "Zeff",
+      "context": "Zeff revealing his true intentions to Luffy",
+      "timestamp": "09:45"
+    },
+    {
+      "text": "Owner Zeff! I owe you a debt I can never repay! All this time, for all these years... I truly appreciate it! Thank you for everything!",
+      "speaker": "Sanji",
+      "context": "Sanji's emotional farewell to Zeff",
+      "timestamp": "17:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Dreams and Sacrifice",
+      "description": "Zeff sacrifices his relationship with Sanji by pushing him away so that Sanji can pursue the dream they both share. True love sometimes means letting go.",
+      "symbolism": "The fake criticism of Sanji's soup represents how sometimes we must hurt those we love to help them grow and pursue their destinies.",
+      "culturalReferences": ["The concept of 'cruel kindness' in Japanese culture"]
+    },
+    {
+      "theme": "Found Family",
+      "description": "The episode explores the bonds formed not by blood but by shared experiences and mutual care. Sanji's relationship with Zeff and the Baratie staff demonstrates that family is defined by love and sacrifice, not genetics.",
+      "symbolism": "The Baratie itself represents the home Sanji built with people who cared for him, and leaving it is both painful and necessary for growth.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Gratitude and Respect",
+      "description": "Sanji's tearful bow to Zeff embodies the Japanese concept of deep gratitude and respect for one's mentor. His acknowledgment of the debt he owes Zeff shows profound emotional maturity.",
+      "symbolism": "Sanji's kneeling bow represents the traditional way of showing ultimate respect and gratitude in Japanese culture.",
+      "culturalReferences": ["Dogeza - the act of kneeling and bowing to show deep respect or gratitude"]
+    },
+    {
+      "theme": "Pursuing One's Dream",
+      "description": "The episode reinforces the series' central theme that everyone should pursue their dreams, even when it means leaving comfort and security behind. Each Straw Hat member has a dream worth risking everything for.",
+      "symbolism": "The All Blue represents not just a physical place but the ultimate achievement of one's life's work and passion.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Emotional", "Heartwarming", "Tearjerking", "Bittersweet"],
+  "characterSpotlights": [
+    {
+      "characterId": "sanji",
+      "role": "Primary protagonist",
+      "development": "Sanji transitions from a devoted restaurant cook bound by obligation to a pirate ready to pursue his dream. His emotional maturity is shown through his ability to express gratitude and accept love even through deception.",
+      "keyActions": [
+        "Initially refuses Luffy's invitation",
+        "Shares his dream of finding the All Blue",
+        "Becomes angry at fake criticism of his cooking",
+        "Overhears Zeff's true intentions",
+        "Accepts Luffy's invitation to join the crew",
+        "Delivers tearful farewell to Zeff and the Baratie staff"
+      ],
+      "quotes": ["The All Blue... a chef's paradise where all four seas meet. That's my dream.", "Owner Zeff! I owe you a debt I can never repay! All this time, for all these years... I truly appreciate it! Thank you for everything!"]
+    },
+    {
+      "characterId": "zeff",
+      "role": "Mentor and father figure",
+      "development": "Zeff's gruff exterior is fully peeled away to reveal his deep love for Sanji. His willingness to hurt Sanji emotionally to free him from obligation shows selfless parental love.",
+      "keyActions": [
+        "Orchestrates plan to criticize Sanji's cooking",
+        "Pretends to hate Sanji's soup",
+        "Reveals true intentions to Luffy",
+        "Watches Sanji depart with tears",
+        "Silently wishes Sanji well on his journey"
+      ],
+      "quotes": ["That little eggplant would never leave on his own. He's too stubborn, too loyal. But he needs to chase the All Blue... Take him with you."]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Recruiter and captain",
+      "development": "Luffy demonstrates his ability to recognize talent and his determination to build his crew. He respects Zeff's wishes and shows patience in waiting for Sanji's decision.",
+      "keyActions": [
+        "Invites Sanji to join the crew",
+        "Listens to Sanji's dream",
+        "Receives Zeff's true explanation",
+        "Accepts Sanji as the crew's cook",
+        "Sets course for the Conomi Islands"
+      ],
+      "quotes": ["Join my crew! Be our cook!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends the emotional farewell sequence between Sanji and Zeff with additional shots of the Baratie staff and longer reaction scenes.",
+      "episodeTimestamp": "15:30-19:00",
+      "mangaReference": "Chapters 67-68",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "The anime adds more visual emphasis on Zeff's tears during Sanji's departure, with close-up shots not present in the manga.",
+      "episodeTimestamp": "19:00",
+      "mangaReference": "Chapter 68",
+      "type": "ENHANCED_VISUAL"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This is the last episode to use 'Memories' by Maki Otsuki as the ending theme. Starting from Episode 31, the ending theme changes to 'RUN! RUN! RUN!' by Maki Otsuki.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_30",
+          "title": "Episode 30 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Sanji's emotional farewell to Zeff, particularly his kneeling bow, is considered one of the most iconic and emotional scenes in the East Blue Saga and frequently appears in 'top emotional One Piece moments' lists.",
+      "category": "CULTURAL_IMPACT",
+      "sources": []
+    },
+    {
+      "fact": "This episode marks the end of the Baratie Arc, which spans episodes 19-30, making it a 12-episode arc and one of the longer arcs in the East Blue Saga.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Baratie_Arc",
+          "title": "Baratie Arc - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode adapts portions of manga Chapters 67 (p. 7-19) and Chapter 68 (p. 2-19), focusing on character moments rather than action.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_30",
+          "title": "Episode 30 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The Conomi Islands and Arlong Park make their first visual appearance at the end of this episode, setting up the next major arc.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "Sanji is the fourth member to officially join the Straw Hat Pirates and the first to join who has a specialized non-combat role (cook), though he is also a powerful fighter.",
+      "category": "STORY",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
