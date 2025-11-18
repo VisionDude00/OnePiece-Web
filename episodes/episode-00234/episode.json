@@ -1,0 +1,669 @@
+{
+  "episodeNumber": 234,
+  "episodeTitle": "Rescuing Our Friend! Raid on the Franky House!",
+  "description": "After Usopp is brutally beaten by the Franky Family and their money stolen, Luffy, Zoro, Sanji, and Chopper track him to Franky House. Finding Usopp unconscious, they storm the hideout to avenge their friend, only to discover Franky has already left with the money.",
+  "airDate": "2005-06-05",
+  "airDateJapan": "2005-06-05",
+  "airDateUS": "2012-10-20",
+  "arcName": "Water 7",
+  "sagaName": "Water 7 Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Kokoro no Chizu",
+    "artist": "BOYSTYLE",
+    "episodeRange": [207, 263]
+  },
+  "endingSong": {
+    "title": "Eternal Pose",
+    "artist": "Asia Engineer",
+    "episodeRange": [231, 245]
+  },
+  "credits": {
+    "animationDirector": "Hidehiko Kadota",
+    "screenplay": "Hirohiko Kamisaka",
+    "artDirection": ["Miyuki Sato", "Kunihiro Chida"],
+    "keyAnimators": ["Kenji Yokoyama"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep234-event-001",
+      "episodeNumber": 234,
+      "timestamp": "03:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Usopp Confronts the Franky Family Alone",
+      "description": "Usopp arrives at Franky House and demands the return of the 200 million berries stolen from him. Despite being outnumbered, he bravely stands his ground and attempts to fight the Franky Family to recover the crew's money.",
+      "significance": "Demonstrates Usopp's determination to prove his worth to the crew despite his insecurities. This moment sets up his later conflict about feeling useless to the Straw Hats.",
+      "characterIds": ["usopp", "franky"],
+      "locationIds": ["franky-house"],
+      "crewIds": ["franky-family"],
+      "quotes": [
+        {
+          "text": "Give me back that money! It belongs to my crew!",
+          "speaker": "Usopp",
+          "context": "Usopp demanding the stolen money from the Franky Family"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [233],
+      "payoffInEpisodes": [235, 236],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep234-event-002",
+      "episodeNumber": 234,
+      "timestamp": "05:42",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Franky Defeats Usopp",
+      "description": "Franky easily dodges Usopp's attacks and mocks him while he's down. After delivering a final devastating kick to Usopp's chin, Franky leaves to go shopping with the stolen money, leaving Usopp to be beaten further by the other Franky Family members.",
+      "significance": "This brutal beating becomes the catalyst for the Straw Hats' raid on Franky House and contributes to Usopp's feelings of inadequacy that lead to his confrontation with Luffy about the Going Merry.",
+      "characterIds": ["usopp", "franky"],
+      "locationIds": ["franky-house"],
+      "crewIds": ["franky-family"],
+      "quotes": [
+        {
+          "text": "I'm going out shopping with the Straw Hats' money!",
+          "speaker": "Franky",
+          "context": "Franky leaving after beating Usopp"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [233],
+      "payoffInEpisodes": [234, 235],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep234-event-003",
+      "episodeNumber": 234,
+      "timestamp": "07:20",
+      "eventType": "BATTLE_END",
+      "severity": "CRITICAL",
+      "title": "Usopp Brutally Beaten by Franky Family",
+      "description": "After Franky leaves, members of the Franky Family continue to mercilessly beat the already defeated Usopp, leaving him bloody and unconscious outside their hideout. Usopp even shoots an exploding star at Franky that has no effect.",
+      "significance": "One of the darkest moments in the series, showing a Straw Hat crew member completely defeated and humiliated. This beating becomes a turning point in the Water 7 arc, fueling the crew's anger and contributing to Usopp's emotional breakdown.",
+      "characterIds": ["usopp"],
+      "locationIds": ["franky-house"],
+      "crewIds": ["franky-family"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [233],
+      "payoffInEpisodes": [234, 235, 236],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep234-event-004",
+      "episodeNumber": 234,
+      "timestamp": "09:45",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Crew Discovers Usopp's Blood Trail",
+      "description": "Chopper notices a trail of blood leading away from where they split up. The crew follows it, realizing that Usopp must have gone to confront the Franky Family on his own. Their worry grows as they track the blood through Water 7's streets.",
+      "significance": "This moment showcases the crew's bond and their concern for Usopp. It also builds tension as they realize what danger their friend has put himself in.",
+      "characterIds": ["luffy", "zoro", "sanji", "chopper"],
+      "locationIds": ["water-7"],
+      "quotes": [
+        {
+          "text": "This is Usopp's blood! He must have gone to the Franky House alone!",
+          "speaker": "Chopper",
+          "context": "Chopper discovering Usopp's blood trail"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [233],
+      "payoffInEpisodes": [234],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep234-event-005",
+      "episodeNumber": 234,
+      "timestamp": "11:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "CRITICAL",
+      "title": "The Crew Finds Usopp Unconscious",
+      "description": "Luffy, Zoro, Sanji, and Chopper arrive at Franky House to find Usopp passed out in front of the building, severely beaten and bloody. The sight of their friend in this condition fills them with rage and determination for revenge.",
+      "significance": "This emotional moment cements the crew's bond and their willingness to fight for each other. It's a powerful display of their friendship and loyalty, driving them to storm Franky House regardless of the consequences.",
+      "characterIds": ["luffy", "zoro", "sanji", "chopper", "usopp"],
+      "locationIds": ["franky-house"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [233],
+      "payoffInEpisodes": [234],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep234-event-006",
+      "episodeNumber": 234,
+      "timestamp": "13:15",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Straw Hats Declare War on Franky Family",
+      "description": "Seeing Usopp's condition, Luffy, Zoro, Sanji, and Chopper storm into Franky House and challenge the entire Franky Family. They discover that Franky himself has already left with the money, but decide to fight anyway to avenge what was done to Usopp.",
+      "significance": "The crew makes it clear that their friend's well-being matters more than the money. This moment emphasizes the Straw Hats' core values of loyalty and protecting their nakama above all else.",
+      "characterIds": ["luffy", "zoro", "sanji", "chopper"],
+      "locationIds": ["franky-house"],
+      "crewIds": ["franky-family", "straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "The money doesn't matter anymore. It's what you did to Usopp!",
+          "speaker": "Luffy",
+          "context": "Luffy explaining why they're fighting the Franky Family"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [233, 234],
+      "payoffInEpisodes": [234],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep234-event-007",
+      "episodeNumber": 234,
+      "timestamp": "14:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Introduction to Franky Family Members",
+      "description": "The crew walks in on the Franky Family members celebrating and partying, high on the money they stole. Various members including Zambai and the Square Sisters are shown reveling in their hideout.",
+      "significance": "First proper introduction to the Franky Family organization and its colorful cast of members who will become important allies later in the series.",
+      "characterIds": ["zambai", "kiwi", "mozu"],
+      "locationIds": ["franky-house"],
+      "crewIds": ["franky-family"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [233],
+      "payoffInEpisodes": [235, 236, 240],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep234-event-008",
+      "episodeNumber": 234,
+      "timestamp": "16:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Gomu Gomu no Cannon Debut",
+      "description": "Luffy unveils his Gomu Gomu no Cannon technique during the fight, showcasing a powerful attack where he inflates his body and releases a devastating blast of air toward his opponents.",
+      "significance": "Introduction of a new technique in Luffy's arsenal, demonstrating his continued growth as a fighter and the evolution of his Devil Fruit abilities.",
+      "characterIds": ["luffy"],
+      "locationIds": ["franky-house"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [
+        {
+          "text": "Gomu Gomu no... Cannon!",
+          "speaker": "Luffy",
+          "context": "Luffy using his new technique for the first time"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep234-event-009",
+      "episodeNumber": 234,
+      "timestamp": "17:20",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Karasuma Gari Debut",
+      "description": "Zoro demonstrates his new Santoryu technique, Karasuma Gari (Crow Demon Hunt), slicing through iron cannonballs with ease during the battle at Franky House.",
+      "significance": "Showcases Zoro's growth as a swordsman and his ability to cut through increasingly difficult materials, foreshadowing his future development.",
+      "characterIds": ["zoro"],
+      "locationIds": ["franky-house"],
+      "quotes": [
+        {
+          "text": "Santoryu: Karasuma Gari!",
+          "speaker": "Zoro",
+          "context": "Zoro using his new technique to cut iron cannonballs"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep234-event-010",
+      "episodeNumber": 234,
+      "timestamp": "17:55",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Party Table Kick Course Debut",
+      "description": "Sanji unleashes his Party Table Kick Course technique, delivering a devastating series of kicks to multiple Franky Family members simultaneously, sending them flying across the room.",
+      "significance": "Demonstrates Sanji's refined fighting style and his ability to handle multiple opponents at once with his signature kick-based combat.",
+      "characterIds": ["sanji"],
+      "locationIds": ["franky-house"],
+      "quotes": [
+        {
+          "text": "Party Table Kick Course!",
+          "speaker": "Sanji",
+          "context": "Sanji using his new technique on Franky Family members"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep234-event-011",
+      "episodeNumber": 234,
+      "timestamp": "18:25",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Roseo Colonnade Debut",
+      "description": "Chopper demonstrates his Roseo Colonnade technique, a powerful attack that helps the crew overwhelm the Franky Family members during the raid.",
+      "significance": "Shows Chopper's continued development as a fighter and his contributions to major battles despite being one of the younger crew members.",
+      "characterIds": ["chopper"],
+      "locationIds": ["franky-house"],
+      "devilFruitIds": ["hito-hito-no-mi"],
+      "quotes": [
+        {
+          "text": "Roseo Colonnade!",
+          "speaker": "Chopper",
+          "context": "Chopper using his new technique in the fight"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep234-event-012",
+      "episodeNumber": 234,
+      "timestamp": "19:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Luffy Smashes Through Steel Armor",
+      "description": "When a Franky Family member wearing steel armor confronts them, Luffy easily punches through the armor, shocking the other members and making them realize the true strength of the Straw Hat Pirates.",
+      "significance": "Demonstrates the vast power difference between the Straw Hats and the Franky Family, establishing the crew's strength in the New World and intimidating their opponents.",
+      "characterIds": ["luffy"],
+      "locationIds": ["franky-house"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep234-event-013",
+      "episodeNumber": 234,
+      "timestamp": "20:45",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Franky Family Defeated",
+      "description": "The Straw Hats completely overwhelm and defeat all the Franky Family members present at Franky House. Despite the Franky Family's initial confidence, they are no match for the battle-hardened pirate crew.",
+      "significance": "Establishes the Straw Hats' combat superiority and shows that they've grown significantly stronger since entering the Grand Line. The decisive victory cements their reputation in Water 7.",
+      "characterIds": ["luffy", "zoro", "sanji", "chopper"],
+      "locationIds": ["franky-house"],
+      "crewIds": ["franky-family", "straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [234],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep234-event-014",
+      "episodeNumber": 234,
+      "timestamp": "21:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Crew Decides Not to Chase Franky",
+      "description": "After defeating the Franky Family, the crew decides against pursuing Franky to recover their money. Instead, they choose to return to the ship, prioritizing being together and dealing with more pressing matters.",
+      "significance": "Shows the crew's maturity in choosing their battles and recognizing that the money is less important than their unity and other concerns, particularly the Going Merry's condition.",
+      "characterIds": ["luffy", "zoro", "sanji", "chopper"],
+      "locationIds": ["franky-house"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [234],
+      "payoffInEpisodes": [235],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep234-event-015",
+      "episodeNumber": 234,
+      "timestamp": "22:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Luffy Decides to Say Goodbye to Going Merry",
+      "description": "At the end of the episode, Luffy makes the heart-wrenching decision that it's time to say goodbye to the Going Merry. This decision comes after learning from the shipwrights that the ship can no longer be repaired and is beyond saving.",
+      "significance": "One of the most emotionally devastating moments in One Piece. This decision sets up the conflict between Luffy and Usopp that will tear the crew apart temporarily and leads to one of the arc's most emotional storylines.",
+      "characterIds": ["luffy"],
+      "locationIds": ["water-7"],
+      "quotes": [
+        {
+          "text": "It's time... we have to say goodbye to Merry.",
+          "speaker": "Luffy",
+          "context": "Luffy's painful decision about the Going Merry"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [230, 231, 232, 233],
+      "payoffInEpisodes": [235, 236, 312],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep234-event-016",
+      "episodeNumber": 234,
+      "timestamp": "08:30",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MINOR",
+      "title": "Franky Boards the Sea Train",
+      "description": "After leaving Franky House with the stolen money, Franky is shown boarding the Sea Train, planning to use the Straw Hats' money for his own purposes.",
+      "significance": "Establishes Franky's whereabouts and sets up future encounters. The Sea Train will become important to the arc's later events.",
+      "characterIds": ["franky"],
+      "locationIds": ["water-7"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [235, 236],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["zambai", "kiwi", "mozu"],
+    "locations": ["franky-house"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["gomu-gomu-no-cannon", "karasuma-gari", "party-table-kick-course", "roseo-colonnade"]
+  },
+  "episodeRelationships": {
+    "setupFor": [235, 236, 237, 312],
+    "payoffFrom": [230, 231, 232, 233],
+    "thematicLinks": [235, 236, 312]
+  },
+  "quotes": [
+    {
+      "text": "Give me back that money! It belongs to my crew!",
+      "speaker": "Usopp",
+      "context": "Usopp demanding the stolen money from the Franky Family",
+      "timestamp": "03:15"
+    },
+    {
+      "text": "I'm going out shopping with the Straw Hats' money!",
+      "speaker": "Franky",
+      "context": "Franky leaving after beating Usopp",
+      "timestamp": "05:42"
+    },
+    {
+      "text": "This is Usopp's blood! He must have gone to the Franky House alone!",
+      "speaker": "Chopper",
+      "context": "Chopper discovering Usopp's blood trail",
+      "timestamp": "09:45"
+    },
+    {
+      "text": "The money doesn't matter anymore. It's what you did to Usopp!",
+      "speaker": "Luffy",
+      "context": "Luffy explaining why they're fighting the Franky Family",
+      "timestamp": "13:15"
+    },
+    {
+      "text": "It's time... we have to say goodbye to Merry.",
+      "speaker": "Luffy",
+      "context": "Luffy's painful decision about the Going Merry",
+      "timestamp": "22:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Loyalty and Friendship",
+      "description": "The episode powerfully demonstrates the Straw Hats' unwavering loyalty to each other. When they find Usopp beaten and bloody, the crew's rage and determination to avenge him shows that their bonds transcend material concerns like money.",
+      "symbolism": "Usopp's blood trail represents the physical and emotional pain that connects the crew, leading them to stand up for their nakama no matter the cost.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Loss and Letting Go",
+      "description": "Luffy's decision to say goodbye to the Going Merry represents one of the hardest lessons in life - knowing when to let go of something beloved. The episode explores the pain of accepting that some things cannot be saved, no matter how much they mean to us.",
+      "symbolism": "The Going Merry symbolizes the crew's innocence and early adventures. Deciding to let her go represents growing up and accepting harsh realities.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Pride and Inadequacy",
+      "description": "Usopp's solo confrontation with the Franky Family stems from his desire to prove his worth to the crew. His brutal defeat amplifies his existing insecurities about being the weakest member, setting up his later emotional breakdown.",
+      "symbolism": "Usopp standing alone against overwhelming odds represents his internal struggle with self-worth and his place in the crew.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Strength of Bonds Over Material Wealth",
+      "description": "The crew makes it clear that avenging Usopp matters more than recovering the stolen money. This reinforces the series' core message that relationships and loyalty are more valuable than treasure or wealth.",
+      "symbolism": "The abandoned pursuit of the money represents the crew's prioritization of emotional bonds over material gain.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Intense", "Emotional", "Angry", "Heartbreaking", "Determined"],
+  "characterSpotlights": [
+    {
+      "characterId": "usopp",
+      "role": "Victim and catalyst",
+      "development": "Usopp's brave but futile attempt to recover the money alone demonstrates his desire to prove himself worthy of the crew. His brutal beating becomes a catalyst for both the crew's raid and his own emotional crisis about his place in the crew.",
+      "keyActions": [
+        "Confronts Franky Family alone at their hideout",
+        "Attempts to fight Franky despite being outmatched",
+        "Gets brutally beaten by the Franky Family",
+        "Left unconscious outside Franky House"
+      ],
+      "quotes": ["Give me back that money! It belongs to my crew!"]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Leader and protector",
+      "development": "Luffy shows his growth as a captain by making two difficult decisions: avenging Usopp regardless of the money, and accepting that they must let go of the Going Merry. Both decisions show his maturity in prioritizing what truly matters.",
+      "keyActions": [
+        "Follows Usopp's blood trail to Franky House",
+        "Declares the money doesn't matter, only what happened to Usopp",
+        "Leads the raid on Franky House",
+        "Debuts Gomu Gomu no Cannon",
+        "Decides they must say goodbye to the Going Merry"
+      ],
+      "quotes": ["The money doesn't matter anymore. It's what you did to Usopp!", "It's time... we have to say goodbye to Merry."]
+    },
+    {
+      "characterId": "zoro",
+      "role": "Warrior and supporter",
+      "development": "Zoro demonstrates his combat growth with his new technique while also showing his loyalty to the crew by immediately joining the fight to avenge Usopp.",
+      "keyActions": [
+        "Tracks Usopp to Franky House with the crew",
+        "Participates in the raid",
+        "Debuts his Karasuma Gari technique"
+      ],
+      "quotes": ["Santoryu: Karasuma Gari!"]
+    },
+    {
+      "characterId": "sanji",
+      "role": "Combatant and crew defender",
+      "development": "Sanji's participation in the raid and his new technique showcase his dedication to protecting his crewmates and his evolution as a fighter.",
+      "keyActions": [
+        "Helps track Usopp through Water 7",
+        "Storms Franky House with the crew",
+        "Debuts Party Table Kick Course"
+      ],
+      "quotes": ["Party Table Kick Course!"]
+    },
+    {
+      "characterId": "chopper",
+      "role": "Doctor and tracker",
+      "development": "Chopper's medical knowledge helps him identify Usopp's blood trail, and his combat contributions show his growth as both a doctor and a fighter.",
+      "keyActions": [
+        "Discovers Usopp's blood trail",
+        "Tracks Usopp to Franky House",
+        "Participates in the battle",
+        "Debuts Roseo Colonnade technique"
+      ],
+      "quotes": ["This is Usopp's blood! He must have gone to the Franky House alone!"]
+    },
+    {
+      "characterId": "franky",
+      "role": "Antagonist",
+      "development": "Franky is established as a powerful and somewhat callous figure who easily defeats Usopp and takes the crew's money without remorse, setting up future conflicts.",
+      "keyActions": [
+        "Mocks and defeats Usopp",
+        "Delivers brutal kick to Usopp's chin",
+        "Leaves with the stolen 200 million berries",
+        "Boards the Sea Train"
+      ],
+      "quotes": ["I'm going out shopping with the Straw Hats' money!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended the fight sequences at Franky House with additional combat scenes and techniques not shown in the manga panels.",
+      "episodeTimestamp": "16:00-20:00",
+      "mangaReference": "Chapter 330, pages 2-19",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "The anime added more detailed shots of Usopp's injuries and the blood trail leading to Franky House for dramatic effect.",
+      "episodeTimestamp": "09:45-11:30",
+      "mangaReference": "Chapter 329, pages 12-19",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "Additional dialogue and reactions from the Franky Family members were included in the anime to extend the episode runtime.",
+      "episodeTimestamp": "14:30-16:00",
+      "mangaReference": "Chapter 330",
+      "type": "EXTENDED_DIALOGUE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode has a TV rating of 10.0%, ranking 6th in viewership for the series at the time of its airing in Japan.",
+      "category": "RATINGS",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_234",
+          "title": "Episode 234 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 234 covers content from three manga chapters: Chapter 329 (pages 12-19), Chapter 330 (pages 2-19), and Chapter 331 (pages 2-3).",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_234",
+          "title": "Episode 234 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode marks the debut of four new techniques: Gomu Gomu no Cannon (Luffy), Karasuma Gari (Zoro), Party Table Kick Course (Sanji), and Roseo Colonnade (Chopper).",
+      "category": "ABILITIES",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_234",
+          "title": "Episode 234 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Kazuki Yao voiced Franky in this episode. He would continue to voice the character for nearly 20 years until stepping down in late 2024, when Subaru Kimura took over the role.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://www.behindthevoiceactors.com/tv-shows/One-Piece/Franky/",
+          "title": "Franky Voice - One Piece - Behind The Voice Actors",
+          "platform": "Behind The Voice Actors",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The Funimation English dub of this episode aired on Toonami on November 30, 2013, over 8 years after the original Japanese broadcast.",
+      "category": "BROADCAST",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_234",
+          "title": "Episode 234 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The Japanese title 'Nakama Kyūshutsu! Nagarikomi Furankī Hausu' literally translates to 'Crewmate Rescue! Charging In to Franky House', emphasizing the nakama theme central to this episode.",
+      "category": "TRANSLATION",
+      "sources": []
+    },
+    {
+      "fact": "This episode is part of the Water 7 Arc, which is widely considered one of the best arcs in One Piece for its emotional depth and character development.",
+      "category": "STORY",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
