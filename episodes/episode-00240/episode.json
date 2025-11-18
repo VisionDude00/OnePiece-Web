@@ -1,0 +1,420 @@
+{
+  "episodeNumber": 240,
+  "episodeTitle": "Eternal Farewell? Nico Robin: The Woman Who Draws Darkness!",
+  "japaneseName": "永遠の別れ？闇を引く女ニコ・ロビン",
+  "romanizedName": "Eien no wakare? Yami o hiku onna Niko Robin",
+  "description": "Robin confesses to attempting Iceburg's assassination and announces her departure from the Straw Hat Pirates. As the crew struggles with this revelation, Kokoro tells Franky about CP9, a secret assassination organization. Meanwhile, an approaching typhoon threatens Water 7.",
+  "airDate": "2005-08-07",
+  "airDateJapan": "2005-08-07",
+  "airDateUS": "2012-11-10",
+  "arcName": "Water 7",
+  "sagaName": "Water 7 Saga",
+  "mangaChapters": [339, 340],
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Kokoro no Chizu",
+    "artist": "BOYSTYLE",
+    "episodeRange": [207, 263]
+  },
+  "endingSong": {
+    "title": "Eternal Pose",
+    "artist": "Asia Engineer",
+    "episodeRange": [231, 245]
+  },
+  "credits": {
+    "animationDirector": "Unknown",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Iceburg",
+        "actor": "Katsuhisa Houki"
+      },
+      {
+        "character": "Kokoro",
+        "actor": "Masako Nozawa"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Iceburg",
+        "actor": "Kenny Green"
+      },
+      {
+        "character": "Kokoro",
+        "actor": "Julie Mayfield"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep240-event-001",
+      "episodeNumber": 240,
+      "timestamp": "03:45",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Kokoro Reveals CP9's Existence",
+      "description": "At Blueno's Bar, Kokoro tells Franky about CP9, a secret Cipher Pol organization that operates in the shadows. She reveals that this organization, not the Straw Hat Pirates, is responsible for the attack on Iceburg.",
+      "significance": "First explicit mention of CP9 to a major character, establishing them as the true antagonists behind the assassination attempt. This revelation begins to shift blame away from the Straw Hats.",
+      "characterIds": ["kokoro", "franky", "blueno"],
+      "locationIds": ["blueno-bar"],
+      "organizationIds": ["cp9"],
+      "quotes": [
+        {
+          "text": "The pirates didn't try to murder Iceburg, but an organization called CP9 are the culprits.",
+          "speaker": "Kokoro",
+          "context": "Kokoro reveals the truth about who attacked Iceburg"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [236, 237],
+      "payoffInEpisodes": [241, 242, 243, 245],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep240-event-002",
+      "episodeNumber": 240,
+      "timestamp": "07:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Approaching Typhoon Warning",
+      "description": "Nami notices the changing climate and rising winds, recognizing that a typhoon is approaching Water 7. She identifies flooding as Water 7's primary vulnerability during such weather events.",
+      "significance": "Establishes the environmental threat that will compound the crew's problems, adding urgency to the unfolding crisis with Robin and CP9.",
+      "characterIds": ["nami"],
+      "locationIds": ["water-7"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [241, 242, 243],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep240-event-003",
+      "episodeNumber": 240,
+      "timestamp": "09:15",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Robin's Secret Meeting with CP9",
+      "description": "In a secret location, Robin meets with members of CP9 who compliment her on the attempted assassination of Iceburg. They reveal plans to infiltrate Iceburg's home at night and mention that Iceburg is the last surviving member of Tom's Workers, possessing something they want.",
+      "significance": "Confirms Robin's involvement with CP9 and reveals their objective: obtaining something from Iceburg related to his connection to Tom's Workers. This deepens the mystery of Robin's betrayal.",
+      "characterIds": ["robin"],
+      "locationIds": ["water-7"],
+      "organizationIds": ["cp9"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [236, 237],
+      "payoffInEpisodes": [241, 242, 244],
+      "callbacksToEpisodes": [235]
+    },
+    {
+      "id": "ep240-event-004",
+      "episodeNumber": 240,
+      "timestamp": "12:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Luffy Refuses to Believe Robin is Guilty",
+      "description": "When confronted with Iceburg's story that Robin shot him, Luffy firmly refuses to believe that Robin would try to kill someone, despite the evidence against her. Nami expresses confusion at the situation.",
+      "significance": "Demonstrates Luffy's unwavering faith in his crewmates, establishing the emotional core that will drive the crew's actions in the coming episodes. This sets up Luffy's determination to save Robin.",
+      "characterIds": ["luffy", "nami", "iceburg"],
+      "locationIds": ["water-7"],
+      "quotes": [
+        {
+          "text": "I refuse to believe that Robin would try and kill somebody.",
+          "speaker": "Luffy",
+          "context": "Luffy's response to accusations against Robin"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [237],
+      "payoffInEpisodes": [245, 278],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep240-event-005",
+      "episodeNumber": 240,
+      "timestamp": "16:45",
+      "eventType": "CREW_DEPARTURE",
+      "severity": "CRITICAL",
+      "title": "Robin Announces Her Departure to Sanji and Chopper",
+      "description": "Sanji and Chopper spot Robin across the river in Water 7. When they call out to her, Robin tells them to stay where they are and announces she will not be returning to the crew. She confirms she was responsible for the attack on Iceburg and for putting the blame on the Straw Hats.",
+      "significance": "The pivotal moment where Robin officially separates from the Straw Hat Pirates, confirming the crew's worst fears. This event is the emotional climax of the episode and sets up the entire Enies Lobby arc.",
+      "characterIds": ["robin", "sanji", "chopper"],
+      "locationIds": ["water-7"],
+      "quotes": [
+        {
+          "text": "I will not be returning with you. I was indeed guilty for what happened last night as well as forcing the blame on the Straw Hats.",
+          "speaker": "Robin",
+          "context": "Robin's declaration of departure from the crew"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [237, 238, 239],
+      "payoffInEpisodes": [245, 278],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep240-event-006",
+      "episodeNumber": 240,
+      "timestamp": "19:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "The Crew Decides to Determine Robin's True Intentions",
+      "description": "After Chopper explains his and Sanji's conversation with Robin, the Straw Hats decide they must find out whether Robin is truly their friend or their enemy.",
+      "significance": "The crew commits to investigating Robin's motives rather than accepting her departure at face value, showing their loyalty and setting up their pursuit of the truth.",
+      "characterIds": ["luffy", "sanji", "chopper", "zoro", "nami", "usopp"],
+      "locationIds": ["water-7"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [241, 242, 245],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep240-event-007",
+      "episodeNumber": 240,
+      "timestamp": "05:20",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Franky Admits He Has No Home",
+      "description": "When Kokoro reminds Franky to prepare his house for the typhoon, Franky responds that he doesn't have a house anymore.",
+      "significance": "A subtle character moment that hints at Franky's homeless status and his past, adding depth to his character.",
+      "characterIds": ["franky", "kokoro"],
+      "locationIds": ["blueno-bar"],
+      "quotes": [
+        {
+          "text": "I don't have a house anymore.",
+          "speaker": "Franky",
+          "context": "Franky's response to Kokoro's suggestion to prepare his house"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "organizations": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [241, 242, 243, 245],
+    "payoffFrom": [236, 237, 238, 239],
+    "thematicLinks": [278, 309]
+  },
+  "quotes": [
+    {
+      "text": "The pirates didn't try to murder Iceburg, but an organization called CP9 are the culprits.",
+      "speaker": "Kokoro",
+      "context": "Kokoro reveals the truth about CP9 to Franky",
+      "timestamp": "03:45"
+    },
+    {
+      "text": "I refuse to believe that Robin would try and kill somebody.",
+      "speaker": "Luffy",
+      "context": "Luffy's unwavering faith in Robin despite the accusations",
+      "timestamp": "12:00"
+    },
+    {
+      "text": "I will not be returning with you. I was indeed guilty for what happened last night as well as forcing the blame on the Straw Hats.",
+      "speaker": "Robin",
+      "context": "Robin's painful announcement to Sanji and Chopper",
+      "timestamp": "16:45"
+    },
+    {
+      "text": "I don't have a house anymore.",
+      "speaker": "Franky",
+      "context": "Franky's response about preparing for the typhoon",
+      "timestamp": "05:20"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Trust and Betrayal",
+      "description": "The episode explores the painful theme of betrayal as Robin appears to turn against her crewmates, while simultaneously showcasing Luffy's absolute trust in her despite overwhelming evidence.",
+      "symbolism": "The physical distance between Robin and Sanji/Chopper across the river symbolizes the emotional and situational gulf that has opened between Robin and her crew.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Sacrifice and Protection",
+      "description": "Though not fully revealed in this episode, Robin's actions hint at a deeper sacrifice she's making to protect those she cares about.",
+      "symbolism": "Robin's darkness that she mentions represents the burden she carries and her willingness to bear it alone.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Loyalty and Determination",
+      "description": "The Straw Hats demonstrate their loyalty by refusing to accept Robin's departure without understanding her true motives.",
+      "symbolism": "The approaching typhoon mirrors the storm of conflict and uncertainty facing the crew.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Dramatic", "Heartbreaking", "Tense", "Mysterious"],
+  "characterSpotlights": [
+    {
+      "characterId": "robin",
+      "role": "Central focus - the departing crewmate",
+      "development": "Robin makes the agonizing decision to leave the Straw Hat Pirates, claiming responsibility for attacking Iceburg. Her true motivations remain mysterious, creating dramatic tension.",
+      "keyActions": [
+        "Meets secretly with CP9 members",
+        "Confronts Sanji and Chopper across the river",
+        "Announces her departure from the crew",
+        "Admits to attacking Iceburg"
+      ],
+      "quotes": [
+        "I will not be returning with you. I was indeed guilty for what happened last night as well as forcing the blame on the Straw Hats."
+      ]
+    },
+    {
+      "characterId": "luffy",
+      "role": "The unwavering captain",
+      "development": "Luffy's absolute faith in Robin is tested but remains unshaken. He refuses to believe she would commit murder, demonstrating the depth of his trust in his crewmates.",
+      "keyActions": [
+        "Confronts Iceburg about the accusations",
+        "Firmly denies Robin would kill anyone",
+        "Commits to finding the truth"
+      ],
+      "quotes": [
+        "I refuse to believe that Robin would try and kill somebody."
+      ]
+    },
+    {
+      "characterId": "sanji",
+      "role": "Witness to Robin's departure",
+      "development": "Sanji experiences the heartbreak of Robin's announcement firsthand, serving as a messenger of devastating news to the rest of the crew.",
+      "keyActions": [
+        "Spots Robin with Chopper",
+        "Hears Robin's confession and departure announcement",
+        "Reports back to the crew"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "kokoro",
+      "role": "The informant",
+      "development": "Kokoro provides crucial information about CP9, helping to reveal the true forces at work behind the scenes in Water 7.",
+      "keyActions": [
+        "Tells Franky about CP9",
+        "Reveals CP9 are the real culprits behind Iceburg's attack",
+        "Warns about the approaching typhoon"
+      ],
+      "quotes": [
+        "The pirates didn't try to murder Iceburg, but an organization called CP9 are the culprits."
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends several scenes with additional dialogue and reaction shots to increase the emotional impact of Robin's departure.",
+      "episodeTimestamp": "16:45",
+      "mangaReference": "Chapter 340",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the first time CP9 is explicitly named in dialogue, though their members have appeared undercover in previous episodes.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_240",
+          "title": "Episode 240 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The ending theme 'Eternal Pose' by Asia Engineer is particularly fitting for this episode, as it plays during one of the last episodes before Robin's absence from the crew.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Eternal_Pose_(song)",
+          "title": "Eternal Pose - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode adapts chapters 339 and 340 of the manga, covering the crucial moment when Robin officially leaves the crew.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_240",
+          "title": "Episode 240 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

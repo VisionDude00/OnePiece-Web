@@ -1,0 +1,92 @@
+[
+  {
+    "name": {
+      "english": "Pluton Blueprints",
+      "japanese": "プルトンの設計図",
+      "romanized": "Puruton no Sekkeizu"
+    },
+    "itemType": "DOCUMENT",
+    "debutEpisode": 243,
+    "debutChapter": 343,
+    "episodeAppearances": [243],
+    "description": "The construction blueprints for Pluton, one of the three Ancient Weapons. These blueprints contain the knowledge to build a warship capable of mass destruction. Iceburg possesses the real blueprints, which have been passed down through generations of Water 7 shipwrights.",
+    "keyMoments": [
+      {
+        "episodeNumber": 243,
+        "eventId": "ep243-event-002",
+        "momentType": "WORLD_LORE",
+        "title": "Iceburg Reveals He Has Pluton Blueprints",
+        "description": "Iceburg reveals to Robin that he possesses the blueprints for the ancient weapon Pluton, explaining why CP9 has targeted him.",
+        "significance": "Major world-building reveal that introduces Pluton as a key element and explains the true motivation behind the Water 7 conflict.",
+        "timestamp": "05:30"
+      },
+      {
+        "episodeNumber": 243,
+        "eventId": "ep243-event-004",
+        "momentType": "CULTURAL_MOMENT",
+        "title": "Paulie Reveals Fake Blueprints",
+        "description": "Paulie reveals that the blueprints he was carrying are fakes, not the real Pluton blueprints, showing that Iceburg had prepared for the CP9 attack.",
+        "significance": "Demonstrates the precautions taken to protect the real blueprints.",
+        "timestamp": "08:20"
+      }
+    ],
+    "currentOwner": "iceburg",
+    "previousOwners": [],
+    "ownershipHistory": [
+      {
+        "characterId": "iceburg",
+        "episodeObtained": 243,
+        "episodeLost": null,
+        "methodObtained": "Inherited from previous Water 7 shipwrights",
+        "methodLost": ""
+      }
+    ],
+    "powers": [
+      "Contains knowledge to construct the ancient warship Pluton",
+      "Represents one of the three Ancient Weapons' construction methods"
+    ],
+    "significance": "The Pluton blueprints are one of the most sought-after items by the World Government. They represent the potential to create a weapon of mass destruction and are central to the Water 7/Enies Lobby saga. The blueprints have been protected by Water 7 shipwrights for generations.",
+    "relatedCharacters": ["iceburg", "paulie", "lucci", "kaku", "kalifa", "blueno", "robin"],
+    "relatedLocations": ["water-7", "iceburg-mansion"],
+    "category": "ANCIENT_WEAPON_BLUEPRINT"
+  },
+  {
+    "name": {
+      "english": "Fake Pluton Blueprints",
+      "japanese": "偽のプルトンの設計図",
+      "romanized": "Nise no Puruton no Sekkeizu"
+    },
+    "itemType": "DOCUMENT",
+    "debutEpisode": 243,
+    "debutChapter": 343,
+    "episodeAppearances": [243],
+    "description": "Counterfeit blueprints created as decoys to protect the real Pluton blueprints. These fake blueprints were carried by Paulie as part of Iceburg's trap to identify and expose the CP9 agents.",
+    "keyMoments": [
+      {
+        "episodeNumber": 243,
+        "eventId": "ep243-event-004",
+        "momentType": "CULTURAL_MOMENT",
+        "title": "Paulie Reveals Fake Blueprints",
+        "description": "Paulie drops the fake blueprints and reveals to the shocked CP9 agent that they are not the real Pluton blueprints.",
+        "significance": "Shows that Iceburg and his allies were prepared for the CP9 attack with contingency plans.",
+        "timestamp": "08:20"
+      }
+    ],
+    "currentOwner": null,
+    "previousOwners": ["paulie"],
+    "ownershipHistory": [
+      {
+        "characterId": "paulie",
+        "episodeObtained": 243,
+        "episodeLost": 243,
+        "methodObtained": "Given by Iceburg as part of the trap",
+        "methodLost": "Dropped when wounded, taken by CP9 agent"
+      }
+    ],
+    "powers": [],
+    "significance": "The fake blueprints serve as a plot device to show Iceburg's strategic thinking and his awareness that he was being targeted. They also demonstrate the lengths to which the Water 7 shipwrights will go to protect the real Pluton blueprints.",
+    "relatedCharacters": ["paulie", "iceburg", "lucci"],
+    "relatedLocations": ["galley-la-company"],
+    "category": "DECOY"
+  }
+]

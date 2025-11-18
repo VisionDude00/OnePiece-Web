@@ -1,0 +1,445 @@
+{
+  "episodeNumber": 241,
+  "episodeTitle": "Capture Robin! The Determination of the Straw Hats!",
+  "description": "After learning from Chopper about Robin's shocking confession of guilt, the Straw Hats decide they must capture Robin to learn the truth. Meanwhile, Usopp struggles to gather supplies to repair the Going Merry, and Franky hatches a plan to use Usopp as bait to draw out Luffy.",
+  "airDate": "2005-08-14",
+  "airDateJapan": "2005-08-14",
+  "airDateUS": "2014-02-15",
+  "arcName": "Water 7",
+  "sagaName": "Water 7 Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Kokoro no Chizu",
+    "artist": "BOYSTYLE",
+    "episodeRange": [207, 263]
+  },
+  "endingSong": {
+    "title": "Eternal Pose",
+    "artist": "Asia Engineer",
+    "episodeRange": [231, 245]
+  },
+  "credits": {
+    "animationDirector": "Hidehiko Kadota",
+    "screenplay": "Hirohiko Kamisaka",
+    "artDirection": ["Miyuki Sato", "Tadami Shimokawa"],
+    "animation": "Masayuki Takagi",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep241-event-001",
+      "episodeNumber": 241,
+      "timestamp": "03:45",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Chopper Reports Robin's Confession",
+      "description": "Chopper reunites with Luffy, Nami, and Zoro on a rooftop and relays the shocking news that Robin confessed to being involved in the attack on Iceburg and framing the Straw Hats. She stated she would not be returning to the crew.",
+      "significance": "This revelation forces the crew to confront the possibility that Robin has betrayed them, setting up the central conflict of the Water 7 arc that will lead to Enies Lobby.",
+      "characterIds": ["chopper", "luffy", "nami", "zoro", "robin"],
+      "locationIds": ["water-7"],
+      "quotes": [
+        {
+          "text": "Robin said she will not be returning with us and that she was guilty for what happened last night.",
+          "speaker": "Chopper",
+          "context": "Chopper explaining Robin's confession to the crew"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [239, 240],
+      "payoffInEpisodes": [245, 246, 252],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep241-event-002",
+      "episodeNumber": 241,
+      "timestamp": "05:20",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Luffy Decides to Capture Robin",
+      "description": "After learning of Robin's confession, Luffy declares that the only way to learn the truth is to go find Robin and capture her. The crew agrees that they need to determine whether Robin is truly their friend or has become their enemy.",
+      "significance": "This decision marks a turning point in the arc as the Straw Hats shift from confusion to action, demonstrating their unwillingness to accept Robin's departure without understanding the truth.",
+      "characterIds": ["luffy", "nami", "zoro", "chopper"],
+      "locationIds": ["water-7"],
+      "quotes": [
+        {
+          "text": "We're going to go and catch Robin in order to find out the truth!",
+          "speaker": "Luffy",
+          "context": "Luffy's determination to understand Robin's situation"
+        },
+        {
+          "text": "We need to determine whether Robin is a friend or foe.",
+          "speaker": "Zoro",
+          "context": "Zoro pointing out the need to verify Robin's true allegiance"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [239, 240],
+      "payoffInEpisodes": [244, 245, 246],
+      "callbacksToEpisodes": [130]
+    },
+    {
+      "id": "ep241-event-003",
+      "episodeNumber": 241,
+      "timestamp": "08:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Happa Yamao's Debut",
+      "description": "Usopp meets Happa Yamao, a former bandit turned carpenter who now runs a shop in Water 7. Despite Usopp's limited funds, Happa shows kindness by giving him rice balls and accepting his tools as trade for wood and supplies.",
+      "significance": "Happa's generosity enables Usopp to continue his efforts to repair the Going Merry, highlighting the theme of kindness from strangers during the crew's darkest hour in Water 7.",
+      "characterIds": ["usopp", "happa-yamao"],
+      "locationIds": ["water-7"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep241-event-004",
+      "episodeNumber": 241,
+      "timestamp": "10:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Usopp Decides to Stay with Going Merry",
+      "description": "Usopp purchases supplies and equipment to prepare the Going Merry to withstand the approaching Aqua Laguna. He makes the decision to stay aboard the ship during the massive tidal wave, despite the danger.",
+      "significance": "This demonstrates Usopp's devotion to the Going Merry and sets up his later confrontation with Luffy about the ship's fate. His isolation also makes him vulnerable to Franky's plan.",
+      "characterIds": ["usopp"],
+      "locationIds": ["water-7", "going-merry"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [238, 239],
+      "payoffInEpisodes": [242, 243, 244],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep241-event-005",
+      "episodeNumber": 241,
+      "timestamp": "13:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Franky Plans to Capture Usopp",
+      "description": "After hearing from Zambai that Usopp is alone at the ship, Franky devises a plan to capture Usopp and use him as bait to lure Luffy out for a rematch. He orders the Franky Family to spread the word and set up a meeting at the warehouse under the bridge.",
+      "significance": "This sets up the confrontation between Franky and Usopp that will lead to further complications for the separated crew, and eventually contributes to Franky's character development.",
+      "characterIds": ["franky", "zambai", "usopp"],
+      "locationIds": ["water-7", "blueno-bar"],
+      "crewIds": ["franky-family"],
+      "quotes": [
+        {
+          "text": "I'll capture that long-nosed guy and use him as bait to draw out Straw Hat!",
+          "speaker": "Franky",
+          "context": "Franky explaining his plan to the Franky Family"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [238, 239],
+      "payoffInEpisodes": [242, 243],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep241-event-006",
+      "episodeNumber": 241,
+      "timestamp": "16:20",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Straw Hats Stake Out Galley-La Headquarters",
+      "description": "The Straw Hats position themselves near Galley-La headquarters, anticipating that Robin will attempt to assassinate Iceburg again. Inside, the Galley-La foremen and workers stand guard to protect Iceburg from the Straw Hat Pirates.",
+      "significance": "This sets up the major confrontation where the truth about CP9 and Robin's situation will finally be revealed, leading directly into the Enies Lobby arc.",
+      "characterIds": ["luffy", "nami", "zoro", "chopper", "iceburg", "kalifa", "paulie"],
+      "locationIds": ["galley-la-headquarters", "water-7"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [239, 240],
+      "payoffInEpisodes": [242, 243, 244, 245],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep241-event-007",
+      "episodeNumber": 241,
+      "timestamp": "18:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Iceburg Calls Robin 'A Devil'",
+      "description": "When Kalifa questions why Iceburg keeps Robin's bounty poster in his room, he responds by calling her 'a devil' and refers to her status as the sole survivor of Ohara, hinting at the dark history surrounding Robin.",
+      "significance": "This reference to Ohara foreshadows the revelations about Robin's past and the World Government's role in her tragic history, which will be explored more deeply in upcoming episodes.",
+      "characterIds": ["iceburg", "kalifa", "robin"],
+      "locationIds": ["galley-la-headquarters"],
+      "quotes": [
+        {
+          "text": "She's a devil... the only survivor of Ohara.",
+          "speaker": "Iceburg",
+          "context": "Iceburg explaining Robin's significance when asked about her bounty poster"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [245, 246, 275],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep241-event-008",
+      "episodeNumber": 241,
+      "timestamp": "20:45",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MAJOR",
+      "title": "Mysterious Figure on the Rooftop",
+      "description": "As the Straw Hats watch Galley-La headquarters and the guards prepare for an attack, a mysterious figure in heeled shoes appears on a nearby rooftop, suggesting the real assassins are about to make their move.",
+      "significance": "This teases the imminent appearance of CP9 and the climactic confrontation that will reveal the true conspiracy behind the attack on Iceburg.",
+      "characterIds": [],
+      "locationIds": ["water-7", "galley-la-headquarters"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [239, 240],
+      "payoffInEpisodes": [242, 243, 244, 245],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep241-event-009",
+      "episodeNumber": 241,
+      "timestamp": "07:00",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Water 7 Citizens Prepare for Aqua Laguna",
+      "description": "The citizens of Water 7 frantically prepare for the approaching Aqua Laguna, the massive annual tidal wave that threatens the city. This involves evacuating vulnerable areas and securing buildings.",
+      "significance": "The Aqua Laguna serves as a ticking clock for the events of the arc, adding urgency and danger to the already tense situation with Robin and the assassination plot.",
+      "characterIds": [],
+      "locationIds": ["water-7"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [237, 238],
+      "payoffInEpisodes": [242, 243, 244],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["happa-yamao"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": [],
+    "items": []
+  },
+  "episodeRelationships": {
+    "setupFor": [242, 243, 244, 245],
+    "payoffFrom": [238, 239, 240],
+    "thematicLinks": [130, 275]
+  },
+  "quotes": [
+    {
+      "text": "We're going to go and catch Robin in order to find out the truth!",
+      "speaker": "Luffy",
+      "context": "Luffy's determination to understand Robin's situation",
+      "timestamp": "05:20"
+    },
+    {
+      "text": "We need to determine whether Robin is a friend or foe.",
+      "speaker": "Zoro",
+      "context": "Zoro pointing out the need to verify Robin's true allegiance",
+      "timestamp": "05:35"
+    },
+    {
+      "text": "Robin said she will not be returning with us and that she was guilty for what happened last night.",
+      "speaker": "Chopper",
+      "context": "Chopper relaying Robin's confession to the crew",
+      "timestamp": "03:45"
+    },
+    {
+      "text": "I'll capture that long-nosed guy and use him as bait to draw out Straw Hat!",
+      "speaker": "Franky",
+      "context": "Franky explaining his plan to the Franky Family",
+      "timestamp": "13:45"
+    },
+    {
+      "text": "She's a devil... the only survivor of Ohara.",
+      "speaker": "Iceburg",
+      "context": "Iceburg explaining Robin's significance when asked about her bounty poster",
+      "timestamp": "18:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Trust and Betrayal",
+      "description": "The episode explores the painful tension between trusting your friends and confronting apparent betrayal. The Straw Hats refuse to accept Robin's confession at face value and insist on learning the truth themselves.",
+      "symbolism": "Robin's departure mirrors the fracturing of the crew, with both Robin and Usopp physically separated from the main group.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Loyalty and Determination",
+      "description": "Despite Robin's confession and the crew's confusion, Luffy's immediate decision to capture Robin demonstrates his unwavering loyalty to his nakama. Similarly, Usopp's determination to save the Going Merry shows devotion despite limited resources.",
+      "symbolism": "The approaching Aqua Laguna represents the overwhelming challenges facing the crew, yet they push forward regardless.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Sacrifice and Hidden Truths",
+      "description": "Robin's mysterious behavior and Iceburg's cryptic comments about her being 'a devil' hint at deeper truths and sacrifices that will be revealed as the arc progresses.",
+      "symbolism": "Robin's bounty poster in Iceburg's room serves as a physical reminder of her dark past and the secrets she carries.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Dramatic", "Mysterious", "Determined"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Leader making critical decision",
+      "development": "Luffy demonstrates his leadership by refusing to accept Robin's departure without understanding the truth, showing his commitment to his crew members.",
+      "keyActions": [
+        "Decides to capture Robin to learn the truth",
+        "Takes charge of the situation despite confusion",
+        "Positions the crew to intercept Robin at Galley-La"
+      ],
+      "quotes": ["We're going to go and catch Robin in order to find out the truth!"]
+    },
+    {
+      "characterId": "usopp",
+      "role": "Isolated crew member preparing for crisis",
+      "development": "Usopp's isolation from the crew and dedication to saving the Going Merry foreshadows his upcoming conflict with Luffy about the ship's fate.",
+      "keyActions": [
+        "Purchases supplies with limited funds",
+        "Trades his tools to get necessary materials",
+        "Decides to stay with Going Merry during Aqua Laguna"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "robin",
+      "role": "Mysterious figure with hidden motives",
+      "development": "Though not physically present for most of the episode, Robin's confession and mysterious actions drive the entire plot forward.",
+      "keyActions": [
+        "Her earlier confession to Sanji and Chopper creates the central conflict",
+        "Planned assassination attempt on Iceburg sets up the climax"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "franky",
+      "role": "Antagonistic force with personal agenda",
+      "development": "Franky's plan to use Usopp as bait demonstrates his persistence in settling his score with Luffy, unaware of the larger conspiracy unfolding.",
+      "keyActions": [
+        "Devises plan to capture Usopp",
+        "Mobilizes the Franky Family",
+        "Sets up confrontation at warehouse under bridge"
+      ],
+      "quotes": ["I'll capture that long-nosed guy and use him as bait to draw out Straw Hat!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "Episode 241 adapts content from Chapter 340 pages 16-19 and Chapter 341 pages 2-19, with some extended scenes for pacing.",
+      "episodeTimestamp": "00:00",
+      "mangaReference": "Chapters 340-341",
+      "type": "PACING_DIFFERENCE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the final appearance of the ending theme 'Eternal Pose' by Asia Engineer, which ran from episode 231 to 245.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Eternal_Pose_(song)",
+          "title": "Eternal Pose (song) - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Happa Yamao, who debuts in this episode, is a former bandit from Pucci (the 'Gourmet City') who became a carpenter in Water 7.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Happa_Yamao",
+          "title": "Happa Yamao - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode achieved a 9.4% TV rating in Japan, ranking #4 for its timeslot.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_241",
+          "title": "Episode 241 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode is part of the Water 7 arc build-up to the major CP9 reveal that occurs in the following episodes, setting the stage for the Enies Lobby arc.",
+      "category": "STORY",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

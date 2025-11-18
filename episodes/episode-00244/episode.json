@@ -1,0 +1,695 @@
+{
+  "episodeNumber": 244,
+  "episodeTitle": "Secret Bond! Iceberg and Franky",
+  "description": "CP9 reveals the truth about Franky's identity: he is actually Cutty Flam, one of Tom's Workers believed to be dead. Lucci deduces that Franky possesses the real Pluton blueprints. Meanwhile, the Straw Hat Pirates and Paulie break into Iceburg's room, confronting CP9 and witnessing Robin's shocking declaration that she's leaving the crew.",
+  "airDate": "2005-09-11",
+  "airDateJapan": "2005-09-11",
+  "airDateUS": "2012-11-24",
+  "arcName": "Water 7 Arc",
+  "sagaName": "Water 7 Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Kokoro no Chizu",
+    "artist": "BOYSTYLE",
+    "episodeRange": [207, 263]
+  },
+  "endingSong": {
+    "title": "Eternal Pose",
+    "artist": "Asia Engineer",
+    "episodeRange": [231, 245]
+  },
+  "credits": {
+    "animationDirector": "Eisaku Inoue",
+    "director": "Munehisa Sakai",
+    "screenplay": "Junki Takegami",
+    "artDirector": "Miyuki Sato, Kunihiro Chida",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Iceburg",
+        "actor": "Koichi Yamadera"
+      },
+      {
+        "character": "Rob Lucci",
+        "actor": "Tomokazu Seki"
+      },
+      {
+        "character": "Kaku",
+        "actor": "Ryotaro Okiayu"
+      },
+      {
+        "character": "Kalifa",
+        "actor": "Masumi Asano"
+      },
+      {
+        "character": "Blueno",
+        "actor": "Tetsu Inada"
+      },
+      {
+        "character": "Paulie",
+        "actor": "Takahiro Yoshimizu"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher R. Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Iceburg",
+        "actor": "Kenny Green"
+      },
+      {
+        "character": "Rob Lucci",
+        "actor": "Jason Liebrecht"
+      },
+      {
+        "character": "Kaku",
+        "actor": "Kent Williams"
+      },
+      {
+        "character": "Kalifa",
+        "actor": "Jad Saxton"
+      },
+      {
+        "character": "Blueno",
+        "actor": "R. Bruce Elliott"
+      },
+      {
+        "character": "Paulie",
+        "actor": "David Matranga"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep244-event-001",
+      "episodeNumber": 244,
+      "timestamp": "03:00",
+      "eventType": "CHARACTER_MOMENT",
+      "severity": "MINOR",
+      "title": "Franky Watches Usopp Repair the Going Merry",
+      "description": "Franky observes from a distance as Usopp desperately attempts to repair the Going Merry. Accompanied by Mozu and Kiwi, Franky reflects on Usopp's determination but believes his efforts are in vain given the ship's condition.",
+      "significance": "Establishes Franky's awareness of the Straw Hats' situation and shows his initial impression of Usopp's dedication to his ship, foreshadowing their later connection.",
+      "characterIds": ["franky", "usopp", "mozu", "kiwi"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "That guy's trying to fix that ship... but it's a lost cause.",
+          "speaker": "Franky",
+          "context": "Franky comments on Usopp's futile repairs to the Going Merry"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [236, 237, 238],
+      "payoffInEpisodes": [245, 246, 247, 248, 249],
+      "callbacksToEpisodes": [236, 237]
+    },
+    {
+      "id": "ep244-event-002",
+      "episodeNumber": 244,
+      "timestamp": "05:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "CP9 Deduces Franky is Cutty Flam",
+      "description": "Rob Lucci reveals his deduction that the supposedly dead Cutty Flam, one of Tom's Workers, is actually still alive under the name 'Franky.' By examining the fake blueprints signed by Tom, Iceburg, and Cutty Flam, and recalling someone named Cutty Flam trying to meet Iceburg years ago, Lucci pieces together the truth.",
+      "significance": "This revelation is the key turning point that identifies Franky as the true holder of the Pluton blueprints, making him CP9's new target. It also reveals a crucial piece of Franky's hidden past.",
+      "characterIds": ["rob-lucci", "iceburg", "franky", "kaku"],
+      "locationIds": ["galley-la-company-headquarters"],
+      "devilFruitIds": [],
+      "crewIds": ["cp9"],
+      "quotes": [
+        {
+          "text": "The third signature on these blueprints... Cutty Flam. That's the name of the man who tried to meet with you four years ago. The man the World Government believes is dead.",
+          "speaker": "Rob Lucci",
+          "context": "Lucci reveals his deduction about Franky's true identity"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [240, 241, 242, 243],
+      "payoffInEpisodes": [245, 246, 247, 248, 249, 250],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep244-event-003",
+      "episodeNumber": 244,
+      "timestamp": "07:00",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Kaku Verifies the Truth Through Pulse Reading",
+      "description": "Kaku uses his Rokushiki training to read Iceburg's pulse and heartbeat as Lucci presents his theory. Iceburg's elevated heart rate when hearing about Cutty Flam being alive confirms Lucci's deduction is correct.",
+      "significance": "Demonstrates CP9's investigative abilities and confirms beyond doubt that Franky possesses the real Pluton blueprints, sealing Franky's fate as their next target.",
+      "characterIds": ["kaku", "iceburg", "rob-lucci"],
+      "locationIds": ["galley-la-company-headquarters"],
+      "quotes": [
+        {
+          "text": "His pulse just spiked. What you said is true.",
+          "speaker": "Kaku",
+          "context": "Kaku confirms Lucci's theory by reading Iceburg's pulse"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [243],
+      "payoffInEpisodes": [245, 246],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep244-event-004",
+      "episodeNumber": 244,
+      "timestamp": "09:00",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Flashback: Iceburg Entrusts Pluton Blueprints to Franky",
+      "description": "A flashback reveals that four years ago, after Cutty Flam returned to Water 7 with his cyborg body, Iceburg secretly met with him. Iceburg entrusted the Pluton blueprints to Franky for safekeeping and asked him to abandon his real name 'Cutty Flam' and only use the nickname 'Franky,' then leave the island to protect the blueprints from the World Government.",
+      "significance": "This flashback reveals the crucial backstory of how Franky came to possess the Pluton blueprints and why he changed his identity. It shows the trust between the two former apprentices of Tom and explains the 'secret bond' referenced in the episode title.",
+      "characterIds": ["iceburg", "franky"],
+      "locationIds": ["water-7"],
+      "quotes": [
+        {
+          "text": "Take these blueprints and leave Water 7. Don't use your real name anymore. From now on, you're just Franky.",
+          "speaker": "Iceburg",
+          "context": "Iceburg entrusts the Pluton blueprints to Franky and asks him to change his identity"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [245, 246, 247, 248, 249, 250, 352, 353],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep244-event-005",
+      "episodeNumber": 244,
+      "timestamp": "11:30",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "CP9 Explains Their True Purpose",
+      "description": "Rob Lucci reveals that CP9 is a secret government assassination unit with authorization to eliminate anyone who opposes the World Government's will 'in the name of justice.' He explains they spent five years undercover in Water 7 to obtain the Pluton blueprints, which the World Government wants to resurrect the ancient weapon.",
+      "significance": "This revelation exposes CP9's true nature as government assassins and the World Government's dark intentions to obtain ancient weapons. It establishes the moral ambiguity of 'justice' and sets up the conflict between the Straw Hats and the World Government.",
+      "characterIds": ["rob-lucci", "iceburg", "kaku", "kalifa", "blueno"],
+      "locationIds": ["galley-la-company-headquarters"],
+      "crewIds": ["cp9"],
+      "quotes": [
+        {
+          "text": "CP9 is a secret unit that doesn't officially exist. We have permission from the World Government to kill anyone who gets in the way of justice.",
+          "speaker": "Rob Lucci",
+          "context": "Lucci explains CP9's true role and authority"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [243],
+      "payoffInEpisodes": [245, 246, 247, 248, 249, 250, 278, 279, 280, 285, 286, 287, 288, 289, 290],
+      "callbacksToEpisodes": [243]
+    },
+    {
+      "id": "ep244-event-006",
+      "episodeNumber": 244,
+      "timestamp": "14:00",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Straw Hats and Paulie Break Into Iceburg's Room",
+      "description": "Luffy, Zoro, Nami, Chopper, and Paulie crash through the walls and arrive at Iceburg's bedroom, interrupting CP9's interrogation. They find Iceburg severely wounded and CP9 members standing over him.",
+      "significance": "This marks the beginning of the direct confrontation between the Straw Hat Pirates and CP9. It sets up the climactic battle that will define the Water 7 Arc.",
+      "characterIds": ["luffy", "zoro", "nami", "chopper", "paulie", "rob-lucci", "kaku", "kalifa", "blueno", "robin", "iceburg"],
+      "locationIds": ["galley-la-company-headquarters"],
+      "quotes": [
+        {
+          "text": "Iceburg! What did you do to him?!",
+          "speaker": "Paulie",
+          "context": "Paulie sees Iceburg wounded after breaking into the room"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [242, 243],
+      "payoffInEpisodes": [245],
+      "callbacksToEpisodes": [242, 243]
+    },
+    {
+      "id": "ep244-event-007",
+      "episodeNumber": 244,
+      "timestamp": "15:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Lucci Uses Shigan on Paulie",
+      "description": "When Paulie attacks the CP9 agents, Rob Lucci demonstrates the Rokushiki technique 'Shigan' (Finger Gun), piercing Paulie with a powerful finger strike that incapacitates him instantly.",
+      "significance": "This is the first demonstration of the Rokushiki techniques in the anime, establishing CP9's superhuman combat abilities and showing the massive power gap between them and ordinary fighters.",
+      "characterIds": ["rob-lucci", "paulie"],
+      "locationIds": ["galley-la-company-headquarters"],
+      "quotes": [
+        {
+          "text": "Shigan!",
+          "speaker": "Rob Lucci",
+          "context": "Lucci uses the Finger Gun technique on Paulie"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [245, 246, 272, 273, 274, 278, 285, 286, 287, 288, 289, 290, 302, 309],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep244-event-008",
+      "episodeNumber": 244,
+      "timestamp": "16:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Introduction of Rokushiki",
+      "description": "Rob Lucci explains that CP9 agents have trained extensively to master 'Rokushiki' - six superhuman martial arts techniques that turn their bodies into weapons. He describes how they've pushed their bodies beyond normal human limits through rigorous training.",
+      "significance": "Introduces one of the most important combat systems in One Piece. Rokushiki becomes a defining feature of CP9 and later other characters, representing a non-Devil Fruit path to superhuman power.",
+      "characterIds": ["rob-lucci", "luffy", "zoro", "nami", "chopper"],
+      "locationIds": ["galley-la-company-headquarters"],
+      "crewIds": ["cp9"],
+      "quotes": [
+        {
+          "text": "We've trained our bodies beyond human limits. These techniques are called Rokushiki - the Six Powers.",
+          "speaker": "Rob Lucci",
+          "context": "Lucci introduces the concept of Rokushiki to the Straw Hats"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [245, 246, 272, 273, 274, 278, 285, 286, 287, 288, 289, 290, 302, 309],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep244-event-009",
+      "episodeNumber": 244,
+      "timestamp": "17:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Lucci Uses Tekkai to Block Luffy's Gomu Gomu no Gatling",
+      "description": "When Luffy attacks with his rapid-fire Gomu Gomu no Gatling technique, Rob Lucci uses 'Tekkai' (Iron Body) to harden his body and completely nullify the damage from Luffy's punches.",
+      "significance": "Demonstrates another Rokushiki technique and shows that Luffy's standard attacks are ineffective against CP9. This establishes the need for Luffy to develop stronger techniques.",
+      "characterIds": ["rob-lucci", "luffy"],
+      "locationIds": ["galley-la-company-headquarters"],
+      "quotes": [
+        {
+          "text": "Tekkai!",
+          "speaker": "Rob Lucci",
+          "context": "Lucci uses Iron Body to block Luffy's attack"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [245, 246, 272, 273, 274, 278, 285, 286, 287, 288, 289, 290, 302, 309],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep244-event-010",
+      "episodeNumber": 244,
+      "timestamp": "18:00",
+      "eventType": "BATTLE_START",
+      "severity": "CRITICAL",
+      "title": "Lucci Uses Shigan on Luffy",
+      "description": "After blocking Luffy's Gatling, Rob Lucci counterattacks with Shigan, striking Luffy's neck with a powerful finger thrust. Only Luffy's rubber body prevents the attack from being instantly fatal.",
+      "significance": "Shows the lethal nature of Shigan and demonstrates that even Luffy is vulnerable to CP9's techniques. This attack would have killed a normal person, emphasizing the danger CP9 poses.",
+      "characterIds": ["rob-lucci", "luffy"],
+      "locationIds": ["galley-la-company-headquarters"],
+      "quotes": [
+        {
+          "text": "If you weren't made of rubber, that would have killed you instantly.",
+          "speaker": "Rob Lucci",
+          "context": "Lucci comments after striking Luffy with Shigan"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [245, 246, 285, 286, 287, 288, 289, 290, 302, 309],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep244-event-011",
+      "episodeNumber": 244,
+      "timestamp": "19:00",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Robin Declares She's Leaving the Crew",
+      "description": "Nico Robin shocks the Straw Hat Pirates by declaring that she's leaving the crew. She states that her dream, which she would sacrifice anything for, can never be achieved while staying with them.",
+      "significance": "This is one of the most emotionally devastating moments in the Water 7 Arc. Robin's betrayal (though later revealed to be a sacrifice) breaks the crew's hearts and sets up the rescue mission to Enies Lobby.",
+      "characterIds": ["robin", "luffy", "zoro", "nami", "chopper"],
+      "locationIds": ["galley-la-company-headquarters"],
+      "quotes": [
+        {
+          "text": "I'm leaving this crew. The dream I would sacrifice anything for can never be achieved with you.",
+          "speaker": "Nico Robin",
+          "context": "Robin declares her intention to leave the Straw Hat Pirates"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [238, 239, 240, 241, 242, 243],
+      "payoffInEpisodes": [245, 246, 247, 248, 249, 250, 272, 273, 274, 275, 276, 277, 278],
+      "callbacksToEpisodes": [130, 236, 237, 238, 239]
+    },
+    {
+      "id": "ep244-event-012",
+      "episodeNumber": 244,
+      "timestamp": "20:00",
+      "eventType": "CHARACTER_MOMENT",
+      "severity": "MAJOR",
+      "title": "Robin Attacks to Prevent Interference",
+      "description": "To prevent anyone from interfering with CP9's escape, Robin uses her Hana Hana no Mi powers to restrain or attack those who might pursue them, including the Straw Hats and Paulie.",
+      "significance": "Robin actively working against her former crewmates reinforces the appearance of her betrayal, making the situation even more heartbreaking for Luffy and the others.",
+      "characterIds": ["robin", "luffy", "zoro", "nami", "chopper", "paulie"],
+      "locationIds": ["galley-la-company-headquarters"],
+      "devilFruitIds": ["hana-hana-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [243],
+      "payoffInEpisodes": [245, 246],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep244-event-013",
+      "episodeNumber": 244,
+      "timestamp": "20:30",
+      "eventType": "CHARACTER_MOMENT",
+      "severity": "MAJOR",
+      "title": "Lucci Announces the Mansion Will Burn",
+      "description": "Rob Lucci calmly announces that the mansion will be set on fire in two minutes to destroy all evidence. He suggests that those who can move should evacuate if they value their lives.",
+      "significance": "Raises the stakes dramatically by adding a time limit and mortal danger. Shows CP9's ruthlessness and willingness to kill witnesses.",
+      "characterIds": ["rob-lucci", "luffy", "zoro", "nami", "chopper", "paulie", "iceburg"],
+      "locationIds": ["galley-la-company-headquarters"],
+      "quotes": [
+        {
+          "text": "This building will be set ablaze in two minutes. If you can move, I suggest you evacuate.",
+          "speaker": "Rob Lucci",
+          "context": "Lucci warns of the impending fire"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [240, 241, 242, 243],
+      "payoffInEpisodes": [245],
+      "callbacksToEpisodes": [240, 241]
+    },
+    {
+      "id": "ep244-event-014",
+      "episodeNumber": 244,
+      "timestamp": "21:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Luffy Refuses to Accept Robin's Departure",
+      "description": "When Zoro asks Luffy if he's going to accept Robin leaving, Luffy firmly refuses. Despite Robin's declaration, Luffy makes it clear he won't let her go without a fight.",
+      "significance": "Establishes Luffy's unwavering loyalty to his crew members and sets up the Enies Lobby rescue arc. This moment shows that Luffy values his nakama above all else.",
+      "characterIds": ["luffy", "zoro", "robin"],
+      "locationIds": ["galley-la-company-headquarters"],
+      "quotes": [
+        {
+          "text": "I'm not letting Robin go!",
+          "speaker": "Monkey D. Luffy",
+          "context": "Luffy declares his refusal to accept Robin's departure"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [245, 246, 247, 248, 249, 250, 272, 273, 274, 275, 276, 277, 278],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep244-event-015",
+      "episodeNumber": 244,
+      "timestamp": "22:00",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Straw Hats Prepare to Fight CP9",
+      "description": "Luffy, Zoro, Nami, and Chopper prepare to battle against Kaku, Kalifa, and Blueno to stop CP9 from escaping and to try to get Robin back.",
+      "significance": "Marks the beginning of the Straw Hats' direct combat with CP9, setting up the battles that will continue in upcoming episodes and eventually at Enies Lobby.",
+      "characterIds": ["luffy", "zoro", "nami", "chopper", "kaku", "kalifa", "blueno"],
+      "locationIds": ["galley-la-company-headquarters"],
+      "crewIds": ["straw-hat-pirates", "cp9"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [245, 246],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["shigan", "tekkai", "rokushiki"]
+  },
+  "episodeRelationships": {
+    "setupFor": [245, 246, 247, 248, 249, 250],
+    "payoffFrom": [236, 237, 238, 239, 240, 241, 242, 243],
+    "thematicLinks": [130, 236, 237, 238, 239, 240, 241, 242, 243]
+  },
+  "quotes": [
+    {
+      "text": "The third signature on these blueprints... Cutty Flam. That's the name of the man who tried to meet with you four years ago. The man the World Government believes is dead.",
+      "speaker": "Rob Lucci",
+      "context": "Lucci reveals his deduction about Franky's true identity",
+      "timestamp": "05:30"
+    },
+    {
+      "text": "His pulse just spiked. What you said is true.",
+      "speaker": "Kaku",
+      "context": "Kaku confirms Lucci's theory by reading Iceburg's pulse",
+      "timestamp": "07:00"
+    },
+    {
+      "text": "Take these blueprints and leave Water 7. Don't use your real name anymore. From now on, you're just Franky.",
+      "speaker": "Iceburg",
+      "context": "Flashback - Iceburg entrusts the Pluton blueprints to Franky",
+      "timestamp": "09:00"
+    },
+    {
+      "text": "CP9 is a secret unit that doesn't officially exist. We have permission from the World Government to kill anyone who gets in the way of justice.",
+      "speaker": "Rob Lucci",
+      "context": "Lucci explains CP9's true role",
+      "timestamp": "11:30"
+    },
+    {
+      "text": "We've trained our bodies beyond human limits. These techniques are called Rokushiki - the Six Powers.",
+      "speaker": "Rob Lucci",
+      "context": "Lucci introduces Rokushiki to the Straw Hats",
+      "timestamp": "16:30"
+    },
+    {
+      "text": "I'm leaving this crew. The dream I would sacrifice anything for can never be achieved with you.",
+      "speaker": "Nico Robin",
+      "context": "Robin declares her intention to leave",
+      "timestamp": "19:00"
+    },
+    {
+      "text": "I'm not letting Robin go!",
+      "speaker": "Monkey D. Luffy",
+      "context": "Luffy refuses to accept Robin's departure",
+      "timestamp": "21:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Loyalty and Nakama",
+      "description": "The episode explores the deep bonds of friendship and loyalty through Robin's apparent betrayal and Luffy's immediate refusal to accept it. Despite Robin's declaration, Luffy's unwavering commitment to his crew shines through.",
+      "symbolism": "The 'secret bond' between Iceburg and Franky parallels the hidden sacrifice Robin is making for the Straw Hats, though they don't yet understand it.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Hidden Identities and Past",
+      "description": "The revelation of Franky's true identity as Cutty Flam shows how the past can catch up with people, no matter how much they try to hide. Both Franky and Robin are running from their pasts.",
+      "symbolism": "The fake blueprints represent the layers of deception, while the signatures reveal the truth hidden beneath.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Justice vs. Morality",
+      "description": "CP9's explanation of their role 'in the name of justice' raises questions about what true justice means. Their willingness to kill and destroy for the World Government's goals contrasts with the Straw Hats' sense of right and wrong.",
+      "symbolism": "The burning building represents the destructive nature of the World Government's version of 'justice'.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Sacrifice",
+      "description": "Both the flashback of Iceburg protecting the blueprints through Franky and Robin's current actions demonstrate the theme of sacrifice for a greater purpose.",
+      "symbolism": "Robin's departure mirrors her joining - both were acts of self-sacrifice, though in opposite directions.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Dramatic", "Shocking", "Heartbreaking", "Action-packed"],
+  "characterSpotlights": [
+    {
+      "characterId": "rob-lucci",
+      "role": "Primary antagonist who reveals CP9's true nature and Franky's identity",
+      "development": "Lucci emerges as a calculating, ruthless antagonist. His cold logic and analytical approach to discovering Franky's identity showcases his intelligence, while his demonstration of Rokushiki establishes him as a formidable fighter.",
+      "keyActions": [
+        "Deduces that Franky is Cutty Flam",
+        "Has Kaku verify his theory through pulse reading",
+        "Explains CP9's true purpose to Iceburg",
+        "Introduces and demonstrates Rokushiki techniques",
+        "Uses Shigan on Paulie and Luffy",
+        "Uses Tekkai to block Luffy's Gatling",
+        "Announces the mansion will burn"
+      ],
+      "quotes": ["The third signature on these blueprints... Cutty Flam. That's the name of the man who tried to meet with you four years ago. The man the World Government believes is dead.", "CP9 is a secret unit that doesn't officially exist. We have permission from the World Government to kill anyone who gets in the way of justice.", "We've trained our bodies beyond human limits. These techniques are called Rokushiki - the Six Powers."]
+    },
+    {
+      "characterId": "franky",
+      "role": "The subject of CP9's investigation, revealed to be Cutty Flam",
+      "development": "Though not directly present in most of the episode, the revelation of Franky's true identity as Cutty Flam adds tremendous depth to his character. The flashback showing his trust with Iceburg and his possession of the Pluton blueprints transforms him from a local troublemaker into a key figure in world events.",
+      "keyActions": [
+        "Watches Usopp repair the Going Merry",
+        "Comments on Usopp's futile efforts",
+        "Flashback: Receives Pluton blueprints from Iceburg",
+        "Flashback: Agrees to abandon his real name"
+      ],
+      "quotes": ["That guy's trying to fix that ship... but it's a lost cause."]
+    },
+    {
+      "characterId": "robin",
+      "role": "Declares she's leaving the crew, working with CP9",
+      "development": "Robin makes the heartbreaking decision to leave the Straw Hats, claiming her dream cannot be achieved with them. Her actions against her former crewmates show her resolve, though the true reasons for her sacrifice remain hidden.",
+      "keyActions": [
+        "Stands with CP9",
+        "Declares she's leaving the crew",
+        "Uses her powers to prevent interference",
+        "Attacks to stop the Straw Hats from pursuing"
+      ],
+      "quotes": ["I'm leaving this crew. The dream I would sacrifice anything for can never be achieved with you."]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Confronts CP9 and refuses to accept Robin's departure",
+      "development": "Luffy demonstrates his unwavering loyalty to his nakama. Despite Robin's declaration and CP9's overwhelming power, Luffy immediately refuses to let her go, showing his growth as a captain who will fight for his crew no matter what.",
+      "keyActions": [
+        "Breaks into Iceburg's room with the others",
+        "Attacks Lucci with Gomu Gomu no Gatling",
+        "Gets hit by Lucci's Shigan but survives due to rubber body",
+        "Firmly refuses to accept Robin leaving",
+        "Prepares to fight CP9"
+      ],
+      "quotes": ["I'm not letting Robin go!"]
+    },
+    {
+      "characterId": "iceburg",
+      "role": "The wounded victim who protected Franky's secret",
+      "development": "Through the flashback, we see Iceburg's protective nature toward his former fellow apprentice. His trust in Franky and his sacrifice to keep the secret shows his strong moral character.",
+      "keyActions": [
+        "Has his secret revealed by his elevated pulse",
+        "Flashback: Entrusts Pluton blueprints to Franky",
+        "Flashback: Asks Franky to change his identity and leave"
+      ],
+      "quotes": ["Take these blueprints and leave Water 7. Don't use your real name anymore. From now on, you're just Franky."]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime expands on Franky watching Usopp repair the Going Merry, adding more dialogue and reaction shots compared to the manga.",
+      "episodeTimestamp": "03:00",
+      "mangaReference": "Chapter 346",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "The flashback sequence showing Iceburg giving the blueprints to Franky is extended in the anime with additional dialogue and emotional beats.",
+      "episodeTimestamp": "09:00",
+      "mangaReference": "Chapter 346",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the first appearance of Rokushiki techniques in the One Piece anime, specifically Shigan and Tekkai.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_244",
+          "title": "Episode 244 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode title 'Secret Bond! Iceberg and Franky' refers to the hidden connection between the two former Tom's Workers and Iceburg's entrustment of the Pluton blueprints to Franky.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "This episode adapts Chapter 346 (pages 2-19) and Chapter 347 (pages 2-3) of the manga.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_244",
+          "title": "Episode 244 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Ending theme 'Eternal Pose' by Asia Engineer reaches its final episode in episode 245, making this one of the last episodes to feature this ending.",
+      "category": "MUSIC",
+      "sources": []
+    },
+    {
+      "fact": "The revelation that Franky is Cutty Flam is one of the major plot twists of the Water 7 Arc, fundamentally changing the trajectory of the story.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "Rob Lucci's Shigan attack on Luffy's neck would have been instantly fatal if not for Luffy's rubber body, demonstrating the lethal nature of Rokushiki techniques.",
+      "category": "STORY",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
