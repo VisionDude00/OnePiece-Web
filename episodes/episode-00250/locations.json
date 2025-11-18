@@ -1,0 +1,204 @@
+[
+  {
+    "name": {
+      "english": "Water 7",
+      "japanese": "ウォーターセブン",
+      "romanized": "Wōtā Sebun"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "PARADISE",
+    "islandName": "Water 7",
+    "debutEpisode": 229,
+    "debutChapter": 322,
+    "description": "A major city known for shipbuilding, where Tom's Workers operated and where the tragic events of Tom's execution and Franky's near-death took place eight years before the main story.",
+    "episodeAppearances": [250],
+    "keyEvents": [
+      {
+        "episodeNumber": 250,
+        "eventId": "ep250-event-001",
+        "eventType": "BACKSTORY_REVEAL",
+        "title": "Tom's Workers Framed at Water 7",
+        "description": "Spandam uses Franky's Battle Franky ships to attack a judicial ship near Water 7, framing Tom's Workers.",
+        "significance": "This conspiracy sets in motion the events that lead to Tom's death and Franky's transformation.",
+        "timestamp": "04:30"
+      },
+      {
+        "episodeNumber": 250,
+        "eventId": "ep250-event-005",
+        "eventType": "MAJOR_DECISION",
+        "title": "Franky Attempts to Stop the Sea Train at Water 7",
+        "description": "Franky positions himself on the tracks at Water 7 to stop the Puffing Tom from taking Tom away.",
+        "significance": "The location where Franky's life changed forever, being run over by the Sea Train.",
+        "timestamp": "17:20"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 229,
+        "episodeEnd": "present",
+        "reason": "Water 7 continues to function as a major shipbuilding city"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["toms-workers"],
+    "relatedCharacters": ["tom", "franky", "iceburg", "spandam"],
+    "relatedCrews": [],
+    "relatedArcs": ["Water 7"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Tom's Workers",
+      "japanese": "トムズワーカーズ",
+      "romanized": "Tomuzu Wākāzu"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "PARADISE",
+    "islandName": "Water 7",
+    "debutEpisode": 248,
+    "debutChapter": 352,
+    "description": "Tom's shipbuilding company and workshop on Water 7, where he built the Puffing Tom and trained Franky and Iceburg. It was the site of the trial that led to Tom's execution.",
+    "episodeAppearances": [250],
+    "keyEvents": [
+      {
+        "episodeNumber": 250,
+        "eventId": "ep250-event-002",
+        "eventType": "MAJOR_DECISION",
+        "title": "Tom Teaches Franky About Pride",
+        "description": "At Tom's Workers, Tom punches Franky and teaches him the philosophy that shipwrights must take pride in their creations.",
+        "significance": "This is where Tom imparts his most important lesson to Franky.",
+        "timestamp": "08:15"
+      },
+      {
+        "episodeNumber": 250,
+        "eventId": "ep250-event-003",
+        "eventType": "MAJOR_DECISION",
+        "title": "Tom's Trial at Tom's Workers",
+        "description": "The trial where Tom accepts responsibility and is sentenced to execution takes place at his workshop.",
+        "significance": "The location marks the end of Tom's Workers as an active company under Tom's leadership.",
+        "timestamp": "12:45"
+      }
+    ],
+    "status": "DESTROYED",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 248,
+        "episodeEnd": 250,
+        "reason": "Tom's Workers operated until Tom's execution"
+      },
+      {
+        "status": "DESTROYED",
+        "episodeStart": 250,
+        "episodeEnd": "present",
+        "reason": "Company dissolved after Tom's death"
+      }
+    ],
+    "parentLocation": "water-7",
+    "childLocations": [],
+    "relatedCharacters": ["tom", "franky", "iceburg"],
+    "relatedCrews": [],
+    "relatedArcs": ["Water 7"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Enies Lobby",
+      "japanese": "エニエス・ロビー",
+      "romanized": "Eniesu Robī"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "PARADISE",
+    "islandName": "Enies Lobby",
+    "debutEpisode": 235,
+    "debutChapter": 326,
+    "description": "The World Government's judicial island where criminals are sent for judgment. Tom is taken here for execution after sacrificing himself.",
+    "episodeAppearances": [250],
+    "keyEvents": [
+      {
+        "episodeNumber": 250,
+        "eventId": "ep250-event-003",
+        "eventType": "MAJOR_DECISION",
+        "title": "Tom Sentenced to Enies Lobby",
+        "description": "Tom is sentenced to be taken to Enies Lobby for execution, with the Puffing Tom serving as his transport.",
+        "significance": "Establishes Enies Lobby as Tom's final destination and foreshadows the location's importance in the Water 7 arc.",
+        "timestamp": "12:45"
+      },
+      {
+        "episodeNumber": 250,
+        "eventId": "ep250-event-005",
+        "eventType": "MAJOR_DECISION",
+        "title": "Franky Tries to Prevent Tom from Reaching Enies Lobby",
+        "description": "Franky desperately attempts to stop the Sea Train from taking Tom to Enies Lobby.",
+        "significance": "Shows Enies Lobby as a place of no return and certain death for those taken there.",
+        "timestamp": "17:20"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 235,
+        "episodeEnd": "present",
+        "reason": "Enies Lobby functions as the World Government's judicial island"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": [],
+    "relatedCharacters": ["tom", "spandam"],
+    "relatedCrews": [],
+    "relatedArcs": ["Water 7", "Enies Lobby"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Puffing Tom",
+      "japanese": "パッフィング・トム",
+      "romanized": "Paffingu Tomu"
+    },
+    "locationType": "SHIP",
+    "seaRegion": "PARADISE",
+    "islandName": null,
+    "debutEpisode": 235,
+    "debutChapter": 326,
+    "description": "The Sea Train built by Tom that connects Water 7 to other islands. In a tragic irony, it becomes the vehicle that takes Tom to his execution and runs over Franky.",
+    "episodeAppearances": [250],
+    "keyEvents": [
+      {
+        "episodeNumber": 250,
+        "eventId": "ep250-event-005",
+        "eventType": "MAJOR_DECISION",
+        "title": "Franky Attempts to Stop Puffing Tom",
+        "description": "Franky stands on the tracks and tries to stop the Puffing Tom with his bare hands to save Tom.",
+        "significance": "The Sea Train becomes a tragic symbol, as Tom's greatest creation is used to take him to his death.",
+        "timestamp": "17:20"
+      },
+      {
+        "episodeNumber": 250,
+        "eventId": "ep250-event-006",
+        "eventType": "DEATH",
+        "title": "Puffing Tom Runs Over Franky",
+        "description": "The Sea Train runs over Franky, nearly killing him and forcing his transformation into a cyborg.",
+        "significance": "Tom's creation inadvertently destroys Franky's body, adding to the tragedy of the situation.",
+        "timestamp": "18:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 235,
+        "episodeEnd": "present",
+        "reason": "The Sea Train continues to operate"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": [],
+    "relatedCharacters": ["tom", "franky"],
+    "relatedCrews": [],
+    "relatedArcs": ["Water 7"],
+    "images": []
+  }
+]

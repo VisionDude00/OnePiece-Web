@@ -1,0 +1,134 @@
+[
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "luffy",
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [254],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 254,
+        "eventId": "ep254-event-003",
+        "momentType": "CRISIS",
+        "title": "Learning of Robin's Sacrifice",
+        "description": "The crew learns that Robin has sacrificed herself to protect them from the World Government, motivating their determination to rescue her.",
+        "significance": "This moment unifies the crew's resolve and sets the stage for the Enies Lobby assault.",
+        "timestamp": "08:45"
+      },
+      {
+        "episodeNumber": 254,
+        "eventId": "ep254-event-008",
+        "momentType": "SURVIVAL",
+        "title": "Escaping the Aqua Laguna",
+        "description": "The Straw Hats narrowly escape the devastating Aqua Laguna with Paulie's help, despite being trapped and separated.",
+        "significance": "Demonstrates the crew's resilience and ability to survive extreme natural disasters.",
+        "timestamp": "16:00"
+      },
+      {
+        "episodeNumber": 254,
+        "eventId": "ep254-event-012",
+        "momentType": "MAJOR_DECISION",
+        "title": "Commitment to Rescue Robin",
+        "description": "Luffy declares they will rescue Robin immediately, with the entire crew unified in this mission.",
+        "significance": "Marks the beginning of the Straw Hats' assault on a World Government stronghold.",
+        "timestamp": "21:00"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull wearing a straw hat with crossed bones behind it",
+      "episodeFirstSeen": 45,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": ["galley-la-company"],
+      "enemies": ["cp9", "world-government"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "CP9",
+      "japanese": "CP9",
+      "romanized": "Shīpī Nain"
+    },
+    "crewType": "GOVERNMENT_ORGANIZATION",
+    "captainId": "spandam",
+    "debutEpisode": 241,
+    "debutChapter": 346,
+    "episodeAppearances": [254],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 254,
+        "eventId": "ep254-event-001",
+        "momentType": "PREPARATION",
+        "title": "Spandam Awaits Robin's Arrival",
+        "description": "CP9's chief Spandam is shown at Enies Lobby with Funkfreed, eagerly awaiting the delivery of Robin and Franky by CP9 agents.",
+        "significance": "Establishes CP9's anticipation and the stakes of the coming confrontation.",
+        "timestamp": "03:30"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "CP9 has no jolly roger as they are a secret government organization",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "#000000",
+    "relationships": {
+      "allies": ["world-government"],
+      "enemies": ["straw-hat-pirates"],
+      "parentOrganization": "world-government"
+    }
+  },
+  {
+    "name": {
+      "english": "Galley-La Company",
+      "japanese": "ガレーラカンパニー",
+      "romanized": "Garēra Kanpanī"
+    },
+    "crewType": "ORGANIZATION",
+    "captainId": "iceburg",
+    "debutEpisode": 233,
+    "debutChapter": 329,
+    "episodeAppearances": [254],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 254,
+        "eventId": "ep254-event-009",
+        "momentType": "ALLIANCE",
+        "title": "Paulie Rescues the Straw Hats",
+        "description": "Paulie, representing Galley-La Company, uses his rope abilities to save the Straw Hats from the Aqua Laguna, demonstrating the alliance between the organizations.",
+        "significance": "Shows Galley-La's support for the Straw Hats' mission to rescue Robin.",
+        "timestamp": "17:30"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "Galley-La Company logo, not a jolly roger",
+      "episodeFirstSeen": 233,
+      "imageUrl": ""
+    },
+    "mainColor": "#4169E1",
+    "relationships": {
+      "allies": ["straw-hat-pirates"],
+      "enemies": ["cp9"],
+      "parentOrganization": null
+    }
+  }
+]

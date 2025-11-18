@@ -1,0 +1,506 @@
+{
+  "episodeNumber": 253,
+  "episodeTitle": "Sanji Barges In! Sea Train Battle in the Storm!",
+  "description": "Nami receives a message from Sanji revealing that he, Usopp, and Franky have boarded the Sea Train to rescue Robin. Meanwhile, Paulie saves Nami from the flooding as the massive Aqua Laguna approaches Water 7. Sanji battles CP6 agents aboard the train, defeating the boxer Jerry with his Brochette technique.",
+  "airDate": "2005-12-11",
+  "airDateJapan": "2005-12-11",
+  "airDateUS": "2013-05-14",
+  "arcName": "Water 7",
+  "sagaName": "Water 7 Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Kokoro no Chizu",
+    "artist": "BOYSTYLE",
+    "episodeRange": [207, 263]
+  },
+  "endingSong": {
+    "title": "Dear friends",
+    "artist": "TRIPLANE",
+    "episodeRange": [246, 255]
+  },
+  "credits": {
+    "animationDirector": "Yoko Ikeda",
+    "scriptWriter": "Hirohiko Kamisaka",
+    "keyAnimators": ["Kazuya Hisada"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Paulie",
+        "actor": "Takahiro Yoshimizu"
+      },
+      {
+        "character": "Jerry",
+        "actor": "Masaya Takatsuka"
+      },
+      {
+        "character": "Rob Lucci",
+        "actor": "Tomokazu Seki"
+      },
+      {
+        "character": "Kalifa",
+        "actor": "Naomi Shindo"
+      },
+      {
+        "character": "Blueno",
+        "actor": "Seiji Sasaki"
+      },
+      {
+        "character": "Kaku",
+        "actor": "Ryotaro Okiayu"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Paulie",
+        "actor": "David Wald"
+      },
+      {
+        "character": "Rob Lucci",
+        "actor": "Jason Liebrecht"
+      },
+      {
+        "character": "Kalifa",
+        "actor": "Shelley Calene-Black"
+      },
+      {
+        "character": "Blueno",
+        "actor": "Mark Fickert"
+      },
+      {
+        "character": "Kaku",
+        "actor": "Alex Organ"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep253-event-001",
+      "episodeNumber": 253,
+      "timestamp": "03:45",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Aqua Laguna Begins Flooding Water 7",
+      "description": "The initial waves of the Aqua Laguna storm begin flooding the lower levels of Water 7's train station. The massive annual tsunami starts its destructive approach to the city.",
+      "significance": "Sets the urgent time constraint for the episode and demonstrates the catastrophic power of Aqua Laguna, forcing characters to evacuate to higher ground.",
+      "characterIds": ["nami", "paulie"],
+      "locationIds": ["water-7", "water-7-train-station"],
+      "quotes": [
+        {
+          "text": "Aqua Laguna is different this year!",
+          "speaker": "Paulie",
+          "context": "Paulie observes the unprecedented severity of this year's Aqua Laguna storm"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [252],
+      "payoffInEpisodes": [254],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep253-event-002",
+      "episodeNumber": 253,
+      "timestamp": "05:20",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Paulie Rescues Nami from the Flood",
+      "description": "As a large wave engulfs the lower area of the train station, Paulie uses his rope abilities to rescue Nami and the conductors from drowning in the Aqua Laguna flood waters.",
+      "significance": "Demonstrates Paulie's heroism and rope manipulation skills while establishing the life-threatening danger posed by Aqua Laguna.",
+      "characterIds": ["paulie", "nami"],
+      "locationIds": ["water-7-train-station"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep253-event-003",
+      "episodeNumber": 253,
+      "timestamp": "07:15",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Nami Receives Sanji's Letter",
+      "description": "A messenger delivers Sanji's letter to Nami, revealing that he successfully boarded the Sea Train along with Usopp and Franky. The letter includes a Den Den Mushi for future communication and contains Sanji's typical love-letter flourishes.",
+      "significance": "This is the moment the Straw Hats learn that Sanji is pursuing Robin, establishing the parallel storylines of the Water 7 and Sea Train events.",
+      "characterIds": ["nami", "sanji", "usopp", "franky"],
+      "locationIds": ["water-7-train-station"],
+      "quotes": [
+        {
+          "text": "After ignoring the love letter parts, she is informed that Sanji has gotten onto the Sea Train and Usopp and some arrogant thug with a ducktail are there.",
+          "speaker": "Narrator",
+          "context": "Nami reads Sanji's letter describing who is aboard the train"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [252],
+      "payoffInEpisodes": [254, 255],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep253-event-004",
+      "episodeNumber": 253,
+      "timestamp": "09:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Nami Resolves to Find Luffy and Zoro",
+      "description": "After learning she missed the Sea Train, Nami's shoulders tremble with suppressed rage rather than despair. She informs Chopper about Sanji's mission and declares they must find Luffy and Zoro before they can pursue Robin.",
+      "significance": "Shows Nami's leadership and determination under pressure, establishing her as the coordinator trying to reunite the scattered Straw Hats.",
+      "characterIds": ["nami", "chopper"],
+      "locationIds": ["water-7"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [254],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep253-event-005",
+      "episodeNumber": 253,
+      "timestamp": "11:45",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Sanji Infiltrates the Sea Train",
+      "description": "Sanji makes his move inside the Puffing Tom, attacking government agents with a vicious kick. Despite being threatened with guns, Sanji continues his infiltration to reach Robin.",
+      "significance": "Begins Sanji's solo rescue mission aboard the Sea Train, demonstrating his courage and fighting prowess against overwhelming odds.",
+      "characterIds": ["sanji"],
+      "locationIds": ["puffing-tom"],
+      "devilFruitIds": [],
+      "crewIds": [],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [252],
+      "payoffInEpisodes": [254],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep253-event-006",
+      "episodeNumber": 253,
+      "timestamp": "14:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Jerry's Introduction",
+      "description": "Jerry, a CP6 agent and head of security for the seventh passenger car, confronts Sanji. He reveals himself as a famous, undefeated boxing champion from the South Blue known for his devastating punches.",
+      "significance": "Introduces the first CP6 agent seen in the series and establishes the multiple layers of World Government security protecting Robin on the Sea Train.",
+      "characterIds": ["jerry", "sanji"],
+      "locationIds": ["puffing-tom"],
+      "quotes": [
+        {
+          "text": "I'm Jerry, a famous, undefeated champion known for my boxing skills in the South Blue!",
+          "speaker": "Jerry",
+          "context": "Jerry boasts about his fighting prowess to intimidate Sanji"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep253-event-007",
+      "episodeNumber": 253,
+      "timestamp": "16:00",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Jerry's Yoga Fighting Style Revealed",
+      "description": "Jerry demonstrates his unique fighting adaptation, using yoga positioning to compress his extremely tall frame for fighting in the confined space of the train car. He positions his legs behind his head to compensate for his height disadvantage.",
+      "significance": "Shows creative combat adaptation and establishes Jerry as a formidable opponent who has trained specifically for various combat scenarios.",
+      "characterIds": ["jerry"],
+      "locationIds": ["puffing-tom"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep253-event-008",
+      "episodeNumber": 253,
+      "timestamp": "17:10",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Jerry Aurora Flicker Jab",
+      "description": "Jerry unleashes his signature technique, the Jerry Aurora Flicker Jab, delivering rapid-fire punches so fast that it appears as if he has multiple arms attacking simultaneously.",
+      "significance": "Demonstrates Jerry's offensive capabilities and boxing expertise, creating a parallel to Luffy's Gomu Gomu no Gatling technique.",
+      "characterIds": ["jerry"],
+      "locationIds": ["puffing-tom"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep253-event-009",
+      "episodeNumber": 253,
+      "timestamp": "18:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Sanji Defeats Jerry with Brochette",
+      "description": "Sanji effortlessly defeats Jerry using Brochette, a devastating technique where he jumps over his opponent and drops downward while spinning like a drill with his extended leg aimed directly at the target. The other government agents are shocked at how easily Sanji defeated the supposedly unbeatable boxer.",
+      "significance": "First appearance of Sanji's Brochette technique and demonstrates Sanji's combat superiority over CP6-level opponents, establishing the power gap between the Straw Hats and lower-tier government agents.",
+      "characterIds": ["sanji", "jerry"],
+      "locationIds": ["puffing-tom"],
+      "quotes": [
+        {
+          "text": "Brochette!",
+          "speaker": "Sanji",
+          "context": "Sanji calls out his attack name as he defeats Jerry"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep253-event-010",
+      "episodeNumber": 253,
+      "timestamp": "19:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Multiple CP Agents Revealed on Train",
+      "description": "It is revealed that there is a representative of the World Government in every car of the Sea Train: Jerry in car 7, T-Bone, Wanze, and Nero in other cars, establishing multiple obstacles for the rescue mission.",
+      "significance": "Expands understanding of World Government security protocols and foreshadows future battles Sanji and others will face on the Sea Train.",
+      "characterIds": ["jerry", "t-bone", "wanze", "nero"],
+      "locationIds": ["puffing-tom"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [254, 255, 256],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep253-event-011",
+      "episodeNumber": 253,
+      "timestamp": "20:15",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "The Sea Mysteriously Drains Before Aqua Laguna",
+      "description": "The ocean water around Water 7 mysteriously drains away, creating the appearance that the sea has dried up. Paulie explains that the distance the water draws back indicates how powerful the approaching Aqua Laguna waves will be, and this year's drawback is abnormally large.",
+      "significance": "Demonstrates the unprecedented severity of this year's Aqua Laguna and creates mounting tension as the characters realize the catastrophic storm approaching. This natural phenomenon parallels real-world tsunami warning signs.",
+      "characterIds": ["paulie", "nami"],
+      "locationIds": ["water-7"],
+      "quotes": [
+        {
+          "text": "The distance the water drawback shows how strong the following waves will be during Aqua Laguna.",
+          "speaker": "Paulie",
+          "context": "Paulie explains the warning sign of the receding ocean"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [254],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep253-event-012",
+      "episodeNumber": 253,
+      "timestamp": "21:50",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Nami Discovers Luffy Trapped Between Buildings",
+      "description": "While searching for Luffy, Nami spots something between two buildings. Upon closer inspection, she discovers it's Luffy, still stuck and unable to free himself from where he got wedged earlier.",
+      "significance": "Provides comic relief during the tense episode while showing Luffy's continued predicament and Nami's determination to find her captain before Aqua Laguna hits.",
+      "characterIds": ["nami", "luffy"],
+      "locationIds": ["water-7"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [252],
+      "payoffInEpisodes": [254],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["jerry"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["brochette", "jerry-aurora-flicker-jab", "yoga-one-two", "screw-drop-kick"]
+  },
+  "episodeRelationships": {
+    "setupFor": [254, 255, 256],
+    "payoffFrom": [252],
+    "thematicLinks": [257, 269]
+  },
+  "quotes": [
+    {
+      "text": "Aqua Laguna is different this year!",
+      "speaker": "Paulie",
+      "context": "Observing the unprecedented severity of the storm",
+      "timestamp": "03:45"
+    },
+    {
+      "text": "I'm Jerry, a famous, undefeated champion known for my boxing skills in the South Blue!",
+      "speaker": "Jerry",
+      "context": "Jerry introduces himself to intimidate Sanji",
+      "timestamp": "14:20"
+    },
+    {
+      "text": "Brochette!",
+      "speaker": "Sanji",
+      "context": "Sanji defeats Jerry with his new technique",
+      "timestamp": "18:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Loyalty and Sacrifice",
+      "description": "Sanji risks his life alone on the Sea Train to rescue Robin, while Nami works to reunite the crew despite the approaching Aqua Laguna. Both demonstrate unwavering commitment to their nakama.",
+      "symbolism": "The storm-tossed Sea Train represents the dangerous path Sanji must travel to save his friend, while the receding ocean symbolizes the calm before the catastrophic storm.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Nature's Power",
+      "description": "The Aqua Laguna serves as an unstoppable natural force that affects all characters equally, creating a ticking clock that adds urgency to the rescue mission.",
+      "symbolism": "The mysteriously draining ocean parallels real-world tsunami warning signs, creating tension through natural disaster.",
+      "culturalReferences": ["Based on Venice's Acqua Alta phenomenon"]
+    },
+    {
+      "theme": "Determination Against Overwhelming Odds",
+      "description": "Despite being outnumbered and facing trained government agents, Sanji proceeds with his rescue mission. Nami refuses to give in to despair upon missing the train.",
+      "symbolism": "Sanji facing multiple government agents alone mirrors the crew's broader struggle against the World Government.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Action-packed", "Determined", "Urgent"],
+  "characterSpotlights": [
+    {
+      "characterId": "sanji",
+      "role": "Primary protagonist - Solo rescue mission",
+      "development": "Sanji demonstrates exceptional courage and combat skill, infiltrating a government-controlled Sea Train alone to save Robin. His actions show growth in his willingness to act independently for the crew's sake.",
+      "keyActions": [
+        "Secretly boards the Puffing Tom Sea Train",
+        "Leaves a letter and Den Den Mushi for Nami",
+        "Infiltrates the train cars and battles government agents",
+        "Defeats CP6 agent Jerry with Brochette technique",
+        "Continues advancing despite being outnumbered"
+      ],
+      "quotes": ["Brochette!"]
+    },
+    {
+      "characterId": "nami",
+      "role": "Coordinator and strategist",
+      "development": "Nami shows leadership under extreme pressure, managing her emotions and focusing on the logical steps needed to reunite the crew and pursue Robin.",
+      "keyActions": [
+        "Receives Sanji's letter and Den Den Mushi",
+        "Informs Chopper about the situation",
+        "Coordinates the search for Luffy and Zoro",
+        "Maintains composure despite missing the Sea Train",
+        "Discovers Luffy's location before Aqua Laguna arrives"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "paulie",
+      "role": "Supporting ally and rescuer",
+      "development": "Paulie continues to demonstrate his heroism and knowledge of Water 7, using his rope abilities to save lives and sharing critical information about Aqua Laguna.",
+      "keyActions": [
+        "Rescues Nami and conductors from flood waters",
+        "Explains the significance of the receding ocean",
+        "Helps coordinate the evacuation of Water 7"
+      ],
+      "quotes": ["Aqua Laguna is different this year!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended the flooding scenes at the train station and Paulie's rescue of Nami for dramatic effect.",
+      "episodeTimestamp": "05:20",
+      "mangaReference": "Chapter 361-362",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "The anime added more detail to Jerry's yoga fighting style demonstration and his Aurora Flicker Jab technique.",
+      "episodeTimestamp": "16:00",
+      "mangaReference": "Chapter 362",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the first appearance of a CP6 agent in the series, establishing that Cipher Pol has numbered divisions beyond just CP9.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Jerry",
+          "title": "Jerry - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Jerry's height of 676 cm (22'2\") makes him one of the tallest human characters introduced up to this point in the series.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Jerry",
+          "title": "Jerry - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Brochette is French for 'skewer,' fitting Sanji's cooking-themed attack naming convention. The technique's drilling motion resembles skewering meat.",
+      "category": "TECHNIQUE",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Black_Leg_Style",
+          "title": "Black Leg Style - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The Aqua Laguna phenomenon is based on Venice's real-world 'Acqua Alta' (high water) tidal events that regularly flood the Italian city.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Aqua_Laguna",
+          "title": "Aqua Laguna - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode aired on December 11, 2005, and covers partial content from manga chapters 361-362.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_253",
+          "title": "Episode 253 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
