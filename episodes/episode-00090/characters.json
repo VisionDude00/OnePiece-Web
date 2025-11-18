@@ -1,0 +1,263 @@
+[
+  {
+    "id": "chopper",
+    "name": {
+      "english": "Tony Tony Chopper",
+      "japanese": "トニートニー・チョッパー",
+      "romanized": "Tonī Tonī Choppā"
+    },
+    "debutEpisode": 81,
+    "episodeAppearances": [90],
+    "keyMoments": [
+      {
+        "episodeNumber": 90,
+        "eventId": "ep090-event-001",
+        "momentType": "MAJOR_DECISION",
+        "title": "Chopper Decides to Join the Straw Hats",
+        "description": "After internal struggle, Chopper makes the life-changing decision to accept Luffy's invitation and join the Straw Hat Pirates as their ship's doctor.",
+        "significance": "Chopper becomes the fifth member of the Straw Hat Pirates, marking a major milestone in his life and the crew's formation.",
+        "timestamp": "03:45",
+        "quote": "I want to be a pirate!"
+      },
+      {
+        "episodeNumber": 90,
+        "eventId": "ep090-event-002",
+        "momentType": "CREW_JOIN",
+        "title": "Official Recruitment by Luffy",
+        "description": "When Chopper tries to explain why he can't join, Luffy interrupts by shouting to shut up and come with them anyway. Chopper tearfully accepts.",
+        "significance": "One of the most iconic recruitment moments in One Piece, showing Chopper finally finding friends who accept him completely.",
+        "timestamp": "05:20",
+        "quote": "OK!"
+      },
+      {
+        "episodeNumber": 90,
+        "eventId": "ep090-event-003",
+        "momentType": "RELATIONSHIP_REVEAL",
+        "title": "Telling Kureha He's Leaving",
+        "description": "Chopper announces to Dr. Kureha that he's leaving to become a pirate with the Straw Hats.",
+        "significance": "Demonstrates Chopper's courage in making difficult decisions and pursuing his dreams despite knowing it will hurt Kureha.",
+        "timestamp": "08:15",
+        "quote": ""
+      },
+      {
+        "episodeNumber": 90,
+        "eventId": "ep090-event-006",
+        "momentType": "CULTURAL_MOMENT",
+        "title": "Witnessing Hiriluk's Cherry Blossoms",
+        "description": "Chopper witnesses the cherry blossoms covering Drum Island as Kureha fires Hiriluk's powder into the sky, and he bursts into tears seeing his father figure's dream realized.",
+        "significance": "Brings emotional closure to Chopper's arc on Drum Island and shows how Hiriluk's legacy will live on through both the cherry blossoms and Chopper himself.",
+        "timestamp": "16:20",
+        "quote": ""
+      }
+    ],
+    "status": "ALIVE",
+    "affiliations": [
+      {
+        "crewId": "straw-hat-pirates",
+        "role": "Doctor",
+        "episodeJoined": 90,
+        "episodeLeft": null
+      }
+    ],
+    "relationships": [
+      {
+        "targetCharacterId": "luffy",
+        "relationshipType": "CREW_MATE",
+        "description": "Chopper joins Luffy's crew after being convinced by Luffy's direct and accepting nature.",
+        "episodeEstablished": 90,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 90,
+            "description": "Luffy tells Chopper to shut up and join them, showing complete acceptance.",
+            "newRelationshipType": "CREW_MATE"
+          }
+        ]
+      },
+      {
+        "targetCharacterId": "kureha",
+        "relationshipType": "MENTOR",
+        "description": "Kureha is Chopper's medical mentor and surrogate mother figure. She gives him an emotional farewell as he leaves to pursue his dreams.",
+        "episodeEstablished": 81,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 90,
+            "description": "Chopper tells Kureha he's leaving. Despite objecting initially, she ultimately supports his decision through the cherry blossom farewell.",
+            "newRelationshipType": "MENTOR"
+          }
+        ]
+      },
+      {
+        "targetCharacterId": "hiriluk",
+        "relationshipType": "FATHER_FIGURE",
+        "description": "Hiriluk was Chopper's adoptive father and the one who gave him his name. Though deceased, his dream and legacy deeply influence Chopper's decision to go to sea.",
+        "episodeEstablished": 85,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 90,
+            "description": "Chopper witnesses Hiriluk's dream of cherry blossoms being realized, bringing closure to his grief.",
+            "newRelationshipType": "FATHER_FIGURE"
+          }
+        ]
+      }
+    ],
+    "reveals": [
+      {
+        "infoType": "AFFILIATION",
+        "information": "Officially becomes the doctor of the Straw Hat Pirates",
+        "episodeRevealed": 90,
+        "severity": "MAJOR"
+      },
+      {
+        "infoType": "CHARACTER_TRAIT",
+        "information": "Shows courage in pursuing his dreams despite his insecurities",
+        "episodeRevealed": 90,
+        "severity": "MINOR"
+      }
+    ],
+    "voiceActors": {
+      "japanese": "Ikue Ōtani",
+      "english": "Brina Palencia"
+    }
+  },
+  {
+    "id": "luffy",
+    "name": {
+      "english": "Monkey D. Luffy",
+      "japanese": "モンキー・D・ルフィ",
+      "romanized": "Monkī Dī Rufi"
+    },
+    "debutEpisode": 1,
+    "episodeAppearances": [90],
+    "keyMoments": [
+      {
+        "episodeNumber": 90,
+        "eventId": "ep090-event-002",
+        "momentType": "CREW_JOIN",
+        "title": "Recruiting Chopper with Direct Acceptance",
+        "description": "Luffy tells Chopper to shut up and come with them when Chopper tries to explain why he can't join the crew due to being different.",
+        "significance": "Demonstrates Luffy's leadership style and his ability to see people's true worth beyond appearances. This moment shows why people are drawn to follow Luffy.",
+        "timestamp": "05:20",
+        "quote": "Just shut up and come with us!"
+      }
+    ],
+    "status": "ALIVE",
+    "affiliations": [
+      {
+        "crewId": "straw-hat-pirates",
+        "role": "Captain",
+        "episodeJoined": 1,
+        "episodeLeft": null
+      }
+    ],
+    "relationships": [
+      {
+        "targetCharacterId": "chopper",
+        "relationshipType": "CREW_MATE",
+        "description": "Luffy successfully recruits Chopper as the Straw Hats' doctor through his direct and accepting approach.",
+        "episodeEstablished": 90,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 90,
+            "description": "Luffy tells Chopper to shut up and join them, breaking through all of Chopper's insecurities.",
+            "newRelationshipType": "CREW_MATE"
+          }
+        ]
+      }
+    ],
+    "reveals": [],
+    "voiceActors": {
+      "japanese": "Mayumi Tanaka",
+      "english": "Colleen Clinkenbeard"
+    }
+  },
+  {
+    "id": "kureha",
+    "name": {
+      "english": "Dr. Kureha",
+      "japanese": "Dr.くれは",
+      "romanized": "Dokutā Kureha"
+    },
+    "debutEpisode": 81,
+    "episodeAppearances": [90],
+    "keyMoments": [
+      {
+        "episodeNumber": 90,
+        "eventId": "ep090-event-003",
+        "momentType": "RELATIONSHIP_REVEAL",
+        "title": "Kureha Objects to Chopper Leaving",
+        "description": "Kureha initially objects when Chopper announces he's leaving to become a pirate, chasing him and expressing concern about him following Hiriluk's 'hopeless dreams.'",
+        "significance": "Shows Kureha's deep care for Chopper despite her gruff exterior, revealing her fear of losing another person she loves.",
+        "timestamp": "08:15",
+        "quote": ""
+      },
+      {
+        "episodeNumber": 90,
+        "eventId": "ep090-event-004",
+        "momentType": "CULTURAL_MOMENT",
+        "title": "Firing Hiriluk's Cherry Blossom Powder",
+        "description": "Kureha orders soldiers to fire cannons filled with Hiriluk's pink powder into the sky, creating cherry blossoms across Drum Island as a farewell gift to Chopper.",
+        "significance": "Fulfills Hiriluk's dream and serves as Kureha's way of giving Chopper her blessing while honoring Hiriluk's memory. Shows her true loving nature.",
+        "timestamp": "12:30",
+        "quote": "This is Hiriluk's dream... cherry blossoms in the snow."
+      },
+      {
+        "episodeNumber": 90,
+        "eventId": "ep090-event-009",
+        "momentType": "RELATIONSHIP_REVEAL",
+        "title": "Kureha's True Feelings Revealed",
+        "description": "Through the cherry blossom farewell, Kureha reveals her deep love for Chopper and her support for his decision to go to sea, despite the pain of separation.",
+        "significance": "Shows Kureha's character depth and her role as Chopper's surrogate mother. Her acceptance demonstrates true selfless love.",
+        "timestamp": "20:15",
+        "quote": ""
+      }
+    ],
+    "status": "ALIVE",
+    "affiliations": [],
+    "relationships": [
+      {
+        "targetCharacterId": "chopper",
+        "relationshipType": "STUDENT",
+        "description": "Kureha is Chopper's medical mentor and surrogate mother. She ultimately supports his decision to leave despite her initial objections.",
+        "episodeEstablished": 81,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 90,
+            "description": "Kureha gives Chopper her blessing to leave through the cherry blossom farewell gift.",
+            "newRelationshipType": "STUDENT"
+          }
+        ]
+      },
+      {
+        "targetCharacterId": "hiriluk",
+        "relationshipType": "COLLEAGUE",
+        "description": "Kureha was Hiriluk's colleague and friend. She preserves his dream and fulfills it by creating the cherry blossom display.",
+        "episodeEstablished": 85,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 90,
+            "description": "Kureha uses Hiriluk's powder to create cherry blossoms, finally realizing his thirty-year dream.",
+            "newRelationshipType": "COLLEAGUE"
+          }
+        ]
+      }
+    ],
+    "reveals": [
+      {
+        "infoType": "CHARACTER_TRAIT",
+        "information": "Despite her harsh exterior, Kureha deeply loves Chopper and supports his dreams",
+        "episodeRevealed": 90,
+        "severity": "MAJOR"
+      },
+      {
+        "infoType": "KNOWLEDGE",
+        "information": "Kureha possesses Hiriluk's cherry blossom powder and knows how to use it",
+        "episodeRevealed": 90,
+        "severity": "MINOR"
+      }
+    ],
+    "voiceActors": {
+      "japanese": "Masako Nozawa",
+      "english": "Julie Mayfield"
+    }
+  }
+]
