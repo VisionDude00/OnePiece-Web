@@ -1,0 +1,419 @@
+{
+  "episodeNumber": 159,
+  "episodeTitle": "Onward Crow! To the Sacrificial Altar!",
+  "japaneseTitleRomanized": "Susume Karasumaru! Ikenie no saidan o mezase",
+  "japaneseTitle": "すすめカラス丸！生贄の祭壇を目指せ",
+  "description": "Luffy, Sanji, and Usopp navigate Upper Yard's trapped Milky Road on the Karasumaru, encountering deadly obstacles before reaching the mysterious Ordeal Gates. Meanwhile, Zoro, Robin, and Nami set out to explore ancient ruins, leaving Chopper alone to guard the Going Merry.",
+  "airDate": "2003-07-06",
+  "airDateJapan": "2003-07-06",
+  "airDateUS": "2008-01-19",
+  "arcName": "Skypiea Arc",
+  "sagaName": "Sky Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Hikari e",
+    "artist": "The Babystars",
+    "episodeRange": [116, 168]
+  },
+  "endingSong": {
+    "title": "FAITH",
+    "artist": "Ruppina",
+    "episodeRange": [157, 168]
+  },
+  "credits": {
+    "director": "Junji Shimizu",
+    "screenplay": "Yoshiyuki Suga",
+    "artDirection": ["Miyuki Sato", "Kunihiro Chida"],
+    "animation": "Takeo Ide",
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher R. Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep159-event-001",
+      "episodeNumber": 159,
+      "timestamp": "03:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Crew Discusses Splitting Up",
+      "description": "At the Sacrificial Altar, the Straw Hats discuss their next move. Zoro, Robin, and Nami decide to explore Upper Yard for ruins and treasure, while Luffy, Sanji, and Usopp will take the Karasumaru (Crow Boat) toward God's Shrine.",
+      "significance": "This split divides the crew into two groups, setting up parallel adventures through Upper Yard and leading each group into different dangers.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin"],
+      "locationIds": ["sacrificial-altar", "upper-yard"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [158],
+      "payoffInEpisodes": [160, 161, 162],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep159-event-002",
+      "episodeNumber": 159,
+      "timestamp": "05:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Chopper Left to Guard the Ship Alone",
+      "description": "Chopper is left behind to guard and repair the Going Merry by himself. Initially proud of the responsibility, he quickly becomes anxious about being alone in such a dangerous place.",
+      "significance": "This moment showcases Chopper's growth as a crew member being trusted with important duties, while also highlighting his vulnerability and fear when isolated.",
+      "characterIds": ["chopper"],
+      "locationIds": ["sacrificial-altar", "going-merry"],
+      "quotes": [
+        {
+          "text": "I'm being trusted with an important job!",
+          "speaker": "Chopper",
+          "context": "Initially feeling proud before realizing he's alone in a dangerous place"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [160],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep159-event-003",
+      "episodeNumber": 159,
+      "timestamp": "08:20",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Luffy's Group Begins Journey Through Milky Road",
+      "description": "Luffy, Sanji, and Usopp board the Karasumaru and begin their journey through Upper Yard's Milky Road toward the shrine, immediately encountering a dangerous forest path.",
+      "significance": "This begins the trio's journey through one of the most trap-filled sections of Upper Yard, testing their combat skills and teamwork.",
+      "characterIds": ["luffy", "sanji", "usopp"],
+      "locationIds": ["upper-yard", "milky-road"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [159],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep159-event-004",
+      "episodeNumber": 159,
+      "timestamp": "10:35",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Encountering the Blade Trap",
+      "description": "The trio encounters their first major trap: a massive chain-attached blade that swings through the Milky Road, capable of slicing ships in half. They narrowly dodge the deadly mechanism.",
+      "significance": "This establishes the extreme danger of Upper Yard's traps and the constant vigilance required to survive the journey to the shrine.",
+      "characterIds": ["luffy", "sanji", "usopp"],
+      "locationIds": ["milky-road"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep159-event-005",
+      "episodeNumber": 159,
+      "timestamp": "12:10",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Wooden Spear Trap Attack",
+      "description": "The crew faces wooden spears that shoot out from the forest, forcing them to dodge and deflect the projectiles while maintaining their course on the Milky Road.",
+      "significance": "Continues to demonstrate the deadly nature of Upper Yard's automated defense systems.",
+      "characterIds": ["luffy", "sanji", "usopp"],
+      "locationIds": ["milky-road"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep159-event-006",
+      "episodeNumber": 159,
+      "timestamp": "14:25",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Razor Boomerang Trap",
+      "description": "A razor-sharp boomerang launches from the forest, flying toward the crew and forcing them to duck and weave to avoid being struck by the deadly projectile.",
+      "significance": "Further emphasizes the variety and creativity of the traps protecting Upper Yard from intruders.",
+      "characterIds": ["luffy", "sanji", "usopp"],
+      "locationIds": ["milky-road"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep159-event-007",
+      "episodeNumber": 159,
+      "timestamp": "16:40",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Sky Lamprey Attack",
+      "description": "A large eel-like Sky Lamprey emerges from the clouds and attacks the crew's boat, attempting to devour them whole with its massive jaws.",
+      "significance": "Introduces the dangerous wildlife of Upper Yard, showing that the threats aren't just mechanical traps but also include the local fauna.",
+      "characterIds": ["luffy", "sanji", "usopp"],
+      "locationIds": ["milky-road"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep159-event-008",
+      "episodeNumber": 159,
+      "timestamp": "17:15",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "Luffy Defeats the Sky Lamprey",
+      "description": "Luffy uses his Gomu Gomu no Pistol to punch the Sky Lamprey, defeating the creature and sending it flying away from their boat.",
+      "significance": "Demonstrates Luffy's quick reflexes and combat prowess. This is an anime-original change, as in the manga Sanji defeats the lamprey instead.",
+      "characterIds": ["luffy"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "locationIds": ["milky-road"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep159-event-009",
+      "episodeNumber": 159,
+      "timestamp": "19:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Arrival at the Ordeal Gates",
+      "description": "After surviving the gauntlet of traps and creatures, Luffy, Sanji, and Usopp arrive at a massive mask-like gate with four distinct entrances. Each entrance leads to a different Ordeal: Swamp, Iron, String, and Balls.",
+      "significance": "This is a pivotal moment where the crew must choose which trial to face. Each Ordeal is overseen by one of Enel's priests and represents a different type of deadly challenge.",
+      "characterIds": ["luffy", "sanji", "usopp"],
+      "locationIds": ["ordeal-gates", "upper-yard"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [160],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep159-event-010",
+      "episodeNumber": 159,
+      "timestamp": "20:15",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "The Four Ordeals Explained",
+      "description": "The episode reveals the nature of the four Ordeals that protect Upper Yard. Each trial has a different survival rate and is guarded by one of Enel's priests who will hunt anyone who enters their domain.",
+      "significance": "This establishes the structure of the upcoming challenges and introduces the concept of Enel's priest system, showing the organized nature of his rule over Skypiea.",
+      "characterIds": ["luffy", "sanji", "usopp"],
+      "locationIds": ["ordeal-gates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [160, 161, 162, 163],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep159-event-011",
+      "episodeNumber": 159,
+      "timestamp": "12:40",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Zoro's Group Explores Ancient Ruins",
+      "description": "Robin, Zoro, and Nami begin exploring Upper Yard, with Robin particularly interested in the ancient ruins. Robin notes that the structures appear to be approximately 1,000 years old.",
+      "significance": "This establishes Robin's archaeological interest in Upper Yard's history and foreshadows the importance of the ancient civilization that once existed here, connecting to the overall mystery of the Poneglyphs and the Void Century.",
+      "characterIds": ["robin", "zoro", "nami"],
+      "locationIds": ["upper-yard"],
+      "quotes": [
+        {
+          "text": "These ruins are approximately 1,000 years old.",
+          "speaker": "Robin",
+          "context": "Examining the ancient structures of Upper Yard"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [165, 166, 167],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": ["ordeal-gates", "milky-road"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [160, 161, 162],
+    "payoffFrom": [158],
+    "thematicLinks": [163, 167]
+  },
+  "quotes": [
+    {
+      "text": "I'm being trusted with an important job!",
+      "speaker": "Chopper",
+      "context": "Initially feeling proud before realizing he's alone",
+      "timestamp": "05:45"
+    },
+    {
+      "text": "These ruins are approximately 1,000 years old.",
+      "speaker": "Robin",
+      "context": "Examining the ancient structures of Upper Yard",
+      "timestamp": "12:40"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Isolation and Responsibility",
+      "description": "Chopper's fear when left alone contrasts with his desire to prove himself as a reliable crew member, showing the tension between independence and the comfort of companionship.",
+      "symbolism": "Chopper guarding the ship alone represents the weight of individual responsibility within a team dynamic.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Trial and Choice",
+      "description": "The Ordeal Gates present a forced choice between different deadly paths, embodying the idea that adventure requires facing danger head-on with no safe option.",
+      "symbolism": "The four gates symbolize the inevitability of challenge and the importance of moving forward despite uncertainty.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Ancient Mysteries",
+      "description": "Robin's interest in the 1,000-year-old ruins hints at deeper historical secrets buried in Upper Yard, connecting to the series' larger mysteries about the Void Century.",
+      "symbolism": "The ancient ruins represent lost knowledge and the importance of uncovering historical truth.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Adventurous", "Tense", "Mysterious"],
+  "characterSpotlights": [
+    {
+      "characterId": "chopper",
+      "role": "Comic relief and vulnerable crew member",
+      "development": "Chopper experiences both pride and fear as he's trusted with guarding the ship alone, showing his ongoing struggle with confidence and courage.",
+      "keyActions": [
+        "Left alone to guard and repair the Going Merry",
+        "Experiences anxiety about being isolated in a dangerous location"
+      ],
+      "quotes": ["I'm being trusted with an important job!"]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Adventurous leader",
+      "development": "Luffy leads his small group through the dangerous Milky Road with his usual fearlessness, taking on threats as they come.",
+      "keyActions": [
+        "Navigates through Upper Yard's trapped Milky Road",
+        "Defeats the Sky Lamprey with Gomu Gomu no Pistol",
+        "Arrives at the Ordeal Gates"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "robin",
+      "role": "Archaeologist and knowledge seeker",
+      "development": "Robin's scholarly interest in the ancient ruins demonstrates her ongoing quest to uncover historical truths, a key aspect of her character throughout the series.",
+      "keyActions": [
+        "Identifies the ruins as approximately 1,000 years old",
+        "Leads Zoro and Nami in exploration of Upper Yard"
+      ],
+      "quotes": ["These ruins are approximately 1,000 years old."]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "In the anime, Luffy defeats the Sky Lamprey using Gomu Gomu no Pistol, whereas in the manga (Chapter 245), Sanji is the one who defeats the lamprey.",
+      "episodeTimestamp": "17:15",
+      "mangaReference": "Chapter 245",
+      "type": "CHARACTER_ACTION_CHANGE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode adapts most of Chapter 245 ('Adventure on God's Island') from Volume 26 of the manga.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_159",
+          "title": "Episode 159 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The Ordeal Gates represent one of the key structural elements of the Skypiea Arc, with each gate leading to a different priest and their unique trial.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Ordeals",
+          "title": "Ordeals - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode aired on July 6, 2003 in Japan, during the middle of the Skypiea Arc which ran from episodes 153-195.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_159",
+          "title": "Episode 159 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
