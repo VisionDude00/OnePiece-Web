@@ -1,0 +1,562 @@
+{
+  "episodeNumber": 33,
+  "episodeTitle": "Usopp Dead?! When Is Luffy Going to Make Landfall?!",
+  "episodeTitleJapanese": "ウソップ死す？！ルフィ上陸はまだ？",
+  "episodeTitleRomanized": "Usoppu Shisu?! Rufi Jōriku wa Mada?",
+  "description": "Zoro encounters Hatchan who unknowingly helps him escape from Arlong Park. Usopp is captured by Chew and brought before Arlong for interrogation. To prove her loyalty to the Arlong Pirates, Nami appears to stab Usopp, leading Johnny to believe his friend is dead. Meanwhile, Luffy's group finally arrives at the island with an exhausted Momoo crashing into the coastline.",
+  "airDate": "2000-07-19",
+  "airDateJapan": "2000-07-19",
+  "airDateJapanRemaster": "2012-11-24",
+  "airDateUS": "2005-05-07",
+  "airDateUSFunimation": "2009-01-20",
+  "arcName": "Arlong Park",
+  "sagaName": "East Blue Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Are!",
+    "titleJapanese": "ウィーアー!",
+    "artist": "Hiroshi Kitadani",
+    "composer": "Kohei Tanaka",
+    "lyricist": "Shoko Fujibayashi",
+    "episodeRange": [1, 47]
+  },
+  "endingSong": {
+    "title": "RUN! RUN! RUN!",
+    "titleJapanese": "RUN! RUN! RUN!",
+    "artist": "Maki Otsuki",
+    "composer": "Maki Otsuki",
+    "lyricist": "Maki Otsuki",
+    "episodeRange": [31, 63]
+  },
+  "credits": {
+    "director": "Yukio Kaizawa",
+    "screenplay": "Michiru Shimada",
+    "artDirector": "Kunihiro Chida",
+    "animationDirector": "Eisaku Inoue",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Arlong",
+        "actor": "Jūrōta Kosugi"
+      },
+      {
+        "character": "Hatchan",
+        "actor": "Toshiyuki Morikawa"
+      },
+      {
+        "character": "Kuroobi",
+        "actor": "Hisao Egawa"
+      },
+      {
+        "character": "Chew",
+        "actor": "Masaya Onosaka"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Arlong",
+        "actor": "Chris Rager"
+      },
+      {
+        "character": "Hatchan",
+        "actor": "George Manley"
+      },
+      {
+        "character": "Kuroobi",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Chew",
+        "actor": "Jay Hickman"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep033-event-001",
+      "episodeNumber": 33,
+      "timestamp": "03:15",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MINOR",
+      "title": "Zoro Meets Hatchan at Arlong Park",
+      "description": "After clearing the base of enemies, Zoro encounters Hatchan, one of Arlong's officers. Believing Zoro to be a guest visiting the base, Hatchan naively offers to give him a ride to Cocoyasi Village, completely unaware that Zoro had just defeated several of his crewmates.",
+      "significance": "This humorous encounter demonstrates Hatchan's oblivious nature and allows Zoro to unknowingly escape from Arlong Park before Arlong returns. It sets up a comedic moment when Hatchan later realizes his mistake.",
+      "characterIds": ["zoro", "hatchan"],
+      "locationIds": ["arlong-park"],
+      "crewIds": ["arlong-pirates"],
+      "quotes": [
+        {
+          "text": "You want a ride to Cocoyasi Village? I can take you there!",
+          "speaker": "Hatchan",
+          "context": "Hatchan offering to help Zoro, not realizing he just fought the Arlong Pirates"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [31, 32],
+      "payoffInEpisodes": [34],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep033-event-002",
+      "episodeNumber": 33,
+      "timestamp": "05:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Arlong Returns to Damaged Base",
+      "description": "Arlong returns to Arlong Park and discovers the extensive damage done to the base. His crew informs him that the intruder responsible for the destruction was the infamous Pirate Hunter Roronoa Zoro, who has now escaped.",
+      "significance": "Arlong learns that Zoro has infiltrated his base, escalating tensions and setting up the inevitable confrontation between the Straw Hats and the Arlong Pirates. This also reveals Hatchan's mistake in helping Zoro escape.",
+      "characterIds": ["arlong", "hatchan", "kuroobi", "chew"],
+      "locationIds": ["arlong-park"],
+      "crewIds": ["arlong-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [32],
+      "payoffInEpisodes": [34, 35],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep033-event-003",
+      "episodeNumber": 33,
+      "timestamp": "08:45",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "Usopp Captured After Falling from Cliff",
+      "description": "While fleeing from Arlong Pirates members after shooting Arlong, Usopp falls from a cliff near Cocoyasi Village. Chew emerges from the water below and captures the exhausted and injured Usopp, taking him prisoner.",
+      "significance": "Usopp's capture sets up one of the episode's key dramatic moments and tests Nami's resolve as she must choose between maintaining her cover with the Arlong Pirates or revealing her true loyalty to her friends.",
+      "characterIds": ["usopp", "chew"],
+      "locationIds": ["cocoyasi-village"],
+      "crewIds": ["arlong-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [32],
+      "payoffInEpisodes": [34],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep033-event-004",
+      "episodeNumber": 33,
+      "timestamp": "10:20",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Usopp Uses Tamago Boshi",
+      "description": "In an attempt to escape from the Arlong Pirates, Usopp debuts his Tamago Boshi (Egg Star) technique, firing a rotten egg projectile from his slingshot at his pursuers to blind and distract them.",
+      "significance": "First use of one of Usopp's early signature slingshot techniques. The Tamago Boshi becomes a recurring tool in his arsenal for creating distractions and escaping dangerous situations.",
+      "characterIds": ["usopp"],
+      "locationIds": ["cocoyasi-village"],
+      "quotes": [
+        {
+          "text": "Tamago Boshi!",
+          "speaker": "Usopp",
+          "context": "Usopp's first use of his rotten egg technique"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep033-event-005",
+      "episodeNumber": 33,
+      "timestamp": "11:05",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Usopp Uses Kemuri Boshi",
+      "description": "Usopp fires his Kemuri Boshi (Smoke Star) technique, launching a smoke bomb that creates a thick smokescreen to cover his escape attempt from Arlong and his pirates.",
+      "significance": "Debut of another classic Usopp technique. The Kemuri Boshi becomes one of his most frequently used tactical abilities throughout the series for creating diversions and tactical advantages.",
+      "characterIds": ["usopp", "arlong"],
+      "locationIds": ["cocoyasi-village"],
+      "quotes": [
+        {
+          "text": "Kemuri Boshi!",
+          "speaker": "Usopp",
+          "context": "Usopp's first use of his smoke bomb technique"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep033-event-006",
+      "episodeNumber": 33,
+      "timestamp": "14:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Shioyaki's Debut",
+      "description": "Shioyaki, a salmon fish-man and head of banquets for the Arlong Pirates, makes his first appearance as Arlong interrogates Usopp at Arlong Park.",
+      "significance": "Introduction of a minor Arlong Pirates member who serves as part of Arlong's crew during the arc. Shioyaki represents the broader organization of the fish-man crew.",
+      "characterIds": ["shioyaki", "arlong", "usopp"],
+      "locationIds": ["arlong-park"],
+      "crewIds": ["arlong-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [34],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep033-event-007",
+      "episodeNumber": 33,
+      "timestamp": "14:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Take's Debut",
+      "description": "Take, a carp fish-man and commander of parties for the Arlong Pirates, appears during Arlong's interrogation of Usopp at Arlong Park.",
+      "significance": "Introduction of another Arlong Pirates member. Take's presence emphasizes the size and organization of Arlong's crew during this confrontation.",
+      "characterIds": ["take", "arlong", "usopp"],
+      "locationIds": ["arlong-park"],
+      "crewIds": ["arlong-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [34],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep033-event-008",
+      "episodeNumber": 33,
+      "timestamp": "16:20",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Kuroobi Suspects Nami's Betrayal",
+      "description": "Kuroobi confronts Nami with suspicions that she helped Zoro escape from his cell. He questions her loyalty to the Arlong Pirates, having found evidence that suggests she was involved in Zoro's prison break.",
+      "significance": "This moment puts Nami in a difficult position where she must prove her allegiance to the Arlong Pirates or risk exposing her true intentions. It sets up the dramatic test of loyalty that follows.",
+      "characterIds": ["nami", "kuroobi", "zoro"],
+      "locationIds": ["arlong-park"],
+      "crewIds": ["arlong-pirates"],
+      "quotes": [
+        {
+          "text": "Did you help that swordsman escape, Nami?",
+          "speaker": "Kuroobi",
+          "context": "Kuroobi confronting Nami about Zoro's escape"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [32],
+      "payoffInEpisodes": [34, 37],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep033-event-009",
+      "episodeNumber": 33,
+      "timestamp": "18:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Nami Appears to Kill Usopp",
+      "description": "To prove her loyalty to the Arlong Pirates and dispel Kuroobi's suspicions, Nami approaches the captured Usopp and appears to stab him in the stomach. Usopp falls into the water below, appearing dead to onlookers. In reality, Nami stabbed her own hand behind Usopp's back, allowing him to escape alive while maintaining her cover.",
+      "significance": "One of the most emotionally intense moments of the Arlong Park arc. This scene demonstrates Nami's cunning and her desperate situation, forced to appear ruthless to protect both herself and her friends. It also shows the depth of sacrifice she's willing to make to maintain her mission of freeing her village.",
+      "characterIds": ["nami", "usopp", "arlong", "kuroobi", "johnny"],
+      "locationIds": ["arlong-park"],
+      "crewIds": ["arlong-pirates"],
+      "quotes": [
+        {
+          "text": "I'm sorry, Usopp.",
+          "speaker": "Nami",
+          "context": "Nami's whispered apology before appearing to stab Usopp"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [31, 32],
+      "payoffInEpisodes": [34],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep033-event-010",
+      "episodeNumber": 33,
+      "timestamp": "20:10",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Johnny Witnesses Usopp's Apparent Death",
+      "description": "Johnny, hidden and watching from a distance, witnesses Nami stab Usopp and sees him fall into the water. Believing his friend has been murdered by Nami, Johnny is devastated and prepares to report this tragedy to Luffy and the others.",
+      "significance": "Johnny's misunderstanding of the situation creates dramatic tension and will lead to conflict when he reports to Luffy. This moment tests the Straw Hats' faith in Nami and sets up emotional revelations about her true motivations.",
+      "characterIds": ["johnny", "usopp", "nami"],
+      "locationIds": ["arlong-park"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [34],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep033-event-011",
+      "episodeNumber": 33,
+      "timestamp": "21:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Luffy's Ship Arrives at the Island",
+      "description": "Momoo, exhausted from pulling Luffy's ship, crashes headfirst into the coastline of Cocoyasi Village, violently flinging the boat and the Straw Hats into the nearby woods. Despite the rough landing, Luffy's group has finally arrived at their destination.",
+      "significance": "Marks the arrival of the main force of the Straw Hat Pirates to confront the Arlong Pirates. This sets the stage for the climactic battles of the Arlong Park arc and the crew's efforts to free Nami and her village.",
+      "characterIds": ["luffy", "sanji", "yosaku"],
+      "locationIds": ["cocoyasi-village"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [32],
+      "payoffInEpisodes": [34, 35],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["shioyaki", "take"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["tamago-boshi", "kemuri-boshi"]
+  },
+  "episodeRelationships": {
+    "setupFor": [34, 35, 36, 37],
+    "payoffFrom": [31, 32],
+    "thematicLinks": [37, 39]
+  },
+  "quotes": [
+    {
+      "text": "You want a ride to Cocoyasi Village? I can take you there!",
+      "speaker": "Hatchan",
+      "context": "Hatchan naively offering to help Zoro escape",
+      "timestamp": "03:15"
+    },
+    {
+      "text": "Did you help that swordsman escape, Nami?",
+      "speaker": "Kuroobi",
+      "context": "Kuroobi confronting Nami about her suspected betrayal",
+      "timestamp": "16:20"
+    },
+    {
+      "text": "I'm sorry, Usopp.",
+      "speaker": "Nami",
+      "context": "Nami's whispered apology before appearing to stab Usopp",
+      "timestamp": "18:45"
+    },
+    {
+      "text": "Tamago Boshi!",
+      "speaker": "Usopp",
+      "context": "Usopp using his rotten egg attack for the first time",
+      "timestamp": "10:20"
+    },
+    {
+      "text": "Kemuri Boshi!",
+      "speaker": "Usopp",
+      "context": "Usopp using his smoke bomb attack for the first time",
+      "timestamp": "11:05"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Sacrifice and Loyalty",
+      "description": "Nami must make an impossible choice to maintain her cover with the Arlong Pirates, appearing to betray and kill her friend Usopp to protect both her mission and ultimately her crewmates. Her willingness to sacrifice her own hand demonstrates the depth of her commitment.",
+      "symbolism": "Nami stabbing her own hand represents the pain and sacrifice she endures to protect those she cares about, hidden from view.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Deception and Truth",
+      "description": "The episode explores multiple layers of deception - Hatchan's obliviousness to Zoro's identity, Nami's false display of loyalty to Arlong, and the hidden truth behind Usopp's apparent death. What appears on the surface is often far from reality.",
+      "symbolism": "The smoke from Usopp's Kemuri Boshi technique symbolizes obscured truth and hidden intentions.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Determination Under Pressure",
+      "description": "Both Usopp and Nami demonstrate resourcefulness when cornered. Usopp uses his new techniques to attempt escape, while Nami finds a clever way to protect Usopp while maintaining her cover. The episode shows characters making difficult decisions under extreme pressure.",
+      "symbolism": "Usopp's slingshot techniques represent his growth and determination despite being outmatched physically.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Dramatic", "Suspenseful", "Comedic"],
+  "characterSpotlights": [
+    {
+      "characterId": "nami",
+      "role": "Central character in moral dilemma",
+      "development": "Nami is forced to prove her loyalty to the Arlong Pirates by appearing to kill Usopp. This scene reveals her cunning, sacrifice, and the emotional toll of her double life. She must act ruthlessly while secretly protecting her friends.",
+      "keyActions": [
+        "Suspected of helping Zoro escape by Kuroobi",
+        "Approaches the captured Usopp",
+        "Appears to stab Usopp while actually stabbing her own hand",
+        "Maintains her cover with the Arlong Pirates"
+      ],
+      "quotes": [
+        "I'm sorry, Usopp."
+      ]
+    },
+    {
+      "characterId": "usopp",
+      "role": "Victim and escape artist",
+      "development": "Usopp demonstrates his resourcefulness by debuting two new slingshot techniques in his escape attempt. Though ultimately captured, he shows growth in his combat abilities and quick thinking under pressure.",
+      "keyActions": [
+        "Attempts to escape using Tamago Boshi",
+        "Uses Kemuri Boshi to create smokescreen",
+        "Falls from cliff and is captured by Chew",
+        "Brought before Arlong for interrogation",
+        "Appears to be killed by Nami"
+      ],
+      "quotes": [
+        "Tamago Boshi!",
+        "Kemuri Boshi!"
+      ]
+    },
+    {
+      "characterId": "zoro",
+      "role": "Escaping warrior",
+      "development": "After defeating numerous Arlong Pirates members, Zoro encounters Hatchan who unknowingly helps him escape. This shows Zoro's luck and the comedic incompetence of some of Arlong's crew.",
+      "keyActions": [
+        "Meets Hatchan who doesn't recognize the situation",
+        "Accepts ride to Cocoyasi Village",
+        "Escapes before Arlong returns to the base"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "hatchan",
+      "role": "Unwitting accomplice",
+      "development": "Hatchan's naive and friendly nature is highlighted as he completely fails to recognize that Zoro had just fought his crewmates, instead offering him help. This establishes his character as more innocent than his fellow officers.",
+      "keyActions": [
+        "Encounters Zoro at damaged Arlong Park",
+        "Offers Zoro a ride to Cocoyasi Village",
+        "Later realizes his mistake when Arlong returns"
+      ],
+      "quotes": [
+        "You want a ride to Cocoyasi Village? I can take you there!"
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "In the anime, when Nami stabs Usopp, he falls into the water on his own. In the manga, Nami kicks him into the water after stabbing her hand.",
+      "episodeTimestamp": "18:45",
+      "mangaReference": "Chapter 73",
+      "type": "ACTION_CHANGE"
+    },
+    {
+      "difference": "The anime censors the blood from Nami's stabbed hand, depicting it as white rather than red.",
+      "episodeTimestamp": "18:45",
+      "mangaReference": "Chapter 73",
+      "type": "CENSORSHIP"
+    },
+    {
+      "difference": "The anime includes an extended scene of Arlong returning to his base and discovering the damage, with more dialogue and reaction shots than in the manga.",
+      "episodeTimestamp": "05:30",
+      "mangaReference": "Chapter 73",
+      "type": "EXPANDED_SCENE"
+    },
+    {
+      "difference": "The pursuit sequence with Usopp being chased before his capture is expanded in the anime with additional action and the explicit use of his Tamago Boshi and Kemuri Boshi techniques.",
+      "episodeTimestamp": "08:45",
+      "mangaReference": "Chapter 73",
+      "type": "EXPANDED_SCENE"
+    },
+    {
+      "difference": "The anime adds a scene of Kuroobi inspecting Zoro's empty prison cell to build suspicion about Nami's involvement.",
+      "episodeTimestamp": "16:20",
+      "mangaReference": "Chapter 73",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode adapts content from Manga Chapters 73 and 74, which are part of Volume 9 of the One Piece manga.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_33",
+          "title": "Episode 33 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-01-18"
+        }
+      ]
+    },
+    {
+      "fact": "Shioyaki's name is a Japanese cooking method for fish, literally meaning 'salt-grilled.' This fits with his character being a salmon fish-man.",
+      "category": "CHARACTER",
+      "sources": []
+    },
+    {
+      "fact": "Take's name contains a pun - the kanji for 'koi' (恋) on his forehead means 'love' but is also the Japanese word for carp, referencing his species.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Take",
+          "title": "Take - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-01-18"
+        }
+      ]
+    },
+    {
+      "fact": "The ending theme 'RUN! RUN! RUN!' by Maki Otsuki, which debuted in Episode 31, continues in this episode. It replaced the first ending theme 'Memories' which was also performed by Maki Otsuki.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/RUN!_RUN!_RUN!",
+          "title": "RUN! RUN! RUN! - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-01-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode originally aired in Japan on July 19, 2000, and was later remastered and re-aired on November 24, 2012.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_33",
+          "title": "Episode 33 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-01-18"
+        }
+      ]
+    },
+    {
+      "fact": "The 4Kids English dub gave this episode a completely different title: 'The Marked Marksman,' while the Odex dub called it 'The End of Ussop?' (with Usopp's name misspelled).",
+      "category": "LOCALIZATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_33",
+          "title": "Episode 33 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-01-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
