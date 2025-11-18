@@ -1,0 +1,195 @@
+[
+  {
+    "name": {
+      "english": "Drum Island",
+      "japanese": "ドラム島",
+      "romanized": "Doramu-tō"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Drum Island",
+    "debutEpisode": 78,
+    "debutChapter": 130,
+    "description": "A winter island in the Grand Line known for its constant snow and its former reputation for having excellent doctors. The island is dominated by the towering Drum Rockies mountains.",
+    "episodeAppearances": [83],
+    "keyEvents": [
+      {
+        "episodeNumber": 83,
+        "eventId": "ep083-event-001",
+        "eventType": "BATTLE_START",
+        "title": "Wapol Intercepts Luffy",
+        "description": "Wapol and his men intercept Luffy on Drum Island as he tries to reach the mountain.",
+        "significance": "The conflict between Luffy and Wapol escalates on the island.",
+        "timestamp": "03:15"
+      },
+      {
+        "episodeNumber": 83,
+        "eventId": "ep083-event-002",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Lapahn Repays Luffy's Kindness",
+        "description": "The Lapahn that Luffy saved returns with its group to help Luffy escape from Wapol on Drum Island.",
+        "significance": "Demonstrates how acts of kindness create unexpected allies.",
+        "timestamp": "05:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [],
+    "parentLocation": null,
+    "childLocations": ["drum-rockies", "drum-castle", "bighorn"],
+    "relatedCharacters": ["luffy", "chopper", "kureha", "wapol", "dalton"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Drum Island"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Drum Rockies",
+      "japanese": "ドラムロッキー",
+      "romanized": "Doramu Rokkī"
+    },
+    "locationType": "MOUNTAIN",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Drum Island",
+    "debutEpisode": 83,
+    "debutChapter": 138,
+    "description": "A series of towering, near-vertical mountain peaks on Drum Island. The tallest peak houses Drum Castle at its summit. The mountains are extremely difficult to climb, especially in the harsh winter conditions.",
+    "episodeAppearances": [83],
+    "keyEvents": [
+      {
+        "episodeNumber": 83,
+        "eventId": "ep083-event-003",
+        "eventType": "MAJOR_DECISION",
+        "title": "Luffy Begins Climbing Drum Rockies",
+        "description": "Luffy begins climbing the nearly vertical Drum Rockies mountain while carrying both Sanji and Nami on his back.",
+        "significance": "One of the most iconic displays of Luffy's determination and willpower.",
+        "timestamp": "07:30"
+      },
+      {
+        "episodeNumber": 83,
+        "eventId": "ep083-event-006",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Luffy Reaches the Summit",
+        "description": "After three hours of climbing, Luffy finally reaches the top of Drum Rockies where Drum Castle stands.",
+        "significance": "The climax of Luffy's impressive feat of endurance.",
+        "timestamp": "15:20"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 83,
+        "episodeEnd": "present",
+        "reason": "Drum Rockies debuts as a major location in this episode"
+      }
+    ],
+    "parentLocation": "drum-island",
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "nami", "sanji", "chopper"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Drum Island"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Drum Castle",
+      "japanese": "ドラム城",
+      "romanized": "Doramu-jō"
+    },
+    "locationType": "CASTLE",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Drum Island",
+    "debutEpisode": 81,
+    "debutChapter": 134,
+    "description": "A large castle situated at the top of the tallest Drum Rockies peak. It serves as the home and medical practice of Dr. Kureha and Tony Tony Chopper.",
+    "episodeAppearances": [83],
+    "keyEvents": [
+      {
+        "episodeNumber": 83,
+        "eventId": "ep083-event-006",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Luffy Reaches the Summit",
+        "description": "Luffy finally arrives at Drum Castle after his grueling climb up the mountain.",
+        "significance": "Luffy successfully delivers Nami and Sanji to the doctor.",
+        "timestamp": "15:20"
+      },
+      {
+        "episodeNumber": 83,
+        "eventId": "ep083-event-007",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Chopper Helps Luffy at the Summit",
+        "description": "Chopper helps Luffy when he arrives at Drum Castle and brings the weakened pirates inside for treatment.",
+        "significance": "Chopper's first major act of kindness toward the Straw Hats.",
+        "timestamp": "16:10"
+      },
+      {
+        "episodeNumber": 83,
+        "eventId": "ep083-event-010",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Nami Meets Chopper",
+        "description": "Inside Drum Castle, Nami awakens and meets Chopper for the first time.",
+        "significance": "Beginning of Nami's relationship with the crew's future doctor.",
+        "timestamp": "19:15"
+      },
+      {
+        "episodeNumber": 83,
+        "eventId": "ep083-event-012",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Kureha and Chopper Tend to the Crew",
+        "description": "Dr. Kureha and Chopper work together to treat the weakened Straw Hats inside Drum Castle.",
+        "significance": "Shows the medical capabilities of Kureha and Chopper.",
+        "timestamp": "21:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [],
+    "parentLocation": "drum-rockies",
+    "childLocations": [],
+    "relatedCharacters": ["chopper", "kureha", "luffy", "nami", "sanji"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Drum Island"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Bighorn",
+      "japanese": "ビッグホーン",
+      "romanized": "Biggu Hōn"
+    },
+    "locationType": "TOWN",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Drum Island",
+    "debutEpisode": 80,
+    "debutChapter": 133,
+    "description": "One of the main villages on Drum Island. The villagers are loyal to Dalton and oppose Wapol's tyranny.",
+    "episodeAppearances": [83],
+    "keyEvents": [
+      {
+        "episodeNumber": 83,
+        "eventId": "ep083-event-004",
+        "eventType": "BATTLE_START",
+        "title": "Zoro Confronts Wapol's Soldiers",
+        "description": "At Bighorn village, Zoro defeats Wapol's soldiers who were gloating over Dalton's burial.",
+        "significance": "Shows the Straw Hats' commitment to helping Drum Island's people.",
+        "timestamp": "09:20"
+      },
+      {
+        "episodeNumber": 83,
+        "eventId": "ep083-event-005",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Villagers Rescue Dalton",
+        "description": "The villagers of Bighorn dig through the snow to rescue Dalton after Zoro defeats Wapol's soldiers.",
+        "significance": "Demonstrates the villagers' loyalty to Dalton.",
+        "timestamp": "11:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [],
+    "parentLocation": "drum-island",
+    "childLocations": [],
+    "relatedCharacters": ["zoro", "vivi", "usopp", "dalton"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Drum Island"],
+    "images": []
+  }
+]

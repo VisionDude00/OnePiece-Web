@@ -1,0 +1,514 @@
+{
+  "episodeNumber": 85,
+  "episodeTitle": "Dream of the Outcasts! The Quack Doctor Hiriluk",
+  "episodeTitleJapanese": "はみだし者の夢！やぶ医者ヒルルク！",
+  "episodeTitleRomanized": "Hamidashimono no Yume! Yabu Isha Hiruruku!",
+  "description": "Kureha recounts Chopper's tragic backstory, revealing how the eccentric quack doctor Hiriluk became the young reindeer's only friend. In flashbacks, Hiriluk escapes the Doctor Hunt, meets an injured Chopper, and takes him in despite being rejected by society. Their bond grows as Hiriluk shares his dream of creating a miracle, but the episode ends with Hiriluk learning he has only ten days left to live.",
+  "airDate": "2001-10-28",
+  "airDateJapan": "2001-10-28",
+  "airDateUS": "2005-10-08",
+  "airDateUSFunimation": "2009-09-29",
+  "arcName": "Drum Island Arc",
+  "sagaName": "Arabasta Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Believe",
+    "artist": "Folder5",
+    "episodeRange": [48, 115]
+  },
+  "endingSong": {
+    "title": "BEFORE DAWN",
+    "artist": "Ai-Sachi",
+    "episodeRange": [82, 94]
+  },
+  "credits": {
+    "animationDirector": "Noboru Koizumi",
+    "director": "Yoshihiro Ueda",
+    "screenplay": "Michiru Shimada",
+    "artDirector": "Tomoko Yoshida",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Dr. Kureha",
+        "actor": "Masako Nozawa"
+      },
+      {
+        "character": "Dr. Hiriluk",
+        "actor": "Hiroshi Naka"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Dr. Kureha",
+        "actor": "Pam Dougherty"
+      },
+      {
+        "character": "Dr. Hiriluk",
+        "actor": "Kent Williams"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep085-event-001",
+      "episodeNumber": 85,
+      "timestamp": "03:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Luffy Invites Chopper to Join the Crew",
+      "description": "In the present timeline, Luffy enters Chopper's laboratory and directly asks the reindeer to become his friend and join the Straw Hat Pirates. Chopper refuses and runs away, frightened by the sudden invitation.",
+      "significance": "This marks the beginning of Luffy's recruitment of Chopper, setting up his eventual joining of the crew. It shows Luffy's straightforward approach to making new friends and crew members.",
+      "characterIds": ["luffy", "chopper"],
+      "locationIds": ["drum-castle"],
+      "quotes": [
+        {
+          "text": "Hey, you! Become my friend and join my crew!",
+          "speaker": "Luffy",
+          "context": "Luffy's direct invitation to Chopper"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [84],
+      "payoffInEpisodes": [91],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep085-event-002",
+      "episodeNumber": 85,
+      "timestamp": "04:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Kureha Begins Telling Chopper's Backstory",
+      "description": "When Kureha hears Luffy use the term 'nakama' (friend/crewmate), she decides to tell the story of the only friend Chopper ever had - Dr. Hiriluk. This begins an extended flashback revealing Chopper's tragic past.",
+      "significance": "This initiates the emotional backstory arc that explains Chopper's isolation and his complex feelings about friendship and belonging. It's crucial for understanding Chopper's character development.",
+      "characterIds": ["kureha", "chopper", "luffy"],
+      "locationIds": ["drum-castle"],
+      "quotes": [
+        {
+          "text": "Nakama? I'll tell you about the only friend that reindeer ever had.",
+          "speaker": "Kureha",
+          "context": "Kureha begins the flashback story"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [86, 87, 88],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep085-event-003",
+      "episodeNumber": 85,
+      "timestamp": "06:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Hiriluk's First Appearance",
+      "description": "In flashback, Dr. Hiriluk is shown escaping from Wapol's soldiers during the Doctor Hunt. Despite being ill and coughing up blood, he evades capture while other doctors are being rounded up and forced into servitude.",
+      "significance": "Introduces one of the most emotionally impactful characters in the Drum Island Arc. Hiriluk's character embodies the themes of dreams, sacrifice, and what it truly means to heal people.",
+      "characterIds": ["hiriluk"],
+      "locationIds": ["drum-island"],
+      "crewIds": [],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [86, 87, 88, 90],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep085-event-004",
+      "episodeNumber": 85,
+      "timestamp": "08:20",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "The Doctor Hunt Revealed",
+      "description": "The episode reveals details about Wapol's Doctor Hunt, a campaign where he forced all doctors in Drum Kingdom to serve him exclusively at the castle. Those who refused were exiled or killed, leaving the citizens without medical care. Only Hiriluk and Kureha escaped.",
+      "significance": "Establishes the oppressive political situation in Drum Kingdom and explains why the country had a reputation for excellent doctors but ordinary citizens couldn't access medical care. This context is crucial for understanding the arc's themes.",
+      "characterIds": ["wapol", "hiriluk", "kureha"],
+      "locationIds": ["drum-island", "drum-castle"],
+      "organizationIds": ["isshi-20"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [90, 91],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep085-event-005",
+      "episodeNumber": 85,
+      "timestamp": "10:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Hiriluk's Failed Medical Treatment",
+      "description": "Hiriluk attempts to treat a sick villager by injecting him with a drug made from frog essence. The treatment backfires spectacularly - the patient turns green and begins hopping and croaking like a frog before fleeing.",
+      "significance": "Establishes Hiriluk's reputation as a quack doctor whose treatments often cause more harm than good. Despite this, it shows his genuine desire to help people, even if he lacks the medical skill to do so effectively.",
+      "characterIds": ["hiriluk"],
+      "locationIds": ["drum-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep085-event-006",
+      "episodeNumber": 85,
+      "timestamp": "12:30",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Hiriluk Meets Injured Chopper",
+      "description": "Hiriluk discovers Chopper badly wounded with gunshot injuries, having been shot by humans or other reindeer who rejected him. When Hiriluk tries to help, Chopper attacks him out of fear and distrust.",
+      "significance": "This is the pivotal first meeting between Hiriluk and Chopper, establishing the foundation of their father-son relationship. It shows both characters as outcasts rejected by society, creating the bond that will define Chopper's character.",
+      "characterIds": ["hiriluk", "chopper"],
+      "locationIds": ["drum-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [84],
+      "payoffInEpisodes": [86, 87],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep085-event-007",
+      "episodeNumber": 85,
+      "timestamp": "14:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Hiriluk Strips to Gain Chopper's Trust",
+      "description": "To prove he means no harm to the frightened Chopper, Hiriluk strips completely naked in the snow, showing he has no weapons and is vulnerable. This bizarre but sincere gesture convinces Chopper that Hiriluk won't hurt him.",
+      "significance": "This memorable and comedic scene demonstrates Hiriluk's genuine compassion and willingness to do anything to help those in need. It's the turning point where Chopper begins to trust another being for the first time.",
+      "characterIds": ["hiriluk", "chopper"],
+      "locationIds": ["drum-island"],
+      "quotes": [
+        {
+          "text": "See? I have nothing! I won't hurt you!",
+          "speaker": "Hiriluk",
+          "context": "Hiriluk demonstrates his harmlessness to Chopper"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep085-event-008",
+      "episodeNumber": 85,
+      "timestamp": "16:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Chopper Cries While Eating",
+      "description": "Chopper wakes up in Hiriluk's home, bandaged and treated. Though hungry, he's suspicious and cautious. When he takes his second bite of bread, he suddenly begins crying - overwhelmed by being shown kindness for the first time in his life.",
+      "significance": "This deeply emotional moment shows Chopper experiencing compassion and care for the first time. His tears represent the breaking down of his defensive walls and the beginning of his ability to trust.",
+      "characterIds": ["chopper", "hiriluk"],
+      "locationIds": ["hiriluk-house"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep085-event-009",
+      "episodeNumber": 85,
+      "timestamp": "18:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Chopper Speaks for the First Time",
+      "description": "After three days of silence, Chopper finally speaks to Hiriluk. When asked why he didn't speak before, Chopper explains that he didn't want to talk because it's not ordinary for reindeer to speak, and he feared Hiriluk would be scared of him.",
+      "significance": "This reveals Chopper's deep-seated insecurity about being different and his fear of rejection. It shows how his Blue Nose and Devil Fruit powers have made him feel like a monster, and highlights his vulnerability.",
+      "characterIds": ["chopper", "hiriluk"],
+      "locationIds": ["hiriluk-house"],
+      "quotes": [
+        {
+          "text": "I didn't want to talk... because it's not ordinary for a reindeer to talk. I thought you might get scared.",
+          "speaker": "Chopper",
+          "context": "Chopper explains why he was silent"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [84],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep085-event-010",
+      "episodeNumber": 85,
+      "timestamp": "19:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Chopper and Hiriluk's First Fight",
+      "description": "Hiriluk and Chopper get into their first argument while visiting a village together. After the fight ends, Chopper reflects that this was his first time fighting with someone - a normal interaction he'd never experienced before.",
+      "significance": "Shows the development of their relationship into a more familial dynamic. For Chopper, even arguing with someone represents a type of normalcy and connection he'd never known.",
+      "characterIds": ["chopper", "hiriluk"],
+      "locationIds": ["drum-island"],
+      "quotes": [
+        {
+          "text": "This is my first time... fighting with someone.",
+          "speaker": "Chopper",
+          "context": "Chopper realizes he's having a normal relationship experience"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep085-event-011",
+      "episodeNumber": 85,
+      "timestamp": "20:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "CRITICAL",
+      "title": "Hiriluk Gives Chopper His Iconic Hat",
+      "description": "Hiriluk presents Chopper with a pink hat with an X mark on it - the same hat Chopper will wear throughout the series. This gift symbolizes their bond and gives Chopper something that makes him feel like he belongs.",
+      "significance": "This is one of the most important symbolic moments in Chopper's backstory. The hat becomes Chopper's most treasured possession and a constant reminder of Hiriluk. It represents acceptance, love, and the idea that being different is not something to hide.",
+      "characterIds": ["hiriluk", "chopper"],
+      "locationIds": ["drum-island"],
+      "itemIds": ["chopper-hat"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep085-event-012",
+      "episodeNumber": 85,
+      "timestamp": "21:30",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "CRITICAL",
+      "title": "Hiriluk's Cherry Blossom Story",
+      "description": "Hiriluk tells Chopper about his past as a thief who was dying from illness. He explains that seeing cherry blossoms bloom miraculously cured him, transforming his life. He shares his dream of creating cherry blossoms that can bloom in Drum Kingdom's eternal winter, believing such a miracle could heal the country's frozen hearts.",
+      "significance": "This story is central to the entire Drum Island Arc's themes. It establishes Hiriluk's philosophy about miracles, hope, and healing. The cherry blossom metaphor becomes the emotional core of Chopper's story and directly sets up the arc's climax.",
+      "characterIds": ["hiriluk", "chopper"],
+      "locationIds": ["drum-island"],
+      "quotes": [
+        {
+          "text": "When a man sees cherry blossoms blooming in the dead of winter, even the most frozen heart can be healed.",
+          "speaker": "Hiriluk",
+          "context": "Hiriluk shares his philosophy and dream with Chopper"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [86, 87, 90],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep085-event-013",
+      "episodeNumber": 85,
+      "timestamp": "23:15",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Hiriluk Kicks Chopper Out",
+      "description": "Without explanation, Hiriluk suddenly turns on Chopper, yelling at him to leave and even shooting at him to drive him away. Chopper is heartbroken and confused, not understanding why his only friend has rejected him.",
+      "significance": "This devastating moment sets up the tragedy of Hiriluk's approaching death. Hiriluk is trying to protect Chopper from the pain of watching him die, but Chopper only feels the abandonment and rejection he'd feared all along.",
+      "characterIds": ["hiriluk", "chopper"],
+      "locationIds": ["hiriluk-house"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [86],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep085-event-014",
+      "episodeNumber": 85,
+      "timestamp": "24:30",
+      "eventType": "DEATH",
+      "severity": "CRITICAL",
+      "title": "Hiriluk Learns He Has Ten Days to Live",
+      "description": "After driving Chopper away, Hiriluk visits Dr. Kureha and asks her to examine him. She delivers the devastating diagnosis that he has only ten days left to live. Despite this, Hiriluk declares that he will show Chopper that anything is possible before he dies.",
+      "significance": "This revelation transforms the entire arc into a countdown toward tragedy. It explains Hiriluk's behavior and sets up his final sacrifice. The ten-day timeline creates urgency and dramatic tension for the upcoming episodes.",
+      "characterIds": ["hiriluk", "kureha"],
+      "locationIds": ["kureha-house"],
+      "quotes": [
+        {
+          "text": "Ten days... That's all the time I have left. But it's enough. I'll show Chopper that anything is possible!",
+          "speaker": "Hiriluk",
+          "context": "Hiriluk's determination despite his terminal diagnosis"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [86, 87],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["hiriluk"],
+    "locations": ["hiriluk-house"],
+    "devilFruits": [],
+    "crews": [],
+    "organizations": ["isshi-20"],
+    "abilities": [],
+    "items": ["chopper-hat"]
+  },
+  "episodeRelationships": {
+    "setupFor": [86, 87, 88, 90],
+    "payoffFrom": [84],
+    "thematicLinks": [90, 91]
+  },
+  "quotes": [
+    {
+      "text": "I didn't want to talk... because it's not ordinary for a reindeer to talk. I thought you might get scared.",
+      "speaker": "Chopper",
+      "context": "Chopper explains his fear of rejection",
+      "timestamp": "18:20"
+    },
+    {
+      "text": "When a man sees cherry blossoms blooming in the dead of winter, even the most frozen heart can be healed.",
+      "speaker": "Hiriluk",
+      "context": "Hiriluk shares his dream and philosophy",
+      "timestamp": "21:30"
+    },
+    {
+      "text": "Ten days... That's all the time I have left. But it's enough. I'll show Chopper that anything is possible!",
+      "speaker": "Hiriluk",
+      "context": "Hiriluk's determination despite terminal illness",
+      "timestamp": "24:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Acceptance and Belonging",
+      "description": "The episode explores Chopper's desperate need for acceptance after being rejected by both humans and reindeer. Hiriluk's unconditional acceptance transforms Chopper's life and shows that true bonds transcend physical differences.",
+      "symbolism": "The pink hat represents acceptance and belonging - a visible symbol that Chopper is valued despite being different.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Dreams and Hope",
+      "description": "Hiriluk's cherry blossom dream represents the power of hope to transform lives. Even as a 'quack doctor' who can't heal bodies, Hiriluk believes in healing hearts through miracles and maintaining hope against all odds.",
+      "symbolism": "Cherry blossoms blooming in winter symbolize the impossible becoming possible through determination and belief.",
+      "culturalReferences": ["Cherry blossoms (sakura) hold deep cultural significance in Japanese culture, representing the beauty and fragility of life"]
+    },
+    {
+      "theme": "Outcasts and Society",
+      "description": "Both Hiriluk and Chopper are outcasts - the quack doctor and the monster reindeer. Their bond shows how those rejected by society can find family and purpose with each other.",
+      "symbolism": "Both characters exist outside normal society but create their own meaningful relationship",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Sacrifice and Love",
+      "description": "Hiriluk's cruel rejection of Chopper is actually an act of love - trying to spare Chopper the pain of watching him die. This introduces the theme of painful sacrifices made out of love.",
+      "symbolism": "Hiriluk pushing Chopper away while actually protecting him represents the complexity of parental love",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tragic", "Heartwarming", "Emotional", "Hopeful"],
+  "characterSpotlights": [
+    {
+      "characterId": "hiriluk",
+      "role": "Deuteragonist (flashback focus)",
+      "development": "Hiriluk is introduced as an eccentric quack doctor with a terminal illness and an impossible dream. Despite being incompetent at medicine, his compassion and philosophy about healing hearts establishes him as one of the series' most memorable father figures.",
+      "keyActions": [
+        "Escapes the Doctor Hunt",
+        "Meets and rescues injured Chopper",
+        "Strips naked to gain Chopper's trust",
+        "Gives Chopper his iconic pink hat",
+        "Shares his cherry blossom dream",
+        "Drives Chopper away to protect him",
+        "Learns he has ten days to live"
+      ],
+      "quotes": [
+        "When a man sees cherry blossoms blooming in the dead of winter, even the most frozen heart can be healed."
+      ]
+    },
+    {
+      "characterId": "chopper",
+      "role": "Protagonist (flashback focus)",
+      "development": "Through flashbacks, we see Chopper transform from a wounded, fearful creature who won't even speak into someone capable of trust, friendship, and even conflict. His relationship with Hiriluk is the foundation of his character.",
+      "keyActions": [
+        "Meets Hiriluk while badly injured",
+        "Accepts Hiriluk's help after he strips naked",
+        "Cries while eating bread - experiencing kindness",
+        "Speaks for the first time to Hiriluk",
+        "Fights with Hiriluk for the first time",
+        "Receives his iconic pink hat",
+        "Gets driven away by Hiriluk"
+      ],
+      "quotes": [
+        "I didn't want to talk... because it's not ordinary for a reindeer to talk. I thought you might get scared.",
+        "This is my first time... fighting with someone."
+      ]
+    },
+    {
+      "characterId": "kureha",
+      "role": "Narrator/Supporting",
+      "development": "Kureha serves as the storyteller, recounting Chopper's past to Luffy. Her decision to share this story shows her understanding of what Luffy needs to know to truly reach Chopper.",
+      "keyActions": [
+        "Begins telling Chopper's backstory",
+        "Diagnoses Hiriluk with ten days to live"
+      ],
+      "quotes": [
+        "Nakama? I'll tell you about the only friend that reindeer ever had."
+      ]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Supporting (present timeline)",
+      "development": "Luffy's straightforward invitation to Chopper demonstrates his character - he sees value in Chopper immediately and wants him as a friend, regardless of Chopper's appearance or fears.",
+      "keyActions": [
+        "Asks Chopper to join his crew",
+        "Listens to Chopper's backstory (implicitly)"
+      ],
+      "quotes": [
+        "Hey, you! Become my friend and join my crew!"
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime expands on some of the flashback sequences with additional scenes showing Hiriluk and Chopper's daily life together.",
+      "episodeTimestamp": "Various",
+      "mangaReference": "Chapter 141-142",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the first full appearance and backstory of Dr. Hiriluk, who despite being a quack doctor, is considered one of the most philosophically important characters in One Piece.",
+      "category": "CHARACTER",
+      "sources": []
+    },
+    {
+      "fact": "The pink hat that Hiriluk gives to Chopper becomes one of the most iconic accessories in One Piece, with Chopper wearing it throughout the entire series.",
+      "category": "CONTINUITY",
+      "sources": []
+    },
+    {
+      "fact": "Hiriluk's philosophy about cherry blossoms and miracles is inspired by the Japanese cultural significance of sakura, which represent both beauty and the transient nature of life.",
+      "category": "CULTURAL",
+      "sources": []
+    },
+    {
+      "fact": "The voice actor for Hiriluk in Japanese, Hiroshi Naka, brings a perfect blend of comedy and tragedy to the character's emotional range.",
+      "category": "VOICE_ACTING",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

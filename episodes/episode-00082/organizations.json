@@ -1,0 +1,72 @@
+[
+  {
+    "id": "bliking-pirates",
+    "name": {
+      "english": "Bliking Pirates",
+      "japanese": "ブリキング海賊団",
+      "romanized": "Burikingu Kaizokudan"
+    },
+    "organizationType": "PIRATE_CREW",
+    "debutEpisode": 79,
+    "debutChapter": 131,
+    "episodeAppearances": [82],
+    "captain": "wapol",
+    "members": [
+      {
+        "characterId": "wapol",
+        "role": "Captain",
+        "episodeJoined": 79,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "chess",
+        "role": "Minister of Defense",
+        "episodeJoined": 79,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "kuromarimo",
+        "role": "Minister of Justice",
+        "episodeJoined": 79,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "isshi-20",
+        "role": "Medical Staff",
+        "episodeJoined": 82,
+        "episodeLeft": null
+      }
+    ],
+    "formerMembers": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 82,
+        "eventId": "ep082-event-005",
+        "momentType": "LOCATION_ARRIVAL",
+        "title": "Bliking Pirates Land at Bighorn",
+        "description": "Wapol and his crew arrive at Bighorn on Drum Island, intending to reclaim the kingdom.",
+        "significance": "Marks the beginning of the conflict between Wapol's forces and the people of Drum Island.",
+        "timestamp": "12:30"
+      }
+    ],
+    "territory": ["drum-island"],
+    "ship": "bliking",
+    "jollyRoger": "A skull with Wapol's distinctive jaw and crown",
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 79,
+        "episodeEnd": "present",
+        "reason": "Crew formed after Wapol was driven from Drum Island by Blackbeard"
+      }
+    ],
+    "affiliations": [],
+    "rivals": ["straw-hat-pirates"],
+    "description": "The pirate crew formed by the former King Wapol after he was driven from Drum Island by Blackbeard. The crew consists of former royal advisors and servants, including Chess, Kuromarimo, and the elite Isshi-20 doctors.",
+    "objectives": [
+      "Reclaim Drum Kingdom for Wapol",
+      "Restore Wapol to his position as king"
+    ]
+  }
+]

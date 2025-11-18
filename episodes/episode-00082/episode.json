@@ -1,0 +1,482 @@
+{
+  "episodeNumber": 82,
+  "episodeTitle": "Dalton's Resolve! Wapol's Corps Land on the Island!",
+  "episodeTitleJapanese": "ドルトンの覚悟！ワポル軍団島に上陸",
+  "episodeTitleRomanized": "Doruton no kakugo! Waporu gundan shima ni jōriku",
+  "description": "As Luffy and Sanji battle fierce Lapahns on the mountain, an avalanche strikes, seriously injuring Sanji. Meanwhile, Dalton confronts the returning Wapol and his forces in Bighorn, revealing his Devil Fruit powers to protect the villagers.",
+  "airDate": "2001-10-07",
+  "airDateJapan": "2001-10-07",
+  "airDateUS": "2005-09-17",
+  "airDateFunimation": "2009-09-29",
+  "arcName": "Drum Island Arc",
+  "sagaName": "Arabasta Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Believe",
+    "artist": "Folder5",
+    "episodeRange": [49, 115]
+  },
+  "endingSong": {
+    "title": "BEFORE DAWN",
+    "artist": "Ai-Sachi",
+    "episodeRange": [82, 94]
+  },
+  "credits": {
+    "animationDirector": "Kenji Yokoyama",
+    "director": "Harume Kosaka",
+    "screenplay": "Michiru Shimada",
+    "artDirection": "Kunihiro Chida",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Dalton",
+        "actor": "Taiten Kusunoki"
+      },
+      {
+        "character": "Wapol",
+        "actor": "Bin Shimada"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Misa Watanabe"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Dalton",
+        "actor": "Kent Williams"
+      },
+      {
+        "character": "Wapol",
+        "actor": "Andy Mullins"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep082-event-001",
+      "episodeNumber": 82,
+      "timestamp": "04:30",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Luffy and Sanji Fight Lapahns",
+      "description": "While climbing the Drum Rockies with the sick Nami on his back, Luffy and Sanji are attacked by dozens of ferocious Lapahns (giant carnivorous rabbits). The two must fend off the aggressive creatures while protecting Nami.",
+      "significance": "This battle triggers the avalanche that becomes a major obstacle for the crew and seriously injures Sanji, forcing Luffy to carry both companions up the mountain.",
+      "characterIds": ["luffy", "sanji", "nami"],
+      "locationIds": ["drum-rockies"],
+      "quotes": [
+        {
+          "text": "We need to get to high ground!",
+          "speaker": "Sanji",
+          "context": "Sanji spots the incoming avalanche during the Lapin fight"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [81],
+      "payoffInEpisodes": [83],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep082-event-002",
+      "episodeNumber": 82,
+      "timestamp": "06:15",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Avalanche Strikes - Sanji Injured",
+      "description": "The Lapin battle triggers a massive avalanche. Sanji heroically hurls Luffy (carrying Nami) out of harm's way and takes the full brunt of the avalanche himself, dislocating his spine and becoming unable to move.",
+      "significance": "Sanji's sacrifice showcases his protective nature and creates a critical turning point - Luffy must now carry both his sick navigator and injured cook up the treacherous mountain, making his journey exponentially more difficult.",
+      "characterIds": ["sanji", "luffy", "nami"],
+      "locationIds": ["drum-rockies"],
+      "quotes": [
+        {
+          "text": "Luffy! Take Nami and get to safety!",
+          "speaker": "Sanji",
+          "context": "Sanji's last words before sacrificing himself to save them from the avalanche"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [81],
+      "payoffInEpisodes": [83, 84],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep082-event-003",
+      "episodeNumber": 82,
+      "timestamp": "08:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Luffy Rescues Baby Lapin's Parent",
+      "description": "After the avalanche, Luffy notices a baby Lapin trying desperately to dig out its parent trapped in the snow. Despite his urgent mission and already carrying two people, Luffy stops to help rescue the trapped Lapin.",
+      "significance": "This moment demonstrates Luffy's compassion even toward creatures that just attacked him, and establishes goodwill with the Lapahns that pays off later in the arc. It also shows his refusal to ignore someone in need, even when pressed for time.",
+      "characterIds": ["luffy"],
+      "locationIds": ["drum-rockies"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [90],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep082-event-004",
+      "episodeNumber": 82,
+      "timestamp": "10:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Luffy Begins Climbing with Both Nami and Sanji",
+      "description": "With Sanji now critically injured and unable to walk, Luffy makes the decision to carry both Sanji and Nami up the sheer Drum Rockies. He begins the arduous climb in freezing conditions while bearing the weight of both his crewmates.",
+      "significance": "This is one of the most physically demanding feats Luffy has attempted, showcasing his determination to save his crew at any cost. His hands and feet will be severely damaged by the time he reaches the top.",
+      "characterIds": ["luffy", "sanji", "nami"],
+      "locationIds": ["drum-rockies"],
+      "quotes": [
+        {
+          "text": "Don't worry! I'll get you both to a doctor!",
+          "speaker": "Luffy",
+          "context": "Luffy's promise to his injured crewmates before beginning the climb"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [78, 79, 81],
+      "payoffInEpisodes": [83],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep082-event-005",
+      "episodeNumber": 82,
+      "timestamp": "12:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Wapol's Forces Land at Bighorn",
+      "description": "Former King Wapol and his crew, including Chess and Kuromarimo, arrive at the village of Bighorn on Drum Island, intending to reclaim his throne and kingdom after being driven away by Blackbeard.",
+      "significance": "Wapol's return threatens the fragile peace on Drum Island and forces Dalton into direct confrontation with his former king. This sets up the major conflict for the remainder of the arc.",
+      "characterIds": ["wapol", "chess", "kuromarimo"],
+      "locationIds": ["bighorn"],
+      "crewIds": ["bliking-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [79, 80, 81],
+      "payoffInEpisodes": [83, 84, 85, 86, 87],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep082-event-006",
+      "episodeNumber": 82,
+      "timestamp": "14:45",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Dalton Confronts Wapol",
+      "description": "Dalton, the former Chief of the Royal Guard, stands up to confront Wapol and demands he leave Drum Island. Despite knowing he cannot win alone, Dalton prepares to fight to protect the island and its people from Wapol's tyranny.",
+      "significance": "This marks Dalton's transformation from loyal soldier to heroic protector of the people. His willingness to stand against overwhelming odds establishes him as a true leader and hero of Drum Island.",
+      "characterIds": ["dalton", "wapol"],
+      "locationIds": ["bighorn"],
+      "quotes": [
+        {
+          "text": "Wapol! Leave this island at once! You are no longer welcome here!",
+          "speaker": "Dalton",
+          "context": "Dalton's defiant challenge to the former king"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [79, 80, 81],
+      "payoffInEpisodes": [83, 84],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep082-event-007",
+      "episodeNumber": 82,
+      "timestamp": "16:20",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Dalton's Devil Fruit Revealed - Ushi Ushi no Mi, Model: Bison",
+      "description": "During the confrontation with Wapol, Dalton transforms into his human-bison hybrid form using the Ushi Ushi no Mi, Model: Bison. His former comrades identify the Devil Fruit by name, revealing its abilities to the audience.",
+      "significance": "This is the first time Dalton's Devil Fruit is officially named in the anime, and it showcases the first 'standard' Zoan transformation focused on speed and agility rather than pure strength. It demonstrates Dalton's commitment to protecting the island.",
+      "characterIds": ["dalton"],
+      "devilFruitIds": ["ushi-ushi-no-mi-model-bison"],
+      "locationIds": ["bighorn"],
+      "quotes": [
+        {
+          "text": "That's the Ushi Ushi no Mi, Model: Bison!",
+          "speaker": "Wapol's soldier",
+          "context": "Wapol's crew identifying Dalton's Devil Fruit power"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [81],
+      "payoffInEpisodes": [84],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep082-event-008",
+      "episodeNumber": 82,
+      "timestamp": "18:00",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Chess's Arrow Attack - Dalton Protects Villagers",
+      "description": "Chess, Wapol's Minister of Defense, targets villagers who try to help Dalton. In a selfless act, Dalton shields the civilians from Chess's arrows, taking multiple hits himself and becoming severely wounded.",
+      "significance": "Dalton's sacrifice demonstrates his evolution from a soldier who once served Wapol to a true protector of the people. His willingness to take arrows for the villagers cements his role as Drum Island's guardian and future king.",
+      "characterIds": ["dalton", "chess", "wapol"],
+      "locationIds": ["bighorn"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [83, 84],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep082-event-009",
+      "episodeNumber": 82,
+      "timestamp": "19:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Isshi-20 Doctors Debut",
+      "description": "The Isshi-20, a group of twenty highly skilled doctors serving Wapol, make their first appearance in the anime. They quickly treat Wapol's injuries sustained from Dalton's attack, demonstrating their exceptional medical abilities.",
+      "significance": "The Isshi-20 represent the corrupted medical system of Drum Island under Wapol's rule - elite doctors serving only the king while the people suffer. They contrast sharply with Dr. Kureha and the values Chopper will come to embody.",
+      "characterIds": ["isshi-20", "wapol"],
+      "locationIds": ["bighorn"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep082-event-010",
+      "episodeNumber": 82,
+      "timestamp": "21:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "BEFORE DAWN Ending Debuts",
+      "description": "Episode 82 marks the first use of 'BEFORE DAWN' by Ai-Sachi as the ending theme for One Piece. The ending animation features the Straw Hat crew in a footrace on an island, with Nami winning and the crew celebrating around a campfire.",
+      "significance": "This is the first One Piece ending theme to feature Nefertari Vivi, reflecting her growing integration into the crew. The uplifting tone contrasts with the serious events of the Drum Island arc.",
+      "characterIds": [],
+      "locationIds": [],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["isshi-20"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [83, 84, 85],
+    "payoffFrom": [78, 79, 80, 81],
+    "thematicLinks": [77, 90]
+  },
+  "quotes": [
+    {
+      "text": "Wapol! Leave this island at once! You are no longer welcome here!",
+      "speaker": "Dalton",
+      "context": "Dalton's defiant challenge to Wapol in Bighorn",
+      "timestamp": "14:45"
+    },
+    {
+      "text": "Don't worry! I'll get you both to a doctor!",
+      "speaker": "Luffy",
+      "context": "Luffy's promise to Nami and Sanji before climbing the mountain with both",
+      "timestamp": "10:00"
+    },
+    {
+      "text": "We need to get to high ground!",
+      "speaker": "Sanji",
+      "context": "Warning Luffy about the incoming avalanche",
+      "timestamp": "06:15"
+    },
+    {
+      "text": "That's the Ushi Ushi no Mi, Model: Bison!",
+      "speaker": "Wapol's soldier",
+      "context": "Identifying Dalton's Devil Fruit transformation",
+      "timestamp": "16:20"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Sacrifice and Protection",
+      "description": "Both Sanji and Dalton demonstrate willingness to sacrifice themselves to protect others - Sanji takes the full force of an avalanche to save Luffy and Nami, while Dalton shields villagers from Chess's arrows with his own body.",
+      "symbolism": "The physical wounds both characters sustain represent the cost of true heroism and the burden leaders carry to protect those they care about.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Determination Against Overwhelming Odds",
+      "description": "Luffy's decision to carry both Sanji and Nami up the treacherous Drum Rockies and Dalton's choice to stand alone against Wapol's forces both exemplify refusing to give up despite impossible circumstances.",
+      "symbolism": "The vertical climb up the mountain mirrors the uphill battle both protagonists face, but their refusal to stop showcases the indomitable will that defines true heroes.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Compassion in Crisis",
+      "description": "Even in desperate situations, both Luffy and Dalton show compassion - Luffy stops to help a baby Lapin rescue its parent, while Dalton puts villagers' safety above his own.",
+      "symbolism": "These acts of kindness, even when it would be easier to ignore those in need, separate heroes from those who only care about their own goals.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Tyranny vs. Freedom",
+      "description": "Wapol's return represents the threat of oppressive rule returning to Drum Island, while Dalton's resistance symbolizes the people's fight for freedom and self-determination.",
+      "symbolism": "The confrontation between former king and former servant represents the broader conflict between authoritarian rule and democratic freedom.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Heroic", "Desperate", "Inspiring"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Determined savior carrying his crew to safety",
+      "development": "Luffy's willingness to bear incredible physical burden to save his friends showcases his growth as a captain who will sacrifice everything for his crew.",
+      "keyActions": [
+        "Fights Lapahns while protecting Nami",
+        "Survives the avalanche with Sanji's help",
+        "Rescues trapped Lapin parent for baby Lapin",
+        "Begins climbing Drum Rockies carrying both Nami and Sanji"
+      ],
+      "quotes": ["Don't worry! I'll get you both to a doctor!"]
+    },
+    {
+      "characterId": "sanji",
+      "role": "Selfless protector who sacrifices himself",
+      "development": "Sanji's decision to take the avalanche himself rather than let it harm Luffy and Nami exemplifies his core character trait of protecting others, especially women, at any cost.",
+      "keyActions": [
+        "Fights Lapahns alongside Luffy",
+        "Spots incoming avalanche and warns Luffy",
+        "Throws Luffy and Nami to safety",
+        "Takes full force of avalanche, dislocating his spine"
+      ],
+      "quotes": ["We need to get to high ground!", "Luffy! Take Nami and get to safety!"]
+    },
+    {
+      "characterId": "dalton",
+      "role": "Heroic guardian standing against tyranny",
+      "development": "Dalton fully commits to his role as protector of Drum Island's people, transforming from Wapol's servant to the island's defender, willing to die to prevent the tyrant's return.",
+      "keyActions": [
+        "Confronts Wapol despite being outnumbered",
+        "Transforms using Ushi Ushi no Mi, Model: Bison",
+        "Shields villagers from Chess's arrows with his body",
+        "Refuses to back down despite severe injuries"
+      ],
+      "quotes": ["Wapol! Leave this island at once! You are no longer welcome here!"]
+    },
+    {
+      "characterId": "wapol",
+      "role": "Returning tyrant seeking to reclaim power",
+      "development": "Wapol's arrival on Drum Island demonstrates his entitlement and belief that the kingdom still belongs to him, setting him up as the arc's primary antagonist.",
+      "keyActions": [
+        "Lands at Bighorn with his crew",
+        "Dismisses Dalton's challenge",
+        "Orders Chess to attack",
+        "Receives medical treatment from Isshi-20"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "In the manga (Chapter 136), Dalton severs Wapol's head with his attack, and the Isshi-20 immediately reattach it. The anime toned this down to show Dalton striking Wapol's chest instead.",
+      "episodeTimestamp": "18:00",
+      "mangaReference": "Chapter 136",
+      "type": "CENSORSHIP"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episode 82 is the first episode to use 'BEFORE DAWN' as the ending theme, which would continue through episode 94.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/BEFORE_DAWN",
+          "title": "BEFORE DAWN - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The BEFORE DAWN ending animation is the first One Piece ending to feature Nefertari Vivi, showing her integration into the crew.",
+      "category": "ANIMATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/BEFORE_DAWN",
+          "title": "BEFORE DAWN - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The Ushi Ushi no Mi, Model: Bison is the second Zoan-type Devil Fruit shown in the series (after Chopper's which was revealed in Episode 81), and the first 'standard' Zoan focused on speed rather than power.",
+      "category": "POWERS",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Ushi_Ushi_no_Mi,_Model:_Bison",
+          "title": "Ushi Ushi no Mi, Model: Bison - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode achieved a 13.5% TV rating in Japan, ranking #2 for its timeslot.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_82",
+          "title": "Episode 82 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "In the 4Kids English dub, this was combined with portions of episode 81 and aired as their episode 50.",
+      "category": "LOCALIZATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_82",
+          "title": "Episode 82 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode adapts manga chapters 136-137, written and illustrated by Eiichiro Oda.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_82",
+          "title": "Episode 82 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
