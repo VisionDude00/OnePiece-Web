@@ -1,0 +1,142 @@
+[
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "luffy",
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [1],
+    "members": [
+      {
+        "characterId": "luffy",
+        "role": "Captain",
+        "episodeJoined": 1,
+        "episodeLeft": null,
+        "joinCircumstances": "Founded the crew by declaring his intention to become Pirate King and beginning his journey."
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 1,
+        "eventId": "ep001-event-005",
+        "momentType": "FORMATION",
+        "title": "The Beginning of Luffy's Journey",
+        "description": "Luffy declares his intention to become King of the Pirates, effectively marking the beginning of what will become the Straw Hat Pirates, though the crew has only one member at this point.",
+        "significance": "The beginning of the crew that will change the world of One Piece. Though technically not yet named, this marks the conceptual founding.",
+        "timestamp": "09:30"
+      },
+      {
+        "episodeNumber": 1,
+        "eventId": "ep001-event-013",
+        "momentType": "RECRUITMENT_PLAN",
+        "title": "Plans to Recruit Roronoa Zoro",
+        "description": "Luffy announces his intention to recruit the pirate hunter Roronoa Zoro as his first crew member.",
+        "significance": "Sets up the recruitment of the crew's first mate and shows Luffy's proactive approach to building his crew.",
+        "timestamp": "22:45"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [
+      {
+        "totalBounty": 0,
+        "episodeNumber": 1,
+        "memberBounties": {
+          "luffy": 0
+        }
+      }
+    ],
+    "jollyRoger": {
+      "description": "Not yet designed in Episode 1",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": [],
+      "enemies": ["alvida-pirates"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Alvida Pirates",
+      "japanese": "アルビダ海賊団",
+      "romanized": "Arubida Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "alvida",
+    "debutEpisode": 1,
+    "debutChapter": 2,
+    "episodeAppearances": [1],
+    "members": [
+      {
+        "characterId": "alvida",
+        "role": "Captain",
+        "episodeJoined": 1,
+        "episodeLeft": null,
+        "joinCircumstances": "Captain and founder of the crew."
+      },
+      {
+        "characterId": "koby",
+        "role": "Cabin Boy (forced)",
+        "episodeJoined": 1,
+        "episodeLeft": 1,
+        "joinCircumstances": "Kidnapped two years before Episode 1 and forced to serve as cabin boy. Freed when Luffy defeats Alvida."
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 1,
+        "eventId": "ep001-event-002",
+        "momentType": "RAID",
+        "title": "Attack on the Lady Mary",
+        "description": "The Alvida Pirates launch a raid on the Lady Mary cruise ship, boarding it to steal treasure and supplies.",
+        "significance": "Introduces the crew and sets up the confrontation with Luffy.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 1,
+        "eventId": "ep001-event-010",
+        "momentType": "DEFEAT",
+        "title": "Defeat by Luffy",
+        "description": "The Alvida Pirates are defeated when Luffy sends their captain flying into the ocean with a single punch.",
+        "significance": "First crew to be defeated by Luffy, establishing his strength and beginning his legend.",
+        "timestamp": "19:00"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Alvida's pirate ship",
+        "episodeAcquired": 1,
+        "episodeLost": null,
+        "description": "The vessel used by the Alvida Pirates to raid other ships in the East Blue."
+      }
+    ],
+    "bases": [],
+    "totalBountyProgression": [
+      {
+        "totalBounty": 5000000,
+        "episodeNumber": 1,
+        "memberBounties": {
+          "alvida": 5000000
+        }
+      }
+    ],
+    "jollyRoger": {
+      "description": "Unknown in Episode 1",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "#8B4513",
+    "relationships": {
+      "allies": [],
+      "enemies": ["straw-hat-pirates"],
+      "parentOrganization": null
+    }
+  }
+]

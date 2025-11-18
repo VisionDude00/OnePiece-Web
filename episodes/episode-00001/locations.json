@@ -1,0 +1,140 @@
+[
+  {
+    "name": {
+      "english": "Lady Mary Cruise Ship",
+      "japanese": "レディ・メリー号",
+      "romanized": "Redi Merī Gō"
+    },
+    "locationType": "SHIP",
+    "seaRegion": "EAST_BLUE",
+    "islandName": null,
+    "debutEpisode": 1,
+    "debutChapter": null,
+    "description": "A luxury cruise ship that was attacked by the Alvida Pirates. This is where Luffy makes his first appearance in the series, emerging from a barrel. The ship serves as the primary setting for Episode 1.",
+    "episodeAppearances": [1],
+    "keyEvents": [
+      {
+        "episodeNumber": 1,
+        "eventId": "ep001-event-002",
+        "eventType": "RAID",
+        "title": "Alvida Pirates Attack",
+        "description": "The Alvida Pirates launch a cannon attack on the Lady Mary and board it to steal treasure.",
+        "significance": "Sets the stage for Luffy's debut appearance.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 1,
+        "eventId": "ep001-event-003",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Luffy's First Appearance",
+        "description": "Luffy emerges from a barrel on the Lady Mary, marking his debut in the One Piece series.",
+        "significance": "The location where the protagonist first appears - one of the most iconic moments in anime.",
+        "timestamp": "05:20"
+      },
+      {
+        "episodeNumber": 1,
+        "eventId": "ep001-event-009",
+        "eventType": "BATTLE_END",
+        "title": "Luffy Defeats Alvida",
+        "description": "Luffy defeats Alvida with his Gomu Gomu no Pistol attack on the deck of the Lady Mary.",
+        "significance": "The location of Luffy's first major victory.",
+        "timestamp": "17:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 1,
+        "episodeEnd": 1,
+        "reason": "Ship appears only in Episode 1 as the setting for the opening events"
+      }
+    ],
+    "parentLocation": "east-blue",
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "koby", "alvida", "nami"],
+    "relatedCrews": ["alvida-pirates"],
+    "relatedArcs": ["Romance Dawn"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "East Blue",
+      "japanese": "東の海",
+      "romanized": "Higashi no Umi"
+    },
+    "locationType": "SEA_REGION",
+    "seaRegion": "EAST_BLUE",
+    "islandName": null,
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "description": "One of the four main seas in the One Piece world, known as the weakest sea. This is where Luffy begins his journey and where the East Blue Saga takes place. It's separated from the Grand Line by the Calm Belt.",
+    "episodeAppearances": [1],
+    "keyEvents": [
+      {
+        "episodeNumber": 1,
+        "eventId": "ep001-event-003",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Setting Established",
+        "description": "Episode 1 establishes the East Blue as the starting location for Luffy's journey.",
+        "significance": "The sea region where the entire story begins.",
+        "timestamp": "05:20"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 1,
+        "episodeEnd": "present",
+        "reason": "Permanent geographical location"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["lady-mary-cruise-ship"],
+    "relatedCharacters": ["luffy", "koby", "alvida"],
+    "relatedCrews": ["alvida-pirates"],
+    "relatedArcs": ["Romance Dawn"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Execution Platform (Loguetown)",
+      "japanese": "処刑台",
+      "romanized": "Shokeidai"
+    },
+    "locationType": "LANDMARK",
+    "seaRegion": "EAST_BLUE",
+    "islandName": "Loguetown",
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "description": "The execution platform where Gol D. Roger, the former Pirate King, was executed. This location is shown in the opening narration of Episode 1 and represents the beginning of the Great Pirate Era.",
+    "episodeAppearances": [1],
+    "keyEvents": [
+      {
+        "episodeNumber": 1,
+        "eventId": "ep001-event-001",
+        "eventType": "WORLD_LORE",
+        "title": "Gol D. Roger's Execution",
+        "description": "The opening narration shows Gol D. Roger's execution at this platform, where he announced the existence of the One Piece treasure.",
+        "significance": "The location that sparked the Great Pirate Era and set the entire series in motion.",
+        "timestamp": "00:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 1,
+        "episodeEnd": "present",
+        "reason": "Historical landmark"
+      }
+    ],
+    "parentLocation": "loguetown",
+    "childLocations": [],
+    "relatedCharacters": ["gol-d-roger"],
+    "relatedCrews": [],
+    "relatedArcs": ["Romance Dawn"],
+    "images": []
+  }
+]

@@ -1,0 +1,526 @@
+{
+  "episodeNumber": 1,
+  "episodeTitle": "I'm Luffy! The Man Who's Gonna Be King of the Pirates!",
+  "episodeTitleJapanese": "俺はルフィ！海賊王になる男だ！",
+  "episodeTitleRomanized": "Ore wa Rufi! Kaizoku Ō ni naru Otoko da!",
+  "description": "Monkey D. Luffy emerges from a barrel on a pirate ship and meets Koby, a boy forced to work for the pirate Alvida. After declaring his dream to become King of the Pirates, Luffy defeats Alvida using his rubber powers and sets sail with Koby toward their dreams.",
+  "airDate": "1999-10-20",
+  "airDateJapan": "1999-10-20",
+  "airDateUS": "2004-09-18",
+  "airDateUSFunimation": "2008-05-27",
+  "arcName": "Romance Dawn",
+  "sagaName": "East Blue Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Are!",
+    "titleJapanese": "ウィーアー!",
+    "artist": "Hiroshi Kitadani",
+    "composer": "Kohei Tanaka",
+    "lyricist": "Shoko Fujibayashi",
+    "episodeRange": [1, 47]
+  },
+  "endingSong": {
+    "title": "memories",
+    "titleJapanese": "メモリーズ",
+    "artist": "Maki Otsuki",
+    "composer": "JUNTA MORI",
+    "lyricist": "Maki Otsuki",
+    "episodeRange": [1, 30]
+  },
+  "credits": {
+    "director": "Kōnosuke Uda",
+    "screenplay": "Junki Takegami",
+    "artDirector": "Tomoko Yoshida",
+    "animationDirector": "Kazuya Hisada",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Koby",
+        "actor": "Mika Doi"
+      },
+      {
+        "character": "Alvida",
+        "actor": "Yōko Matsuoka"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Koby",
+        "actor": "Leah Clark"
+      },
+      {
+        "character": "Alvida",
+        "actor": "Laurie Steele"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep001-event-001",
+      "episodeNumber": 1,
+      "timestamp": "00:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Gol D. Roger's Legacy Established",
+      "description": "The opening narration establishes the legend of Gol D. Roger, the Pirate King, whose final words before execution sparked the Great Pirate Era. He revealed that his treasure, the One Piece, is hidden somewhere in the Grand Line.",
+      "significance": "Sets up the fundamental premise of the entire series - the search for One Piece and the dream to become Pirate King. This opening narration has become iconic and establishes the world-building foundation.",
+      "characterIds": ["gol-d-roger"],
+      "locationIds": ["execution-platform"],
+      "quotes": [
+        {
+          "text": "You want my treasure? You can have it! I left everything I gathered together in one place. Now you just have to find it!",
+          "speaker": "Gol D. Roger",
+          "context": "Roger's final words before execution that started the Great Pirate Era"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep001-event-002",
+      "episodeNumber": 1,
+      "timestamp": "03:45",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Alvida Pirates Attack the Lady Mary",
+      "description": "The Alvida Pirates launch a cannon attack on a luxury cruise ship called the Lady Mary. The pirates board the vessel to plunder its treasures, forcing their cabin boy Koby to participate.",
+      "significance": "Introduces the Alvida Pirates and establishes the setting where Luffy will make his debut appearance.",
+      "characterIds": ["alvida", "koby", "heppoko", "peppoko", "poppoko"],
+      "locationIds": ["lady-mary-cruise-ship"],
+      "crewIds": ["alvida-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep001-event-003",
+      "episodeNumber": 1,
+      "timestamp": "05:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Luffy's First Appearance - Emerging from the Barrel",
+      "description": "Monkey D. Luffy emerges from a barrel that was retrieved by sailors on the Lady Mary. He was sleeping inside after his boat was destroyed by a whirlpool. Pirates from Alvida's crew discover him and attempt to attack, but Luffy quickly defeats them.",
+      "significance": "The protagonist's debut - one of the most iconic opening scenes in anime. Establishes Luffy's carefree personality and combat abilities immediately. This moment begins the entire One Piece journey.",
+      "characterIds": ["luffy"],
+      "locationIds": ["lady-mary-cruise-ship"],
+      "quotes": [
+        {
+          "text": "Ah, that was a great nap!",
+          "speaker": "Luffy",
+          "context": "Luffy's very first words in the series upon emerging from the barrel"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep001-event-004",
+      "episodeNumber": 1,
+      "timestamp": "07:15",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Luffy Meets Koby",
+      "description": "After defeating the hostile pirates, Luffy meets Koby in the ship's pantry. Koby is terrified at first but Luffy starts eating the stored food and the two begin talking. This is the beginning of their friendship.",
+      "significance": "Establishes the first significant relationship in the series. Koby becomes Luffy's first friend in his journey and represents the theme of pursuing one's dreams despite fear.",
+      "characterIds": ["luffy", "koby"],
+      "locationIds": ["lady-mary-cruise-ship"],
+      "quotes": [
+        {
+          "text": "I'm Luffy! Nice to meet you!",
+          "speaker": "Luffy",
+          "context": "Luffy introduces himself to Koby"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [2, 3],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep001-event-005",
+      "episodeNumber": 1,
+      "timestamp": "09:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Luffy Declares His Dream to Become Pirate King",
+      "description": "Luffy tells Koby that he has set sail to begin his pirating career and declares his ultimate dream: to find the One Piece treasure and become King of the Pirates. Koby is shocked by the audacity of this goal.",
+      "significance": "The central theme and goal of the entire series is declared in this moment. Luffy's unwavering dream becomes the driving force for the narrative spanning over 1000 episodes.",
+      "characterIds": ["luffy", "koby"],
+      "locationIds": ["lady-mary-cruise-ship"],
+      "quotes": [
+        {
+          "text": "I'm gonna be King of the Pirates!",
+          "speaker": "Luffy",
+          "context": "Luffy's iconic declaration of his dream - the phrase that defines the series"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep001-event-006",
+      "episodeNumber": 1,
+      "timestamp": "11:45",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Koby Reveals His Story and Dream",
+      "description": "Koby explains that he was kidnapped by the Alvida Pirates while rowing his boat and has been forced to work as their cabin boy for two years. Despite his fear, he reveals his dream to escape and join the Marines, specifically wanting to become an admiral.",
+      "significance": "Introduces Koby's character arc and establishes the parallel between his and Luffy's dreams. Shows the theme that anyone can pursue their dreams regardless of their current circumstances.",
+      "characterIds": ["koby"],
+      "locationIds": ["lady-mary-cruise-ship"],
+      "crewIds": ["alvida-pirates"],
+      "quotes": [
+        {
+          "text": "I want to join the Marines and capture bad guys! That's my dream!",
+          "speaker": "Koby",
+          "context": "Koby reveals his dream for the first time"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [2, 3],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep001-event-007",
+      "episodeNumber": 1,
+      "timestamp": "13:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Alvida Confronts Luffy",
+      "description": "Alvida is informed of Luffy's presence and, suspecting he might be a bounty hunter, confronts him and Koby in the pantry. She demands to know who is the most beautiful person on the seas, expecting the answer to be herself.",
+      "significance": "Introduces the main antagonist of the first episode. Alvida's vanity and cruelty establish her as the first villain Luffy must overcome.",
+      "characterIds": ["alvida", "luffy", "koby"],
+      "locationIds": ["lady-mary-cruise-ship"],
+      "quotes": [
+        {
+          "text": "Who is the most beautiful person on all the seas?",
+          "speaker": "Alvida",
+          "context": "Alvida's signature question that she forces her crew to answer"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep001-event-008",
+      "episodeNumber": 1,
+      "timestamp": "15:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Luffy's Devil Fruit Powers Revealed",
+      "description": "When Alvida attacks Luffy with her spiked iron mace, the attacks prove ineffective because Luffy's body has rubber-like properties. Luffy explains that he ate a Devil Fruit called the Gomu Gomu no Mi, which turned his body into rubber but took away his ability to swim.",
+      "significance": "The revelation of Luffy's signature power - the Gomu Gomu no Mi. This Devil Fruit ability becomes the foundation for all of Luffy's fighting techniques throughout the series and establishes the Devil Fruit system in the One Piece world.",
+      "characterIds": ["luffy", "alvida"],
+      "locationIds": ["lady-mary-cruise-ship"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [
+        {
+          "text": "I ate the Gomu Gomu Devil Fruit and became a rubber man! But now I can't swim!",
+          "speaker": "Luffy",
+          "context": "Luffy explains his Devil Fruit powers for the first time"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep001-event-009",
+      "episodeNumber": 1,
+      "timestamp": "17:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Gomu Gomu no Pistol Debut",
+      "description": "Luffy uses his signature attack for the first time - Gomu Gomu no Pistol. He stretches his arm back and launches a powerful punch that sends Alvida flying off the ship and into the ocean, defeating her in a single hit.",
+      "significance": "The debut of Luffy's most iconic and frequently used attack. Gomu Gomu no Pistol becomes his signature move throughout the series. This moment also establishes Luffy's combat style and overwhelming strength.",
+      "characterIds": ["luffy", "alvida"],
+      "locationIds": ["lady-mary-cruise-ship"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [
+        {
+          "text": "Gomu Gomu no... Pistol!",
+          "speaker": "Luffy",
+          "context": "Luffy's first use of his signature attack"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep001-event-010",
+      "episodeNumber": 1,
+      "timestamp": "19:00",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "Defeat of the Alvida Pirates",
+      "description": "After Alvida is sent flying into the ocean, her crew is left in shock and disarray. Luffy has effectively ended the threat of the Alvida Pirates with a single punch, freeing Koby from his forced servitude.",
+      "significance": "Luffy's first victory in the series. Demonstrates his strength and establishes the pattern of Luffy liberating people from oppression.",
+      "characterIds": ["luffy", "alvida", "koby"],
+      "locationIds": ["lady-mary-cruise-ship"],
+      "crewIds": ["alvida-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep001-event-011",
+      "episodeNumber": 1,
+      "timestamp": "20:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Nami's Brief Appearance",
+      "description": "A mysterious orange-haired girl is seen escaping from the Lady Mary in a small boat, having stolen treasure during the chaos. She sails away unnoticed by Luffy and Koby. This is Nami's first appearance in the anime, though she is not formally introduced.",
+      "significance": "The future navigator's debut, though she remains unnamed and mysterious. This is an anime-original addition as Nami doesn't appear until Chapter 8 of the manga. Foreshadows her importance to the crew.",
+      "characterIds": ["nami"],
+      "locationIds": ["lady-mary-cruise-ship"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [4, 5],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep001-event-012",
+      "episodeNumber": 1,
+      "timestamp": "21:30",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MINOR",
+      "title": "Luffy and Koby Set Sail Together",
+      "description": "Luffy boards a small boat with Koby to continue his journey. Koby has decided to pursue his dream of joining the Marines, inspired by Luffy's courage and conviction. They set sail together toward their respective goals.",
+      "significance": "Marks the beginning of Luffy's journey to assemble his crew and Koby's journey toward becoming a Marine. Establishes the theme of pursuing dreams alongside friends.",
+      "characterIds": ["luffy", "koby"],
+      "locationIds": ["lady-mary-cruise-ship"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [2, 3],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep001-event-013",
+      "episodeNumber": 1,
+      "timestamp": "22:45",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MAJOR",
+      "title": "Luffy Plans to Recruit Roronoa Zoro",
+      "description": "As they sail, Luffy mentions his intention to head to the Grand Line to search for the One Piece treasure. He tells Koby that his first priority is to recruit the infamous pirate hunter Roronoa Zoro into his crew, having heard stories about his strength.",
+      "significance": "Sets up the next arc and introduces Zoro before his actual appearance. Establishes Luffy's recruitment strategy and shows his confidence in building a powerful crew.",
+      "characterIds": ["luffy", "koby", "zoro"],
+      "locationIds": [],
+      "quotes": [
+        {
+          "text": "I'm gonna make him join my crew!",
+          "speaker": "Luffy",
+          "context": "Luffy declares his intention to recruit Roronoa Zoro"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [2, 3],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["luffy", "koby", "alvida", "nami", "gol-d-roger", "heppoko", "peppoko", "poppoko"],
+    "locations": ["lady-mary-cruise-ship", "east-blue", "execution-platform"],
+    "devilFruits": ["gomu-gomu-no-mi"],
+    "crews": ["alvida-pirates"],
+    "abilities": ["gomu-gomu-no-pistol"]
+  },
+  "episodeRelationships": {
+    "setupFor": [2, 3],
+    "payoffFrom": [],
+    "thematicLinks": []
+  },
+  "quotes": [
+    {
+      "text": "You want my treasure? You can have it! I left everything I gathered together in one place. Now you just have to find it!",
+      "speaker": "Gol D. Roger",
+      "context": "Opening narration - Roger's final words",
+      "timestamp": "00:30"
+    },
+    {
+      "text": "I'm gonna be King of the Pirates!",
+      "speaker": "Luffy",
+      "context": "Luffy's declaration of his dream to Koby",
+      "timestamp": "09:30"
+    },
+    {
+      "text": "Gomu Gomu no... Pistol!",
+      "speaker": "Luffy",
+      "context": "Luffy's first signature attack",
+      "timestamp": "17:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Dreams and Ambition",
+      "description": "The episode establishes the core theme of the series - pursuing one's dreams despite obstacles. Both Luffy and Koby have seemingly impossible goals (becoming Pirate King and joining the Marines), but their conviction drives them forward.",
+      "symbolism": "The barrel represents Luffy emerging into the world, ready to chase his dream. The vast ocean represents the endless possibilities ahead.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Freedom vs. Oppression",
+      "description": "Koby is trapped under Alvida's tyranny, representing oppression and fear. Luffy's arrival and defeat of Alvida symbolizes liberation and the freedom to pursue one's path.",
+      "symbolism": "Luffy breaking Koby free from the Alvida Pirates represents breaking free from circumstances that hold you back.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Power of Conviction",
+      "description": "Luffy's absolute certainty in his dream inspires Koby to voice his own dream for the first time in two years. The episode shows that unwavering belief can inspire others.",
+      "symbolism": "Luffy's straw hat represents his promise and conviction - a visual symbol of his determination.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Adventurous", "Inspirational", "Comedic", "Action-packed"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist introduction",
+      "development": "We meet Luffy and learn about his dream to become King of the Pirates, his Devil Fruit powers (Gomu Gomu no Mi), his carefree and confident personality, and his willingness to help others pursue their dreams.",
+      "keyActions": [
+        "Emerges from barrel on the Lady Mary",
+        "Defeats Alvida's crew members",
+        "Declares his dream to become Pirate King",
+        "Reveals his Devil Fruit powers",
+        "Defeats Alvida with Gomu Gomu no Pistol",
+        "Sets sail with Koby"
+      ],
+      "quotes": [
+        "I'm gonna be King of the Pirates!",
+        "Gomu Gomu no... Pistol!"
+      ]
+    },
+    {
+      "characterId": "koby",
+      "role": "Supporting character introduction",
+      "development": "Koby is introduced as a timid cabin boy forced to serve the Alvida Pirates. Through his interaction with Luffy, he finds the courage to voice his dream of joining the Marines and decides to pursue it.",
+      "keyActions": [
+        "Meets Luffy in the ship's pantry",
+        "Reveals his kidnapping by the Alvida Pirates",
+        "Shares his dream to become a Marine",
+        "Witnesses Luffy's strength",
+        "Decides to pursue his dream"
+      ],
+      "quotes": [
+        "I want to join the Marines and capture bad guys! That's my dream!"
+      ]
+    },
+    {
+      "characterId": "alvida",
+      "role": "Episode antagonist",
+      "development": "Alvida is introduced as a vain, cruel pirate captain who forces her crew to call her beautiful and keeps Koby as a slave. She serves as Luffy's first major opponent.",
+      "keyActions": [
+        "Leads the attack on the Lady Mary",
+        "Confronts Luffy and demands he call her beautiful",
+        "Attacks Luffy with her iron mace",
+        "Is defeated and sent flying by Gomu Gomu no Pistol"
+      ],
+      "quotes": [
+        "Who is the most beautiful person on all the seas?"
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "Nami appears in this episode stealing treasure from the Lady Mary, but in the manga she doesn't debut until Chapter 8. This is an anime-original addition to introduce her earlier.",
+      "episodeTimestamp": "20:15",
+      "mangaReference": "Chapter 8 (manga debut)",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "The episode is set on a luxury cruise ship called the Lady Mary, but the manga sets these events near Goat Island with a different context.",
+      "episodeTimestamp": "03:45",
+      "mangaReference": "Chapter 2",
+      "type": "SETTING_CHANGE"
+    },
+    {
+      "difference": "The opening features Gol D. Roger's execution and the start of the Great Pirate Era, which is expanded in the anime compared to the manga's shorter introduction.",
+      "episodeTimestamp": "00:30",
+      "mangaReference": "Chapter 1",
+      "type": "EXPANDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode aired on October 20, 1999, which was also around the time of Chapter 100's release in the manga, showing the manga was already significantly ahead of the anime.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_1",
+          "title": "Episode 1 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-01-17"
+        }
+      ]
+    },
+    {
+      "fact": "Mayumi Tanaka, Luffy's Japanese voice actress, was 44 years old when she first voiced the 17-year-old Luffy. She has continued to voice him for over 25 years.",
+      "category": "VOICE_ACTING",
+      "sources": []
+    },
+    {
+      "fact": "The opening theme 'We Are!' by Hiroshi Kitadani became one of the most iconic anime opening songs and was used for episodes 1-47, covering the entire East Blue Saga.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/We_Are!",
+          "title": "We Are! - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-01-17"
+        }
+      ]
+    },
+    {
+      "fact": "This episode and Episode 2 used a unique end card featuring Japanese text, which was later replaced by the standard English version in subsequent episodes.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_1",
+          "title": "Episode 1 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-01-17"
+        }
+      ]
+    },
+    {
+      "fact": "The phrase 'I'm gonna be King of the Pirates!' (Kaizoku Ō ni ore wa naru!) has been said by Luffy hundreds of times throughout the series and has become his catchphrase.",
+      "category": "CULTURAL_IMPACT",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
