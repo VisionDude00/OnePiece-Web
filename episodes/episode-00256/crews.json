@@ -1,0 +1,86 @@
+[
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "episodeAppearances": [256],
+    "keyMoments": [
+      {
+        "episodeNumber": 256,
+        "eventId": "ep256-event-010",
+        "momentType": "ALLIANCE",
+        "title": "Forms Alliance with Franky Family and Galley-La",
+        "description": "Led by Luffy, the Straw Hat Pirates form an alliance with the Franky Family and Galley-La Company to rescue Robin and Franky from CP9.",
+        "significance": "Shows the Straw Hats' ability to unite former enemies under a common cause, demonstrating their growing influence and Luffy's leadership.",
+        "timestamp": "18:30"
+      }
+    ],
+    "relationships": {
+      "allies": ["franky-family", "galley-la-company"],
+      "enemies": ["cp9"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Franky Family",
+      "japanese": "フランキー一家",
+      "romanized": "Furankī Ikka"
+    },
+    "crewType": "DISMANTLER_GROUP",
+    "episodeAppearances": [256],
+    "keyMoments": [
+      {
+        "episodeNumber": 256,
+        "eventId": "ep256-event-010",
+        "momentType": "ALLIANCE",
+        "title": "Joins Alliance to Rescue Franky",
+        "description": "Represented by Zambai, the Franky Family agrees to join the alliance with the Straw Hat Pirates and Galley-La Company to rescue their boss Franky from CP9.",
+        "significance": "The Franky Family, who previously fought against the Straw Hats, now works alongside them for a common goal.",
+        "timestamp": "18:30"
+      }
+    ],
+    "relationships": {
+      "allies": ["straw-hat-pirates", "galley-la-company"],
+      "enemies": ["cp9"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Galley-La Company",
+      "japanese": "ガレーラカンパニー",
+      "romanized": "Garēra Kanpanī"
+    },
+    "crewType": "SHIPWRIGHT_COMPANY",
+    "episodeAppearances": [256],
+    "keyMoments": [
+      {
+        "episodeNumber": 256,
+        "eventId": "ep256-event-008",
+        "momentType": "REVELATION",
+        "title": "CP9 Members Revealed as Traitors",
+        "description": "Paulie reveals to the other Galley-La foremen that Lucci, Kaku, Kalifa, and Blueno - their trusted colleagues - were actually CP9 agents responsible for the attack on Iceburg.",
+        "significance": "This revelation of betrayal motivates the Galley-La members to join the rescue mission and shows the depth of CP9's infiltration.",
+        "timestamp": "15:45"
+      },
+      {
+        "episodeNumber": 256,
+        "eventId": "ep256-event-010",
+        "momentType": "ALLIANCE",
+        "title": "Joins Alliance to Avenge Iceburg",
+        "description": "Represented by Paulie, the Galley-La Company agrees to join the alliance with the Straw Hat Pirates and Franky Family to pursue CP9 and avenge the attack on Iceburg.",
+        "significance": "Former antagonists of the Straw Hats become allies, united by a desire for justice against CP9.",
+        "timestamp": "18:30"
+      }
+    ],
+    "relationships": {
+      "allies": ["straw-hat-pirates", "franky-family"],
+      "enemies": ["cp9"],
+      "parentOrganization": null
+    }
+  }
+]
