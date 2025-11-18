@@ -1,0 +1,455 @@
+{
+  "episodeNumber": 61,
+  "episodeTitle": "Angry Finale! Cross the Red Line!",
+  "episodeTitleJapanese": "怒りの決着！赤い大陸（レッドライン）を乗り越えろ！",
+  "episodeTitleRomanized": "Ikari no Ketchaku! Reddo Rain o Norikoero!",
+  "description": "The Warship Island Arc concludes as Luffy defeats Eric at Reverse Mountain. Apis chooses to stay behind to protect the Dragon's Nest, and the Straw Hat crew successfully navigates the treacherous currents to enter the Grand Line.",
+  "airDate": "2001-03-07",
+  "airDateJapan": "2001-03-07",
+  "airDateUS": "2009-06-30",
+  "airDateUS4Kids": "2005-07-30",
+  "arcName": "Warship Island Arc",
+  "sagaName": "East Blue Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Believe",
+    "artist": "Folder5",
+    "episodeRange": [48, 115]
+  },
+  "endingSong": {
+    "title": "RUN! RUN! RUN!",
+    "artist": "Maki Otsuki",
+    "episodeRange": [31, 63]
+  },
+  "credits": {
+    "animationDirector": "Hidehiko Kadota",
+    "artDirector": "Kunihiro Chida",
+    "screenplay": "Junki Takegami",
+    "keyAnimators": ["Kenji Yokoyama"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Apis",
+        "actor": "Masami Suzuki"
+      },
+      {
+        "character": "Eric",
+        "actor": "Ryūsei Nakao"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher R. Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Apis",
+        "actor": "Brittney Karbowski"
+      },
+      {
+        "character": "Eric",
+        "actor": "Kenny Green"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep061-event-001",
+      "episodeNumber": 61,
+      "timestamp": "03:15",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Final Confrontation with Eric Begins",
+      "description": "After departing Warship Island, the Straw Hats face Eric one final time near Reverse Mountain. Eric proposes they join forces to obtain Dragonite for eternal life, but the crew refuses his offer.",
+      "significance": "Sets up the final battle of the Warship Island Arc and demonstrates the crew's moral integrity in refusing Eric's corrupt offer.",
+      "characterIds": ["luffy", "eric", "nami", "zoro", "sanji", "usopp", "apis"],
+      "locationIds": ["reverse-mountain"],
+      "quotes": [
+        {
+          "text": "Join me and we can obtain the Dragonite together! We could have eternal life!",
+          "speaker": "Eric",
+          "context": "Eric tries to recruit the Straw Hats to his cause"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [54, 55, 56, 57, 58, 59, 60],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [54]
+    },
+    {
+      "id": "ep061-event-002",
+      "episodeNumber": 61,
+      "timestamp": "05:20",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MINOR",
+      "title": "Eric Betrays Nelson",
+      "description": "After Nelson's defeat, Eric swiftly attacks and slashes his former employer, revealing that he planned all along to monopolize the dragon bone elixir for himself rather than share it with Nelson.",
+      "significance": "Demonstrates Eric's true villainous nature and his complete lack of loyalty, establishing him as the arc's primary antagonist rather than just a henchman.",
+      "characterIds": ["eric", "nelson"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [54, 55],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep061-event-003",
+      "episodeNumber": 61,
+      "timestamp": "06:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Eric's Ultimate Attack: Kama Kama no Kamaitachi Midareuchi",
+      "description": "Eric unleashes his ultimate technique, slashing many times to release multiple air blades followed by a powerful whirlwind of razor air that can effortlessly slice through solid rock. Usopp quickly reacts to save Apis from the attack.",
+      "significance": "Showcases the full extent of Eric's Kama Kama no Mi Devil Fruit powers before his defeat.",
+      "characterIds": ["eric", "usopp", "apis"],
+      "devilFruitIds": ["kama-kama-no-mi"],
+      "quotes": [
+        {
+          "text": "Kama Kama no Kamaitachi Midareuchi!",
+          "speaker": "Eric",
+          "context": "Eric's ultimate attack aimed at Apis"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [54],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep061-event-004",
+      "episodeNumber": 61,
+      "timestamp": "08:30",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "Luffy Defeats Eric",
+      "description": "Luffy engages Eric in combat and decisively defeats him using his Devil Fruit techniques including Gomu Gomu no Pistol and Gomu Gomu no Kane, sending Eric flying off into the distance.",
+      "significance": "Marks the defeat of the Warship Island Arc's main antagonist and demonstrates Luffy's growth as a fighter.",
+      "characterIds": ["luffy", "eric"],
+      "devilFruitIds": ["gomu-gomu-no-mi", "kama-kama-no-mi"],
+      "quotes": [
+        {
+          "text": "Gomu Gomu no... Pistol!",
+          "speaker": "Luffy",
+          "context": "Luffy's attack against Eric"
+        },
+        {
+          "text": "Gomu Gomu no... Kane!",
+          "speaker": "Luffy",
+          "context": "Luffy's finishing move on Eric"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [54, 55, 56, 57, 58, 59, 60],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep061-event-005",
+      "episodeNumber": 61,
+      "timestamp": "10:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Nami Outsmarts Eric",
+      "description": "As Eric attempts one final attack, Nami cleverly warns him about Dragonite being beside him. Eric falls for the trap, and Nami kicks his leg, causing him to fall into the treacherous currents near Reverse Mountain.",
+      "significance": "Showcases Nami's intelligence and quick thinking, permanently removing the threat of Eric and demonstrating her value as a strategist.",
+      "characterIds": ["nami", "eric"],
+      "locationIds": ["reverse-mountain"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep061-event-006",
+      "episodeNumber": 61,
+      "timestamp": "12:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Reverse Mountain Debut",
+      "description": "The Straw Hats arrive at Reverse Mountain, an extremely tall mountain on the Red Line where four rivers from the Blues flow upward and converge into a fifth canal descending into the Grand Line. The location serves as the official gateway to the Grand Line.",
+      "significance": "Marks a major milestone in the Straw Hats' journey as they reach the entrance to the Grand Line. This location is central to the series' world geography and represents the beginning of their true adventure.",
+      "characterIds": ["luffy", "nami", "zoro", "sanji", "usopp"],
+      "locationIds": ["reverse-mountain"],
+      "quotes": [
+        {
+          "text": "That's Reverse Mountain! The entrance to the Grand Line!",
+          "speaker": "Nami",
+          "context": "Nami explains the significance of the location to the crew"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [62, 63],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep061-event-007",
+      "episodeNumber": 61,
+      "timestamp": "14:30",
+      "eventType": "CREW_DEPARTURE",
+      "severity": "MINOR",
+      "title": "Apis Chooses to Stay on Warship Island",
+      "description": "Apis makes the bittersweet decision to remain on Warship Island to protect the Dragon's Nest rather than join the Straw Hat crew on their journey to the Grand Line. The crew says farewell to their new friend.",
+      "significance": "Provides closure to Apis's character arc and demonstrates her growth and commitment to protecting the dragons and her home. Shows that not all allies will join the crew permanently.",
+      "characterIds": ["apis", "luffy", "nami", "zoro", "sanji", "usopp"],
+      "locationIds": ["warship-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [54, 55, 56, 57, 58, 59, 60],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep061-event-008",
+      "episodeNumber": 61,
+      "timestamp": "18:00",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Entering the Grand Line",
+      "description": "The Going Merry successfully navigates the treacherous upward-flowing currents of Reverse Mountain with Nami's expert navigation. The crew celebrates as they cross over the peak and descend into the Grand Line, marking the official beginning of their grand adventure.",
+      "significance": "This is a pivotal moment in the entire One Piece series - the moment the Straw Hats officially enter the Grand Line and begin their true journey toward finding the One Piece. It represents the transition from the East Blue Saga to the greater adventures ahead.",
+      "characterIds": ["luffy", "nami", "zoro", "sanji", "usopp"],
+      "locationIds": ["reverse-mountain"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "We're going to the Grand Line! The adventure begins now!",
+          "speaker": "Luffy",
+          "context": "Luffy's excitement as they enter the Grand Line"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "payoffInEpisodes": [62, 63, 64],
+      "callbacksToEpisodes": [1]
+    },
+    {
+      "id": "ep061-event-009",
+      "episodeNumber": 61,
+      "timestamp": "20:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Crew Members' Wishes for the Grand Line",
+      "description": "As they cross into the Grand Line, the crew members (except Luffy) each think about their wishes and dreams for this new journey - Zoro seeking to become the world's greatest swordsman, Nami to map the world, Usopp to become a brave warrior, and Sanji to find All Blue.",
+      "significance": "Reinforces each crew member's individual dreams and motivations as they embark on their Grand Line journey, reminding viewers of what drives each character.",
+      "characterIds": ["zoro", "nami", "usopp", "sanji"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 19, 20, 26, 30],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [1, 2, 5, 19, 20, 26, 30]
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": ["reverse-mountain"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["kama-kama-no-kamaitachi-midareuchi"]
+  },
+  "episodeRelationships": {
+    "setupFor": [62, 63],
+    "payoffFrom": [54, 55, 56, 57, 58, 59, 60],
+    "thematicLinks": [1, 45, 62, 63]
+  },
+  "quotes": [
+    {
+      "text": "That's Reverse Mountain! The entrance to the Grand Line!",
+      "speaker": "Nami",
+      "context": "Explaining Reverse Mountain to the crew",
+      "timestamp": "12:00"
+    },
+    {
+      "text": "We're going to the Grand Line! The adventure begins now!",
+      "speaker": "Luffy",
+      "context": "Celebrating their entry into the Grand Line",
+      "timestamp": "18:00"
+    },
+    {
+      "text": "Gomu Gomu no... Kane!",
+      "speaker": "Luffy",
+      "context": "Defeating Eric in their final battle",
+      "timestamp": "08:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Dreams and Determination",
+      "description": "The episode emphasizes the crew members' individual dreams as they enter the Grand Line, each motivated by their personal goals and ambitions.",
+      "symbolism": "Reverse Mountain represents the physical barrier between ordinary seas and the dangerous Grand Line, symbolizing the crew's transition from small-time pirates to serious adventurers.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Loyalty and Friendship",
+      "description": "Apis's decision to stay on Warship Island, while bittersweet, shows her dedication to protecting what she loves. The crew respects her choice, demonstrating the bonds they formed.",
+      "symbolism": "The farewell represents that not all friends can join the journey, but meaningful connections remain.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "New Beginnings",
+      "description": "The episode marks the end of the East Blue Saga and the beginning of the crew's Grand Line adventures, representing a major turning point in their journey.",
+      "symbolism": "Crossing Reverse Mountain symbolizes crossing the threshold from the known to the unknown, from safety to danger, from preparation to action.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Triumphant", "Bittersweet", "Adventurous", "Exciting"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist",
+      "development": "Luffy defeats Eric decisively and leads his crew into the Grand Line with unwavering confidence and excitement.",
+      "keyActions": [
+        "Defeats Eric using Gomu Gomu no Pistol and Gomu Gomu no Kane",
+        "Leads the crew across Reverse Mountain",
+        "Celebrates entering the Grand Line"
+      ],
+      "quotes": ["We're going to the Grand Line! The adventure begins now!", "Gomu Gomu no... Kane!"]
+    },
+    {
+      "characterId": "nami",
+      "role": "Navigator",
+      "development": "Nami demonstrates her crucial role as navigator by successfully guiding the Going Merry through Reverse Mountain's dangerous currents, and shows her cleverness by defeating Eric with a trick.",
+      "keyActions": [
+        "Outsmarts Eric and causes him to fall into the water",
+        "Explains Reverse Mountain to the crew",
+        "Navigates the ship through the treacherous upward currents"
+      ],
+      "quotes": ["That's Reverse Mountain! The entrance to the Grand Line!"]
+    },
+    {
+      "characterId": "apis",
+      "role": "Arc Protagonist",
+      "development": "Apis makes the mature decision to stay on Warship Island to protect the Dragon's Nest, showing her growth from a scared girl to a determined guardian.",
+      "keyActions": [
+        "Chooses to remain on Warship Island",
+        "Says farewell to the Straw Hat crew",
+        "Accepts her role as protector of the dragons"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "eric",
+      "role": "Arc Antagonist",
+      "development": "Eric's true villainous nature is fully revealed as he betrays Nelson and attempts to monopolize the dragon bone elixir. He is ultimately defeated by Luffy and Nami.",
+      "keyActions": [
+        "Betrays and attacks Nelson",
+        "Uses his ultimate technique Kama Kama no Kamaitachi Midareuchi",
+        "Is defeated by Luffy and tricked by Nami into falling into the water"
+      ],
+      "quotes": ["Join me and we can obtain the Dragonite together! We could have eternal life!", "Kama Kama no Kamaitachi Midareuchi!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The entire Warship Island Arc is anime-original filler. In the manga, the Straw Hats go directly from Loguetown to Reverse Mountain without the Apis storyline.",
+      "episodeTimestamp": "00:00",
+      "mangaReference": "Chapter 101",
+      "type": "ANIME_ORIGINAL_ARC"
+    },
+    {
+      "difference": "The battle with Eric and the resolution of the Warship Island story are anime-only content. The manga proceeds directly to the crew's arrival at Reverse Mountain.",
+      "episodeTimestamp": "03:15",
+      "mangaReference": "Chapter 101",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "The second half of the episode (Reverse Mountain arrival) corresponds to Chapter 101 pages 2-4 and 11-19 of the manga.",
+      "episodeTimestamp": "12:00",
+      "mangaReference": "Chapter 101",
+      "type": "ADAPTED_FROM_MANGA"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This is the final episode of the Warship Island Arc, which is the first filler arc in One Piece. Eiichiro Oda, the manga creator, praised this arc in an early February issue of Weekly Shonen Jump.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Warship_Island_Arc",
+          "title": "Warship Island Arc - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This is the last episode to use 'RUN! RUN! RUN!' by Maki Otsuki as the ending theme, which had been used since Episode 31.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_61",
+          "title": "Episode 61 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The 4Kids English adaptation combined Japanese episodes 61, 62, and 64 into a single episode titled 'Fantastic Voyage' (4Kids Episode 44), significantly altering the pacing and content.",
+      "category": "DUBBING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_61",
+          "title": "Episode 61 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Reverse Mountain's debut in this episode marks one of the most significant geographical locations in One Piece, serving as the primary entrance to the Grand Line for pirates from the four Blues.",
+      "category": "WORLDBUILDING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Reverse_Mountain",
+          "title": "Reverse Mountain - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Ryūsei Nakao, who voices Eric in Japanese, is famous for voicing Frieza in Dragon Ball Z. Kenny Green voices Eric in the Funimation English dub.",
+      "category": "VOICE_ACTING",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

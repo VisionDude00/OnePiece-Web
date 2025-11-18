@@ -1,0 +1,196 @@
+[
+  {
+    "name": {
+      "english": "Baroque Works",
+      "japanese": "バロックワークス",
+      "romanized": "Barokku Wākusu"
+    },
+    "organizationType": "CRIMINAL_ORGANIZATION",
+    "debutEpisode": 64,
+    "debutChapter": 103,
+    "description": "A secret criminal syndicate operating in the Grand Line, disguised as bounty hunters. Members are identified by code names and work in male-female pairs. The organization has a hierarchical structure with Officer Agents, Frontier Agents, Billions, and Millions.",
+    "episodeAppearances": [65],
+    "leaderIds": ["crocodile"],
+    "knownMembers": [
+      {
+        "characterId": "mr-5",
+        "role": "Officer Agent",
+        "codeNumber": "5",
+        "episodeJoined": 65,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "miss-valentine",
+        "role": "Officer Agent",
+        "codeNumber": "Valentine",
+        "episodeJoined": 65,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "vivi",
+        "role": "Frontier Agent (Spy)",
+        "codeNumber": "Wednesday",
+        "episodeJoined": 64,
+        "episodeLeft": 65
+      },
+      {
+        "characterId": "igaram",
+        "role": "Frontier Agent (Spy)",
+        "codeNumber": "8",
+        "episodeJoined": 64,
+        "episodeLeft": 65
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 65,
+        "eventId": "ep065-event-010",
+        "momentType": "POWER_REVEAL",
+        "title": "Officer Agents Deployed",
+        "description": "Baroque Works sends Officer Agents Mr. 5 and Miss Valentine to eliminate spies within the organization.",
+        "significance": "First appearance of Officer Agents with Devil Fruit powers, showing the organization's true strength.",
+        "timestamp": "19:30"
+      },
+      {
+        "episodeNumber": 65,
+        "eventId": "ep065-event-013",
+        "momentType": "RELATIONSHIP_REVEAL",
+        "title": "Infiltration Exposed",
+        "description": "Vivi and Igaram's infiltration of Baroque Works is exposed, revealing they discovered the boss's identity.",
+        "significance": "Shows the organization will eliminate anyone who discovers its leader's true identity.",
+        "timestamp": "22:30"
+      },
+      {
+        "episodeNumber": 65,
+        "eventId": "ep065-event-014",
+        "momentType": "WORLD_LORE",
+        "title": "Boss's Secret Referenced",
+        "description": "The existence of a dangerous secret about Baroque Works' boss is confirmed.",
+        "significance": "Establishes the central mystery driving the Arabasta Arc.",
+        "timestamp": "23:45"
+      }
+    ],
+    "structure": {
+      "hierarchy": [
+        "Boss (Mr. 0)",
+        "Officer Agents (Numbered pairs with Devil Fruit powers)",
+        "Frontier Agents (Lower numbered pairs)",
+        "Billions (200 agents)",
+        "Millions (1,800+ members)"
+      ],
+      "identificationSystem": "Male members use numbers (Mr. 0-13), female members use days/holidays (Miss All Sunday, Miss Valentine, etc.)"
+    },
+    "baseLocations": ["whisky-peak"],
+    "goals": [
+      {
+        "goal": "Capture pirates entering the Grand Line",
+        "episodeRevealed": 64,
+        "description": "Pose as welcoming townsfolk to lure and capture pirates for bounties."
+      },
+      {
+        "goal": "Unknown conspiracy involving Arabasta Kingdom",
+        "episodeRevealed": 65,
+        "description": "The organization has secret plans involving the Arabasta Kingdom that must be protected at all costs."
+      }
+    ],
+    "allies": [],
+    "enemies": ["arabasta-kingdom"],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 64,
+        "episodeEnd": "present",
+        "description": "Organization is actively operating in the Grand Line"
+      }
+    ],
+    "secrets": [
+      {
+        "secret": "Boss's True Identity",
+        "episodeRevealed": 65,
+        "severity": "CRITICAL",
+        "description": "The identity of Baroque Works' boss (Mr. 0) is so dangerous that anyone who learns it must be eliminated."
+      }
+    ],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Arabasta Kingdom",
+      "japanese": "アラバスタ王国",
+      "romanized": "Arabasuta Ōkoku"
+    },
+    "organizationType": "NATION",
+    "debutEpisode": 65,
+    "debutChapter": 110,
+    "description": "A kingdom located in the Grand Line with desert climate. Ruled by the Nefertari royal family. The kingdom is currently under threat from Baroque Works' mysterious conspiracy.",
+    "episodeAppearances": [65],
+    "leaderIds": ["nefertari-cobra"],
+    "knownMembers": [
+      {
+        "characterId": "vivi",
+        "role": "Princess",
+        "episodeJoined": 65,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "igaram",
+        "role": "Captain of the Royal Guard",
+        "episodeJoined": 65,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "karoo",
+        "role": "Captain of Super Spot-Billed Duck Troops",
+        "episodeJoined": 65,
+        "episodeLeft": null
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 65,
+        "eventId": "ep065-event-013",
+        "momentType": "RELATIONSHIP_REVEAL",
+        "title": "Royal Members Revealed",
+        "description": "Princess Vivi and Captain Igaram are revealed to have infiltrated Baroque Works.",
+        "significance": "Establishes Arabasta Kingdom as a major player in the upcoming arc.",
+        "timestamp": "22:30"
+      },
+      {
+        "episodeNumber": 65,
+        "eventId": "ep065-event-014",
+        "momentType": "WORLD_LORE",
+        "title": "Kingdom Under Threat",
+        "description": "Revealed that Baroque Works has a conspiracy against Arabasta Kingdom.",
+        "significance": "Sets up the central conflict of the Arabasta Arc.",
+        "timestamp": "23:45"
+      }
+    ],
+    "structure": {
+      "government": "Monarchy",
+      "rulers": "Nefertari Dynasty",
+      "militaryForces": ["Royal Guard", "Super Spot-Billed Duck Troops"]
+    },
+    "baseLocations": ["arabasta"],
+    "goals": [
+      {
+        "goal": "Uncover Baroque Works conspiracy",
+        "episodeRevealed": 65,
+        "description": "Princess Vivi and Igaram infiltrated Baroque Works to discover who is plotting against the kingdom."
+      }
+    ],
+    "allies": [],
+    "enemies": ["baroque-works"],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 65,
+        "episodeEnd": "present",
+        "description": "Kingdom is under threat from Baroque Works"
+      }
+    ],
+    "secrets": [],
+    "images": []
+  }
+]
