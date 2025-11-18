@@ -1,0 +1,515 @@
+{
+  "episodeNumber": 169,
+  "episodeTitle": "The Life-Threatening Reject! War Demon Wyper's Resolve!",
+  "description": "During Enel's survival game, Wyper defeats the priest Shura using the dangerous Reject Dial. Meanwhile, Gan Fall teaches the Straw Hats about Sky Island warfare and dial technology. Enel predicts only 5 of the 81 participants will survive.",
+  "airDate": "2003-10-19",
+  "airDateJapan": "2003-10-19",
+  "airDateUS": "2010-08-31",
+  "arcName": "Skypiea",
+  "sagaName": "Sky Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "BON VOYAGE!",
+    "artist": "Bon-Bon Blanco",
+    "episodeRange": [169, 206]
+  },
+  "endingSong": {
+    "title": "A to Z ~ONE PIECE Edition~",
+    "artist": "ZZ",
+    "episodeRange": [169, 181]
+  },
+  "credits": {
+    "animationDirector": "Munehisa Sakai",
+    "writer": "Junki Takegami",
+    "artDirectors": ["Miyuki Sato", "Kumiko Fukuzawa"],
+    "animator": "Yūki Kinoshita",
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Wyper",
+        "actor": "Masaki Aizawa"
+      },
+      {
+        "character": "Enel",
+        "actor": "Toshiyuki Morikawa"
+      },
+      {
+        "character": "Shura",
+        "actor": "Shinichiro Ohta"
+      },
+      {
+        "character": "Gan Fall",
+        "actor": "Joji Yanami"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Wyper",
+        "actor": "J Paul Slavens"
+      },
+      {
+        "character": "Enel",
+        "actor": "J Michael Tatum"
+      },
+      {
+        "character": "Shura",
+        "actor": "Kent Williams"
+      },
+      {
+        "character": "Gan Fall",
+        "actor": "John Swasey"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep169-event-001",
+      "episodeNumber": 169,
+      "timestamp": "00:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "New Opening Theme Debut: BON VOYAGE!",
+      "description": "Episode 169 marks the first use of 'BON VOYAGE!' by Bon-Bon Blanco as the opening theme. This opening features improved animation and showcases the Straw Hat crew's adventures in Skypiea.",
+      "significance": "This opening theme will be used for 38 episodes (169-206), covering the remainder of the Skypiea arc and beyond. The new opening reflects the crew's journey through Sky Island.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin"],
+      "locationIds": ["skypiea"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep169-event-002",
+      "episodeNumber": 169,
+      "timestamp": "00:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "New Ending Theme Debut: A to Z",
+      "description": "Episode 169 introduces 'A to Z ~ONE PIECE Edition~' by ZZ as the new ending theme, replacing the previous ending song.",
+      "significance": "This ending theme will be used for 13 episodes (169-181), accompanying the climax of the Skypiea arc's survival game.",
+      "characterIds": [],
+      "locationIds": [],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep169-event-003",
+      "episodeNumber": 169,
+      "timestamp": "05:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Gan Fall Explains Impact Dial Technology",
+      "description": "Aboard the Going Merry, Gan Fall demonstrates and explains Impact Dials to Sanji, Nami, and Usopp. He shows how everyday dials used in Sky Island life have been weaponized for combat by Enel's priests.",
+      "significance": "This exposition helps the Straw Hats (and viewers) understand the dial technology that has been central to Sky Island combat. It establishes the mechanics of how Impact Dials absorb and release kinetic energy.",
+      "characterIds": ["gan-fall", "sanji", "nami", "usopp"],
+      "locationIds": ["going-merry", "upper-yard"],
+      "quotes": [
+        {
+          "text": "The Impact Dial stores kinetic energy from impacts and can release it all at once as a powerful attack.",
+          "speaker": "Gan Fall",
+          "context": "Explaining dial technology to the Straw Hats"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [160, 161, 162],
+      "payoffInEpisodes": [170, 171, 172],
+      "callbacksToEpisodes": [160]
+    },
+    {
+      "id": "ep169-event-004",
+      "episodeNumber": 169,
+      "timestamp": "07:15",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Introduction of the Reject Dial",
+      "description": "Gan Fall reveals the existence of an ancient and extremely dangerous weapon called the Reject Dial. He explains that it's essentially an Impact Dial with its power multiplied by ten, but it's equally dangerous to both the user and the target. Normal people die from using it even once.",
+      "significance": "The Reject Dial is introduced as one of the most dangerous weapons in the Sky Island arsenal. This sets up its crucial use later in the episode and establishes the severity of the threat Wyper poses when wielding such a weapon.",
+      "characterIds": ["gan-fall", "sanji", "nami", "usopp"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "The Reject Dial is an ancient dial that releases ten times the force of an Impact Dial. It's as dangerous to the user as it is to the victim - most people die from using it just once.",
+          "speaker": "Gan Fall",
+          "context": "Warning the Straw Hats about the Reject Dial's dangers"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [169, 182],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep169-event-005",
+      "episodeNumber": 169,
+      "timestamp": "09:45",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MAJOR",
+      "title": "Enel's Survival Game Prediction",
+      "description": "Enel, reclining confidently in his throne, predicts the exact outcome of his survival game. He declares that out of the 81 participants (Straw Hats, Shandians, Divine Soldiers, and priests), only 5 will remain alive after three hours.",
+      "significance": "This prediction demonstrates Enel's god-like confidence and his Mantra ability to foresee events. It creates dramatic tension as viewers wonder who will survive and whether Enel's prediction will come true. The specific number creates a countdown atmosphere for the arc.",
+      "characterIds": ["enel"],
+      "locationIds": ["upper-yard", "god-shrine"],
+      "quotes": [
+        {
+          "text": "In three hours, only five will remain standing out of all eighty-one participants.",
+          "speaker": "Enel",
+          "context": "Predicting the outcome of his survival game"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [167, 168],
+      "payoffInEpisodes": [182, 183],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep169-event-006",
+      "episodeNumber": 169,
+      "timestamp": "11:20",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Wyper vs Shura Battle Begins",
+      "description": "In the Upper Yard forest, the Shandia warriors become trapped in Shura's Ordeal of String. As Shura taunts the trapped warriors, Wyper arrives and immediately engages the priest in combat.",
+      "significance": "This battle showcases Wyper as the strongest Shandia warrior and demonstrates the priests' deadly ordeals. It also sets up the dramatic use of the Reject Dial that was just introduced.",
+      "characterIds": ["wyper", "shura", "braham", "kamakiri", "genbo"],
+      "locationIds": ["upper-yard"],
+      "devilFruitIds": [],
+      "crewIds": ["shandia-warriors"],
+      "quotes": [
+        {
+          "text": "You priests underestimate the weapons of Sky Island!",
+          "speaker": "Wyper",
+          "context": "Confronting Shura before their battle"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [162, 168],
+      "payoffInEpisodes": [169],
+      "callbacksToEpisodes": [162]
+    },
+    {
+      "id": "ep169-event-007",
+      "episodeNumber": 169,
+      "timestamp": "14:50",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Wyper's Sacrifice Play",
+      "description": "In a shocking tactical move, Wyper deliberately throws away his weapon and shield, choosing to take Shura's attack directly. This is a calculated risk to draw Shura close enough to use the Reject Dial.",
+      "significance": "This moment demonstrates Wyper's absolute determination and willingness to sacrifice his own safety for victory. It shows his strategic thinking and his resolve as a warrior, earning him the title 'War Demon.'",
+      "characterIds": ["wyper", "shura"],
+      "locationIds": ["upper-yard"],
+      "quotes": [
+        {
+          "text": "I'll take your attack if it means bringing you down!",
+          "speaker": "Wyper",
+          "context": "Discarding his weapons to lure Shura in"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [169],
+      "payoffInEpisodes": [169],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep169-event-008",
+      "episodeNumber": 169,
+      "timestamp": "16:35",
+      "eventType": "BATTLE_END",
+      "severity": "CRITICAL",
+      "title": "Wyper Defeats Shura with the Reject Dial",
+      "description": "After enduring Shura's attack, Wyper unleashes the Reject Dial at point-blank range, delivering a devastating blow that instantly defeats the priest. The attack is so powerful that it takes Shura completely out of the survival game.",
+      "significance": "This is the first time the Reject Dial is used in the series, demonstrating its incredible destructive power. Wyper's victory eliminates one of Enel's four priests, significantly shifting the balance of power in the survival game. Enel acknowledges that Shura lost because he underestimated Sky Island weapons.",
+      "characterIds": ["wyper", "shura", "enel"],
+      "locationIds": ["upper-yard"],
+      "quotes": [
+        {
+          "text": "This is the Reject Dial! The ultimate weapon of the Sky!",
+          "speaker": "Wyper",
+          "context": "Delivering the finishing blow to Shura"
+        },
+        {
+          "text": "Shura fell because he underestimated the power of Sky Island weapons.",
+          "speaker": "Enel",
+          "context": "Commenting on Shura's defeat"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [162, 169],
+      "payoffInEpisodes": [182],
+      "callbacksToEpisodes": [162]
+    },
+    {
+      "id": "ep169-event-009",
+      "episodeNumber": 169,
+      "timestamp": "17:45",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Wyper Declares His Goal to the Shandia",
+      "description": "After defeating Shura, Wyper addresses his fellow Shandia warriors and declares his ultimate goal: to reclaim their ancestral homeland of Upper Yard and defeat the false god Enel.",
+      "significance": "This moment reinforces Wyper's role as the leader of the Shandia resistance and clarifies his motivation. It connects to the larger theme of the Shandia's 400-year war to reclaim their homeland, adding emotional weight to the survival game.",
+      "characterIds": ["wyper", "braham", "kamakiri", "genbo"],
+      "locationIds": ["upper-yard"],
+      "crewIds": ["shandia-warriors"],
+      "quotes": [
+        {
+          "text": "We will take back our homeland! This is the resolve of the Shandia!",
+          "speaker": "Wyper",
+          "context": "Declaring his goals after defeating Shura"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [155, 156, 188, 189],
+      "payoffInEpisodes": [195],
+      "callbacksToEpisodes": [188, 189]
+    },
+    {
+      "id": "ep169-event-010",
+      "episodeNumber": 169,
+      "timestamp": "19:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Luffy Encounters Divine Soldiers",
+      "description": "While exploring the Upper Yard forest, Luffy runs into several of Enel's Divine Soldiers. A brief skirmish ensues as the soldiers attempt to stop him.",
+      "significance": "This encounter shows the various forces at play in the survival game and demonstrates Luffy's continued progress through the Upper Yard. It sets up his trajectory toward more significant confrontations.",
+      "characterIds": ["luffy", "yama"],
+      "locationIds": ["upper-yard"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [167, 168],
+      "payoffInEpisodes": [170],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep169-event-011",
+      "episodeNumber": 169,
+      "timestamp": "20:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Luffy and Wyper's First Confrontation",
+      "description": "Luffy encounters Wyper in the forest. Wyper, focused on his mission to defeat Enel, decides that Luffy is an obstacle and must be eliminated. Both prepare to fight each other.",
+      "significance": "This sets up an important confrontation between two powerful fighters. It creates conflict between potential allies, as both oppose Enel but have different methods and priorities. The episode ends on this cliffhanger, building anticipation for their battle.",
+      "characterIds": ["luffy", "wyper"],
+      "locationIds": ["upper-yard"],
+      "quotes": [
+        {
+          "text": "You refuse to leave this island, so I have no choice but to eliminate you.",
+          "speaker": "Wyper",
+          "context": "Confronting Luffy before their battle"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [168],
+      "payoffInEpisodes": [170],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["reject-dial"]
+  },
+  "episodeRelationships": {
+    "setupFor": [170, 171, 182],
+    "payoffFrom": [162, 167, 168],
+    "thematicLinks": [188, 189, 195]
+  },
+  "quotes": [
+    {
+      "text": "In three hours, only five will remain standing out of all eighty-one participants.",
+      "speaker": "Enel",
+      "context": "Predicting the survival game outcome",
+      "timestamp": "09:45"
+    },
+    {
+      "text": "The Reject Dial is an ancient dial that releases ten times the force of an Impact Dial. It's as dangerous to the user as it is to the victim - most people die from using it just once.",
+      "speaker": "Gan Fall",
+      "context": "Warning about the Reject Dial",
+      "timestamp": "07:15"
+    },
+    {
+      "text": "This is the Reject Dial! The ultimate weapon of the Sky!",
+      "speaker": "Wyper",
+      "context": "Defeating Shura",
+      "timestamp": "16:35"
+    },
+    {
+      "text": "We will take back our homeland! This is the resolve of the Shandia!",
+      "speaker": "Wyper",
+      "context": "Declaring his mission after defeating Shura",
+      "timestamp": "17:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Sacrifice and Resolve",
+      "description": "Wyper's willingness to risk his own life using the Reject Dial demonstrates the lengths the Shandia will go to reclaim their homeland. His sacrifice play against Shura shows that victory sometimes requires putting everything on the line.",
+      "symbolism": "The Reject Dial itself symbolizes this theme - a weapon that harms both the user and the target, representing the cost of war and determination.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Ancient Technology and Weaponry",
+      "description": "The episode explores how everyday Sky Island technology (dials) has been weaponized for combat, and how ancient weapons like the Reject Dial possess incredible power at great cost.",
+      "symbolism": "The dial technology represents how tools can be used for both peaceful and destructive purposes depending on the wielder's intentions.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Prophecy and Fate",
+      "description": "Enel's confident prediction about the survival game's outcome raises questions about predestination versus free will. His Mantra ability allows him to foresee events, but whether this can be changed remains to be seen.",
+      "symbolism": "Enel's god-like ability to predict the future symbolizes his perceived omnipotence and the challenge the protagonists face in defying fate.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Intense", "Strategic", "Foreboding", "Determined"],
+  "characterSpotlights": [
+    {
+      "characterId": "wyper",
+      "role": "Primary Protagonist",
+      "development": "Wyper's character is showcased as the strongest and most determined Shandia warrior. His strategic thinking, willingness to sacrifice his own safety, and superhuman endurance are all highlighted. We see why he's called the 'War Demon.'",
+      "keyActions": [
+        "Confronts and battles Shura",
+        "Makes a sacrifice play by discarding his weapons",
+        "Uses the Reject Dial to defeat Shura",
+        "Declares his resolve to reclaim Upper Yard",
+        "Confronts Luffy"
+      ],
+      "quotes": [
+        "This is the Reject Dial! The ultimate weapon of the Sky!",
+        "We will take back our homeland! This is the resolve of the Shandia!"
+      ]
+    },
+    {
+      "characterId": "gan-fall",
+      "role": "Mentor/Expositor",
+      "development": "Gan Fall serves as the educator, teaching the Straw Hats about Sky Island warfare and dial technology. His knowledge helps bridge the gap between the audience's understanding and the complex battle mechanics.",
+      "keyActions": [
+        "Demonstrates Impact Dial technology",
+        "Explains the Reject Dial and its dangers",
+        "Provides strategic information to the Straw Hats"
+      ],
+      "quotes": [
+        "The Reject Dial is an ancient dial that releases ten times the force of an Impact Dial. It's as dangerous to the user as it is to the victim - most people die from using it just once."
+      ]
+    },
+    {
+      "characterId": "enel",
+      "role": "Antagonist/Observer",
+      "development": "Enel's god complex is reinforced through his casual prediction of the survival game's outcome. His confidence and ability to foresee events establish him as a formidable opponent who seems to be in complete control.",
+      "keyActions": [
+        "Predicts exactly 5 survivors from 81 participants",
+        "Comments on Shura's defeat",
+        "Demonstrates his Mantra abilities"
+      ],
+      "quotes": [
+        "In three hours, only five will remain standing out of all eighty-one participants.",
+        "Shura fell because he underestimated the power of Sky Island weapons."
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends Gan Fall's explanation of dial technology with additional dialogue and visual demonstrations compared to the manga's more concise exposition.",
+      "episodeTimestamp": "05:30",
+      "mangaReference": "Chapter 256",
+      "type": "EXPANDED_SCENE"
+    },
+    {
+      "difference": "The anime adds more dramatic visual effects to the Reject Dial attack, including impact frames and environmental destruction.",
+      "episodeTimestamp": "16:35",
+      "mangaReference": "Chapter 257",
+      "type": "ENHANCED_ANIMATION"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This is the first episode to use 'BON VOYAGE!' as the opening theme, which will continue for 38 episodes through the end of Skypiea and beyond.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/BON_VOYAGE!",
+          "title": "BON VOYAGE! - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This is also the first episode to use 'A to Z ~ONE PIECE Edition~' as the ending theme, performed by the band ZZ.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/A_to_Z",
+          "title": "A to Z - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The Reject Dial is established as being ten times more powerful than an Impact Dial, but it normally kills regular people after just one use. Wyper's ability to use it three times in the arc demonstrates his exceptional physical endurance.",
+      "category": "POWER_SYSTEM",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Dials",
+          "title": "Dials - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode adapts parts of chapters 256, 257, and 258 from the manga, covering approximately 2.5 chapters worth of content.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_169",
+          "title": "Episode 169 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Shura is the second of Enel's four priests to be defeated, following Satori who was defeated by Sanji, Luffy, and Usopp in episode 162.",
+      "category": "CONTINUITY",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
