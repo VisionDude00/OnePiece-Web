@@ -1,0 +1,97 @@
+[
+  {
+    "name": {
+      "english": "Orange Town",
+      "japanese": "オレンジの町",
+      "romanized": "Orenji no Machi"
+    },
+    "locationType": "TOWN",
+    "seaRegion": "EAST_BLUE",
+    "islandName": "Orange Town Island",
+    "debutEpisode": 4,
+    "debutChapter": 8,
+    "description": "A town in the East Blue that has been taken over by the Buggy Pirates, leaving it mostly deserted except for the mayor Boodle and his dog Chouchou.",
+    "episodeAppearances": [7],
+    "keyEvents": [
+      {
+        "episodeNumber": 7,
+        "eventId": "ep007-event-002",
+        "eventType": "BATTLE_END",
+        "title": "Zoro vs Cabaji Battle Concludes",
+        "description": "The duel between Zoro and Cabaji reaches its climax in Orange Town, with Zoro emerging victorious using Oni Giri.",
+        "significance": "Major battle that helps liberate Orange Town from Buggy Pirates' control.",
+        "timestamp": "16:45"
+      },
+      {
+        "episodeNumber": 7,
+        "eventId": "ep007-event-007",
+        "eventType": "BATTLE_START",
+        "title": "Luffy vs Buggy Intensifies",
+        "description": "The battle between Luffy and Buggy reaches a critical point after Buggy damages Luffy's straw hat.",
+        "significance": "The final confrontation that will determine Orange Town's fate.",
+        "timestamp": "21:00"
+      }
+    ],
+    "status": "RECOVERING",
+    "statusHistory": [
+      {
+        "status": "UNDER_ATTACK",
+        "episodeStart": 4,
+        "episodeEnd": 7,
+        "reason": "Town occupied by Buggy Pirates"
+      },
+      {
+        "status": "RECOVERING",
+        "episodeStart": 7,
+        "episodeEnd": "present",
+        "reason": "Liberation in progress as Straw Hats defeat Buggy Pirates"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["orange-town-pub"],
+    "relatedCharacters": ["luffy", "zoro", "nami", "buggy", "cabaji", "boodle"],
+    "relatedCrews": ["straw-hat-pirates", "buggy-pirates"],
+    "relatedArcs": ["Orange Town"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Orange Town Pub",
+      "japanese": "オレンジの町の酒場",
+      "romanized": "Orenji no Machi no Sakaba"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "EAST_BLUE",
+    "islandName": "Orange Town Island",
+    "debutEpisode": 7,
+    "debutChapter": 15,
+    "description": "A pub in Orange Town where Buggy stored some of his treasure, including a map of the Grand Line that Nami steals.",
+    "episodeAppearances": [7],
+    "keyEvents": [
+      {
+        "episodeNumber": 7,
+        "eventId": "ep007-event-004",
+        "eventType": "TREASURE_DISCOVERY",
+        "title": "Nami Steals the Grand Line Map",
+        "description": "Nami infiltrates the pub and steals a valuable map of the Grand Line from Buggy's treasure chest.",
+        "significance": "Demonstrates Nami's thieving skills and her interest in maps and treasure.",
+        "timestamp": "12:20"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 7,
+        "episodeEnd": "present",
+        "reason": "Being used by Buggy Pirates to store treasure"
+      }
+    ],
+    "parentLocation": "orange-town",
+    "childLocations": [],
+    "relatedCharacters": ["nami", "buggy"],
+    "relatedCrews": ["buggy-pirates"],
+    "relatedArcs": ["Orange Town"],
+    "images": []
+  }
+]

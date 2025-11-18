@@ -1,0 +1,124 @@
+[
+  {
+    "name": {
+      "english": "Buggy Pirates",
+      "japanese": "バギー海賊団",
+      "romanized": "Bagī Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "buggy",
+    "debutEpisode": 4,
+    "debutChapter": 9,
+    "episodeAppearances": [7],
+    "members": [
+      {
+        "characterId": "buggy",
+        "role": "Captain",
+        "episodeJoined": 4,
+        "episodeLeft": null,
+        "joinCircumstances": "Leader and founder of the crew"
+      },
+      {
+        "characterId": "cabaji",
+        "role": "Chief of Staff",
+        "episodeJoined": 7,
+        "episodeLeft": null,
+        "joinCircumstances": "Revealed as Buggy's Chief of Staff and fights on his behalf"
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 7,
+        "eventId": "ep007-event-001",
+        "momentType": "MEMBER_REVEAL",
+        "title": "Cabaji Revealed as Chief of Staff",
+        "description": "Cabaji is introduced as the Chief of Staff of the Buggy Pirates and challenges the Straw Hats to combat.",
+        "significance": "Reveals the hierarchy within Buggy's crew and introduces his second-in-command.",
+        "timestamp": "04:30"
+      },
+      {
+        "episodeNumber": 7,
+        "eventId": "ep007-event-003",
+        "momentType": "DEFEAT",
+        "title": "Chief of Staff Defeated",
+        "description": "Cabaji, the crew's Chief of Staff, is defeated by Roronoa Zoro despite using dirty tactics.",
+        "significance": "Major blow to the Buggy Pirates' fighting force in Orange Town.",
+        "timestamp": "16:45"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Big Top",
+        "episodeAcquired": 4,
+        "episodeLost": null,
+        "description": "Buggy's pirate ship with a circus tent theme"
+      }
+    ],
+    "bases": ["orange-town"],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A clown skull with a red nose and crossbones behind it",
+      "episodeFirstSeen": 4,
+      "imageUrl": ""
+    },
+    "mainColor": "#FF0000",
+    "relationships": {
+      "allies": [],
+      "enemies": ["straw-hat-pirates"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "luffy",
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [7],
+    "members": [
+      {
+        "characterId": "luffy",
+        "role": "Captain",
+        "episodeJoined": 1,
+        "episodeLeft": null,
+        "joinCircumstances": "Founder of the crew"
+      },
+      {
+        "characterId": "zoro",
+        "role": "Combatant",
+        "episodeJoined": 2,
+        "episodeLeft": null,
+        "joinCircumstances": "First crew member to join"
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 7,
+        "eventId": "ep007-event-002",
+        "momentType": "VICTORY",
+        "title": "Zoro Defeats Cabaji",
+        "description": "Zoro demonstrates the crew's strength by defeating Buggy's Chief of Staff with his Oni Giri technique.",
+        "significance": "Shows the growing power of the fledgling Straw Hat crew.",
+        "timestamp": "16:45"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull wearing a straw hat with crossed bones behind it",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": [],
+      "enemies": ["buggy-pirates"],
+      "parentOrganization": null
+    }
+  }
+]

@@ -1,0 +1,628 @@
+{
+  "episodeNumber": 2,
+  "episodeTitle": "Enter the Great Swordsman! Pirate Hunter Roronoa Zoro!",
+  "description": "Luffy and Koby arrive at Shells Town where they discover the infamous pirate hunter Roronoa Zoro tied up at a Marine base. After learning that the tyrannical Captain Morgan plans to execute Zoro despite their agreement, Luffy decides to recruit him as his first crew member.",
+  "airDate": "1999-11-17",
+  "airDateJapan": "1999-11-17",
+  "airDateUS": "2004-09-25",
+  "arcName": "Romance Dawn",
+  "sagaName": "East Blue Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Are!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [1, 47]
+  },
+  "endingSong": {
+    "title": "Memories",
+    "artist": "Maki Otsuki",
+    "episodeRange": [1, 30]
+  },
+  "credits": {
+    "animationDirector": "Eisaku Inoue",
+    "director": "Tetsuji Nakamura",
+    "screenplay": "Michiru Shimada",
+    "artDirector": "Miyuki Sato",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Koby",
+        "actor": "Mika Doi"
+      },
+      {
+        "character": "Captain Morgan",
+        "actor": "Ginzo Matsuo"
+      },
+      {
+        "character": "Helmeppo",
+        "actor": "Koichi Nagano"
+      },
+      {
+        "character": "Rika",
+        "actor": "Chihiro Sakurai"
+      },
+      {
+        "character": "Ririka",
+        "actor": "Keiko Yamamoto"
+      },
+      {
+        "character": "Kuina",
+        "actor": "Machiko Toyoshima"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Koby",
+        "actor": "Leah Clark"
+      },
+      {
+        "character": "Captain Morgan",
+        "actor": "J. Paul Slavens"
+      },
+      {
+        "character": "Helmeppo",
+        "actor": "Sean Schemmel"
+      },
+      {
+        "character": "Rika",
+        "actor": "Laurie Steele"
+      },
+      {
+        "character": "Kuina",
+        "actor": "Monica Rial"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep002-event-001",
+      "episodeNumber": 2,
+      "timestamp": "05:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Roronoa Zoro's First Appearance",
+      "description": "Roronoa Zoro is introduced, tied to a post in the courtyard of the Marine base in Shells Town. Despite having no food or water for days, he maintains his resolve and refuses to give up.",
+      "significance": "Introduction of the future first mate of the Straw Hat Pirates and one of the main protagonists of the series. Establishes Zoro's incredible willpower and determination.",
+      "characterIds": ["zoro"],
+      "locationIds": ["shells-town", "marine-base-153"],
+      "quotes": [
+        {
+          "text": "I can not die in a place like this!",
+          "speaker": "Zoro",
+          "context": "Zoro's declaration of his unwavering will to survive and achieve his dream"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep002-event-002",
+      "episodeNumber": 2,
+      "timestamp": "06:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Rika Brings Food to Zoro",
+      "description": "A young girl named Rika sneaks into the Marine base courtyard to bring rice balls to Zoro, showing gratitude for his protection of the town.",
+      "significance": "Demonstrates that despite his fearsome reputation, Zoro has a kind heart and protects the innocent. Shows the townspeople's gratitude toward Zoro.",
+      "characterIds": ["rika", "zoro"],
+      "locationIds": ["marine-base-153"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep002-event-003",
+      "episodeNumber": 2,
+      "timestamp": "06:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Helmeppo's Cruelty Revealed",
+      "description": "Helmeppo appears and cruelly destroys the rice balls that Rika made for Zoro, then throws both Rika and the food over the wall, revealing his spoiled and cruel nature.",
+      "significance": "Establishes Helmeppo as an antagonist who abuses his father's power. Shows the corruption within the Marines under Captain Morgan.",
+      "characterIds": ["helmeppo", "zoro", "rika"],
+      "locationIds": ["marine-base-153"],
+      "quotes": [
+        {
+          "text": "Anyone who helps criminals will be hanged!",
+          "speaker": "Helmeppo",
+          "context": "Helmeppo threatening Rika and the townspeople"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep002-event-004",
+      "episodeNumber": 2,
+      "timestamp": "09:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Zoro's Sacrifice Revealed",
+      "description": "Ririka explains to Luffy and Koby that Zoro was arrested after protecting the town from Helmeppo's vicious wolf. Helmeppo agreed to release Zoro after one month if he survived without food or water, but plans to execute him anyway.",
+      "significance": "Reveals Zoro's heroic nature and willingness to sacrifice himself for others. Exposes Helmeppo's and Captain Morgan's corruption and deceit.",
+      "characterIds": ["zoro", "helmeppo", "ririka", "luffy", "koby"],
+      "locationIds": ["shells-town"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep002-event-005",
+      "episodeNumber": 2,
+      "timestamp": "07:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Zoro Eats the Muddy Rice Balls",
+      "description": "After Helmeppo leaves, Zoro asks Luffy to pick up the muddy rice balls and feed them to him, eating them despite their condition and declaring they were delicious.",
+      "significance": "Demonstrates Zoro's appreciation for Rika's kindness and his ability to find dignity even in dire circumstances. Shows his human side beneath his tough exterior.",
+      "characterIds": ["zoro", "luffy"],
+      "locationIds": ["marine-base-153"],
+      "quotes": [
+        {
+          "text": "Tell the little girl... that I ate them. They were delicious.",
+          "speaker": "Zoro",
+          "context": "Zoro asking Luffy to thank Rika for the rice balls"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep002-event-006",
+      "episodeNumber": 2,
+      "timestamp": "08:15",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Kuina Flashback - Zoro's Past",
+      "description": "A brief flashback shows young Zoro training with a girl named Kuina at a dojo, hinting at his past and the origin of his dream to become the world's greatest swordsman.",
+      "significance": "First glimpse into Zoro's backstory and motivation. Introduces Kuina, who will be revealed as the driving force behind Zoro's ambition.",
+      "characterIds": ["zoro", "kuina"],
+      "locationIds": ["shimotsuki-village"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [19],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep002-event-007",
+      "episodeNumber": 2,
+      "timestamp": "10:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Luffy Decides to Recruit Zoro",
+      "description": "After learning about Zoro's situation and character, Luffy decides that Zoro would be a perfect first crew member and resolves to recruit him.",
+      "significance": "Marks Luffy's first active recruitment effort and shows his ability to see the good in people despite their fearsome reputations.",
+      "characterIds": ["luffy", "koby"],
+      "locationIds": ["shells-town"],
+      "quotes": [
+        {
+          "text": "I'm gonna make him join my crew!",
+          "speaker": "Luffy",
+          "context": "Luffy declaring his intention to recruit Zoro"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [1],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep002-event-008",
+      "episodeNumber": 2,
+      "timestamp": "11:20",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MINOR",
+      "title": "Helmeppo Revealed as Morgan's Son",
+      "description": "It is revealed that Helmeppo is the son of Captain Morgan, explaining why he can abuse his power without consequence.",
+      "significance": "Explains the power dynamic in Shells Town and why Helmeppo acts with impunity.",
+      "characterIds": ["helmeppo", "morgan"],
+      "locationIds": ["shells-town"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep002-event-009",
+      "episodeNumber": 2,
+      "timestamp": "12:45",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MINOR",
+      "title": "Luffy Offers Zoro a Choice",
+      "description": "Luffy confronts Zoro and offers him a choice: join his pirate crew or die here. Zoro initially refuses, stating he has his own goals.",
+      "significance": "Sets up Zoro's eventual decision to join and establishes that he will join on his own terms, not out of desperation.",
+      "characterIds": ["luffy", "zoro"],
+      "locationIds": ["marine-base-153"],
+      "quotes": [
+        {
+          "text": "I'm looking for companions for my pirate crew. You seem strong enough.",
+          "speaker": "Luffy",
+          "context": "Luffy's first recruitment pitch to Zoro"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep002-event-010",
+      "episodeNumber": 2,
+      "timestamp": "16:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Captain Morgan's Entrance",
+      "description": "Captain 'Axe-Hand' Morgan makes his imposing entrance at the Marine base, revealing his massive size, axe-hand prosthetic, and tyrannical personality.",
+      "significance": "Introduction of the first major Marine antagonist in the series, establishing that not all Marines are heroic and some abuse their power.",
+      "characterIds": ["morgan"],
+      "locationIds": ["marine-base-153"],
+      "quotes": [
+        {
+          "text": "Rank means everything in this world... That means everything I do is right!",
+          "speaker": "Morgan",
+          "context": "Morgan's philosophy on power and authority"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep002-event-011",
+      "episodeNumber": 2,
+      "timestamp": "18:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Luffy Infiltrates the Marine Base",
+      "description": "After learning that Helmeppo plans to execute Zoro despite their agreement, Luffy decides to sneak into the Marine base to retrieve Zoro's three swords from Captain Morgan's office.",
+      "significance": "Luffy's first direct confrontation with the Marines and willingness to oppose corrupt authority for the sake of justice.",
+      "characterIds": ["luffy", "koby"],
+      "locationIds": ["marine-base-153"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep002-event-012",
+      "episodeNumber": 2,
+      "timestamp": "20:45",
+      "eventType": "CREW_JOIN",
+      "severity": "CRITICAL",
+      "title": "Zoro Joins the Straw Hat Pirates",
+      "description": "After Luffy successfully retrieves Zoro's swords and cuts him free, Zoro agrees to join Luffy's pirate crew, becoming the first official member of the Straw Hat Pirates.",
+      "significance": "Formation of the core Straw Hat Pirates crew begins. Zoro becomes Luffy's first crew member and future right-hand man. This is one of the most important moments in the series.",
+      "characterIds": ["luffy", "zoro"],
+      "locationIds": ["marine-base-153"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "Fine. I'll become a pirate. But if you ever get in the way of my dream, I'll cut you down!",
+          "speaker": "Zoro",
+          "context": "Zoro agreeing to join Luffy's crew on his own terms"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [1],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [1]
+    },
+    {
+      "id": "ep002-event-013",
+      "episodeNumber": 2,
+      "timestamp": "21:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Zoro's Three Sword Style Introduction",
+      "description": "Zoro demonstrates his signature Three Sword Style (Santoryu) fighting technique for the first time, wielding two swords in his hands and one in his mouth.",
+      "significance": "Introduction of Zoro's unique and iconic fighting style that will define his character throughout the series.",
+      "characterIds": ["zoro"],
+      "locationIds": ["marine-base-153"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep002-event-014",
+      "episodeNumber": 2,
+      "timestamp": "22:15",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Luffy and Zoro vs. Marines",
+      "description": "Luffy and Zoro team up for the first time to fight against Captain Morgan's Marines, deflecting gunfire and preparing for the battle ahead.",
+      "significance": "First time Luffy and Zoro fight together as a team, establishing their partnership and combat synergy.",
+      "characterIds": ["luffy", "zoro", "morgan"],
+      "locationIds": ["marine-base-153"],
+      "quotes": [
+        {
+          "text": "I'm Monkey D. Luffy, a man who wants to be King of the Pirates!",
+          "speaker": "Luffy",
+          "context": "Luffy declaring his dream to the Marines"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [3],
+      "callbacksToEpisodes": [1]
+    },
+    {
+      "id": "ep002-event-015",
+      "episodeNumber": 2,
+      "timestamp": "03:00",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Arrival at Shells Town",
+      "description": "Luffy and Koby arrive at Shells Town by boat, seeking food and information about the pirate hunter Roronoa Zoro.",
+      "significance": "First visit to a Marine-controlled town, setting up the episode's events.",
+      "characterIds": ["luffy", "koby"],
+      "locationIds": ["shells-town"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [1],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["zoro", "helmeppo", "morgan", "rika", "ririka", "kuina"],
+    "locations": ["shells-town", "marine-base-153", "shimotsuki-village"],
+    "devilFruits": [],
+    "crews": ["marines-153rd-branch"],
+    "abilities": ["three-sword-style", "axe-hand-combat"]
+  },
+  "episodeRelationships": {
+    "setupFor": [3],
+    "payoffFrom": [1],
+    "thematicLinks": [1, 19]
+  },
+  "quotes": [
+    {
+      "text": "I can not die in a place like this!",
+      "speaker": "Zoro",
+      "context": "Zoro's determination to survive and achieve his dream",
+      "timestamp": "05:30"
+    },
+    {
+      "text": "Tell the little girl... that I ate them. They were delicious.",
+      "speaker": "Zoro",
+      "context": "Zoro showing gratitude for Rika's kindness despite the rice balls being covered in mud",
+      "timestamp": "07:30"
+    },
+    {
+      "text": "Anyone who helps criminals will be hanged!",
+      "speaker": "Helmeppo",
+      "context": "Helmeppo threatening the townspeople",
+      "timestamp": "06:45"
+    },
+    {
+      "text": "Rank means everything in this world... That means everything I do is right!",
+      "speaker": "Morgan",
+      "context": "Captain Morgan's philosophy on power and authority",
+      "timestamp": "16:30"
+    },
+    {
+      "text": "Fine. I'll become a pirate. But if you ever get in the way of my dream, I'll cut you down!",
+      "speaker": "Zoro",
+      "context": "Zoro agreeing to join Luffy's crew on his own terms",
+      "timestamp": "20:45"
+    },
+    {
+      "text": "I'm Monkey D. Luffy, a man who wants to be King of the Pirates!",
+      "speaker": "Luffy",
+      "context": "Luffy declaring his dream while confronting the Marines",
+      "timestamp": "22:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Justice vs. Corruption",
+      "description": "The episode explores the corruption within the Marines through Captain Morgan and Helmeppo, contrasting with Luffy's sense of justice and willingness to oppose corrupt authority.",
+      "symbolism": "Captain Morgan's axe-hand and statue symbolize his brutal, self-centered rule. Zoro tied to the post represents the innocent suffering under corrupt power.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Loyalty and Sacrifice",
+      "description": "Zoro's willingness to endure punishment to protect the townspeople demonstrates selfless sacrifice. His agreement to join Luffy while maintaining his own dream shows loyalty without subservience.",
+      "symbolism": "The muddy rice balls represent Zoro's appreciation for kindness even in the worst circumstances.",
+      "culturalReferences": ["Japanese concepts of giri (duty/obligation) and ninjo (human compassion)"]
+    },
+    {
+      "theme": "Dreams and Determination",
+      "description": "Both Luffy and Zoro are driven by their dreams - Luffy to become Pirate King and Zoro to become the world's greatest swordsman. Neither will let obstacles stop them.",
+      "symbolism": "Zoro's three swords represent his unwavering commitment to his unique path and dream.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Found Family",
+      "description": "The episode marks the beginning of the Straw Hat crew as a found family, with Luffy recruiting Zoro not just as a crew member but as a companion who shares his values.",
+      "symbolism": "Luffy cutting Zoro's ropes symbolizes freeing him from his past and welcoming him into a new life.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Inspirational", "Dramatic", "Hopeful"],
+  "characterSpotlights": [
+    {
+      "characterId": "zoro",
+      "role": "Deuteragonist introduction",
+      "development": "Zoro is introduced as a fearsome pirate hunter with incredible willpower, but is revealed to have a kind heart and strong sense of justice. His backstory with Kuina is hinted at, and he joins Luffy's crew.",
+      "keyActions": [
+        "Endures days without food or water tied to a post",
+        "Eats muddy rice balls and thanks Rika for her kindness",
+        "Agrees to join Luffy's crew after Luffy retrieves his swords",
+        "Demonstrates his Three Sword Style fighting technique"
+      ],
+      "quotes": [
+        "I can not die in a place like this!",
+        "Tell the little girl... that I ate them. They were delicious.",
+        "Fine. I'll become a pirate. But if you ever get in the way of my dream, I'll cut you down!"
+      ]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Protagonist",
+      "development": "Luffy demonstrates his ability to see the good in people and his willingness to oppose corrupt authority. He shows leadership by actively recruiting Zoro and helping him despite the risks.",
+      "keyActions": [
+        "Arrives at Shells Town seeking crew members",
+        "Learns about Zoro's situation and character",
+        "Decides to recruit Zoro for his crew",
+        "Infiltrates the Marine base to retrieve Zoro's swords",
+        "Teams up with Zoro to fight the Marines"
+      ],
+      "quotes": [
+        "I'm gonna make him join my crew!",
+        "I'm Monkey D. Luffy, a man who wants to be King of the Pirates!"
+      ]
+    },
+    {
+      "characterId": "helmeppo",
+      "role": "Supporting antagonist",
+      "development": "Helmeppo is introduced as a spoiled, cruel antagonist who abuses his father's power. His cowardice and deceit are revealed when he plans to execute Zoro despite their agreement.",
+      "keyActions": [
+        "Destroys the rice balls Rika made for Zoro",
+        "Threatens to execute anyone who helps Zoro",
+        "Reveals his plan to execute Zoro after the month despite their agreement"
+      ],
+      "quotes": [
+        "Anyone who helps criminals will be hanged!"
+      ]
+    },
+    {
+      "characterId": "morgan",
+      "role": "Primary antagonist",
+      "development": "Captain Morgan is introduced as a tyrannical Marine captain who rules Shells Town through fear and corruption, establishing that not all Marines are heroic.",
+      "keyActions": [
+        "Makes his imposing entrance at the Marine base",
+        "Demonstrates his corrupt philosophy about rank and power"
+      ],
+      "quotes": [
+        "Rank means everything in this world... That means everything I do is right!"
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "In the anime, Luffy and Koby's initial interaction occurs on the streets rather than in a restaurant as shown in the manga.",
+      "episodeTimestamp": "04:00",
+      "mangaReference": "Chapter 3",
+      "type": "SCENE_LOCATION"
+    },
+    {
+      "difference": "Zoro defeats Helmeppo's wolf differently in the anime compared to the manga version.",
+      "episodeTimestamp": "09:30",
+      "mangaReference": "Chapter 3",
+      "type": "SCENE_ALTERATION"
+    },
+    {
+      "difference": "In the anime, Zoro's initial response to Luffy and Koby differs from the manga portrayal.",
+      "episodeTimestamp": "05:30",
+      "mangaReference": "Chapter 3",
+      "type": "DIALOGUE_CHANGE"
+    },
+    {
+      "difference": "The fight between Luffy and Helmeppo took place in a restaurant in the manga but occurs outside in the anime.",
+      "episodeTimestamp": "18:00",
+      "mangaReference": "Chapter 3-4",
+      "type": "SCENE_LOCATION"
+    },
+    {
+      "difference": "In the manga, Koby gets injured during the confrontation, but this doesn't happen in the anime.",
+      "episodeTimestamp": "22:00",
+      "mangaReference": "Chapter 4",
+      "type": "PLOT_CHANGE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode adapts manga chapters 3-5, covering Zoro's introduction and recruitment.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_2",
+          "title": "Episode 2 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Kazuya Nakai, Zoro's Japanese voice actor, was 32 years old when he first voiced the character and continues to voice him to this day.",
+      "category": "VOICE_ACTING",
+      "sources": []
+    },
+    {
+      "fact": "Despite Zoro's later characterization as being directionally challenged, in this episode he briefly demonstrates navigation skills when correcting Luffy's path to the Marine base.",
+      "category": "CHARACTER_CONTINUITY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_2",
+          "title": "Episode 2 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode received an 11.7% TV rating in Japan during its original broadcast, ranking 9th for that time slot. The remastered version aired in 2012 with a 5.4% rating.",
+      "category": "RATINGS",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_2",
+          "title": "Episode 2 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode marks the first appearance of the Three Sword Style (Santoryu), which becomes Zoro's signature fighting technique throughout the entire series.",
+      "category": "FIGHTING_STYLE",
+      "sources": []
+    },
+    {
+      "fact": "The 4Kids English dub aired this episode on September 25, 2004, while the Funimation dub aired it on May 27, 2008 on DVD and October 2, 2012 on Neon Alley.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_2",
+          "title": "Episode 2 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

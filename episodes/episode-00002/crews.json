@@ -1,0 +1,87 @@
+[
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [2],
+    "captain": "luffy",
+    "ship": null,
+    "jollyRoger": "Skull with straw hat",
+    "totalBounty": 0,
+    "currentMembers": ["luffy", "zoro"],
+    "keyMoments": [
+      {
+        "episodeNumber": 2,
+        "eventId": "ep002-event-012",
+        "momentType": "CREW_JOIN",
+        "title": "Zoro Joins the Straw Hat Pirates",
+        "description": "Roronoa Zoro becomes the first official member to join Luffy's crew after Luffy retrieves his swords and helps him escape the Marines.",
+        "significance": "The formation of the core Straw Hat Pirates begins with the first crew member joining.",
+        "timestamp": "20:45"
+      }
+    ],
+    "membershipHistory": [
+      {
+        "characterId": "luffy",
+        "role": "Captain",
+        "episodeJoined": 1,
+        "episodeLeft": null,
+        "status": "ACTIVE"
+      },
+      {
+        "characterId": "zoro",
+        "role": "Combatant",
+        "episodeJoined": 2,
+        "episodeLeft": null,
+        "status": "ACTIVE"
+      }
+    ],
+    "territories": [],
+    "allies": [],
+    "enemies": [],
+    "status": "ACTIVE"
+  },
+  {
+    "name": {
+      "english": "Marines (153rd Branch)",
+      "japanese": "海軍第153支部",
+      "romanized": "Kaigun Dai 153 Shibu"
+    },
+    "debutEpisode": 2,
+    "debutChapter": 3,
+    "episodeAppearances": [2],
+    "captain": "morgan",
+    "ship": null,
+    "jollyRoger": "Marine emblem",
+    "totalBounty": 0,
+    "currentMembers": ["morgan"],
+    "keyMoments": [
+      {
+        "episodeNumber": 2,
+        "eventId": "ep002-event-010",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "153rd Branch Introduction",
+        "description": "The 153rd Branch of the Marines is introduced, commanded by the tyrannical Captain Morgan who rules Shells Town with an iron fist.",
+        "significance": "First portrayal of corrupt Marines, showing that not all Marines are heroic.",
+        "timestamp": "16:30"
+      }
+    ],
+    "membershipHistory": [
+      {
+        "characterId": "morgan",
+        "role": "Captain",
+        "episodeJoined": 2,
+        "episodeLeft": null,
+        "status": "ACTIVE"
+      }
+    ],
+    "territories": ["Shells Town"],
+    "allies": [],
+    "enemies": ["straw-hat-pirates"],
+    "status": "ACTIVE"
+  }
+]
