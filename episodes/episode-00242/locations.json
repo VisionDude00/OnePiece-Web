@@ -1,0 +1,118 @@
+[
+  {
+    "name": {
+      "english": "Galley-La Company Headquarters",
+      "japanese": "ガレーラカンパニー本社",
+      "romanized": "Garēra Kanpanī Honsha"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "PARADISE",
+    "islandName": "Water 7",
+    "debutEpisode": 232,
+    "debutChapter": 323,
+    "description": "The headquarters building of the Galley-La Company, Water 7's premier shipbuilding organization. A large multi-story structure that houses the offices of Iceburg and the foremen, serving as the center of Water 7's shipbuilding industry.",
+    "episodeAppearances": [242],
+    "keyEvents": [
+      {
+        "episodeNumber": 242,
+        "eventId": "ep242-event-002",
+        "eventType": "BATTLE_START",
+        "title": "CP9's Coordinated Attack",
+        "description": "A massive explosion signals the beginning of CP9's raid on the Galley-La headquarters to obtain the Pluton blueprints.",
+        "significance": "The headquarters becomes the battleground for CP9's reveal and their assault on Iceburg.",
+        "timestamp": "05:15"
+      },
+      {
+        "episodeNumber": 242,
+        "eventId": "ep242-event-004",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Masked CP9 Agents Infiltrate",
+        "description": "Multiple masked CP9 agents, disguised as the Straw Hat Pirates, storm the building and attack the shipwrights.",
+        "significance": "The infiltration marks the culmination of CP9's five-year undercover operation.",
+        "timestamp": "08:20"
+      },
+      {
+        "episodeNumber": 242,
+        "eventId": "ep242-event-012",
+        "eventType": "BATTLE_START",
+        "title": "Shipwrights Defeated Throughout Building",
+        "description": "Robin and CP9 agents defeat multiple shipwrights as they move through the headquarters toward Iceburg's office.",
+        "significance": "Demonstrates CP9's overwhelming power and the helplessness of the Galley-La defenders.",
+        "timestamp": "18:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 232,
+        "episodeEnd": "present",
+        "reason": "Headquarters remains operational despite the attack"
+      }
+    ],
+    "parentLocation": "water-7",
+    "childLocations": ["iceburg-office"],
+    "relatedCharacters": ["iceburg", "paulie", "lucci", "kaku", "kalifa", "blueno", "tilestone", "lulu"],
+    "relatedCrews": ["galley-la-company", "cp9"],
+    "relatedArcs": ["Water 7"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Iceburg's Office",
+      "japanese": "アイスバーグの部屋",
+      "romanized": "Aisubāgu no Heya"
+    },
+    "locationType": "ROOM",
+    "seaRegion": "PARADISE",
+    "islandName": "Water 7",
+    "debutEpisode": 242,
+    "debutChapter": 342,
+    "description": "The private office of Iceburg, president of Galley-La Company and mayor of Water 7. This room becomes the scene of CP9's direct confrontation with Iceburg regarding the Pluton blueprints.",
+    "episodeAppearances": [242],
+    "keyEvents": [
+      {
+        "episodeNumber": 242,
+        "eventId": "ep242-event-007",
+        "eventType": "POWER_REVEAL",
+        "title": "Blueno Creates Door Into Office",
+        "description": "Blueno uses his Doa Doa no Mi powers to create a door through the wall, gaining direct access to Iceburg's office and bypassing all security.",
+        "significance": "First demonstration of Blueno's Devil Fruit ability and the beginning of CP9's direct confrontation with Iceburg.",
+        "timestamp": "13:00"
+      },
+      {
+        "episodeNumber": 242,
+        "eventId": "ep242-event-008",
+        "eventType": "BACKSTORY_REVEAL",
+        "title": "CP9 Reveals Conspiracy to Iceburg",
+        "description": "Robin and Blueno reveal to Iceburg that they framed the Straw Hats and their true objective is the Pluton blueprints.",
+        "significance": "The office becomes the location where the conspiracy is revealed and the true stakes of the Water 7 arc are established.",
+        "timestamp": "14:30"
+      },
+      {
+        "episodeNumber": 242,
+        "eventId": "ep242-event-010",
+        "eventType": "BATTLE_START",
+        "title": "Iceburg Shot in His Office",
+        "description": "Blueno shoots Iceburg in his own office to weaken him for interrogation about the Pluton blueprints.",
+        "significance": "The office transforms from a place of authority to a crime scene, marking Iceburg's vulnerability.",
+        "timestamp": "16:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 242,
+        "episodeEnd": "present",
+        "reason": "Office debuts as the site of CP9's confrontation with Iceburg"
+      }
+    ],
+    "parentLocation": "galley-la-headquarters",
+    "childLocations": [],
+    "relatedCharacters": ["iceburg", "blueno", "robin"],
+    "relatedCrews": ["cp9"],
+    "relatedArcs": ["Water 7"],
+    "images": []
+  }
+]

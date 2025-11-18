@@ -1,0 +1,573 @@
+{
+  "episodeNumber": 242,
+  "episodeTitle": "Cannon Fire Is the Signal! CP9 Goes Into Action!",
+  "description": "CP9 launches a coordinated attack on Galley-La Company headquarters with a massive explosion as their signal. Robin infiltrates alongside masked CP9 agents to confront Iceburg about the Pluton blueprints while the Straw Hats struggle to reach her.",
+  "airDate": "2005-08-21",
+  "airDateJapan": "2005-08-21",
+  "airDateUS": "2014-02-22",
+  "arcName": "Water 7",
+  "sagaName": "Water 7 Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Kokoro no Chizu",
+    "artist": "BOYSTYLE",
+    "episodeRange": [207, 263]
+  },
+  "endingSong": {
+    "title": "Eternal Pose",
+    "artist": "Asia Engineer",
+    "episodeRange": [231, 245]
+  },
+  "credits": {
+    "animationDirector": "Katsumi Tokoro",
+    "screenplay": "Hirohiko Kamisaka",
+    "keyAnimators": ["Kenji Yokoyama"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Iceburg",
+        "actor": "Izō Oikawa"
+      },
+      {
+        "character": "Blueno",
+        "actor": "Seiji Sasaki"
+      },
+      {
+        "character": "Kalifa",
+        "actor": "Naomi Shindō"
+      },
+      {
+        "character": "Rob Lucci",
+        "actor": "Tomokazu Seki"
+      },
+      {
+        "character": "Kaku",
+        "actor": "Ryōtarō Okiayu"
+      },
+      {
+        "character": "Paulie",
+        "actor": "Keiichi Sonobe"
+      },
+      {
+        "character": "Peepley Lulu",
+        "actor": "Tetsu Inada"
+      },
+      {
+        "character": "Tilestone",
+        "actor": "Jūrōta Kosugi"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Iceburg",
+        "actor": "Philip Weber"
+      },
+      {
+        "character": "Kalifa",
+        "actor": "Shelley Calene-Black"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep242-event-001",
+      "episodeNumber": 242,
+      "timestamp": "03:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Straw Hats Gather Outside Galley-La",
+      "description": "The remaining Straw Hat Pirates (Luffy, Zoro, Nami, and Chopper - minus Sanji) gather outside Galley-La Company headquarters, hiding in a tree to observe the building. They are preparing to find Robin and clear their names from the false assassination charges.",
+      "significance": "Sets up the episode's main conflict as the Straw Hats position themselves to rescue Robin while being hunted by the shipwrights.",
+      "characterIds": ["luffy", "zoro", "nami", "chopper"],
+      "locationIds": ["galley-la-headquarters"],
+      "quotes": [
+        {
+          "text": "We need to be careful. The shipwrights can be deadly.",
+          "speaker": "Nami",
+          "context": "Warning the crew as they observe Galley-La Company"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [240, 241],
+      "payoffInEpisodes": [243],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep242-event-002",
+      "episodeNumber": 242,
+      "timestamp": "05:15",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Massive Explosion Signals CP9's Attack",
+      "description": "A huge explosion rocks Galley-La Company headquarters, alerting everyone in the area and creating panic. This explosion is the coordinated signal for CP9 to begin their operation to retrieve the Pluton blueprints from Iceburg.",
+      "significance": "The explosion marks the beginning of CP9's coordinated assault and the revelation of their five-year undercover operation, escalating the Water 7 conflict to a new level.",
+      "characterIds": ["blueno", "kalifa", "robin"],
+      "locationIds": ["galley-la-headquarters"],
+      "crewIds": ["cp9"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [239, 240, 241],
+      "payoffInEpisodes": [243, 244],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep242-event-003",
+      "episodeNumber": 242,
+      "timestamp": "06:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Tilestone and Lulu Leave Their Post",
+      "description": "After hearing reports of masked intruders in the building, foremen Tilestone and Peepley Lulu abandon their guard posts to investigate, leaving the defenses weakened. Kaku and Lucci (still undercover) choose to remain outside.",
+      "significance": "The shipwrights' decision to investigate plays into CP9's hands, allowing the masked agents to move more freely through the building.",
+      "characterIds": ["tilestone", "lulu", "kaku", "lucci"],
+      "locationIds": ["galley-la-headquarters"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [243],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep242-event-004",
+      "episodeNumber": 242,
+      "timestamp": "08:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Masked CP9 Agents Infiltrate Galley-La",
+      "description": "Multiple masked figures, including a bear-masked agent (Blueno), a female agent in a mask (Kalifa), and Robin rush into Galley-La headquarters. The workers mistakenly believe they are the Straw Hat Pirates based on the framing.",
+      "significance": "The masked infiltration reveals CP9's tactical approach and their deliberate framing of the Straw Hats, while keeping their true identities hidden from most observers.",
+      "characterIds": ["blueno", "kalifa", "robin", "lucci", "kaku"],
+      "locationIds": ["galley-la-headquarters"],
+      "crewIds": ["cp9"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [240, 241],
+      "payoffInEpisodes": [243],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep242-event-005",
+      "episodeNumber": 242,
+      "timestamp": "10:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Kalifa Demonstrates Geppo",
+      "description": "The masked female agent (Kalifa) distracts guards by displaying incredible speed and the ability to jump while airborne using the Rokushiki technique Geppo (Moonwalk), shocking the shipwrights with her superhuman mobility.",
+      "significance": "First demonstration of Rokushiki techniques by CP9 in this arc, foreshadowing their advanced martial arts mastery and establishing them as formidable opponents beyond normal human capabilities.",
+      "characterIds": ["kalifa"],
+      "locationIds": ["galley-la-headquarters"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [243, 272, 273],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep242-event-006",
+      "episodeNumber": 242,
+      "timestamp": "11:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Kalifa Uses Ibara Road",
+      "description": "Kalifa reveals her signature technique Ibara Road (Thorny Road), leaping into the air and thrusting her whip to defeat multiple shipwrights simultaneously with devastating efficiency.",
+      "significance": "Introduces Kalifa's combat style and establishes her as a skilled fighter, demonstrating CP9's superior combat abilities compared to the Galley-La shipwrights.",
+      "characterIds": ["kalifa"],
+      "locationIds": ["galley-la-headquarters"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [273],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep242-event-007",
+      "episodeNumber": 242,
+      "timestamp": "13:00",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Blueno's Door Door Fruit Revealed",
+      "description": "The bear-masked agent (Blueno) demonstrates the power of the Doa Doa no Mi (Door Door Fruit) by creating a door directly into Iceburg's room through a solid wall, bypassing all security. This Paramecia-type Devil Fruit allows him to create doors on any surface.",
+      "significance": "The reveal of Blueno's Devil Fruit ability is a major plot development, showing CP9's access to powerful abilities and explaining how they've been able to operate undetected. This ability becomes crucial in later arcs.",
+      "characterIds": ["blueno", "iceburg"],
+      "locationIds": ["galley-la-headquarters", "iceburg-office"],
+      "devilFruitIds": ["doa-doa-no-mi"],
+      "quotes": [
+        {
+          "text": "It's because of the Door Door Fruit.",
+          "speaker": "Blueno",
+          "context": "Explaining his ability to Iceburg after creating a door through the wall"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [243, 269, 270, 271, 272],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep242-event-008",
+      "episodeNumber": 242,
+      "timestamp": "14:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Robin and CP9 Confront Iceburg About Framing",
+      "description": "Robin and the masked CP9 agents reveal to Iceburg that they deliberately framed the Straw Hat Pirates for the assassination attempt. They explain that their true objective is obtaining the Pluton blueprints that Iceburg possesses.",
+      "significance": "This revelation exposes the conspiracy behind the assassination attempt, clears the Straw Hats' innocence (to the audience), and establishes the ancient weapon Pluton as the central objective of the Water 7 conflict.",
+      "characterIds": ["robin", "blueno", "iceburg"],
+      "locationIds": ["iceburg-office"],
+      "crewIds": ["cp9"],
+      "quotes": [
+        {
+          "text": "We purposely placed the blame on the pirates. Our true aim is the blueprints you would have passed down to Paulie.",
+          "speaker": "Robin",
+          "context": "Revealing the conspiracy to Iceburg"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [239, 240],
+      "payoffInEpisodes": [243, 251, 258],
+      "callbacksToEpisodes": [238, 239]
+    },
+    {
+      "id": "ep242-event-009",
+      "episodeNumber": 242,
+      "timestamp": "15:45",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "CP9's Mission for Pluton Blueprints Revealed",
+      "description": "The episode reveals that CP9 has been working undercover for five years with the sole purpose of obtaining the ancient weapon Pluton's blueprints from Iceburg, who inherited them from the legendary shipwright Tom.",
+      "significance": "Establishes the World Government's interest in ancient weapons and their willingness to conduct long-term covert operations, expanding the scope of the series' conflicts beyond simple piracy to world-threatening conspiracies.",
+      "characterIds": ["iceburg", "blueno", "robin"],
+      "crewIds": ["cp9"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [243, 251, 252, 258],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep242-event-010",
+      "episodeNumber": 242,
+      "timestamp": "16:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Iceburg Shot by Blueno",
+      "description": "Blueno shoots Iceburg to weaken him, stating they cannot kill him until they get the signal. He leaves Iceburg with Robin while he goes to handle the guards, demonstrating CP9's brutal efficiency and tactical coordination.",
+      "significance": "This attack on Iceburg heightens the stakes and demonstrates CP9's ruthlessness, while also showing they need him alive (temporarily) to obtain information about the blueprints' location.",
+      "characterIds": ["blueno", "iceburg", "robin"],
+      "locationIds": ["iceburg-office"],
+      "quotes": [
+        {
+          "text": "We cannot kill him until we get the signal.",
+          "speaker": "Blueno",
+          "context": "Explaining why they're only wounding Iceburg"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [239, 240],
+      "payoffInEpisodes": [243, 244],
+      "callbacksToEpisodes": [239]
+    },
+    {
+      "id": "ep242-event-011",
+      "episodeNumber": 242,
+      "timestamp": "17:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Luffy Separated from the Crew",
+      "description": "Luffy becomes separated from his group after recklessly rushing into the Galley-La building. Zoro, Chopper, and Nami realize Luffy is gone and express concern about his impulsive actions.",
+      "significance": "Luffy's separation creates additional tension and demonstrates his characteristic impulsiveness, setting up individual character moments in the ongoing conflict.",
+      "characterIds": ["luffy", "zoro", "nami", "chopper"],
+      "locationIds": ["galley-la-headquarters"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [243],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep242-event-012",
+      "episodeNumber": 242,
+      "timestamp": "18:30",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Robin Defeats Shipwrights with Her Ability",
+      "description": "Multiple shipwrights are taken down by Robin's Hana Hana no Mi powers as she and the masked agents move through Galley-La headquarters, demonstrating her continued cooperation with CP9.",
+      "significance": "Shows Robin actively working against the Galley-La shipwrights, deepening the mystery of her betrayal and alliance with CP9 that won't be fully explained until later episodes.",
+      "characterIds": ["robin"],
+      "locationIds": ["galley-la-headquarters"],
+      "devilFruitIds": ["hana-hana-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [240, 241],
+      "payoffInEpisodes": [251],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep242-event-013",
+      "episodeNumber": 242,
+      "timestamp": "19:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Paulie Retrieves Blueprints from Safe",
+      "description": "Paulie, believing the building is under attack by the Straw Hats, retrieves important blueprints from a safe to protect them, not knowing that the real threat is from his own colleagues.",
+      "significance": "Creates dramatic irony as Paulie tries to protect the very thing CP9 is after, unaware that his trusted coworkers are the actual enemy.",
+      "characterIds": ["paulie"],
+      "locationIds": ["galley-la-headquarters"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [243],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep242-event-014",
+      "episodeNumber": 242,
+      "timestamp": "20:30",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Blueno Easily Defeats Shipwrights",
+      "description": "The bear-masked Blueno effortlessly knocks aside multiple attacking shipwrights, demonstrating the vast gap in combat ability between CP9 agents and ordinary fighters.",
+      "significance": "Establishes CP9's overwhelming power level compared to normal combatants, foreshadowing the difficult battles ahead for the Straw Hats.",
+      "characterIds": ["blueno"],
+      "locationIds": ["galley-la-headquarters"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [243, 269, 270, 271],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep242-event-015",
+      "episodeNumber": 242,
+      "timestamp": "21:15",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MAJOR",
+      "title": "Lucci and Kaku Remain Outside",
+      "description": "As other shipwrights rush inside, foremen Rob Lucci and Kaku notably choose to sit just outside Iceburg's door rather than investigate, maintaining their cover while observing the situation develop.",
+      "significance": "Subtle foreshadowing of Lucci and Kaku's true identities as CP9 agents, as their behavior differs from the other concerned shipwrights.",
+      "characterIds": ["lucci", "kaku"],
+      "locationIds": ["galley-la-headquarters"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [232, 235],
+      "payoffInEpisodes": [243],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": ["iceburg-office"],
+    "devilFruits": ["doa-doa-no-mi"],
+    "crews": [],
+    "abilities": ["geppo", "ibara-road"]
+  },
+  "episodeRelationships": {
+    "setupFor": [243, 244, 245],
+    "payoffFrom": [239, 240, 241],
+    "thematicLinks": [251, 269, 270]
+  },
+  "quotes": [
+    {
+      "text": "We purposely placed the blame on the pirates. Our true aim is the blueprints you would have passed down to Paulie.",
+      "speaker": "Nico Robin",
+      "context": "Revealing the conspiracy to Iceburg",
+      "timestamp": "14:30"
+    },
+    {
+      "text": "It's because of the Door Door Fruit.",
+      "speaker": "Blueno",
+      "context": "Explaining his ability after creating a door through the wall",
+      "timestamp": "13:00"
+    },
+    {
+      "text": "We cannot kill him until we get the signal.",
+      "speaker": "Blueno",
+      "context": "After shooting Iceburg",
+      "timestamp": "16:30"
+    },
+    {
+      "text": "We need to be careful. The shipwrights can be deadly.",
+      "speaker": "Nami",
+      "context": "Warning the crew as they observe Galley-La",
+      "timestamp": "03:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Betrayal and Deception",
+      "description": "The episode explores betrayal on multiple levels - Robin's apparent betrayal of the Straw Hats, CP9's five-year deception of Water 7's citizens, and the framing of innocent pirates for political purposes.",
+      "symbolism": "The masks worn by CP9 agents symbolize the hidden identities and deceptions that permeate Water 7, with the truth concealed beneath layers of false appearances.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Government Corruption and Power",
+      "description": "CP9's willingness to frame innocent people, conduct assassination attempts, and pursue ancient weapons demonstrates the World Government's moral corruption and abuse of power.",
+      "symbolism": "The explosion that signals CP9's attack represents the destructive force of unchecked governmental power and the collateral damage of their operations.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Loyalty and Sacrifice",
+      "description": "The episode contrasts Robin's forced cooperation with CP9 against the Straw Hats' determination to reach her, highlighting themes of loyalty under pressure and the sacrifices people make for those they care about.",
+      "symbolism": "The Galley-La shipwrights defending their headquarters represents loyalty to one's community and workplace, even when manipulated by false information.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Dramatic", "Mysterious", "Action-packed"],
+  "characterSpotlights": [
+    {
+      "characterId": "blueno",
+      "role": "Antagonist - CP9 infiltrator",
+      "development": "Blueno reveals his Devil Fruit powers and ruthless efficiency as a CP9 agent, establishing him as a formidable threat with unique abilities.",
+      "keyActions": [
+        "Creates door through wall using Doa Doa no Mi",
+        "Shoots Iceburg to weaken him",
+        "Defeats multiple shipwrights effortlessly",
+        "Coordinates with other CP9 agents during the raid"
+      ],
+      "quotes": [
+        "It's because of the Door Door Fruit.",
+        "We cannot kill him until we get the signal."
+      ]
+    },
+    {
+      "characterId": "kalifa",
+      "role": "Antagonist - CP9 infiltrator",
+      "development": "Kalifa demonstrates her Rokushiki mastery and combat prowess, revealing herself as far more dangerous than her secretary role suggested.",
+      "keyActions": [
+        "Uses Geppo to move through the air",
+        "Defeats shipwrights with Ibara Road technique",
+        "Distracts guards during the infiltration"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "robin",
+      "role": "Mysterious ally to CP9",
+      "development": "Robin continues her enigmatic cooperation with CP9, revealing their conspiracy to Iceburg while her true motivations remain hidden from both the Straw Hats and the audience.",
+      "keyActions": [
+        "Infiltrates Galley-La with CP9",
+        "Reveals the conspiracy to frame the Straw Hats",
+        "Defeats shipwrights with her Devil Fruit powers",
+        "Confronts Iceburg about the Pluton blueprints"
+      ],
+      "quotes": [
+        "We purposely placed the blame on the pirates. Our true aim is the blueprints you would have passed down to Paulie."
+      ]
+    },
+    {
+      "characterId": "iceburg",
+      "role": "Victim of CP9's attack",
+      "development": "Iceburg faces the consequences of protecting the Pluton blueprints as CP9's five-year deception is revealed and he is shot by agents he never suspected.",
+      "keyActions": [
+        "Learns the truth about CP9's infiltration",
+        "Is shot by Blueno",
+        "Confronted about the Pluton blueprints"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends some of the infiltration sequences and battle scenes for pacing, while the manga covers the same events more concisely.",
+      "episodeTimestamp": "10:00-20:00",
+      "mangaReference": "Chapters 342-343",
+      "type": "PACING"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the first on-screen demonstration of Blueno's Doa Doa no Mi (Door Door Fruit) powers, one of the most unique Paramecia abilities in the series.",
+      "category": "POWERS",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_242",
+          "title": "Episode 242 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 242 adapts content from manga Chapters 342 ('The Messengers of Darkness') and 343 ('Cipher Pol No. 9'), covering nearly two full chapters.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_242",
+          "title": "Episode 242 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode achieved a 10.4% TV rating in Japan, ranking 3rd for its timeslot, showing strong viewer engagement with the Water 7 arc's escalating drama.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_242",
+          "title": "Episode 242 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode aired on August 21, 2005, in Japan but didn't air in the US on Toonami until February 22, 2014 - nearly 9 years later.",
+      "category": "BROADCAST",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_242",
+          "title": "Episode 242 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Rokushiki techniques like Geppo are introduced in this arc as a distinct martial arts system separate from Haki, which wouldn't be formally introduced until later arcs.",
+      "category": "POWERS",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
