@@ -1,0 +1,561 @@
+{
+  "episodeNumber": 188,
+  "episodeTitle": "Free From the Spell! The Great Warrior Sheds Tears!",
+  "episodeTitleJapanese": "呪縛からの解放！大戦士が流した涙！！",
+  "episodeTitleRomanized": "Jubaku kara no Kaihō! Daisenshi ga Nagashita Namida!!",
+  "description": "In a flashback from 400 years ago, Mont Blanc Noland and Kalgara's relationship reaches a critical turning point. When Kalgara's python god Kashigami attacks Noland, Kalgara makes the difficult choice to kill it to save his new friend. Noland then reveals the cure for Tree Fever, saving Kalgara's village. The two warriors bond as Kalgara shows Noland the golden city of Shandora and reveals the sacred Poneglyph his people have protected for generations.",
+  "airDate": "2004-03-28",
+  "airDateJapan": "2004-03-28",
+  "airDateUS": "2008-11-27",
+  "airDateUSFunimation": "2008-11-27",
+  "arcName": "Skypiea Arc",
+  "sagaName": "Sky Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "BON VOYAGE!",
+    "titleJapanese": "BON VOYAGE!",
+    "artist": "Bon-Bon Blanco",
+    "composer": "BOYSTYLE",
+    "lyricist": "BOYSTYLE",
+    "episodeRange": [169, 206]
+  },
+  "endingSong": {
+    "title": "Tsuki to Taiyō",
+    "titleJapanese": "月と太陽",
+    "artist": "shela",
+    "composer": "Takeshi Aida",
+    "lyricist": "shela",
+    "episodeRange": [169, 181]
+  },
+  "credits": {
+    "director": "Kōnosuke Uda",
+    "screenplay": "Hirohiko Uesaka",
+    "artDirector": "",
+    "animationDirector": "",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Mont Blanc Noland",
+        "actor": "Hōchū Ōtsuka"
+      },
+      {
+        "character": "Kalgara",
+        "actor": "Hidekatsu Shibata"
+      },
+      {
+        "character": "Seto",
+        "actor": ""
+      },
+      {
+        "character": "Mousse",
+        "actor": ""
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Mont Blanc Noland",
+        "actor": "Daniel Penz"
+      },
+      {
+        "character": "Kalgara",
+        "actor": "Robert McCollum"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep188-event-001",
+      "episodeNumber": 188,
+      "timestamp": "03:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Villagers Prepare to Execute Noland's Crew",
+      "description": "The Shandian villagers, still enraged by the earthquake they believe was divine punishment for Noland killing Kashigami, gather around the cage holding Noland's crew prisoner. They prepare to execute them to appease the gods they believe were angered.",
+      "significance": "Shows the severe consequences of cultural misunderstanding and sets up the conflict that must be resolved. Demonstrates how deeply the villagers' religious beliefs affect their actions.",
+      "characterIds": ["noland", "seto"],
+      "locationIds": ["jaya-ancient", "shandian-village"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [187],
+      "payoffInEpisodes": [189],
+      "callbacksToEpisodes": [187]
+    },
+    {
+      "id": "ep188-event-002",
+      "episodeNumber": 188,
+      "timestamp": "04:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Seto Blocks the Path to Protect Noland's Crew",
+      "description": "Seto, a young Shandian girl, sits down in front of the cage to physically block the villagers from executing Noland's crew. She tells them they should be ashamed of themselves for turning on the people who helped them.",
+      "significance": "Demonstrates the theme of standing up for what's right despite social pressure. Seto's courage mirrors the broader theme of challenging blind faith and prejudice. Her relationship with the explorers shows not all Shandians believe Noland is evil.",
+      "characterIds": ["seto", "noland"],
+      "locationIds": ["jaya-ancient", "shandian-village"],
+      "quotes": [
+        {
+          "text": "You should all be ashamed of yourselves!",
+          "speaker": "Seto",
+          "context": "Seto confronts the villagers who want to execute Noland's crew"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [187],
+      "payoffInEpisodes": [188, 189],
+      "callbacksToEpisodes": [187]
+    },
+    {
+      "id": "ep188-event-003",
+      "episodeNumber": 188,
+      "timestamp": "06:00",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Noland Trapped in Forest Crevice",
+      "description": "In the forest, Mont Blanc Noland remains stuck in a crevice created by the earthquake. Kalgara finds him there and initially gloats, telling Noland this is divine punishment and that his crew will be dead by evening.",
+      "significance": "Shows the dramatic reversal in Kalgara and Noland's relationship, from friendship to hostility, due to the cultural conflict over the sacred trees.",
+      "characterIds": ["noland", "kalgara"],
+      "locationIds": ["jaya-ancient", "upper-yard-forest"],
+      "quotes": [
+        {
+          "text": "This is the punishment of the Gods! Your crew will be dead by the end of the evening!",
+          "speaker": "Kalgara",
+          "context": "Kalgara threatens Noland while he's trapped"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [187],
+      "payoffInEpisodes": [188],
+      "callbacksToEpisodes": [187]
+    },
+    {
+      "id": "ep188-event-004",
+      "episodeNumber": 188,
+      "timestamp": "08:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Kalgara Reveals Mousse is His Daughter",
+      "description": "Kalgara explains to Noland that he believes so strongly in the gods that when Mousse fell ill with Tree Fever, even though she is his own daughter, he was ready to let her die because of his faith in the Priest's words that it was divine will.",
+      "significance": "Demonstrates the depth of Kalgara's faith and the cultural divide between him and Noland. Shows how strongly the Shandians believed in their religious traditions, to the point of accepting their children's deaths. This makes his later decision to kill Kashigami even more impactful.",
+      "characterIds": ["kalgara", "mousse", "noland"],
+      "locationIds": ["jaya-ancient"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [187],
+      "payoffInEpisodes": [188],
+      "callbacksToEpisodes": [187]
+    },
+    {
+      "id": "ep188-event-005",
+      "episodeNumber": 188,
+      "timestamp": "10:00",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Kashigami the Python Attacks Noland",
+      "description": "The massive python that the Shandians worship as the god Kashigami suddenly emerges and attacks the trapped Noland. The snake moves to kill him while he's defenseless in the crevice.",
+      "significance": "Creates the crucial moment where Kalgara must choose between his religious beliefs and his new friend's life. This tests the bond they've formed.",
+      "characterIds": ["noland", "kalgara", "kashigami"],
+      "locationIds": ["jaya-ancient", "upper-yard-forest"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [187],
+      "payoffInEpisodes": [188],
+      "callbacksToEpisodes": [187]
+    },
+    {
+      "id": "ep188-event-006",
+      "episodeNumber": 188,
+      "timestamp": "11:30",
+      "eventType": "DEATH",
+      "severity": "CRITICAL",
+      "title": "Kalgara Kills Kashigami to Save Noland",
+      "description": "In a pivotal moment, Kalgara strikes and kills the python Kashigami with his spear to save Noland's life. This is an enormous sacrifice as Kashigami was worshipped as a god by the Shandians. Kalgara is anguished about what he has done, breaking his people's most sacred taboo.",
+      "significance": "The turning point in the Noland-Kalgara relationship and arguably the most important moment in their story. Kalgara chooses his friend over his lifelong religious beliefs, demonstrating the power of their bond. This act will have consequences but shows Kalgara's growth and trust in Noland. The 'Great Warrior sheds tears' referenced in the episode title.",
+      "characterIds": ["kalgara", "noland", "kashigami"],
+      "locationIds": ["jaya-ancient", "upper-yard-forest"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [187],
+      "payoffInEpisodes": [188, 189],
+      "callbacksToEpisodes": [187]
+    },
+    {
+      "id": "ep188-event-007",
+      "episodeNumber": 188,
+      "timestamp": "13:00",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Noland Explains Tree Fever and the Cure",
+      "description": "After being saved, Noland explains to the tearful Kalgara that Tree Fever struck his own village 60 years ago. He reveals that a cure called conine exists, which can be extracted from the bark of the Kona Tree. He shows Kalgara the tree bark he had been gathering when they first fought, which is why he was in the forest cutting down trees.",
+      "significance": "Reveals the truth behind Noland's actions and why he cut down the sacred trees. This knowledge recontextualizes their entire conflict - Noland wasn't desecrating their gods, he was trying to save lives. Shows the importance of communication and understanding between cultures.",
+      "characterIds": ["noland", "kalgara"],
+      "locationIds": ["jaya-ancient"],
+      "devilFruitIds": [],
+      "quotes": [
+        {
+          "text": "Tree Fever struck my village 60 years ago. We discovered a cure - conine from the Kona Tree bark!",
+          "speaker": "Noland",
+          "context": "Noland explains why he cut down the trees"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [187],
+      "payoffInEpisodes": [188, 189],
+      "callbacksToEpisodes": [187]
+    },
+    {
+      "id": "ep188-event-008",
+      "episodeNumber": 188,
+      "timestamp": "14:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Kalgara Asks Noland to Save His Village",
+      "description": "Kalgara, now understanding the truth and having sacrificed his god to save Noland, tearfully asks whether Noland can really save his village from Tree Fever. Despite his anguish over killing Kashigami, he chooses to trust Noland's medical knowledge.",
+      "significance": "Marks Kalgara's complete shift from blind faith to reasoned trust. He's willing to embrace a new understanding of the world if it means saving his people. This is the emotional climax referenced in the episode title.",
+      "characterIds": ["kalgara", "noland"],
+      "locationIds": ["jaya-ancient"],
+      "quotes": [
+        {
+          "text": "Can you really save my village?",
+          "speaker": "Kalgara",
+          "context": "Kalgara tearfully asks Noland for help after killing his god"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [187],
+      "payoffInEpisodes": [188, 189],
+      "callbacksToEpisodes": [187]
+    },
+    {
+      "id": "ep188-event-009",
+      "episodeNumber": 188,
+      "timestamp": "16:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "The Tree Fever Cure is Administered",
+      "description": "Noland and Kalgara return to the village and Noland administers the conine cure to the sick villagers. The medicine successfully cures the Tree Fever, saving the Shandian people from the deadly plague.",
+      "significance": "Validates Noland's actions and proves that his intentions were pure. This successful cure should establish peace, though historical records show this friendship will end tragically. Demonstrates the theme of science and reason versus superstition.",
+      "characterIds": ["noland", "kalgara"],
+      "locationIds": ["jaya-ancient", "shandian-village"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [187],
+      "payoffInEpisodes": [189],
+      "callbacksToEpisodes": [187]
+    },
+    {
+      "id": "ep188-event-010",
+      "episodeNumber": 188,
+      "timestamp": "18:00",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Kalgara Brings Noland to Shandora",
+      "description": "With peace restored and trust established, Kalgara takes Mont Blanc Noland to the legendary golden city of Shandora. This is a great honor, as the city is sacred to the Shandians and outsiders are typically never permitted to see it.",
+      "significance": "Demonstrates the depth of their restored friendship. By showing Noland this sacred place, Kalgara is treating him as a true brother. This is the golden city that will become central to the Skypiea arc's treasure hunt and historical mysteries.",
+      "characterIds": ["noland", "kalgara"],
+      "locationIds": ["shandora", "jaya-ancient"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [187],
+      "payoffInEpisodes": [189],
+      "callbacksToEpisodes": [187]
+    },
+    {
+      "id": "ep188-event-011",
+      "episodeNumber": 188,
+      "timestamp": "19:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Noland Sees the Golden Bell",
+      "description": "For the first time, Mont Blanc Noland sees the massive golden bell at the center of Shandora. The bell's beautiful sound is what originally guided him to the island. This is the same bell that, 400 years later, will be crucial to the Skypiea arc.",
+      "significance": "The golden bell is one of the most important artifacts in One Piece. It becomes the symbol of the Noland-Kalgara friendship and later proof that Cricket's ancestor wasn't a liar. This moment establishes the bell's historical significance.",
+      "characterIds": ["noland", "kalgara"],
+      "locationIds": ["shandora", "golden-bell-tower"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [187],
+      "payoffInEpisodes": [189, 190, 191],
+      "callbacksToEpisodes": [187]
+    },
+    {
+      "id": "ep188-event-012",
+      "episodeNumber": 188,
+      "timestamp": "20:00",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "The Shandorian Poneglyph is Revealed",
+      "description": "Kalgara explains to Noland that what the Shandia have been protecting all these centuries is a special stone called a Poneglyph. He admits that no one knows how to read the ancient writing on it, but their ancestors fought and died to protect it. They continue to guard it to honor those ancestors and the victory it symbolizes.",
+      "significance": "This is the first time the Shandorian Poneglyph is shown in the flashback, establishing its historical importance. In the present day, Robin will find and read this same Poneglyph. This moment connects the 400-year-old flashback to the current arc and the greater mystery of the Poneglyphs and Void Century.",
+      "characterIds": ["kalgara", "noland"],
+      "locationIds": ["shandora"],
+      "quotes": [
+        {
+          "text": "We don't know how to read it, but our ancestors fought to protect this stone. We honor them by protecting what they died for.",
+          "speaker": "Kalgara",
+          "context": "Kalgara explains the Poneglyph's significance to his people"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [187],
+      "payoffInEpisodes": [189, 196],
+      "callbacksToEpisodes": [187]
+    },
+    {
+      "id": "ep188-event-013",
+      "episodeNumber": 188,
+      "timestamp": "21:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Kalgara Offers Gold to Noland",
+      "description": "Kalgara tells Noland that he and his crew are welcome to take the gold from Shandora as thanks for saving the village. However, he makes one request - they must not take the golden bell or the belfry, as these hold special significance to the Shandian people. Kalgara explains they never cared about the gold itself.",
+      "significance": "Shows the Shandians' values - they treasure their history and culture (the bell) over material wealth (the gold). This generosity and the exception for the bell foreshadow the bell's importance. It also sets up why the bell remains in Skypiea in the present day.",
+      "characterIds": ["kalgara", "noland"],
+      "locationIds": ["shandora"],
+      "quotes": [
+        {
+          "text": "Take the gold, all of it if you wish. But leave the belfry and the golden bell. That we must keep.",
+          "speaker": "Kalgara",
+          "context": "Kalgara offers Noland the treasure of Shandora"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [187],
+      "payoffInEpisodes": [189],
+      "callbacksToEpisodes": [187]
+    },
+    {
+      "id": "ep188-event-014",
+      "episodeNumber": 188,
+      "timestamp": "22:00",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Shandora Means 'Right Eye of the Skull'",
+      "description": "Kalgara shows Noland a map of the island and explains that 'Shandora' means 'Right Eye of the Skull' because the island of Jaya is shaped like a skull. The golden city is positioned where the right eye would be.",
+      "significance": "Provides context for the island's geography and the city's name. This skull shape becomes important later when the Knock Up Stream splits Jaya in half, with part remaining below and part (Skypiea) rising to the sky.",
+      "characterIds": ["kalgara", "noland"],
+      "locationIds": ["jaya-ancient", "shandora"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [187],
+      "payoffInEpisodes": [189, 190],
+      "callbacksToEpisodes": [187]
+    },
+    {
+      "id": "ep188-event-015",
+      "episodeNumber": 188,
+      "timestamp": "23:30",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MAJOR",
+      "title": "Kalgara and Noland Explore Shandora Together",
+      "description": "The episode ends with scenes of Noland and Kalgara spending time together exploring Shandora and enjoying their friendship. However, the narration hints that this peace won't last, foreshadowing the tragic ending to their story that historical records have documented.",
+      "significance": "Establishes the depth of their friendship at its peak, making the eventual tragedy more impactful. The viewer knows from earlier episodes that this friendship ends badly, creating dramatic irony.",
+      "characterIds": ["noland", "kalgara"],
+      "locationIds": ["shandora"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [187],
+      "payoffInEpisodes": [189],
+      "callbacksToEpisodes": [187]
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": ["shandora"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [189],
+    "payoffFrom": [187],
+    "thematicLinks": [189, 190, 191]
+  },
+  "quotes": [
+    {
+      "text": "You should all be ashamed of yourselves!",
+      "speaker": "Seto",
+      "context": "Defending Noland's crew from execution",
+      "timestamp": "04:30"
+    },
+    {
+      "text": "This is the punishment of the Gods! Your crew will be dead by the end of the evening!",
+      "speaker": "Kalgara",
+      "context": "Kalgara threatens Noland while he's trapped",
+      "timestamp": "06:00"
+    },
+    {
+      "text": "Tree Fever struck my village 60 years ago. We discovered a cure - conine from the Kona Tree bark!",
+      "speaker": "Noland",
+      "context": "Explaining why he cut down the sacred trees",
+      "timestamp": "13:00"
+    },
+    {
+      "text": "Can you really save my village?",
+      "speaker": "Kalgara",
+      "context": "Kalgara tearfully asks for help after killing Kashigami",
+      "timestamp": "14:30"
+    },
+    {
+      "text": "We don't know how to read it, but our ancestors fought to protect this stone. We honor them by protecting what they died for.",
+      "speaker": "Kalgara",
+      "context": "Explaining the Poneglyph's significance",
+      "timestamp": "20:00"
+    },
+    {
+      "text": "Take the gold, all of it if you wish. But leave the belfry and the golden bell. That we must keep.",
+      "speaker": "Kalgara",
+      "context": "Offering treasure to Noland",
+      "timestamp": "21:00"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Friendship and Sacrifice",
+      "description": "The episode centers on Kalgara's ultimate sacrifice - killing his god to save his friend. This demonstrates that their bond has become stronger than his lifelong religious beliefs, showing the transformative power of genuine friendship.",
+      "symbolism": "Kashigami's death symbolizes the death of blind faith and the birth of reasoned trust between cultures.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Science vs. Superstition",
+      "description": "The conflict between Noland's medical knowledge and the Shandians' religious beliefs is central to the episode. The successful cure proves that understanding and science can solve problems that superstition attributes to divine will.",
+      "symbolism": "The Kona Tree bark represents knowledge and medicine triumphing over ignorance and fear.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Cultural Understanding",
+      "description": "The episode emphasizes the importance of communication between different cultures. The conflict arose from misunderstanding, and resolution comes through explanation and demonstrated good intentions.",
+      "symbolism": "The Poneglyph represents ancient knowledge that has been lost, emphasizing the tragedy of broken communication.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Honor and Ancestry",
+      "description": "Kalgara's devotion to protecting the Poneglyph not because he understands it, but to honor his ancestors' sacrifice, shows the Shandian value of honoring one's heritage and promises.",
+      "symbolism": "The Poneglyph and golden bell represent the weight of history and ancestral duty.",
+      "culturalReferences": ["The Shandians are inspired by indigenous cultures and their connection to ancestral lands and traditions"]
+    }
+  ],
+  "emotionalTone": ["Emotional", "Dramatic", "Bittersweet", "Tense", "Hopeful"],
+  "characterSpotlights": [
+    {
+      "characterId": "kalgara",
+      "role": "Primary protagonist of flashback",
+      "development": "Kalgara undergoes tremendous character growth in this episode. He moves from hostility toward Noland to making the ultimate sacrifice by killing his god to save him. His tears when asking if Noland can save his village show vulnerability and a willingness to trust despite tremendous personal cost. He learns to balance his devotion to tradition with openness to new knowledge.",
+      "keyActions": [
+        "Threatens Noland in the forest",
+        "Reveals Mousse is his daughter",
+        "Kills Kashigami to save Noland",
+        "Tearfully asks Noland to save the village",
+        "Shows Noland the city of Shandora",
+        "Reveals the Poneglyph",
+        "Offers gold to Noland but requests they leave the bell"
+      ],
+      "quotes": [
+        "This is the punishment of the Gods!",
+        "Can you really save my village?",
+        "We don't know how to read it, but our ancestors fought to protect this stone."
+      ]
+    },
+    {
+      "characterId": "noland",
+      "role": "Secondary protagonist of flashback",
+      "development": "Noland demonstrates patience, wisdom, and compassion. Despite being threatened and trapped, he maintains his desire to help the Shandians. His explanation of Tree Fever and its cure shows his scientific knowledge and proves his good intentions. He represents the explorer who comes not to conquer but to understand and assist.",
+      "keyActions": [
+        "Remains trapped in the crevice",
+        "Is saved by Kalgara from Kashigami",
+        "Explains Tree Fever and the cure",
+        "Administers conine to cure the villagers",
+        "Tours Shandora with Kalgara",
+        "Learns about the Poneglyph"
+      ],
+      "quotes": [
+        "Tree Fever struck my village 60 years ago. We discovered a cure!"
+      ]
+    },
+    {
+      "characterId": "seto",
+      "role": "Supporting character showing moral courage",
+      "development": "Seto demonstrates moral courage by standing up to the entire village to protect Noland's crew. Despite being young and presumably having less power, she refuses to let injustice occur, showing the kind of bravery that defines heroic characters in One Piece.",
+      "keyActions": [
+        "Sits in front of the cage to block the villagers",
+        "Shames the villagers for their actions"
+      ],
+      "quotes": [
+        "You should all be ashamed of yourselves!"
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime expands on the emotional moments, particularly Kalgara's internal struggle and tears, with extended scenes and dramatic pauses that aren't as drawn out in the manga.",
+      "episodeTimestamp": "11:30-14:30",
+      "mangaReference": "Chapters 289-290",
+      "type": "EXPANDED_SCENE"
+    },
+    {
+      "difference": "The anime adds additional dialogue and explanation about Tree Fever and its symptoms to make the medical explanation clearer for viewers.",
+      "episodeTimestamp": "13:00",
+      "mangaReference": "Chapter 290",
+      "type": "ANIME_ORIGINAL_DIALOGUE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This is the first episode in One Piece history that does not feature any of the Straw Hat Pirates, not even in a flashback or recap. The entire episode takes place 400 years in the past.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_188",
+          "title": "Episode 188 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 188 achieved a 13.7% TV rating when it aired in Japan, ranking #1 in its timeslot, showing how popular the Noland-Kalgara flashback was with viewers.",
+      "category": "VIEWERSHIP",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_188",
+          "title": "Episode 188 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The pumpkin-like fruit shown in this episode appears to be an ancestor to the Conasshu fruit that appeared in Episode 154, showing Oda's attention to botanical continuity.",
+      "category": "CONTINUITY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_188",
+          "title": "Episode 188 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Hōchū Ōtsuka, who voices Mont Blanc Noland, is also famous for voicing Jiraiya in Naruto. Both characters are legendary figures with tragic backstories.",
+      "category": "VOICE_ACTING",
+      "sources": []
+    },
+    {
+      "fact": "This episode adapts chapters 289-291 of the manga, maintaining a relatively good pacing of about 3 chapters per episode during this arc.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_188",
+          "title": "Episode 188 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The Shandorian Poneglyph revealed in this episode is later read by Nico Robin in Episode 196, completing the connection between the flashback and present-day story.",
+      "category": "CONTINUITY",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

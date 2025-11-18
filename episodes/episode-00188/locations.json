@@ -1,0 +1,313 @@
+[
+  {
+    "name": {
+      "english": "Shandora",
+      "japanese": "シャンドラ",
+      "romanized": "Shandora"
+    },
+    "locationType": "CITY",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Jaya (Ancient)",
+    "debutEpisode": 188,
+    "debutChapter": 290,
+    "description": "The legendary golden city of Shandora, built by the ancient Shandian civilization 1,100 years ago. The city is filled with gold and contains the sacred golden bell at its center. The name 'Shandora' means 'Right Eye of the Skull' because Jaya island is shaped like a skull and the city is positioned where the right eye would be. The city houses a Poneglyph that the Shandians have protected for generations.",
+    "episodeAppearances": [188],
+    "keyEvents": [
+      {
+        "episodeNumber": 188,
+        "eventId": "ep188-event-010",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Kalgara Brings Noland to Shandora",
+        "description": "Kalgara brings Mont Blanc Noland to the golden city of Shandora as a gesture of friendship and trust, allowing him to see this sacred place.",
+        "significance": "First time viewers see the full golden city in the flashback. This is the city that will later be split when Jaya is knocked into the sky.",
+        "timestamp": "18:00"
+      },
+      {
+        "episodeNumber": 188,
+        "eventId": "ep188-event-011",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "The Golden Bell is Revealed",
+        "description": "Noland sees the massive golden bell at the center of Shandora for the first time. This is the bell whose sound guided him to Jaya.",
+        "significance": "The golden bell becomes a central symbol of the Noland-Kalgara friendship and proof of the city's existence.",
+        "timestamp": "19:00"
+      },
+      {
+        "episodeNumber": 188,
+        "eventId": "ep188-event-012",
+        "eventType": "WORLD_LORE",
+        "title": "The Shandorian Poneglyph is Revealed",
+        "description": "Kalgara shows Noland the Poneglyph that the Shandians have protected for generations, explaining that no one can read it but they guard it to honor their ancestors.",
+        "significance": "Reveals what the Shandians have been protecting and connects to the greater One Piece mysteries.",
+        "timestamp": "20:00"
+      },
+      {
+        "episodeNumber": 188,
+        "eventId": "ep188-event-013",
+        "eventType": "MAJOR_DECISION",
+        "title": "Kalgara Offers Shandora's Gold",
+        "description": "Kalgara tells Noland he can take all the gold from Shandora except for the golden bell and belfry, which hold special cultural significance.",
+        "significance": "Shows that the Shandians value their culture over material wealth.",
+        "timestamp": "21:00"
+      },
+      {
+        "episodeNumber": 188,
+        "eventId": "ep188-event-014",
+        "eventType": "WORLD_LORE",
+        "title": "Shandora's Name Meaning Explained",
+        "description": "Kalgara explains that 'Shandora' means 'Right Eye of the Skull' because Jaya is shaped like a skull and the city is positioned at the right eye.",
+        "significance": "Provides geographical context that becomes important when Jaya is split in half.",
+        "timestamp": "22:00"
+      }
+    ],
+    "status": "DESTROYED",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 188,
+        "episodeEnd": 189,
+        "reason": "Thriving city during the flashback 400 years ago"
+      },
+      {
+        "status": "DESTROYED",
+        "episodeStart": 189,
+        "episodeEnd": "present",
+        "reason": "City was knocked into the sky by the Knock Up Stream and became ruins; the lower half remained on Jaya while the upper half became part of Skypiea"
+      }
+    ],
+    "parentLocation": "jaya-ancient",
+    "childLocations": ["golden-bell-tower"],
+    "relatedCharacters": ["noland", "kalgara", "calgara-ancestor"],
+    "relatedCrews": ["shandia"],
+    "relatedArcs": ["Skypiea Arc", "Jaya Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Jaya (Ancient)",
+      "japanese": "ジャヤ",
+      "romanized": "Jaya"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Jaya",
+    "debutEpisode": 146,
+    "debutChapter": 227,
+    "description": "The ancient island of Jaya as it existed 400 years ago, before being split by the Knock Up Stream. The island was shaped like a skull, with Shandora positioned at the 'right eye.' The island was home to the Shandian civilization and their sacred golden city.",
+    "episodeAppearances": [188],
+    "keyEvents": [
+      {
+        "episodeNumber": 188,
+        "eventId": "ep188-event-005",
+        "eventType": "BATTLE_START",
+        "title": "Kashigami Attacks in the Forest",
+        "description": "The python god Kashigami emerges from the forest to attack Noland while he's trapped in a crevice.",
+        "significance": "Sets up Kalgara's critical decision to kill his god.",
+        "timestamp": "10:00"
+      },
+      {
+        "episodeNumber": 188,
+        "eventId": "ep188-event-006",
+        "eventType": "DEATH",
+        "title": "Kashigami Killed in the Forest",
+        "description": "Kalgara kills the python god Kashigami in the Upper Yard forest to save Noland's life.",
+        "significance": "The sacred forest becomes the site of the ultimate sacrilege - killing a god.",
+        "timestamp": "11:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 146,
+        "episodeEnd": "present",
+        "reason": "Island exists in both the past and present, though split into two pieces"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["shandora", "shandian-village", "upper-yard-forest"],
+    "relatedCharacters": ["noland", "kalgara"],
+    "relatedCrews": ["shandia"],
+    "relatedArcs": ["Skypiea Arc", "Jaya Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Shandian Village",
+      "japanese": "シャンディアの村",
+      "romanized": "Shandia no Mura"
+    },
+    "locationType": "VILLAGE",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Jaya (Ancient)",
+    "debutEpisode": 187,
+    "debutChapter": 286,
+    "description": "The village where the Shandian people lived 400 years ago on Jaya. The village was struck by Tree Fever, a deadly disease that threatened to wipe out the population before Noland arrived with the cure.",
+    "episodeAppearances": [188],
+    "keyEvents": [
+      {
+        "episodeNumber": 188,
+        "eventId": "ep188-event-001",
+        "eventType": "MAJOR_DECISION",
+        "title": "Villagers Prepare Execution",
+        "description": "The villagers gather to execute Noland's crew in response to what they believe was divine punishment for killing Kashigami.",
+        "significance": "Shows the extreme consequences of cultural misunderstanding.",
+        "timestamp": "03:00"
+      },
+      {
+        "episodeNumber": 188,
+        "eventId": "ep188-event-002",
+        "eventType": "MAJOR_DECISION",
+        "title": "Seto Defends the Crew",
+        "description": "Seto blocks the villagers from executing Noland's crew, standing up for what she believes is right.",
+        "significance": "Demonstrates that not all Shandians turned against the explorers.",
+        "timestamp": "04:30"
+      },
+      {
+        "episodeNumber": 188,
+        "eventId": "ep188-event-009",
+        "eventType": "MAJOR_DECISION",
+        "title": "The Cure is Administered",
+        "description": "Noland administers the conine cure to the sick villagers, successfully curing Tree Fever and saving the Shandian people.",
+        "significance": "Restores peace and validates Noland's good intentions.",
+        "timestamp": "16:00"
+      }
+    ],
+    "status": "DESTROYED",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 187,
+        "episodeEnd": 189,
+        "reason": "Thriving village during the flashback"
+      },
+      {
+        "status": "DESTROYED",
+        "episodeStart": 189,
+        "episodeEnd": "present",
+        "reason": "Village was destroyed or abandoned after being knocked into the sky 400 years ago"
+      }
+    ],
+    "parentLocation": "jaya-ancient",
+    "childLocations": [],
+    "relatedCharacters": ["noland", "kalgara", "seto", "mousse"],
+    "relatedCrews": ["shandia"],
+    "relatedArcs": ["Skypiea Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Upper Yard Forest",
+      "japanese": "アッパーヤードの森",
+      "romanized": "Appā Yādo no Mori"
+    },
+    "locationType": "FOREST",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Jaya (Ancient)",
+    "debutEpisode": 187,
+    "debutChapter": 286,
+    "description": "The sacred forest on Jaya where the Shandians' ancestor trees grew. This forest contained the trees that Noland cut down to obtain Kona Tree bark for the Tree Fever cure. The forest was home to Kashigami, the python god worshipped by the Shandians.",
+    "episodeAppearances": [188],
+    "keyEvents": [
+      {
+        "episodeNumber": 188,
+        "eventId": "ep188-event-003",
+        "eventType": "BACKSTORY_REVEAL",
+        "title": "Noland Trapped in Crevice",
+        "description": "Noland remains stuck in a crevice in the forest created by the earthquake, while Kalgara finds him and initially threatens him.",
+        "significance": "The forest becomes the site of their confrontation and eventual reconciliation.",
+        "timestamp": "06:00"
+      },
+      {
+        "episodeNumber": 188,
+        "eventId": "ep188-event-005",
+        "eventType": "BATTLE_START",
+        "title": "Kashigami Attacks",
+        "description": "The python god Kashigami emerges in the forest to attack the trapped Noland.",
+        "significance": "Forces Kalgara to make a life-changing decision.",
+        "timestamp": "10:00"
+      },
+      {
+        "episodeNumber": 188,
+        "eventId": "ep188-event-006",
+        "eventType": "DEATH",
+        "title": "Kashigami is Killed",
+        "description": "Kalgara kills Kashigami in the forest to save Noland, committing sacrilege against his people's beliefs.",
+        "significance": "The sacred forest witnesses the death of the god it housed.",
+        "timestamp": "11:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 187,
+        "episodeEnd": "present",
+        "reason": "Forest existed 400 years ago and still exists (though partially in Skypiea) in present day"
+      }
+    ],
+    "parentLocation": "jaya-ancient",
+    "childLocations": [],
+    "relatedCharacters": ["noland", "kalgara", "kashigami"],
+    "relatedCrews": [],
+    "relatedArcs": ["Skypiea Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Golden Bell Tower",
+      "japanese": "黄金の鐘楼",
+      "romanized": "Ōgon no Shōrō"
+    },
+    "locationType": "LANDMARK",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Jaya (Ancient)",
+    "debutEpisode": 188,
+    "debutChapter": 290,
+    "description": "The great belfry housing the massive golden bell at the center of Shandora. The bell's sound could be heard across vast distances and was what guided Noland to Jaya. The tower also contains the Shandorian Poneglyph. After being knocked into the sky, the bell tower becomes part of Skypiea.",
+    "episodeAppearances": [188],
+    "keyEvents": [
+      {
+        "episodeNumber": 188,
+        "eventId": "ep188-event-011",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Noland Sees the Golden Bell",
+        "description": "Noland sees the massive golden bell for the first time, the bell whose sound originally guided him to Jaya.",
+        "significance": "Establishes the bell as the symbol of Shandora and the Noland-Kalgara friendship.",
+        "timestamp": "19:00"
+      },
+      {
+        "episodeNumber": 188,
+        "eventId": "ep188-event-012",
+        "eventType": "WORLD_LORE",
+        "title": "The Poneglyph in the Belfry",
+        "description": "Kalgara shows Noland the Poneglyph housed in the bell tower that the Shandians have protected for generations.",
+        "significance": "Reveals that the bell tower houses one of the ancient Poneglyphs.",
+        "timestamp": "20:00"
+      },
+      {
+        "episodeNumber": 188,
+        "eventId": "ep188-event-013",
+        "eventType": "MAJOR_DECISION",
+        "title": "Kalgara Refuses to Give Up the Bell",
+        "description": "While offering all of Shandora's gold to Noland, Kalgara specifically asks that the bell and belfry be left alone due to their cultural importance.",
+        "significance": "Establishes the bell as sacred and non-negotiable to the Shandians.",
+        "timestamp": "21:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 188,
+        "episodeEnd": "present",
+        "reason": "Bell tower existed 400 years ago and still stands in Skypiea in the present day"
+      }
+    ],
+    "parentLocation": "shandora",
+    "childLocations": [],
+    "relatedCharacters": ["noland", "kalgara"],
+    "relatedCrews": ["shandia"],
+    "relatedArcs": ["Skypiea Arc"],
+    "images": []
+  }
+]

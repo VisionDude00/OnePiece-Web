@@ -1,0 +1,661 @@
+{
+  "episodeNumber": 185,
+  "episodeTitle": "The Two Awaken! On the Front Lines of the Burning Love Rescue!",
+  "description": "Usopp and Sanji infiltrate Enel's Ark Maxim to rescue Nami. After splitting up to distract Enel, Sanji heroically takes Enel's devastating lightning attack to save Usopp and Nami, delivering his iconic 'I needed a light' line before collapsing. The Ark Maxim begins malfunctioning from Sanji's sabotage.",
+  "airDate": "2004-03-14",
+  "airDateJapan": "2004-03-14",
+  "airDateUS": "2008-11-24",
+  "arcName": "Skypiea",
+  "sagaName": "Sky Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "BON VOYAGE!",
+    "artist": "Bon-Bon Blanco",
+    "episodeRange": [169, 206]
+  },
+  "endingSong": {
+    "title": "Tsuki to Taiyo",
+    "artist": "Shela",
+    "episodeRange": [182, 195]
+  },
+  "credits": {
+    "animationDirector": "Munehisa Sakai",
+    "writer": "Michiru Shimada",
+    "artDirectors": ["Miyuki Sato", "Michiyo Kawasaki"],
+    "animator": "Kenji Yokoyama",
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Enel",
+        "actor": "Toshiyuki Morikawa"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Wyper",
+        "actor": "Masaki Aizawa"
+      },
+      {
+        "character": "Gan Fall",
+        "actor": "Joji Yanami"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Enel",
+        "actor": "J Michael Tatum"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Wyper",
+        "actor": "J Paul Slavens"
+      },
+      {
+        "character": "Gan Fall",
+        "actor": "John Swasey"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep185-event-001",
+      "episodeNumber": 185,
+      "timestamp": "03:20",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Sanji Awakens to Rescue Nami",
+      "description": "Sanji wakes up in shock after realizing Nami is missing and in grave danger aboard Enel's ship. He frantically awakens Usopp, remembering how powerful Enel is and knowing Nami needs immediate rescue.",
+      "significance": "This moment showcases Sanji's deep protective instinct for Nami and sets in motion the rescue mission that defines this episode. His determination to save her despite knowing Enel's overwhelming power demonstrates his unwavering commitment to his crew.",
+      "characterIds": ["sanji", "usopp"],
+      "locationIds": ["upper-yard"],
+      "quotes": [
+        {
+          "text": "Nami! She's in danger! We have to save her now!",
+          "speaker": "Sanji",
+          "context": "Waking up and realizing Nami is aboard Enel's ship"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [184],
+      "payoffInEpisodes": [185],
+      "callbacksToEpisodes": [184]
+    },
+    {
+      "id": "ep185-event-002",
+      "episodeNumber": 185,
+      "timestamp": "05:45",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Boarding the Ark Maxim",
+      "description": "Sanji and Usopp use rope-shooting gadgets to climb up to the Ark Maxim. As they ascend, Usopp voices his fear about the height and Enel's strength, while Sanji remains focused on rescuing Nami. They observe that the ship appears to be automated with elaborate machinery.",
+      "significance": "This establishes the challenge of infiltrating Enel's flying fortress and showcases the intimidating nature of the Ark Maxim. The automated nature of the ship adds to the technological marvel that Enel has created.",
+      "characterIds": ["sanji", "usopp"],
+      "locationIds": ["ark-maxim", "upper-yard"],
+      "quotes": [
+        {
+          "text": "We're losing time to save Nami. The ship is flying higher!",
+          "speaker": "Sanji",
+          "context": "Urging Usopp to climb faster"
+        },
+        {
+          "text": "This is crazy! We're fighting a god who can shoot lightning!",
+          "speaker": "Usopp",
+          "context": "Expressing fear while climbing to the Ark Maxim"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [184],
+      "payoffInEpisodes": [185],
+      "callbacksToEpisodes": [182, 183, 184]
+    },
+    {
+      "id": "ep185-event-003",
+      "episodeNumber": 185,
+      "timestamp": "07:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Sanji and Usopp Split Up",
+      "description": "After boarding the Ark Maxim, Sanji suggests they split up, with one going directly to rescue Nami. He tells Usopp there's no hope if they both get caught together. Sanji coldly adds that he's fine with Usopp being sacrificed for Nami's sake, though this is partly to motivate the cowardly sniper.",
+      "significance": "This strategic decision is crucial to the rescue plan. By splitting up, they maximize their chances of success and can distract Enel. Sanji's harsh words to Usopp, while seemingly cruel, are meant to steel his resolve and ensure Nami's rescue at any cost.",
+      "characterIds": ["sanji", "usopp"],
+      "locationIds": ["ark-maxim"],
+      "quotes": [
+        {
+          "text": "We split up. One of us goes straight for Nami. If we both get caught, there's no hope. I'm fine with you being sacrificed for Nami's sake.",
+          "speaker": "Sanji",
+          "context": "Explaining the strategy to Usopp aboard the Ark Maxim"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [185],
+      "payoffInEpisodes": [185],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep185-event-004",
+      "episodeNumber": 185,
+      "timestamp": "09:15",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Enel Detects the Intruders",
+      "description": "Using his Mantra (Observation Haki), Enel casually mentions to Nami that two intruders have boarded his ship. He's completely aware of Sanji and Usopp's presence despite them attempting to sneak aboard, demonstrating the futility of their stealth approach.",
+      "significance": "This demonstrates the overwhelming advantage Enel has with his Mantra ability. His casual mention shows he doesn't view the intruders as threats, highlighting his god complex and making the rescue mission even more perilous.",
+      "characterIds": ["enel", "nami"],
+      "locationIds": ["ark-maxim"],
+      "quotes": [
+        {
+          "text": "It seems we have two rats who've snuck aboard my ark.",
+          "speaker": "Enel",
+          "context": "Informing Nami of Sanji and Usopp's infiltration"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [168, 169],
+      "payoffInEpisodes": [185],
+      "callbacksToEpisodes": [168, 169]
+    },
+    {
+      "id": "ep185-event-005",
+      "episodeNumber": 185,
+      "timestamp": "11:00",
+      "eventType": "POWER_REVEAL",
+      "severity": "MINOR",
+      "title": "Nami Uses Thunder Ball Defense",
+      "description": "Nami demonstrates her strategic use of the Clima-Tact's Thunder Ball ability, creating a path for Enel's lightning attacks to follow away from her. This shows her growing understanding of how to use her weapon and weather manipulation against a lightning-based opponent.",
+      "significance": "This moment showcases Nami's intelligence and adaptability in combat. Despite being outmatched by Enel's raw power, she uses her knowledge of weather patterns and electricity to create defensive strategies, buying time until rescue arrives.",
+      "characterIds": ["nami", "enel"],
+      "locationIds": ["ark-maxim"],
+      "devilFruitIds": ["goro-goro-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [95, 96],
+      "payoffInEpisodes": [185],
+      "callbacksToEpisodes": [95, 96]
+    },
+    {
+      "id": "ep185-event-006",
+      "episodeNumber": 185,
+      "timestamp": "13:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Usopp Spell Technique",
+      "description": "Usopp attempts to use a new psychological technique called 'Usopp Spell' (called 'Usopp Voodoo' in the Funimation dub), where the victim must think of having needles stuck under their nails. However, the technique backfires as Nami is the one who gets distracted by the thought, not Enel.",
+      "significance": "This comedic moment showcases Usopp's creative but often ineffective combat strategies. It provides levity in a tense situation while also highlighting Usopp's attempts to be useful despite his fear. The technique's failure on Enel but success on Nami is classic One Piece humor.",
+      "characterIds": ["usopp", "nami", "enel"],
+      "locationIds": ["ark-maxim"],
+      "quotes": [
+        {
+          "text": "Usopp Spell! Think about needles under your fingernails!",
+          "speaker": "Usopp",
+          "context": "Attempting to psychologically attack Enel"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep185-event-007",
+      "episodeNumber": 185,
+      "timestamp": "14:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Nami Has Luffy's Straw Hat",
+      "description": "Usopp remarks on Nami having Luffy's straw hat. Nami tells him that Luffy was just there and got thrown off the ship by Enel but will be okay. This confirms that Luffy had already confronted Enel and was defeated.",
+      "significance": "This moment serves as continuity from the previous episode and reinforces the danger level - even Luffy couldn't defeat Enel. The straw hat in Nami's possession symbolizes the crew's connection and Luffy's trust in his navigator. It also adds urgency as the crew must succeed where their captain failed.",
+      "characterIds": ["nami", "usopp", "luffy"],
+      "locationIds": ["ark-maxim"],
+      "quotes": [
+        {
+          "text": "Luffy was just here. Enel threw him off the ship, but he'll be fine!",
+          "speaker": "Nami",
+          "context": "Explaining why she has Luffy's straw hat"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [184],
+      "payoffInEpisodes": [190, 191],
+      "callbacksToEpisodes": [184]
+    },
+    {
+      "id": "ep185-event-008",
+      "episodeNumber": 185,
+      "timestamp": "16:20",
+      "eventType": "BATTLE_START",
+      "severity": "CRITICAL",
+      "title": "Enel Prepares God's Judgment",
+      "description": "As Usopp and Nami attempt to escape on the Waver, Enel prepares to unleash his devastating 'God's Judgment' attack - a massive lightning bolt designed to completely eliminate his targets. The attack is charged with deadly intent to kill both Nami and Usopp.",
+      "significance": "This marks the beginning of one of the most crucial moments in the Skypiea arc. God's Judgment is one of Enel's most powerful attacks, and its deployment shows he's done toying with the Straw Hats. The attack sets up Sanji's heroic sacrifice.",
+      "characterIds": ["enel", "nami", "usopp"],
+      "locationIds": ["ark-maxim"],
+      "devilFruitIds": ["goro-goro-no-mi"],
+      "quotes": [
+        {
+          "text": "God's Judgment!",
+          "speaker": "Enel",
+          "context": "Preparing to strike down Nami and Usopp"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [167, 182],
+      "payoffInEpisodes": [185],
+      "callbacksToEpisodes": [182]
+    },
+    {
+      "id": "ep185-event-009",
+      "episodeNumber": 185,
+      "timestamp": "17:05",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Sanji's Sacrifice: Taking the Lightning Strike",
+      "description": "Just as Enel's God's Judgment is about to strike Usopp and Nami, Sanji appears and kicks Usopp out of harm's way toward Nami and the Waver. Sanji then takes the full force of Enel's devastating lightning attack meant to kill them both, his body absorbing the massive electrical discharge.",
+      "significance": "This is one of the most heroic and selfless moments in Sanji's character arc. Despite knowing the attack could kill him, he doesn't hesitate to sacrifice himself to save both Nami and Usopp. This moment transcends his usual 'chivalry toward women' character trait, showing he values all his crewmates' lives. It establishes Sanji as willing to die for his crew.",
+      "characterIds": ["sanji", "usopp", "nami", "enel"],
+      "locationIds": ["ark-maxim"],
+      "devilFruitIds": ["goro-goro-no-mi"],
+      "quotes": [
+        {
+          "text": "Get out of here! Now!",
+          "speaker": "Sanji",
+          "context": "Kicking Usopp to safety before taking the attack"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [185],
+      "payoffInEpisodes": [185, 186],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep185-event-010",
+      "episodeNumber": 185,
+      "timestamp": "17:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "CRITICAL",
+      "title": "Sanji's Iconic 'I Needed a Light' Line",
+      "description": "After being struck by Enel's massive lightning attack, Sanji remains standing despite being severely burned and blackened. He pulls out a cigarette, which has been lit by the electricity, and thanks Enel for the light. He delivers the iconic line 'Thanks... I was just about to ask for a light' before telling Enel he'll pay for this and then collapsing.",
+      "significance": "This is arguably one of the most iconic moments in the entire One Piece series and certainly one of Sanji's defining character moments. His ability to remain conscious after such a devastating attack, maintain his composure, and deliver a cool one-liner while smoking demonstrates incredible willpower and badassery. The scene has become legendary among fans and is frequently referenced and celebrated in the One Piece community. It perfectly encapsulates Sanji's character: cool under pressure, defiant in the face of overwhelming power, and maintaining his style even at death's door.",
+      "characterIds": ["sanji", "enel"],
+      "locationIds": ["ark-maxim"],
+      "quotes": [
+        {
+          "text": "Thanks... I was just about to ask... for a light. Yeah... you'll pay... for this.",
+          "speaker": "Sanji",
+          "context": "Standing after taking Enel's God's Judgment attack"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [185],
+      "payoffInEpisodes": [186],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep185-event-011",
+      "episodeNumber": 185,
+      "timestamp": "18:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Sanji's Sabotage of the Ark Maxim Revealed",
+      "description": "After Sanji collapses, the Ark Maxim suddenly begins malfunctioning. Black clouds stop coming out of the chimney and electrical connections become unstable throughout the ship. Enel curses and realizes that Sanji must have sabotaged the ship's systems before arriving on the deck.",
+      "significance": "This reveals that Sanji's mission wasn't just to rescue Nami - he also took time during his infiltration to sabotage Enel's ark. This strategic thinking shows Sanji's intelligence and tactical mind, as he understood the larger threat the Ark Maxim posed. The sabotage will play a crucial role in the eventual defeat of Enel's plans. It demonstrates that even in his desperate rush to save Nami, Sanji maintained enough composure to think strategically about stopping Enel's greater scheme.",
+      "characterIds": ["sanji", "enel"],
+      "locationIds": ["ark-maxim"],
+      "quotes": [
+        {
+          "text": "What did that insolent mortal do to my ship?!",
+          "speaker": "Enel",
+          "context": "Realizing the Ark Maxim has been sabotaged"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [185],
+      "payoffInEpisodes": [186, 190],
+      "callbacksToEpisodes": [182, 183]
+    },
+    {
+      "id": "ep185-event-012",
+      "episodeNumber": 185,
+      "timestamp": "19:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Usopp and Nami Escape on the Waver",
+      "description": "Thanks to Sanji's sacrifice, Usopp and Nami successfully escape from the Ark Maxim on the Waver. They ride away from the flying ship, with Nami looking back in concern for Sanji who stayed behind.",
+      "significance": "This confirms the success of Sanji's sacrifice - Nami and Usopp survive and escape to safety. Their escape ensures they can regroup with the rest of the crew and continue the fight against Enel. Nami's concern for Sanji shows her care for her crewmate despite safely escaping.",
+      "characterIds": ["nami", "usopp"],
+      "locationIds": ["ark-maxim", "upper-yard"],
+      "quotes": [
+        {
+          "text": "Sanji... thank you...",
+          "speaker": "Nami",
+          "context": "Escaping while looking back at the Ark Maxim"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [185],
+      "payoffInEpisodes": [186],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep185-event-013",
+      "episodeNumber": 185,
+      "timestamp": "20:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Robin Carries Injured Warriors in Shandora",
+      "description": "In a parallel storyline, Nico Robin is shown in the ruins of Shandora using her Hana Hana no Mi abilities to carry Zoro, Wyper, and other injured warriors' bodies near Giant Jack. She remarks on the sky getting darker as storm clouds gather.",
+      "significance": "This scene provides continuity with the other crew members and shows Robin taking action to help the wounded. It also establishes the ominous atmosphere as Enel's plan progresses, with the darkening sky foreshadowing the destruction to come. Robin's use of her powers demonstrates her integration with the crew and willingness to help.",
+      "characterIds": ["robin", "zoro", "wyper"],
+      "locationIds": ["shandora", "upper-yard"],
+      "devilFruitIds": ["hana-hana-no-mi"],
+      "quotes": [
+        {
+          "text": "The sky is getting darker... something terrible is coming.",
+          "speaker": "Robin",
+          "context": "Observing the gathering storm clouds while moving the injured"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [182, 183, 184],
+      "payoffInEpisodes": [186, 187],
+      "callbacksToEpisodes": [182, 183, 184]
+    },
+    {
+      "id": "ep185-event-014",
+      "episodeNumber": 185,
+      "timestamp": "21:15",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MAJOR",
+      "title": "Ominous Storm Clouds Gather",
+      "description": "The episode emphasizes the massive dark storm clouds gathering above Upper Yard as part of Enel's plan. The atmosphere becomes increasingly foreboding as the sky darkens dramatically, signaling the impending catastrophe Enel is orchestrating.",
+      "significance": "This visual storytelling element reinforces the scale of Enel's destructive plan and creates a sense of urgency. The gathering storm clouds are part of Enel's scheme to destroy all of Skypiea, and their presence reminds viewers of the stakes involved - not just the survival of the Straw Hats, but the entire population of Sky Island.",
+      "characterIds": ["enel"],
+      "locationIds": ["upper-yard", "skypiea"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [182, 183],
+      "payoffInEpisodes": [186, 187, 190],
+      "callbacksToEpisodes": [182, 183]
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["usopp-spell"]
+  },
+  "episodeRelationships": {
+    "setupFor": [186, 187, 190],
+    "payoffFrom": [182, 183, 184],
+    "thematicLinks": [168, 169, 182, 190]
+  },
+  "quotes": [
+    {
+      "text": "Thanks... I was just about to ask... for a light. Yeah... you'll pay... for this.",
+      "speaker": "Sanji",
+      "context": "Standing after taking Enel's God's Judgment, smoking a cigarette lit by the lightning",
+      "timestamp": "17:45"
+    },
+    {
+      "text": "We split up. One of us goes straight for Nami. If we both get caught, there's no hope. I'm fine with you being sacrificed for Nami's sake.",
+      "speaker": "Sanji",
+      "context": "Explaining the rescue strategy to Usopp",
+      "timestamp": "07:30"
+    },
+    {
+      "text": "What did that insolent mortal do to my ship?!",
+      "speaker": "Enel",
+      "context": "Realizing the Ark Maxim has been sabotaged by Sanji",
+      "timestamp": "18:30"
+    },
+    {
+      "text": "Luffy was just here. Enel threw him off the ship, but he'll be fine!",
+      "speaker": "Nami",
+      "context": "Explaining to Usopp why she has Luffy's straw hat",
+      "timestamp": "14:30"
+    },
+    {
+      "text": "It seems we have two rats who've snuck aboard my ark.",
+      "speaker": "Enel",
+      "context": "Detecting Sanji and Usopp's infiltration with his Mantra",
+      "timestamp": "09:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Sacrifice and Selflessness",
+      "description": "Sanji's willingness to take a potentially fatal attack to save both Nami and Usopp exemplifies the theme of sacrifice for one's crew. He doesn't hesitate, showing that his bonds with his crewmates transcend even his own survival instinct.",
+      "symbolism": "The lightning strike Sanji takes represents the ultimate test of loyalty - he literally absorbs the pain meant for his friends. His lit cigarette afterward symbolizes his unbreakable spirit and defiance.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Courage in the Face of Overwhelming Power",
+      "description": "Both Sanji and Usopp face Enel despite knowing his godlike power. While Usopp struggles with fear, he still participates in the rescue. Sanji faces Enel without hesitation, demonstrating true courage.",
+      "symbolism": "The Ark Maxim floating high above represents the seemingly insurmountable challenge, yet the crew members climb up anyway, symbolizing their refusal to back down from any challenge.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Intelligence and Strategy Over Raw Power",
+      "description": "Sanji's sabotage of the Ark Maxim shows that victory isn't always about direct confrontation. By damaging Enel's ship while rescuing Nami, Sanji strikes a strategic blow that will pay off later.",
+      "symbolism": "The malfunctioning ship systems symbolize how even the mightiest power can be undermined by clever strategy and determination.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Defiance and Spirit",
+      "description": "Sanji's iconic 'I needed a light' moment encapsulates the defiant spirit of the Straw Hat crew. Even when defeated, even at the brink of death, they maintain their pride and mock their opponents.",
+      "symbolism": "The cigarette lit by Enel's lightning is a perfect symbol - Sanji literally turns his enemy's attack into something useful for himself, refusing to be defeated mentally even when physically broken.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Intense", "Heroic", "Dramatic", "Defiant"],
+  "characterSpotlights": [
+    {
+      "characterId": "sanji",
+      "role": "Primary Protagonist and Hero",
+      "development": "This episode contains one of Sanji's most defining character moments. His sacrifice demonstrates that his care for his crew extends beyond just romantic interest in Nami - he saves both Usopp and Nami with equal devotion. His strategic thinking in sabotaging the ship shows his intelligence, while his defiant final words showcase his unbreakable spirit. This episode cements Sanji as not just the crew's cook, but a true warrior willing to die for his nakama.",
+      "keyActions": [
+        "Awakens and immediately plans Nami's rescue",
+        "Climbs to the Ark Maxim with Usopp",
+        "Strategically sabotages the ship's systems while infiltrating",
+        "Kicks Usopp to safety",
+        "Takes Enel's God's Judgment attack",
+        "Delivers the iconic 'I needed a light' line while standing after the attack",
+        "Collapses after ensuring Nami and Usopp's escape"
+      ],
+      "quotes": [
+        "Thanks... I was just about to ask... for a light. Yeah... you'll pay... for this.",
+        "We split up. One of us goes straight for Nami. If we both get caught, there's no hope."
+      ]
+    },
+    {
+      "characterId": "usopp",
+      "role": "Supporting Character and Comic Relief",
+      "development": "Usopp struggles with his fear throughout the episode but still participates in the dangerous rescue mission. His 'Usopp Spell' technique shows his creative thinking, even if it fails comically. Despite his cowardice, he reaches Nami first and attempts to save her, showing growth in his bravery.",
+      "keyActions": [
+        "Climbs to the Ark Maxim despite his fear",
+        "Splits up from Sanji to maximize rescue chances",
+        "Attempts the Usopp Spell technique",
+        "Reaches Nami first and tries to escape with her",
+        "Gets kicked to safety by Sanji",
+        "Escapes with Nami on the Waver"
+      ],
+      "quotes": [
+        "This is crazy! We're fighting a god who can shoot lightning!",
+        "Usopp Spell! Think about needles under your fingernails!"
+      ]
+    },
+    {
+      "characterId": "nami",
+      "role": "Damsel in Strategic Resistance",
+      "development": "While Nami needs rescuing, she's not passive - she actively uses her Clima-Tact to defend against Enel's attacks and shows strategic thinking. Her possession of Luffy's straw hat shows her role as someone who carries on when others fall. Her concern for Sanji after escaping shows her care for her crew.",
+      "keyActions": [
+        "Uses Thunder Ball technique to redirect Enel's lightning",
+        "Keeps Luffy's straw hat safe",
+        "Attempts to escape with Usopp on the Waver",
+        "Successfully escapes after Sanji's sacrifice",
+        "Shows concern for Sanji who stayed behind"
+      ],
+      "quotes": [
+        "Luffy was just here. Enel threw him off the ship, but he'll be fine!",
+        "Sanji... thank you..."
+      ]
+    },
+    {
+      "characterId": "enel",
+      "role": "Primary Antagonist",
+      "development": "Enel's god complex is on full display as he casually detects the intruders and prepares to eliminate them. His use of God's Judgment shows his ruthlessness. However, his angry reaction to the sabotage reveals a crack in his composure - he can be frustrated and caught off guard despite his power.",
+      "keyActions": [
+        "Detects Sanji and Usopp with Mantra",
+        "Taunts Nami about the intruders",
+        "Prepares and unleashes God's Judgment",
+        "Strikes Sanji with devastating lightning",
+        "Discovers and curses the sabotage of his ship"
+      ],
+      "quotes": [
+        "It seems we have two rats who've snuck aboard my ark.",
+        "God's Judgment!",
+        "What did that insolent mortal do to my ship?!"
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends the climbing sequence of Sanji and Usopp ascending to the Ark Maxim with additional dialogue and visual shots of the ship's machinery.",
+      "episodeTimestamp": "05:45",
+      "mangaReference": "Chapter 283",
+      "type": "EXPANDED_SCENE"
+    },
+    {
+      "difference": "The anime adds more dramatic visual effects to Sanji taking the lightning strike, including extended impact frames and environmental reactions.",
+      "episodeTimestamp": "17:05",
+      "mangaReference": "Chapter 284",
+      "type": "ENHANCED_ANIMATION"
+    },
+    {
+      "difference": "The 'Usopp Spell' scene is extended in the anime with more comedic timing and reaction shots from Nami.",
+      "episodeTimestamp": "13:45",
+      "mangaReference": "Chapter 283",
+      "type": "EXPANDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Sanji's 'I needed a light' line has become one of the most iconic moments in One Piece history and is frequently cited as one of his best scenes. It's been featured in countless AMVs, reaction videos, and fan discussions.",
+      "category": "CULTURAL_IMPACT",
+      "sources": [
+        {
+          "url": "https://www.bilibili.tv/video/2043088664",
+          "title": "I NEEDED A LIGHT! SANJI VS ENEL Reaction Compilation",
+          "platform": "Bilibili",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode adapts parts of manga chapters 283 and 284, covering approximately 2.5 chapters worth of content.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_185",
+          "title": "Episode 185 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The eyecatcher for this episode features Luffy and Sanji, highlighting Sanji's heroic role in the episode.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_185",
+          "title": "Episode 185 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "In the Funimation dub, 'Usopp Spell' was renamed to 'Usopp Voodoo'.",
+      "category": "LOCALIZATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Usopp_Tactics",
+          "title": "Usopp Tactics - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Enel's electricity visibly impacts the closing 'To Be Continued' screen at the end of the episode, a unique visual effect for this episode.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_185",
+          "title": "Episode 185 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode has an 8.7/10 rating on IMDB, with reviewers praising Sanji and Usopp's heroic moments.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://www.imdb.com/title/tt1008773/",
+          "title": "One Piece Episode 185 - IMDB",
+          "platform": "IMDB",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
