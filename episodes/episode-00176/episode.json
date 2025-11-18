@@ -1,0 +1,461 @@
+{
+  "episodeNumber": 176,
+  "episodeTitle": "Climb Giant Jack! Deadly Combat in the Upper Ruins",
+  "description": "At the Upper Ruins, Ohm confronts Zoro, Gan Fall, and Wyper in a deadly battle. Meanwhile, Nami and Aisa are pursued by Enforcers before being swallowed whole by the massive python Nola, along with Gan Fall and Pierre. Luffy remains trapped elsewhere, struggling to find a way out.",
+  "airDate": "2004-01-11",
+  "airDateJapan": "2004-01-11",
+  "airDateUS": "2008-11-11",
+  "arcName": "Skypiea Arc",
+  "sagaName": "Sky Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "BON VOYAGE!",
+    "artist": "Bon-Bon Blanco",
+    "episodeRange": [169, 206]
+  },
+  "endingSong": {
+    "title": "A to Z",
+    "artist": "ZZ",
+    "episodeRange": [169, 181]
+  },
+  "credits": {
+    "animationDirector": "Munehisa Sakai",
+    "screenplay": "Michiru Shimada",
+    "artDirectors": ["Miyuki Sato", "Michiyo Kawasaki"],
+    "animation": "Takeo Ide",
+    "voiceActorsJP": [
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Gan Fall",
+        "actor": "Joji Yanami"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Gan Fall",
+        "actor": "John Swasey"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep176-event-001",
+      "episodeNumber": 176,
+      "timestamp": "03:15",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Confrontation at the Upper Ruins Begins",
+      "description": "At the Upper Ruins, Ohm confronts Zoro, Gan Fall, and Wyper. Ohm declares that they must defeat him to proceed further, initiating a deadly battle between the priest and the warriors.",
+      "significance": "This battle represents a crucial confrontation in the Ordeal of Iron, one of the four trials of Upper Yard. Ohm's 0% survival rate makes this an extremely dangerous encounter for the Straw Hats and their allies.",
+      "characterIds": ["zoro", "ohm", "gan-fall", "wyper"],
+      "locationIds": ["upper-ruins"],
+      "crewIds": ["straw-hat-pirates", "shandia-warriors", "gods-army"],
+      "quotes": [
+        {
+          "text": "Only if I am defeated can you proceed.",
+          "speaker": "Ohm",
+          "context": "Ohm blocking the path forward at the Upper Ruins"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [167, 168, 175],
+      "payoffInEpisodes": [177, 178],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep176-event-002",
+      "episodeNumber": 176,
+      "timestamp": "07:40",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Nami and Aisa Arrive at Upper Ruins",
+      "description": "Nami and Aisa arrive at the Upper Ruins on a Waver while being pursued by Enforcers. Their unexpected arrival adds more chaos to the already tense confrontation between Ohm and the warriors.",
+      "significance": "This brings Nami and Aisa directly into the danger zone of Ohm's Ordeal of Iron, setting up the dramatic encounter with Nola.",
+      "characterIds": ["nami", "aisa"],
+      "locationIds": ["upper-ruins"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [175],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep176-event-003",
+      "episodeNumber": 176,
+      "timestamp": "09:20",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Wyper's Burn Bazooka Attack",
+      "description": "Wyper launches his Burn Bazooka weapon in Nami's direction, unleashing a powerful blast of flames. Gan Fall swoops in to rescue Nami from the attack, questioning why the girls are present at such a dangerous location.",
+      "significance": "Demonstrates Wyper's powerful weaponry equipped with Breath Dials, showing the destructive capability of Shandian warriors and their dial-based technology.",
+      "characterIds": ["wyper", "nami", "gan-fall", "aisa"],
+      "locationIds": ["upper-ruins"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep176-event-004",
+      "episodeNumber": 176,
+      "timestamp": "10:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Nola Swallows Nami, Gan Fall, Aisa, and Pierre",
+      "description": "Just as Gan Fall rescues Nami and Aisa by taking them into the air with Pierre, the massive python Nola suddenly rises up from below and swallows all four of them whole. The giant snake's appearance is sudden and devastating.",
+      "significance": "This is a critical moment that removes multiple characters from the battlefield and places them in extreme danger inside Nola's body. This event also reunites some characters with Luffy who is already trapped inside Nola.",
+      "characterIds": ["nami", "gan-fall", "aisa", "nola"],
+      "locationIds": ["upper-ruins", "giant-jack-area"],
+      "quotes": [
+        {
+          "text": "A giant snake!",
+          "speaker": "Nami",
+          "context": "Nami's warning before being swallowed by Nola"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [168, 175],
+      "payoffInEpisodes": [177, 178, 179],
+      "callbacksToEpisodes": [168]
+    },
+    {
+      "id": "ep176-event-005",
+      "episodeNumber": 176,
+      "timestamp": "12:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MINOR",
+      "title": "Ohm Comments on Those Swallowed by Nola",
+      "description": "After Nola swallows Nami, Gan Fall, Aisa, and Pierre, Ohm coldly states that there is nothing anyone can do for those who have been swallowed. His dismissive attitude reveals the harsh nature of the priests and their trials.",
+      "significance": "Establishes the seemingly hopeless situation of those swallowed by Nola and emphasizes Ohm's ruthless philosophy during the Ordeal of Iron.",
+      "characterIds": ["ohm", "zoro", "wyper"],
+      "locationIds": ["upper-ruins"],
+      "quotes": [
+        {
+          "text": "There is nothing you can do about those who have been swallowed.",
+          "speaker": "Ohm",
+          "context": "Ohm's cold response to Nola swallowing the others"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep176-event-006",
+      "episodeNumber": 176,
+      "timestamp": "14:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Zoro Discovers Unconscious Chopper",
+      "description": "During the chaos at the Upper Ruins, Zoro discovers Chopper lying unconscious on the ground. This adds to Zoro's concern about his crewmates and the dangerous situation they're all facing.",
+      "significance": "Shows the aftermath of previous battles and establishes that Chopper was defeated by one of the priests, emphasizing the danger level of the Ordeal trials.",
+      "characterIds": ["zoro", "chopper"],
+      "locationIds": ["upper-ruins"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [175],
+      "payoffInEpisodes": [177],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep176-event-007",
+      "episodeNumber": 176,
+      "timestamp": "15:50",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Zoro Fights Holy",
+      "description": "Zoro engages in combat with Holy, Ohm's giant dog companion. Holy is a skilled fighter who has been trained to exceptional levels of combat proficiency, making it a formidable opponent even for Zoro.",
+      "significance": "Demonstrates that even Ohm's animal companion is a serious threat, showcasing the comprehensive training and power of God's Army members.",
+      "characterIds": ["zoro", "holy", "ohm"],
+      "locationIds": ["upper-ruins"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [177],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep176-event-008",
+      "episodeNumber": 176,
+      "timestamp": "18:20",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Ohm's Iron Cloud Sword Strike",
+      "description": "Ohm uses his Eisen Whip's cloud-iron sword to launch a devastating attack at both Zoro and Wyper simultaneously. The attack exploits their distraction over Nola swallowing their allies, knocking both warriors out.",
+      "significance": "Demonstrates Ohm's superior tactical awareness and the power of his Iron Cloud weapon. This shows why the Ordeal of Iron has a 0% survival rate, as Ohm can exploit any opening.",
+      "characterIds": ["ohm", "zoro", "wyper"],
+      "locationIds": ["upper-ruins"],
+      "devilFruitIds": [],
+      "quotes": [
+        {
+          "text": "You were both distracted.",
+          "speaker": "Ohm",
+          "context": "Ohm explaining why his attack succeeded after knocking out Zoro and Wyper"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [167, 168],
+      "payoffInEpisodes": [177, 178],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep176-event-009",
+      "episodeNumber": 176,
+      "timestamp": "06:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Luffy Trapped in Mysterious Cave",
+      "description": "Luffy is shown trapped in what he perceives as a cave, lamenting about not being able to find a way out. He struggles with the bizarre environment and expresses frustration at his predicament.",
+      "significance": "Provides comedic relief while building tension about Luffy's situation. Viewers who understand the context know Luffy is actually inside Nola's stomach, but Luffy himself doesn't realize this yet.",
+      "characterIds": ["luffy"],
+      "locationIds": ["inside-nola"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [175],
+      "payoffInEpisodes": [177, 178],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep176-event-010",
+      "episodeNumber": 176,
+      "timestamp": "20:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Pagaya and Conis Deliver the Going Merry",
+      "description": "Pagaya and Conis successfully bring the Going Merry to the designated meeting point where the Straw Hats planned to reunite. However, none of the Straw Hats have arrived yet, so they decide to watch over the ship until the crew returns.",
+      "significance": "Shows the loyalty and helpfulness of the Skypiean allies, and ensures the Straw Hats' ship is safe and ready for their eventual escape from Upper Yard.",
+      "characterIds": ["pagaya", "conis"],
+      "locationIds": ["meeting-point"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [173, 174],
+      "payoffInEpisodes": [189, 190],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep176-event-011",
+      "episodeNumber": 176,
+      "timestamp": "02:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Ohm's Philosophy on Human Conflict",
+      "description": "Ohm expresses his pessimistic worldview about humanity, noting that humans constantly fight one another despite seeking peace. This philosophical stance reveals his justification for the deadly Ordeal of Iron.",
+      "significance": "Provides insight into Ohm's character and the ideological basis for Enel's regime. This philosophy of inevitable conflict contrasts with the Straw Hats' ideals of freedom and friendship.",
+      "characterIds": ["ohm"],
+      "locationIds": ["upper-ruins"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep176-event-012",
+      "episodeNumber": 176,
+      "timestamp": "21:00",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MAJOR",
+      "title": "Enel Observes the Events",
+      "description": "Enel is shown observing the events at the Upper Ruins using his Mantra (Observation Haki). He monitors the status of the battles and the participants, showing his omniscient awareness of everything happening on Upper Yard.",
+      "significance": "Establishes Enel's godlike surveillance capabilities and builds tension for his eventual direct confrontation with the Straw Hats. His passive observation suggests he's waiting for something specific to occur.",
+      "characterIds": ["enel"],
+      "locationIds": ["god-shrine"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [167, 168],
+      "payoffInEpisodes": [182, 183, 184],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["burn-bazooka", "iron-cloud-sword"]
+  },
+  "episodeRelationships": {
+    "setupFor": [177, 178, 179],
+    "payoffFrom": [167, 168, 175],
+    "thematicLinks": [182, 183, 184]
+  },
+  "quotes": [
+    {
+      "text": "Only if I am defeated can you proceed.",
+      "speaker": "Ohm",
+      "context": "Ohm blocking the path at the Upper Ruins",
+      "timestamp": "03:15"
+    },
+    {
+      "text": "A giant snake!",
+      "speaker": "Nami",
+      "context": "Warning before being swallowed by Nola",
+      "timestamp": "10:45"
+    },
+    {
+      "text": "There is nothing you can do about those who have been swallowed.",
+      "speaker": "Ohm",
+      "context": "Dismissing the fate of Nola's victims",
+      "timestamp": "12:30"
+    },
+    {
+      "text": "You were both distracted.",
+      "speaker": "Ohm",
+      "context": "Explaining his successful attack on Zoro and Wyper",
+      "timestamp": "18:20"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Sacrifice and Protection",
+      "description": "Gan Fall risks his life to save Nami and Aisa from Wyper's attack, only to be swallowed by Nola along with them. This demonstrates the theme of protectors putting themselves in harm's way for others.",
+      "symbolism": "Gan Fall's willingness to save others despite the danger represents the former God's redemptive arc and his genuine care for all people.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Overwhelming Odds",
+      "description": "The episode emphasizes the deadly nature of the Ordeal of Iron and Ohm's superior combat abilities. Even strong fighters like Zoro and Wyper are knocked out, showing that the priests represent a significant threat.",
+      "symbolism": "The 0% survival rate of the Ordeal of Iron symbolizes the seemingly insurmountable challenge facing the Straw Hats.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Philosophical Conflict",
+      "description": "Ohm's pessimistic philosophy about human nature and inevitable conflict contrasts with the Straw Hats' ideals of friendship, freedom, and adventure.",
+      "symbolism": "This ideological clash represents the broader conflict between Enel's tyrannical regime and the liberation the Straw Hats represent.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Dramatic", "Dangerous", "Chaotic"],
+  "characterSpotlights": [
+    {
+      "characterId": "ohm",
+      "role": "Primary antagonist",
+      "development": "Ohm is portrayed as a formidable priest with a 0% survival rate. His philosophical musings reveal his pessimistic worldview, and his combat prowess is demonstrated when he defeats both Zoro and Wyper simultaneously.",
+      "keyActions": [
+        "Blocks the path at the Upper Ruins",
+        "Dismisses those swallowed by Nola",
+        "Defeats Zoro and Wyper by exploiting their distraction"
+      ],
+      "quotes": [
+        "Only if I am defeated can you proceed.",
+        "You were both distracted."
+      ]
+    },
+    {
+      "characterId": "zoro",
+      "role": "Protagonist fighter",
+      "development": "Zoro faces one of his toughest challenges yet in the Ordeal of Iron. He discovers the unconscious Chopper, fights Holy, and ultimately is defeated by Ohm, showing that even the Straw Hats' strongest fighters can be overwhelmed.",
+      "keyActions": [
+        "Confronts Ohm at the Upper Ruins",
+        "Discovers unconscious Chopper",
+        "Fights Holy",
+        "Gets knocked out by Ohm's attack"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "nami",
+      "role": "Victim in peril",
+      "development": "Nami arrives at the Upper Ruins fleeing from Enforcers, only to be caught up in the battle between Ohm and the warriors. Despite being saved by Gan Fall, she is ultimately swallowed by Nola.",
+      "keyActions": [
+        "Arrives at Upper Ruins with Aisa on a Waver",
+        "Nearly hit by Wyper's Burn Bazooka",
+        "Rescued by Gan Fall",
+        "Swallowed by Nola along with Gan Fall, Aisa, and Pierre"
+      ],
+      "quotes": [
+        "A giant snake!"
+      ]
+    },
+    {
+      "characterId": "wyper",
+      "role": "Shandian warrior",
+      "development": "Wyper demonstrates his powerful weaponry and warrior spirit but is ultimately defeated by Ohm. His aggressive attack nearly hits Nami, showing his single-minded focus on defeating enemies.",
+      "keyActions": [
+        "Confronts Ohm at the Upper Ruins",
+        "Fires Burn Bazooka at Nami's direction",
+        "Gets knocked out by Ohm's attack"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended several battle sequences and reaction shots compared to the manga chapters.",
+      "episodeTimestamp": "Various",
+      "mangaReference": "Chapters 268-269",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode covers parts of two manga chapters (268 and 269), showing the battle at Upper Ruins and Nola swallowing multiple characters.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_176",
+          "title": "Episode 176 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode title contains a katakana error in the Japanese original for 'Giant Jack' (ジィアントジャック).",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_176",
+          "title": "Episode 176 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode showcases Nola's incredible size and power, as the 419-year-old snake can swallow multiple humans and even a large bird-horse (Pierre) in one gulp.",
+      "category": "CHARACTER",
+      "sources": []
+    },
+    {
+      "fact": "Ohm's Ordeal of Iron is stated to have a 0% survival rate, making it the deadliest of the four ordeals on Upper Yard.",
+      "category": "WORLD_BUILDING",
+      "sources": []
+    },
+    {
+      "fact": "The screenplay was written by Michiru Shimada, who has written numerous One Piece episodes.",
+      "category": "PRODUCTION",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

@@ -1,0 +1,630 @@
+{
+  "episodeNumber": 175,
+  "episodeTitle": "0% Survival Rate! Chopper vs Ohm, the Sword Wielding Priest",
+  "description": "Chopper faces the formidable Priest Ohm in the Upper Ruins and is overwhelmed by his Ordeal of Iron. Meanwhile, Luffy battles Nola from within, causing the giant python to rampage and chase Nami and Aisa. Zoro is carried by a South Bird and crashes into the Upper Ruins where multiple warriors converge for an impending battle.",
+  "airDate": "2003-12-21",
+  "airDateJapan": "2003-12-21",
+  "airDateUS": "2008-11-10",
+  "arcName": "Skypiea Arc",
+  "sagaName": "Sky Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "BON VOYAGE!",
+    "artist": "Bon-Bon Blanco",
+    "episodeRange": [169, 206]
+  },
+  "endingSong": {
+    "title": "A to Z",
+    "artist": "ZZ",
+    "episodeRange": [169, 181]
+  },
+  "credits": {
+    "animationDirector": "Junichi Fujise",
+    "screenplay": "Junki Takegami",
+    "artDirection": ["Miyuki Sato", "Kumiko Fukuzawa"],
+    "animation": "Eisaku Inoue",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Ōtani"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Ohm",
+        "actor": "Eiji Takemoto"
+      },
+      {
+        "character": "Gan Fall",
+        "actor": "Jūrōta Kosugi"
+      },
+      {
+        "character": "Wyper",
+        "actor": "Masaki Aizawa"
+      },
+      {
+        "character": "Aisa",
+        "actor": "Chieko Higuchi"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Ohm",
+        "actor": "Troy Baker"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep175-event-001",
+      "episodeNumber": 175,
+      "timestamp": "03:45",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Chopper Arrives at the Upper Ruins",
+      "description": "Chopper reaches the Upper Ruins seeking treasure for his crew. He is excited about finding the gold city and explores the tilted ruins of the ancient civilization.",
+      "significance": "This marks Chopper's arrival at the central battleground where he will encounter one of the most dangerous priests.",
+      "characterIds": ["chopper"],
+      "locationIds": ["upper-ruins"],
+      "quotes": [
+        {
+          "text": "I found the ruins! There must be gold here somewhere!",
+          "speaker": "Chopper",
+          "context": "Chopper's excitement upon discovering the ancient ruins"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [174],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep175-event-002",
+      "episodeNumber": 175,
+      "timestamp": "05:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Chopper Encounters Holy",
+      "description": "Chopper comes face to face with Holy, Ohm's giant trained dog. The massive animal approaches him, but is commanded by Ohm to stop and patiently lays down in front of the frightened reindeer.",
+      "significance": "Introduction to Holy, Ohm's combat companion who will play a role in future battles at the Upper Ruins.",
+      "characterIds": ["chopper", "holy", "ohm"],
+      "locationIds": ["upper-ruins"],
+      "quotes": [
+        {
+          "text": "Holy, stop. There's no need to worry - he won't bite unless I give the command. He's well trained.",
+          "speaker": "Ohm",
+          "context": "Ohm introducing his dog Holy to Chopper"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [176],
+      "callbacksToEpisodes": [155]
+    },
+    {
+      "id": "ep175-event-003",
+      "episodeNumber": 175,
+      "timestamp": "06:15",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Ohm Confronts Chopper",
+      "description": "Priest Ohm reveals himself to Chopper, recognizing him through Mantra as the one who defeated Gedatsu. Ohm declares that Chopper has an earthly desire - an attachment to life - and prepares to eliminate him in the Ordeal of Iron.",
+      "significance": "Establishes Ohm as a formidable threat and demonstrates the priests' awareness of the Straw Hats' progress through their Mantra abilities.",
+      "characterIds": ["ohm", "chopper"],
+      "locationIds": ["upper-ruins"],
+      "devilFruitIds": [],
+      "quotes": [
+        {
+          "text": "I know you defeated Gedatsu through my Mantra. You are the third to reach this place.",
+          "speaker": "Ohm",
+          "context": "Ohm revealing his knowledge of Chopper's previous victory"
+        },
+        {
+          "text": "I can see how far you've run. That proves you have an earthly desire - an attachment to life.",
+          "speaker": "Ohm",
+          "context": "Ohm's philosophy before attacking Chopper"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [163],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [163]
+    },
+    {
+      "id": "ep175-event-004",
+      "episodeNumber": 175,
+      "timestamp": "08:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Ohm Demonstrates the Eisen Whip",
+      "description": "Ohm reveals his signature weapon, the Eisen Whip - a sword with a blade made of Iron Cloud from an Eisen Dial. He demonstrates its versatility by freely manipulating the cloud's shape, length, and width to create various deadly attacks.",
+      "significance": "Introduction of one of the most unique weapons in the Skypiea arc, showcasing the advanced technology of Sky Island and the priests' formidable combat abilities.",
+      "characterIds": ["ohm"],
+      "locationIds": ["upper-ruins"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [176],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep175-event-005",
+      "episodeNumber": 175,
+      "timestamp": "10:30",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Chopper Defeated by Ohm",
+      "description": "Despite his best efforts to defend himself, Chopper is overwhelmed by Ohm's superior skill and the deadly Ordeal of Iron. Ohm defeats Chopper with a devastating attack, declaring a 0% survival rate for his ordeal.",
+      "significance": "Demonstrates the vast power gap between the Straw Hats and the priests, setting up the need for stronger fighters to defeat Ohm.",
+      "characterIds": ["chopper", "ohm"],
+      "locationIds": ["upper-ruins"],
+      "quotes": [
+        {
+          "text": "The Ordeal of Iron has a 0% survival rate. Not one of you will escape.",
+          "speaker": "Ohm",
+          "context": "Ohm's declaration after defeating Chopper"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [176],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep175-event-006",
+      "episodeNumber": 175,
+      "timestamp": "12:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Luffy Trapped Inside Nola",
+      "description": "Luffy continues to explore what he believes is a cave with sealed doors, unaware that he is actually inside the giant python Nola. He attempts to break through with Gomu Gomu no Bazooka, but this only causes rumbling that throws him off balance.",
+      "significance": "Establishes the comedic situation of Luffy being trapped inside Nola, which will have consequences for other characters.",
+      "characterIds": ["luffy", "nola"],
+      "locationIds": ["upper-yard"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [
+        {
+          "text": "This must be a trick door! If I break through it, I should find a way out!",
+          "speaker": "Luffy",
+          "context": "Luffy's misunderstanding of his situation inside Nola"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [174],
+      "payoffInEpisodes": [176, 177],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep175-event-007",
+      "episodeNumber": 175,
+      "timestamp": "14:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Luffy Causes Nola to Rampage",
+      "description": "Luffy's attacks from inside Nola cause the giant python to thrash around wildly and rampage through Upper Yard. The snake's violent movements frighten everyone in the area and create chaos across the battlefield.",
+      "significance": "Luffy's actions inadvertently affect the battles occurring outside, demonstrating the interconnected nature of events in the arc.",
+      "characterIds": ["luffy", "nola"],
+      "locationIds": ["upper-yard"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [176],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep175-event-008",
+      "episodeNumber": 175,
+      "timestamp": "15:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Nola Chases Nami and Aisa",
+      "description": "The rampaging Nola pursues Nami and Aisa, who are traveling on a waver. The two flee into the forest to escape the enraged giant python, with Aisa using her Mantra to sense the danger approaching.",
+      "significance": "Forces Nami and Aisa deeper into Upper Yard where they will eventually be swallowed by Nola in future episodes.",
+      "characterIds": ["nami", "aisa", "nola"],
+      "locationIds": ["upper-yard"],
+      "quotes": [
+        {
+          "text": "The giant snake is coming! I can sense it with my Mantra!",
+          "speaker": "Aisa",
+          "context": "Aisa warning Nami about Nola's approach"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [176],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep175-event-009",
+      "episodeNumber": 175,
+      "timestamp": "17:20",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "South Bird Carries Zoro Through the Sky",
+      "description": "The giant South Bird that Zoro encountered grabs him and carries him through the sky. Zoro threatens the bird to let him down, but when Nola approaches, the bird uses Zoro as bait and drops him.",
+      "significance": "Demonstrates Zoro's directional challenges while inadvertently delivering him to the exact location he needs to be - the Upper Ruins.",
+      "characterIds": ["zoro", "south-bird"],
+      "locationIds": ["upper-yard"],
+      "quotes": [
+        {
+          "text": "Let me down now or I'll clip your wings!",
+          "speaker": "Zoro",
+          "context": "Zoro threatening the South Bird while being carried"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [174],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [136, 137]
+    },
+    {
+      "id": "ep175-event-010",
+      "episodeNumber": 175,
+      "timestamp": "18:45",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Zoro Crashes at the Upper Ruins",
+      "description": "After being dropped by the South Bird, Zoro crash-lands directly at the Upper Ruins - the ancient sacrificial altar of Shandora. Despite his terrible sense of direction, he has accidentally arrived at his intended destination.",
+      "significance": "Brings one of the Straw Hats' strongest fighters to the battleground where Ohm awaits, setting up the climactic battle.",
+      "characterIds": ["zoro"],
+      "locationIds": ["upper-ruins"],
+      "quotes": [
+        {
+          "text": "Where am I now? Wait, are these the ruins? And there's gold here!",
+          "speaker": "Zoro",
+          "context": "Zoro realizing he's reached his destination"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [176],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep175-event-011",
+      "episodeNumber": 175,
+      "timestamp": "19:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Wyper Reaches Giant Jack",
+      "description": "Wyper, the Shandian warrior, reaches the base of Giant Jack - the massive beanstalk that leads to God's Shrine. He declares his intention to climb to the top and confront Enel, seeking to end 400 years of suffering for his people.",
+      "significance": "Marks Wyper's determination to face Enel and represents the Shandians' centuries-old quest to reclaim their homeland.",
+      "characterIds": ["wyper"],
+      "locationIds": ["giant-jack", "upper-ruins"],
+      "quotes": [
+        {
+          "text": "Enel is at the top of Giant Jack. It's time to bring an end to 400 years of hardship!",
+          "speaker": "Wyper",
+          "context": "Wyper's declaration before beginning his ascent"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [176],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep175-event-012",
+      "episodeNumber": 175,
+      "timestamp": "20:15",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Ohm Confronts Wyper at Giant Jack",
+      "description": "Ohm appears and stops Wyper from ascending Giant Jack, asking who gave him permission to climb to God's Shrine. This demonstrates the priests' role as guardians of Enel's domain.",
+      "significance": "Establishes the conflict between the Shandians and God's Army, with the priests serving as obstacles to reaching Enel.",
+      "characterIds": ["ohm", "wyper"],
+      "locationIds": ["giant-jack", "upper-ruins"],
+      "quotes": [
+        {
+          "text": "Who gave you permission to climb to God's Shrine?",
+          "speaker": "Ohm",
+          "context": "Ohm blocking Wyper's path"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [176],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep175-event-013",
+      "episodeNumber": 175,
+      "timestamp": "21:00",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Gan Fall Arrives with News",
+      "description": "Gan Fall, the former god of Skypiea, arrives at the Upper Ruins and informs Wyper that he just returned from God's Shrine. He reveals that the shrine has been completely destroyed, indicating Enel's absence from his usual location.",
+      "significance": "This revelation changes the tactical situation, as Enel is not where expected, adding mystery and urgency to the search for the current god.",
+      "characterIds": ["gan-fall", "wyper"],
+      "locationIds": ["upper-ruins"],
+      "quotes": [
+        {
+          "text": "I just returned from God's Shrine. The place has been completely destroyed, and Enel is not there.",
+          "speaker": "Gan Fall",
+          "context": "Gan Fall delivering crucial information about Enel's whereabouts"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [176],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep175-event-014",
+      "episodeNumber": 175,
+      "timestamp": "22:15",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MAJOR",
+      "title": "Four Warriors Converge at the Upper Ruins",
+      "description": "Zoro, Wyper, Gan Fall, and Ohm all find themselves at the Upper Ruins simultaneously. The four powerful fighters face off, each with their own goals and allegiances, preparing for an epic multi-way battle.",
+      "significance": "Sets up one of the most complex battles in the Skypiea arc, with representatives from the Straw Hats, Shandians, former god's forces, and current god's army all clashing.",
+      "characterIds": ["zoro", "wyper", "gan-fall", "ohm"],
+      "locationIds": ["upper-ruins"],
+      "quotes": [
+        {
+          "text": "Hand over the gold. I've got business to take care of.",
+          "speaker": "Zoro",
+          "context": "Zoro's demand upon seeing Ohm and the others"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [176, 177, 178, 179],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep175-event-015",
+      "episodeNumber": 175,
+      "timestamp": "23:40",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Robin Explores Shandora's Ruins",
+      "description": "Meanwhile, Nico Robin explores other parts of the ancient city's ruins, noting discrepancies between her map and the actual building locations. She deduces this is due to the impact that sent the island into the sky 400 years ago.",
+      "significance": "Advances Robin's subplot of uncovering the history of Shandora and searching for the Poneglyph, demonstrating her archaeological expertise.",
+      "characterIds": ["robin"],
+      "locationIds": ["shandora-ruins"],
+      "quotes": [
+        {
+          "text": "The building locations don't match the map. The impact that sent this island into the sky must have shifted everything.",
+          "speaker": "Robin",
+          "context": "Robin analyzing the ancient ruins"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [174],
+      "payoffInEpisodes": [188, 191],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["eisen-whip", "eisen-back", "eisen-fan", "eisen-fork"]
+  },
+  "episodeRelationships": {
+    "setupFor": [176, 177, 178, 179],
+    "payoffFrom": [174, 163],
+    "thematicLinks": [188, 191]
+  },
+  "quotes": [
+    {
+      "text": "The Ordeal of Iron has a 0% survival rate. Not one of you will escape.",
+      "speaker": "Ohm",
+      "context": "Ohm's declaration after defeating Chopper",
+      "timestamp": "10:30"
+    },
+    {
+      "text": "I can see how far you've run. That proves you have an earthly desire - an attachment to life.",
+      "speaker": "Ohm",
+      "context": "Ohm's philosophy before attacking Chopper",
+      "timestamp": "06:15"
+    },
+    {
+      "text": "Enel is at the top of Giant Jack. It's time to bring an end to 400 years of hardship!",
+      "speaker": "Wyper",
+      "context": "Wyper's declaration of intent to face Enel",
+      "timestamp": "19:30"
+    },
+    {
+      "text": "I just returned from God's Shrine. The place has been completely destroyed, and Enel is not there.",
+      "speaker": "Gan Fall",
+      "context": "Gan Fall revealing critical information about Enel's location",
+      "timestamp": "21:00"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Overwhelming Power",
+      "description": "The episode emphasizes the vast difference in strength between Chopper and Ohm, showing that raw power and advanced techniques can overwhelm courage and determination.",
+      "symbolism": "Ohm's 0% survival rate represents absolute dominance and the seeming impossibility of victory.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Convergence of Fates",
+      "description": "Multiple storylines and characters converge at the Upper Ruins, demonstrating how individual journeys lead to collective confrontation.",
+      "symbolism": "The Upper Ruins serve as the nexus where different factions and goals collide.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Historical Legacy",
+      "description": "The 400-year struggle of the Shandians is brought to the forefront through Wyper's determination, while Robin uncovers the physical evidence of this history.",
+      "symbolism": "Giant Jack represents the path to resolution of centuries-old conflict.",
+      "culturalReferences": ["Shandian-Skypiean conflict"]
+    }
+  ],
+  "emotionalTone": ["Tense", "Intense", "Foreboding", "Action-packed"],
+  "characterSpotlights": [
+    {
+      "characterId": "chopper",
+      "role": "Victim of overwhelming power",
+      "development": "Chopper faces one of his most decisive defeats, highlighting the need for the crew's stronger members to handle certain threats.",
+      "keyActions": [
+        "Arrives at the Upper Ruins seeking treasure",
+        "Encounters Ohm and Holy",
+        "Attempts to fight but is quickly overwhelmed",
+        "Defeated by Ohm's Ordeal of Iron"
+      ],
+      "quotes": ["I found the ruins! There must be gold here somewhere!"]
+    },
+    {
+      "characterId": "ohm",
+      "role": "Formidable antagonist",
+      "development": "Established as one of the most dangerous priests with his 0% survival rate ordeal and mastery of the Eisen Whip.",
+      "keyActions": [
+        "Confronts and defeats Chopper",
+        "Demonstrates the Eisen Whip's versatility",
+        "Blocks Wyper's path to Enel",
+        "Prepares to battle multiple opponents"
+      ],
+      "quotes": ["The Ordeal of Iron has a 0% survival rate. Not one of you will escape.", "I can see how far you've run. That proves you have an earthly desire - an attachment to life."]
+    },
+    {
+      "characterId": "zoro",
+      "role": "Incoming powerhouse",
+      "development": "Despite his directional challenges, Zoro arrives at the crucial battleground, setting up his role as the one who can defeat Ohm.",
+      "keyActions": [
+        "Carried through the sky by the South Bird",
+        "Crash-lands at the Upper Ruins",
+        "Confronts Ohm and the other warriors"
+      ],
+      "quotes": ["Let me down now or I'll clip your wings!", "Hand over the gold. I've got business to take care of."]
+    },
+    {
+      "characterId": "wyper",
+      "role": "Determined warrior",
+      "development": "Wyper's arrival at Giant Jack represents the culmination of the Shandian people's 400-year quest for justice and homeland.",
+      "keyActions": [
+        "Reaches Giant Jack",
+        "Declares intention to face Enel",
+        "Confronted by Ohm",
+        "Prepares for battle at the Upper Ruins"
+      ],
+      "quotes": ["Enel is at the top of Giant Jack. It's time to bring an end to 400 years of hardship!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends certain scenes of Chopper running and hiding from Ohm for dramatic effect.",
+      "episodeTimestamp": "04:00-06:00",
+      "mangaReference": "Chapter 266, pages 6-8",
+      "type": "ANIME_EXPANSION"
+    },
+    {
+      "difference": "The South Bird carrying Zoro is given more comedic moments in the anime.",
+      "episodeTimestamp": "17:20",
+      "mangaReference": "Chapter 266",
+      "type": "ANIME_EXPANSION"
+    },
+    {
+      "difference": "The anime adds more visual detail to Nola's rampage and its effects on the environment.",
+      "episodeTimestamp": "14:00-15:30",
+      "mangaReference": "Chapter 267",
+      "type": "ANIME_EXPANSION"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "The episode title's '0% Survival Rate' is somewhat misleading as Chopper and Ohm don't have an extended battle - Chopper is quickly defeated.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://forums.arlongpark.net/topic/26096/new-to-one-piece-well-sort-of/282",
+          "title": "New to One Piece (Well Sort Of) - Arlong Park Forums",
+          "platform": "Forum",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Ohm's name comes from 'Om' (or 'Aum'), a sacred sound and spiritual icon in Hindu religion, fitting with the other priests' names being based on religious concepts.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Ohm",
+          "title": "Ohm - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode adapts content from manga chapters 266-267, which are part of Volume 29.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_175",
+          "title": "Episode 175 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode's eyecatcher features Chopper and Nami, highlighting their roles in this episode.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_175",
+          "title": "Episode 175 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode achieved an 11.6% TV rating in Japan, ranking 5th for its timeslot.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_175",
+          "title": "Episode 175 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Troy Baker, who voiced Ohm in the English dub, is a renowned voice actor who has voiced characters in numerous video games and anime series.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://www.behindthevoiceactors.com/characters/One-Piece/Ohm/",
+          "title": "Ohm Voice - One Piece - Behind The Voice Actors",
+          "platform": "Behind The Voice Actors",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
