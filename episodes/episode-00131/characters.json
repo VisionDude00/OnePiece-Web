@@ -1,0 +1,131 @@
+[
+  {
+    "id": "chopper",
+    "name": "Tony Tony Chopper",
+    "nameJapanese": "トニートニー・チョッパー",
+    "nameRomanized": "Tonī Tonī Choppā",
+    "episodeAppearances": [131],
+    "keyMoments": [
+      {
+        "episodeNumber": 131,
+        "timestamp": "08:45",
+        "description": "Shares the story of accidentally creating the first Rumble Ball by mixing medicines together and eating it to hide the evidence from Dr. Kureha",
+        "significance": "Reveals the origin of one of Chopper's signature abilities, showing it was born from a panicked accident rather than careful research"
+      },
+      {
+        "episodeNumber": 131,
+        "timestamp": "12:45",
+        "description": "Displays his characteristic tsundere personality when Robin calls him cute, insulting her while doing a happy dance",
+        "significance": "Demonstrates Chopper's endearing inability to hide his pleasure at compliments, a defining personality trait"
+      },
+      {
+        "episodeNumber": 131,
+        "timestamp": "16:30",
+        "description": "Opens up to Robin about his six years of medical training with Dr. Kureha, describing her as his first patient",
+        "significance": "Shows Chopper beginning to trust Robin enough to share personal memories, marking progress in their relationship"
+      }
+    ],
+    "relationships": [
+      {
+        "characterId": "robin",
+        "relationType": "CREW_MATE",
+        "status": "DEVELOPING",
+        "description": "Initially distrusts Robin due to her past as a Baroque Works assassin, but begins to open up and bond with her through honest conversation about their pasts",
+        "episodeEstablished": 131
+      },
+      {
+        "characterId": "dr-kureha",
+        "relationType": "MENTOR",
+        "status": "PAST",
+        "description": "Studied medicine under Dr. Kureha for six years on Drum Island. Reveals that he secretly experimented with her medicines and describes her as 'a woman who's like a pirate who's also a doctor'",
+        "episodeEstablished": 131
+      }
+    ],
+    "reveals": []
+  },
+  {
+    "id": "robin",
+    "name": "Nico Robin",
+    "nameJapanese": "ニコ・ロビン",
+    "nameRomanized": "Niko Robin",
+    "episodeAppearances": [131],
+    "keyMoments": [
+      {
+        "episodeNumber": 131,
+        "timestamp": "12:00",
+        "description": "Uses her Hana Hana no Mi powers playfully to tickle Chopper rather than reacting defensively to his attack, showing her gentle nature",
+        "significance": "Demonstrates Robin's peaceful intentions and desire to connect with the crew rather than harm them, contrasting with her intimidating reputation"
+      },
+      {
+        "episodeNumber": 131,
+        "timestamp": "14:20",
+        "description": "Reveals that she has been alone since age eight and survived by working for various pirates, expressing her wish to have someone to write to",
+        "significance": "Provides crucial insight into Robin's tragic past and deep loneliness, explaining her difficulty connecting with others and foreshadowing her later character arc"
+      },
+      {
+        "episodeNumber": 131,
+        "timestamp": "21:00",
+        "description": "Sits apart from the crew during the campfire celebration, reading alone while others enjoy themselves together",
+        "significance": "Symbolizes Robin's continued emotional isolation despite joining the crew, foreshadowing her struggle to truly belong and trust the Straw Hats"
+      }
+    ],
+    "relationships": [
+      {
+        "characterId": "chopper",
+        "relationType": "CREW_MATE",
+        "status": "DEVELOPING",
+        "description": "Bonds with Chopper through a vulnerable conversation where she reveals her lonely past and he shares stories of his medical training. She finds him funny and cute.",
+        "episodeEstablished": 131
+      }
+    ],
+    "reveals": [
+      {
+        "type": "BACKSTORY",
+        "description": "Confirms she has been completely alone since age eight, surviving by working for various pirates",
+        "episodeNumber": 131,
+        "timestamp": "14:20",
+        "severity": "MAJOR"
+      },
+      {
+        "type": "CHARACTER_TRAIT",
+        "description": "Expresses a deep desire for human connection, wishing she had someone to write to",
+        "episodeNumber": 131,
+        "timestamp": "14:20",
+        "severity": "MAJOR"
+      }
+    ]
+  },
+  {
+    "id": "dr-kureha",
+    "name": "Dr. Kureha",
+    "nameJapanese": "Dr.くれは",
+    "nameRomanized": "Dokutā Kureha",
+    "episodeAppearances": [131],
+    "keyMoments": [
+      {
+        "episodeNumber": 131,
+        "timestamp": "07:15",
+        "description": "Appears in flashback as Chopper secretly experiments with her medicines while she's away",
+        "significance": "Shows her role as Chopper's mentor and the setting where he accidentally created the Rumble Ball"
+      }
+    ],
+    "relationships": [
+      {
+        "characterId": "chopper",
+        "relationType": "STUDENT",
+        "status": "PAST",
+        "description": "Served as Chopper's medical mentor for six years, teaching him medicine. Chopper describes treating her as his 'first patient'",
+        "episodeEstablished": 131
+      }
+    ],
+    "reveals": [
+      {
+        "type": "CHARACTER_DETAIL",
+        "description": "Chopper describes her as someone who 'loves to drink' and 'looks like a pirate' despite being a doctor and a woman",
+        "episodeNumber": 131,
+        "timestamp": "16:30",
+        "severity": "MINOR"
+      }
+    ]
+  }
+]

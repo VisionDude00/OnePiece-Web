@@ -1,0 +1,531 @@
+{
+  "episodeNumber": 131,
+  "episodeTitle": "The First Patient! The Untold Story of the Rumble Ball!",
+  "episodeTitleJapanese": "はじめての患者（クランケ）！ランブルボール秘話",
+  "episodeTitleRomanized": "Hajimete no Kuranke! Ranburu Bōru Hiwa",
+  "description": "The Straw Hats stop at Papanapple Island to gather supplies. Chopper stays behind to guard the Going Merry and spends time with the crew's newest member, Nico Robin. Through their conversation, Chopper shares the story of accidentally creating the Rumble Ball and treating Dr. Kureha as his first patient.",
+  "airDate": "2002-11-03",
+  "airDateJapan": "2002-11-03",
+  "airDateUS": "2010-05-11",
+  "arcName": "Post-Arabasta Arc",
+  "sagaName": "Arabasta Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Hikari e",
+    "artist": "The Babystars",
+    "episodeRange": [116, 168]
+  },
+  "endingSong": {
+    "title": "Shining ray",
+    "artist": "Janne da Arc",
+    "episodeRange": [119, 132]
+  },
+  "credits": {
+    "director": "Yuji Endo",
+    "screenplayWriter": "Michiru Shimada",
+    "animationDirector": "Kenji Yokoyama",
+    "artDirector": "Miyuki Sato",
+    "artDirectorAssistant": "Toshiaki Marumori",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Dr. Kureha",
+        "actor": "Masako Nozawa"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Dr. Kureha",
+        "actor": "Pam Dougherty"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep131-event-001",
+      "episodeNumber": 131,
+      "timestamp": "02:45",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Straw Hats Arrive at Papanapple Island",
+      "description": "Nami wakes up early and spots a pineapple-shaped island in the distance. She alerts the crew, who wake up excited to explore the new island and gather fresh supplies after their adventure in Arabasta.",
+      "significance": "Introduces the setting for this character-focused filler episode and establishes the crew's post-Arabasta journey. The island's abundance of fruit provides an opportunity for the crew to split up.",
+      "characterIds": ["nami", "luffy", "zoro", "sanji", "usopp", "chopper", "robin"],
+      "locationIds": ["papanapple-island", "going-merry"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [130],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep131-event-002",
+      "episodeNumber": 131,
+      "timestamp": "04:20",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Drawing Straws to Guard the Ship",
+      "description": "Sanji suggests they gather fruit as supplies from the abundant island. Nami organizes a lottery by having the crew draw straws to determine who will stay behind and guard the Going Merry. Chopper draws the short straw and must remain on the ship.",
+      "significance": "Sets up the episode's focus on Chopper and creates the circumstance for his one-on-one interaction with Robin. Shows Nami's organizational role in the crew.",
+      "characterIds": ["nami", "chopper", "sanji", "luffy", "zoro", "usopp"],
+      "locationIds": ["papanapple-island", "going-merry"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep131-event-003",
+      "episodeNumber": 131,
+      "timestamp": "05:30",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MINOR",
+      "title": "Chopper Discovers Robin on the Ship",
+      "description": "After the others leave, Chopper realizes that Nico Robin was on the ship the entire time, sitting quietly and reading a book. He becomes frightened, remembering that she was once a Baroque Works Officer Agent specializing in assassination.",
+      "significance": "Establishes the initial tension between Chopper and Robin. Highlights Chopper's lingering distrust of Robin due to her former affiliation with Baroque Works and her reputation as an assassin.",
+      "characterIds": ["chopper", "robin"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "I don't trust you!",
+          "speaker": "Chopper",
+          "context": "Chopper's initial reaction to being alone with Robin on the ship"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [67, 114, 118, 130],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [67, 118, 130]
+    },
+    {
+      "id": "ep131-event-004",
+      "episodeNumber": 131,
+      "timestamp": "07:15",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MINOR",
+      "title": "Flashback: Chopper Experiments with Medicine",
+      "description": "A flashback shows young Chopper on Drum Island, secretly experimenting with Dr. Kureha's medicines while she's away. He's trying to learn and develop his medical skills through hands-on experimentation.",
+      "significance": "Provides context for Chopper's medical knowledge development and shows his curiosity and dedication to learning medicine. Sets up the accidental creation of the Rumble Ball.",
+      "characterIds": ["chopper", "dr-kureha"],
+      "locationIds": ["drum-island", "dr-kureha-house"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [81, 85, 86, 87, 88, 89, 90],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [81, 85, 86, 87, 88, 89, 90]
+    },
+    {
+      "id": "ep131-event-005",
+      "episodeNumber": 131,
+      "timestamp": "08:45",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Accidental Creation of the First Rumble Ball",
+      "description": "In the flashback, Chopper hears Dr. Kureha returning and accidentally drops several medicines together. Acting quickly but not thinking clearly, he presses the ingredients together into a ball and swallows it to hide the evidence. His body immediately undergoes an unusual transformation - his arms suddenly become muscular and grow larger without him consciously controlling it.",
+      "significance": "Reveals the origin story of the Rumble Ball, one of Chopper's signature abilities. Shows that this important development was born from an accident rather than intentional research, highlighting Chopper's inexperience but also his potential. This moment represents the beginning of Chopper's development of his unique combat style.",
+      "characterIds": ["chopper"],
+      "locationIds": ["drum-island", "dr-kureha-house"],
+      "devilFruitIds": ["hito-hito-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [81, 85, 86, 87, 88],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [88, 90]
+    },
+    {
+      "id": "ep131-event-006",
+      "episodeNumber": 131,
+      "timestamp": "10:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Chopper's Paranoid Confrontation",
+      "description": "Back in the present, Chopper suddenly notices Robin in the room and panics, believing she was trying to learn the Rumble Ball's secrets to use against him. In his paranoia and fear, he quickly eats a Rumble Ball to defend himself.",
+      "significance": "Shows Chopper's continued distrust and fear of Robin, stemming from her past as an assassin. Demonstrates his defensive nature when feeling threatened, even resorting to using his Rumble Ball.",
+      "characterIds": ["chopper", "robin"],
+      "locationIds": ["going-merry"],
+      "devilFruitIds": ["hito-hito-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep131-event-007",
+      "episodeNumber": 131,
+      "timestamp": "11:15",
+      "eventType": "POWER_REVEAL",
+      "severity": "MINOR",
+      "title": "Chopper's Transformation and Accidental Destruction",
+      "description": "After eating the Rumble Ball, Chopper transforms and attempts to attack Robin but ends up accidentally breaking a barrel of water instead. His attack misses its target completely, showing his lack of genuine hostility despite his fear.",
+      "significance": "Demonstrates that despite his fear and distrust, Chopper isn't truly aggressive toward Robin. The comedic failure of his attack diffuses the tension and sets up their bonding moment.",
+      "characterIds": ["chopper", "robin"],
+      "locationIds": ["going-merry"],
+      "devilFruitIds": ["hito-hito-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep131-event-008",
+      "episodeNumber": 131,
+      "timestamp": "12:00",
+      "eventType": "POWER_REVEAL",
+      "severity": "MINOR",
+      "title": "Robin Uses Her Devil Fruit to Tickle Chopper",
+      "description": "Rather than being threatened by Chopper's attack, Robin simply laughs and uses her Hana Hana no Mi powers to sprout arms that tickle Chopper, completely disarming the situation. She tells him he's funny and cute.",
+      "significance": "Shows Robin's gentle and playful side, contrasting with her intimidating reputation. Her use of her Devil Fruit powers for something as harmless as tickling demonstrates her lack of hostile intent toward Chopper and begins to break down his distrust.",
+      "characterIds": ["robin", "chopper"],
+      "locationIds": ["going-merry"],
+      "devilFruitIds": ["hana-hana-no-mi"],
+      "quotes": [
+        {
+          "text": "You're funny and cute.",
+          "speaker": "Robin",
+          "context": "Robin's amused response after tickling Chopper with her powers"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [67, 130],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [67]
+    },
+    {
+      "id": "ep131-event-009",
+      "episodeNumber": 131,
+      "timestamp": "12:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Chopper's Tsundere Response",
+      "description": "When Robin calls him cute, Chopper insults her verbally while simultaneously doing a happy little dance, displaying his characteristic tsundere personality - being pleased by compliments while pretending to be offended.",
+      "significance": "Showcases Chopper's endearing personality trait of being unable to hide his joy at compliments even while protesting. This moment begins to establish a more comfortable dynamic between him and Robin.",
+      "characterIds": ["chopper", "robin"],
+      "locationIds": ["going-merry"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [81, 90],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [81, 90]
+    },
+    {
+      "id": "ep131-event-010",
+      "episodeNumber": 131,
+      "timestamp": "14:20",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Robin Reveals Her Childhood Loneliness",
+      "description": "During their conversation, Chopper asks if Robin was really all alone ever since she was eight years old. Robin confirms this, explaining that she barely survived by working for various pirates throughout her life.",
+      "significance": "This is a significant character revelation that provides deeper insight into Robin's tragic past and explains her isolated nature. It helps Chopper understand why Robin joined the crew and creates empathy between them. This moment foreshadows Robin's later character development and her eventual full integration into the crew.",
+      "characterIds": ["robin", "chopper"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "I wish I had someone to write to.",
+          "speaker": "Robin",
+          "context": "Robin expressing her loneliness when discussing correspondence"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [67],
+      "payoffInEpisodes": [269, 270, 271, 272, 273, 274, 275, 276, 277, 278],
+      "callbacksToEpisodes": [67]
+    },
+    {
+      "id": "ep131-event-011",
+      "episodeNumber": 131,
+      "timestamp": "16:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MINOR",
+      "title": "Chopper Describes Dr. Kureha as His First Patient",
+      "description": "Chopper enthusiastically shares his memories of Dr. Kureha with Robin, describing her as someone who loves to drink, looks like a pirate despite being a woman, and is actually a doctor. He reveals that he spent six years learning how to be a doctor from her.",
+      "significance": "Provides additional context to Chopper's backstory and his relationship with Dr. Kureha. Shows Chopper opening up to Robin and sharing personal memories, indicating growing trust between them.",
+      "characterIds": ["chopper", "dr-kureha", "robin"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "She's a woman who's like a pirate who's also a doctor.",
+          "speaker": "Chopper",
+          "context": "Chopper describing Dr. Kureha to Robin"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [81, 85, 86, 87, 88, 89, 90],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [81, 85, 86, 87, 88, 89, 90]
+    },
+    {
+      "id": "ep131-event-012",
+      "episodeNumber": 131,
+      "timestamp": "19:45",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "The Crew Returns with Supplies",
+      "description": "Luffy, Zoro, Sanji, Usopp, and Nami return to the Going Merry carrying unusual pineapples and other fruit they gathered from the island. The crew prepares to leave Papanapple Island.",
+      "significance": "Concludes the supply-gathering mission that served as the framework for the episode. Brings the crew back together after Chopper and Robin's bonding time.",
+      "characterIds": ["luffy", "zoro", "sanji", "usopp", "nami", "chopper", "robin"],
+      "locationIds": ["papanapple-island", "going-merry"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep131-event-013",
+      "episodeNumber": 131,
+      "timestamp": "21:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Campfire Scene - Robin's Continued Isolation",
+      "description": "The episode concludes with the crew enjoying themselves around a campfire, laughing and celebrating together. However, Robin sits apart from the group, quietly reading a book by herself, symbolizing her continued emotional distance from the crew despite joining them.",
+      "significance": "Provides a poignant visual metaphor for Robin's psychological state. Despite the bonding moment with Chopper, she still maintains her distance from the crew as a whole. This scene foreshadows her struggle to truly belong and trust the Straw Hats, which becomes a major plot point later in the series.",
+      "characterIds": ["robin", "luffy", "zoro", "sanji", "nami", "usopp", "chopper"],
+      "locationIds": ["papanapple-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [130],
+      "payoffInEpisodes": [269, 270, 271, 272, 273, 274, 275, 276, 277, 278],
+      "callbacksToEpisodes": [130]
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": ["papanapple-island"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [132],
+    "payoffFrom": [130],
+    "thematicLinks": [81, 85, 86, 87, 88, 89, 90, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278]
+  },
+  "quotes": [
+    {
+      "text": "I don't trust you!",
+      "speaker": "Chopper",
+      "context": "Chopper's initial fearful reaction to being alone with Robin on the ship",
+      "timestamp": "05:30"
+    },
+    {
+      "text": "You're funny and cute.",
+      "speaker": "Robin",
+      "context": "Robin's amused response after tickling Chopper with her Devil Fruit powers",
+      "timestamp": "12:00"
+    },
+    {
+      "text": "I wish I had someone to write to.",
+      "speaker": "Robin",
+      "context": "Robin expressing her deep loneliness when discussing correspondence",
+      "timestamp": "14:20"
+    },
+    {
+      "text": "She's a woman who's like a pirate who's also a doctor.",
+      "speaker": "Chopper",
+      "context": "Chopper describing Dr. Kureha to Robin during their conversation",
+      "timestamp": "16:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Loneliness and Belonging",
+      "description": "The episode explores the theme of loneliness through Robin's tragic past and her difficulty connecting with others. Despite joining the Straw Hats, she still maintains emotional distance, symbolized by her sitting apart during the campfire scene.",
+      "symbolism": "The campfire represents warmth and fellowship, but Robin's distance from it represents her inability to fully embrace belonging due to her traumatic past. The white flower in the vase earlier in the episode may symbolize purity and new beginnings.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Trust and Acceptance",
+      "description": "Chopper's journey from distrusting Robin to opening up to her demonstrates the importance of giving people a chance beyond their reputations. Through honest conversation and vulnerable sharing, they begin to build a foundation of trust.",
+      "symbolism": "Robin's tickling of Chopper with her Devil Fruit powers - abilities that could harm - being used playfully instead symbolizes her peaceful intentions and desire for acceptance.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Accidental Discovery and Growth",
+      "description": "The revelation that the Rumble Ball was created by accident rather than intentional research speaks to the theme that sometimes our greatest achievements come from unexpected moments. Chopper's willingness to experiment, even if recklessly, led to an important development.",
+      "symbolism": "The accidental creation mirrors how Chopper himself was an accident of nature (a blue-nosed reindeer) who became something special.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Mentorship and Learning",
+      "description": "Chopper's relationship with Dr. Kureha and his six years of learning medicine highlight the importance of mentorship and dedication to one's craft. His experimentation shows his proactive approach to learning.",
+      "symbolism": "Chopper treating Dr. Kureha as his 'first patient' represents role reversal and shows how students can eventually care for their teachers.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Reflective", "Gentle", "Melancholic", "Heartwarming"],
+  "characterSpotlights": [
+    {
+      "characterId": "chopper",
+      "role": "Primary protagonist and narrator of flashback",
+      "development": "Chopper demonstrates growth in his ability to open up to others and share his past. His initial distrust of Robin gradually transforms into a willingness to be vulnerable and share personal stories about his medical training and relationship with Dr. Kureha.",
+      "keyActions": [
+        "Guards the Going Merry alone",
+        "Expresses distrust of Robin initially",
+        "Shares the story of accidentally creating the Rumble Ball",
+        "Opens up about his six years of training with Dr. Kureha",
+        "Bonds with Robin through honest conversation"
+      ],
+      "quotes": [
+        "I don't trust you!",
+        "She's a woman who's like a pirate who's also a doctor."
+      ]
+    },
+    {
+      "characterId": "robin",
+      "role": "Secondary protagonist learning to connect with the crew",
+      "development": "Robin begins to show vulnerability by revealing details about her lonely past. Her gentle, playful interaction with Chopper demonstrates her desire to connect with the crew, even as the final campfire scene shows she still maintains emotional distance from the group as a whole.",
+      "keyActions": [
+        "Stays on the ship reading while others explore",
+        "Laughs at and tickles Chopper instead of being threatened by him",
+        "Reveals her childhood loneliness starting at age eight",
+        "Expresses her wish for someone to write to",
+        "Sits apart from the crew during the campfire celebration"
+      ],
+      "quotes": [
+        "You're funny and cute.",
+        "I wish I had someone to write to."
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "This entire episode is anime-original filler and does not appear in the manga. It was created to provide character development during the Post-Arabasta Arc.",
+      "episodeTimestamp": "00:00",
+      "mangaReference": "N/A - Filler",
+      "type": "ANIME_ORIGINAL_EPISODE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode is completely filler and not based on any manga chapters. It's the first of five character-focused episodes in the Post-Arabasta Arc.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_131",
+          "title": "Episode 131 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The Rumble Ball was actually first shown in Episode 88 during the Drum Island arc, so this episode serves as a prequel explaining its accidental origin.",
+      "category": "CONTINUITY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Rumble_Ball",
+          "title": "Rumble Ball - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode aired during the final run of the ending song 'Shining ray' by Janne da Arc, which concluded with episode 132.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Shining_ray",
+          "title": "Shining ray - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Papanapple Island is one of two pineapple-themed filler islands in the One Piece anime, located in Paradise between Alabasta and Jaya.",
+      "category": "LOCATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Papanapple_Island",
+          "title": "Papanapple Island - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode's focus on Robin's isolation and difficulty connecting with the crew foreshadows major plot developments during the Enies Lobby arc, specifically her 'I want to live!' moment.",
+      "category": "FORESHADOWING",
+      "sources": []
+    },
+    {
+      "fact": "Chopper's voice actress Ikue Otani is most famous for voicing Pikachu in the Pokémon anime series.",
+      "category": "VOICE_ACTING",
+      "sources": []
+    },
+    {
+      "fact": "The episode received an 11.6% TV rating in Japan and ranked 8th in viewership for its timeslot.",
+      "category": "VIEWERSHIP",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_131",
+          "title": "Episode 131 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
