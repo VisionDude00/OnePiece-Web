@@ -1,0 +1,417 @@
+{
+  "episodeNumber": 47,
+  "episodeTitle": "The Wait is Over! The Return of Captain Buggy!",
+  "episodeTitleJapanese": "お待ちかね！あぁ復活のバギー船長！",
+  "episodeTitleRomanized": "Omachikane! Aa Fukkatsu no Bagī Senchō",
+  "description": "Buggy rescues his scattered crew from the cannibalistic Kumate Tribe on a remote island. After being reunited and defeating the tribe, Buggy and Alvida set sail together to pursue Luffy. Meanwhile, the Straw Hats approach Loguetown.",
+  "airDate": "2000-11-08",
+  "airDateJapan": "2000-11-08",
+  "airDateUS": "2009-03-31",
+  "arcName": "Buggy's Crew Adventure Chronicles",
+  "sagaName": "East Blue Saga",
+  "animationQuality": "STANDARD",
+  "canonStatus": "CANON_COVER_STORY",
+  "openingSong": {
+    "title": "We Are!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [1, 47],
+    "notes": "This is the final episode to use 'We Are!' as the opening theme"
+  },
+  "endingSong": {
+    "title": "RUN! RUN! RUN!",
+    "artist": "Maki Otsuki",
+    "episodeRange": [31, 63]
+  },
+  "credits": {
+    "animationDirector": "Kazuo Takigawa",
+    "episodeDirector": "Hidehiko Kadota",
+    "artDirector": "Miyuki Sato",
+    "screenplay": "Junki Takegami",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Buggy",
+        "actor": "Shigeru Chiba"
+      },
+      {
+        "character": "Alvida",
+        "actor": "Yoko Matsuoka"
+      },
+      {
+        "character": "Mohji",
+        "actor": "Shigenori Souya"
+      },
+      {
+        "character": "Cabaji",
+        "actor": "Endo Moriya"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Buggy",
+        "actor": "Mike McFarland"
+      },
+      {
+        "character": "Alvida",
+        "actor": "Laurie Steele"
+      },
+      {
+        "character": "Mohji",
+        "actor": "Chuck Huber"
+      },
+      {
+        "character": "Cabaji",
+        "actor": "Greg Ayres"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep047-event-001",
+      "episodeNumber": 47,
+      "timestamp": "02:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Buggy Pirates Hold Funeral for Captain",
+      "description": "Believing Buggy to be dead after his defeat at Orange Town, the Buggy Pirates hold a funeral ceremony for their missing captain. The crew mourns as they prepare to move forward without him.",
+      "significance": "Shows the loyalty and emotional attachment the crew has for Buggy despite his often cruel treatment of them. Sets up the succession dispute.",
+      "characterIds": ["mohji", "cabaji", "richie"],
+      "locationIds": ["kumate-island"],
+      "crewIds": ["buggy-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [46],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [8, 9]
+    },
+    {
+      "id": "ep047-event-002",
+      "episodeNumber": 47,
+      "timestamp": "03:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Mohji and Cabaji Fight for Captaincy",
+      "description": "With Buggy presumed dead, Mohji the Beast Tamer and Cabaji the Acrobat engage in a heated dispute over who should become the new captain of the Buggy Pirates.",
+      "significance": "Demonstrates the leadership vacuum created by Buggy's absence and the competitive nature of his top officers.",
+      "characterIds": ["mohji", "cabaji"],
+      "locationIds": ["kumate-island"],
+      "crewIds": ["buggy-pirates"],
+      "quotes": [
+        {
+          "text": "I should be the next captain!",
+          "speaker": "Mohji",
+          "context": "Mohji argues for his right to lead the crew"
+        },
+        {
+          "text": "No, I am more worthy to lead!",
+          "speaker": "Cabaji",
+          "context": "Cabaji contests Mohji's claim"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [8]
+    },
+    {
+      "id": "ep047-event-003",
+      "episodeNumber": 47,
+      "timestamp": "05:20",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Richie Becomes Captain While Sleepwalking",
+      "description": "While Mohji and Cabaji fight each other for the captain position, Richie the lion accidentally defeats both of them while sleepwalking. The crew then crowns Richie as their new captain, renaming themselves the 'Richie Pirates.'",
+      "significance": "A comedic moment showing the absurdity of the power struggle. Richie, who has no interest in leading, becomes captain by accident.",
+      "characterIds": ["richie", "mohji", "cabaji"],
+      "locationIds": ["kumate-island"],
+      "crewIds": ["buggy-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep047-event-004",
+      "episodeNumber": 47,
+      "timestamp": "07:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Kumate Tribe Captures Buggy Pirates",
+      "description": "The cannibalistic Kumate Tribe confronts and captures the Buggy Pirates on Kumate Island. The tribe prepares to cook and eat the pirate crew.",
+      "significance": "Creates the danger that necessitates Buggy's rescue, showing the crew's vulnerability without their captain.",
+      "characterIds": ["mohji", "cabaji", "richie"],
+      "locationIds": ["kumate-island"],
+      "crewIds": ["buggy-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep047-event-005",
+      "episodeNumber": 47,
+      "timestamp": "11:45",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Buggy and Alvida Arrive to Rescue the Crew",
+      "description": "Buggy and Alvida locate the Buggy Pirates' ship docked at Kumate Island. They discover the crew about to be cooked by the Kumate Tribe and intervene to save them.",
+      "significance": "Buggy's dramatic return to save his crew reinforces his value as a leader and cements the Buggy-Alvida alliance.",
+      "characterIds": ["buggy", "alvida", "mohji", "cabaji", "richie"],
+      "locationIds": ["kumate-island"],
+      "crewIds": ["buggy-pirates"],
+      "quotes": [
+        {
+          "text": "Did you really think I'd die that easily?!",
+          "speaker": "Buggy",
+          "context": "Buggy's triumphant return to his shocked crew"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [46],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep047-event-006",
+      "episodeNumber": 47,
+      "timestamp": "14:20",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "Defeat of the Kumate Tribe",
+      "description": "Buggy, Alvida, Mohji, and Cabaji combine their abilities to defeat the Kumate Tribe and rescue the captured Buggy Pirates from being eaten.",
+      "significance": "Demonstrates the combat effectiveness of the Buggy Pirates when working together and establishes the strength of the Buggy-Alvida alliance.",
+      "characterIds": ["buggy", "alvida", "mohji", "cabaji"],
+      "locationIds": ["kumate-island"],
+      "crewIds": ["buggy-pirates"],
+      "devilFruitIds": ["bara-bara-no-mi", "sube-sube-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep047-event-007",
+      "episodeNumber": 47,
+      "timestamp": "16:50",
+      "eventType": "CREW_JOIN",
+      "severity": "MINOR",
+      "title": "Buggy Reunites with His Crew",
+      "description": "With his body fully reassembled and the Kumate Tribe defeated, Buggy is joyfully reunited with his crew. The Buggy Pirates celebrate their captain's return.",
+      "significance": "Completes Buggy's character arc from the cover story, restoring him to his position of leadership and setting up future conflicts with Luffy.",
+      "characterIds": ["buggy", "mohji", "cabaji", "richie"],
+      "locationIds": ["kumate-island"],
+      "crewIds": ["buggy-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [8, 9, 46],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [8, 9]
+    },
+    {
+      "id": "ep047-event-008",
+      "episodeNumber": 47,
+      "timestamp": "18:30",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MINOR",
+      "title": "Buggy and Alvida Alliance Sets Sail",
+      "description": "With Buggy reunited with his crew and allied with Alvida, the combined Buggy and Alvida Alliance sets sail from Kumate Island to pursue Luffy and exact revenge.",
+      "significance": "Establishes the ongoing threat posed by Buggy and Alvida, who will continue to pursue the Straw Hats throughout their journey.",
+      "characterIds": ["buggy", "alvida"],
+      "locationIds": ["kumate-island"],
+      "crewIds": ["buggy-pirates"],
+      "quotes": [
+        {
+          "text": "Luffy, we're coming for you!",
+          "speaker": "Buggy",
+          "context": "Buggy vows revenge as they depart"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [46],
+      "payoffInEpisodes": [48, 52, 53],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep047-event-009",
+      "episodeNumber": 47,
+      "timestamp": "20:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Straw Hats Approach Loguetown",
+      "description": "The Straw Hat crew sails toward Loguetown, the town where Gol D. Roger was born and executed. This marks the final stop before entering the Grand Line.",
+      "significance": "Sets up the Loguetown arc, one of the most important locations in One Piece lore as the place where the Pirate King's journey began and ended.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji"],
+      "locationIds": ["loguetown"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [45],
+      "payoffInEpisodes": [48, 49, 50, 51, 52, 53],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": ["kumate-island"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [48, 49, 50, 51, 52, 53],
+    "payoffFrom": [8, 9, 46],
+    "thematicLinks": [8, 9, 46]
+  },
+  "quotes": [
+    {
+      "text": "Did you really think I'd die that easily?!",
+      "speaker": "Buggy",
+      "context": "Buggy's triumphant return to save his crew",
+      "timestamp": "11:45"
+    },
+    {
+      "text": "Luffy, we're coming for you!",
+      "speaker": "Buggy",
+      "context": "Buggy vows revenge as the alliance sets sail",
+      "timestamp": "18:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Loyalty and Leadership",
+      "description": "The episode explores the bond between Buggy and his crew, showing how even a cruel captain can inspire loyalty. The crew's willingness to mourn him and Buggy's effort to rescue them demonstrates their mutual dependence.",
+      "symbolism": "Richie becoming captain while sleepwalking symbolizes how leadership cannot be taken by force alone - it requires the respect and acceptance of those being led.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Comedy and Absurdity",
+      "description": "The episode heavily leans into comedic moments, from the funeral scene to Richie's accidental captaincy, maintaining One Piece's signature blend of humor even in filler content.",
+      "symbolism": "",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Pursuit and Revenge",
+      "description": "Both Buggy and Alvida are driven by their desire for revenge against Luffy, forming an alliance based on their shared enemy.",
+      "symbolism": "",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Comedic", "Adventurous", "Light-hearted"],
+  "characterSpotlights": [
+    {
+      "characterId": "buggy",
+      "role": "Protagonist of the episode",
+      "development": "Buggy demonstrates his resourcefulness and importance as a leader by rescuing his crew from the Kumate Tribe. His reunion with his crew shows a rare moment of genuine emotion from the usually comedic villain.",
+      "keyActions": [
+        "Locates his crew on Kumate Island",
+        "Partners with Alvida to rescue his crew",
+        "Defeats the Kumate Tribe",
+        "Reunites with his crew",
+        "Sets sail to pursue Luffy"
+      ],
+      "quotes": ["Did you really think I'd die that easily?!", "Luffy, we're coming for you!"]
+    },
+    {
+      "characterId": "alvida",
+      "role": "Supporting character and ally",
+      "development": "Alvida continues to show her new slimmer form and demonstrates her partnership with Buggy, establishing their alliance as a credible threat.",
+      "keyActions": [
+        "Aids Buggy in rescuing his crew",
+        "Fights alongside the Buggy Pirates against the Kumate Tribe",
+        "Continues pursuit of Luffy"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "richie",
+      "role": "Comedic focus",
+      "development": "Richie's accidental promotion to captain while sleepwalking provides the episode's main comedic subplot.",
+      "keyActions": [
+        "Defeats Mohji and Cabaji while sleepwalking",
+        "Becomes temporary captain of the Buggy Pirates"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "This episode adapts the Buggy's Crew Adventure Chronicles cover story from the manga. Cover stories are typically not shown in the anime, making this one of the rare exceptions.",
+      "episodeTimestamp": "00:00",
+      "mangaReference": "Chapters 35-75 (cover pages)",
+      "type": "COVER_STORY_ADAPTATION"
+    },
+    {
+      "difference": "The anime expands the cover story into a full episode with dialogue and extended scenes, whereas the manga only showed still images on chapter covers.",
+      "episodeTimestamp": "00:00",
+      "mangaReference": "Chapters 35-75 (cover pages)",
+      "type": "ANIME_EXPANSION"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This is the last episode to feature 'We Are!' by Hiroshi Kitadani as the opening theme. The song became iconic and was used for the first 47 episodes of the series.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_47",
+          "title": "Episode 47 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Buggy's Crew Adventure Chronicles is one of the few cover stories from the manga to be adapted into the anime. Most cover stories are skipped in the anime adaptation.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Buggy%27s_Crew_Adventure_Chronicles",
+          "title": "Buggy's Crew Adventure Chronicles - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode was skipped in the HD remastered edition of One Piece, likely due to its status as a cover story adaptation.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_47",
+          "title": "Episode 47 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "According to the One Piece Wiki, this episode contains the first middle-finger gesture shown in the One Piece anime.",
+      "category": "ANIMATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_47",
+          "title": "Episode 47 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Kumate Island's tribal symbol represents a bear paw in Japanese, but also resembles three people in a cooking pot, a visual pun on the tribe's cannibalistic nature.",
+      "category": "WORLD_BUILDING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Kumate_Tribe",
+          "title": "Kumate Tribe - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
