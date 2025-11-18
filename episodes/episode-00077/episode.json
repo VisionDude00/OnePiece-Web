@@ -1,0 +1,525 @@
+{
+  "episodeNumber": 77,
+  "episodeTitle": "Farewell to the Giants' Island! On to Arabasta",
+  "episodeTitleJapanese": "さらば巨人の島！アラバスタを目指せ",
+  "episodeTitleRomanized": "Saraba kyojin no shima! Arabasuta o mezase!",
+  "description": "The Straw Hats prepare to leave Little Garden as Sanji cleverly deceives Crocodile by impersonating Mr. 3, securing an Eternal Pose to Arabasta. The giants Dorry and Brogy, reunited in friendship, help the crew escape by defeating the fearsome Island Eater with their combined Hakoku technique.",
+  "airDate": "2001-08-19",
+  "airDateJapan": "2001-08-19",
+  "airDateUS": "2005-08-20",
+  "airDateFunimation": "2009-08-25",
+  "arcName": "Little Garden Arc",
+  "sagaName": "Arabasta Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Believe",
+    "artist": "Folder5",
+    "episodeRange": [48, 115]
+  },
+  "endingSong": {
+    "title": "Shōchi no suke",
+    "artist": "Suitei Shoujo",
+    "episodeRange": [74, 81]
+  },
+  "credits": {
+    "animationDirector": "Yuji Endo",
+    "screenplay": "Junki Takegami",
+    "artDirection": "Fumihiro Uchikawa",
+    "animation": "Kazuya Hisada",
+    "keyAnimators": ["Kazuya Hisada"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Misa Watanabe"
+      },
+      {
+        "character": "Crocodile",
+        "actor": "Ryuzaburo Otomo"
+      },
+      {
+        "character": "Nico Robin (Miss All-Sunday)",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Dorry",
+        "actor": "Tetsu Inada"
+      },
+      {
+        "character": "Brogy",
+        "actor": "Takeshi Kusao"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Caitlin Glass"
+      },
+      {
+        "character": "Crocodile",
+        "actor": "John Swasey"
+      },
+      {
+        "character": "Nico Robin (Miss All-Sunday)",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Dorry",
+        "actor": "Bob Carter"
+      },
+      {
+        "character": "Brogy",
+        "actor": "Jonathan Brooks"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep077-event-001",
+      "episodeNumber": 77,
+      "timestamp": "03:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "The Unluckies Arrive",
+      "description": "Mr. 13 (an otter) and Miss Friday (a vulture), known as the Unluckies, arrive at Little Garden carrying a package from Mr. 0 containing an Eternal Pose to Arabasta.",
+      "significance": "First appearance of Baroque Works' messenger duo who execute failed agents and deliver critical messages from the organization's leader.",
+      "characterIds": ["mr-13", "miss-friday", "sanji"],
+      "locationIds": ["little-garden"],
+      "crewIds": ["baroque-works"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep077-event-002",
+      "episodeNumber": 77,
+      "timestamp": "05:20",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Sanji Impersonates Mr. 3",
+      "description": "When Sanji receives a call from Mr. 0 (Crocodile), he realizes he's speaking to the leader of Baroque Works and quickly decides to impersonate Mr. 3, falsely reporting that Vivi and the Straw Hats have been eliminated.",
+      "significance": "This clever deception by Sanji allows the crew to obtain the Eternal Pose to Arabasta while keeping their survival secret from Baroque Works, demonstrating Sanji's quick thinking and strategic value to the crew.",
+      "characterIds": ["sanji", "crocodile"],
+      "locationIds": ["little-garden"],
+      "crewIds": ["baroque-works", "straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "This is Mr. 3. The mission has been completed. Princess Vivi and the Straw Hat Pirates have all been eliminated.",
+          "speaker": "Sanji",
+          "context": "Sanji deceiving Crocodile by pretending to be Mr. 3"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [70, 71, 72, 73, 74, 75, 76],
+      "payoffInEpisodes": [110, 123],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep077-event-003",
+      "episodeNumber": 77,
+      "timestamp": "07:10",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "Sanji Defeats the Unluckies",
+      "description": "During the phone call with Crocodile, the Unluckies attack Sanji to verify he is truly Mr. 3. Sanji swiftly defeats both Mr. 13 and Miss Friday, explaining the sounds to Crocodile as dealing with a surviving Straw Hat member.",
+      "significance": "Demonstrates Sanji's combat prowess and quick thinking, securing the Eternal Pose to Arabasta while maintaining his cover as Mr. 3.",
+      "characterIds": ["sanji", "mr-13", "miss-friday"],
+      "locationIds": ["little-garden"],
+      "quotes": [
+        {
+          "text": "One of the Straw Hats was still alive, but I've taken care of it.",
+          "speaker": "Sanji",
+          "context": "Sanji explaining the sounds of his fight to Crocodile"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep077-event-004",
+      "episodeNumber": 77,
+      "timestamp": "08:30",
+      "eventType": "TREASURE_DISCOVERY",
+      "severity": "MAJOR",
+      "title": "Eternal Pose to Arabasta Obtained",
+      "description": "After defeating the Unluckies, Sanji retrieves the Eternal Pose to Arabasta from their package, giving the Straw Hats a direct route to their destination.",
+      "significance": "This Eternal Pose allows the crew to bypass the normal Log Pose waiting time and sail directly to Arabasta, advancing the plot toward the Arabasta Arc confrontation.",
+      "characterIds": ["sanji"],
+      "locationIds": ["little-garden"],
+      "objectIds": ["eternal-pose-arabasta"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [92, 93, 94],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep077-event-005",
+      "episodeNumber": 77,
+      "timestamp": "10:15",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MINOR",
+      "title": "Crocodile Orders Mr. 2 to Eliminate Mr. 3",
+      "description": "After the suspicious phone call, Crocodile instructs Miss All-Sunday (Nico Robin) to order Mr. 2 Bon Clay to intercept and eliminate the real Mr. 3 en route to Arabasta.",
+      "significance": "First mention of Mr. 2 Bon Clay, foreshadowing his important role in the upcoming Arabasta Arc and showing Crocodile's ruthless management of Baroque Works.",
+      "characterIds": ["crocodile", "nico-robin"],
+      "locationIds": ["rain-dinners"],
+      "crewIds": ["baroque-works"],
+      "quotes": [
+        {
+          "text": "Miss All-Sunday, contact Mr. 2. Have him eliminate Mr. 3 before he reaches Arabasta.",
+          "speaker": "Crocodile",
+          "context": "Crocodile becoming suspicious of the false report"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [92, 93],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep077-event-006",
+      "episodeNumber": 77,
+      "timestamp": "12:45",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MINOR",
+      "title": "Dorry Survives Brogy's Axe",
+      "description": "Dorry awakens, revealing he survived Brogy's axe blow because both giants' weapons had become too dull and worn after 100 years of continuous fighting, rendering them non-lethal.",
+      "significance": "Resolves the cliffhanger from previous episodes and demonstrates the depth of the giants' century-long duel, while also confirming their friendship remains intact.",
+      "characterIds": ["dorry", "brogy"],
+      "locationIds": ["little-garden"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [76],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [71, 73, 76]
+    },
+    {
+      "id": "ep077-event-007",
+      "episodeNumber": 77,
+      "timestamp": "15:30",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MINOR",
+      "title": "Straw Hats Leave Little Garden",
+      "description": "The Straw Hat Pirates, accompanied by Vivi and Karoo, depart from Little Garden on the Going Merry, setting course for Arabasta using the newly acquired Eternal Pose.",
+      "significance": "Marks the conclusion of the Little Garden Arc and the crew's departure toward the Arabasta Arc, one of the series' most significant story arcs.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "vivi", "karoo"],
+      "locationIds": ["little-garden"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [92],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep077-event-008",
+      "episodeNumber": 77,
+      "timestamp": "17:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Island Eater Appears",
+      "description": "The Island Eater, a massive goldfish larger than islands, emerges from the ocean and swallows the Going Merry whole as the Straw Hats attempt to leave Little Garden.",
+      "significance": "First appearance of the legendary Island Eater that proves one of Usopp's tall tales to Kaya was actually true, creating immediate danger for the departing crew.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "vivi"],
+      "locationIds": ["little-garden"],
+      "quotes": [
+        {
+          "text": "A giant goldfish! Just like the one I told Kaya about!",
+          "speaker": "Usopp",
+          "context": "Usopp recognizing that his lie became reality"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [9],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [9]
+    },
+    {
+      "id": "ep077-event-009",
+      "episodeNumber": 77,
+      "timestamp": "18:20",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Hakoku Technique Unleashed",
+      "description": "Dorry and Brogy combine their power to use Hakoku (Warrior Nation), a devastating attack where they create two compressed air beams (one blue, one red) that slice through anything in their path, destroying the Island Eater and freeing the Going Merry.",
+      "significance": "First appearance of the legendary Elbaf technique Hakoku, showcasing the true power of giant warriors and their combined strength. This technique becomes important throughout the series as a representation of Elbaf's warrior culture.",
+      "characterIds": ["dorry", "brogy"],
+      "locationIds": ["little-garden"],
+      "abilityIds": ["hakoku"],
+      "quotes": [
+        {
+          "text": "Hakoku!",
+          "speaker": "Dorry and Brogy",
+          "context": "The giants unleashing their combined ultimate attack"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep077-event-010",
+      "episodeNumber": 77,
+      "timestamp": "19:30",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "Island Eater Defeated",
+      "description": "The Island Eater is killed by Dorry and Brogy's Hakoku attack, which slices the massive goldfish in half and frees the Going Merry from its mouth.",
+      "significance": "The giants save the Straw Hats and bid them farewell with this final act of friendship, clearing the path to Arabasta. Also validates Usopp's claim about giant goldfish.",
+      "characterIds": ["dorry", "brogy", "luffy", "zoro", "nami", "usopp", "sanji", "vivi"],
+      "locationIds": ["little-garden"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep077-event-011",
+      "episodeNumber": 77,
+      "timestamp": "20:45",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MINOR",
+      "title": "Giants' Weapons Shatter",
+      "description": "After using Hakoku, both Dorry's sword and Brogy's axe completely shatter from the strain, having been worn down by a century of continuous battle.",
+      "significance": "Demonstrates the immense power required for the Hakoku technique and symbolizes the end of the giants' century-long duel, as they can no longer continue fighting.",
+      "characterIds": ["dorry", "brogy"],
+      "locationIds": ["little-garden"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [71, 73],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep077-event-012",
+      "episodeNumber": 77,
+      "timestamp": "21:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Farewell to the Giants",
+      "description": "The Straw Hats bid an emotional farewell to Dorry and Brogy, who stand proudly on Little Garden's shore as the crew sails toward Arabasta, their friendship with the giants solidified.",
+      "significance": "Concludes the Little Garden Arc on an emotional note, establishing the giants as allies and friends who may return later in the story. The bonds formed here represent the series' themes of friendship across differences.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "vivi", "dorry", "brogy"],
+      "locationIds": ["little-garden"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [70, 71, 72, 73, 74, 75, 76],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["mr-13", "miss-friday"],
+    "locations": ["island-eater"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["hakoku"],
+    "objects": ["eternal-pose-arabasta"]
+  },
+  "episodeRelationships": {
+    "setupFor": [78, 92, 93, 110],
+    "payoffFrom": [70, 71, 72, 73, 74, 75, 76],
+    "thematicLinks": [9, 71, 227]
+  },
+  "quotes": [
+    {
+      "text": "This is Mr. 3. The mission has been completed. Princess Vivi and the Straw Hat Pirates have all been eliminated.",
+      "speaker": "Sanji",
+      "context": "Sanji's clever deception of Crocodile",
+      "timestamp": "05:20"
+    },
+    {
+      "text": "Hakoku!",
+      "speaker": "Dorry and Brogy",
+      "context": "The giants unleashing their ultimate combined attack",
+      "timestamp": "18:20"
+    },
+    {
+      "text": "A giant goldfish! Just like the one I told Kaya about!",
+      "speaker": "Usopp",
+      "context": "Usopp's lie becoming reality",
+      "timestamp": "17:00"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Friendship and Honor",
+      "description": "The episode showcases the deep bond between Dorry and Brogy, whose friendship survived a century-long duel, and their willingness to help the Straw Hats despite their broken weapons.",
+      "symbolism": "The shattering of the giants' weapons symbolizes the end of their duel and the strength of their renewed friendship.",
+      "culturalReferences": ["Viking honor codes", "Elbaf warrior culture"]
+    },
+    {
+      "theme": "Quick Thinking and Deception",
+      "description": "Sanji's clever impersonation of Mr. 3 demonstrates how intelligence and quick thinking can be as valuable as physical strength in overcoming obstacles.",
+      "symbolism": "The successful deception represents the crew's growth in strategic thinking.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Tales Becoming Reality",
+      "description": "Usopp's lie about a giant goldfish becomes reality when the Island Eater appears, continuing the running theme of his fabrications coming true.",
+      "symbolism": "Represents the theme that in the One Piece world, even the most outlandish stories can have truth to them.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Adventurous", "Strategic", "Emotional", "Triumphant"],
+  "characterSpotlights": [
+    {
+      "characterId": "sanji",
+      "role": "Strategic protagonist",
+      "development": "Sanji demonstrates his value beyond combat skills by cleverly deceiving Crocodile and securing the Eternal Pose to Arabasta, showcasing his intelligence and quick thinking under pressure.",
+      "keyActions": [
+        "Realizes he's speaking to Mr. 0 (Crocodile)",
+        "Impersonates Mr. 3 convincingly",
+        "Defeats the Unluckies during the call",
+        "Secures the Eternal Pose to Arabasta"
+      ],
+      "quotes": ["This is Mr. 3. The mission has been completed. Princess Vivi and the Straw Hat Pirates have all been eliminated."]
+    },
+    {
+      "characterId": "dorry",
+      "role": "Supporting ally",
+      "development": "Dorry's survival and his use of Hakoku with Brogy demonstrates the giants' incredible strength and their friendship, bringing closure to their century-long duel.",
+      "keyActions": [
+        "Awakens after surviving Brogy's axe",
+        "Teams up with Brogy one final time",
+        "Uses Hakoku to defeat the Island Eater",
+        "Bids farewell to the Straw Hats"
+      ],
+      "quotes": ["Hakoku!"]
+    },
+    {
+      "characterId": "brogy",
+      "role": "Supporting ally",
+      "development": "Brogy's relief at Dorry's survival and their combined effort to save the Straw Hats shows the depth of their bond despite their century of combat.",
+      "keyActions": [
+        "Reunites with Dorry",
+        "Teams up with Dorry one final time",
+        "Uses Hakoku to defeat the Island Eater",
+        "Bids farewell to the Straw Hats"
+      ],
+      "quotes": ["Hakoku!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended the scene of the Unluckies arriving and Sanji's fight with them compared to the manga.",
+      "episodeTimestamp": "03:45-07:10",
+      "mangaReference": "Chapter 127",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "The Island Eater sequence was more dramatic and extended in the anime with additional reaction shots from the crew.",
+      "episodeTimestamp": "17:00-19:30",
+      "mangaReference": "Chapter 129",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This is the final episode of the Little Garden Arc, which lasted 8 episodes (Episodes 70-77).",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_77",
+          "title": "Episode 77 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "4Kids Entertainment combined Japanese episodes 67 and 77 to create their episode 47, heavily editing the content.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_77",
+          "title": "Episode 77 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The Island Eater validates one of Usopp's tall tales from Episode 9, where he told Kaya about a giant goldfish in the Southern seas.",
+      "category": "CALLBACK",
+      "sources": []
+    },
+    {
+      "fact": "Animation error: Nami is shown without her typical skirt belt in several scenes in this episode.",
+      "category": "ANIMATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_77",
+          "title": "Episode 77 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The Hakoku technique used by the giants has been interpreted by some fans as an early form or foreshadowing of what would later be revealed as Haki and Armament Haki mechanics.",
+      "category": "THEORY",
+      "sources": []
+    },
+    {
+      "fact": "This episode covers manga chapters 127-129.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_77",
+          "title": "Episode 77 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

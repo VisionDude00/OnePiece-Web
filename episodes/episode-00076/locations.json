@@ -1,0 +1,109 @@
+[
+  {
+    "name": {
+      "english": "Candle House",
+      "japanese": "キャンドルハウス",
+      "romanized": "Kyandoru Hausu"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "PARADISE",
+    "islandName": "Little Garden",
+    "debutEpisode": 76,
+    "debutChapter": 126,
+    "description": "A large house made entirely of wax created by Mr. 3 using his Doru Doru no Mi powers. Serves as his hideout and base of operations on Little Garden island. Contains a Den Den Mushi for communication with Baroque Works.",
+    "episodeAppearances": [76],
+    "keyEvents": [
+      {
+        "episodeNumber": 76,
+        "eventId": "ep076-event-009",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Sanji Discovers the Candle House",
+        "description": "Sanji stumbles upon this mysterious wax structure while wandering Little Garden searching for his crewmates.",
+        "significance": "This discovery leads to Sanji's crucial encounter with Crocodile via Den Den Mushi.",
+        "timestamp": "20:45"
+      },
+      {
+        "episodeNumber": 76,
+        "eventId": "ep076-event-010",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Crocodile Calls the Candle House",
+        "description": "Crocodile calls the Candle House to check on Mr. 3's mission, inadvertently speaking with Sanji instead.",
+        "significance": "The location becomes the site of the first communication between a Straw Hat and the saga's main antagonist.",
+        "timestamp": "21:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 76,
+        "episodeEnd": 77,
+        "reason": "Mr. 3's hideout during the Little Garden arc"
+      }
+    ],
+    "parentLocation": "Little Garden",
+    "childLocations": [],
+    "relatedCharacters": ["mr-3", "sanji", "crocodile"],
+    "relatedCrews": ["baroque-works"],
+    "relatedArcs": ["Little Garden"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Little Garden",
+      "japanese": "リトルガーデン",
+      "romanized": "Ritoru Gāden"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "PARADISE",
+    "islandName": "Little Garden",
+    "debutEpisode": 70,
+    "debutChapter": 115,
+    "description": "A prehistoric island in Paradise inhabited by dinosaurs and two giant warriors. The island is stuck in the climate of the age of dinosaurs.",
+    "episodeAppearances": [76],
+    "keyEvents": [
+      {
+        "episodeNumber": 76,
+        "eventId": "ep076-event-001",
+        "eventType": "TECHNIQUE_DEBUT",
+        "title": "Usopp's Kaenboshi Debut",
+        "description": "Usopp uses his Fire Star technique for the first time on Little Garden to free Luffy from hypnosis.",
+        "significance": "The island becomes the site of an important technique debut.",
+        "timestamp": "04:30"
+      },
+      {
+        "episodeNumber": 76,
+        "eventId": "ep076-event-003",
+        "eventType": "BATTLE_START",
+        "title": "Crew Counterattack Against Baroque Works",
+        "description": "The Straw Hats launch their counterattack against Mr. 3, Mr. 5, Miss Valentine, and Miss Goldenweek on Little Garden.",
+        "significance": "Major battle concludes with the defeat of multiple Baroque Works officer agents.",
+        "timestamp": "08:45"
+      },
+      {
+        "episodeNumber": 76,
+        "eventId": "ep076-event-005",
+        "eventType": "BATTLE_END",
+        "title": "Wax Structure Destroyed",
+        "description": "Luffy uses Mr. 3's hair to ignite the rope, creating a ring of fire that destroys the giant wax structure and frees the trapped crew members.",
+        "significance": "Climactic moment that saves the crew from being turned into wax statues.",
+        "timestamp": "15:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 70,
+        "episodeEnd": "present",
+        "reason": "Prehistoric island continues to exist with its dinosaur inhabitants"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["candle-house"],
+    "relatedCharacters": ["luffy", "zoro", "nami", "usopp", "sanji", "vivi", "mr-3", "miss-goldenweek", "mr-5", "miss-valentine", "dorry", "brogy"],
+    "relatedCrews": ["straw-hat-pirates", "baroque-works"],
+    "relatedArcs": ["Little Garden"],
+    "images": []
+  }
+]

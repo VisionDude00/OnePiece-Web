@@ -1,0 +1,522 @@
+{
+  "episodeNumber": 80,
+  "episodeTitle": "An Island without Doctors? Adventure in a Nameless Land!",
+  "description": "After being shot by a villager, Vivi counsels Luffy that violence isn't always the answer. The crew gains the trust of the islanders and learns about Drum Island's tragic past. With Nami burning up with fever, Luffy and Sanji prepare to climb the treacherous Drum Rockies to reach the island's only doctor.",
+  "airDate": "2001-09-09",
+  "airDateJapan": "2001-09-09",
+  "airDateUS": "2005-08-27",
+  "arcName": "Drum Island Arc",
+  "sagaName": "Arabasta Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Believe",
+    "artist": "Folder5",
+    "episodeRange": [48, 115]
+  },
+  "endingSong": {
+    "title": "Shōchi no suke",
+    "artist": "Suitei Shojo",
+    "episodeRange": [73, 81]
+  },
+  "credits": {
+    "animationDirector": "Munehisa Sakai",
+    "keyAnimators": ["Yuji Hakamada"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Misa Watanabe"
+      },
+      {
+        "character": "Dalton",
+        "actor": "Eiji Takemoto"
+      },
+      {
+        "character": "Negikuma Maria",
+        "actor": "Noriko Yoshitake"
+      },
+      {
+        "character": "Dr. Kureha",
+        "actor": "Masako Nozawa"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Caitlin Glass"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep080-event-001",
+      "episodeNumber": 80,
+      "timestamp": "03:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Vivi Shot by Villager",
+      "description": "A frightened villager shoots Vivi with a rifle. Though injured, Vivi immediately stops Luffy from retaliating, teaching him that not all problems can be solved with violence. This moment showcases Vivi's diplomatic nature and restraint.",
+      "significance": "Demonstrates Vivi's role as a voice of reason and her influence on Luffy's growth as a captain. Establishes the villagers' fear and distrust of pirates.",
+      "characterIds": ["vivi", "luffy"],
+      "locationIds": ["drum-island"],
+      "quotes": [
+        {
+          "text": "Not everything needs to be resolved with fighting!",
+          "speaker": "Vivi",
+          "context": "Vivi stops Luffy from attacking the villager who shot her"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [79],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep080-event-002",
+      "episodeNumber": 80,
+      "timestamp": "05:45",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Introduction to Bighorn Village",
+      "description": "Dalton escorts the Straw Hat Pirates to Bighorn, the main village of Drum Island. The crew is welcomed into the settlement, marking their first peaceful interaction with the island's inhabitants.",
+      "significance": "Establishes Bighorn as a central location in the Drum Island arc and shows the crew gaining the villagers' trust.",
+      "characterIds": ["luffy", "vivi", "nami", "sanji", "usopp", "dalton"],
+      "locationIds": ["bighorn"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [79],
+      "payoffInEpisodes": [81, 82, 83],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep080-event-003",
+      "episodeNumber": 80,
+      "timestamp": "08:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Negikuma Maria's Debut",
+      "description": "Negikuma Maria appears in Bighorn village carrying a bag of onions for baking a cake for her eldest son's birthday. She inquires about the situation with the pirates and provides friendly interaction with the crew.",
+      "significance": "Introduces a recurring character from Drum Island and shows the daily life of Bighorn's residents.",
+      "characterIds": ["negikuma-maria", "dalton"],
+      "locationIds": ["bighorn"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep080-event-004",
+      "episodeNumber": 80,
+      "timestamp": "10:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Revelation of Drum Island's Tragic History",
+      "description": "Dalton reveals to Vivi and Usopp that Drum Island was once a prosperous medical nation with many skilled doctors. However, the tyrannical King Wapol hoarded all the doctors for himself, leaving the common people without medical care.",
+      "significance": "Provides crucial backstory for understanding Drum Island's current state and sets up Wapol as an antagonist. Explains why the island now has only one doctor.",
+      "characterIds": ["dalton", "vivi", "usopp"],
+      "locationIds": ["bighorn"],
+      "crewIds": [],
+      "quotes": [
+        {
+          "text": "This island used to have plenty of doctors... but that all changed.",
+          "speaker": "Dalton",
+          "context": "Dalton begins explaining Drum Island's history to the Straw Hats"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [85, 86, 87],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep080-event-005",
+      "episodeNumber": 80,
+      "timestamp": "12:45",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "First Mention of Blackbeard",
+      "description": "Dalton reveals that five months ago, the island was attacked by a crew of only five pirates led by a captain who called himself 'Blackbeard.' King Wapol, terrified by their power, fled the island with his army and all the doctors, abandoning his people.",
+      "significance": "This is the first mention of Marshall D. Teach (Blackbeard) in the One Piece anime, introducing one of the series' most important antagonists. The event foreshadows Blackbeard's significant role in the story and establishes his fearsome reputation.",
+      "characterIds": ["dalton", "vivi", "usopp"],
+      "locationIds": ["bighorn", "drum-island"],
+      "crewIds": ["blackbeard-pirates"],
+      "quotes": [
+        {
+          "text": "The captain of the crew called himself 'Blackbeard.'",
+          "speaker": "Dalton",
+          "context": "Dalton reveals the name of the pirate who attacked Drum Island"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [144, 145, 146, 151, 325],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep080-event-006",
+      "episodeNumber": 80,
+      "timestamp": "14:50",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Wapol's Cowardice Exposed",
+      "description": "The full extent of Wapol's tyranny and cowardice is revealed. Instead of defending his kingdom against the Blackbeard Pirates, Wapol fled with his entire military force and all the nation's doctors, leaving his people defenseless and without medical care.",
+      "significance": "Establishes Wapol as a villainous ruler and explains the current dire state of Drum Island. Creates sympathy for the island's residents and motivation for their eventual liberation.",
+      "characterIds": ["dalton", "vivi", "usopp"],
+      "locationIds": ["bighorn", "drum-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [79],
+      "payoffInEpisodes": [85, 86, 87, 90, 91],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep080-event-007",
+      "episodeNumber": 80,
+      "timestamp": "16:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Introduction to Dr. Kureha and Drum Castle",
+      "description": "Dalton explains that atop the tallest of the Drum Rockies sits Drum Castle, the former royal palace now abandoned by Wapol. The island's only remaining doctor, the witch Dr. Kureha, now lives there. Vivi learns that Nami's fever has reached 42°C (107.6°F), a life-threatening temperature.",
+      "significance": "Sets up the main objective for this arc - reaching Dr. Kureha to save Nami's life. Introduces Dr. Kureha as a mysterious and important character. The mention of the Drum Rockies establishes the dangerous journey ahead.",
+      "characterIds": ["dalton", "vivi", "nami"],
+      "locationIds": ["drum-castle", "drum-rockies", "bighorn"],
+      "quotes": [
+        {
+          "text": "On top of the tallest mountain is the Drum Castle, where Kureha lives.",
+          "speaker": "Dalton",
+          "context": "Dalton explains where to find the island's only doctor"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [79],
+      "payoffInEpisodes": [81, 82, 83, 84],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep080-event-008",
+      "episodeNumber": 80,
+      "timestamp": "18:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Luffy Decides to Climb the Mountain",
+      "description": "Luffy makes the bold decision to climb the treacherous Drum Rockies while carrying the unconscious Nami on his back. Despite warnings about the danger and the presence of violent Lapahns on the mountain, Luffy is determined to save his crewmate. Sanji volunteers to accompany him.",
+      "significance": "Demonstrates Luffy's unwavering commitment to his crew and his willingness to face any challenge to protect them. This decision sets the stage for one of the most iconic moments in the Drum Island arc - Luffy's barefoot climb up the mountain.",
+      "characterIds": ["luffy", "sanji", "nami", "dalton"],
+      "locationIds": ["bighorn", "drum-rockies"],
+      "quotes": [
+        {
+          "text": "I'm going to climb the mountain while carrying her.",
+          "speaker": "Luffy",
+          "context": "Luffy's determination to save Nami despite the dangers"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [79],
+      "payoffInEpisodes": [81, 82, 83],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep080-event-009",
+      "episodeNumber": 80,
+      "timestamp": "20:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Dalton's Warning About the Lapahns",
+      "description": "Dalton warns Luffy and Sanji to climb the mountain by the 'other' side to avoid the Lapahns - aggressive carnivorous rabbits that inhabit the main route up the Drum Rockies. He emphasizes the danger these creatures pose.",
+      "significance": "Foreshadows the encounter with the Lapahns and adds tension to the upcoming journey. Shows Dalton's concern for the crew's safety.",
+      "characterIds": ["dalton", "luffy", "sanji"],
+      "locationIds": ["bighorn", "drum-rockies"],
+      "quotes": [
+        {
+          "text": "Climb the mountain by the other side, because there are Lapahns in the main course.",
+          "speaker": "Dalton",
+          "context": "Warning about the dangerous creatures on the mountain"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [81],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep080-event-010",
+      "episodeNumber": 80,
+      "timestamp": "21:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Dr. Kureha's Silhouette",
+      "description": "At the end of the episode, Dr. Kureha is shown in silhouette at Drum Castle, representing the mysterious doctor who will save Nami. Her full appearance and personality will be revealed in the next episode.",
+      "significance": "Builds anticipation for one of the arc's most important characters. Dr. Kureha will become Chopper's mentor and a beloved character in the series.",
+      "characterIds": ["kureha"],
+      "locationIds": ["drum-castle"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [81, 82, 83, 84, 85],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["negikuma-maria", "kureha"],
+    "locations": ["bighorn", "drum-castle", "drum-rockies"],
+    "devilFruits": [],
+    "crews": ["blackbeard-pirates"],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [81, 82, 83, 84, 85],
+    "payoffFrom": [79],
+    "thematicLinks": [91, 144, 145]
+  },
+  "quotes": [
+    {
+      "text": "Not everything needs to be resolved with fighting!",
+      "speaker": "Vivi",
+      "context": "Teaching Luffy about diplomacy and restraint",
+      "timestamp": "03:15"
+    },
+    {
+      "text": "The captain of the crew called himself 'Blackbeard.'",
+      "speaker": "Dalton",
+      "context": "First mention of Blackbeard in the anime",
+      "timestamp": "12:45"
+    },
+    {
+      "text": "On top of the tallest mountain is the Drum Castle, where Kureha lives.",
+      "speaker": "Dalton",
+      "context": "Explaining where to find the island's only doctor",
+      "timestamp": "16:30"
+    },
+    {
+      "text": "I'm going to climb the mountain while carrying her.",
+      "speaker": "Luffy",
+      "context": "Luffy's determination to save Nami",
+      "timestamp": "18:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Sacrifice and Loyalty",
+      "description": "The episode emphasizes the crew's loyalty to each other, particularly Luffy's willingness to face extreme danger to save Nami. His decision to climb a treacherous mountain in freezing conditions while carrying an unconscious crewmate showcases his dedication.",
+      "symbolism": "The mountain climb represents the lengths Luffy will go to protect his nakama (crewmates).",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Diplomacy vs. Violence",
+      "description": "Vivi teaches Luffy an important lesson about leadership - that not every conflict requires a violent response. Her restraint after being shot demonstrates maturity and wisdom.",
+      "symbolism": "Vivi's wound and forgiveness symbolize the path of peace over vengeance.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Tyranny and Abandonment",
+      "description": "Wapol's backstory reveals a leader who hoarded resources and abandoned his people in their time of need. This contrasts sharply with Luffy's leadership style.",
+      "symbolism": "The empty Drum Castle represents the hollow nature of Wapol's kingship.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Foreshadowing and Destiny",
+      "description": "The first mention of Blackbeard plants seeds for major future storylines. His mysterious presence looms over the narrative.",
+      "symbolism": "Blackbeard's shadowy silhouette represents the unknown threats that await the Straw Hats.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Dramatic", "Mysterious", "Determined"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist",
+      "development": "Luffy learns an important lesson from Vivi about restraint, but also demonstrates his core character trait - unwavering loyalty to his crew. His decision to climb the mountain showcases his growth as a captain who will do anything to protect his nakama.",
+      "keyActions": [
+        "Nearly attacks the villager who shot Vivi but restrains himself at her request",
+        "Learns about Blackbeard's attack on the island",
+        "Makes the bold decision to carry Nami up the Drum Rockies",
+        "Prepares for the dangerous mountain climb with Sanji"
+      ],
+      "quotes": [
+        "I'm going to climb the mountain while carrying her."
+      ]
+    },
+    {
+      "characterId": "vivi",
+      "role": "Supporting character and voice of reason",
+      "development": "Vivi demonstrates her diplomatic skills and moral compass. Despite being shot, she prioritizes peace and understanding over retaliation, teaching Luffy a valuable lesson about leadership.",
+      "keyActions": [
+        "Gets shot by a frightened villager",
+        "Stops Luffy from retaliating violently",
+        "Learns about Drum Island's tragic history from Dalton",
+        "Shows concern for Nami's worsening condition"
+      ],
+      "quotes": [
+        "Not everything needs to be resolved with fighting!"
+      ]
+    },
+    {
+      "characterId": "dalton",
+      "role": "Guide and informant",
+      "development": "Dalton reveals more of his character as a protective leader who cares for his people. He provides crucial information about the island's history and guides the crew toward help.",
+      "keyActions": [
+        "Escorts the crew to Bighorn village",
+        "Reveals Drum Island's history of medical excellence",
+        "Explains Wapol's tyranny and cowardice",
+        "Discloses the Blackbeard Pirates' attack",
+        "Directs Luffy and Sanji to Dr. Kureha at Drum Castle",
+        "Warns about the dangerous Lapahns"
+      ],
+      "quotes": [
+        "The captain of the crew called himself 'Blackbeard.'",
+        "On top of the tallest mountain is the Drum Castle, where Kureha lives."
+      ]
+    },
+    {
+      "characterId": "nami",
+      "role": "Damsel in distress (unconscious)",
+      "development": "Nami's condition worsens significantly, with her fever reaching a life-threatening 42°C. Her illness drives the episode's main conflict and motivates Luffy's actions.",
+      "keyActions": [
+        "Remains unconscious with a dangerously high fever"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended some dialogue scenes between Dalton and the crew members, particularly Vivi and Usopp's conversation about the island's history.",
+      "episodeTimestamp": "10:30",
+      "mangaReference": "Chapter 133",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "Additional establishing shots of Bighorn village were added to give more visual context to the location.",
+      "episodeTimestamp": "05:45",
+      "mangaReference": "Chapter 133",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the first mention of Marshall D. Teach (Blackbeard) in the One Piece anime, though he was mentioned earlier in the manga. Blackbeard will become one of the series' primary antagonists.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_80",
+          "title": "Episode 80 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Dr. Kureha is voiced by the legendary Masako Nozawa in Japanese, who is most famous for voicing Goku in Dragon Ball. At the time of this episode's airing, she was 65 years old.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://www.behindthevoiceactors.com/tv-shows/One-Piece/Dr-Kureha/",
+          "title": "Dr. Kureha Voice - One Piece",
+          "platform": "Behind The Voice Actors",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode's title in Japanese uses the phrase 'Na mo naki kuni' (名も無き国), which translates to 'nameless country' or 'country without a name,' reflecting how Drum Island had lost its identity after Wapol's abandonment.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_80",
+          "title": "Episode 80 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 80 corresponds to manga chapters 132-134, covering significant ground in a single episode to maintain pacing during the Drum Island arc.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_80",
+          "title": "Episode 80 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "When 4Kids dubbed this arc, they split episode 80 into two episodes (48 and 49) due to their different episode numbering system and editing choices.",
+      "category": "LOCALIZATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_80",
+          "title": "Episode 80 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode aired during One Piece's third season, which is also known as 'Season 3: Piece 1' in some international releases.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_80",
+          "title": "Episode 80 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The silhouette of Blackbeard shown in this episode deliberately does not match his actual appearance revealed later, creating an intentional visual misdirection by the animators.",
+      "category": "ANIMATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Blackbeard_Pirates",
+          "title": "Blackbeard Pirates - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
