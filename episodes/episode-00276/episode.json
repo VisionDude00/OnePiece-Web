@@ -1,0 +1,514 @@
+{
+  "episodeNumber": 276,
+  "episodeTitle": "Fated Mother and Daughter! The Mother's Name is Olvia!",
+  "description": "Robin reveals to Saul that her mother is Nico Olvia, shocking the former Vice Admiral. Meanwhile, Olvia returns to Ohara to warn the scholars of the World Government's impending attack, but chooses not to reveal herself to Robin to protect her daughter. CP9 arrives and captures Olvia and the scholars.",
+  "airDate": "2006-09-10",
+  "airDateJapan": "2006-09-10",
+  "airDateUS": "2013-08-10",
+  "arcName": "Enies Lobby",
+  "sagaName": "Water 7",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Brand New World",
+    "artist": "D-51",
+    "episodeRange": [264, 278]
+  },
+  "endingSong": {
+    "title": "Adventure World",
+    "artist": "Delicatessen",
+    "episodeRange": [264, 278]
+  },
+  "credits": {
+    "animationDirector": "Masayuki Takagi",
+    "storyboardDirector": "Eisaku Inoue",
+    "episodeDirector": "Toru Yamada",
+    "screenplayWriter": "Hirohiko Kamisaka",
+    "artDirectors": ["Miho Shiraishi", "Michiyo Kawasaki"],
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Nico Olvia",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Jaguar D. Saul",
+        "actor": "Takeshi Kusao"
+      },
+      {
+        "character": "Professor Clou D. Clover",
+        "actor": "Kōichi Kitamura"
+      },
+      {
+        "character": "Spandine",
+        "actor": "Masaya Onosaka"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Nico Olvia",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Jaguar D. Saul",
+        "actor": "Mark Stoddard"
+      },
+      {
+        "character": "Professor Clou D. Clover",
+        "actor": "Kent Williams"
+      },
+      {
+        "character": "Spandine",
+        "actor": "Christopher Corey Smith"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep276-event-001",
+      "episodeNumber": 276,
+      "timestamp": "03:15",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Robin Shares Her Dream with Saul",
+      "description": "Robin tells Saul about her dream of becoming an archaeologist and studying the Void Century and Poneglyphs, just like her mother. She expresses her hope of one day meeting her mother.",
+      "significance": "Establishes young Robin's motivation and her connection to the forbidden research that will define her life. This dream directly connects her to her mother's work and the scholars of Ohara.",
+      "characterIds": ["robin", "saul"],
+      "locationIds": ["ohara-shore"],
+      "quotes": [
+        {
+          "text": "I want to become an archaeologist and study the Void Century. My mother was studying the Poneglyphs.",
+          "speaker": "Nico Robin",
+          "context": "Robin sharing her dreams with Saul"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [275],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [275]
+    },
+    {
+      "id": "ep276-event-002",
+      "episodeNumber": 276,
+      "timestamp": "04:30",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Saul Learns Robin is Olvia's Daughter",
+      "description": "Saul is shocked to discover that the young girl he befriended is actually the daughter of Nico Olvia, the archaeologist he helped escape from Marine custody. He realizes he is on the island of Ohara.",
+      "significance": "This revelation connects Saul's desertion from the Marines directly to Robin's story. His decision to help Olvia unknowingly led him to protect her daughter, establishing a crucial protective relationship.",
+      "characterIds": ["saul", "robin", "olvia"],
+      "locationIds": ["ohara-shore"],
+      "quotes": [
+        {
+          "text": "You're... Nico Olvia's daughter?!",
+          "speaker": "Jaguar D. Saul",
+          "context": "Saul's shocked reaction upon learning Robin's identity"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [275],
+      "payoffInEpisodes": [277, 278],
+      "callbacksToEpisodes": [275]
+    },
+    {
+      "id": "ep276-event-003",
+      "episodeNumber": 276,
+      "timestamp": "06:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Olvia Arrives at the Tree of Knowledge",
+      "description": "A woman arrives at the Tree of Knowledge library and is revealed to be Nico Olvia, Robin's mother. She explains that she arrived on the Marine ship that brought her to the island.",
+      "significance": "Olvia's physical appearance marks a crucial moment in the Ohara flashback. Her return sets in motion the tragic events that will unfold, as she brings dire warnings to the scholars.",
+      "characterIds": ["olvia", "clover"],
+      "locationIds": ["tree-of-knowledge"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [275],
+      "payoffInEpisodes": [277],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep276-event-004",
+      "episodeNumber": 276,
+      "timestamp": "08:20",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Olvia Reveals the Fate of the Poneglyph Expedition",
+      "description": "Olvia tells the scholars that the expedition team that left Ohara to search for Poneglyphs was killed by the World Government, and she is the sole survivor. She reveals that she was captured and tortured but escaped with help.",
+      "significance": "This revelation demonstrates the World Government's ruthlessness in suppressing knowledge of the Void Century. It foreshadows the danger facing all of Ohara's scholars and establishes the stakes for the coming Buster Call.",
+      "characterIds": ["olvia", "clover"],
+      "locationIds": ["tree-of-knowledge"],
+      "quotes": [
+        {
+          "text": "Everyone who left the island to search for Poneglyphs... they were all killed by the World Government. I'm the only survivor.",
+          "speaker": "Nico Olvia",
+          "context": "Olvia warning the scholars about the World Government's actions"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [277],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep276-event-005",
+      "episodeNumber": 276,
+      "timestamp": "09:50",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Warning of the World Government's Attack on Ohara",
+      "description": "Olvia warns the scholars that the World Government is planning to exterminate all of the scholars of Ohara because of their research into the Poneglyphs and the Void Century.",
+      "significance": "This warning sets up the impending Buster Call and demonstrates how the World Government uses extreme measures to suppress historical knowledge. It establishes the World Government as willing to commit genocide to protect their secrets.",
+      "characterIds": ["olvia", "clover"],
+      "locationIds": ["tree-of-knowledge"],
+      "quotes": [
+        {
+          "text": "The World Government plans to exterminate all of the scholars of Ohara.",
+          "speaker": "Nico Olvia",
+          "context": "Olvia's dire warning to her fellow archaeologists"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [277, 278],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep276-event-006",
+      "episodeNumber": 276,
+      "timestamp": "11:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Olvia Decides Not to Reveal Herself to Robin",
+      "description": "Despite learning that her daughter Robin is on the island, Olvia makes the painful decision not to reveal her identity to Robin. She fears that Robin would be branded a criminal simply for being her daughter.",
+      "significance": "This heartbreaking decision shows Olvia's attempt to protect Robin from the World Government's persecution. It establishes one of the most tragic elements of Robin's story - being so close to her mother yet unable to reconnect.",
+      "characterIds": ["olvia", "clover"],
+      "locationIds": ["tree-of-knowledge"],
+      "quotes": [
+        {
+          "text": "I won't reveal myself to Robin. I don't want her to be branded a criminal because of me.",
+          "speaker": "Nico Olvia",
+          "context": "Olvia's decision to protect Robin by staying away from her"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [275],
+      "payoffInEpisodes": [277, 278],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep276-event-007",
+      "episodeNumber": 276,
+      "timestamp": "14:00",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "CRITICAL",
+      "title": "CP9 Arrives at Ohara",
+      "description": "The World Government's CP9 organization arrives on Ohara, led by Spandine. Their forces begin to surround the Tree of Knowledge and prepare to capture the scholars.",
+      "significance": "The arrival of CP9 marks the beginning of the Ohara Incident. This event sets in motion the tragedy that will destroy the island and deeply scar Robin for the rest of her life.",
+      "characterIds": ["spandine"],
+      "locationIds": ["ohara", "tree-of-knowledge"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [275],
+      "payoffInEpisodes": [277, 278],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep276-event-008",
+      "episodeNumber": 276,
+      "timestamp": "16:20",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Olvia Shoots Spandine",
+      "description": "When confronted by Spandine, Olvia shoots him with a pistol. The bullet goes through his coat sleeve without seriously injuring him, but Spandine dramatically reacts as if fatally wounded.",
+      "significance": "This moment shows Olvia's defiance against the World Government and her willingness to fight back. Spandine's over-dramatic reaction also establishes his cowardly character.",
+      "characterIds": ["olvia", "spandine"],
+      "locationIds": ["tree-of-knowledge"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep276-event-009",
+      "episodeNumber": 276,
+      "timestamp": "17:40",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "CP9 Captures Olvia and the Scholars",
+      "description": "Despite Olvia's resistance, CP9 agents overpower and capture her. Spandine orders his forces to round up all the scholars of Ohara for arrest.",
+      "significance": "The capture of Olvia and the scholars represents the World Government's power and the beginning of their systematic destruction of Ohara's knowledge. This event directly leads to the Buster Call.",
+      "characterIds": ["olvia", "spandine", "clover"],
+      "locationIds": ["tree-of-knowledge"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [277],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep276-event-010",
+      "episodeNumber": 276,
+      "timestamp": "19:15",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "CP9 Ransacks the Tree of Knowledge Library",
+      "description": "CP9 agents storm through the Tree of Knowledge, ordering everyone outside as they begin ransacking the massive library. The scholars watch in horror as their life's work is violated.",
+      "significance": "This scene emphasizes the World Government's disregard for knowledge and history. The ransacking of the library symbolizes the suppression of truth and foreshadows the complete destruction to come.",
+      "characterIds": ["spandine", "clover"],
+      "locationIds": ["tree-of-knowledge"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [277, 278],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep276-event-011",
+      "episodeNumber": 276,
+      "timestamp": "20:45",
+      "eventType": "TREASURE_DISCOVERY",
+      "severity": "CRITICAL",
+      "title": "CP9 Discovers the Hidden Poneglyph",
+      "description": "While searching the Tree of Knowledge, CP9 agents discover a hidden basement where the scholars were secretly studying a Poneglyph. This discovery confirms the scholars' 'crime' in the eyes of the World Government.",
+      "significance": "The discovery of the Poneglyph provides the World Government with concrete evidence of Ohara's forbidden research. This finding justifies their extreme actions in their eyes and seals the fate of the island.",
+      "characterIds": ["spandine", "clover"],
+      "locationIds": ["tree-of-knowledge"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [277],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep276-event-012",
+      "episodeNumber": 276,
+      "timestamp": "21:30",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MAJOR",
+      "title": "Saul Warns Robin About the Marines",
+      "description": "Saul, realizing the danger, warns Robin that the Marines have come to eliminate the island's scholars. He tells her she must survive no matter what happens.",
+      "significance": "Saul's warning to Robin foreshadows the tragic events of the Buster Call and establishes his role as her protector. This sets up his sacrifice to save her in the following episode.",
+      "characterIds": ["saul", "robin"],
+      "locationIds": ["ohara-shore"],
+      "quotes": [
+        {
+          "text": "The Marines are here to eliminate all the scholars. You must survive, Robin!",
+          "speaker": "Jaguar D. Saul",
+          "context": "Saul warning Robin about the impending danger"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [275],
+      "payoffInEpisodes": [277, 278],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [277, 278],
+    "payoffFrom": [275],
+    "thematicLinks": [275, 277, 278]
+  },
+  "quotes": [
+    {
+      "text": "I want to become an archaeologist and study the Void Century. My mother was studying the Poneglyphs.",
+      "speaker": "Nico Robin",
+      "context": "Robin sharing her dreams with Saul",
+      "timestamp": "03:15"
+    },
+    {
+      "text": "You're... Nico Olvia's daughter?!",
+      "speaker": "Jaguar D. Saul",
+      "context": "Saul's shocked reaction upon learning Robin's identity",
+      "timestamp": "04:30"
+    },
+    {
+      "text": "Everyone who left the island to search for Poneglyphs... they were all killed by the World Government. I'm the only survivor.",
+      "speaker": "Nico Olvia",
+      "context": "Olvia warning the scholars about the World Government's actions",
+      "timestamp": "08:20"
+    },
+    {
+      "text": "The World Government plans to exterminate all of the scholars of Ohara.",
+      "speaker": "Nico Olvia",
+      "context": "Olvia's dire warning to her fellow archaeologists",
+      "timestamp": "09:50"
+    },
+    {
+      "text": "I won't reveal myself to Robin. I don't want her to be branded a criminal because of me.",
+      "speaker": "Nico Olvia",
+      "context": "Olvia's decision to protect Robin by staying away from her",
+      "timestamp": "11:30"
+    },
+    {
+      "text": "The Marines are here to eliminate all the scholars. You must survive, Robin!",
+      "speaker": "Jaguar D. Saul",
+      "context": "Saul warning Robin about the impending danger",
+      "timestamp": "21:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Maternal Sacrifice",
+      "description": "Olvia's decision not to reveal herself to Robin demonstrates the ultimate maternal sacrifice - denying herself the reunion she desperately wants to protect her daughter from persecution.",
+      "symbolism": "The physical proximity yet emotional distance between mother and daughter symbolizes the cruel separation forced by the World Government's tyranny.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Knowledge as Dangerous",
+      "description": "The episode explores how the pursuit of historical truth is treated as a crime punishable by death. The scholars' dedication to preserving knowledge conflicts with the World Government's desire to suppress it.",
+      "symbolism": "The Tree of Knowledge itself represents humanity's desire for understanding, while its ransacking symbolizes authoritarian suppression of truth.",
+      "culturalReferences": ["Biblical Tree of Knowledge", "Book burning throughout history"]
+    },
+    {
+      "theme": "The Cost of Truth",
+      "description": "The scholars of Ohara face annihilation for seeking historical truth. The episode shows how the pursuit of knowledge can have deadly consequences when it threatens those in power.",
+      "symbolism": "The Poneglyph in the hidden basement represents forbidden knowledge that threatens the established order.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tragic", "Tense", "Heartbreaking", "Foreboding"],
+  "characterSpotlights": [
+    {
+      "characterId": "olvia",
+      "role": "Tragic mother returning to warn her community",
+      "development": "Olvia is revealed as a dedicated scholar and mother who sacrifices her personal desires to protect her daughter. Her strength and resolve are evident even as she faces certain doom.",
+      "keyActions": [
+        "Arrives at the Tree of Knowledge to warn the scholars",
+        "Reveals the fate of the Poneglyph expedition",
+        "Decides not to reveal herself to Robin",
+        "Shoots Spandine in defiance",
+        "Is captured by CP9"
+      ],
+      "quotes": [
+        "Everyone who left the island to search for Poneglyphs... they were all killed by the World Government. I'm the only survivor.",
+        "I won't reveal myself to Robin. I don't want her to be branded a criminal because of me."
+      ]
+    },
+    {
+      "characterId": "robin",
+      "role": "Young girl unknowingly close to her mother",
+      "development": "Robin's innocent dreams of becoming an archaeologist and meeting her mother are juxtaposed with the tragic reality that her mother is nearby but choosing to stay away. Her conversation with Saul reveals her pure motivations.",
+      "keyActions": [
+        "Shares her dream with Saul",
+        "Reveals her mother's identity to Saul",
+        "Remains unaware of her mother's presence on the island"
+      ],
+      "quotes": [
+        "I want to become an archaeologist and study the Void Century. My mother was studying the Poneglyphs."
+      ]
+    },
+    {
+      "characterId": "saul",
+      "role": "Protector realizing the full scope of danger",
+      "development": "Saul's shock at discovering Robin is Olvia's daughter connects the dots of his desertion. He transitions from a friendly giant to a determined protector who understands the grave danger facing Robin.",
+      "keyActions": [
+        "Learns Robin is Olvia's daughter",
+        "Realizes he is on Ohara",
+        "Warns Robin about the Marines' intentions"
+      ],
+      "quotes": [
+        "You're... Nico Olvia's daughter?!",
+        "The Marines are here to eliminate all the scholars. You must survive, Robin!"
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends some scenes between Robin and Saul to provide more emotional depth to their conversation.",
+      "episodeTimestamp": "03:00-05:00",
+      "mangaReference": "Chapter 393",
+      "type": "PACING_CHANGE"
+    },
+    {
+      "difference": "Additional scenes showing CP9 agents ransacking the Tree of Knowledge library were added for dramatic effect.",
+      "episodeTimestamp": "19:15",
+      "mangaReference": "Chapter 394",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode adapts chapters 393 and 394 of the manga, which are titled 'Olvia' and 'The Criminals Are Coming.'",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_276",
+          "title": "Episode 276 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Yuriko Yamaguchi voices both Nico Robin and her mother Nico Olvia in the Japanese version, emphasizing their familial connection through voice.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Nico_Olvia",
+          "title": "Nico Olvia - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Similarly, Stephanie Young voices both Robin and Olvia in the English Funimation dub.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Nico_Olvia",
+          "title": "Nico Olvia - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The opening 'Brand New World' by D-51 only spanned 15 episodes (264-278), making it one of the shortest-running openings in One Piece history.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Brand_New_World",
+          "title": "Brand New World - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Adventure World was the last ending theme before a 17-year hiatus, after which the anime switched to longer opening themes without ending themes.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Adventure_World",
+          "title": "Adventure World - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The Ohara Incident flashback is considered one of the darkest and most emotionally impactful arcs in One Piece, showcasing the World Government's willingness to commit genocide.",
+      "category": "STORY",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

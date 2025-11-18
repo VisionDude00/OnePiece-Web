@@ -1,0 +1,509 @@
+{
+  "episodeNumber": 277,
+  "episodeTitle": "The Tragedy of Ohara! The Terror of the Buster Call!",
+  "description": "Professor Clover reveals the truth about the Poneglyphs to the Five Elders before being shot by Spandine. Robin reunites with her mother Olvia as the Buster Call devastates Ohara, and Olvia entrusts her daughter to Saul's care as the scholars desperately try to save their library's knowledge.",
+  "airDate": "2006-09-24",
+  "airDateJapan": "2006-09-24",
+  "airDateUS": "2013-08-10",
+  "arcName": "Enies Lobby",
+  "sagaName": "Water 7 Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Brand New World",
+    "artist": "D-51",
+    "episodeRange": [264, 278]
+  },
+  "endingSong": {
+    "title": "Adventure World",
+    "artist": "Delicatessen",
+    "episodeRange": [264, 278]
+  },
+  "credits": {
+    "animationDirector": "Takahiro Imamura",
+    "keyAnimators": ["Takeo Ide"],
+    "voiceActorsJP": [
+      {
+        "character": "Nico Robin (child)",
+        "actor": "Anzu Nagai"
+      },
+      {
+        "character": "Nico Olvia",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Professor Clover",
+        "actor": "Kinryu Arimoto"
+      },
+      {
+        "character": "Spandine",
+        "actor": "Masaya Takatsuka"
+      },
+      {
+        "character": "Jaguar D. Saul",
+        "actor": "Takeshi Kusao"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Nico Robin (child)",
+        "actor": "Jad Saxton"
+      },
+      {
+        "character": "Nico Olvia",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Professor Clover",
+        "actor": "Kent Williams"
+      },
+      {
+        "character": "Spandine",
+        "actor": "Steve Sanders"
+      },
+      {
+        "character": "Jaguar D. Saul",
+        "actor": "Cole Brown"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep277-event-001",
+      "episodeNumber": 277,
+      "timestamp": "03:15",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Clover Reveals Ancient Kingdom Theory",
+      "description": "Professor Clover reveals to the Five Elders that the Poneglyphs were created by an ancient civilization to preserve their history from being erased by the World Government's predecessors. He begins to reveal the name of this ancient kingdom.",
+      "significance": "One of the most important Void Century revelations in the series, establishing that the World Government has been actively suppressing history and that an ancient enemy once existed.",
+      "characterIds": ["clover", "five-elders"],
+      "locationIds": ["tree-of-knowledge"],
+      "quotes": [
+        {
+          "text": "The Poneglyphs were most likely carved by an ancient country to prevent the World Government from completely erasing their history!",
+          "speaker": "Professor Clover",
+          "context": "Clover's final revelation about the truth of the Void Century before being silenced"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [275, 276],
+      "payoffInEpisodes": [1066, 1113],
+      "callbacksToEpisodes": [275]
+    },
+    {
+      "id": "ep277-event-002",
+      "episodeNumber": 277,
+      "timestamp": "05:42",
+      "eventType": "DEATH",
+      "severity": "CRITICAL",
+      "title": "Professor Clover Shot by Spandine",
+      "description": "As Professor Clover is about to reveal the name of the ancient kingdom, Spandine shoots him on orders from the Five Elders. Clover falls, mortally wounded, unable to complete his revelation.",
+      "significance": "The World Government silences one of the world's greatest scholars to prevent the truth about the Void Century from being revealed, demonstrating their ruthlessness.",
+      "characterIds": ["clover", "spandine", "five-elders"],
+      "locationIds": ["tree-of-knowledge"],
+      "quotes": [
+        {
+          "text": "Ohara has learned too much. Kill him.",
+          "speaker": "Five Elders",
+          "context": "The order to silence Professor Clover"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [275, 276],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep277-event-003",
+      "episodeNumber": 277,
+      "timestamp": "06:28",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Robin Reveals She Can Read Poneglyphs",
+      "description": "In a moment of desperation after seeing Clover shot, young Robin reveals to Spandine and the World Government that she too can read the Poneglyphs, inadvertently sealing her fate as a fugitive.",
+      "significance": "This revelation marks the beginning of Robin's 20-year life as a hunted criminal and explains why the World Government has pursued her relentlessly.",
+      "characterIds": ["robin", "spandine", "olvia"],
+      "locationIds": ["tree-of-knowledge"],
+      "quotes": [
+        {
+          "text": "I can read them too! I can read the Poneglyphs!",
+          "speaker": "Nico Robin",
+          "context": "Robin's desperate admission that dooms her to a life on the run"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [275],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [275]
+    },
+    {
+      "id": "ep277-event-004",
+      "episodeNumber": 277,
+      "timestamp": "07:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Spandine Activates the Buster Call",
+      "description": "Following the Five Elders' orders, Spandine activates the Golden Den Den Mushi, summoning the Buster Call to completely destroy Ohara and everyone on it. Five Marine battleships prepare to annihilate the island.",
+      "significance": "The activation of the Buster Call marks the beginning of Ohara's destruction and becomes one of the most tragic events in One Piece history, demonstrating the World Government's extreme measures to protect its secrets.",
+      "characterIds": ["spandine"],
+      "locationIds": ["ohara"],
+      "devilFruitIds": [],
+      "crewIds": [],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [275, 276],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep277-event-005",
+      "episodeNumber": 277,
+      "timestamp": "09:20",
+      "eventType": "BATTLE_START",
+      "severity": "CRITICAL",
+      "title": "Buster Call Bombardment Begins",
+      "description": "The five Marine battleships begin their bombardment of Ohara. Cannon fire rains down on the island as the announcement declares the scholars' crimes and the island's destruction.",
+      "significance": "The beginning of Ohara's complete destruction, resulting in the deaths of nearly all the island's inhabitants and the burning of the Tree of Knowledge.",
+      "characterIds": [],
+      "locationIds": ["ohara", "tree-of-knowledge"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [276],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep277-event-006",
+      "episodeNumber": 277,
+      "timestamp": "11:05",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Robin and Olvia's Tearful Reunion",
+      "description": "After Robin reveals she can read Poneglyphs, Olvia can no longer deny their relationship. Mother and daughter embrace and cry together, reuniting for the first time in years even as their world burns around them.",
+      "significance": "The emotional core of the Ohara flashback, showing the tragic reunion between Robin and her mother just before they must part forever.",
+      "characterIds": ["robin", "olvia"],
+      "locationIds": ["tree-of-knowledge"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [276],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [276]
+    },
+    {
+      "id": "ep277-event-007",
+      "episodeNumber": 277,
+      "timestamp": "13:40",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Tree of Knowledge Targeted",
+      "description": "The scholars realize that the Buster Call's cannon fire is specifically targeting the Tree of Knowledge, threatening to destroy all of Ohara's accumulated knowledge and research.",
+      "significance": "Represents the World Government's determination to erase not just the scholars, but all knowledge they've accumulated, showing their commitment to suppressing history.",
+      "characterIds": ["clover", "ohara-scholars"],
+      "locationIds": ["tree-of-knowledge"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep277-event-008",
+      "episodeNumber": 277,
+      "timestamp": "15:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Scholars Attempt to Save the Books",
+      "description": "Despite the bombardment, the dying Professor Clover and the other scholars decide to save as many books as possible by throwing them into the nearby lake, hoping future generations might recover this knowledge.",
+      "significance": "Demonstrates the scholars' dedication to preserving knowledge even in the face of death. These books would later be recovered by Saul and the giants, preserving Ohara's legacy.",
+      "characterIds": ["clover", "ohara-scholars"],
+      "locationIds": ["tree-of-knowledge", "ohara"],
+      "quotes": [
+        {
+          "text": "We must pass on this history! Throw the books into the lake!",
+          "speaker": "Professor Clover",
+          "context": "Clover's final act to preserve knowledge for future generations"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [1066],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep277-event-009",
+      "episodeNumber": 277,
+      "timestamp": "17:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Olvia Explains the Scholar's Mission",
+      "description": "Olvia explains to Robin that being a scholar means hearing the voices of the past and passing history on to the future. She emphasizes that the scholars never wanted to use the forbidden knowledge, only to preserve and pass it on.",
+      "significance": "Establishes Robin's core motivation and her eventual role as the person who will carry on Ohara's will to preserve and reveal the true history.",
+      "characterIds": ["olvia", "robin"],
+      "locationIds": ["tree-of-knowledge"],
+      "quotes": [
+        {
+          "text": "History must be passed on. We never wanted to use this knowledge... only to hear the voices of the past and pass them to the future.",
+          "speaker": "Nico Olvia",
+          "context": "Olvia explaining the true purpose of the scholars' research to Robin"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [275, 276],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep277-event-010",
+      "episodeNumber": 277,
+      "timestamp": "19:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Olvia Entrusts Robin to Saul",
+      "description": "Realizing the end is near, Olvia makes the painful decision to send Robin away with Saul. She tells Saul to protect her daughter while she stays behind to help save the books and face her fate with her fellow scholars.",
+      "significance": "Olvia's ultimate sacrifice as a mother, choosing to ensure Robin's survival while accepting her own death. This decision saves Robin and allows her to eventually fulfill Ohara's dream.",
+      "characterIds": ["olvia", "robin", "saul"],
+      "locationIds": ["tree-of-knowledge"],
+      "quotes": [
+        {
+          "text": "Saul... please protect Robin. Get her off this island!",
+          "speaker": "Nico Olvia",
+          "context": "Olvia's final request to Saul to save her daughter"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [276],
+      "payoffInEpisodes": [278],
+      "callbacksToEpisodes": [276]
+    },
+    {
+      "id": "ep277-event-011",
+      "episodeNumber": 277,
+      "timestamp": "21:20",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MAJOR",
+      "title": "Saul Carries Robin Away from the Tree",
+      "description": "As the Tree of Knowledge burns and the bombardment continues, the giant Saul picks up young Robin and begins to carry her away, with Robin crying and reaching back toward her mother as they flee.",
+      "significance": "The final separation of Robin from her mother and her home, marking the beginning of Robin's journey as the last survivor of Ohara's scholars.",
+      "characterIds": ["saul", "robin", "olvia"],
+      "locationIds": ["tree-of-knowledge", "ohara"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [276],
+      "payoffInEpisodes": [278],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [278],
+    "payoffFrom": [275, 276],
+    "thematicLinks": [1066, 1113]
+  },
+  "quotes": [
+    {
+      "text": "The Poneglyphs were most likely carved by an ancient country to prevent the World Government from completely erasing their history!",
+      "speaker": "Professor Clover",
+      "context": "Revealing the truth about the Void Century",
+      "timestamp": "03:15"
+    },
+    {
+      "text": "Ohara has learned too much. Kill him.",
+      "speaker": "Five Elders",
+      "context": "Ordering Clover's execution",
+      "timestamp": "05:30"
+    },
+    {
+      "text": "I can read them too! I can read the Poneglyphs!",
+      "speaker": "Nico Robin",
+      "context": "Robin's desperate admission",
+      "timestamp": "06:28"
+    },
+    {
+      "text": "History must be passed on. We never wanted to use this knowledge... only to hear the voices of the past and pass them to the future.",
+      "speaker": "Nico Olvia",
+      "context": "Explaining the scholars' mission to Robin",
+      "timestamp": "17:30"
+    },
+    {
+      "text": "Saul... please protect Robin. Get her off this island!",
+      "speaker": "Nico Olvia",
+      "context": "Entrusting her daughter to Saul's care",
+      "timestamp": "19:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Suppression of Truth and History",
+      "description": "The episode powerfully depicts how those in power will go to extreme lengths, including genocide, to suppress historical truths that threaten their authority.",
+      "symbolism": "The burning Tree of Knowledge represents the destruction of accumulated wisdom and the attempt to erase the past.",
+      "culturalReferences": ["Historical book burnings", "Suppression of knowledge by authoritarian regimes"]
+    },
+    {
+      "theme": "Sacrifice for Knowledge",
+      "description": "The scholars of Ohara choose to die attempting to preserve their books and research, showing that some values are worth dying for.",
+      "symbolism": "Throwing books into the lake represents hope that knowledge will survive even when its keepers do not.",
+      "culturalReferences": ["Martyrdom for truth", "Academic freedom"]
+    },
+    {
+      "theme": "Mother's Love and Sacrifice",
+      "description": "Olvia's decision to send Robin away while she stays to die demonstrates the ultimate maternal sacrifice.",
+      "symbolism": "The separation of mother and daughter parallels the separation of the past from the future, with Robin becoming the carrier of both.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Cost of Pursuing Truth",
+      "description": "Robin's admission that she can read Poneglyphs seals her fate as a hunted criminal, showing how the pursuit of knowledge can come at a terrible personal cost.",
+      "symbolism": "Robin's revelation transforms her from innocent child to the 'Demon of Ohara', showing how truth-seekers are demonized by those who fear the truth.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tragic", "Devastating", "Heartbreaking", "Tense"],
+  "characterSpotlights": [
+    {
+      "characterId": "robin",
+      "role": "Tragic child witness",
+      "development": "Robin is forced to reveal her ability to read Poneglyphs, sealing her fate as a fugitive. She reunites with her mother only to be immediately separated again.",
+      "keyActions": [
+        "Witnesses Professor Clover being shot",
+        "Reveals she can read Poneglyphs",
+        "Reunites with her mother Olvia",
+        "Is entrusted to Saul's care by her mother",
+        "Flees with Saul as Ohara burns"
+      ],
+      "quotes": ["I can read them too! I can read the Poneglyphs!"]
+    },
+    {
+      "characterId": "olvia",
+      "role": "Tragic mother figure",
+      "development": "Olvia reunites with her daughter but must immediately make the painful choice to send her away to survive while she stays to die with her fellow scholars.",
+      "keyActions": [
+        "Reunites emotionally with Robin",
+        "Explains the scholars' mission to preserve history",
+        "Entrusts Robin to Saul's care",
+        "Chooses to stay and help save the books",
+        "Sends her daughter away to safety"
+      ],
+      "quotes": ["History must be passed on. We never wanted to use this knowledge... only to hear the voices of the past and pass them to the future.", "Saul... please protect Robin. Get her off this island!"]
+    },
+    {
+      "characterId": "clover",
+      "role": "Martyred scholar",
+      "development": "Clover makes his final stand by revealing the truth about the ancient kingdom to the Five Elders, knowing it will cost him his life. Even after being shot, he leads the effort to save the books.",
+      "keyActions": [
+        "Reveals the truth about the Poneglyphs to the Five Elders",
+        "Attempts to speak the name of the ancient kingdom",
+        "Is shot by Spandine before completing his revelation",
+        "Despite his wounds, organizes the effort to save the books",
+        "Dies attempting to preserve knowledge"
+      ],
+      "quotes": ["The Poneglyphs were most likely carved by an ancient country to prevent the World Government from completely erasing their history!", "We must pass on this history! Throw the books into the lake!"]
+    },
+    {
+      "characterId": "spandine",
+      "role": "Antagonist/Executioner",
+      "development": "Spandine carries out the Five Elders' orders without hesitation, shooting Clover and activating the Buster Call to destroy Ohara.",
+      "keyActions": [
+        "Receives orders from the Five Elders to kill Clover",
+        "Shoots Professor Clover to silence him",
+        "Activates the Golden Den Den Mushi",
+        "Initiates the Buster Call on Ohara"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "saul",
+      "role": "Protector",
+      "development": "Saul takes on the responsibility of protecting Robin and getting her off the island, honoring Olvia's final request.",
+      "keyActions": [
+        "Receives Robin from Olvia",
+        "Carries Robin away from the burning Tree of Knowledge",
+        "Begins to flee Ohara to save Robin"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends several emotional scenes, particularly the reunion between Robin and Olvia, with additional reaction shots and extended dialogue.",
+      "episodeTimestamp": "11:05",
+      "mangaReference": "Chapter 396, pages 4-6",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "The anime adds more detail to the Buster Call bombardment sequence with additional shots of the destruction and the scholars' reactions.",
+      "episodeTimestamp": "09:20",
+      "mangaReference": "Chapter 396, pages 2-3",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode is rated 9.4/10 on IMDb, making it one of the highest-rated episodes in the entire One Piece anime series.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://www.imdb.com/title/tt1044634/",
+          "title": "Episode 277 - IMDb",
+          "platform": "IMDb",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Episodes 277 and 278 aired as part of a television special alongside episodes of Sazae-san and Kochikame.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_One_Piece_episodes_(seasons_9–14)",
+          "title": "List of One Piece episodes (seasons 9–14) - Wikipedia",
+          "platform": "Wikipedia",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode had a TV rating of 13.2% in Japan and ranked #1 in its timeslot.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_277",
+          "title": "Episode 277 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode adapts chapters 395 and 396 of the manga, which are part of the Enies Lobby arc but show Robin's flashback to the Ohara incident.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_277",
+          "title": "Episode 277 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The eyecatcher for this episode features Nico Robin, appropriate given the episode focuses on her backstory.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_277",
+          "title": "Episode 277 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

@@ -1,0 +1,139 @@
+[
+  {
+    "name": {
+      "english": "Ohara",
+      "japanese": "オハラ",
+      "romanized": "Ohara"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "WEST_BLUE",
+    "islandName": "Ohara",
+    "debutEpisode": 275,
+    "debutChapter": 391,
+    "description": "An island in the West Blue famous for its scholars and the Tree of Knowledge. Destroyed by a Buster Call ordered by the World Government after its scholars researched the Void Century.",
+    "episodeAppearances": [277],
+    "keyEvents": [
+      {
+        "episodeNumber": 277,
+        "eventId": "ep277-event-004",
+        "eventType": "MAJOR_DECISION",
+        "title": "Buster Call Activated on Ohara",
+        "description": "Spandine activates the Golden Den Den Mushi, summoning the Buster Call to completely destroy Ohara and everyone on it.",
+        "significance": "The beginning of Ohara's complete destruction, one of the most tragic events in One Piece history.",
+        "timestamp": "07:45"
+      },
+      {
+        "episodeNumber": 277,
+        "eventId": "ep277-event-005",
+        "eventType": "BATTLE_START",
+        "title": "Buster Call Bombardment Begins",
+        "description": "The five Marine battleships begin their bombardment of Ohara, with cannon fire raining down on the island.",
+        "significance": "The beginning of Ohara's destruction, resulting in the deaths of nearly all the island's inhabitants.",
+        "timestamp": "09:20"
+      }
+    ],
+    "status": "DESTROYED",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 275,
+        "episodeEnd": 277,
+        "reason": "Island was inhabited by scholars"
+      },
+      {
+        "status": "DESTROYED",
+        "episodeStart": 277,
+        "episodeEnd": "present",
+        "reason": "Destroyed by Buster Call ordered by the World Government"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["tree-of-knowledge"],
+    "relatedCharacters": ["robin", "olvia", "clover", "saul"],
+    "relatedCrews": [],
+    "relatedArcs": ["Enies Lobby"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Tree of Knowledge",
+      "japanese": "全知の樹",
+      "romanized": "Zenchi no Ki"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "WEST_BLUE",
+    "islandName": "Ohara",
+    "debutEpisode": 275,
+    "debutChapter": 391,
+    "description": "A massive tree on Ohara that housed the island's extensive library and served as the center of archaeological research. It was specifically targeted during the Buster Call.",
+    "episodeAppearances": [277],
+    "keyEvents": [
+      {
+        "episodeNumber": 277,
+        "eventId": "ep277-event-001",
+        "eventType": "WORLD_LORE",
+        "title": "Clover Reveals Ancient Kingdom Theory",
+        "description": "Professor Clover reveals to the Five Elders from within the Tree of Knowledge that the Poneglyphs were created by an ancient civilization.",
+        "significance": "One of the most important Void Century revelations, taking place in the center of Ohara's knowledge.",
+        "timestamp": "03:15"
+      },
+      {
+        "episodeNumber": 277,
+        "eventId": "ep277-event-002",
+        "eventType": "DEATH",
+        "title": "Professor Clover Shot",
+        "description": "Professor Clover is shot by Spandine inside the Tree of Knowledge before he can reveal the name of the ancient kingdom.",
+        "significance": "The silencing of Ohara's greatest scholar in the heart of their library.",
+        "timestamp": "05:42"
+      },
+      {
+        "episodeNumber": 277,
+        "eventId": "ep277-event-007",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Tree of Knowledge Targeted",
+        "description": "The scholars realize that the Buster Call's cannon fire is specifically targeting the Tree of Knowledge to destroy all of Ohara's accumulated knowledge.",
+        "significance": "Represents the World Government's determination to erase not just the scholars, but all knowledge they've accumulated.",
+        "timestamp": "13:40"
+      },
+      {
+        "episodeNumber": 277,
+        "eventId": "ep277-event-008",
+        "eventType": "MAJOR_DECISION",
+        "title": "Scholars Save the Books",
+        "description": "The scholars throw books from the Tree of Knowledge into the nearby lake to preserve them for future generations.",
+        "significance": "A desperate attempt to preserve knowledge that would later succeed when Saul and the giants recover these books.",
+        "timestamp": "15:15"
+      },
+      {
+        "episodeNumber": 277,
+        "eventId": "ep277-event-011",
+        "eventType": "LOCATION_DEPARTURE",
+        "title": "Saul Carries Robin Away",
+        "description": "Saul carries Robin away from the burning Tree of Knowledge as it is consumed by flames.",
+        "significance": "The final departure from Ohara's center of learning, marking the end of the island's scholarly tradition.",
+        "timestamp": "21:20"
+      }
+    ],
+    "status": "DESTROYED",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 275,
+        "episodeEnd": 277,
+        "reason": "Served as Ohara's library and research center"
+      },
+      {
+        "status": "DESTROYED",
+        "episodeStart": 277,
+        "episodeEnd": "present",
+        "reason": "Burned during the Buster Call"
+      }
+    ],
+    "parentLocation": "ohara",
+    "childLocations": [],
+    "relatedCharacters": ["robin", "olvia", "clover", "ohara-scholars"],
+    "relatedCrews": [],
+    "relatedArcs": ["Enies Lobby"],
+    "images": []
+  }
+]
