@@ -1,0 +1,495 @@
+{
+  "episodeNumber": 201,
+  "episodeTitle": "Enter the Hot-Blooded Special Forces! Battle on the Bridge!",
+  "episodeTitleJapanese": "熱血特別部隊参戦！ブリッジ攻防戦！",
+  "episodeTitleRomanized": "Nekketsu Tokubetsu Butai Sansen! Burijji Kōbōsen!",
+  "description": "After freeing Zoro and Usopp from prison, Luffy's group attempts to escape the G-8 Marine Base. Meanwhile, Dr. Kobato decides to help Nami and Chopper reach their ship despite her fears. The Hot-Blooded Special Forces Unit 55 confronts the Straw Hats on a bridge leading to Dock 88, resulting in a battle that destroys the bridge and sends everyone into the bay below.",
+  "airDate": "2004-09-05",
+  "airDateJapan": "2004-09-05",
+  "airDateUS": "2011-04-19",
+  "arcName": "G-8 Arc",
+  "sagaName": "Sky Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "BON VOYAGE!",
+    "artist": "Bon-Bon Blanco",
+    "episodeRange": [169, 206]
+  },
+  "endingSong": {
+    "title": "Tsuki to Taiyo",
+    "artist": "Shela",
+    "episodeRange": [182, 195]
+  },
+  "credits": {
+    "writer": "Michiru Shimada",
+    "animator": "Kenji Yokoyama",
+    "director": "Hidehiko Kadota",
+    "artDirectors": ["Miyuki Sato", "Michiyo Kawasaki"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Vice Admiral Jonathan",
+        "actor": "Nobuo Tanaka"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Vice Admiral Jonathan",
+        "actor": "Mark Stoddard"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep201-event-001",
+      "episodeNumber": 201,
+      "timestamp": "03:15",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MINOR",
+      "title": "Luffy and Sanji Free Zoro and Usopp from Prison",
+      "description": "Luffy and Sanji successfully break into the prison cell and free their captured crewmates Zoro and Usopp. The four reunite and prepare to make their escape from the G-8 Marine Base together.",
+      "significance": "This reunites the male Straw Hats and marks the beginning of their coordinated escape attempt from Navarone. It demonstrates the crew's dedication to rescuing each other even in dangerous enemy territory.",
+      "characterIds": ["luffy", "sanji", "zoro", "usopp"],
+      "locationIds": ["g8-prison"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [198, 199, 200],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep201-event-002",
+      "episodeNumber": 201,
+      "timestamp": "05:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Condoriano Left Behind in Prison",
+      "description": "Shepherd, mistakenly identified by the Marines as 'Condoriano' due to Usopp's earlier deception, is left behind in the prison cell when the Straw Hats escape. He desperately tries to convince the guards that he is actually a Marine inspector from headquarters, but they refuse to believe him and take him away.",
+      "significance": "This continues the running Condoriano gag that has become a beloved meme in the One Piece fandom. The comedic timing of the mistaken identity persisting even as Shepherd protests showcases the G-8 Arc's excellent blend of humor and action.",
+      "characterIds": ["shepherd", "usopp"],
+      "locationIds": ["g8-prison"],
+      "quotes": [
+        {
+          "text": "I'm not Condoriano! I'm Inspector Shepherd from Marine Headquarters!",
+          "speaker": "Shepherd",
+          "context": "Shepherd desperately trying to clear up the mistaken identity"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [200],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [200]
+    },
+    {
+      "id": "ep201-event-003",
+      "episodeNumber": 201,
+      "timestamp": "07:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Dr. Kobato Decides to Help Nami and Chopper",
+      "description": "Despite her extreme fear of pirates and her inability to handle the sight of blood, Dr. Kobato makes the brave decision to help Nami and Chopper reach Dock 88. She tells them that they helped her understand what it truly means to be a doctor, and she wants to repay that debt.",
+      "significance": "This represents character growth for Dr. Kobato and demonstrates one of the G-8 Arc's themes: that even enemies can recognize and appreciate good people. Her decision to help pirates goes against her nature and Marine loyalty, showing the impact the Straw Hats have on people.",
+      "characterIds": ["dr-kobato", "nami", "chopper"],
+      "locationIds": ["g8-medical-center"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "Even though you are pirates, you were the ones who helped me see what it truly means to be a doctor. I want to help you find your ship.",
+          "speaker": "Dr. Kobato",
+          "context": "Dr. Kobato explaining why she will help despite her fears"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [197, 198],
+      "payoffInEpisodes": [202],
+      "callbacksToEpisodes": [197]
+    },
+    {
+      "id": "ep201-event-004",
+      "episodeNumber": 201,
+      "timestamp": "10:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Confrontation with Jonathan on the Balcony",
+      "description": "While fleeing through the base, Luffy's group runs into what appears to be a dead-end at the side of the mountain. They unexpectedly encounter Vice Admiral Jonathan, who is standing on the balcony of his office. Luffy boldly declares that he has freed his crewmates and that they will escape the base.",
+      "significance": "This direct confrontation between Luffy and Jonathan shows Luffy's fearlessness even when facing high-ranking Marine officers. It also demonstrates Jonathan's tactical mind as he calmly observes the Straw Hats' movements while coordinating his forces.",
+      "characterIds": ["luffy", "jonathan", "sanji", "zoro", "usopp"],
+      "locationIds": ["g8-jonathan-office"],
+      "quotes": [
+        {
+          "text": "We've freed our crewmates, and we're getting out of here!",
+          "speaker": "Luffy",
+          "context": "Luffy's declaration to Vice Admiral Jonathan"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [196, 197],
+      "payoffInEpisodes": [202, 203],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep201-event-005",
+      "episodeNumber": 201,
+      "timestamp": "12:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Hot-Blooded Special Forces Unit 55 Deploys",
+      "description": "Vice Admiral Jonathan deploys the elite Hot-Blooded Special Forces, also known as Unit 55, to slow down the Straw Hats and buy time for Lieutenant Commander Drake to set up an ambush at Dock 88. The unit is introduced with dramatic flair and the motto 'FEEL THE HOT WIND OF THEIR SOULS!'",
+      "significance": "The deployment of Unit 55 serves as a strategic delaying tactic by Jonathan while setting up his main trap. This shows Jonathan's tactical prowess and multi-layered planning in dealing with the Straw Hats.",
+      "characterIds": ["jonathan", "drake"],
+      "locationIds": ["g8-fortress"],
+      "quotes": [
+        {
+          "text": "Deploy Unit 55! Stall them while Drake prepares the ambush!",
+          "speaker": "Jonathan",
+          "context": "Jonathan ordering the Hot-Blooded Special Forces to engage"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep201-event-006",
+      "episodeNumber": 201,
+      "timestamp": "14:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Battle on the Bridge",
+      "description": "Luffy's group arrives at the bridge leading to Dock 88. Despite recognizing it as an obvious trap with Unit 55 blocking their path and surrounding them from all sides, the Straw Hats decide they don't care and charge forward anyway. An intense battle erupts on the bridge between the four Straw Hats and the Hot-Blooded Special Forces.",
+      "significance": "This battle showcases the Straw Hats' combat abilities and their typical approach of charging headfirst into danger. It also demonstrates their teamwork as they fight together against a specialized Marine unit.",
+      "characterIds": ["luffy", "zoro", "sanji", "usopp"],
+      "locationIds": ["g8-bridge"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "It's obviously a trap, but who cares? Let's go!",
+          "speaker": "Luffy",
+          "context": "Luffy's response to seeing Unit 55 waiting on the bridge"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep201-event-007",
+      "episodeNumber": 201,
+      "timestamp": "17:00",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Luffy Destroys the Bridge",
+      "description": "During the intense battle with Unit 55, Luffy's powerful attacks destroy the bridge structure. The bridge collapses, sending both the Straw Hats and the Hot-Blooded Special Forces Marines plummeting into the bay below. Despite this setback, the Straw Hats quickly recover and continue toward Dock 88.",
+      "significance": "This demonstrates Luffy's overwhelming strength and the collateral damage that often results from Straw Hat battles. The destruction of the bridge forces both sides to take an unexpected plunge but doesn't deter the pirates from their goal.",
+      "characterIds": ["luffy", "zoro", "sanji", "usopp"],
+      "locationIds": ["g8-bridge", "g8-bay"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep201-event-008",
+      "episodeNumber": 201,
+      "timestamp": "18:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Arrival at Dock 88",
+      "description": "After falling into the bay and swimming to shore, Luffy's group proceeds toward Dock 88 where the Going Merry is moored. They arrive to find themselves vastly outnumbered by Marines who have been waiting in ambush as part of Vice Admiral Jonathan's trap.",
+      "significance": "This marks the climax of Jonathan's tactical planning, as the Straw Hats walk directly into his prepared ambush. The overwhelming Marine presence at the dock represents the most dangerous situation the crew has faced during their time at Navarone.",
+      "characterIds": ["luffy", "zoro", "sanji", "usopp", "drake"],
+      "locationIds": ["dock-88"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [202],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep201-event-009",
+      "episodeNumber": 201,
+      "timestamp": "19:45",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Luffy Trapped in Seastone Net",
+      "description": "As the battle at Dock 88 intensifies, Luffy is shot with a net made of Seastone, the rare material that negates Devil Fruit powers. The Seastone completely incapacitates Luffy, draining his strength and rendering him unable to use his Gomu Gomu no Mi abilities.",
+      "significance": "This is a critical moment that shows the Marines' knowledge of Devil Fruit weaknesses and their strategic use of Seastone. With Luffy incapacitated, the situation becomes desperate for the Straw Hats, demonstrating that even powerful pirates have exploitable weaknesses.",
+      "characterIds": ["luffy", "drake"],
+      "locationIds": ["dock-88"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [202],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep201-event-010",
+      "episodeNumber": 201,
+      "timestamp": "21:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Nami and Chopper Arrive with Rescue Plan",
+      "description": "Just as the situation looks hopeless with Luffy trapped in the Seastone net and the crew surrounded by Marines, Nami and Chopper arrive at Dock 88, guided by Dr. Kobato. They bring with them a secret rescue plan to save their crew and the Going Merry.",
+      "significance": "This cliffhanger ending sets up the next episode and shows that the separated crew members are working together toward their escape. Dr. Kobato's guidance proves invaluable, and Nami's strategic thinking offers hope in a desperate situation.",
+      "characterIds": ["nami", "chopper", "dr-kobato"],
+      "locationIds": ["dock-88"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [197, 198],
+      "payoffInEpisodes": [202],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": ["g8-bridge"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [202, 203],
+    "payoffFrom": [196, 197, 198, 199, 200],
+    "thematicLinks": [196, 197, 198, 199, 200, 202, 203, 204, 205, 206]
+  },
+  "quotes": [
+    {
+      "text": "I'm not Condoriano! I'm Inspector Shepherd from Marine Headquarters!",
+      "speaker": "Shepherd",
+      "context": "Shepherd desperately trying to clear up the mistaken identity",
+      "timestamp": "05:30"
+    },
+    {
+      "text": "Even though you are pirates, you were the ones who helped me see what it truly means to be a doctor. I want to help you find your ship.",
+      "speaker": "Dr. Kobato",
+      "context": "Dr. Kobato explaining why she will help despite her fears",
+      "timestamp": "07:45"
+    },
+    {
+      "text": "We've freed our crewmates, and we're getting out of here!",
+      "speaker": "Luffy",
+      "context": "Luffy's declaration to Vice Admiral Jonathan",
+      "timestamp": "10:20"
+    },
+    {
+      "text": "It's obviously a trap, but who cares? Let's go!",
+      "speaker": "Luffy",
+      "context": "Luffy's response to seeing Unit 55 waiting on the bridge",
+      "timestamp": "14:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Loyalty and Trust",
+      "description": "The episode emphasizes the Straw Hats' unwavering loyalty to each other as they risk everything to free their captured crewmates and reunite. Dr. Kobato's decision to help them despite being a Marine shows that the crew's positive impact transcends enemy lines.",
+      "symbolism": "The bridge represents the connection between separated crew members, and its destruction symbolizes the obstacles they must overcome together.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Strategic Warfare vs. Direct Action",
+      "description": "Vice Admiral Jonathan's tactical approach of setting traps and using specialized units contrasts with Luffy's straightforward style of charging into danger. The episode showcases different philosophies of combat.",
+      "symbolism": "The Seastone net represents knowledge and preparation being used against raw power, showing that even the strongest can be defeated through strategy.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Comedy in Crisis",
+      "description": "Despite the serious situation of being trapped in an enemy base, the episode maintains humor through the Condoriano running gag and the exaggerated Hot-Blooded Special Forces. This balance of tension and comedy is a hallmark of the G-8 Arc.",
+      "symbolism": "The absurdity of Shepherd still being called Condoriano represents how perception can become reality, even when the truth is obvious.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Action-packed", "Comedic", "Suspenseful", "Adventurous"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Leader coordinating the escape",
+      "development": "Luffy demonstrates his typical fearless leadership, directly confronting Jonathan and charging into obvious traps. However, his overconfidence is challenged when the Seastone net neutralizes his powers.",
+      "keyActions": [
+        "Frees Zoro and Usopp from prison with Sanji",
+        "Declares his intention to escape to Vice Admiral Jonathan",
+        "Destroys the bridge during battle with Unit 55",
+        "Gets trapped in Seastone net at Dock 88"
+      ],
+      "quotes": [
+        "We've freed our crewmates, and we're getting out of here!",
+        "It's obviously a trap, but who cares? Let's go!"
+      ]
+    },
+    {
+      "characterId": "dr-kobato",
+      "role": "Unlikely ally who overcomes fear",
+      "development": "Dr. Kobato overcomes her fear of pirates and blood to help Nami and Chopper, showing significant character growth. She recognizes that the Straw Hats taught her important values about being a doctor.",
+      "keyActions": [
+        "Decides to help Nami and Chopper despite her fears",
+        "Leads them toward Dock 88",
+        "Chooses gratitude and moral debt over Marine loyalty"
+      ],
+      "quotes": [
+        "Even though you are pirates, you were the ones who helped me see what it truly means to be a doctor. I want to help you find your ship."
+      ]
+    },
+    {
+      "characterId": "jonathan",
+      "role": "Strategic antagonist",
+      "development": "Jonathan continues to demonstrate his tactical superiority by orchestrating a multi-layered plan involving Unit 55 as a distraction and Drake's ambush at Dock 88 as the real trap.",
+      "keyActions": [
+        "Confronts Luffy from his office balcony",
+        "Deploys Unit 55 as a delaying force",
+        "Coordinates Drake's ambush at Dock 88",
+        "Uses Seastone net to neutralize Luffy"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "shepherd",
+      "role": "Comic relief victim",
+      "development": "Shepherd remains trapped in the mistaken identity as Condoriano, unable to convince anyone of the truth despite his protests.",
+      "keyActions": [
+        "Left behind in prison when Straw Hats escape",
+        "Fails to convince guards of his true identity"
+      ],
+      "quotes": [
+        "I'm not Condoriano! I'm Inspector Shepherd from Marine Headquarters!"
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The entire G-8 Arc is anime-original content and does not appear in the manga. Episode 201 and all events within it are filler created by the anime staff.",
+      "episodeTimestamp": "00:00",
+      "mangaReference": "None - Anime Original",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "The G-8 Arc is widely considered the best filler arc in One Piece, with many fans wishing it were canon. Episode 201 is part of this beloved arc.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://www.cbr.com/most-anime-wish-their-filler-was-as-good-as-one-pieces/",
+          "title": "Most Anime Wish Their Filler Was As Good As One Piece's",
+          "platform": "CBR",
+          "accessedAt": "2025-01-18"
+        }
+      ]
+    },
+    {
+      "fact": "The 'Condoriano' joke that continues in this episode has become a lasting meme in the One Piece community, with fans jokingly calling him 'Con D. Oriano' and claiming he's the secret 10th Straw Hat.",
+      "category": "CULTURAL_IMPACT",
+      "sources": [
+        {
+          "url": "https://www.comingsoon.net/guides/news/1452612-one-piece-who-is-condoriano-g8-arc-meme-explained",
+          "title": "One Piece: Who is Condoriano from the G-8 Arc?",
+          "platform": "ComingSoon",
+          "accessedAt": "2025-01-18"
+        }
+      ]
+    },
+    {
+      "fact": "Vice Admiral Jonathan was voiced by Nobuo Tanaka in Japanese, who portrayed the character across 11 episodes during the G-8 Arc in 2004.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://www.behindthevoiceactors.com/tv-shows/One-Piece/Jonathan/",
+          "title": "Jonathan Voice - One Piece",
+          "platform": "Behind The Voice Actors",
+          "accessedAt": "2025-01-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode originally aired in Japan on September 5, 2004, but didn't air in the US until April 19, 2011, nearly 7 years later.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_201",
+          "title": "Episode 201 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-01-18"
+        }
+      ]
+    },
+    {
+      "fact": "The Hot-Blooded Special Forces (Unit 55) serves as a parody of overly dramatic military units common in anime, with their exaggerated motto 'FEEL THE HOT WIND OF THEIR SOULS!'",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "The episode's TV rating in Japan was 9.4%, ranking 8th in its time slot.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_201",
+          "title": "Episode 201 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-01-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

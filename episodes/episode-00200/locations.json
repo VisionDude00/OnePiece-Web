@@ -1,0 +1,129 @@
+[
+  {
+    "name": {
+      "english": "G-8 Marine Base",
+      "japanese": "G-8支部",
+      "romanized": "G-8 Shibu",
+      "alias": "Navarone"
+    },
+    "locationType": "MARINE_BASE",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Navarone Island",
+    "debutEpisode": 196,
+    "debutChapter": null,
+    "description": "A massive Marine fortress built within a mountain, located between East Blue and South Blue. It is commanded by Vice Admiral Jonathan and is considered one of the most secure Marine bases. The Straw Hats accidentally fall into this base from Skypiea.",
+    "episodeAppearances": [200],
+    "keyEvents": [
+      {
+        "episodeNumber": 200,
+        "eventId": "ep200-event-004",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Luffy and Sanji Infiltrate Through Vents",
+        "description": "Luffy and Sanji crawl through the base's ventilation system in a Die Hard-style infiltration to reach the brig.",
+        "significance": "Shows the base's complex internal structure and the crew's determination to navigate it.",
+        "timestamp": "08:00"
+      },
+      {
+        "episodeNumber": 200,
+        "eventId": "ep200-event-006",
+        "eventType": "MAJOR_DECISION",
+        "title": "Jonathan's Trap",
+        "description": "Vice Admiral Jonathan sets up a trap for the Straw Hats, using the base's layout and security features to his advantage.",
+        "significance": "Demonstrates the strategic importance and defensive capabilities of the G-8 base.",
+        "timestamp": "14:15"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 196,
+        "episodeEnd": "present",
+        "reason": "The base remains operational throughout the G-8 Arc"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["g8-brig"],
+    "relatedCharacters": ["jonathan", "drake", "jessica", "luffy", "zoro", "sanji", "usopp", "robin", "nami", "chopper"],
+    "relatedCrews": ["straw-hat-pirates", "marines"],
+    "relatedArcs": ["G-8 Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "G-8 Brig",
+      "japanese": "G-8営倉",
+      "romanized": "G-8 Eirō",
+      "alias": "G-8 Prison"
+    },
+    "locationType": "PRISON",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Navarone Island",
+    "debutEpisode": 197,
+    "debutChapter": null,
+    "description": "The prison facility within the G-8 Marine Base, featuring cells with Seastone bars to contain Devil Fruit users. It is surrounded by water and designed as a trap to catch would-be rescuers.",
+    "episodeAppearances": [200],
+    "keyEvents": [
+      {
+        "episodeNumber": 200,
+        "eventId": "ep200-event-001",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Shepherd Thrown in the Brig",
+        "description": "Inspector Shepherd is mistakenly imprisoned here with Zoro and Usopp, setting up the famous Condoriano scene.",
+        "significance": "The brig becomes the location of one of the most memorable comedic moments in One Piece filler content.",
+        "timestamp": "03:15"
+      },
+      {
+        "episodeNumber": 200,
+        "eventId": "ep200-event-002",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "The Birth of Condoriano",
+        "description": "Within this cell, Usopp creates the legendary 'Condoriano' lie, claiming Shepherd is their crewmate.",
+        "significance": "This location becomes famous in One Piece fandom as the birthplace of the Condoriano meme.",
+        "timestamp": "05:30"
+      },
+      {
+        "episodeNumber": 200,
+        "eventId": "ep200-event-007",
+        "eventType": "WORLD_LORE",
+        "title": "Seastone Bars Discovery",
+        "description": "Luffy and Sanji discover that the prison bars are made of Seastone, rendering Luffy's Devil Fruit powers useless and making the bars nearly indestructible.",
+        "significance": "Demonstrates the Marines' strategic use of Seastone in their prison facilities and the effective countermeasure against Devil Fruit users.",
+        "timestamp": "16:30"
+      },
+      {
+        "episodeNumber": 200,
+        "eventId": "ep200-event-008",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "The Dial Mix-Up",
+        "description": "The comedic dial mix-up scene occurs here, with Usopp passing wrong dials to Sanji through the cell bars.",
+        "significance": "A memorable comedic moment showing the crew's imperfect coordination under pressure.",
+        "timestamp": "18:45"
+      },
+      {
+        "episodeNumber": 200,
+        "eventId": "ep200-event-009",
+        "eventType": "BATTLE_START",
+        "title": "Escape Using Impact Dial",
+        "description": "The Straw Hats finally use the Impact Dial to create an explosion and escape from the brig.",
+        "significance": "Shows the crew's creative problem-solving and use of Skypiea technology.",
+        "timestamp": "20:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 197,
+        "episodeEnd": "present",
+        "reason": "The brig remains operational as a prison facility"
+      }
+    ],
+    "parentLocation": "g8-base",
+    "childLocations": [],
+    "relatedCharacters": ["shepherd", "zoro", "usopp", "luffy", "sanji"],
+    "relatedCrews": ["straw-hat-pirates", "marines"],
+    "relatedArcs": ["G-8 Arc"],
+    "images": []
+  }
+]

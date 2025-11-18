@@ -1,0 +1,204 @@
+[
+  {
+    "name": {
+      "english": "G-8 Dock 88",
+      "japanese": "G-8 ドック88",
+      "romanized": "G-8 Dokku 88"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "PARADISE",
+    "islandName": "Navarone",
+    "debutEpisode": 196,
+    "debutChapter": null,
+    "description": "Dock 88 is the shipyard area within the G-8 Marine fortress where the Going Merry was being held. This is where the climactic escape sequence begins as the Straw Hats stage their hostage ruse to board their ship.",
+    "episodeAppearances": [202],
+    "keyEvents": [
+      {
+        "episodeNumber": 202,
+        "eventId": "ep202-event-001",
+        "eventType": "BATTLE_START",
+        "title": "Marines Bombard Luffy's Group",
+        "description": "Drake's marines attack Luffy's group at the dock with gunfire and flash bombs.",
+        "significance": "Beginning of the final confrontation at the dock.",
+        "timestamp": "04:30"
+      },
+      {
+        "episodeNumber": 202,
+        "eventId": "ep202-event-005",
+        "eventType": "MAJOR_DECISION",
+        "title": "The Hostage Ruse",
+        "description": "The crew stages a fake hostage situation with Chopper as the 'ferocious madman' holding Nami and Dr. Kobato hostage.",
+        "significance": "The clever deception that allows the crew to board the Going Merry.",
+        "timestamp": "12:45"
+      },
+      {
+        "episodeNumber": 202,
+        "eventId": "ep202-event-007",
+        "eventType": "MAJOR_DECISION",
+        "title": "Mekao Releases the Going Merry",
+        "description": "Mekao helps the pirates by releasing the Going Merry from the dock into the bay.",
+        "significance": "Enables the crew's escape from the fortress.",
+        "timestamp": "16:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 196,
+        "episodeEnd": 206,
+        "reason": "Functional Marine dock within the G-8 fortress"
+      }
+    ],
+    "parentLocation": "g8-fortress",
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "drake", "mekao", "dr-kobato"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["G-8"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "G-8 Library",
+      "japanese": "G-8 図書館",
+      "romanized": "G-8 Toshokan"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "PARADISE",
+    "islandName": "Navarone",
+    "debutEpisode": 200,
+    "debutChapter": null,
+    "description": "The library within the G-8 Marine fortress where Robin conducted research and obtained a map of the base before escaping to rejoin the crew.",
+    "episodeAppearances": [202],
+    "keyEvents": [
+      {
+        "episodeNumber": 202,
+        "eventId": "ep202-event-009",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Robin's Escape from the Library",
+        "description": "Robin finishes her research, obtains a map of the fortress, subdues Marines, and escapes from the library.",
+        "significance": "Robin gathers valuable intelligence that aids the crew's escape.",
+        "timestamp": "19:15"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 200,
+        "episodeEnd": 206,
+        "reason": "Functional library within the G-8 fortress"
+      }
+    ],
+    "parentLocation": "g8-fortress",
+    "childLocations": [],
+    "relatedCharacters": ["robin"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["G-8"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "G-8 Sea Gate",
+      "japanese": "G-8 海門",
+      "romanized": "G-8 Kaimon"
+    },
+    "locationType": "STRUCTURE",
+    "seaRegion": "PARADISE",
+    "islandName": "Navarone",
+    "debutEpisode": 196,
+    "debutChapter": null,
+    "description": "The massive gate that controls access to and from the G-8 Marine fortress by sea. The gate must be opened or destroyed for ships to enter or exit the fortress.",
+    "episodeAppearances": [202],
+    "keyEvents": [
+      {
+        "episodeNumber": 202,
+        "eventId": "ep202-event-012",
+        "eventType": "TECHNIQUE_DEBUT",
+        "title": "Luffy Redirects Cannon Fire",
+        "description": "Luffy uses Gomu Gomu no Fusen to catch cannonballs and redirect them at the sea gate, destroying it.",
+        "significance": "Destruction of the gate creates the escape route for the Going Merry.",
+        "timestamp": "22:45"
+      }
+    ],
+    "status": "DESTROYED",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 196,
+        "episodeEnd": 202,
+        "reason": "Functional gate controlling sea access"
+      },
+      {
+        "status": "DESTROYED",
+        "episodeStart": 202,
+        "episodeEnd": 206,
+        "reason": "Destroyed by Luffy's redirected cannonballs during the escape"
+      }
+    ],
+    "parentLocation": "g8-fortress",
+    "childLocations": [],
+    "relatedCharacters": ["luffy"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["G-8"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Going Merry",
+      "japanese": "ゴーイングメリー号",
+      "romanized": "Gōingu Merī Gō"
+    },
+    "locationType": "SHIP",
+    "seaRegion": "PARADISE",
+    "islandName": null,
+    "debutEpisode": 17,
+    "debutChapter": 41,
+    "description": "The Straw Hat Pirates' first ship, a caravel gifted to them by Kaya. In this episode, the crew successfully recovers the Going Merry from G-8 custody and escapes the fortress.",
+    "episodeAppearances": [202],
+    "keyEvents": [
+      {
+        "episodeNumber": 202,
+        "eventId": "ep202-event-008",
+        "eventType": "LOCATION_DEPARTURE",
+        "title": "The Crew Boards the Going Merry",
+        "description": "The Straw Hat crew successfully boards the Going Merry after the hostage ruse and prepares to escape.",
+        "significance": "Reunites the crew with their beloved ship.",
+        "timestamp": "17:30"
+      },
+      {
+        "episodeNumber": 202,
+        "eventId": "ep202-event-010",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Robin Rejoins the Crew",
+        "description": "Robin swings onto the Going Merry from the G-8 base, completing the crew reunion.",
+        "significance": "All crew members are now together on their ship.",
+        "timestamp": "20:45"
+      },
+      {
+        "episodeNumber": 202,
+        "eventId": "ep202-event-013",
+        "eventType": "LOCATION_DEPARTURE",
+        "title": "Escape from the G-8 Fortress",
+        "description": "The Going Merry sails through the destroyed sea gate and escapes from G-8.",
+        "significance": "Successful conclusion of the G-8 arc's main conflict.",
+        "timestamp": "23:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 17,
+        "episodeEnd": "present",
+        "reason": "Operational ship of the Straw Hat Pirates"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["G-8"],
+    "images": []
+  }
+]
