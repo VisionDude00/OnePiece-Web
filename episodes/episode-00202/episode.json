@@ -1,0 +1,525 @@
+{
+  "episodeNumber": 202,
+  "episodeTitle": "Breaking Through the Siege! The Going Merry is Recovered!",
+  "episodeTitleJapanese": "包囲網突破！奪還ゴーイングメリー号",
+  "episodeTitleRomanized": "Hōimō Toppa! Dakkan Gōingu Merī gō",
+  "description": "The Straw Hat crew reunites at Dock 88 while surrounded by Marines. Using Chopper and Nami in a clever hostage ruse, they trick the Marines into letting them board the Going Merry. Robin escapes from the base library with a map and rejoins the crew. Luffy uses his Gomu Gomu no Fusen ability to redirect cannon fire at the sea gate, allowing the crew to escape the G-8 fortress.",
+  "airDate": "2004-09-12",
+  "airDateJapan": "2004-09-12",
+  "airDateUS": "2011-04-19",
+  "airDateUSFunimation": "2011-04-19",
+  "arcName": "G-8",
+  "sagaName": "Sky Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "BON VOYAGE!",
+    "titleJapanese": "BON VOYAGE!",
+    "artist": "Bon-Bon Blanco",
+    "composer": "KOHSUKE OSHIMA",
+    "lyricist": "PANINARO 30",
+    "episodeRange": [169, 206]
+  },
+  "endingSong": {
+    "title": "Dreamship",
+    "titleJapanese": "Dreamship",
+    "artist": "Aiko Ikuta",
+    "composer": "ACKO",
+    "lyricist": "Aiko Ikuta",
+    "episodeRange": [196, 206]
+  },
+  "credits": {
+    "director": "Kōnosuke Uda",
+    "screenplay": "Yoshiyuki Suga",
+    "artDirector": "Miyuki Sato, Kunihiro Chida",
+    "animationDirector": "Noboru Koizumi",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Ōtani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Vice Admiral Jonathan",
+        "actor": "Masaru Ikeda"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Vice Admiral Jonathan",
+        "actor": "John Swasey"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep202-event-001",
+      "episodeNumber": 202,
+      "timestamp": "04:30",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Marines Bombard Luffy's Group",
+      "description": "Drake's marine unit opens fire on Luffy's group with gunfire, but Luffy easily repels the bullets using his rubber body. The Marines then switch to flash bombs to blind and disorient the Straw Hats.",
+      "significance": "Demonstrates the Marines' tactical approach and sets up the escalating conflict at the dock.",
+      "characterIds": ["luffy", "zoro", "sanji", "drake"],
+      "locationIds": ["g8-dock-88"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [196, 197, 198, 199, 200, 201],
+      "payoffInEpisodes": [203],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep202-event-002",
+      "episodeNumber": 202,
+      "timestamp": "06:15",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Marine Sword Unit Attacks",
+      "description": "While the Straw Hats are still recovering from the effects of the flash bombs, Drake orders his Sword Unit to attack. The crew manages to fight off the attackers despite their temporary blindness.",
+      "significance": "Shows the crew's combat capabilities even when at a disadvantage.",
+      "characterIds": ["luffy", "zoro", "sanji", "drake"],
+      "locationIds": ["g8-dock-88"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [201],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep202-event-003",
+      "episodeNumber": 202,
+      "timestamp": "08:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Luffy Captured by Seastone Net",
+      "description": "The Marines deploy a Seastone net that successfully traps Luffy, instantly incapacitating him due to the Devil Fruit user's weakness to Seastone. This puts the crew at a severe disadvantage.",
+      "significance": "Demonstrates the Marines' knowledge of Devil Fruit weaknesses and creates a crisis for the Straw Hats.",
+      "characterIds": ["luffy", "drake"],
+      "locationIds": ["g8-dock-88"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep202-event-004",
+      "episodeNumber": 202,
+      "timestamp": "10:20",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Nami's Group Arrives at Dock 88",
+      "description": "Nami, Chopper, and Dr. Kobato arrive at Dock 88 where the Going Merry is docked. They find the rest of the crew surrounded by Marines and Luffy incapacitated by the Seastone net.",
+      "significance": "Reunites key members of the crew and sets up the hostage ruse plan.",
+      "characterIds": ["nami", "chopper", "dr-kobato"],
+      "locationIds": ["g8-dock-88"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [201],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep202-event-005",
+      "episodeNumber": 202,
+      "timestamp": "12:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "The Hostage Ruse",
+      "description": "Chopper transforms into his Heavy Point form and, along with the crew, stages a fake hostage situation with Nami and Dr. Kobato as 'hostages.' Chopper declares himself 'the Strawhats' most ferocious madman!' and threatens the hostages convincingly. The Marines, fearing for Dr. Kobato's safety, are forced to back down.",
+      "significance": "Demonstrates the crew's quick thinking and Chopper's acting abilities. This clever deception allows them to board the Going Merry. One of the arc's most memorable comedic moments.",
+      "characterIds": ["chopper", "nami", "dr-kobato", "luffy", "zoro", "sanji", "usopp", "drake"],
+      "locationIds": ["g8-dock-88"],
+      "quotes": [
+        {
+          "text": "I am the Strawhats' most ferocious madman!",
+          "speaker": "Chopper",
+          "context": "Chopper's Oscar-worthy performance during the fake hostage ruse"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep202-event-006",
+      "episodeNumber": 202,
+      "timestamp": "14:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Zoro Unaffected by Tear Gas",
+      "description": "During the confrontation, Zoro shows no reaction to tear gas, leading to humorous speculation about whether he's even capable of crying due to his stoic nature.",
+      "significance": "A comedic character moment that highlights Zoro's tough-guy persona.",
+      "characterIds": ["zoro"],
+      "locationIds": ["g8-dock-88"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep202-event-007",
+      "episodeNumber": 202,
+      "timestamp": "16:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Mekao Releases the Going Merry",
+      "description": "Mekao, the shipwright, convinced by Usopp's diplomatic skills and concerned for his daughter Dr. Kobato's safety, helps the pirates by releasing the Going Merry from the dock into the bay. This allows the crew to begin their escape.",
+      "significance": "Shows Usopp's value to the crew through his social skills and ability to make friends. Also demonstrates that not all Marines are enemies.",
+      "characterIds": ["usopp", "mekao", "dr-kobato"],
+      "locationIds": ["g8-dock-88"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [199, 200, 201],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep202-event-008",
+      "episodeNumber": 202,
+      "timestamp": "17:30",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MINOR",
+      "title": "The Crew Boards the Going Merry",
+      "description": "With the hostage ruse successful and Mekao's help, the Straw Hat crew boards the Going Merry. They release their 'hostages' safely and prepare to escape from the G-8 fortress.",
+      "significance": "Marks the crew's reunion with their beloved ship and begins the escape sequence.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper"],
+      "locationIds": ["g8-dock-88", "going-merry"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [196, 197, 198, 199, 200, 201],
+      "payoffInEpisodes": [203],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep202-event-009",
+      "episodeNumber": 202,
+      "timestamp": "19:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Robin's Escape from the Library",
+      "description": "Inside the G-8 base, Robin finishes researching in the library and obtains a map of the fortress. When confronted by Marines, she easily subdues them using her Devil Fruit powers and makes her escape toward the ship.",
+      "significance": "Shows Robin's independent capabilities and strategic thinking in gathering intelligence.",
+      "characterIds": ["robin"],
+      "locationIds": ["g8-library"],
+      "devilFruitIds": ["hana-hana-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [200, 201],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep202-event-010",
+      "episodeNumber": 202,
+      "timestamp": "20:45",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Robin Rejoins the Crew",
+      "description": "Robin swings from the G-8 base onto the Going Merry using a rope, casually rejoining her crewmates. She presents the map she obtained from the library, much to the crew's relief and amusement.",
+      "significance": "Completes the crew reunion and provides them with valuable intelligence for their escape. Robin's casual demeanor contrasts with the tense situation.",
+      "characterIds": ["robin", "luffy", "zoro", "nami", "usopp", "sanji", "chopper"],
+      "locationIds": ["going-merry"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [200, 201],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep202-event-011",
+      "episodeNumber": 202,
+      "timestamp": "21:30",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "The Escape Through Cannon Fire",
+      "description": "As the Going Merry sails toward the sea gate, the G-8 Marines bombard the ship with cannon fire. The crew must navigate through the barrage while Commander Jonathan orchestrates the defense from his command post.",
+      "significance": "Escalates the tension and demonstrates Commander Jonathan's tactical prowess even as the Straw Hats escape.",
+      "characterIds": ["luffy", "nami", "jonathan"],
+      "locationIds": ["going-merry", "g8-bay"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep202-event-012",
+      "episodeNumber": 202,
+      "timestamp": "22:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Luffy Redirects Cannon Fire with Gomu Gomu no Fusen",
+      "description": "Luffy devises a brilliant plan and uses his Gomu Gomu no Fusen (Balloon) ability to catch all the cannonballs fired at the Going Merry. He then redirects them back toward the sea gate, destroying it and creating an escape route.",
+      "significance": "Demonstrates Luffy's creative use of his Devil Fruit abilities in non-combat situations and his strategic thinking under pressure.",
+      "characterIds": ["luffy"],
+      "locationIds": ["going-merry", "g8-sea-gate"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep202-event-013",
+      "episodeNumber": 202,
+      "timestamp": "23:30",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MAJOR",
+      "title": "Escape from the G-8 Fortress",
+      "description": "With the sea gate destroyed, the Going Merry sails through the opening and escapes from the G-8 Marine fortress. The Straw Hat Pirates successfully break through the siege and return to the open sea.",
+      "significance": "Marks the successful conclusion of the crew's infiltration and escape from the heavily fortified Marine base. This event concludes the G-8 filler arc's main conflict.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin"],
+      "locationIds": ["going-merry", "g8-fortress"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [196, 197, 198, 199, 200, 201],
+      "payoffInEpisodes": [203],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep202-event-014",
+      "episodeNumber": 202,
+      "timestamp": "24:00",
+      "eventType": "TREASURE_DISCOVERY",
+      "severity": "MINOR",
+      "title": "The Missing Skypiea Treasure",
+      "description": "As they escape, Nami suddenly realizes that if the Marines confiscated all their supplies and cannonballs, they must have also taken the treasure they collected from Skypiea. This revelation sets up the next episode's conflict.",
+      "significance": "Creates a cliffhanger and motivation for the crew to take further action before completely leaving G-8.",
+      "characterIds": ["nami"],
+      "locationIds": ["going-merry"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [195],
+      "payoffInEpisodes": [203],
+      "callbacksToEpisodes": [195]
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [203],
+    "payoffFrom": [196, 197, 198, 199, 200, 201],
+    "thematicLinks": [196, 197, 198, 199, 200, 201, 203, 204, 205, 206]
+  },
+  "quotes": [
+    {
+      "text": "I am the Strawhats' most ferocious madman!",
+      "speaker": "Chopper",
+      "context": "Chopper's memorable line during the fake hostage ruse",
+      "timestamp": "12:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Teamwork and Trust",
+      "description": "The episode showcases how the Straw Hat crew works together seamlessly, with each member contributing their unique skills to the escape plan. From Chopper's acting to Usopp's diplomacy to Luffy's strategic thinking, everyone plays a crucial role.",
+      "symbolism": "The Going Merry represents the crew's unity and their home, making its recovery symbolic of keeping the team together.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Intelligence Over Brute Force",
+      "description": "Rather than fighting their way out, the crew uses clever deception and strategy to reclaim their ship and escape. This demonstrates that strength isn't always about combat power.",
+      "symbolism": "The hostage ruse symbolizes the crew's ability to think creatively under pressure.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Humanity of Enemies",
+      "description": "The Marines in the G-8 arc, particularly characters like Mekao and Dr. Kobato, are shown as human beings with families and concerns, not just faceless enemies. This nuanced portrayal adds depth to the One Piece world.",
+      "symbolism": "Mekao helping the pirates despite being a Marine shipwright shows that morality transcends organizational boundaries.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Comedic", "Tense", "Adventurous", "Triumphant"],
+  "characterSpotlights": [
+    {
+      "characterId": "chopper",
+      "role": "Comic relief and key player",
+      "development": "Chopper demonstrates his acting abilities and willingness to play a threatening role despite his cute appearance. His 'Oscar-worthy' performance as a dangerous pirate is both hilarious and effective.",
+      "keyActions": [
+        "Transforms into Heavy Point",
+        "Performs convincing hostage threat",
+        "Helps the crew board the Going Merry"
+      ],
+      "quotes": [
+        "I am the Strawhats' most ferocious madman!"
+      ]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Strategic leader",
+      "development": "Despite being incapacitated by Seastone early in the episode, Luffy recovers and demonstrates creative problem-solving by using his Devil Fruit powers to redirect cannonballs and destroy the sea gate.",
+      "keyActions": [
+        "Gets trapped by Seastone net",
+        "Recovers and joins the crew on the Merry",
+        "Uses Gomu Gomu no Fusen to catch and redirect cannonballs",
+        "Destroys the sea gate to create an escape route"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "usopp",
+      "role": "Diplomat",
+      "development": "Usopp's social skills and ability to befriend people shine as he convinces Mekao the shipwright to help release the Going Merry, demonstrating his value beyond combat.",
+      "keyActions": [
+        "Convinces Mekao to help release the Going Merry",
+        "Participates in the hostage ruse"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "nami",
+      "role": "Strategist and navigator",
+      "development": "Nami participates in the hostage ruse and demonstrates her leadership qualities and strategic thinking. She also maintains awareness of their supplies and treasure.",
+      "keyActions": [
+        "Acts as fake hostage in the ruse",
+        "Realizes the Skypiea treasure was taken by Marines",
+        "Helps navigate the escape"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "robin",
+      "role": "Intelligence gatherer",
+      "development": "Robin works independently to gather intelligence from the G-8 library, demonstrating her strategic value and combat capabilities when confronting Marines.",
+      "keyActions": [
+        "Researches in the G-8 library",
+        "Obtains a map of the fortress",
+        "Subdues Marines who confront her",
+        "Swings onto the Going Merry to rejoin the crew"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "zoro",
+      "role": "Fighter",
+      "development": "Zoro shows his tough nature by being unaffected by tear gas and helps fight off the Marine Sword Unit. A humorous moment highlights his stoic personality.",
+      "keyActions": [
+        "Fights off Marines despite flash bomb effects",
+        "Shows no reaction to tear gas",
+        "Applauds Chopper's acting performance"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The entire G-8 arc is anime-original filler content that does not appear in the manga. After leaving Skypiea in the manga, the crew heads directly toward Water 7/Long Ring Long Land.",
+      "episodeTimestamp": "00:00",
+      "mangaReference": "N/A - Anime original",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "The G-8 arc is widely considered the best filler arc in One Piece and one of the best filler arcs in all of anime. Many fans wish it were canon.",
+      "category": "CULTURAL_IMPACT",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/G-8_Arc",
+          "title": "G-8 Arc - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Director Kōnosuke Uda revealed in 2019 that the G-8 arc was originally conceived as a theatrical film plot.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/G-8_Arc",
+          "title": "G-8 Arc - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The ending theme 'Dreamship' is the only One Piece ending song to be used exclusively during a filler arc.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Dreamship",
+          "title": "Dreamship - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Chopper's line 'I am the Strawhats' most ferocious madman!' during the hostage ruse has become one of the most memorable comedic moments from the G-8 arc.",
+      "category": "CULTURAL_IMPACT",
+      "sources": []
+    },
+    {
+      "fact": "This episode features one of the few instances where the crew successfully uses deception rather than combat as their primary escape method.",
+      "category": "STORY",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

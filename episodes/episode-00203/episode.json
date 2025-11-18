@@ -1,0 +1,480 @@
+{
+  "episodeNumber": 203,
+  "episodeTitle": "The Missing Pirate Ship! 2nd Round Assault on the Fortress",
+  "episodeTitleJapanese": "消えた海賊船！要塞攻防第2ラウンド",
+  "episodeTitleRomanized": "Kieta kaizokusen! Yōsai kōbō Dai ni Raundo",
+  "description": "The Straw Hats disguise the Going Merry as a Marine vessel to retrieve their confiscated Skypiea treasure from G-8 base. Nami navigates using ship bells while Robin identifies safe docking locations. The crew reflects on their memories with the Merry and makes a crucial decision to hire a shipwright.",
+  "airDate": "2004-09-19",
+  "airDateJapan": "2004-09-19",
+  "airDateUS": "2011-04-19",
+  "arcName": "G-8 Arc",
+  "sagaName": "Water 7 Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "BON VOYAGE!",
+    "artist": "Bon-Bon Blanco",
+    "episodeRange": [197, 206]
+  },
+  "endingSong": {
+    "title": "Dreamship",
+    "artist": "Aiko Ikuta",
+    "episodeRange": [195, 206]
+  },
+  "credits": {
+    "animationDirector": "Hiroyuki Kakudō",
+    "keyAnimators": ["Takeo Ide"],
+    "screenplay": "Junki Takegami",
+    "artDirector": ["Miyuki Sato", "Kumiko Fukuzawa"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Vice Admiral Jonathan",
+        "actor": "Koichi Hashimoto"
+      },
+      {
+        "character": "Jessica",
+        "actor": "Mie Sonozaki"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Vice Admiral Jonathan",
+        "actor": "Mark Stoddard"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep203-event-001",
+      "episodeNumber": 203,
+      "timestamp": "03:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Luffy Proposes Hiding Among Navy Ships",
+      "description": "Luffy seriously suggests disguising the Going Merry and hiding it among other Navy vessels at G-8 base. The crew agrees this is their best strategy to recover their treasure and escape.",
+      "significance": "Shows Luffy's strategic thinking and sets up the main plot of the episode. This disguise plan becomes central to the crew's infiltration strategy.",
+      "characterIds": ["luffy", "nami", "usopp", "zoro", "sanji", "robin", "chopper"],
+      "locationIds": ["navarone-g8"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "Let's hide the ship among the other Navy ships so they won't notice it!",
+          "speaker": "Luffy",
+          "context": "Proposing the disguise strategy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [196, 197, 198, 199, 200, 201, 202],
+      "payoffInEpisodes": [204, 205, 206],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep203-event-002",
+      "episodeNumber": 203,
+      "timestamp": "05:40",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Usopp Disguises the Going Merry",
+      "description": "Usopp uses scrap materials and junk found in the dock to transform the Going Merry's appearance into a convincing Marine vessel, complete with fake cannons and naval insignia.",
+      "significance": "Demonstrates Usopp's craftsman skills and creativity. This disguise is crucial for the crew's infiltration plan and shows his value to the crew beyond combat.",
+      "characterIds": ["usopp", "luffy", "nami"],
+      "locationIds": ["navarone-g8", "going-merry"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [203, 204],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep203-event-003",
+      "episodeNumber": 203,
+      "timestamp": "08:20",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Nami's Navigation by Sound",
+      "description": "Nami uses her exceptional navigation skills to guide the Going Merry through the fog by listening to the bells of Navy ships, calculating their positions to avoid detection.",
+      "significance": "Showcases Nami's navigational expertise and sensory abilities. Her skills allow the crew to move undetected through the heavily patrolled waters of G-8.",
+      "characterIds": ["nami", "luffy", "usopp"],
+      "locationIds": ["navarone-g8"],
+      "quotes": [
+        {
+          "text": "I can use the sounds of the Navy ship bells to detect where they are so the Going Merry can sail around them without crashing.",
+          "speaker": "Nami",
+          "context": "Explaining her navigation strategy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [203],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep203-event-004",
+      "episodeNumber": 203,
+      "timestamp": "11:05",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Robin Identifies Safe Docking Location",
+      "description": "Robin uses her knowledge and observation to identify empty docks within the G-8 base, explaining that budget constraints have left certain areas unmanned and perfect for hiding the Merry.",
+      "significance": "Demonstrates Robin's intelligence and analytical abilities. Her insight provides the crew with a safe haven within enemy territory.",
+      "characterIds": ["robin", "nami", "luffy"],
+      "locationIds": ["navarone-g8"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [203, 204],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep203-event-005",
+      "episodeNumber": 203,
+      "timestamp": "13:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Crew Decides to Hire a Shipwright",
+      "description": "After reflecting on all their adventures with the Going Merry, the Straw Hats make a crucial decision to allocate 80% of their Skypiea gold toward hiring a professional shipwright. They acknowledge that while Usopp has done his best, the Merry needs expert repairs.",
+      "significance": "This is a CANON scene from Chapter 303. This decision directly sets up the Water 7 arc and the eventual recruitment of Franky. It shows the crew's maturity in recognizing their limitations and the importance of properly maintaining their ship.",
+      "characterIds": ["luffy", "nami", "usopp", "zoro", "sanji", "robin", "chopper"],
+      "locationIds": ["going-merry", "navarone-g8"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "We should save 80% to pay a shipwright to repair the Going Merry properly.",
+          "speaker": "Nami",
+          "context": "Proposing budget allocation for ship repairs"
+        },
+        {
+          "text": "I'm a sniper, not a shipwright. The Merry deserves someone who really knows what they're doing.",
+          "speaker": "Usopp",
+          "context": "Acknowledging his limitations in ship repair"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [195, 196],
+      "payoffInEpisodes": [227, 228, 229, 230, 323, 324, 325],
+      "callbacksToEpisodes": [17, 37, 44, 45]
+    },
+    {
+      "id": "ep203-event-006",
+      "episodeNumber": 203,
+      "timestamp": "14:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MINOR",
+      "title": "Flashback: Usopp Joins the Crew",
+      "description": "The crew reminisces about the moment Usopp was invited to set sail with them aboard the Going Merry, leaving his village behind to pursue adventure.",
+      "significance": "Reinforces the emotional bond between the crew and their ship. These flashbacks build toward the eventual emotional weight of the Merry's fate in Water 7.",
+      "characterIds": ["usopp", "luffy", "nami", "zoro"],
+      "locationIds": ["going-merry"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [312],
+      "callbacksToEpisodes": [17]
+    },
+    {
+      "id": "ep203-event-007",
+      "episodeNumber": 203,
+      "timestamp": "15:45",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MINOR",
+      "title": "Flashback: Nami's Departure from Home",
+      "description": "The crew recalls Nami officially joining them and leaving her home village aboard the Going Merry after the defeat of Arlong.",
+      "significance": "Highlights the Going Merry as the vessel that represents freedom and new beginnings for each crew member. Emphasizes Nami's journey from prisoner to free pirate.",
+      "characterIds": ["nami", "luffy", "zoro", "usopp", "sanji"],
+      "locationIds": ["going-merry"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [312],
+      "callbacksToEpisodes": [44, 45]
+    },
+    {
+      "id": "ep203-event-008",
+      "episodeNumber": 203,
+      "timestamp": "16:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MINOR",
+      "title": "Flashback: Sailing Up Reverse Mountain",
+      "description": "The crew remembers their thrilling entry into the Grand Line aboard the Going Merry, successfully navigating the dangerous Reverse Mountain.",
+      "significance": "Commemorates one of the Going Merry's greatest achievements and the crew's official entry into the Grand Line. Shows how far they've come together.",
+      "characterIds": ["luffy", "nami", "zoro", "usopp", "sanji"],
+      "locationIds": ["going-merry", "reverse-mountain"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [312],
+      "callbacksToEpisodes": [62, 63]
+    },
+    {
+      "id": "ep203-event-009",
+      "episodeNumber": 203,
+      "timestamp": "17:50",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MINOR",
+      "title": "Flashback: Entering Skypiea",
+      "description": "The crew fondly recalls the Going Merry's incredible journey riding the Knock Up Stream to reach the Sky Island of Skypiea.",
+      "significance": "Highlights one of the Going Merry's most impossible feats, emphasizing the ship's resilience and the crew's trust in their vessel through impossible odds.",
+      "characterIds": ["luffy", "nami", "zoro", "usopp", "sanji", "robin", "chopper"],
+      "locationIds": ["going-merry", "skypiea"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [312],
+      "callbacksToEpisodes": [153, 154, 155]
+    },
+    {
+      "id": "ep203-event-010",
+      "episodeNumber": 203,
+      "timestamp": "19:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Crew Splits Into Two Teams",
+      "description": "The Straw Hats divide into two groups: one team will recover the confiscated Skypiea treasure while the other will retrieve Nami's Waver from the base.",
+      "significance": "Sets up the action sequences for the following episodes. Shows the crew's ability to coordinate complex multi-objective operations.",
+      "characterIds": ["luffy", "nami", "zoro", "usopp", "sanji", "robin", "chopper"],
+      "locationIds": ["navarone-g8"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [202],
+      "payoffInEpisodes": [204, 205],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep203-event-011",
+      "episodeNumber": 203,
+      "timestamp": "21:15",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Jonathan's Strategic Planning",
+      "description": "Vice Admiral Jonathan continues to anticipate the Straw Hats' moves, demonstrating his exceptional tactical mind. He has already prepared for their attempt to reclaim their treasure.",
+      "significance": "Establishes Jonathan as a formidable non-combat antagonist who relies on intelligence over brute force. Shows that the Marines can be clever and strategic opponents.",
+      "characterIds": ["jonathan", "drake", "shepherd"],
+      "locationIds": ["navarone-g8"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [196, 197, 198, 199, 200, 201, 202],
+      "payoffInEpisodes": [204, 205, 206],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [204, 205, 206],
+    "payoffFrom": [196, 197, 198, 199, 200, 201, 202],
+    "thematicLinks": [312]
+  },
+  "quotes": [
+    {
+      "text": "Let's hide the ship among the other Navy ships so they won't notice it!",
+      "speaker": "Luffy",
+      "context": "Proposing the disguise strategy to infiltrate G-8",
+      "timestamp": "03:15"
+    },
+    {
+      "text": "I can use the sounds of the Navy ship bells to detect where they are so the Going Merry can sail around them without crashing.",
+      "speaker": "Nami",
+      "context": "Explaining her navigation technique in the fog",
+      "timestamp": "08:20"
+    },
+    {
+      "text": "We should save 80% to pay a shipwright to repair the Going Merry properly.",
+      "speaker": "Nami",
+      "context": "Discussing how to allocate their Skypiea treasure",
+      "timestamp": "13:00"
+    },
+    {
+      "text": "I'm a sniper, not a shipwright. The Merry deserves someone who really knows what they're doing.",
+      "speaker": "Usopp",
+      "context": "Acknowledging the need for a professional shipwright",
+      "timestamp": "13:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Nostalgia and Sentimentality",
+      "description": "The episode focuses heavily on the crew's emotional connection to the Going Merry through flashbacks, highlighting their shared memories and adventures.",
+      "symbolism": "The Going Merry represents more than just transportation—it's their home, witness to their journey, and a crew member in spirit.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Growth and Responsibility",
+      "description": "The crew's decision to hire a professional shipwright shows their maturity and recognition that love alone isn't enough—proper care requires expertise.",
+      "symbolism": "Acknowledging limitations and seeking help represents the crew's evolution from amateur pirates to serious adventurers.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Strategy Over Strength",
+      "description": "Both the Straw Hats and Jonathan rely on clever tactics, disguises, and planning rather than direct confrontation.",
+      "symbolism": "The disguised Merry represents the power of deception and intelligence in achieving goals.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Nostalgic", "Strategic", "Adventurous", "Bittersweet"],
+  "characterSpotlights": [
+    {
+      "characterId": "nami",
+      "role": "Strategic Navigator",
+      "development": "Demonstrates her exceptional navigation skills and financial planning, guiding the crew both literally and figuratively.",
+      "keyActions": [
+        "Navigates by sound through fog",
+        "Proposes 80% budget allocation for shipwright",
+        "Leads strategic planning"
+      ],
+      "quotes": ["I can use the sounds of the Navy ship bells to detect where they are so the Going Merry can sail around them without crashing.", "We should save 80% to pay a shipwright to repair the Going Merry properly."]
+    },
+    {
+      "characterId": "usopp",
+      "role": "Ship Craftsman",
+      "development": "Shows both his craftsmanship in disguising the Merry and his maturity in acknowledging the need for a real shipwright.",
+      "keyActions": [
+        "Creates convincing Marine disguise for Going Merry",
+        "Acknowledges his limitations as a shipwright",
+        "Reminisces about joining the crew"
+      ],
+      "quotes": ["I'm a sniper, not a shipwright. The Merry deserves someone who really knows what they're doing."]
+    },
+    {
+      "characterId": "robin",
+      "role": "Analytical Observer",
+      "development": "Uses her knowledge and observation to identify strategic opportunities for the crew.",
+      "keyActions": [
+        "Identifies empty docks due to budget constraints",
+        "Provides tactical intelligence",
+        "Supports crew planning"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "luffy",
+      "role": "Strategic Captain",
+      "development": "Shows unexpected strategic thinking by proposing the disguise plan, demonstrating growth beyond his usual impulsive nature.",
+      "keyActions": [
+        "Proposes hiding among Navy ships",
+        "Leads decision to reclaim treasure",
+        "Reflects on Merry memories"
+      ],
+      "quotes": ["Let's hide the ship among the other Navy ships so they won't notice it!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "Episode 203 contains a canon scene from Chapter 303 (approximately 13:00-20:00) where the crew discusses hiring a shipwright and allocating 80% of their gold for ship repairs. The rest of the episode is anime-original filler content.",
+      "episodeTimestamp": "13:00-20:00",
+      "mangaReference": "Chapter 303",
+      "type": "MIXED_CANON_FILLER"
+    },
+    {
+      "difference": "The entire G-8 Arc (episodes 196-206) is anime-original filler that doesn't appear in the manga. The Straw Hats go directly from Skypiea to Long Ring Long Land in the manga.",
+      "episodeTimestamp": "00:00-23:00",
+      "mangaReference": "N/A - Filler Arc",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episode 203 is unique because it's part of a filler arc but contains a canon scene from Chapter 303 about hiring a shipwright, seamlessly blending filler and canon content.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_203",
+          "title": "Episode 203 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The G-8 Arc is widely considered the best filler arc in One Piece history, with many fans wishing it was canon.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://www.cbr.com/one-piece-best-filler-episodes/",
+          "title": "One Piece: The 10 Best Filler Episodes, Ranked",
+          "platform": "CBR",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Vice Admiral Jonathan is one of the few antagonists that Luffy never directly fought, showcasing a different type of conflict based on strategy rather than combat.",
+      "category": "CHARACTERS",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Jonathan",
+          "title": "Jonathan - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The flashbacks to the Going Merry's adventures in this episode serve as foreshadowing for the emotional arc that will culminate in the Merry's farewell during the Water 7 arc.",
+      "category": "STORY",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
