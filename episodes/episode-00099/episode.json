@@ -1,0 +1,523 @@
+{
+  "episodeNumber": 99,
+  "episodeTitle": "False Fortitude! Camu, Rebel Soldier at Heart!",
+  "episodeTitleJapanese": "ニセモノの意地！心の反乱軍カミュ！",
+  "episodeTitleRomanized": "Nisemono no iji! Kokoro no hanrangun Kamyu!",
+  "description": "The Straw Hats arrive at the desert village of Ido, where Vivi discovers fake Rebel Army soldiers protecting the town. She asks Luffy and the crew to test whether these imposters are worthy of staying. Camus, their leader, must decide between running away or standing up to protect the children who look up to him as a hero.",
+  "airDate": "2002-02-03",
+  "airDateJapan": "2002-02-03",
+  "airDateUS": "2009-12-15",
+  "arcName": "Arabasta Arc",
+  "sagaName": "Alabasta Saga",
+  "animationQuality": "STANDARD",
+  "isFiller": true,
+  "openingSong": {
+    "title": "Believe",
+    "artist": "Folder5",
+    "episodeRange": [48, 115]
+  },
+  "endingSong": {
+    "title": "fish",
+    "artist": "The Kaleidoscope",
+    "episodeRange": [95, 106]
+  },
+  "credits": {
+    "director": "Kōnosuke Uda",
+    "writer": "Junki Takegami",
+    "animationDirector": "Unknown",
+    "artDirectors": ["Miyuki Sato", "Makoto Suwada"],
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Misa Watanabe"
+      },
+      {
+        "character": "Portgas D. Ace",
+        "actor": "Toshio Furukawa"
+      },
+      {
+        "character": "Camus",
+        "actor": "Takumi Yamazaki"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Caitlin Glass"
+      },
+      {
+        "character": "Portgas D. Ace",
+        "actor": "Travis Willingham"
+      },
+      {
+        "character": "Camus",
+        "actor": "Andrew Love"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep099-event-001",
+      "episodeNumber": 99,
+      "timestamp": "03:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Straw Hats Arrive at Ido Village",
+      "description": "The Straw Hat Pirates, accompanied by Vivi and Ace, arrive at the desert village of Ido. The village appears peaceful and well-protected despite being in the middle of the desert during the ongoing civil conflict.",
+      "significance": "Sets the stage for the episode's central conflict about fake heroes and true courage.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "vivi", "ace"],
+      "locationIds": ["ido"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [98],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep099-event-002",
+      "episodeNumber": 99,
+      "timestamp": "05:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Camus and His Gang Debut",
+      "description": "Camus and his three companions are introduced as fake Rebel Army soldiers who have been posing as protectors of Ido village in exchange for food and shelter. The villagers believe they are genuine rebel soldiers.",
+      "significance": "Introduces the episode's central characters and establishes the deception that drives the plot.",
+      "characterIds": ["camus"],
+      "locationIds": ["ido"],
+      "quotes": [
+        {
+          "text": "We are members of the Rebel Army, here to protect this village from bandits!",
+          "speaker": "Camus",
+          "context": "Camus introducing himself and his gang to the villagers"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep099-event-003",
+      "episodeNumber": 99,
+      "timestamp": "08:45",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MINOR",
+      "title": "Vivi Discovers the Fake Rebels",
+      "description": "Vivi recognizes that Camus and his companions are not actual members of the Rebel Army. She observes how the villagers trust and admire them, and sees the village children looking up to them as heroes.",
+      "significance": "Creates the moral dilemma of whether to expose frauds or allow them to continue if they're doing good.",
+      "characterIds": ["vivi", "camus"],
+      "locationIds": ["ido"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep099-event-004",
+      "episodeNumber": 99,
+      "timestamp": "10:20",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Vivi Decides to Test the Fake Rebels",
+      "description": "Instead of immediately exposing Camus and his gang, Vivi asks Luffy and the crew to test whether the fake rebels have the courage to actually protect the village. This will determine if they deserve to stay.",
+      "significance": "Shows Vivi's diplomatic wisdom and her understanding that intention matters as much as identity.",
+      "characterIds": ["vivi", "luffy", "camus"],
+      "locationIds": ["ido"],
+      "quotes": [
+        {
+          "text": "Let's test them. If they truly care about protecting this village, they'll prove it.",
+          "speaker": "Vivi",
+          "context": "Vivi proposing to test Camus's resolve"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep099-event-005",
+      "episodeNumber": 99,
+      "timestamp": "12:40",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Luffy Confronts Camus",
+      "description": "Luffy and the Straw Hats confront Camus and his gang, challenging them to a fight. Initially, Camus and his companions are terrified and consider fleeing, as they are not real fighters.",
+      "significance": "The confrontation forces Camus to choose between his own safety and the expectations of the villagers who trust him.",
+      "characterIds": ["luffy", "camus", "zoro", "sanji"],
+      "locationIds": ["ido"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep099-event-006",
+      "episodeNumber": 99,
+      "timestamp": "14:15",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MINOR",
+      "title": "Camus's Childhood Dream Revealed",
+      "description": "In a flashback, Camus remembers his childhood admiration for Chaka and Pell, the guardian spirits of Alabasta. He realizes that the village children now look up to him the same way he once looked up to his heroes.",
+      "significance": "Provides motivation for Camus's character transformation and connects to the larger Alabasta storyline.",
+      "characterIds": ["camus"],
+      "locationIds": ["ido"],
+      "quotes": [
+        {
+          "text": "These children... they look at me the way I used to look at Chaka and Pell. I can't let them down!",
+          "speaker": "Camus",
+          "context": "Camus realizing the responsibility he has to the children"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep099-event-007",
+      "episodeNumber": 99,
+      "timestamp": "16:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Camus Chooses to Stand and Fight",
+      "description": "Despite his fear and lack of real combat ability, Camus decides to stand his ground against Luffy and the Straw Hats. His three companions follow his lead, choosing to fight rather than run and disappoint the village.",
+      "significance": "Represents Camus's character growth from selfish conman to someone willing to risk his life for others.",
+      "characterIds": ["camus"],
+      "locationIds": ["ido"],
+      "quotes": [
+        {
+          "text": "I would rather die a hero to these children than ruin their dreams!",
+          "speaker": "Camus",
+          "context": "Camus deciding to stand and fight despite being terrified"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep099-event-008",
+      "episodeNumber": 99,
+      "timestamp": "17:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Camus Punches Luffy",
+      "description": "Camus manages to land a punch on Luffy that actually knocks him backwards and leaves a red mark on his face. While not truly powerful, it demonstrates Camus's resolve and determination.",
+      "significance": "Shows that courage and determination can matter more than raw power.",
+      "characterIds": ["camus", "luffy"],
+      "locationIds": ["ido"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep099-event-009",
+      "episodeNumber": 99,
+      "timestamp": "18:20",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "Straw Hats Retreat",
+      "description": "Satisfied that Camus and his gang have proven their courage and willingness to protect the village, Vivi signals for the Straw Hats to retreat. They pretend to be defeated and run away, making Camus and his companions look like heroes.",
+      "significance": "Confirms that Camus has earned the right to stay and protect Ido, transforming from a fraud into a genuine hero.",
+      "characterIds": ["vivi", "luffy", "camus", "zoro", "nami", "usopp", "sanji", "chopper"],
+      "locationIds": ["ido"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep099-event-010",
+      "episodeNumber": 99,
+      "timestamp": "19:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Village Celebrates Their Heroes",
+      "description": "The villagers of Ido celebrate Camus and his companions as heroes who drove away dangerous pirates. The children are especially excited, and Camus realizes he must now live up to the role he's been given.",
+      "significance": "Completes Camus's transformation and shows that sometimes becoming a hero is about rising to meet others' expectations.",
+      "characterIds": ["camus"],
+      "locationIds": ["ido"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep099-event-011",
+      "episodeNumber": 99,
+      "timestamp": "20:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Ace Appears at the Village",
+      "description": "After the Straw Hats leave, Portgas D. Ace arrives at Ido village on his giant gecko companion. He sits down and starts eating the villagers' food without permission.",
+      "significance": "Continues the running subplot of Ace trying to catch up with Luffy during the desert journey.",
+      "characterIds": ["ace"],
+      "locationIds": ["ido"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [98],
+      "payoffInEpisodes": [100, 101],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep099-event-012",
+      "episodeNumber": 99,
+      "timestamp": "21:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Camus Confronts Ace",
+      "description": "When villagers call Ace a food thief, Ace easily defeats them. Camus, still trying to be a hero, stands up to Ace but is quickly overwhelmed by Ace's power. Terrified, Camus bows down and begs for Ace's help against sand pirates.",
+      "significance": "Provides comic relief and shows that while Camus has courage, he still has a long way to go as a fighter.",
+      "characterIds": ["ace", "camus"],
+      "locationIds": ["ido"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep099-event-013",
+      "episodeNumber": 99,
+      "timestamp": "21:45",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MINOR",
+      "title": "Zoro Asks About Ace",
+      "description": "Earlier in the episode, Zoro questions where Luffy's brother Ace has gone, showing the crew's awareness that Ace is still following them through the desert.",
+      "significance": "Maintains continuity with the filler arc's subplot of Ace accompanying the crew.",
+      "characterIds": ["zoro", "luffy", "ace"],
+      "locationIds": ["ido"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [98],
+      "payoffInEpisodes": [100, 101],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["camus"],
+    "locations": ["ido"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [100, 101],
+    "payoffFrom": [98],
+    "thematicLinks": []
+  },
+  "quotes": [
+    {
+      "text": "I would rather die a hero to these children than ruin their dreams!",
+      "speaker": "Camus",
+      "context": "Deciding to stand and fight against Luffy",
+      "timestamp": "16:30"
+    },
+    {
+      "text": "Let's test them. If they truly care about protecting this village, they'll prove it.",
+      "speaker": "Vivi",
+      "context": "Proposing to test Camus's resolve instead of exposing him",
+      "timestamp": "10:20"
+    },
+    {
+      "text": "These children... they look at me the way I used to look at Chaka and Pell. I can't let them down!",
+      "speaker": "Camus",
+      "context": "Realizing his responsibility to the children who admire him",
+      "timestamp": "14:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "True Heroism",
+      "description": "The episode explores what it means to be a true hero. Camus starts as a fraud but becomes genuine when he chooses to stand up for the village despite his fear.",
+      "symbolism": "Camus's transformation represents the idea that heroism is defined by actions and choices, not titles or strength.",
+      "culturalReferences": ["Reference to Chaka and Pell as guardian spirits connects to Egyptian mythology"]
+    },
+    {
+      "theme": "Living Up to Expectations",
+      "description": "Camus must decide whether to live up to the expectations of the children who see him as a hero, even though he initially took on the role through deception.",
+      "symbolism": "The village children represent innocence and the power of belief to transform people.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Courage vs. Strength",
+      "description": "The episode demonstrates that courage to stand and fight matters more than actual combat ability. Camus proves his worth not through victory but through willingness to risk everything.",
+      "symbolism": "Camus's weak but determined punch on Luffy symbolizes that true strength comes from resolve.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Inspirational", "Comedic", "Heartwarming"],
+  "characterSpotlights": [
+    {
+      "characterId": "camus",
+      "role": "Protagonist of this episode",
+      "development": "Camus transforms from a selfish conman into someone willing to risk his life to protect others and live up to the expectations of children who admire him.",
+      "keyActions": [
+        "Poses as a Rebel Army soldier to get free food",
+        "Considers fleeing when confronted by Luffy",
+        "Remembers his childhood admiration for Chaka and Pell",
+        "Chooses to stand and fight despite being terrified",
+        "Successfully punches Luffy",
+        "Becomes a genuine protector of Ido village"
+      ],
+      "quotes": ["I would rather die a hero to these children than ruin their dreams!"]
+    },
+    {
+      "characterId": "vivi",
+      "role": "Wise counselor",
+      "development": "Vivi demonstrates her diplomatic skills and understanding that people should be judged by their actions and intentions rather than their backgrounds.",
+      "keyActions": [
+        "Recognizes that Camus and his gang are fakes",
+        "Proposes testing them rather than exposing them",
+        "Signals for the Straw Hats to retreat when Camus proves himself"
+      ],
+      "quotes": ["Let's test them. If they truly care about protecting this village, they'll prove it."]
+    },
+    {
+      "characterId": "ace",
+      "role": "Comic relief and subplot continuation",
+      "development": "Ace continues to follow the Straw Hats through the desert, providing comic moments and demonstrating his overwhelming strength.",
+      "keyActions": [
+        "Arrives at Ido village",
+        "Eats villagers' food without permission",
+        "Easily defeats villagers who call him a food thief",
+        "Overwhelms Camus when challenged"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "This entire episode is filler/anime-original content. The events do not appear in the manga.",
+      "episodeTimestamp": "00:00",
+      "mangaReference": "N/A - Anime Original",
+      "type": "ANIME_ORIGINAL_EPISODE"
+    },
+    {
+      "difference": "In the manga, Ace left the Straw Hats immediately after destroying Scorpion's ships and giving Luffy his Vivre Card. In these filler episodes, Ace continues to accompany the crew through the desert.",
+      "episodeTimestamp": "20:15",
+      "mangaReference": "Chapter 159",
+      "type": "TIMELINE_EXTENSION"
+    },
+    {
+      "difference": "Camus and the village of Ido are anime-original creations with no manga counterparts.",
+      "episodeTimestamp": "05:30",
+      "mangaReference": "N/A - Anime Original",
+      "type": "ANIME_ORIGINAL_CHARACTER"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episode 99 is one of four anime-only filler episodes (98, 99, 101, 102) during the Alabasta Arc that focus on the crew's desert journey.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_99",
+          "title": "Episode 99 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-01-15"
+        }
+      ]
+    },
+    {
+      "fact": "Camus and his group make a brief cameo appearance in Episode 130, which is largely a canon episode.",
+      "category": "CONTINUITY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Camus",
+          "title": "Camus - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-01-15"
+        }
+      ]
+    },
+    {
+      "fact": "The episode aired on February 3, 2002 in Japan but didn't air in the US until December 15, 2009, nearly 8 years later.",
+      "category": "BROADCAST",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_99",
+          "title": "Episode 99 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-01-15"
+        }
+      ]
+    },
+    {
+      "fact": "Chaka and Pell, who Camus admires, are based on the Egyptian deities Anubis (jackal) and Horus (falcon).",
+      "category": "CULTURAL",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chaka",
+          "title": "Chaka - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-01-15"
+        }
+      ]
+    },
+    {
+      "fact": "This episode showcases a common One Piece theme: that true heroism comes from courage and protecting others, not from strength or titles.",
+      "category": "THEMATIC",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
