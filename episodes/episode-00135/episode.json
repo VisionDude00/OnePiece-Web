@@ -1,0 +1,578 @@
+{
+  "episodeNumber": 135,
+  "episodeTitle": "The Fabled Pirate Hunter! Zoro, the Wandering Swordsman!",
+  "description": "Zoro reflects on his past as a wandering bounty hunter, recalling his first meeting with Johnny and Yosaku and his battle against the notorious Dick Bandit crew.",
+  "airDate": "2002-12-01",
+  "airDateJapan": "2002-12-01",
+  "airDateUS": "2010-05-11",
+  "arcName": "Post-Arabasta Arc",
+  "sagaName": "Arabasta Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Hikari e",
+    "artist": "The Babystars",
+    "episodeRange": [116, 168]
+  },
+  "endingSong": {
+    "title": "Free Will",
+    "artist": "Ruppina",
+    "episodeRange": [133, 156]
+  },
+  "credits": {
+    "animationDirector": "Naoki Tate",
+    "director": "Junji Shimizu",
+    "screenplay": "Junki Takegami",
+    "artDirection": ["Miyuki Sato", "Fumihiro Uchikawa"],
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Johnny",
+        "actor": "Masaya Takatsuka"
+      },
+      {
+        "character": "Yosaku",
+        "actor": "Yasuhiro Takato"
+      },
+      {
+        "character": "Harry",
+        "actor": "Romi Park"
+      },
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Harry",
+        "actor": "Tiffany Grant"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep135-event-001",
+      "episodeNumber": 135,
+      "timestamp": "03:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Billy the Bandit First Appearance",
+      "description": "Billy, a bandit with a 5,000,000 berry bounty, appears drinking at the W Brothers bar. Yosaku notices him and identifies his bounty from the wanted posters.",
+      "significance": "Sets up Zoro's first bounty hunt shown in the flashback and introduces the antagonists of this episode.",
+      "characterIds": ["billy-bandit", "yosaku"],
+      "locationIds": ["w-brothers-bar"],
+      "quotes": [
+        {
+          "text": "That's Billy! He's got 5,000,000 on his head!",
+          "speaker": "Yosaku",
+          "context": "Recognizing Billy from the wanted posters"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep135-event-002",
+      "episodeNumber": 135,
+      "timestamp": "04:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Zoro Enters the Bar",
+      "description": "An exhausted Zoro enters the W Brothers bar seeking food but has no money to pay. He offers to capture Billy to cover his bar tab.",
+      "significance": "Demonstrates Zoro's resourcefulness and establishes his reputation as a bounty hunter before joining the Straw Hats.",
+      "characterIds": ["zoro"],
+      "locationIds": ["w-brothers-bar"],
+      "quotes": [
+        {
+          "text": "I'll pay once I collect the bounty from the guy sitting behind me.",
+          "speaker": "Zoro",
+          "context": "Offering to capture Billy to pay for his meal"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep135-event-003",
+      "episodeNumber": 135,
+      "timestamp": "05:45",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "Zoro Defeats Billy",
+      "description": "Billy attacks Zoro after being provoked, but Zoro swiftly defeats him with a single sword strike, claiming the 5,000,000 berry bounty.",
+      "significance": "Showcases Zoro's superior swordsmanship and establishes his efficiency as a bounty hunter.",
+      "characterIds": ["zoro", "billy-bandit"],
+      "locationIds": ["w-brothers-bar"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep135-event-004",
+      "episodeNumber": 135,
+      "timestamp": "07:00",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MINOR",
+      "title": "Zoro Meets Johnny and Yosaku",
+      "description": "Zoro discovers that Johnny and Yosaku were also tracking Billy. In a show of goodwill, Zoro hands over Billy and tells them to collect the bounty, asking only that his bar tab be paid.",
+      "significance": "Marks the beginning of Zoro's friendship with Johnny and Yosaku, establishing the bond that would later lead them to support the Straw Hats.",
+      "characterIds": ["zoro", "johnny", "yosaku"],
+      "locationIds": ["w-brothers-bar"],
+      "quotes": [
+        {
+          "text": "You can have him. Just pay my bar tab.",
+          "speaker": "Zoro",
+          "context": "Giving Billy's bounty to Johnny and Yosaku"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep135-event-005",
+      "episodeNumber": 135,
+      "timestamp": "08:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MINOR",
+      "title": "Zoro Reveals His Quest for Mihawk",
+      "description": "Zoro explains to Johnny and Yosaku that he's not interested in being a bounty hunter for money, but is traveling to find Dracule Mihawk to become the world's greatest swordsman.",
+      "significance": "Reinforces Zoro's core motivation and dream, showing his dedication even before joining Luffy's crew.",
+      "characterIds": ["zoro", "johnny", "yosaku"],
+      "locationIds": ["w-brothers-bar"],
+      "quotes": [
+        {
+          "text": "I'm searching for a man named Dracule Mihawk. My goal is to become the world's greatest swordsman.",
+          "speaker": "Zoro",
+          "context": "Explaining his true purpose to Johnny and Yosaku"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [1, 2, 5, 6],
+      "payoffInEpisodes": [23, 24],
+      "callbacksToEpisodes": [1, 2, 6]
+    },
+    {
+      "id": "ep135-event-006",
+      "episodeNumber": 135,
+      "timestamp": "10:00",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MINOR",
+      "title": "Johnny's Childhood Dream",
+      "description": "Inspired by Zoro's dedication, Johnny recalls his own childhood dream of becoming a bounty hunter to protect his village from pirates.",
+      "significance": "Provides character depth to Johnny and shows how Zoro's determination inspires others.",
+      "characterIds": ["johnny"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep135-event-007",
+      "episodeNumber": 135,
+      "timestamp": "11:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Dick and His Bandit Crew Arrive",
+      "description": "Dick, the leader of the Dick Bandits with a 10,000,000 berry bounty, arrives at a village with his crew seeking revenge for Billy's capture.",
+      "significance": "Introduces the episode's main antagonist and escalates the conflict.",
+      "characterIds": ["dick-bandit"],
+      "locationIds": ["village-storage"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep135-event-008",
+      "episodeNumber": 135,
+      "timestamp": "12:45",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MINOR",
+      "title": "Dick and Billy are Sworn Brothers",
+      "description": "Dick reveals that Billy is his sworn younger brother and threatens the village for turning Billy over to bounty hunters.",
+      "significance": "Establishes the motivation for Dick's attack on the village.",
+      "characterIds": ["dick-bandit", "billy-bandit"],
+      "quotes": [
+        {
+          "text": "Billy is my sworn younger brother! You'll pay for what you did!",
+          "speaker": "Dick",
+          "context": "Threatening the villagers"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep135-event-009",
+      "episodeNumber": 135,
+      "timestamp": "13:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Harry Stands Up to Dick",
+      "description": "Harry, a young village boy, bravely attempts to defend the village storage from Dick's bandits despite being outmatched and terrified.",
+      "significance": "Demonstrates courage and the spirit of protecting one's home, inspiring Johnny and Yosaku to fight back.",
+      "characterIds": ["harry", "dick-bandit"],
+      "locationIds": ["village-storage"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep135-event-010",
+      "episodeNumber": 135,
+      "timestamp": "15:00",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Johnny and Yosaku Fight Dick",
+      "description": "Inspired by Harry's bravery, Johnny and Yosaku decide to fight Dick and his crew despite being initially hesitant. However, they are quickly overwhelmed by Dick's superior strength.",
+      "significance": "Shows Johnny and Yosaku's courage but also demonstrates they need Zoro's help.",
+      "characterIds": ["johnny", "yosaku", "dick-bandit"],
+      "locationIds": ["village-storage"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep135-event-011",
+      "episodeNumber": 135,
+      "timestamp": "17:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Harry Disables Dick's Bazooka",
+      "description": "During the battle, Harry cleverly pours water on Dick's bazooka, disabling the weapon's ignition mechanism at a crucial moment.",
+      "significance": "Shows that even the smallest person can make a decisive difference in battle through quick thinking.",
+      "characterIds": ["harry", "dick-bandit"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep135-event-012",
+      "episodeNumber": 135,
+      "timestamp": "18:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Zoro Uses Oni Giri Against Dick",
+      "description": "Zoro arrives and borrows Johnny and Yosaku's katanas, using his signature Three Sword Style technique Oni Giri to defeat Dick and his entire crew in one devastating attack.",
+      "significance": "Demonstrates Zoro's mastery of the Three Sword Style and cements his reputation in Johnny and Yosaku's eyes.",
+      "characterIds": ["zoro", "dick-bandit"],
+      "locationIds": ["village-storage"],
+      "devilFruitIds": [],
+      "quotes": [
+        {
+          "text": "Oni Giri!",
+          "speaker": "Zoro",
+          "context": "Defeating Dick and his crew"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [2, 5, 6]
+    },
+    {
+      "id": "ep135-event-013",
+      "episodeNumber": 135,
+      "timestamp": "19:45",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "Dick's Bandit Crew Defeated",
+      "description": "With Zoro's overwhelming display of power, Dick and his entire bandit crew are defeated and captured, earning Johnny and Yosaku's eternal admiration and respect for Zoro.",
+      "significance": "Solidifies Zoro's legendary reputation and establishes why Johnny and Yosaku would later help the Straw Hats.",
+      "characterIds": ["zoro", "dick-bandit", "johnny", "yosaku"],
+      "locationIds": ["village-storage"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep135-event-014",
+      "episodeNumber": 135,
+      "timestamp": "20:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MINOR",
+      "title": "Flashback to Zoro's Training with Kuina",
+      "description": "A brief flashback shows Zoro training with Kuina, referencing his promise to become the world's greatest swordsman and his connection to the Wado Ichimonji.",
+      "significance": "Reinforces Zoro's motivation and the emotional weight behind his dream.",
+      "characterIds": ["zoro", "kuina"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [19],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [19]
+    },
+    {
+      "id": "ep135-event-015",
+      "episodeNumber": 135,
+      "timestamp": "21:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Present Day - Zoro on the Going Merry",
+      "description": "The episode returns to the present day aboard the Going Merry, with Zoro among the Straw Hat crew, showing how far he's come from his days as a wandering swordsman.",
+      "significance": "Provides closure to the flashback and shows Zoro's growth from lone wanderer to valued crew member.",
+      "characterIds": ["zoro", "luffy", "nami", "usopp", "sanji", "chopper", "robin"],
+      "locationIds": ["going-merry"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["billy-bandit", "dick-bandit", "harry"],
+    "locations": ["w-brothers-bar", "village-storage"],
+    "devilFruits": [],
+    "crews": ["dick-bandits"],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [],
+    "payoffFrom": [19, 20, 21, 22, 23, 24],
+    "thematicLinks": [2, 6, 19, 23, 24]
+  },
+  "quotes": [
+    {
+      "text": "I'll pay once I collect the bounty from the guy sitting behind me.",
+      "speaker": "Zoro",
+      "context": "Offering to capture Billy to pay for his meal",
+      "timestamp": "04:30"
+    },
+    {
+      "text": "You can have him. Just pay my bar tab.",
+      "speaker": "Zoro",
+      "context": "Giving Billy's bounty to Johnny and Yosaku",
+      "timestamp": "07:00"
+    },
+    {
+      "text": "I'm searching for a man named Dracule Mihawk. My goal is to become the world's greatest swordsman.",
+      "speaker": "Zoro",
+      "context": "Explaining his true purpose to Johnny and Yosaku",
+      "timestamp": "08:30"
+    },
+    {
+      "text": "Oni Giri!",
+      "speaker": "Zoro",
+      "context": "Defeating Dick and his crew",
+      "timestamp": "18:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Dreams and Determination",
+      "description": "The episode reinforces Zoro's unwavering dedication to becoming the world's greatest swordsman, showing that this dream guided him even before joining the Straw Hats.",
+      "symbolism": "Zoro's possession of the Wado Ichimonji symbolizes his promise to Kuina and his commitment to their shared dream.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Friendship and Loyalty",
+      "description": "The episode explores how Zoro's actions and character earned him the loyalty of Johnny and Yosaku, demonstrating that true friendship is built on mutual respect and shared values.",
+      "symbolism": "Zoro giving away Billy's bounty represents his prioritization of doing what's right over personal gain.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Courage in the Face of Fear",
+      "description": "Harry's brave stand against Dick despite being terrified inspires Johnny and Yosaku to overcome their own fear and fight for what's right.",
+      "symbolism": "Harry's small stature compared to Dick represents how courage isn't about size or strength, but about conviction.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Nostalgic", "Inspirational", "Action-Packed"],
+  "characterSpotlights": [
+    {
+      "characterId": "zoro",
+      "role": "Protagonist of flashback",
+      "development": "The episode provides insight into Zoro's life as a wandering bounty hunter before joining the Straw Hats, showing his consistent character, honor, and dedication to his dream of becoming the world's greatest swordsman.",
+      "keyActions": [
+        "Defeats Billy with ease",
+        "Gives Billy's bounty to Johnny and Yosaku",
+        "Reveals his quest to find Mihawk",
+        "Saves the village from Dick's bandits",
+        "Uses Oni Giri to defeat Dick's crew"
+      ],
+      "quotes": [
+        "I'm searching for a man named Dracule Mihawk. My goal is to become the world's greatest swordsman."
+      ]
+    },
+    {
+      "characterId": "johnny",
+      "role": "Supporting character",
+      "development": "Johnny's backstory is revealed, showing his childhood dream of becoming a bounty hunter to protect his village, and how meeting Zoro inspired him to pursue that dream with renewed vigor.",
+      "keyActions": [
+        "Identifies Billy at the bar",
+        "Meets Zoro for the first time",
+        "Fights Dick despite being outmatched",
+        "Lends his sword to Zoro"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "yosaku",
+      "role": "Supporting character",
+      "development": "Yosaku is shown working alongside Johnny as a bounty hunter duo, and his respect for Zoro's strength and character is established.",
+      "keyActions": [
+        "Spots Billy's bounty poster",
+        "Meets Zoro for the first time",
+        "Fights alongside Johnny against Dick",
+        "Lends his sword to Zoro"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "This entire episode is anime-original filler content and does not appear in the manga.",
+      "episodeTimestamp": "00:00",
+      "mangaReference": "N/A",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "The episode depicts Zoro with only the Wado Ichimonji, showing his earlier katanas as broken and discarded. This contradicts later canon material which revealed those katanas were childhood gifts from Shimotsuki Kouzaburou that were destroyed during Zoro's duel with Mihawk (Episode 24).",
+      "episodeTimestamp": "Various",
+      "mangaReference": "Chapter 1033",
+      "type": "CONTINUITY_ERROR"
+    },
+    {
+      "difference": "The Wado Ichimonji is shown undergoing repairs at a swordsmith, which contradicts the sword's established high durability in canon material.",
+      "episodeTimestamp": "Various",
+      "mangaReference": "Multiple chapters",
+      "type": "CONTINUITY_ERROR"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode is the only episode of the Post-Arabasta Arc to be included in the 4Kids English dub.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_135",
+          "title": "Episode 135 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This is the last of the character piece episodes in the Post-Arabasta Arc, finishing with Zoro after featuring Chopper, Nami, Sanji, and Usopp in previous episodes.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_135",
+          "title": "Episode 135 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The opening flashback scenes, including Zoro's encounter with Billy and meeting Johnny and Yosaku, were later adapted into One Piece novel ZORO's chapter 2.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/One_Piece_novel_ZORO",
+          "title": "One Piece novel ZORO - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode achieved an 11.8% TV rating in Japan, ranking 8th for its broadcast period.",
+      "category": "VIEWERSHIP",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_135",
+          "title": "Episode 135 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Billy was the first non-canon character in the anime with a known bounty, not counting characters only displayed on reward posters.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Billy_(Bandit)",
+          "title": "Billy (Bandit) - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 135 marks the final episode of both the Post-Arabasta Arc and the Arabasta Saga.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Post-Arabasta_Arc",
+          "title": "Post-Arabasta Arc - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode's IMDb rating is 6.9/10.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://www.imdb.com/title/tt0992432/",
+          "title": "One Piece Episode 135 - IMDb",
+          "platform": "IMDb",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

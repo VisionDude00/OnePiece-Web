@@ -1,0 +1,73 @@
+[
+  {
+    "name": {
+      "english": "Dick Bandits",
+      "japanese": "ディック山賊団",
+      "romanized": "Dikku Sanzoku-dan"
+    },
+    "crewType": "BANDIT_GROUP",
+    "debutEpisode": 135,
+    "debutChapter": null,
+    "episodeAppearances": [135],
+    "captain": {
+      "characterId": "dick-bandit",
+      "episodeStart": 135,
+      "episodeEnd": null
+    },
+    "members": [
+      {
+        "characterId": "dick-bandit",
+        "role": "Leader",
+        "episodeJoined": 135,
+        "episodeLeft": null
+      }
+    ],
+    "associatedMembers": [
+      {
+        "characterId": "billy-bandit",
+        "relationship": "Sworn Brother of Leader",
+        "episodeEstablished": 135
+      }
+    ],
+    "status": "DEFEATED",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 135,
+        "episodeEnd": 135
+      },
+      {
+        "status": "DEFEATED",
+        "episodeStart": 135,
+        "episodeEnd": "present"
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 135,
+        "eventId": "ep135-event-007",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Dick Bandits Attack Village",
+        "description": "The Dick Bandits, led by Dick, attack a village seeking revenge for Billy's capture.",
+        "significance": "Introduced as the antagonist group of the episode.",
+        "timestamp": "11:30"
+      },
+      {
+        "episodeNumber": 135,
+        "eventId": "ep135-event-013",
+        "momentType": "DEFEAT",
+        "title": "Dick Bandits Defeated",
+        "description": "The entire Dick Bandit crew is defeated by Zoro using his Oni Giri technique.",
+        "significance": "Marks the end of the Dick Bandits' reign of terror.",
+        "timestamp": "19:45"
+      }
+    ],
+    "base": {
+      "locationId": "east-blue",
+      "episodeEstablished": 135,
+      "episodeLeft": null
+    },
+    "totalBounty": 10000000,
+    "affiliation": "Independent Bandits"
+  }
+]
