@@ -1,0 +1,189 @@
+[
+  {
+    "name": {
+      "english": "White Sea",
+      "japanese": "白海",
+      "romanized": "Shiro Umi"
+    },
+    "locationType": "SKY_OCEAN",
+    "seaRegion": "SKY",
+    "islandName": null,
+    "debutEpisode": 153,
+    "debutChapter": 237,
+    "description": "An ocean of clouds located 7,000 meters above the Blue Sea. The White Sea is composed of Sea Clouds that behave like water but are less dense. It serves as the lower level of the sky realm, below the White-White Sea.",
+    "episodeAppearances": [153],
+    "keyEvents": [
+      {
+        "episodeNumber": 153,
+        "eventId": "ep153-event-001",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Arrival at the White Sea",
+        "description": "The Straw Hats emerge into the White Sea after riding the Knock Up Stream, marking their entry into the sky realm.",
+        "significance": "First location the crew reaches in the sky, introducing the concept of cloud-based oceans and sky islands.",
+        "timestamp": "02:30"
+      },
+      {
+        "episodeNumber": 153,
+        "eventId": "ep153-event-002",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Discovery of Sky Creatures",
+        "description": "The crew encounters Sky Fish, Sky Eels, and other creatures native to the White Sea ecosystem.",
+        "significance": "Establishes the White Sea as a functioning ecosystem with unique wildlife.",
+        "timestamp": "05:15"
+      },
+      {
+        "episodeNumber": 153,
+        "eventId": "ep153-event-004",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Wyper's Attack",
+        "description": "Wyper attacks the Going Merry while it floats in the White Sea.",
+        "significance": "First combat encounter in the sky realm.",
+        "timestamp": "10:20"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 153,
+        "episodeEnd": "present",
+        "reason": "The White Sea continues to exist as a natural sky ocean."
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["heavens-gate"],
+    "relatedCharacters": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "gan-fall", "wyper"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Skypiea Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "White-White Sea",
+      "japanese": "白々海",
+      "romanized": "Shiro Shiro Umi"
+    },
+    "locationType": "SKY_OCEAN",
+    "seaRegion": "SKY",
+    "islandName": null,
+    "debutEpisode": 153,
+    "debutChapter": 238,
+    "description": "An ocean of clouds located 10,000 meters above the Blue Sea, 3,000 meters above the White Sea. Skypiea and other sky islands are situated in the White-White Sea. The air is thinner at this altitude, making it harder for Blue Sea visitors to breathe.",
+    "episodeAppearances": [153],
+    "keyEvents": [
+      {
+        "episodeNumber": 153,
+        "eventId": "ep153-event-010",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Ascending to the White-White Sea",
+        "description": "The Going Merry is transported from Heaven's Gate up to the White-White Sea via the Express Speedy Shrimp.",
+        "significance": "Arrival at the altitude where Skypiea is located, marking the true beginning of the sky island adventure.",
+        "timestamp": "21:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 153,
+        "episodeEnd": "present",
+        "reason": "The White-White Sea continues to exist as a natural sky ocean."
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["skypiea"],
+    "relatedCharacters": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Skypiea Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Heaven's Gate",
+      "japanese": "天国の門",
+      "romanized": "Tengoku no Mon"
+    },
+    "locationType": "LANDMARK",
+    "seaRegion": "SKY",
+    "islandName": null,
+    "debutEpisode": 153,
+    "debutChapter": 238,
+    "description": "A large gate structure located at the base of a massive waterfall in the White Sea. Heaven's Gate serves as the official entrance to Skypiea, where visitors must pay a toll to Amazon, the gatekeeper. The gate's religious imagery establishes the heaven-like theme of the sky islands.",
+    "episodeAppearances": [153],
+    "keyEvents": [
+      {
+        "episodeNumber": 153,
+        "eventId": "ep153-event-008",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Arrival at Heaven's Gate",
+        "description": "The Straw Hats navigate through clouds and arrive at Heaven's Gate, the entrance to Skypiea.",
+        "significance": "Marks the threshold between the White Sea and Skypiea proper, establishing the religious symbolism of the arc.",
+        "timestamp": "18:15"
+      },
+      {
+        "episodeNumber": 153,
+        "eventId": "ep153-event-009",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Amazon's Toll Request",
+        "description": "Amazon appears at Heaven's Gate and requests a toll of 1,000,000,000 Extol per person.",
+        "significance": "Introduces the law system and currency of Skypiea, and sets up the crew's illegal entry status.",
+        "timestamp": "19:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 153,
+        "episodeEnd": "present",
+        "reason": "Heaven's Gate continues to function as the entrance to Skypiea."
+      }
+    ],
+    "parentLocation": "white-sea",
+    "childLocations": [],
+    "relatedCharacters": ["amazon", "luffy", "nami"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Skypiea Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Skypiea",
+      "japanese": "スカイピア",
+      "romanized": "Sukaipia"
+    },
+    "locationType": "SKY_ISLAND",
+    "seaRegion": "SKY",
+    "islandName": "Skypiea",
+    "debutEpisode": 153,
+    "debutChapter": 238,
+    "description": "A sky island located in the White-White Sea, 10,000 meters above the Blue Sea. Skypiea is home to both Skypieans (winged inhabitants) and the Shandia tribe. The island is ruled by a figure called 'God' and features locations like Angel Island and Upper Yard. It is heavily themed around heaven and divine imagery.",
+    "episodeAppearances": [153],
+    "keyEvents": [
+      {
+        "episodeNumber": 153,
+        "eventId": "ep153-event-010",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Ascending to Skypiea",
+        "description": "The Going Merry is transported to Skypiea via the Express Speedy Shrimp after passing through Heaven's Gate.",
+        "significance": "The crew's arrival at Skypiea begins their adventure in the legendary sky island that was thought to be a myth.",
+        "timestamp": "21:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 153,
+        "episodeEnd": "present",
+        "reason": "Skypiea exists as an inhabited sky island."
+      }
+    ],
+    "parentLocation": "white-white-sea",
+    "childLocations": [],
+    "relatedCharacters": ["gan-fall", "wyper", "amazon"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Skypiea Arc"],
+    "images": []
+  }
+]
