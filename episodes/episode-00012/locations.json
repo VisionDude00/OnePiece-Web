@@ -1,0 +1,102 @@
+[
+  {
+    "name": {
+      "english": "Syrup Village Northern Coast",
+      "japanese": "シロップ村北海岸",
+      "romanized": "Shiroppu-mura Kita Kaigan"
+    },
+    "locationType": "BEACH",
+    "seaRegion": "EAST_BLUE",
+    "islandName": "Syrup Village",
+    "debutEpisode": 12,
+    "debutChapter": 28,
+    "description": "The northern beach and slope of Syrup Village where the Black Cat Pirates land their invasion. This previously unknown entrance to the village becomes the site of a major battle when the Straw Hats and Usopp defend against Captain Kuro's crew.",
+    "episodeAppearances": [12],
+    "keyEvents": [
+      {
+        "episodeNumber": 12,
+        "eventId": "ep012-event-007",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Black Cat Pirates Arrive at Northern Coast",
+        "description": "The Black Cat Pirates' ship arrives at the northern beach, beginning their invasion of Syrup Village from this undefended entrance.",
+        "significance": "The arrival point for the invasion that the Straw Hats failed to anticipate.",
+        "timestamp": "11:30"
+      },
+      {
+        "episodeNumber": 12,
+        "eventId": "ep012-event-008",
+        "eventType": "BATTLE_START",
+        "title": "Usopp Arrives First at Northern Beach",
+        "description": "Usopp arrives at the northern slope to face the entire Black Cat Pirates crew with only his young followers as backup.",
+        "significance": "The beginning of Usopp's heroic stand to defend his village.",
+        "timestamp": "13:00"
+      },
+      {
+        "episodeNumber": 12,
+        "eventId": "ep012-event-013",
+        "eventType": "BATTLE_START",
+        "title": "The Great Battle on the Slope Begins",
+        "description": "The full-scale battle between the Straw Hat Pirates and the Black Cat Pirates begins on the northern slope.",
+        "significance": "The main battlefield for the Syrup Village arc's climactic confrontation.",
+        "timestamp": "20:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 12,
+        "episodeEnd": "present",
+        "reason": "Location becomes the main battlefield for defending Syrup Village"
+      }
+    ],
+    "parentLocation": "syrup-village",
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "zoro", "nami", "usopp", "kuro", "jango", "ninjin", "piiman", "tamanegi"],
+    "relatedCrews": ["straw-hat-pirates", "black-cat-pirates"],
+    "relatedArcs": ["Syrup Village"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Kaya's Mansion",
+      "japanese": "カヤの屋敷",
+      "romanized": "Kaya no Yashiki"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "EAST_BLUE",
+    "islandName": "Syrup Village",
+    "debutEpisode": 9,
+    "debutChapter": 23,
+    "description": "The large mansion belonging to the wealthy Kaya and her deceased parents. It sits atop a hill overlooking Syrup Village and becomes a target for Captain Kuro's scheme.",
+    "episodeAppearances": [12],
+    "keyEvents": [
+      {
+        "episodeNumber": 12,
+        "eventId": "ep012-event-004",
+        "eventType": "RELATIONSHIP_REVEAL",
+        "title": "Kuro Reveals His True Identity to Merry",
+        "description": "Inside the mansion, Klahadore drops his butler disguise and reveals himself to Merry as Captain Kuro.",
+        "significance": "The location where Kuro's deception ends and his villainous plan enters its final phase.",
+        "timestamp": "08:20"
+      },
+      {
+        "episodeNumber": 12,
+        "eventId": "ep012-event-006",
+        "eventType": "BATTLE_START",
+        "title": "Kuro Attacks Merry",
+        "description": "Kuro attacks Merry with his Cat Claws inside the mansion, leaving the butler severely wounded.",
+        "significance": "The site of Kuro's return to violence after three years of peaceful deception.",
+        "timestamp": "10:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [],
+    "parentLocation": "syrup-village",
+    "childLocations": [],
+    "relatedCharacters": ["kuro", "merry", "kaya"],
+    "relatedCrews": [],
+    "relatedArcs": ["Syrup Village"],
+    "images": []
+  }
+]

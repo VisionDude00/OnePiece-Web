@@ -1,0 +1,522 @@
+{
+  "episodeNumber": 25,
+  "episodeTitle": "The Deadly Foot Technique Bursts Forth! Sanji vs. The Invincible Pearl!",
+  "episodeTitleJapanese": "必殺足技炸裂！サンジVS鉄壁のパール",
+  "episodeTitleRomanized": "Hissatsu Ashiwaza Sakuretsu! Sanji tai Teppeki no Pāru",
+  "description": "Don Krieg formally begins his invasion of the Baratie restaurant. His officer 'Iron Wall' Pearl overwhelms the chefs until Sanji confronts him using his distinctive Black Leg Style fighting technique. After Pearl is defeated, Gin captures Zeff at gunpoint to force the restaurant's surrender.",
+  "airDate": "2000-05-17",
+  "airDateJapan": "2000-05-17",
+  "airDateUS": "2008-09-16",
+  "arcName": "Baratie Arc",
+  "sagaName": "East Blue Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Are!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [1, 47]
+  },
+  "endingSong": {
+    "title": "Memories",
+    "artist": "Maki Otsuki",
+    "episodeRange": [1, 30]
+  },
+  "credits": {
+    "animationDirector": "Takeo Ide",
+    "director": "Yuji Endo",
+    "artDirector": "Kunihiro Chida",
+    "screenplay": "Michiru Shimada",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Don Krieg",
+        "actor": "Fumihiko Tachiki"
+      },
+      {
+        "character": "Gin",
+        "actor": "Kenyu Horiuchi"
+      },
+      {
+        "character": "Pearl",
+        "actor": "Jun Tanaka"
+      },
+      {
+        "character": "Zeff",
+        "actor": "Koji Yada"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Don Krieg",
+        "actor": "Andy Mullins"
+      },
+      {
+        "character": "Gin",
+        "actor": "Illich Guardiola"
+      },
+      {
+        "character": "Pearl",
+        "actor": "Jeff Johnson"
+      },
+      {
+        "character": "Zeff",
+        "actor": "Barry Yandell"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep025-event-001",
+      "episodeNumber": 25,
+      "timestamp": "03:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Pearl's Debut",
+      "description": "Pearl, the 'Iron Wall' and commander of Don Krieg's second unit, makes his first appearance. He is covered head to toe in iron plates embedded with pearls and boasts about his undefeated record of 61 battles without losing a drop of blood.",
+      "significance": "Introduces a new antagonist for Sanji and showcases the strength of Krieg's crew hierarchy.",
+      "characterIds": ["pearl"],
+      "locationIds": ["baratie"],
+      "quotes": [
+        {
+          "text": "I am the invincible shield! In 61 battles, I have never lost a drop of blood!",
+          "speaker": "Pearl",
+          "context": "Pearl introducing himself and boasting about his undefeated record"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep025-event-002",
+      "episodeNumber": 25,
+      "timestamp": "04:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Ideaman's Debut",
+      "description": "Ideaman, the Staff Officer of Planning for the Krieg Pirates, appears alongside the crew during the invasion of the Baratie. He is recognizable by his distinctive purple hair with a tiny oil lamp at the end.",
+      "significance": "Introduces another member of Krieg's command structure and the strategic planning element of the pirate crew.",
+      "characterIds": ["ideaman"],
+      "locationIds": ["baratie"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep025-event-003",
+      "episodeNumber": 25,
+      "timestamp": "05:45",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Krieg's Plan for the Baratie Revealed",
+      "description": "Don Krieg explains his strategic interest in the Baratie to his crew. He wants to seize the restaurant not only for its food supplies but for its harmless-looking exterior that could be used for deceptive pirate tactics. More importantly, he seeks Zeff's logbook containing Grand Line navigation information and strategies.",
+      "significance": "Reveals Krieg's cunning tactical mind and establishes the high value of Grand Line knowledge. Also shows why Zeff and his past as 'Red Leg' Zeff matters to the story.",
+      "characterIds": ["don-krieg", "zeff"],
+      "locationIds": ["baratie"],
+      "quotes": [
+        {
+          "text": "If I could seize the Baratie, its inconspicuous appearance could be used for deception. And Zeff's logbook could provide useful strategies for traversing the Grand Line!",
+          "speaker": "Don Krieg",
+          "context": "Krieg explaining his strategic reasons for wanting the Baratie"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [20, 21, 22, 23, 24],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep025-event-004",
+      "episodeNumber": 25,
+      "timestamp": "07:20",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Baratie Defense Battle Begins",
+      "description": "Sanji orders a staff member to raise the 'fins' - two platforms on either side of the restaurant that function as battlefields. This prevents damage to the restaurant's interior during the upcoming battle with Krieg's pirates.",
+      "significance": "Shows Sanji's leadership and care for the restaurant. The fins become the main battlefield for this arc's climactic battles.",
+      "characterIds": ["sanji"],
+      "locationIds": ["baratie"],
+      "quotes": [
+        {
+          "text": "Raise the fins! We're not letting them damage the restaurant!",
+          "speaker": "Sanji",
+          "context": "Sanji preparing the Baratie for battle"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep025-event-005",
+      "episodeNumber": 25,
+      "timestamp": "09:15",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Pearl Present Technique Debut",
+      "description": "Pearl demonstrates his signature attack 'Pearl Present,' a shield-punch technique that he uses to defeat the Baratie cooks Patty and Carne. The attack showcases the offensive capability of his shield-based fighting style.",
+      "significance": "Establishes Pearl as a formidable opponent and demonstrates the peril the Baratie chefs face against Krieg's officers.",
+      "characterIds": ["pearl", "patty", "carne"],
+      "locationIds": ["baratie"],
+      "devilFruitIds": [],
+      "crewIds": ["krieg-pirates", "baratie-staff"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep025-event-006",
+      "episodeNumber": 25,
+      "timestamp": "11:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Sanji vs Pearl Battle Begins",
+      "description": "Sanji steps forward to confront Pearl after the shield warrior defeats Patty and Carne. Sanji prepares to demonstrate his Black Leg Style fighting technique against the self-proclaimed invincible shield.",
+      "significance": "Marks the beginning of Sanji's first major solo battle in the series and sets up the showcase of his fighting abilities.",
+      "characterIds": ["sanji", "pearl"],
+      "locationIds": ["baratie"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep025-event-007",
+      "episodeNumber": 25,
+      "timestamp": "12:45",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Black Leg Style Fighting Philosophy Revealed",
+      "description": "Sanji explains his fighting philosophy: he only uses his legs in battle to protect his hands, which are sacred tools for a cook. This establishes the Black Leg Style as a martial art designed specifically for chefs who must preserve their hands.",
+      "significance": "Reveals Sanji's core character trait and the reasoning behind his unique fighting style. This philosophy defines Sanji throughout the entire series.",
+      "characterIds": ["sanji"],
+      "locationIds": ["baratie"],
+      "quotes": [
+        {
+          "text": "A chef's hands are his life. I'll never use them in battle.",
+          "speaker": "Sanji",
+          "context": "Sanji explaining why he only fights with his legs"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep025-event-008",
+      "episodeNumber": 25,
+      "timestamp": "14:20",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Luffy's Accidental Intervention",
+      "description": "Luffy accidentally falls from above and crashes into Pearl from behind, causing Pearl to hit his head against one of his own shields. This gives Pearl a nosebleed - the first time he has bled in 61 battles.",
+      "significance": "Breaking Pearl's undefeated record triggers his psychological weakness and changes the course of the battle. Shows Luffy's tendency to accidentally influence battles.",
+      "characterIds": ["luffy", "pearl"],
+      "locationIds": ["baratie"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep025-event-009",
+      "episodeNumber": 25,
+      "timestamp": "15:45",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Fire Pearl Transformation",
+      "description": "After seeing his own blood, Pearl enters a panicked frenzy and transforms into 'Fire Pearl.' He creates flames through friction sparks that ignite his body with a defensive layer of intensely hot fire. The flames spread across the entire fin platform, engulfing the battlefield.",
+      "significance": "Reveals Pearl's special ability and psychological weakness. Demonstrates the escalation of the battle and creates a dangerous environment.",
+      "characterIds": ["pearl"],
+      "locationIds": ["baratie"],
+      "quotes": [
+        {
+          "text": "Blood! I'm bleeding! This can't be happening! Fire Pearl!",
+          "speaker": "Pearl",
+          "context": "Pearl panicking after seeing his blood and transforming into Fire Pearl"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep025-event-010",
+      "episodeNumber": 25,
+      "timestamp": "16:50",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Fire Pearl Daitokuten Technique",
+      "description": "Pearl unleashes his Fire Pearl Daitokuten (Fire Pearl Special Favor) technique, throwing large numbers of small flaming pearls that ignite anything they touch. The attack sets multiple parts of the battlefield ablaze.",
+      "significance": "Showcases Pearl's most powerful attack and raises the stakes of the battle with environmental hazards.",
+      "characterIds": ["pearl"],
+      "locationIds": ["baratie"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep025-event-011",
+      "episodeNumber": 25,
+      "timestamp": "18:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Sanji's Black Leg Style Showcase",
+      "description": "Despite the flames and Pearl's frenzied attacks, Sanji demonstrates the full power of his Black Leg Style. He strikes Pearl repeatedly with precise, powerful kicks, showing complete mastery of his leg-based combat technique even in hazardous conditions.",
+      "significance": "First major showcase of Sanji's combat abilities and establishes him as a formidable fighter. Demonstrates his skill surpasses Pearl's brute force approach.",
+      "characterIds": ["sanji", "pearl"],
+      "locationIds": ["baratie"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep025-event-012",
+      "episodeNumber": 25,
+      "timestamp": "20:15",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Pearl's Defeat",
+      "description": "Sanji delivers a final powerful kick that sends Pearl stumbling backward. A falling mast crashes down on Pearl, crushing him and knocking him unconscious. The 'invincible shield' is defeated.",
+      "significance": "Concludes Sanji's first major solo battle with a decisive victory. Proves Sanji's strength and fighting prowess to both allies and enemies.",
+      "characterIds": ["sanji", "pearl"],
+      "locationIds": ["baratie"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep025-event-013",
+      "episodeNumber": 25,
+      "timestamp": "21:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Gin Takes Zeff Hostage",
+      "description": "As everyone celebrates Pearl's defeat, Gin suddenly appears and takes Zeff hostage at gunpoint, breaking the old pirate's peg leg. Gin attempts to bargain for the restaurant's surrender in exchange for Zeff's release, creating a dire situation.",
+      "significance": "Major turning point in the Baratie Arc. Tests Gin's character conflict between loyalty to Krieg and his debt to Sanji. Places Zeff in mortal danger and forces difficult choices.",
+      "characterIds": ["gin", "zeff"],
+      "locationIds": ["baratie"],
+      "quotes": [
+        {
+          "text": "Nobody move! Drop your weapons or the old man dies!",
+          "speaker": "Gin",
+          "context": "Gin taking Zeff hostage to force the Baratie's surrender"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [20, 21],
+      "payoffInEpisodes": [26, 27, 28],
+      "callbacksToEpisodes": [20, 21]
+    },
+    {
+      "id": "ep025-event-014",
+      "episodeNumber": 25,
+      "timestamp": "22:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Sanji's Conflicted Emotions",
+      "description": "Sanji is torn between his desire to fight and his inability to act while Zeff is held hostage. His emotional turmoil showcases his deep connection to his mentor and father figure, even as he wants to defeat the pirates.",
+      "significance": "Reveals the depth of the Sanji-Zeff relationship and sets up the emotional stakes for the arc's conclusion. Shows Sanji's humanity and vulnerability.",
+      "characterIds": ["sanji", "zeff", "gin"],
+      "locationIds": ["baratie"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [26, 27, 28],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["pearl", "ideaman"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["black-leg-style", "pearl-present", "fire-pearl-daitokuten"]
+  },
+  "episodeRelationships": {
+    "setupFor": [26, 27, 28],
+    "payoffFrom": [20, 21, 22, 23, 24],
+    "thematicLinks": []
+  },
+  "quotes": [
+    {
+      "text": "A chef's hands are his life. I'll never use them in battle.",
+      "speaker": "Sanji",
+      "context": "Explaining his Black Leg Style fighting philosophy",
+      "timestamp": "12:45"
+    },
+    {
+      "text": "I am the invincible shield! In 61 battles, I have never lost a drop of blood!",
+      "speaker": "Pearl",
+      "context": "Pearl's introduction and boast",
+      "timestamp": "03:15"
+    },
+    {
+      "text": "If I could seize the Baratie, its inconspicuous appearance could be used for deception. And Zeff's logbook could provide useful strategies for traversing the Grand Line!",
+      "speaker": "Don Krieg",
+      "context": "Revealing his strategic plan to take over the Baratie",
+      "timestamp": "05:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Pride and Invincibility",
+      "description": "Pearl's downfall demonstrates how excessive pride in one's 'invincibility' can become a psychological weakness when that illusion is shattered.",
+      "symbolism": "Pearl's shields represent false security - they protect him physically but make him psychologically fragile.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Professional Identity",
+      "description": "Sanji's refusal to use his hands in combat showcases how one's professional identity and values can shape their approach to conflict.",
+      "symbolism": "Sanji's hands versus his legs represent the duality of creation (cooking) and destruction (fighting) that defines his character.",
+      "culturalReferences": ["The concept of sacred tools in various professional traditions"]
+    },
+    {
+      "theme": "Loyalty and Conflicting Obligations",
+      "description": "Gin's actions demonstrate the conflict between loyalty to one's captain and personal moral code, foreshadowing his internal struggle.",
+      "symbolism": "The hostage situation represents how violence can trap everyone involved, not just the victim.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Action-packed", "Dramatic"],
+  "characterSpotlights": [
+    {
+      "characterId": "sanji",
+      "role": "Primary protagonist in battle",
+      "development": "First major showcase of Sanji's combat abilities and fighting philosophy. Reveals his emotional connection to Zeff through his distress at the hostage situation.",
+      "keyActions": [
+        "Orders the fins to be raised to protect the restaurant",
+        "Explains his Black Leg Style philosophy",
+        "Battles and defeats Pearl using only kicks",
+        "Shows emotional vulnerability when Zeff is taken hostage"
+      ],
+      "quotes": ["A chef's hands are his life. I'll never use them in battle."]
+    },
+    {
+      "characterId": "pearl",
+      "role": "Primary antagonist",
+      "development": "Introduced as an intimidating, seemingly invincible warrior whose psychological fragility is exposed when his perfect record is broken.",
+      "keyActions": [
+        "Defeats Patty and Carne with Pearl Present",
+        "Boasts about his undefeated record",
+        "Transforms into Fire Pearl after bleeding",
+        "Is defeated by Sanji and crushed by a falling mast"
+      ],
+      "quotes": ["I am the invincible shield! In 61 battles, I have never lost a drop of blood!"]
+    },
+    {
+      "characterId": "gin",
+      "role": "Conflicted antagonist",
+      "development": "Takes a darker turn by capturing Zeff as hostage, yet his hesitation hints at his internal moral conflict between duty and honor.",
+      "keyActions": [
+        "Captures Zeff at gunpoint",
+        "Breaks Zeff's peg leg",
+        "Attempts to force the Baratie's surrender"
+      ],
+      "quotes": ["Nobody move! Drop your weapons or the old man dies!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime expands the battle between Sanji and Pearl with additional action sequences and dialogue not present in the manga.",
+      "episodeTimestamp": "11:30-20:15",
+      "mangaReference": "Chapters 53-55",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "Pearl's Fire Pearl transformation is given more dramatic visual emphasis in the anime with extended flame effects.",
+      "episodeTimestamp": "15:45",
+      "mangaReference": "Chapter 54",
+      "type": "ENHANCED_VISUAL"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the official debut of Sanji's Black Leg Style fighting technique, which becomes his signature combat method throughout the entire series.",
+      "category": "ABILITIES",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Black_Leg_Style",
+          "title": "Black Leg Style - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Pearl's character design with shields covered in pearls is a visual pun on his name. The oil lamp on Ideaman's head is similarly a visual pun suggesting he has 'bright ideas.'",
+      "category": "CHARACTER_DESIGN",
+      "sources": []
+    },
+    {
+      "fact": "The original Japanese broadcast of this episode on May 17, 2000 achieved a 13.7% television rating, ranking 5th for that week.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_25",
+          "title": "Episode 25 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode covers portions of manga Chapters 53-55 and a small portion of Chapter 68, showing the anime's pacing at approximately 1.5-2 chapters per episode during this arc.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_25",
+          "title": "Episode 25 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The eyecatcher segments in this episode feature Sanji and Luffy, highlighting the two main fighters in the Baratie conflict.",
+      "category": "PRODUCTION",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

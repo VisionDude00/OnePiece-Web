@@ -1,0 +1,473 @@
+[
+  {
+    "id": "pandaman",
+    "name": "Pandaman",
+    "nameJapanese": "パンダマン",
+    "nameRomanized": "Pandaman",
+    "debut": {
+      "episodeNumber": 16,
+      "chapterNumber": 44,
+      "context": "First anime appearance (excluding opening) as a background member of the Black Cat Pirates"
+    },
+    "episodeAppearances": [16],
+    "keyMoments": [
+      {
+        "episodeNumber": 16,
+        "description": "Pandaman makes his first appearance in the One Piece anime (excluding the opening theme 'We Are!'). He appears as a member of the Black Cat Pirates during the battle at the northern coast of Syrup Village.",
+        "timestamp": "11:00",
+        "significance": "MINOR",
+        "eventId": "ep016-event-005"
+      }
+    ],
+    "reveals": [
+      {
+        "episodeNumber": 16,
+        "type": "FIRST_APPEARANCE",
+        "description": "Pandaman debuts as an easter egg character in the anime, beginning his tradition of appearing as a background character throughout the series.",
+        "severity": "MINOR"
+      }
+    ],
+    "affiliations": [
+      {
+        "episodeNumber": 16,
+        "organizationId": "black-cat-pirates",
+        "role": "Background member",
+        "status": "TEMPORARY"
+      }
+    ],
+    "relationships": []
+  },
+  {
+    "id": "kaya",
+    "name": "Kaya",
+    "nameJapanese": "カヤ",
+    "nameRomanized": "Kaya",
+    "debut": {
+      "episodeNumber": 9,
+      "chapterNumber": 23,
+      "context": "Previously appeared"
+    },
+    "episodeAppearances": [16],
+    "keyMoments": [
+      {
+        "episodeNumber": 16,
+        "description": "Kaya flees through the forest with the Usopp Pirates as Jango hunts her down, but her illness makes it difficult to continue.",
+        "timestamp": "02:30",
+        "significance": "MINOR",
+        "eventId": "ep016-event-001"
+      },
+      {
+        "episodeNumber": 16,
+        "description": "Kaya agrees to sign her will over to Klahadore (Kuro) in exchange for Jango sparing the lives of the Usopp Pirates, demonstrating her selfless and caring nature.",
+        "timestamp": "07:45",
+        "significance": "MAJOR",
+        "eventId": "ep016-event-003"
+      },
+      {
+        "episodeNumber": 16,
+        "description": "Zoro and Usopp arrive just in time to save Kaya from being killed by Jango after she signs the will.",
+        "timestamp": "09:30",
+        "significance": "MAJOR",
+        "eventId": "ep016-event-004"
+      }
+    ],
+    "reveals": [
+      {
+        "episodeNumber": 16,
+        "type": "CHARACTER_TRAIT",
+        "description": "Kaya demonstrates her noble and selfless character by willingly sacrificing her fortune and life to save the Usopp Pirates from Jango.",
+        "severity": "MAJOR"
+      }
+    ],
+    "relationships": [
+      {
+        "characterId": "piiman",
+        "type": "PROTECTED_BY",
+        "status": "Piiman risks his life to protect Kaya",
+        "establishedInEpisode": 16
+      },
+      {
+        "characterId": "tamanegi",
+        "type": "PROTECTED_BY",
+        "status": "Tamanegi risks his life to protect Kaya",
+        "establishedInEpisode": 16
+      },
+      {
+        "characterId": "ninjin",
+        "type": "PROTECTED_BY",
+        "status": "Ninjin risks his life to protect Kaya",
+        "establishedInEpisode": 16
+      },
+      {
+        "characterId": "usopp",
+        "type": "FRIEND",
+        "status": "Usopp arrives to save Kaya from Jango",
+        "establishedInEpisode": 16
+      },
+      {
+        "characterId": "zoro",
+        "type": "PROTECTOR",
+        "status": "Zoro helps rescue Kaya from Jango",
+        "establishedInEpisode": 16
+      }
+    ]
+  },
+  {
+    "id": "kuro",
+    "name": "Kuro",
+    "nameJapanese": "クロ",
+    "nameRomanized": "Kuro",
+    "aliases": ["Captain Kuro", "Kuro of a Hundred Plans", "Klahadore"],
+    "debut": {
+      "episodeNumber": 9,
+      "chapterNumber": 23,
+      "context": "Previously appeared"
+    },
+    "episodeAppearances": [16],
+    "keyMoments": [
+      {
+        "episodeNumber": 16,
+        "description": "Kuro reveals his plan to kill all of the Black Cat Pirates as part of his scheme, showing complete disregard for his crew's loyalty and lives.",
+        "timestamp": "12:30",
+        "significance": "MAJOR",
+        "eventId": "ep016-event-006"
+      },
+      {
+        "episodeNumber": 16,
+        "description": "Kuro unleashes his ultimate technique, Shakushi, for the first time. He moves at incredible speed, slashing everything indiscriminately including his own crew members.",
+        "timestamp": "14:45",
+        "significance": "MAJOR",
+        "eventId": "ep016-event-007"
+      }
+    ],
+    "reveals": [
+      {
+        "episodeNumber": 16,
+        "type": "ABILITY_REVEAL",
+        "description": "Kuro demonstrates his ultimate technique, Shakushi (Scoop Death), which allows him to move at approximately 100 meters in 4-5 seconds and attack everything in his path indiscriminately.",
+        "severity": "MAJOR"
+      },
+      {
+        "episodeNumber": 16,
+        "type": "CHARACTER_TRAIT",
+        "description": "Kuro's complete lack of loyalty is revealed as he announces his plan to kill his entire crew, showing his cold and calculating nature.",
+        "severity": "MAJOR"
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Shakushi",
+        "nameJapanese": "杓死",
+        "nameRomanized": "Shakushi",
+        "type": "COMBAT_TECHNIQUE",
+        "description": "Kuro's ultimate technique that utilizes his incredible speed to move at approximately 100 meters in 4-5 seconds, allowing him to slash everything in a large area indiscriminately.",
+        "firstUsedEpisode": 16,
+        "limitations": "Cannot control who or what he attacks - hits enemies, allies, and surroundings randomly. Can only stop when he becomes tired or is physically stopped."
+      }
+    ],
+    "relationships": [
+      {
+        "characterId": "luffy",
+        "type": "ENEMY",
+        "status": "Kuro battles Luffy using his Shakushi technique",
+        "establishedInEpisode": 16
+      }
+    ]
+  },
+  {
+    "id": "jango",
+    "name": "Jango",
+    "nameJapanese": "ジャンゴ",
+    "nameRomanized": "Jango",
+    "aliases": ["Django"],
+    "debut": {
+      "episodeNumber": 10,
+      "chapterNumber": 25,
+      "context": "Previously appeared"
+    },
+    "episodeAppearances": [16],
+    "keyMoments": [
+      {
+        "episodeNumber": 16,
+        "description": "Jango pursues Kaya through the forest, hunting her down to force her to sign the will.",
+        "timestamp": "02:30",
+        "significance": "MINOR",
+        "eventId": "ep016-event-001"
+      },
+      {
+        "episodeNumber": 16,
+        "description": "Jango easily defeats the Usopp Pirates' ambush attempt, showing the vast difference in power between him and the children.",
+        "timestamp": "05:15",
+        "significance": "MINOR",
+        "eventId": "ep016-event-002"
+      },
+      {
+        "episodeNumber": 16,
+        "description": "Jango threatens to kill the Usopp Pirates, forcing Kaya to agree to sign the will to save their lives.",
+        "timestamp": "07:45",
+        "significance": "MAJOR",
+        "eventId": "ep016-event-003"
+      },
+      {
+        "episodeNumber": 16,
+        "description": "Zoro and Usopp arrive just as Jango is about to kill Kaya, forcing him into a confrontation.",
+        "timestamp": "09:30",
+        "significance": "MAJOR",
+        "eventId": "ep016-event-004"
+      }
+    ],
+    "reveals": [],
+    "relationships": [
+      {
+        "characterId": "kaya",
+        "type": "ANTAGONIST",
+        "status": "Jango pursues and threatens Kaya to force her to sign the will",
+        "establishedInEpisode": 16
+      },
+      {
+        "characterId": "usopp",
+        "type": "ENEMY",
+        "status": "Usopp confronts Jango to protect Kaya",
+        "establishedInEpisode": 16
+      },
+      {
+        "characterId": "zoro",
+        "type": "ENEMY",
+        "status": "Zoro prepares to fight Jango to save Kaya",
+        "establishedInEpisode": 16
+      }
+    ]
+  },
+  {
+    "id": "piiman",
+    "name": "Piiman",
+    "nameJapanese": "ピーマン",
+    "nameRomanized": "Piiman",
+    "debut": {
+      "episodeNumber": 9,
+      "chapterNumber": 23,
+      "context": "Previously appeared"
+    },
+    "episodeAppearances": [16],
+    "keyMoments": [
+      {
+        "episodeNumber": 16,
+        "description": "Piiman helps escort Kaya through the forest while fleeing from Jango.",
+        "timestamp": "02:30",
+        "significance": "MINOR",
+        "eventId": "ep016-event-001"
+      },
+      {
+        "episodeNumber": 16,
+        "description": "Piiman participates in the Usopp Pirates' ambush attempt against Jango, showing bravery despite being outmatched.",
+        "timestamp": "05:15",
+        "significance": "MINOR",
+        "eventId": "ep016-event-002"
+      },
+      {
+        "episodeNumber": 16,
+        "description": "Piiman faces Jango's death threats but is saved when Kaya agrees to sign the will.",
+        "timestamp": "07:45",
+        "significance": "MAJOR",
+        "eventId": "ep016-event-003"
+      }
+    ],
+    "reveals": [
+      {
+        "episodeNumber": 16,
+        "type": "CHARACTER_TRAIT",
+        "description": "Piiman demonstrates courage and loyalty by attempting to protect Kaya from Jango despite being just a child facing a dangerous pirate.",
+        "severity": "MINOR"
+      }
+    ],
+    "affiliations": [
+      {
+        "episodeNumber": 16,
+        "organizationId": "usopp-pirates",
+        "role": "Member",
+        "status": "ACTIVE"
+      }
+    ],
+    "relationships": []
+  },
+  {
+    "id": "tamanegi",
+    "name": "Tamanegi",
+    "nameJapanese": "タマネギ",
+    "nameRomanized": "Tamanegi",
+    "debut": {
+      "episodeNumber": 9,
+      "chapterNumber": 23,
+      "context": "Previously appeared"
+    },
+    "episodeAppearances": [16],
+    "keyMoments": [
+      {
+        "episodeNumber": 16,
+        "description": "Tamanegi helps escort Kaya through the forest while fleeing from Jango.",
+        "timestamp": "02:30",
+        "significance": "MINOR",
+        "eventId": "ep016-event-001"
+      },
+      {
+        "episodeNumber": 16,
+        "description": "Tamanegi participates in the Usopp Pirates' ambush attempt against Jango.",
+        "timestamp": "05:15",
+        "significance": "MINOR",
+        "eventId": "ep016-event-002"
+      },
+      {
+        "episodeNumber": 16,
+        "description": "Tamanegi is threatened with death by Jango but is saved when Kaya agrees to sign the will.",
+        "timestamp": "07:45",
+        "significance": "MAJOR",
+        "eventId": "ep016-event-003"
+      }
+    ],
+    "reveals": [
+      {
+        "episodeNumber": 16,
+        "type": "CHARACTER_TRAIT",
+        "description": "Tamanegi shows bravery and loyalty by standing up to Jango to protect Kaya.",
+        "severity": "MINOR"
+      }
+    ],
+    "affiliations": [
+      {
+        "episodeNumber": 16,
+        "organizationId": "usopp-pirates",
+        "role": "Member",
+        "status": "ACTIVE"
+      }
+    ],
+    "relationships": []
+  },
+  {
+    "id": "ninjin",
+    "name": "Ninjin",
+    "nameJapanese": "ニンジン",
+    "nameRomanized": "Ninjin",
+    "debut": {
+      "episodeNumber": 9,
+      "chapterNumber": 23,
+      "context": "Previously appeared"
+    },
+    "episodeAppearances": [16],
+    "keyMoments": [
+      {
+        "episodeNumber": 16,
+        "description": "Ninjin helps escort Kaya through the forest while fleeing from Jango.",
+        "timestamp": "02:30",
+        "significance": "MINOR",
+        "eventId": "ep016-event-001"
+      },
+      {
+        "episodeNumber": 16,
+        "description": "Ninjin participates in the Usopp Pirates' ambush attempt against Jango.",
+        "timestamp": "05:15",
+        "significance": "MINOR",
+        "eventId": "ep016-event-002"
+      },
+      {
+        "episodeNumber": 16,
+        "description": "Ninjin is threatened with death by Jango but is saved when Kaya agrees to sign the will.",
+        "timestamp": "07:45",
+        "significance": "MAJOR",
+        "eventId": "ep016-event-003"
+      }
+    ],
+    "reveals": [
+      {
+        "episodeNumber": 16,
+        "type": "CHARACTER_TRAIT",
+        "description": "Ninjin demonstrates courage and loyalty by attempting to protect Kaya despite the danger.",
+        "severity": "MINOR"
+      }
+    ],
+    "affiliations": [
+      {
+        "episodeNumber": 16,
+        "organizationId": "usopp-pirates",
+        "role": "Member",
+        "status": "ACTIVE"
+      }
+    ],
+    "relationships": []
+  },
+  {
+    "id": "usopp",
+    "name": "Usopp",
+    "nameJapanese": "ウソップ",
+    "nameRomanized": "Usoppu",
+    "debut": {
+      "episodeNumber": 9,
+      "chapterNumber": 23,
+      "context": "Previously appeared"
+    },
+    "episodeAppearances": [16],
+    "keyMoments": [
+      {
+        "episodeNumber": 16,
+        "description": "Usopp arrives with Zoro to save Kaya from Jango, positioning himself between her and danger.",
+        "timestamp": "09:30",
+        "significance": "MAJOR",
+        "eventId": "ep016-event-004"
+      }
+    ],
+    "reveals": [
+      {
+        "episodeNumber": 16,
+        "type": "CHARACTER_DEVELOPMENT",
+        "description": "Usopp continues his transformation from coward to hero by confronting the dangerous Jango to protect Kaya.",
+        "severity": "MAJOR"
+      }
+    ],
+    "relationships": []
+  },
+  {
+    "id": "zoro",
+    "name": "Roronoa Zoro",
+    "nameJapanese": "ロロノア・ゾロ",
+    "nameRomanized": "Roronoa Zoro",
+    "debut": {
+      "episodeNumber": 2,
+      "chapterNumber": 3,
+      "context": "Previously appeared"
+    },
+    "episodeAppearances": [16],
+    "keyMoments": [
+      {
+        "episodeNumber": 16,
+        "description": "Zoro arrives with Usopp to rescue Kaya from Jango just in time.",
+        "timestamp": "09:30",
+        "significance": "MAJOR",
+        "eventId": "ep016-event-004"
+      }
+    ],
+    "reveals": [],
+    "relationships": []
+  },
+  {
+    "id": "luffy",
+    "name": "Monkey D. Luffy",
+    "nameJapanese": "モンキー・D・ルフィ",
+    "nameRomanized": "Monkī Dī Rufi",
+    "debut": {
+      "episodeNumber": 1,
+      "chapterNumber": 1,
+      "context": "Previously appeared"
+    },
+    "episodeAppearances": [16],
+    "keyMoments": [
+      {
+        "episodeNumber": 16,
+        "description": "Luffy struggles to fight against Kuro's incredible speed as the Shakushi technique proves difficult to counter.",
+        "timestamp": "18:00",
+        "significance": "MINOR",
+        "eventId": "ep016-event-009"
+      }
+    ],
+    "reveals": [],
+    "relationships": []
+  }
+]

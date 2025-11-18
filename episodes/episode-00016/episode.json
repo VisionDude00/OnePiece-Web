@@ -1,0 +1,506 @@
+{
+  "episodeNumber": 16,
+  "episodeTitle": "Protect Kaya! The Usopp Pirates' Great Efforts!",
+  "episodeTitleJapanese": "カヤを守れ！ウソップ海賊団大活躍！",
+  "episodeTitleRomanized": "Kaya o Mamore! Usoppu Kaizokudan Dai Katsuyaku!",
+  "description": "In the forest, Jango hunts down Kaya and forces her to sign her will under threat of death. The Usopp Pirates try to defend her but fail. Meanwhile, at the northern coast, Kuro reveals his true nature by unleashing his deadly Shakushi technique, attacking everyone indiscriminately including his own crew.",
+  "airDate": "2000-03-01",
+  "airDateJapan": "2000-03-01",
+  "airDateUS": "2005-01-08",
+  "airDateUSFunimation": "2008-09-16",
+  "arcName": "Syrup Village",
+  "sagaName": "East Blue Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Are!",
+    "titleJapanese": "ウィーアー!",
+    "artist": "Hiroshi Kitadani",
+    "composer": "Kohei Tanaka",
+    "lyricist": "Shoko Fujibayashi",
+    "episodeRange": [1, 47]
+  },
+  "endingSong": {
+    "title": "memories",
+    "titleJapanese": "メモリーズ",
+    "artist": "Maki Otsuki",
+    "composer": "JUNTA MORI",
+    "lyricist": "Maki Otsuki",
+    "episodeRange": [1, 30]
+  },
+  "credits": {
+    "director": "Munehisa Sakai",
+    "screenplay": "Junki Takegami",
+    "artDirector": "Kunihiro Chida",
+    "animationDirector": "Noboru Koizumi",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Kuro",
+        "actor": "Kōichi Hashimoto"
+      },
+      {
+        "character": "Jango",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Kaya",
+        "actor": "Mariko Kouda"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Kuro",
+        "actor": "Kent Williams"
+      },
+      {
+        "character": "Jango",
+        "actor": "Kenny Green"
+      },
+      {
+        "character": "Kaya",
+        "actor": "Carrie Savage"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep016-event-001",
+      "episodeNumber": 16,
+      "timestamp": "02:30",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Usopp Pirates Escort Kaya Through the Forest",
+      "description": "Piiman, Tamanegi, and Ninjin escort Kaya through the forest, attempting to hide from Jango who is pursuing them. However, Kaya's illness makes it difficult for her to continue running and she begins to slow down.",
+      "significance": "Shows the Usopp Pirates' loyalty to Kaya and their bravery despite being children facing a dangerous enemy.",
+      "characterIds": ["kaya", "piiman", "tamanegi", "ninjin", "jango"],
+      "locationIds": ["syrup-village-forest"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [15],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep016-event-002",
+      "episodeNumber": 16,
+      "timestamp": "05:15",
+      "eventType": "BATTLE_START",
+      "title": "Usopp Pirates Attempt to Ambush Jango",
+      "description": "The three children try to ambush Jango with a fake surrender, using their weapons and a falling log trap. However, Jango easily dodges all their attacks and remains completely unharmed, demonstrating the vast difference in power between them.",
+      "significance": "Highlights the children's courage and creativity despite being outmatched, and establishes Jango as a formidable opponent.",
+      "severity": "MINOR",
+      "characterIds": ["piiman", "tamanegi", "ninjin", "jango"],
+      "locationIds": ["syrup-village-forest"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep016-event-003",
+      "episodeNumber": 16,
+      "timestamp": "07:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Kaya Agrees to Sign the Will",
+      "description": "After Jango threatens to kill the Usopp Pirates, Kaya decides to sacrifice herself to save them. She agrees to sign the will that would leave her fortune to Klahadore (Kuro) in exchange for sparing the children's lives.",
+      "significance": "Demonstrates Kaya's selflessness and caring nature, willing to give up everything to protect innocent children. This is a key character moment that shows her nobility.",
+      "characterIds": ["kaya", "jango", "piiman", "tamanegi", "ninjin"],
+      "locationIds": ["syrup-village-forest"],
+      "quotes": [
+        {
+          "text": "I'll sign it! Just don't hurt them!",
+          "speaker": "Kaya",
+          "context": "Kaya sacrifices herself to save the Usopp Pirates from Jango"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [14, 15],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep016-event-004",
+      "episodeNumber": 16,
+      "timestamp": "09:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Zoro and Usopp Arrive to Save Kaya",
+      "description": "Just as Jango is about to kill Kaya after she signs the will, Roronoa Zoro and Usopp finally locate her and arrive in the nick of time. They position themselves between Jango and Kaya to protect her.",
+      "significance": "Classic rescue timing that prevents Kaya's death. Shows Usopp and Zoro's determination to protect Kaya and honor their promise to defend the village.",
+      "characterIds": ["zoro", "usopp", "kaya", "jango"],
+      "locationIds": ["syrup-village-forest"],
+      "quotes": [
+        {
+          "text": "You're not laying a finger on her!",
+          "speaker": "Usopp",
+          "context": "Usopp confronts Jango to protect Kaya"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [13, 14, 15],
+      "payoffInEpisodes": [17],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep016-event-005",
+      "episodeNumber": 16,
+      "timestamp": "11:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Pandaman's Anime Debut Among Black Cat Pirates",
+      "description": "Pandaman, the iconic easter egg character, makes his first appearance in the One Piece anime (excluding the opening theme). He appears as a member of the Black Cat Pirates during the battle at the northern coast.",
+      "significance": "This marks the beginning of Pandaman's tradition of appearing as a background character throughout the entire One Piece series. He becomes one of the series' most enduring easter eggs.",
+      "characterIds": ["pandaman"],
+      "locationIds": ["northern-coast-syrup-village"],
+      "crewIds": ["black-cat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep016-event-006",
+      "episodeNumber": 16,
+      "timestamp": "12:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Kuro Reveals His Plan to Kill His Own Crew",
+      "description": "Captain Kuro reveals his ruthless plan to the Black Cat Pirates: he intends to kill them all as part of his scheme. After obtaining Kaya's fortune, he plans to eliminate all witnesses, including his loyal crew members who have served him for years.",
+      "significance": "Establishes Kuro's cold, calculating nature and complete lack of loyalty or honor. This revelation shows how different he is from other pirate captains who value their crews, setting up a stark contrast with Luffy's leadership philosophy.",
+      "characterIds": ["kuro"],
+      "locationIds": ["northern-coast-syrup-village"],
+      "crewIds": ["black-cat-pirates"],
+      "quotes": [
+        {
+          "text": "I have no need for any of you anymore. You're all just loose ends that need to be tied up.",
+          "speaker": "Kuro",
+          "context": "Kuro reveals his intention to betray and kill his own crew"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [14, 15],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep016-event-007",
+      "episodeNumber": 16,
+      "timestamp": "14:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Kuro Unleashes Shakushi Technique",
+      "description": "Kuro demonstrates his ultimate technique, Shakushi (Scoop Death), moving at incredible speed of approximately 100 meters in 4-5 seconds. He attacks everything in his path indiscriminately, slashing at such great speed that he becomes completely invisible to his opponents. The technique hits both Luffy and his own crew members.",
+      "significance": "The debut of Kuro's signature and most dangerous technique. This attack showcases Kuro's incredible speed and power, while also demonstrating his willingness to harm his own crew. It establishes him as one of the fastest enemies Luffy has faced so far.",
+      "characterIds": ["kuro", "luffy"],
+      "locationIds": ["northern-coast-syrup-village"],
+      "crewIds": ["black-cat-pirates"],
+      "quotes": [
+        {
+          "text": "Shakushi!",
+          "speaker": "Kuro",
+          "context": "Kuro activates his ultimate technique"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [17, 18],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep016-event-008",
+      "episodeNumber": 16,
+      "timestamp": "16:20",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Black Cat Pirates Injured by Their Own Captain",
+      "description": "As Kuro uses his Shakushi technique, he indiscriminately slashes everything in his path, severely wounding many of his own crew members. The Black Cat Pirates are left gravely injured and shocked by their captain's betrayal.",
+      "significance": "Demonstrates the fatal weakness of Kuro's Shakushi technique - he cannot control who he attacks. This moment also shows the Black Cat Pirates the true nature of their captain, who cares nothing for their lives.",
+      "characterIds": ["kuro"],
+      "locationIds": ["northern-coast-syrup-village"],
+      "crewIds": ["black-cat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep016-event-009",
+      "episodeNumber": 16,
+      "timestamp": "18:00",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Luffy Struggles Against Kuro's Speed",
+      "description": "Luffy attempts to fight back against Kuro's Shakushi technique but struggles to track Kuro's movements due to his incredible speed. The technique's unpredictable nature makes it nearly impossible for Luffy to defend or counterattack effectively.",
+      "significance": "Shows Luffy facing an opponent whose speed surpasses anything he has encountered before, setting up the challenge he must overcome in the upcoming episodes.",
+      "characterIds": ["luffy", "kuro"],
+      "locationIds": ["northern-coast-syrup-village"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [15],
+      "payoffInEpisodes": [17, 18],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep016-event-010",
+      "episodeNumber": 16,
+      "timestamp": "20:15",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MINOR",
+      "title": "Episode Ends on Dual Cliffhangers",
+      "description": "The episode ends with two ongoing confrontations: Zoro and Usopp facing off against Jango to protect Kaya in the forest, while Luffy continues his difficult battle against Kuro's overwhelming speed at the northern coast.",
+      "significance": "Creates tension and anticipation for the next episode by leaving both major conflicts unresolved.",
+      "characterIds": ["luffy", "kuro", "zoro", "usopp", "jango", "kaya"],
+      "locationIds": ["northern-coast-syrup-village", "syrup-village-forest"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [17],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["pandaman"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["shakushi"]
+  },
+  "episodeRelationships": {
+    "setupFor": [17, 18],
+    "payoffFrom": [13, 14, 15],
+    "thematicLinks": []
+  },
+  "quotes": [
+    {
+      "text": "I'll sign it! Just don't hurt them!",
+      "speaker": "Kaya",
+      "context": "Kaya agrees to sign the will to save the Usopp Pirates",
+      "timestamp": "07:45"
+    },
+    {
+      "text": "You're not laying a finger on her!",
+      "speaker": "Usopp",
+      "context": "Usopp arrives to protect Kaya from Jango",
+      "timestamp": "09:30"
+    },
+    {
+      "text": "I have no need for any of you anymore. You're all just loose ends that need to be tied up.",
+      "speaker": "Kuro",
+      "context": "Kuro reveals his plan to kill his own crew",
+      "timestamp": "12:30"
+    },
+    {
+      "text": "Shakushi!",
+      "speaker": "Kuro",
+      "context": "Kuro unleashes his ultimate technique",
+      "timestamp": "14:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Loyalty and Betrayal",
+      "description": "The episode contrasts true loyalty (the Usopp Pirates risking their lives for Kaya, Usopp and Zoro coming to save her) with ultimate betrayal (Kuro's plan to kill his own crew after years of service).",
+      "symbolism": "Kuro's Cat Claws slashing his own crew represents the literal cutting of bonds and betrayal of trust.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Sacrifice and Selflessness",
+      "description": "Kaya demonstrates nobility by willing to sacrifice her fortune and life to save the Usopp Pirates, even though they are just children she barely knows.",
+      "symbolism": "Kaya signing the will represents her willingness to give up everything for others.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Cost of Ambition",
+      "description": "Kuro's willingness to kill his own crew shows how his ambition for a peaceful, wealthy life has stripped away any humanity or honor he might have once possessed.",
+      "symbolism": "The Shakushi technique's indiscriminate attacks symbolize how unchecked ambition destroys everything in its path, even allies.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Dark", "Action-packed", "Suspenseful"],
+  "characterSpotlights": [
+    {
+      "characterId": "kaya",
+      "role": "Damsel in distress with agency",
+      "development": "Kaya shows her selfless nature by agreeing to sign away her fortune to save the Usopp Pirates from Jango. Despite being physically weak and pursued, she demonstrates inner strength and nobility.",
+      "keyActions": [
+        "Flees through the forest with the Usopp Pirates",
+        "Agrees to sign the will to save the children",
+        "Is rescued by Zoro and Usopp"
+      ],
+      "quotes": ["I'll sign it! Just don't hurt them!"]
+    },
+    {
+      "characterId": "kuro",
+      "role": "Main antagonist",
+      "development": "Kuro's true nature is fully revealed as he demonstrates his complete lack of loyalty by planning to kill his own crew and using his Shakushi technique that harms friends and foes alike.",
+      "keyActions": [
+        "Reveals plan to kill his own crew",
+        "Unleashes Shakushi technique for the first time",
+        "Attacks indiscriminately, wounding his own men",
+        "Battles Luffy with overwhelming speed"
+      ],
+      "quotes": [
+        "I have no need for any of you anymore. You're all just loose ends that need to be tied up.",
+        "Shakushi!"
+      ]
+    },
+    {
+      "characterId": "usopp",
+      "role": "Protector and hero",
+      "development": "Usopp continues to show his growth from coward to hero by arriving to save Kaya and standing up to the dangerous Jango despite the risk.",
+      "keyActions": [
+        "Searches for Kaya in the forest",
+        "Arrives just in time to save Kaya from Jango",
+        "Stands between Jango and Kaya to protect her"
+      ],
+      "quotes": ["You're not laying a finger on her!"]
+    },
+    {
+      "characterId": "piiman",
+      "role": "Brave defender",
+      "development": "The Usopp Pirates show their bravery and loyalty by attempting to protect Kaya despite being outmatched, demonstrating the courage Usopp has inspired in them.",
+      "keyActions": [
+        "Escorts Kaya through the forest",
+        "Attempts to ambush Jango with traps",
+        "Faces death threats to protect Kaya"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "tamanegi",
+      "role": "Brave defender",
+      "development": "Shows courage in the face of danger alongside his friends.",
+      "keyActions": [
+        "Escorts Kaya through the forest",
+        "Participates in the ambush attempt on Jango",
+        "Stands up to Jango despite being threatened"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "ninjin",
+      "role": "Brave defender",
+      "development": "Demonstrates loyalty to Kaya and bravery despite being just a child.",
+      "keyActions": [
+        "Escorts Kaya through the forest",
+        "Helps set up traps to ambush Jango",
+        "Refuses to abandon Kaya even when threatened"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends the chase scenes and battle sequences, while the manga covers these events more quickly.",
+      "episodeTimestamp": "02:30-09:30",
+      "mangaReference": "Chapter 38",
+      "type": "PACING"
+    },
+    {
+      "difference": "Some dialogue and reactions from the Black Cat Pirates when Kuro attacks them are expanded in the anime for dramatic effect.",
+      "episodeTimestamp": "16:20",
+      "mangaReference": "Chapter 38",
+      "type": "EXPANDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks Pandaman's first appearance in the One Piece anime (excluding the opening theme). He appears as a background member of the Black Cat Pirates and would go on to make cameo appearances throughout the entire series.",
+      "category": "EASTER_EGG",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Pandaman",
+          "title": "Pandaman - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Kuro's Shakushi technique moves at approximately 100 meters in 4-5 seconds, which is comparable to the speed of CP9's Soru technique that appears much later in the series.",
+      "category": "ABILITIES",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Cat_Claws",
+          "title": "Cat Claws - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The 4Kids English dub altered some of the dialogue to obscure Jango's suicide threat and downplayed the violence of Kuro's attacks on his own crew.",
+      "category": "CENSORSHIP",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_16",
+          "title": "Episode 16 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode adapts content from Manga Chapters 38 (pages 2-20) and 39 (pages 2-12).",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_16",
+          "title": "Episode 16 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Kazuki Yao, who voices Jango in Japanese, also voices Bon Clay (Bentham) and Franky later in the series. In 2024, he was replaced by Wataru Takagi due to health issues.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://www.animenewsnetwork.com/news/2024-10-04/one-piece-anime-substitutes-kazuki-yao-with-wataru-takagi-as-jango-voice/.216370",
+          "title": "One Piece Anime Substitutes Kazuki Yao With Wataru Takagi as Jango's Voice",
+          "platform": "Anime News Network",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

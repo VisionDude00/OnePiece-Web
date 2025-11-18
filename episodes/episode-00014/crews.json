@@ -1,0 +1,163 @@
+[
+  {
+    "id": "black-cat-pirates",
+    "names": {
+      "primary": "Black Cat Pirates",
+      "english": "Black Cat Pirates",
+      "japanese": "黒猫海賊団",
+      "romanized": "Kuroneko Kaizokudan",
+      "aliases": []
+    },
+    "debut": {
+      "episode": 9,
+      "chapter": 23
+    },
+    "episodeAppearances": [14],
+    "captain": {
+      "characterId": "kuro",
+      "startEpisode": 9
+    },
+    "members": [
+      {
+        "characterId": "kuro",
+        "role": "Captain",
+        "joinedEpisode": 9
+      },
+      {
+        "characterId": "jango",
+        "role": "First Mate",
+        "joinedEpisode": 9
+      },
+      {
+        "characterId": "sham",
+        "role": "Ship Guard",
+        "joinedEpisode": 12
+      },
+      {
+        "characterId": "buchi",
+        "role": "Ship Guard",
+        "joinedEpisode": 12
+      }
+    ],
+    "keyMoments": [
+      {
+        "episode": 14,
+        "timestamp": "03:45",
+        "description": "Kuro arrives and threatens to kill his own crew if they don't defeat the Straw Hats in five minutes",
+        "significance": "Demonstrates Kuro's ruthless leadership and lack of loyalty to his crew",
+        "spoilerLevel": "MAJOR"
+      },
+      {
+        "episode": 14,
+        "timestamp": "08:30",
+        "description": "The Nyaban Brothers are defeated by Zoro's Tora Gari technique",
+        "significance": "The crew's top fighters are taken out, showing the Straw Hats' superiority",
+        "spoilerLevel": "MINOR"
+      },
+      {
+        "episode": 14,
+        "timestamp": "10:45",
+        "description": "Kuro demonstrates his combat superiority by easily evading attacks from Sham and Buchi",
+        "significance": "Shows the massive power gap between Kuro and his subordinates",
+        "spoilerLevel": "MAJOR"
+      },
+      {
+        "episode": 14,
+        "timestamp": "21:30",
+        "description": "Kuro's three-year deception plan is fully revealed",
+        "significance": "The crew's entire purpose was to facilitate Kuro's scheme to steal Kaya's fortune and disappear",
+        "spoilerLevel": "CRITICAL"
+      }
+    ],
+    "reveals": [
+      {
+        "episode": 14,
+        "infoType": "CREW_DYNAMICS",
+        "description": "Kuro views his crew as expendable tools and is willing to kill them if they fail",
+        "spoilerLevel": "MAJOR"
+      },
+      {
+        "episode": 14,
+        "infoType": "CREW_PURPOSE",
+        "description": "The crew's entire existence serves Kuro's plan to obtain wealth and anonymity",
+        "spoilerLevel": "MAJOR"
+      }
+    ],
+    "relationships": [
+      {
+        "crewId": "straw-hat-pirates",
+        "relationType": "ENEMY",
+        "description": "The Black Cat Pirates are engaged in battle with the Straw Hat Pirates at Syrup Village",
+        "establishedInEpisode": 14,
+        "spoilerLevel": "MAJOR"
+      }
+    ]
+  },
+  {
+    "id": "straw-hat-pirates",
+    "names": {
+      "primary": "Straw Hat Pirates",
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi",
+      "aliases": ["Straw Hats"]
+    },
+    "debut": {
+      "episode": 1,
+      "chapter": 1
+    },
+    "episodeAppearances": [14],
+    "captain": {
+      "characterId": "luffy",
+      "startEpisode": 1
+    },
+    "members": [
+      {
+        "characterId": "luffy",
+        "role": "Captain",
+        "joinedEpisode": 1
+      },
+      {
+        "characterId": "zoro",
+        "role": "Swordsman",
+        "joinedEpisode": 2
+      },
+      {
+        "characterId": "nami",
+        "role": "Navigator (temporary alliance)",
+        "joinedEpisode": 1
+      }
+    ],
+    "keyMoments": [
+      {
+        "episode": 14,
+        "timestamp": "08:30",
+        "description": "Zoro defeats the Nyaban Brothers with his new Tora Gari technique",
+        "significance": "Demonstrates the crew's growing combat capabilities",
+        "spoilerLevel": "MAJOR"
+      },
+      {
+        "episode": 14,
+        "timestamp": "16:45",
+        "description": "Luffy awakens from unconsciousness, shocking the Black Cat Pirates",
+        "significance": "The crew's captain returns to action at a critical moment",
+        "spoilerLevel": "MINOR"
+      },
+      {
+        "episode": 14,
+        "timestamp": "23:00",
+        "description": "Luffy punches Kuro and declares he will have a bad day",
+        "significance": "The crew's captain establishes himself as Kaya's protector",
+        "spoilerLevel": "MAJOR"
+      }
+    ],
+    "reveals": [
+      {
+        "episode": 14,
+        "infoType": "CREW_DYNAMICS",
+        "description": "The crew works together effectively with Nami supporting Zoro and attempting to wake Luffy",
+        "spoilerLevel": "MINOR"
+      }
+    ]
+  }
+]

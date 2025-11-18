@@ -1,0 +1,584 @@
+{
+  "episodeNumber": 11,
+  "episodeTitle": "Expose the Plot! Pirate Butler, Captain Kuro!",
+  "episodeTitleJapanese": "陰謀を暴け！海賊執事キャプテンクロ",
+  "episodeTitleRomanized": "Inbō o abake! Kaizoku shitsuji Kyaputen Kuro",
+  "description": "After Zoro and Nami rescue Luffy from the cliff, he reveals Klahadore's true identity as the notorious pirate Captain Kuro and his evil plot to kill Kaya. Usopp desperately tries to warn the village and Kaya, but his reputation as a liar causes everyone to dismiss his warnings. The Straw Hat crew decides to help Usopp defend the village against the upcoming pirate attack.",
+  "airDate": "2000-01-26",
+  "airDateJapan": "2000-01-26",
+  "airDateUS": "2004-11-27",
+  "airDateUSFunimation": "2008-05-27",
+  "arcName": "Syrup Village",
+  "sagaName": "East Blue Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Are!",
+    "titleJapanese": "ウィーアー!",
+    "artist": "Hiroshi Kitadani",
+    "composer": "Kohei Tanaka",
+    "lyricist": "Shoko Fujibayashi",
+    "episodeRange": [1, 47]
+  },
+  "endingSong": {
+    "title": "memories",
+    "titleJapanese": "メモリーズ",
+    "artist": "Maki Otsuki",
+    "composer": "JUNTA MORI",
+    "lyricist": "Maki Otsuki",
+    "episodeRange": [1, 30]
+  },
+  "credits": {
+    "director": "Shigeyasu Yamauchi",
+    "screenplay": "Junki Takegami",
+    "artDirector": "Tomoko Yoshida",
+    "animationDirector": "Yuji Hakamada",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Captain Kuro / Klahadore",
+        "actor": "Kōichi Hashimoto"
+      },
+      {
+        "character": "Merry",
+        "actor": "Jin Domon"
+      },
+      {
+        "character": "Kaya",
+        "actor": "Mariko Kouda"
+      },
+      {
+        "character": "Jango",
+        "actor": "Kazuki Yao"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Captain Kuro / Klahadore",
+        "actor": "Kent Williams"
+      },
+      {
+        "character": "Merry",
+        "actor": "Jerry Jewell"
+      },
+      {
+        "character": "Kaya",
+        "actor": "Carrie Savage"
+      },
+      {
+        "character": "Jango",
+        "actor": "Kenny Green"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep011-event-001",
+      "episodeNumber": 11,
+      "timestamp": "03:20",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Zoro and Nami Search for Luffy",
+      "description": "After Luffy falls off the cliff in the previous episode, Zoro and Nami go looking for him, worried about his fate. They find him at the bottom of the cliff, completely unharmed and cheerful as usual.",
+      "significance": "Shows the growing bond between the early Straw Hat members and Luffy's durability despite dangerous falls.",
+      "characterIds": ["luffy", "zoro", "nami"],
+      "locationIds": ["syrup-village"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [10],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep011-event-002",
+      "episodeNumber": 11,
+      "timestamp": "04:15",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Luffy Reveals Kuro's Evil Plot",
+      "description": "Luffy explains to Zoro and Nami that Klahadore is actually the notorious pirate Captain Kuro, who faked his death three years ago. He reveals Kuro's plan to have Jango hypnotize Kaya into signing over her fortune, then kill her while making it look like an accident during a pirate attack.",
+      "significance": "The Straw Hats finally learn the full extent of Kuro's deception and the danger Kaya is in. This revelation drives the arc's main conflict and shows the depths of Kuro's cunning.",
+      "characterIds": ["luffy", "zoro", "nami", "kuro", "jango", "kaya"],
+      "locationIds": ["syrup-village"],
+      "quotes": [
+        {
+          "text": "That butler Klahadore... he's really Captain Kuro, the pirate!",
+          "speaker": "Luffy",
+          "context": "Luffy reveals Kuro's true identity to his crew"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [9, 10],
+      "payoffInEpisodes": [12, 13, 14],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep011-event-003",
+      "episodeNumber": 11,
+      "timestamp": "05:45",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Captain Kuro's Legend Explained",
+      "description": "The crew discusses Captain Kuro's fearsome reputation as 'Kuro of a Hundred Plans,' a pirate known for his brilliant tactical mind and ruthless nature. His bounty of 16,000,000 berries made him one of the most wanted pirates in the East Blue before his supposed capture and execution.",
+      "significance": "Establishes Kuro as a significant threat and demonstrates that not all pirates are simple brutes - some are cunning strategists. This also shows the world's belief in his death, making his deception more impressive.",
+      "characterIds": ["kuro"],
+      "locationIds": [],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [10],
+      "payoffInEpisodes": [14],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep011-event-004",
+      "episodeNumber": 11,
+      "timestamp": "07:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Usopp Decides to Warn the Village",
+      "description": "Despite his fear and knowing that the Black Cat Pirates will attack at dawn, Usopp courageously decides to run to the village to warn everyone about the impending pirate attack. He believes it's his duty to protect the village he loves.",
+      "significance": "This is a pivotal moment showing Usopp's bravery and sense of responsibility. Despite being known as a liar, he chooses to do the right thing, establishing his heroic character beneath his cowardly facade.",
+      "characterIds": ["usopp"],
+      "locationIds": ["syrup-village"],
+      "quotes": [
+        {
+          "text": "I have to warn everyone! The village is in danger!",
+          "speaker": "Usopp",
+          "context": "Usopp resolving to alert the villagers despite the danger"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [10],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep011-event-005",
+      "episodeNumber": 11,
+      "timestamp": "09:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "The Boy Who Cried Wolf - Villagers Don't Believe Usopp",
+      "description": "Usopp desperately runs through the village warning everyone that pirates will attack at dawn, but the villagers think it's another one of his lies. They become angry at him for using the same 'joke' twice in one day, completely dismissing his genuine warning.",
+      "significance": "This scene embodies the classic 'boy who cried wolf' parable, showing the consequences of Usopp's past lies. It's a tragic moment where telling the truth matters most, but no one believes him due to his reputation. This deepens Usopp's character and creates dramatic irony.",
+      "characterIds": ["usopp"],
+      "locationIds": ["syrup-village"],
+      "quotes": [
+        {
+          "text": "Pirates are coming! They'll attack at dawn!",
+          "speaker": "Usopp",
+          "context": "Usopp desperately trying to warn the villagers"
+        },
+        {
+          "text": "We don't believe your lies anymore, Usopp!",
+          "speaker": "Villager",
+          "context": "The villagers dismissing Usopp's warning"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [9],
+      "payoffInEpisodes": [14],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep011-event-006",
+      "episodeNumber": 11,
+      "timestamp": "11:20",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Villagers Compare Usopp to Klahadore",
+      "description": "The villagers angrily tell Usopp they would believe him if only he had been a trustworthy man like Klahadore. They chase him out of the village, praising Klahadore's supposed integrity while condemning Usopp.",
+      "significance": "This painful irony emphasizes how completely Kuro has deceived the village. The very person plotting their destruction is held up as a model of trustworthiness, while the one trying to save them is ridiculed. This contrast underscores the tragedy of Usopp's situation.",
+      "characterIds": ["usopp", "kuro"],
+      "locationIds": ["syrup-village"],
+      "quotes": [
+        {
+          "text": "If you were trustworthy like Klahadore, we might believe you!",
+          "speaker": "Villager",
+          "context": "Villagers praising Kuro while dismissing Usopp"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [9, 10],
+      "payoffInEpisodes": [14],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep011-event-007",
+      "episodeNumber": 11,
+      "timestamp": "13:10",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Usopp Goes to Warn Kaya",
+      "description": "After being rejected by the villagers, Usopp rushes to Kaya's mansion to warn her directly about Klahadore's true identity and murderous intentions. He believes if he can convince Kaya, she will be safe even if no one else believes him.",
+      "significance": "Shows Usopp's determination and his care for Kaya specifically. Even after being humiliated by the village, he doesn't give up and goes directly to the person in most danger.",
+      "characterIds": ["usopp", "kaya"],
+      "locationIds": ["kayas-mansion"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [9, 10],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep011-event-008",
+      "episodeNumber": 11,
+      "timestamp": "14:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Merry's Debut",
+      "description": "Merry, another of Kaya's loyal servants and the designer of the future Going Merry ship, makes his first appearance. He is a tall butler with distinctive lamb-like features including curly hair and small horns.",
+      "significance": "Introduces Merry, who will later design the Straw Hats' first ship, the Going Merry. His character and loyalty to Kaya are established here, setting up his importance to the arc and the series.",
+      "characterIds": ["merry"],
+      "locationIds": ["kayas-mansion"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [15, 17],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep011-event-009",
+      "episodeNumber": 11,
+      "timestamp": "15:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Usopp Confronts Mansion Guards",
+      "description": "When Usopp tries to force his way into the mansion to warn Kaya, he has to fight against the guards who try to stop him. Despite being outnumbered, Usopp fights to reach Kaya.",
+      "significance": "Demonstrates Usopp's determination and willingness to fight despite his fears when protecting those he cares about. Shows his combat abilities even at this early stage.",
+      "characterIds": ["usopp"],
+      "locationIds": ["kayas-mansion"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep011-event-010",
+      "episodeNumber": 11,
+      "timestamp": "16:45",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Merry Shoots Usopp",
+      "description": "Merry, believing Usopp is attacking the mansion and causing trouble for the sick Kaya, shoots Usopp in the arm with a pistol. This wounds Usopp but doesn't stop his desperate attempt to reach Kaya.",
+      "significance": "A shocking moment that shows how completely the mansion staff trusts Klahadore/Kuro over Usopp. Even Merry, who will later become an ally, sees Usopp as a threat rather than a savior. The injury also emphasizes the physical cost of Usopp's heroism.",
+      "characterIds": ["merry", "usopp"],
+      "locationIds": ["kayas-mansion"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [12],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep011-event-011",
+      "episodeNumber": 11,
+      "timestamp": "18:00",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Kaya Refuses to Believe Usopp",
+      "description": "Despite his injury, Usopp reaches Kaya and desperately tells her that Klahadore is actually Captain Kuro who plans to kill her. Kaya, devastated that Usopp would make such a 'cruel joke' about her trusted butler, refuses to believe him.",
+      "significance": "This is emotionally devastating for Usopp - the person he's trying to save doesn't believe him. It shows how deeply Kuro's deception runs and the pain of not being trusted when it matters most. This moment tests Usopp's resolve.",
+      "characterIds": ["usopp", "kaya", "kuro"],
+      "locationIds": ["kayas-mansion"],
+      "quotes": [
+        {
+          "text": "How could you say such terrible things about Klahadore? He would never do something like that!",
+          "speaker": "Kaya",
+          "context": "Kaya refusing to believe Usopp's warning about Kuro"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [9, 10],
+      "payoffInEpisodes": [12, 13],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep011-event-012",
+      "episodeNumber": 11,
+      "timestamp": "19:15",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Kaya Slaps Usopp",
+      "description": "Overwhelmed with emotion and believing Usopp is making a heartless joke, Kaya slaps Usopp across the face. She tells him to leave and never come back, defending Klahadore's honor.",
+      "significance": "A heartbreaking moment showing the complete breakdown of trust between Usopp and Kaya. The slap symbolizes how his past lies have destroyed his credibility at the worst possible time. This rejection deepens Usopp's character arc about the consequences of dishonesty.",
+      "characterIds": ["kaya", "usopp"],
+      "locationIds": ["kayas-mansion"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [9],
+      "payoffInEpisodes": [13, 14],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep011-event-013",
+      "episodeNumber": 11,
+      "timestamp": "20:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Kuro Meets with the Black Cat Pirates",
+      "description": "At the shore where the Black Cat Pirates' ship is docked, Captain Kuro meets with his crew to finalize plans for the attack on Syrup Village at dawn. His crew eagerly awaits their captain's return to piracy.",
+      "significance": "Shows Kuro's continued command over his former crew and sets up the impending battle. Demonstrates that despite three years away, the Black Cat Pirates are still loyal to Kuro and ready to execute his plan.",
+      "characterIds": ["kuro", "jango"],
+      "locationIds": ["syrup-village-shore"],
+      "crewIds": ["black-cat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [10],
+      "payoffInEpisodes": [13, 14],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep011-event-014",
+      "episodeNumber": 11,
+      "timestamp": "21:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "The Straw Hats Decide to Help Usopp",
+      "description": "After witnessing Usopp's failed attempts to warn everyone and seeing his dedication to protecting the village despite being rejected, Luffy, Zoro, and Nami decide to help him defend Syrup Village from the Black Cat Pirates' attack at dawn.",
+      "significance": "This marks the Straw Hats' first major act of heroism as a crew, choosing to protect innocent people without any personal gain. It also shows their growing bond with Usopp and establishes their heroic nature. This decision sets up the major battle to come.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp"],
+      "locationIds": ["syrup-village"],
+      "quotes": [
+        {
+          "text": "We'll help you stop them, Usopp!",
+          "speaker": "Luffy",
+          "context": "Luffy committing to help defend the village"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [10],
+      "payoffInEpisodes": [12, 13, 14],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["merry"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [12, 13, 14],
+    "payoffFrom": [9, 10],
+    "thematicLinks": [9, 10, 12]
+  },
+  "quotes": [
+    {
+      "text": "That butler Klahadore... he's really Captain Kuro, the pirate!",
+      "speaker": "Luffy",
+      "context": "Revealing Kuro's true identity to the crew",
+      "timestamp": "04:15"
+    },
+    {
+      "text": "I have to warn everyone! The village is in danger!",
+      "speaker": "Usopp",
+      "context": "Deciding to warn the village despite the danger",
+      "timestamp": "07:30"
+    },
+    {
+      "text": "Pirates are coming! They'll attack at dawn!",
+      "speaker": "Usopp",
+      "context": "Desperately trying to warn the villagers",
+      "timestamp": "09:15"
+    },
+    {
+      "text": "If you were trustworthy like Klahadore, we might believe you!",
+      "speaker": "Villager",
+      "context": "The tragic irony of praising Kuro while dismissing Usopp",
+      "timestamp": "11:20"
+    },
+    {
+      "text": "How could you say such terrible things about Klahadore? He would never do something like that!",
+      "speaker": "Kaya",
+      "context": "Kaya refusing to believe Usopp's warning",
+      "timestamp": "18:00"
+    },
+    {
+      "text": "We'll help you stop them, Usopp!",
+      "speaker": "Luffy",
+      "context": "The Straw Hats committing to defend the village",
+      "timestamp": "21:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Consequences of Dishonesty",
+      "description": "The episode powerfully demonstrates the 'boy who cried wolf' parable through Usopp's past lies coming back to haunt him. When he tells the truth about real danger, no one believes him, creating a tragic situation where his attempts to save lives are dismissed.",
+      "symbolism": "Usopp's rejection by both the villagers and Kaya symbolizes how dishonesty destroys trust and credibility, even when redemption is sought.",
+      "culturalReferences": ["Aesop's Fable: The Boy Who Cried Wolf"]
+    },
+    {
+      "theme": "Deception vs. Truth",
+      "description": "The episode contrasts Kuro's masterful three-year deception with Usopp's desperate truth-telling. Ironically, the villain is trusted while the hero is rejected, highlighting how appearances can deceive and truth doesn't always prevail without proof.",
+      "symbolism": "Klahadore's butler disguise versus his true pirate nature represents the masks people wear and the danger of judging by appearances alone.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Courage and Sacrifice",
+      "description": "Despite being terrified and knowing he won't be believed, Usopp courageously tries to warn everyone. He endures humiliation, physical injury, and emotional pain for the sake of protecting others, demonstrating true heroism.",
+      "symbolism": "Usopp's wounded arm from Merry's gunshot represents the physical and emotional cost of doing the right thing when no one supports you.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Loyalty and Friendship",
+      "description": "The Straw Hats' decision to help Usopp defend the village despite having no obligation shows the growing bonds of their crew. They choose to fight for what's right and support their new friend.",
+      "symbolism": "The crew standing together at the end represents the formation of a true pirate crew based on mutual respect and shared values rather than just convenience.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Dramatic", "Tragic", "Tense", "Ironic", "Determined"],
+  "characterSpotlights": [
+    {
+      "characterId": "usopp",
+      "role": "Protagonist of the episode",
+      "development": "This episode is Usopp's most important character-defining moment in the arc. He transforms from a comedic liar into a tragic hero, showing his true courage and willingness to sacrifice himself for others. The rejection he faces from everyone he tries to save deepens his character and makes his eventual triumph more meaningful.",
+      "keyActions": [
+        "Decides to warn the village about the pirate attack",
+        "Faces rejection and humiliation from the villagers",
+        "Fights through mansion guards despite his fears",
+        "Gets shot by Merry while trying to reach Kaya",
+        "Endures Kaya's disbelief and rejection",
+        "Continues to prepare for battle despite everyone's rejection"
+      ],
+      "quotes": [
+        "I have to warn everyone! The village is in danger!",
+        "Pirates are coming! They'll attack at dawn!"
+      ]
+    },
+    {
+      "characterId": "merry",
+      "role": "Supporting character debut",
+      "development": "Merry is introduced as a loyal servant to Kaya who, like everyone else, has been completely deceived by Kuro. His shooting of Usopp shows his protective nature toward Kaya, even though he's misguided about who the real threat is. This sets up his later realization and redemption.",
+      "keyActions": [
+        "Makes his first appearance at Kaya's mansion",
+        "Shoots Usopp to protect Kaya from what he perceives as a threat",
+        "Defends Klahadore's honor"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "kuro",
+      "role": "Antagonist",
+      "development": "Kuro's deception is shown to be complete and masterful. The villagers' absolute trust in 'Klahadore' demonstrates how successfully he's maintained his false identity for three years. His meeting with the Black Cat Pirates shows his true nature remains unchanged despite his butler persona.",
+      "keyActions": [
+        "Is praised by villagers as trustworthy, contrasted with Usopp",
+        "Meets with the Black Cat Pirates to finalize attack plans",
+        "Maintains his deception of Kaya and the mansion staff"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "luffy",
+      "role": "Supporting protagonist",
+      "development": "Luffy shows his growing leadership and heroic nature by deciding to help Usopp defend the village. His willingness to fight for others without personal gain demonstrates his core character values.",
+      "keyActions": [
+        "Is rescued by Zoro and Nami from the cliff",
+        "Reveals Kuro's evil plot to his crew",
+        "Decides to help Usopp defend Syrup Village"
+      ],
+      "quotes": [
+        "That butler Klahadore... he's really Captain Kuro, the pirate!",
+        "We'll help you stop them, Usopp!"
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "In the anime, Nami treats Usopp's bullet wound. This scene was added by the anime and does not appear in the manga.",
+      "episodeTimestamp": "17:30",
+      "mangaReference": "Chapter 26-27",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode adapts chapters 26 and 27 of the manga, continuing the Syrup Village arc.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_11",
+          "title": "Episode 11 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Merry, who debuts in this episode, is named after the ship he will later design - the Going Merry. His lamb-like appearance inspired the ship's figurehead.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Merry",
+          "title": "Merry - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The 'boy who cried wolf' theme in this episode is a direct reference to Aesop's famous fable, demonstrating how One Piece incorporates classic storytelling morals.",
+      "category": "THEME",
+      "sources": []
+    },
+    {
+      "fact": "Captain Kuro's bounty of 16,000,000 berries was considered very high for the East Blue, indicating his status as a major threat before his supposed death.",
+      "category": "WORLD_BUILDING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Kuro",
+          "title": "Kuro - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Jin Domon, who voices Merry in Japanese, is also known for voicing other characters in various anime series. Jerry Jewell provides the English Funimation dub voice.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Merry",
+          "title": "Merry - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

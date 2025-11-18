@@ -1,0 +1,575 @@
+{
+  "episodeNumber": 10,
+  "episodeTitle": "The World's Strongest Weirdo! Jango the Hypnotist!",
+  "episodeTitleJapanese": "史上最強の変な奴！催眠術師ジャンゴ",
+  "episodeTitleRomanized": "Shijō saikyō no henna yatsu! Saiminjutsushi Jango",
+  "description": "Klahadore confronts Usopp and the crew, expelling them from the mansion. Later, Usopp and Luffy discover Klahadore's true identity as Captain Kuro and overhear his sinister plan to assassinate Kaya for her fortune.",
+  "airDate": "2000-01-19",
+  "airDateJapan": "2000-01-19",
+  "airDateUS": "2008-05-27",
+  "arcName": "Syrup Village",
+  "sagaName": "East Blue Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Are!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [1, 47]
+  },
+  "endingSong": {
+    "title": "memories",
+    "artist": "Maki Otsuki",
+    "episodeRange": [1, 30]
+  },
+  "credits": {
+    "animationDirector": "Masayuki Takagi",
+    "director": "Munehisa Sakai",
+    "screenplay": "Junki Takegami",
+    "artDirector": "Miyuki Sato",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Kuro",
+        "actor": "Koichi Hashimoto"
+      },
+      {
+        "character": "Jango",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Kaya",
+        "actor": "Mariko Kouda"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Kuro",
+        "actor": "Kent Williams"
+      },
+      {
+        "character": "Jango",
+        "actor": "Kenny Green"
+      },
+      {
+        "character": "Kaya",
+        "actor": "Carrie Savage"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep010-event-001",
+      "episodeNumber": 10,
+      "timestamp": "03:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Crew Requests Ship from Klahadore",
+      "description": "The Straw Hat crew approaches Klahadore at Kaya's mansion, requesting a ship for their journey. Klahadore coldly rejects their request, showing his disdain for pirates.",
+      "significance": "Sets up the conflict between Klahadore and the crew, and shows his contempt for pirates despite his secret identity.",
+      "characterIds": ["luffy", "zoro", "nami", "kuro", "usopp"],
+      "locationIds": ["kaya-mansion"],
+      "quotes": [
+        {
+          "text": "I will not provide a ship to pirates who associate with a liar.",
+          "speaker": "Klahadore",
+          "context": "Klahadore's refusal to help the Straw Hats"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [9],
+      "payoffInEpisodes": [15, 16],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep010-event-002",
+      "episodeNumber": 10,
+      "timestamp": "05:30",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Klahadore Insults Yasopp",
+      "description": "Klahadore deliberately insults Usopp's father Yasopp, calling him a worthless pirate who abandoned his family. This triggers Usopp's anger and protective feelings about his father.",
+      "significance": "Reveals Usopp's deep emotional connection to his father and his sensitivity about being called a liar or having his father disrespected. This is a key character moment for Usopp.",
+      "characterIds": ["kuro", "usopp"],
+      "locationIds": ["kaya-mansion"],
+      "quotes": [
+        {
+          "text": "Your father is nothing but a worthless pirate who abandoned his family!",
+          "speaker": "Klahadore",
+          "context": "Klahadore provokes Usopp by insulting Yasopp"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [9],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [9]
+    },
+    {
+      "id": "ep010-event-003",
+      "episodeNumber": 10,
+      "timestamp": "06:45",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Usopp Attacks Klahadore",
+      "description": "Unable to control his anger after hearing his father insulted, Usopp physically attacks Klahadore. The butler easily deflects the attack, showing unexpected combat capability.",
+      "significance": "First hint that Klahadore is more than just a butler, foreshadowing his true identity as a former pirate captain.",
+      "characterIds": ["usopp", "kuro"],
+      "locationIds": ["kaya-mansion"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [10],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep010-event-004",
+      "episodeNumber": 10,
+      "timestamp": "07:20",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MINOR",
+      "title": "Crew Expelled from Mansion",
+      "description": "Klahadore orders Usopp and the Straw Hat crew to leave the mansion grounds immediately and never return. They are forcibly expelled from the property.",
+      "significance": "Separates the crew from Kaya, making it harder to warn her about the danger and setting up Usopp's isolation.",
+      "characterIds": ["kuro", "usopp", "luffy", "zoro", "nami"],
+      "locationIds": ["kaya-mansion"],
+      "quotes": [
+        {
+          "text": "Leave this mansion at once and never return!",
+          "speaker": "Klahadore",
+          "context": "Klahadore expels the crew from the mansion"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [11, 12],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep010-event-005",
+      "episodeNumber": 10,
+      "timestamp": "09:40",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Luffy and Usopp Discuss Yasopp",
+      "description": "Sitting on a cliff overlooking the ocean, Luffy reveals to Usopp that he knows his father Yasopp personally. Luffy explains that Yasopp is a member of Shanks' Red Hair Pirates and would often talk proudly about his son.",
+      "significance": "Establishes the connection between Usopp and the Red Hair Pirates through his father. This is an important character development moment that validates Usopp's pride in his father and strengthens his bond with Luffy.",
+      "characterIds": ["luffy", "usopp"],
+      "locationIds": ["syrup-village-cliff"],
+      "quotes": [
+        {
+          "text": "Your dad is in Shanks' crew! He talks about you all the time - he's really proud of you!",
+          "speaker": "Luffy",
+          "context": "Luffy tells Usopp about knowing his father from Shanks' crew"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [4],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [1, 4]
+    },
+    {
+      "id": "ep010-event-006",
+      "episodeNumber": 10,
+      "timestamp": "12:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "CRITICAL",
+      "title": "Klahadore Meets Jango at the Cliff",
+      "description": "While discussing Yasopp, Luffy and Usopp notice two figures meeting secretly at the base of the cliff below them. Klahadore is meeting with a strange man with heart-shaped sunglasses - the hypnotist Jango.",
+      "significance": "First time the villain's conspiracy is visually revealed to both the audience and protagonists. Sets up the major conflict of the arc.",
+      "characterIds": ["kuro", "jango", "luffy", "usopp"],
+      "locationIds": ["syrup-village-cliff"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [11, 12, 13, 14, 15],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep010-event-007",
+      "episodeNumber": 10,
+      "timestamp": "13:30",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Klahadore's True Identity Revealed",
+      "description": "To Luffy and Usopp's horror, they overhear Jango address Klahadore as 'Captain Kuro,' revealing that the butler is actually the infamous pirate captain Kuro of the Black Cat Pirates who supposedly died three years ago.",
+      "significance": "Major plot twist that transforms the arc's antagonist from a stern butler to a notorious pirate captain. This is the central revelation of the episode and establishes the true threat level.",
+      "characterIds": ["kuro", "jango", "luffy", "usopp"],
+      "locationIds": ["syrup-village-cliff"],
+      "crewIds": ["black-cat-pirates"],
+      "quotes": [
+        {
+          "text": "Captain Kuro, everything is proceeding according to your plan.",
+          "speaker": "Jango",
+          "context": "Jango addresses Klahadore by his true identity"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [9],
+      "payoffInEpisodes": [11, 12, 13, 14, 15],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep010-event-008",
+      "episodeNumber": 10,
+      "timestamp": "14:45",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Kuro's Escape Method Revealed",
+      "description": "Kuro explains to Jango how he escaped Marine capture three years ago. He hypnotized one of his crew members to believe he was Captain Kuro, then sent this lookalike to be captured and executed by the Marines in his place.",
+      "significance": "Demonstrates Kuro's ruthless cunning and establishes his reputation as 'Kuro of a Hundred Plans.' Shows the extent of his manipulation and willingness to sacrifice his own crew.",
+      "characterIds": ["kuro", "jango"],
+      "locationIds": ["syrup-village-cliff"],
+      "quotes": [
+        {
+          "text": "I hypnotized one of my own men to take my place. The Marines executed him thinking he was me.",
+          "speaker": "Kuro",
+          "context": "Kuro explains how he faked his death"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep010-event-009",
+      "episodeNumber": 10,
+      "timestamp": "16:00",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "CRITICAL",
+      "title": "The Assassination Plot Revealed",
+      "description": "Kuro and Jango discuss their plan to assassinate Kaya. Jango will hypnotize Kaya into writing a will that leaves all her fortune to Klahadore, then the Black Cat Pirates will attack the village. Kaya will be killed in the chaos, and Kuro will inherit her massive wealth.",
+      "significance": "Reveals the full scope of the villains' plan and establishes the stakes for the arc. Kaya's life is in immediate danger, and the entire village will be attacked.",
+      "characterIds": ["kuro", "jango"],
+      "locationIds": ["syrup-village-cliff"],
+      "crewIds": ["black-cat-pirates"],
+      "quotes": [
+        {
+          "text": "Once Jango hypnotizes the girl into changing her will, the Black Cat Pirates will raid the village. In the confusion, the girl dies, and I inherit everything.",
+          "speaker": "Kuro",
+          "context": "Kuro reveals his complete plan to assassinate Kaya"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [11, 12, 13, 14, 15],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep010-event-010",
+      "episodeNumber": 10,
+      "timestamp": "17:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Black Cat Pirates' Ship Location Revealed",
+      "description": "Jango informs Kuro that the Black Cat Pirates' ship is currently stationed at the northern shore of the island, ready to launch the attack on the village when ordered.",
+      "significance": "Provides crucial tactical information about the enemy's position and confirms that the threat is immediate and real.",
+      "characterIds": ["kuro", "jango"],
+      "locationIds": ["syrup-village-cliff", "syrup-village"],
+      "crewIds": ["black-cat-pirates"],
+      "quotes": [
+        {
+          "text": "The crew and ship are ready at the northern shore, Captain. We can attack whenever you give the order.",
+          "speaker": "Jango",
+          "context": "Jango reports on the Black Cat Pirates' readiness"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [13, 14, 15],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep010-event-011",
+      "episodeNumber": 10,
+      "timestamp": "18:20",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Luffy and Usopp Discovered",
+      "description": "Kuro and Jango notice Luffy and Usopp eavesdropping on their conversation from the cliff above. The villains realize their plan has been overheard.",
+      "significance": "Escalates the conflict from secret conspiracy to open confrontation. The heroes now know the plan, but the villains know they've been discovered.",
+      "characterIds": ["kuro", "jango", "luffy", "usopp"],
+      "locationIds": ["syrup-village-cliff"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [10],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep010-event-012",
+      "episodeNumber": 10,
+      "timestamp": "19:10",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Jango's Hypnotism Used on Luffy",
+      "description": "Jango uses his hypnotic powers for the first time on screen, swinging his chakram pendulum and chanting 'One, Two, Jango!' to put Luffy to sleep instantly.",
+      "significance": "First demonstration of Jango's signature hypnotic ability, which will be a major threat throughout the arc. Shows that the villains have supernatural powers.",
+      "characterIds": ["jango", "luffy"],
+      "locationIds": ["syrup-village-cliff"],
+      "quotes": [
+        {
+          "text": "One, Two, Jango! When I say Jango, you will fall asleep!",
+          "speaker": "Jango",
+          "context": "Jango hypnotizes Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [9],
+      "payoffInEpisodes": [13, 14, 15],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep010-event-013",
+      "episodeNumber": 10,
+      "timestamp": "19:45",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Luffy Falls Off the Cliff",
+      "description": "Hypnotized into sleep by Jango, Luffy falls headfirst off the cliff. Usopp watches in horror as Luffy plummets toward the rocks below.",
+      "significance": "Creates a cliffhanger ending and puts Luffy in immediate danger. Demonstrates the deadly seriousness of the villains and their willingness to kill.",
+      "characterIds": ["luffy", "jango", "usopp"],
+      "locationIds": ["syrup-village-cliff"],
+      "quotes": [
+        {
+          "text": "Luffy!",
+          "speaker": "Usopp",
+          "context": "Usopp's horrified reaction to Luffy falling"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [11],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep010-event-014",
+      "episodeNumber": 10,
+      "timestamp": "20:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Kuro Decides to Spare Usopp",
+      "description": "Kuro decides not to pursue Usopp, reasoning that no one in the village will believe the notorious liar if he tries to warn them about the conspiracy. This arrogance proves to be a strategic mistake.",
+      "significance": "Shows Kuro's calculating nature but also his overconfidence. This decision gives the heroes a chance to prepare, setting up the conflict for the next episodes.",
+      "characterIds": ["kuro", "jango", "usopp"],
+      "locationIds": ["syrup-village-cliff"],
+      "quotes": [
+        {
+          "text": "Let him go. No one will believe the village liar anyway.",
+          "speaker": "Kuro",
+          "context": "Kuro's decision not to kill Usopp"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [9],
+      "payoffInEpisodes": [11, 12],
+      "callbacksToEpisodes": [9]
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": ["syrup-village-cliff"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["jango-hypnotism"]
+  },
+  "episodeRelationships": {
+    "setupFor": [11, 12, 13, 14, 15],
+    "payoffFrom": [9],
+    "thematicLinks": [9, 15]
+  },
+  "quotes": [
+    {
+      "text": "Your dad is in Shanks' crew! He talks about you all the time - he's really proud of you!",
+      "speaker": "Luffy",
+      "context": "Luffy reveals to Usopp that he knows his father Yasopp",
+      "timestamp": "09:40"
+    },
+    {
+      "text": "Captain Kuro, everything is proceeding according to your plan.",
+      "speaker": "Jango",
+      "context": "Jango addresses Klahadore by his true identity",
+      "timestamp": "13:30"
+    },
+    {
+      "text": "I hypnotized one of my own men to take my place. The Marines executed him thinking he was me.",
+      "speaker": "Kuro",
+      "context": "Kuro explains how he faked his death",
+      "timestamp": "14:45"
+    },
+    {
+      "text": "Once Jango hypnotizes the girl into changing her will, the Black Cat Pirates will raid the village. In the confusion, the girl dies, and I inherit everything.",
+      "speaker": "Kuro",
+      "context": "Kuro reveals his complete assassination plan",
+      "timestamp": "16:00"
+    },
+    {
+      "text": "Let him go. No one will believe the village liar anyway.",
+      "speaker": "Kuro",
+      "context": "Kuro's decision not to kill Usopp",
+      "timestamp": "20:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Truth vs Lies",
+      "description": "The episode explores the irony of Usopp being called a liar while uncovering the truth about Kuro's massive deception. Kuro's assumption that no one will believe Usopp because of his reputation as a liar becomes central to the conflict.",
+      "symbolism": "The cliff represents the divide between appearance (Klahadore the butler) and reality (Kuro the pirate). Overhearing from above symbolizes gaining a higher perspective on the truth.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Family and Heritage",
+      "description": "Usopp's pride in his father Yasopp is a driving force in this episode. Learning that Luffy knows his father and that Yasopp speaks proudly of him validates Usopp's beliefs and strengthens his character.",
+      "symbolism": "The ocean view from the cliff represents the connection between Usopp and his father, who is out at sea with the Red Hair Pirates.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Deception and Planning",
+      "description": "Kuro's epithet 'Kuro of a Hundred Plans' is exemplified through his elaborate three-year scheme. His manipulation of everyone around him, from the Marines to Kaya's family, shows his strategic mind.",
+      "symbolism": "The butler disguise represents layers of deception - Kuro has literally worn a mask of respectability for three years.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Revelatory", "Dramatic", "Suspenseful"],
+  "characterSpotlights": [
+    {
+      "characterId": "usopp",
+      "role": "Protagonist focus",
+      "development": "Usopp's character depth is explored through his relationship with his father and his role as the village liar. His emotional vulnerability when his father is insulted shows his genuine feelings beneath his bravado.",
+      "keyActions": [
+        "Attacks Klahadore for insulting his father",
+        "Learns about Yasopp from Luffy",
+        "Discovers Kuro's conspiracy",
+        "Witnesses Luffy fall from the cliff"
+      ],
+      "quotes": [
+        "Don't you dare insult my father!"
+      ]
+    },
+    {
+      "characterId": "kuro",
+      "role": "Main antagonist reveal",
+      "development": "The episode fully reveals Kuro's true identity and the extent of his planning. His ruthlessness, intelligence, and willingness to sacrifice anyone for his goals are established.",
+      "keyActions": [
+        "Insults Yasopp to provoke Usopp",
+        "Expels the crew from the mansion",
+        "Meets with Jango to discuss the assassination plan",
+        "Reveals his method of faking his death",
+        "Decides to spare Usopp out of arrogance"
+      ],
+      "quotes": [
+        "Let him go. No one will believe the village liar anyway."
+      ]
+    },
+    {
+      "characterId": "jango",
+      "role": "Supporting antagonist",
+      "development": "Jango's hypnotic abilities and loyalty to Kuro are demonstrated. He serves as Kuro's lieutenant and executioner.",
+      "keyActions": [
+        "Meets with Kuro at the cliff",
+        "Reports on the Black Cat Pirates' readiness",
+        "Uses hypnotism on Luffy",
+        "Causes Luffy to fall from the cliff"
+      ],
+      "quotes": [
+        "One, Two, Jango!"
+      ]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Supporting protagonist",
+      "development": "Luffy shows his emotional intelligence by understanding Usopp's feelings about his father. He reveals information about Yasopp that strengthens his bond with Usopp.",
+      "keyActions": [
+        "Discusses Yasopp with Usopp",
+        "Discovers Kuro's conspiracy",
+        "Gets hypnotized by Jango",
+        "Falls off the cliff"
+      ],
+      "quotes": [
+        "Your dad is in Shanks' crew! He talks about you all the time - he's really proud of you!"
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended the conversation between Luffy and Usopp about Yasopp, adding more emotional depth to their bonding moment.",
+      "episodeTimestamp": "09:40",
+      "mangaReference": "Chapter 25",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "Additional scenes at Kaya's mansion showing her emotional state were added in the anime.",
+      "episodeTimestamp": "08:00",
+      "mangaReference": "Chapter 24",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode covers material from manga chapters 24-26, adapting approximately 2.6 chapters per episode.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_10",
+          "title": "Episode 10 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The 4Kids English dub titled this episode 'The Bluff & the Bluffer,' a reference to both the coastal location (bluff/cliff) and Usopp's tendency to lie (bluffer).",
+      "category": "LOCALIZATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_10",
+          "title": "Episode 10 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Jango's hypnosis phrase 'One, Two, Jango!' became one of the most memorable catchphrases from the early episodes of One Piece.",
+      "category": "CULTURAL_IMPACT",
+      "sources": []
+    },
+    {
+      "fact": "This is the first major villain identity reveal in the One Piece anime, establishing the pattern of hidden antagonists that would appear throughout the series.",
+      "category": "STORYTELLING",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

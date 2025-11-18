@@ -1,0 +1,497 @@
+{
+  "episodeNumber": 23,
+  "episodeTitle": "Protect Baratie! The Great Pirate, Red Foot Zeff!",
+  "episodeTitleJapanese": "守れバラティエ！大海賊・赫足のゼフ",
+  "episodeTitleRomanized": "Mamore Baratie! Dai Kaizoku - Akaashi no Zefu",
+  "description": "Don Krieg reveals his plan to seize the Baratie after his Grand Line expedition ended in disaster. The legendary swordsman Dracule Mihawk, who destroyed Krieg's fleet, follows them to the Baratie and cuts the flagship in half. Meanwhile, Nami takes the Going Merry and leaves the crew.",
+  "airDate": "2000-05-03",
+  "airDateJapan": "2000-05-03",
+  "airDateUS": "2005-03-09",
+  "arcName": "Baratie Arc",
+  "sagaName": "East Blue Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Are!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [1, 47]
+  },
+  "endingSong": {
+    "title": "Memories",
+    "artist": "Maki Otsuki",
+    "episodeRange": [1, 30]
+  },
+  "credits": {
+    "animationDirector": "Noboru Koizumi",
+    "director": "Munehisa Sakai",
+    "artDirector": "Miyuki Sato",
+    "writer": "Junki Takegami",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Don Krieg",
+        "actor": "Fumihiko Tachiki"
+      },
+      {
+        "character": "Zeff",
+        "actor": "Kōji Yada"
+      },
+      {
+        "character": "Gin",
+        "actor": "Kenichi Ono"
+      },
+      {
+        "character": "Dracule Mihawk",
+        "actor": "Takeshi Aono"
+      },
+      {
+        "character": "Johnny",
+        "actor": "Masaya Takatsuka"
+      },
+      {
+        "character": "Yosaku",
+        "actor": "Yasuhiro Takato"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Don Krieg",
+        "actor": "Andy Mullins"
+      },
+      {
+        "character": "Zeff",
+        "actor": "Grant James"
+      },
+      {
+        "character": "Gin",
+        "actor": "Illich Guardiola"
+      },
+      {
+        "character": "Dracule Mihawk",
+        "actor": "John Gremillion"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep023-event-001",
+      "episodeNumber": 23,
+      "timestamp": "03:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Krieg Announces Plan to Seize Baratie",
+      "description": "Don Krieg feeds his starving crew and reveals his intention to scrap his flagship, seize the Baratie restaurant ship, and return to the Grand Line. He shoots a crew member who protests this decision, demonstrating his ruthless leadership.",
+      "significance": "Establishes Krieg as a villain who rules through fear and violence, setting up the major conflict of the arc. Shows that Krieg has learned nothing from his defeat and plans to continue his conquest.",
+      "characterIds": ["don-krieg", "gin"],
+      "locationIds": ["baratie"],
+      "crewIds": ["krieg-pirates"],
+      "quotes": [
+        {
+          "text": "All that matters is victory!",
+          "speaker": "Don Krieg",
+          "context": "Krieg's philosophy of winning by any means necessary"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [21, 22],
+      "payoffInEpisodes": [24, 25, 26],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep023-event-002",
+      "episodeNumber": 23,
+      "timestamp": "06:20",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Krieg's Grand Line Disaster Revealed",
+      "description": "Krieg recounts his catastrophic attempt to conquer the Grand Line. Seven days into their expedition, his entire fleet of fifty ships with 5,000 pirates was decimated by a single man - the legendary swordsman Dracule Mihawk. Only Krieg's flagship with about 100 crew members escaped during a timely storm.",
+      "significance": "First major indication of the power difference between East Blue pirates and Grand Line warriors. Introduces the concept of the Seven Warlords of the Sea and establishes Mihawk as an overwhelming force. Shows the hubris of East Blue's strongest pirate being utterly crushed.",
+      "characterIds": ["don-krieg", "mihawk"],
+      "locationIds": ["grand-line"],
+      "crewIds": ["krieg-pirates"],
+      "quotes": [
+        {
+          "text": "On the seventh day, he destroyed our entire fleet. We had no chance against his power.",
+          "speaker": "Don Krieg",
+          "context": "Krieg describing Mihawk's overwhelming strength"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [21],
+      "payoffInEpisodes": [24],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep023-event-003",
+      "episodeNumber": 23,
+      "timestamp": "09:15",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Zeff Confronts Krieg About His Failure",
+      "description": "Zeff criticizes Krieg for his failed Grand Line expedition, calling him a coward for fleeing back to East Blue. Krieg recognizes Zeff as the legendary pirate 'Red Leg Zeff,' known for fighting only with his powerful kicks that would become dyed red from enemy blood.",
+      "significance": "Reveals Zeff's past as a feared pirate captain and establishes mutual recognition between two legends. Demonstrates Zeff's wisdom about the Grand Line versus Krieg's arrogance. The 'Red Leg' epithet foreshadows the origin of Sanji's fighting style.",
+      "characterIds": ["zeff", "don-krieg"],
+      "locationIds": ["baratie"],
+      "quotes": [
+        {
+          "text": "You're a coward for fleeing the Grand Line!",
+          "speaker": "Zeff",
+          "context": "Zeff mocking Krieg's retreat from the Grand Line"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [20],
+      "payoffInEpisodes": [25, 26],
+      "callbacksToEpisodes": [20]
+    },
+    {
+      "id": "ep023-event-004",
+      "episodeNumber": 23,
+      "timestamp": "11:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Zeff's Pirate Past and Lost Leg Revealed",
+      "description": "It's revealed that Zeff was captain of the Cook Pirates and successfully traversed the Grand Line for a year searching for the legendary All Blue. He later retired from piracy after losing his leg. Krieg dismisses him as non-threatening due to his missing leg.",
+      "significance": "Establishes Zeff as one of the few East Blue pirates who survived the Grand Line, giving him credibility and experience. His search for All Blue connects directly to Sanji's dream. The mystery of how he lost his leg will be revealed later in the arc.",
+      "characterIds": ["zeff"],
+      "locationIds": ["grand-line"],
+      "crewIds": ["cook-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [20],
+      "payoffInEpisodes": [26],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep023-event-005",
+      "episodeNumber": 23,
+      "timestamp": "13:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Krieg Demands Zeff's Logbook",
+      "description": "Believing he only lacked proper knowledge to traverse the Grand Line, Don Krieg demands Zeff's old logbook from his year-long voyage. He plans to use this information to safely return to the Grand Line and continue his conquest.",
+      "significance": "Shows Krieg's refusal to accept that his failure was due to lack of strength rather than lack of information. Demonstrates his arrogance in thinking a logbook would make the difference against someone like Mihawk. Creates tension as Zeff's knowledge becomes valuable leverage.",
+      "characterIds": ["don-krieg", "zeff"],
+      "locationIds": ["baratie"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [24, 25],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep023-event-006",
+      "episodeNumber": 23,
+      "timestamp": "15:50",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Gin's Loyalty and Guilt",
+      "description": "Gin returns to Krieg's ship to distribute the food among the crew. He apologizes to the Baratie staff on behalf of Krieg, completely unaware of his captain's true plan to betray them and seize the restaurant. This shows Gin's honorable nature despite serving a ruthless captain.",
+      "significance": "Establishes Gin as a sympathetic antagonist with a moral compass, contrasting sharply with Krieg's cruelty. Sets up the internal conflict Gin will face later when forced to choose between loyalty to Krieg and his personal honor. Foreshadows Gin's important role in the arc's conclusion.",
+      "characterIds": ["gin", "don-krieg"],
+      "locationIds": ["baratie"],
+      "crewIds": ["krieg-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [21],
+      "payoffInEpisodes": [27, 28],
+      "callbacksToEpisodes": [21]
+    },
+    {
+      "id": "ep023-event-007",
+      "episodeNumber": 23,
+      "timestamp": "18:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "CRITICAL",
+      "title": "Dracule Mihawk Arrives at Baratie",
+      "description": "Before Krieg can initiate his attack on the Baratie, his flagship is suddenly sliced in half with a single slash. Dracule Mihawk appears, sailing on his distinctive coffin-shaped boat through the wreckage. He has followed the Krieg Pirates all the way from the Grand Line to East Blue.",
+      "significance": "Mihawk's first physical appearance in the series establishes him as an legendary figure of overwhelming power. The casual ease with which he destroys Krieg's ship demonstrates the vast power gap between East Blue and the Grand Line. Sets up the iconic Zoro vs Mihawk duel in the next episode and introduces the first of the Seven Warlords of the Sea.",
+      "characterIds": ["mihawk", "don-krieg", "zoro"],
+      "locationIds": ["baratie"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [22],
+      "payoffInEpisodes": [24],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep023-event-008",
+      "episodeNumber": 23,
+      "timestamp": "20:15",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MAJOR",
+      "title": "Zoro Recognizes Mihawk",
+      "description": "Zoro instantly recognizes Mihawk as the world's greatest swordsman, the man he has been searching for to fulfill his promise to Kuina. His reaction shows both excitement at finding his ultimate goal and awareness of the enormous challenge ahead.",
+      "significance": "Sets up the pivotal Zoro vs Mihawk battle that will define Zoro's character arc for hundreds of episodes. This is the moment Zoro has been waiting for - a chance to challenge the strongest swordsman. His immediate recognition shows how legendary Mihawk's reputation is.",
+      "characterIds": ["zoro", "mihawk"],
+      "locationIds": ["baratie"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [2, 19],
+      "payoffInEpisodes": [24],
+      "callbacksToEpisodes": [2, 19]
+    },
+    {
+      "id": "ep023-event-009",
+      "episodeNumber": 23,
+      "timestamp": "21:35",
+      "eventType": "CREW_DEPARTURE",
+      "severity": "MAJOR",
+      "title": "Nami Steals the Going Merry and Leaves",
+      "description": "During the chaos of the Krieg raid and Mihawk's appearance, Nami steals the Going Merry and all the crew's treasures, heading back to Cocoyasi Village and Arlong's crew. The Straw Hats are left without their ship.",
+      "significance": "Major turning point that sets up the entire Arlong Park Arc. Nami's betrayal appears to confirm everyone's suspicions about her loyalty, but actually represents her desperate attempt to buy her village's freedom. This theft forces the crew to eventually follow her and discover her true circumstances.",
+      "characterIds": ["nami"],
+      "locationIds": ["baratie"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [22],
+      "payoffInEpisodes": [31, 32, 33],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep023-event-010",
+      "episodeNumber": 23,
+      "timestamp": "19:45",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Mihawk's Motivation: Killing Time",
+      "description": "Mihawk reveals that he followed Krieg's fleet all the way from the Grand Line to East Blue simply to kill time out of boredom. Zeff speculates that Krieg may have disturbed Mihawk's nap. This casual admission highlights the vast difference in power and priorities between Grand Line warriors and East Blue pirates.",
+      "significance": "Demonstrates the almost god-like status of the Seven Warlords - Mihawk pursued an entire fleet across the ocean as a form of entertainment. This establishes the Warlords as a major power force in the world and shows how trivial East Blue conflicts are from a Grand Line perspective.",
+      "characterIds": ["mihawk", "don-krieg", "zeff"],
+      "locationIds": ["baratie"],
+      "quotes": [
+        {
+          "text": "I was simply killing time.",
+          "speaker": "Mihawk",
+          "context": "Explaining why he destroyed Krieg's fleet and followed them to East Blue"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [24],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["mihawk"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [24, 25, 26, 31],
+    "payoffFrom": [20, 21, 22],
+    "thematicLinks": [2, 19, 24]
+  },
+  "quotes": [
+    {
+      "text": "All that matters is victory!",
+      "speaker": "Don Krieg",
+      "context": "Expressing his ruthless philosophy",
+      "timestamp": "03:45"
+    },
+    {
+      "text": "You're a coward for fleeing the Grand Line!",
+      "speaker": "Zeff",
+      "context": "Criticizing Krieg's retreat after his defeat",
+      "timestamp": "09:15"
+    },
+    {
+      "text": "I was simply killing time.",
+      "speaker": "Mihawk",
+      "context": "Explaining his motivation for destroying Krieg's fleet",
+      "timestamp": "19:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Power and Scale",
+      "description": "The episode dramatically establishes the power difference between East Blue and the Grand Line through Mihawk's overwhelming presence and Krieg's devastating defeat.",
+      "symbolism": "Mihawk's coffin-shaped boat represents death itself following Krieg, while his casual destruction of the flagship shows how insignificant East Blue's 'strongest' pirate is on the world stage.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Pride and Hubris",
+      "description": "Krieg's refusal to accept that he lost due to lack of strength rather than knowledge. He believes a logbook will solve his problems, showing his fundamental misunderstanding of the Grand Line's dangers.",
+      "symbolism": "Krieg's golden armor represents his inflated sense of invincibility, which was shattered by Mihawk but refuses to acknowledge.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Legacy and Respect",
+      "description": "The mutual recognition between Zeff and Krieg as legendary figures, and the revelation of Zeff's past as 'Red Leg Zeff' who successfully navigated the Grand Line.",
+      "symbolism": "Zeff's missing leg is a physical reminder of his past sacrifices, contrasting with Krieg who has learned nothing from his losses.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Loyalty vs. Honor",
+      "description": "Gin's character embodies the conflict between loyalty to an evil captain and personal moral code, shown through his genuine apologies despite serving Krieg.",
+      "symbolism": "Gin's position as second-in-command but moral opposite of Krieg creates internal tension that will explode later.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Ominous", "Epic", "Foreboding"],
+  "characterSpotlights": [
+    {
+      "characterId": "don-krieg",
+      "role": "Primary antagonist",
+      "development": "Fully established as the arc's main villain - ruthless, arrogant, and unwilling to learn from defeat. His plan to seize Baratie shows his willingness to betray even those who helped him.",
+      "keyActions": [
+        "Feeds his crew and reveals plan to take Baratie",
+        "Shoots crew member for protesting",
+        "Confronts Zeff and demands his logbook",
+        "Dismisses Zeff due to his missing leg"
+      ],
+      "quotes": ["All that matters is victory!"]
+    },
+    {
+      "characterId": "zeff",
+      "role": "Supporting character - mentor figure",
+      "development": "His past as the legendary Red Leg Zeff is revealed, establishing him as one of the few East Blue pirates to survive the Grand Line. His criticism of Krieg shows his wisdom and experience.",
+      "keyActions": [
+        "Confronts and criticizes Krieg",
+        "Reveals his past as Red Leg Zeff",
+        "Speculates about Mihawk's motivations"
+      ],
+      "quotes": ["You're a coward for fleeing the Grand Line!"]
+    },
+    {
+      "characterId": "mihawk",
+      "role": "Major debut - legendary swordsman",
+      "development": "First physical appearance establishes him as an overwhelming force of nature. His casual destruction of Krieg's ship and admission of 'killing time' demonstrates the vast power difference between East Blue and the Grand Line.",
+      "keyActions": [
+        "Arrives at Baratie on coffin boat",
+        "Slices Krieg's flagship in half",
+        "Reveals he followed them to kill time"
+      ],
+      "quotes": ["I was simply killing time."]
+    },
+    {
+      "characterId": "gin",
+      "role": "Sympathetic antagonist",
+      "development": "Shows his honorable nature by apologizing for the trouble, unaware of Krieg's betrayal. Establishes him as morally conflicted and different from his captain.",
+      "keyActions": [
+        "Distributes food to Krieg's crew",
+        "Apologizes to Baratie staff"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "zoro",
+      "role": "Setup for next episode",
+      "development": "Recognizes Mihawk as his ultimate goal - the world's greatest swordsman. His reaction sets up the pivotal duel that will define his character.",
+      "keyActions": [
+        "Instantly recognizes Mihawk"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "nami",
+      "role": "Deuteragonist - defector",
+      "development": "Completes her betrayal by stealing the Going Merry and all the crew's treasure, setting up the Arlong Park Arc.",
+      "keyActions": [
+        "Steals the Going Merry during the chaos",
+        "Takes all the crew's treasure",
+        "Leaves for Cocoyasi Village"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "In manga chapter 49, the chefs recall a customer called 'Drunk Eyes' which causes confusion with 'Hawk-Eyes' Mihawk. This scene was cut from the anime.",
+      "episodeTimestamp": "N/A",
+      "mangaReference": "Chapter 49",
+      "type": "SCENE_CUT"
+    },
+    {
+      "difference": "The anime extends the scene of Krieg explaining his plan to his crew with additional dialogue and reaction shots not present in the manga.",
+      "episodeTimestamp": "03:45",
+      "mangaReference": "Chapter 48",
+      "type": "ANIME_EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the first appearance of a member of the Seven Warlords of the Sea, establishing one of the three great powers in the One Piece world.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_23",
+          "title": "Episode 23 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Takeshi Aono, Mihawk's original Japanese voice actor, voiced the character from this episode until his death in 2012. Hirohiko Kakegawa took over the role afterwards.",
+      "category": "VOICE_ACTING",
+      "sources": []
+    },
+    {
+      "fact": "The episode covers manga chapters 48 (pages 2-19) and 49 (pages 2-18), making it one of the more faithfully adapted episodes with minimal filler.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_23",
+          "title": "Episode 23 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode title specifically names Zeff, highlighting his importance to this episode's revelations about his pirate past and the origin of Sanji's fighting style.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "Mihawk's coffin-shaped boat becomes one of the most iconic ship designs in One Piece, perfectly representing his role as a harbinger of death to those who challenge him.",
+      "category": "DESIGN",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
