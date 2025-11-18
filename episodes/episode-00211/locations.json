@@ -1,0 +1,82 @@
+[
+  {
+    "name": {
+      "english": "Long Ring Long Land",
+      "japanese": "ロングリングロングランド",
+      "romanized": "Rongu Ringu Rongu Rando"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "PARADISE",
+    "islandName": "Long Ring Long Land",
+    "debutEpisode": 207,
+    "debutChapter": 303,
+    "description": "A unique island in Paradise with an extremely long, ring-shaped landmass. It serves as the setting for the Davy Back Fight between the Straw Hat Pirates and the Foxy Pirates. The island features the Groggy Ring arena where sporting competitions take place.",
+    "episodeAppearances": [211],
+    "keyEvents": [
+      {
+        "episodeNumber": 211,
+        "eventId": "ep211-event-001",
+        "eventType": "BATTLE_START",
+        "title": "Groggy Ring Round 2 Begins",
+        "description": "The Groggy Ring match between Zoro/Sanji and the Groggy Monsters takes place on Long Ring Long Land.",
+        "significance": "The island serves as the battleground for the second round of the Davy Back Fight.",
+        "timestamp": "03:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 207,
+        "episodeEnd": "present",
+        "reason": "Island remains intact and accessible throughout the arc"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["groggy-ring-arena"],
+    "relatedCharacters": ["luffy", "zoro", "sanji", "chopper", "nami", "robin", "usopp", "foxy", "hamburg", "pickles", "big-pan"],
+    "relatedCrews": ["straw-hat-pirates", "foxy-pirates"],
+    "relatedArcs": ["Long Ring Long Land"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Groggy Ring Arena",
+      "japanese": "グロッキーリング",
+      "romanized": "Gurokkī Ringu"
+    },
+    "locationType": "ARENA",
+    "seaRegion": "PARADISE",
+    "islandName": "Long Ring Long Land",
+    "debutEpisode": 211,
+    "debutChapter": 310,
+    "description": "A sporting arena on Long Ring Long Land where the Groggy Ring game is played during the Davy Back Fight. The arena features a large circular goal tube similar to a basketball hoop and an ice-like surface for the match.",
+    "episodeAppearances": [211],
+    "keyEvents": [
+      {
+        "episodeNumber": 211,
+        "eventId": "ep211-event-001",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Groggy Ring Arena Debut",
+        "description": "The Groggy Ring arena is introduced as the setting for the second round of the Davy Back Fight.",
+        "significance": "First appearance of the specialized arena for the Groggy Ring sporting competition.",
+        "timestamp": "03:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 211,
+        "episodeEnd": "present",
+        "reason": "Arena is used for the Groggy Ring match"
+      }
+    ],
+    "parentLocation": "long-ring-long-land",
+    "childLocations": [],
+    "relatedCharacters": ["zoro", "sanji", "hamburg", "pickles", "big-pan", "itomimizu"],
+    "relatedCrews": ["straw-hat-pirates", "foxy-pirates"],
+    "relatedArcs": ["Long Ring Long Land"],
+    "images": []
+  }
+]
