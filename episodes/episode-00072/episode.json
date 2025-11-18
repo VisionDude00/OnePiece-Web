@@ -1,0 +1,430 @@
+{
+  "episodeNumber": 72,
+  "episodeTitle": "Luffy Gets Angry! A Dirty Trick Violates the Sacred Duel!",
+  "description": "When Dorry drinks explosive alcohol sabotaged by Mr. 3, he suspects the Straw Hats of treachery. Luffy fights the weakened giant to defend his crew's honor and becomes enraged when he realizes someone has violated the sacred duel between the giants with underhanded tactics.",
+  "airDate": "2001-06-17",
+  "airDateJapan": "2001-06-17",
+  "airDateUS": "2009-08-25",
+  "arcName": "Little Garden",
+  "sagaName": "Alabasta Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Believe",
+    "artist": "Folder5",
+    "episodeRange": [48, 115]
+  },
+  "endingSong": {
+    "title": "Watashi ga Iru Yo",
+    "artist": "Tomato Cube",
+    "episodeRange": [64, 73]
+  },
+  "credits": {
+    "animationDirector": "Eisaku Inoue",
+    "director": "Yoko Ikeda",
+    "artDirector": "Tomoko Yoshida",
+    "screenplay": "Junki Takegami",
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Dorry",
+        "actor": "Tetsu Inada"
+      },
+      {
+        "character": "Brogy",
+        "actor": "Masaki Terasoma"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Misa Watanabe"
+      },
+      {
+        "character": "Mr. 3",
+        "actor": "Nobuyuki Hiyama"
+      },
+      {
+        "character": "Miss Goldenweek",
+        "actor": "Akiko Nakagawa"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Dorry",
+        "actor": "Bob Carter"
+      },
+      {
+        "character": "Brogy",
+        "actor": "Jeremy Inman"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Caitlin Glass"
+      },
+      {
+        "character": "Mr. 3",
+        "actor": "Duncan Brannan"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep072-event-001",
+      "episodeNumber": 72,
+      "timestamp": "05:30",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "Dorry and Brogy's Latest Duel Ends in a Draw",
+      "description": "The volcano erupts signaling another battle between the giants Dorry and Brogy. After an intense clash, their latest duel ends in a draw, continuing their century-long stalemate.",
+      "significance": "Demonstrates the ongoing nature of the giants' sacred duel and their evenly matched power, setting up the significance of what happens when this balance is disrupted.",
+      "characterIds": ["dorry", "brogy"],
+      "locationIds": ["little-garden"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [70, 71],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [70, 71]
+    },
+    {
+      "id": "ep072-event-002",
+      "episodeNumber": 72,
+      "timestamp": "07:15",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Usopp Calls Brogy 'Master' and Expresses Interest in Elbaf",
+      "description": "Usopp shows deep admiration for Brogy's warrior spirit and starts calling him 'Master'. He expresses his fascination with the giants and their homeland of Elbaf, planting the seeds of his dream to visit the legendary island.",
+      "significance": "This marks the origin of Usopp's long-standing dream to visit Elbaf, a goal that persists throughout the entire series and becomes relevant over 20 years later in the story.",
+      "characterIds": ["usopp", "brogy"],
+      "locationIds": ["little-garden"],
+      "quotes": [
+        {
+          "text": "Master Brogy!",
+          "speaker": "Usopp",
+          "context": "Usopp's newfound respect for the giant warrior"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [71],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep072-event-003",
+      "episodeNumber": 72,
+      "timestamp": "09:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Explosive Alcohol Incident - Dorry Drinks Sabotaged Rum",
+      "description": "Dorry receives barrels of rum from Brogy, obtained from Nami and Usopp. When Dorry drinks from one of the barrels, it explodes inside him, causing severe internal injuries and incapacitating the mighty giant.",
+      "significance": "This is Mr. 3's key scheme to eliminate the giants and the Straw Hats. The explosion sets off the chain of events that defines this episode and reveals the underhanded tactics of Baroque Works.",
+      "characterIds": ["dorry", "brogy", "mr-3", "nami", "usopp"],
+      "locationIds": ["little-garden"],
+      "organizationIds": ["baroque-works"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [71],
+      "payoffInEpisodes": [73],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep072-event-004",
+      "episodeNumber": 72,
+      "timestamp": "11:30",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Dorry Suspects the Straw Hat Pirates",
+      "description": "After the explosion, Dorry confronts Luffy and Vivi, believing that the Straw Hat Pirates sabotaged the rum. He refuses to believe that Brogy would do such a dishonorable thing, leaving the Straw Hats as the only suspects in his mind.",
+      "significance": "This creates dramatic tension and forces Luffy to defend his crew's honor while facing an injured but still formidable giant warrior.",
+      "characterIds": ["dorry", "luffy", "vivi", "brogy"],
+      "locationIds": ["little-garden"],
+      "quotes": [
+        {
+          "text": "You are the only ones who could have done this!",
+          "speaker": "Dorry",
+          "context": "Dorry accusing the Straw Hats of sabotaging the rum"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [73],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep072-event-005",
+      "episodeNumber": 72,
+      "timestamp": "14:20",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Luffy vs Dorry - Fight to Defend Honor",
+      "description": "Luffy is forced to fight Dorry to prove his crew's innocence. Despite Dorry's injuries from the explosion, the weakened giant still poses a serious threat, and Luffy must battle him while trying to clear his crew's name.",
+      "significance": "This battle showcases Luffy's determination to defend his crew's honor and his conviction that neither Brogy nor his own crew would use such underhanded tactics.",
+      "characterIds": ["luffy", "dorry", "vivi"],
+      "locationIds": ["little-garden"],
+      "quotes": [
+        {
+          "text": "I know Brogy would never do something so cowardly, and neither would any of my crew!",
+          "speaker": "Luffy",
+          "context": "Luffy defending both the giants' and his crew's honor"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep072-event-006",
+      "episodeNumber": 72,
+      "timestamp": "17:45",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Luffy Defeats the Injured Dorry",
+      "description": "Luffy manages to knock out Dorry with a powerful punch. The victory is hollow, however, as Dorry was severely weakened by his internal injuries from the explosive rum.",
+      "significance": "While Luffy wins the fight, it's clear this isn't a true victory - Dorry was fighting at a fraction of his strength due to the sabotage. This intensifies Luffy's anger at whoever orchestrated this dirty trick.",
+      "characterIds": ["luffy", "dorry"],
+      "locationIds": ["little-garden"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep072-event-007",
+      "episodeNumber": 72,
+      "timestamp": "19:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Luffy's Rage - Someone Violated the Sacred Duel",
+      "description": "After defeating Dorry, Luffy becomes furious when he realizes that there must be a third party on the island who sabotaged the giants' sacred duel. His anger stems from the disrespect shown to the warriors' honor and the dirty tactics used.",
+      "significance": "This moment showcases Luffy's values and his respect for honorable combat. His rage at this violation of the sacred duel demonstrates his character and foreshadows his eventual confrontation with those responsible.",
+      "characterIds": ["luffy", "dorry"],
+      "locationIds": ["little-garden"],
+      "quotes": [
+        {
+          "text": "Someone else is on this island! Someone who doesn't respect the giants' sacred fight!",
+          "speaker": "Luffy",
+          "context": "Luffy deducing that a third party sabotaged the duel"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [73, 74],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep072-event-008",
+      "episodeNumber": 72,
+      "timestamp": "21:00",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MAJOR",
+      "title": "Mr. 3's Scheme Revealed to Viewers",
+      "description": "It is revealed to the audience that Mr. 3 of Baroque Works was responsible for sabotaging the rum with an explosive. His plan is to eliminate both the giants and the Straw Hat Pirates through deception rather than direct confrontation.",
+      "significance": "This revelation confirms Luffy's suspicions and establishes Mr. 3 as a cunning antagonist who relies on strategy and underhanded tactics. It sets up the upcoming confrontation between the Straw Hats and Baroque Works agents.",
+      "characterIds": ["mr-3", "miss-goldenweek"],
+      "locationIds": ["little-garden"],
+      "organizationIds": ["baroque-works"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [71],
+      "payoffInEpisodes": [73, 74, 75, 76],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": [],
+    "organizations": []
+  },
+  "episodeRelationships": {
+    "setupFor": [73, 74, 75, 76],
+    "payoffFrom": [70, 71],
+    "thematicLinks": [70, 71]
+  },
+  "quotes": [
+    {
+      "text": "I know Brogy would never do something so cowardly, and neither would any of my crew!",
+      "speaker": "Luffy",
+      "context": "Defending both the giants and his crew's honor",
+      "timestamp": "14:20"
+    },
+    {
+      "text": "Someone else is on this island! Someone who doesn't respect the giants' sacred fight!",
+      "speaker": "Luffy",
+      "context": "Realizing there's a third party sabotaging the duel",
+      "timestamp": "19:30"
+    },
+    {
+      "text": "Master Brogy!",
+      "speaker": "Usopp",
+      "context": "Showing respect to the giant warrior",
+      "timestamp": "07:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Honor and Fair Combat",
+      "description": "The episode heavily emphasizes the importance of honor in battle, as shown through the giants' sacred duel and Luffy's rage when it is violated by Mr. 3's underhanded tactics.",
+      "symbolism": "The giants' century-long duel represents the ultimate commitment to honorable combat, while the explosive rum symbolizes how easily honor can be corrupted by those without integrity.",
+      "culturalReferences": [
+        "The concept of sacred duels and warrior's honor reflects Japanese bushido traditions and the importance of maintaining honor even in defeat."
+      ]
+    },
+    {
+      "theme": "Trust and Loyalty",
+      "description": "Luffy's unwavering belief in both Brogy and his own crew demonstrates the theme of trust. He refuses to believe any of them would resort to dirty tricks, even when accused.",
+      "symbolism": "The explosion that causes the conflict is a test of trust between the giants and the Straw Hats.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Dreams and Inspiration",
+      "description": "Usopp's admiration for the giants and his expressed interest in Elbaf plants the seeds of a long-term dream that will follow him throughout the series.",
+      "symbolism": "The giants' unwavering commitment to their duel inspires Usopp to pursue his own dream of becoming a brave warrior of the sea.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Angry", "Dramatic", "Honorable"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist defending honor",
+      "development": "Luffy demonstrates his core values by refusing to believe his crew or Brogy would use dirty tactics, and shows righteous anger when the sacred duel is violated.",
+      "keyActions": [
+        "Fights Dorry to prove his crew's innocence",
+        "Defeats the injured giant",
+        "Deduces that a third party is sabotaging the giants' duel",
+        "Becomes enraged at the violation of the sacred combat"
+      ],
+      "quotes": [
+        "I know Brogy would never do something so cowardly, and neither would any of my crew!",
+        "Someone else is on this island! Someone who doesn't respect the giants' sacred fight!"
+      ]
+    },
+    {
+      "characterId": "dorry",
+      "role": "Victim of sabotage",
+      "development": "Dorry's trust is shaken when he is injured by the explosive rum, leading him to suspect the Straw Hats despite his growing friendship with them.",
+      "keyActions": [
+        "Drinks the sabotaged rum and suffers severe internal injuries",
+        "Confronts the Straw Hats believing they betrayed him",
+        "Fights Luffy while severely weakened",
+        "Is defeated by Luffy"
+      ],
+      "quotes": [
+        "You are the only ones who could have done this!"
+      ]
+    },
+    {
+      "characterId": "usopp",
+      "role": "Inspired observer",
+      "development": "Usopp's admiration for the giants deepens, and he begins to dream of visiting Elbaf and becoming a brave warrior himself.",
+      "keyActions": [
+        "Calls Brogy 'Master' out of respect",
+        "Expresses interest in Elbaf",
+        "Learns about warrior's pride from the giants"
+      ],
+      "quotes": [
+        "Master Brogy!"
+      ]
+    },
+    {
+      "characterId": "mr-3",
+      "role": "Hidden antagonist",
+      "development": "Mr. 3's cunning and strategic mind is showcased as his plan to eliminate the giants and Straw Hats through sabotage comes to fruition.",
+      "keyActions": [
+        "Successfully sabotages the rum with explosives",
+        "Observes the results of his scheme from hiding",
+        "Prepares for the next phase of his plan"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends some of the battle sequences between Luffy and Dorry for dramatic effect.",
+      "episodeTimestamp": "14:20-17:45",
+      "mangaReference": "Chapters 117-118",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This is the final episode to use 'Watashi ga Iru Yo' by Tomato Cube as the ending theme.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Watashi_ga_Iru_Yo",
+          "title": "Watashi ga Iru Yo - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 72 marks the first time Usopp expresses his dream to visit Elbaf, a plot point that takes over 20 years (and more than 1000 episodes) to be fulfilled in the story.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://gamerant.com/one-piece-usopp-dream-achieved-elbaf/",
+          "title": "One Piece: A Straw Hat Finally Achieved Part Of Their Dream - Game Rant",
+          "platform": "Game Rant",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode adapts chapters 117-118 of the manga, written and illustrated by Eiichiro Oda.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_72",
+          "title": "Episode 72 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
