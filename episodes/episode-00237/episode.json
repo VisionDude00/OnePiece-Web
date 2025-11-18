@@ -1,0 +1,633 @@
+{
+  "episodeNumber": 237,
+  "episodeTitle": "The City of Water is Shaking! Iceburg was Targeted!",
+  "description": "The Straw Hats settle into their hotel when shocking news arrives: Iceburg, the mayor of Water 7, has been shot in his own residence. As the city searches for answers and suspects, a warning comes that the deadly Aqua Laguna is approaching. Meanwhile, Franky returns to find his house destroyed and seeks revenge against Luffy.",
+  "airDate": "2005-07-03",
+  "airDateJapan": "2005-07-03",
+  "airDateUS": "2012-10-27",
+  "arcName": "Water 7",
+  "sagaName": "Water 7 Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Kokoro no Chizu",
+    "artist": "BOYSTYLE",
+    "episodeRange": [207, 263]
+  },
+  "endingSong": {
+    "title": "Eternal Pose",
+    "artist": "Asia Engineer",
+    "episodeRange": [231, 245]
+  },
+  "credits": {
+    "animationDirector": "Yoko Ikeda",
+    "keyAnimators": ["Eisaku Inoue"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Iceburg",
+        "actor": "Izô Oikawa"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Paulie",
+        "actor": "Takahiro Yoshimizu"
+      },
+      {
+        "character": "Rob Lucci",
+        "actor": "Tomokazu Seki"
+      },
+      {
+        "character": "Kalifa",
+        "actor": "Rie Tanaka"
+      },
+      {
+        "character": "Kokoro",
+        "actor": "Masami Suzuki"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Iceburg",
+        "actor": "Philip Weber"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Kokoro",
+        "actor": "Pam Dougherty"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep237-event-001",
+      "episodeNumber": 237,
+      "timestamp": "03:45",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Straw Hats Settle Into Hotel",
+      "description": "Following the events with Usopp and their initial exploration of Water 7, the Straw Hat Pirates (minus Usopp) check into a hotel room to rest and plan their next moves regarding ship repairs.",
+      "significance": "Shows the crew attempting to settle in Water 7, but their peace is immediately interrupted by news of Iceburg's shooting. This represents the calm before the storm of the Water 7 conspiracy.",
+      "characterIds": ["luffy", "zoro", "nami", "sanji", "chopper", "robin"],
+      "locationIds": ["water-7"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [235, 236],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep237-event-002",
+      "episodeNumber": 237,
+      "timestamp": "04:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "News of Iceburg's Shooting",
+      "description": "Nami discovers urgent news and informs the crew that Iceburg, the mayor of Water 7 and president of Galley-La Company, has been shot five times in his own residence. An ornate mask was found at the scene, and Iceburg is currently in a catatonic state.",
+      "significance": "This assassination attempt is described as the biggest catastrophe in Water 7's history and triggers the main conflict of the Water 7 arc. It sets in motion the mystery of who attacked Iceburg and why.",
+      "characterIds": ["nami", "luffy", "iceburg"],
+      "locationIds": ["water-7", "iceburg-mansion"],
+      "quotes": [
+        {
+          "text": "Iceburg has been shot!",
+          "speaker": "Nami",
+          "context": "Nami urgently informs the crew of the attack on the mayor"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [232, 233, 234],
+      "payoffInEpisodes": [238, 239, 240],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep237-event-003",
+      "episodeNumber": 237,
+      "timestamp": "05:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Kakukaku's Debut",
+      "description": "Kakukaku (known as Blockhead in English), a Water 7 resident with distinctive rectangular facial features, appears among the townspeople discussing the attempted murder of Iceburg. He displays concern for the mayor's condition.",
+      "significance": "Introduces a minor character who represents the concerned citizens of Water 7. His intellectual nature and tendency to engage in lengthy discussions adds flavor to the Water 7 community.",
+      "characterIds": ["kakukaku"],
+      "locationIds": ["water-7"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep237-event-004",
+      "episodeNumber": 237,
+      "timestamp": "06:00",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Investigation of the Locked Room Mystery",
+      "description": "The Galley-La Company and city officials investigate Iceburg's shooting. The mystery deepens as they discover the shooting occurred in a locked room with no signs of forced entry, leaving everyone baffled about how the attacker gained access.",
+      "significance": "Establishes the mysterious circumstances of the attack, making it clear this was no ordinary assassination attempt. The locked room mystery suggests the involvement of someone with special abilities or insider knowledge.",
+      "characterIds": ["iceburg", "paulie", "lulu", "kaku"],
+      "locationIds": ["iceburg-mansion"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [238, 239],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep237-event-005",
+      "episodeNumber": 237,
+      "timestamp": "07:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Dr. Kyukyu's Debut",
+      "description": "Dr. Kyukyu, a partly bald doctor with a red nose and medical cross on his forehead, appears as he examines the comatose Iceburg at the hospital. His name in Japanese means 'first aid.'",
+      "significance": "Introduces the doctor treating Iceburg, establishing the severity of the mayor's condition and the medical response to the crisis. His presence emphasizes that Iceburg's life hangs in the balance.",
+      "characterIds": ["kyukyu", "iceburg"],
+      "locationIds": ["water-7"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [238],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep237-event-006",
+      "episodeNumber": 237,
+      "timestamp": "08:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Suspects Discussed",
+      "description": "Citizens and Galley-La members discuss potential suspects in Iceburg's shooting. Suspicion falls on various parties including Corgi of the World Government, the Franky Family, and the Big Helmet Pirates. Kaku and Lulu speculate on possible motives.",
+      "significance": "Shows the widespread confusion and paranoia in Water 7 as everyone tries to identify the culprit. Multiple factions are suspected, creating an atmosphere of distrust.",
+      "characterIds": ["kaku", "lulu", "paulie"],
+      "locationIds": ["water-7"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [238, 239],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep237-event-007",
+      "episodeNumber": 237,
+      "timestamp": "09:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Luffy and Nami Decide to Check on Iceburg",
+      "description": "Concerned about the man who was helping them with their ship, Luffy and Nami ride a Yagara (water taxi) to investigate Iceburg's condition at his residence, only to find the gates closed and heavily guarded.",
+      "significance": "Shows Luffy's concern for people he considers friends or allies. This decision puts them in the vicinity when more information about the attack emerges.",
+      "characterIds": ["luffy", "nami"],
+      "locationIds": ["water-7"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [238],
+      "callbacksToEpisodes": [232, 233]
+    },
+    {
+      "id": "ep237-event-008",
+      "episodeNumber": 237,
+      "timestamp": "11:00",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Aqua Laguna Warning Announced",
+      "description": "At Shift Station lighthouse, Kokoro observes the strong south wind called Karock and declares that Aqua Laguna is approaching Water 7. She warns that the annual catastrophic high tide will arrive around midnight and will submerge the lower half of the city.",
+      "significance": "Introduces the Aqua Laguna as a major environmental threat that will force the city to evacuate. This natural disaster adds urgency to all events and will later play a crucial role in the arc's climax.",
+      "characterIds": ["kokoro"],
+      "locationIds": ["shift-station", "water-7"],
+      "quotes": [
+        {
+          "text": "The Aqua Laguna is coming!",
+          "speaker": "Kokoro",
+          "context": "Warning about the approaching tidal wave"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [238, 239, 240, 241, 242],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep237-event-009",
+      "episodeNumber": 237,
+      "timestamp": "12:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Sanji and Chopper Learn About Aqua Laguna",
+      "description": "A citizen explains to Sanji and Chopper that Aqua Laguna is an annual high tide phenomenon that floods much of Water 7, forcing residents to evacuate to higher ground. The explanation emphasizes the destructive power of this natural event.",
+      "significance": "Provides exposition about Water 7's unique geography and the cyclical danger its citizens face. This information will be crucial for understanding later events during the Aqua Laguna's arrival.",
+      "characterIds": ["sanji", "chopper"],
+      "locationIds": ["water-7"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [238, 239, 240],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep237-event-010",
+      "episodeNumber": 237,
+      "timestamp": "13:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Franky Returns to Water 7",
+      "description": "Franky returns to Water 7 from his shopping trip on the Puffing Tom sea train, unaware of the events that have transpired in his absence, including both Iceburg's shooting and the destruction of his base.",
+      "significance": "Sets up Franky's discovery of the Franky House's destruction and his subsequent confrontation with Luffy. This marks Franky's first appearance in the episode.",
+      "characterIds": ["franky"],
+      "locationIds": ["water-7"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [235, 236],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep237-event-011",
+      "episodeNumber": 237,
+      "timestamp": "14:45",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Franky Discovers Destroyed Franky House",
+      "description": "Franky arrives at his base to find the Franky House completely destroyed. The devastation shocks him as he surveys the wreckage of his headquarters and the injuries to his family members.",
+      "significance": "Triggers Franky's desire for revenge against the Straw Hats. This destruction, caused in the previous episode, now sets Franky on a collision course with Luffy.",
+      "characterIds": ["franky"],
+      "locationIds": ["franky-house"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [236],
+      "payoffInEpisodes": [238],
+      "callbacksToEpisodes": [236]
+    },
+    {
+      "id": "ep237-event-012",
+      "episodeNumber": 237,
+      "timestamp": "15:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Franky Family Confirms Straw Hats as Culprits",
+      "description": "The conscious members of the Franky Family inform Franky that the Straw Hat Pirates were responsible for destroying the Franky House and defeating their members. They tell him the pirates are likely at Dock No. 1.",
+      "significance": "Provides Franky with a target for his revenge and sends him toward a confrontation with Luffy. This moment solidifies Franky's motivation to attack the Straw Hats.",
+      "characterIds": ["franky", "zambai", "kiwi", "mozu"],
+      "locationIds": ["franky-house"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [236],
+      "payoffInEpisodes": [238],
+      "callbacksToEpisodes": [236]
+    },
+    {
+      "id": "ep237-event-013",
+      "episodeNumber": 237,
+      "timestamp": "16:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Franky Appears Unmasked",
+      "description": "Franky appears publicly for the first time without his mask, revealing his distinctive appearance with blue pompadour hair, sunglasses, and cybernetic body. He confronts the area near Dock No. 1 demanding Luffy reveal himself.",
+      "significance": "This is the first time Franky's full appearance is shown to the audience and other characters. His dramatic entrance with style emphasizes his flamboyant personality and sets up the confrontation.",
+      "characterIds": ["franky"],
+      "locationIds": ["water-7"],
+      "quotes": [
+        {
+          "text": "Come out, Straw Hat Luffy! It's time to exact my revenge - with style!",
+          "speaker": "Franky",
+          "context": "Franky's dramatic challenge to Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [238],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep237-event-014",
+      "episodeNumber": 237,
+      "timestamp": "18:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Usopp Alone on Going Merry",
+      "description": "Usopp sits alone aboard the Going Merry, reflecting on his duel with Luffy and his separation from the crew. He contemplates the events that led to him being left behind and the uncertain future of the ship and his friendship with the crew.",
+      "significance": "Provides emotional depth to Usopp's storyline following his departure from the crew. His isolation aboard the ship he fought to keep emphasizes his internal conflict and loneliness.",
+      "characterIds": ["usopp"],
+      "locationIds": ["going-merry"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [235, 236],
+      "payoffInEpisodes": [238, 239],
+      "callbacksToEpisodes": [235, 236]
+    },
+    {
+      "id": "ep237-event-015",
+      "episodeNumber": 237,
+      "timestamp": "19:15",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Galley-La Members Visit Comatose Iceburg",
+      "description": "Rob Lucci and Kalifa visit the hospital where Iceburg lies unconscious. They stand by his bedside, observing his condition along with other Galley-La members who are concerned about their president's fate.",
+      "significance": "Shows the apparent concern of Lucci and Kalifa for Iceburg, which is ironic given their true identities as CP9 agents who actually attacked him. This scene plants seeds for the later revelation.",
+      "characterIds": ["rob-lucci", "kalifa", "iceburg"],
+      "locationIds": ["water-7"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [238, 239],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep237-event-016",
+      "episodeNumber": 237,
+      "timestamp": "20:00",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Evacuation Preparations Begin",
+      "description": "As news of the approaching Aqua Laguna spreads, citizens of Water 7 begin preparing to evacuate to higher ground. The city starts securing loose items and moving to safety before the tidal wave hits at midnight.",
+      "significance": "Establishes the time pressure and urgency affecting all characters. The impending natural disaster adds another layer of tension to the already chaotic situation with Iceburg's shooting.",
+      "characterIds": [],
+      "locationIds": ["water-7"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [238, 239, 240],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep237-event-017",
+      "episodeNumber": 237,
+      "timestamp": "21:00",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Ornate Mask Discovered at Crime Scene",
+      "description": "Investigation reveals that an ornate, distinctive mask was found at the scene of Iceburg's shooting. This mysterious clue becomes a key piece of evidence in determining who attacked the mayor.",
+      "significance": "The mask is a crucial piece of evidence that will later connect to the true attackers. This detail is important for the unfolding mystery of who shot Iceburg.",
+      "characterIds": ["iceburg"],
+      "locationIds": ["iceburg-mansion"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [238, 239],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["kakukaku", "kyukyu"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [238, 239, 240],
+    "payoffFrom": [235, 236],
+    "thematicLinks": [232, 233, 234]
+  },
+  "quotes": [
+    {
+      "text": "Iceburg has been shot!",
+      "speaker": "Nami",
+      "context": "Urgently informing the crew of the attack on the mayor",
+      "timestamp": "04:30"
+    },
+    {
+      "text": "The Aqua Laguna is coming!",
+      "speaker": "Kokoro",
+      "context": "Warning about the approaching catastrophic tidal wave",
+      "timestamp": "11:00"
+    },
+    {
+      "text": "Come out, Straw Hat Luffy! It's time to exact my revenge - with style!",
+      "speaker": "Franky",
+      "context": "Franky's dramatic challenge to Luffy after finding his house destroyed",
+      "timestamp": "16:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Trust and Betrayal",
+      "description": "The episode sets up the theme of hidden identities and betrayal. Citizens suspect various parties for Iceburg's shooting, while CP9 agents like Lucci and Kalifa maintain their cover by appearing concerned for their boss.",
+      "symbolism": "The ornate mask found at the crime scene symbolizes the hidden faces and true identities that will be revealed. The locked room mystery represents how those closest to us can sometimes be the greatest threats.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Natural Forces vs Human Conflict",
+      "description": "The approaching Aqua Laguna represents nature's indifference to human drama. While characters deal with assassination attempts and revenge plots, the tidal wave approaches regardless, forcing everyone to contend with a greater power.",
+      "symbolism": "Aqua Laguna symbolizes unstoppable change and the forces beyond human control. Water 7's annual struggle with the tide represents the cycle of adversity that must be faced repeatedly.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Consequence and Revenge",
+      "description": "The episode explores how actions have consequences that ripple outward. The Straw Hats' destruction of Franky House in the previous episode now returns as Franky seeks revenge, while someone's attack on Iceburg threatens to destabilize all of Water 7.",
+      "symbolism": "The destroyed Franky House represents how violence begets violence. Franky's desire for revenge mirrors the broader cycle of retribution playing out in the city.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Mysterious", "Foreboding"],
+  "characterSpotlights": [
+    {
+      "characterId": "iceburg",
+      "role": "Victim",
+      "development": "Iceburg is incapacitated throughout the episode, lying in a comatose state after being shot five times. His condition becomes the focal point of the city's concern and investigation.",
+      "keyActions": [
+        "Lies unconscious in the hospital after being shot",
+        "His shooting becomes the biggest news in Water 7",
+        "Visited by concerned Galley-La members including his attackers"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "franky",
+      "role": "Antagonist (temporary)",
+      "development": "Franky returns to find his base destroyed and learns the Straw Hats are responsible. His desire for revenge drives him to confront Luffy, revealing his unmasked appearance for the first time with his characteristic style.",
+      "keyActions": [
+        "Returns from shopping trip via Puffing Tom",
+        "Discovers the destroyed Franky House",
+        "Learns the Straw Hats are responsible",
+        "Appears unmasked publicly for the first time",
+        "Challenges Luffy to face him"
+      ],
+      "quotes": ["Come out, Straw Hat Luffy! It's time to exact my revenge - with style!"]
+    },
+    {
+      "characterId": "nami",
+      "role": "Messenger",
+      "development": "Nami serves as the bearer of bad news, discovering information about Iceburg's shooting and urgently informing the crew. She accompanies Luffy to investigate the situation.",
+      "keyActions": [
+        "Discovers news of Iceburg's shooting",
+        "Informs the crew of the crisis",
+        "Rides with Luffy to check on Iceburg's condition"
+      ],
+      "quotes": ["Iceburg has been shot!"]
+    },
+    {
+      "characterId": "kokoro",
+      "role": "Herald of Disaster",
+      "development": "Kokoro recognizes the signs of the approaching Aqua Laguna and warns that the catastrophic tidal wave will hit Water 7 at midnight, adding urgency to an already chaotic situation.",
+      "keyActions": [
+        "Observes the strong south wind at Shift Station",
+        "Recognizes the signs of Aqua Laguna",
+        "Warns that the tidal wave will arrive at midnight",
+        "Heads to the mainland to spread the warning"
+      ],
+      "quotes": ["The Aqua Laguna is coming!"]
+    },
+    {
+      "characterId": "usopp",
+      "role": "Isolated Outcast",
+      "development": "Usopp remains alone on the Going Merry, separated from the crew after losing his duel with Luffy. He reflects on his situation with sadness and uncertainty about his future.",
+      "keyActions": [
+        "Stays alone aboard Going Merry",
+        "Reflects on being defeated by Luffy",
+        "Contemplates being left behind by the crew"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime expands certain scenes showing the citizens' reactions to Iceburg's shooting and the Aqua Laguna warning, providing more atmospheric build-up than the manga's more concise presentation.",
+      "episodeTimestamp": "05:00",
+      "mangaReference": "Chapter 334",
+      "type": "ANIME_EXPANDED_SCENE"
+    },
+    {
+      "difference": "Some conversations between Galley-La members are extended in the anime to provide additional context and character interactions not present in the manga.",
+      "episodeTimestamp": "08:30",
+      "mangaReference": "Chapter 334",
+      "type": "ANIME_EXPANDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the first time Franky appears without his mask in the anime, revealing his iconic blue pompadour hairstyle and cyborg features to the audience.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_237",
+          "title": "Episode 237 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode covers chapters 334-335 of the manga, titled 'Big Trouble in the Secret Room' and 'WARNING' respectively, both crucial chapters in establishing the Water 7 conspiracy.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_237",
+          "title": "Episode 237 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Aqua Laguna, introduced in this episode, is inspired by real-world phenomena like storm surges and tsunami-like tidal waves. The name combines 'aqua' (water) and 'laguna' (lagoon), though it refers to a tidal wave rather than a calm lagoon.",
+      "category": "WORLD_BUILDING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Aqua_Laguna",
+          "title": "Aqua Laguna - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Dr. Kyukyu's name is a play on words - 'kyukyu' (救急) means 'first aid' or 'emergency' in Japanese, fitting for a doctor character treating an assassination attempt victim.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Kyukyu",
+          "title": "Kyukyu - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode achieved an 11.6% TV rating in Japan, ranking 4th in its time slot, showing strong viewership for this pivotal arc.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_237",
+          "title": "Episode 237 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Kakukaku's English name 'Blockhead' is a literal translation of his distinctive square/rectangular facial features, maintaining the visual pun from the Japanese version.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Kakukaku",
+          "title": "Kakukaku - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

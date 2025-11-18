@@ -1,0 +1,102 @@
+[
+  {
+    "name": {
+      "english": "Water 7",
+      "japanese": "ウォーターセブン",
+      "romanized": "Wōtā Sebun"
+    },
+    "locationType": "CITY",
+    "seaRegion": "PARADISE",
+    "islandName": "Water 7",
+    "debutEpisode": 229,
+    "debutChapter": 323,
+    "description": "A city built on water known for its exceptional shipwrights and shipbuilding industry. The Straw Hats came here to repair the Going Merry and recruit a shipwright.",
+    "episodeAppearances": [235],
+    "keyEvents": [
+      {
+        "episodeNumber": 235,
+        "eventId": "ep235-event-002",
+        "eventType": "MAJOR_DECISION",
+        "title": "Crew Decides to Abandon Going Merry",
+        "description": "In Water 7, after learning from Galley-La shipwrights that the Going Merry cannot be repaired, the crew makes the painful decision to get a new ship.",
+        "significance": "This decision made in Water 7 triggers the major conflict between Luffy and Usopp.",
+        "timestamp": "08:30"
+      },
+      {
+        "episodeNumber": 235,
+        "eventId": "ep235-event-006",
+        "eventType": "CREW_DEPARTURE",
+        "title": "Usopp Leaves the Straw Hat Pirates",
+        "description": "Usopp announces his departure from the crew while in Water 7, unable to accept their decision about the Going Merry.",
+        "significance": "Water 7 becomes the setting for one of the crew's darkest moments.",
+        "timestamp": "18:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [],
+    "parentLocation": null,
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "usopp", "nami", "zoro", "sanji", "chopper"],
+    "relatedCrews": ["straw-hat-pirates", "galley-la"],
+    "relatedArcs": ["Water 7"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Going Merry",
+      "japanese": "ゴーイング・メリー号",
+      "romanized": "Gōingu Merī-gō"
+    },
+    "locationType": "SHIP",
+    "seaRegion": "PARADISE",
+    "islandName": null,
+    "debutEpisode": 17,
+    "debutChapter": 41,
+    "description": "The Straw Hat Pirates' first ship, a caravel gifted to them by Kaya. Despite its small size, it carried the crew through many adventures across the East Blue and into the Grand Line. Now damaged beyond repair, its fate becomes the center of conflict.",
+    "episodeAppearances": [235],
+    "keyEvents": [
+      {
+        "episodeNumber": 235,
+        "eventId": "ep235-event-003",
+        "eventType": "WORLD_LORE",
+        "title": "Going Merry's Terminal Condition Revealed",
+        "description": "The crew learns that the Going Merry's keel is broken beyond repair and the ship has reached the end of its life.",
+        "significance": "This revelation sets up the emotional conflict and eventual farewell to the beloved ship.",
+        "timestamp": "11:45"
+      },
+      {
+        "episodeNumber": 235,
+        "eventId": "ep235-event-004",
+        "eventType": "RELATIONSHIP_REVEAL",
+        "title": "Argument Between Luffy and Usopp",
+        "description": "On the deck of the Going Merry, Luffy and Usopp have their heated argument about the ship's fate.",
+        "significance": "The ship itself becomes a character in this conflict, with its fate dividing the crew.",
+        "timestamp": "14:20"
+      },
+      {
+        "episodeNumber": 235,
+        "eventId": "ep235-event-007",
+        "eventType": "BATTLE_START",
+        "title": "Duel Challenge Issued",
+        "description": "Usopp challenges Luffy to a duel with the Going Merry as the prize, making the ship the center of their conflict.",
+        "significance": "The ship's ownership becomes contested, symbolizing the deeper issues of value, loyalty, and belonging.",
+        "timestamp": "20:15"
+      }
+    ],
+    "status": "DAMAGED",
+    "statusHistory": [
+      {
+        "status": "DAMAGED_BEYOND_REPAIR",
+        "episodeStart": 234,
+        "episodeEnd": 312,
+        "reason": "Keel broken, damage accumulated from multiple adventures deemed irreparable by professional shipwrights"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "usopp", "nami", "zoro", "sanji", "chopper", "kaya"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Water 7"],
+    "images": []
+  }
+]

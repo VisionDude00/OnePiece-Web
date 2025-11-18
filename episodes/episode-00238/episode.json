@@ -1,0 +1,594 @@
+{
+  "episodeNumber": 238,
+  "episodeTitle": "Gum-Gum Human Vs. Fire-Breathing Cyborg!",
+  "description": "Luffy confronts Franky in the streets of Water 7, engaging in an intense battle with the fire-breathing cyborg. Meanwhile, Iceburg regains consciousness and identifies Nico Robin as one of his attackers, leading the Galley-La Company to believe the Straw Hat Pirates are responsible for the assassination attempt.",
+  "airDate": "2005-07-10",
+  "airDateJapan": "2005-07-10",
+  "airDateUS": "2012-11-03",
+  "arcName": "Water 7 Arc",
+  "sagaName": "Water 7 Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Kokoro no Chizu",
+    "artist": "BOYSTYLE",
+    "episodeRange": [207, 263]
+  },
+  "endingSong": {
+    "title": "Eternal Pose",
+    "artist": "ASIA ENGINEER",
+    "episodeRange": [231, 245]
+  },
+  "credits": {
+    "animationDirector": "Yoshio Mukainakano",
+    "scriptWriter": "Hirohiko Kamisaka",
+    "artDirectors": ["Miyuki Sato", "Fumihiro Uchikawa"],
+    "keyAnimators": ["Yuji Kondou"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Iceburg",
+        "actor": "Izō Oikawa"
+      },
+      {
+        "character": "Paulie",
+        "actor": "Takahiro Yoshimizu"
+      },
+      {
+        "character": "Rob Lucci",
+        "actor": "Tomokazu Seki"
+      },
+      {
+        "character": "Kaku",
+        "actor": "Ryōtarō Okiayu"
+      },
+      {
+        "character": "Kalifa",
+        "actor": "Rie Tanaka"
+      },
+      {
+        "character": "Tilestone",
+        "actor": "Keiichi Sonobe"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Iceburg",
+        "actor": "Philip Weber"
+      },
+      {
+        "character": "Paulie",
+        "actor": "David Wald"
+      },
+      {
+        "character": "Rob Lucci",
+        "actor": "Jason Liebrecht"
+      },
+      {
+        "character": "Kaku",
+        "actor": "Kent Williams"
+      },
+      {
+        "character": "Kalifa",
+        "actor": "Jad Saxton"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep238-event-001",
+      "episodeNumber": 238,
+      "timestamp": "03:45",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Luffy vs. Franky Begins",
+      "description": "Franky calls out to Luffy for a fight in the streets of Water 7. Luffy initially doesn't recognize him, but after Nami identifies Franky as the one responsible for beating up Usopp, Luffy becomes enraged and accepts the challenge.",
+      "significance": "Initiates the first major confrontation between Luffy and Franky, who will later become a Straw Hat crew member. This fight is motivated by revenge for Usopp's beating.",
+      "characterIds": ["luffy", "franky", "nami"],
+      "locationIds": ["water-7-streets"],
+      "crewIds": ["straw-hat-pirates", "franky-family"],
+      "quotes": [
+        {
+          "text": "So you're the one who beat up Usopp!",
+          "speaker": "Luffy",
+          "context": "Luffy realizes Franky is responsible for attacking his crew member"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [237],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [237]
+    },
+    {
+      "id": "ep238-event-002",
+      "episodeNumber": 238,
+      "timestamp": "05:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Franky's Fresh Fire Technique Debut",
+      "description": "Franky reveals his cyborg nature by taking in a large amount of air and unleashing a massive fire breath attack called Fresh Fire. The flames nearly hit Luffy, Nami, and nearby Water 7 citizens, demonstrating the extent of his mechanical modifications.",
+      "significance": "First display of Franky's fire-breathing ability in the anime, confirming his status as a cyborg and showcasing his unique combat capabilities. This moment initially leads Nami and Luffy to suspect he has Devil Fruit powers.",
+      "characterIds": ["franky", "luffy", "nami"],
+      "locationIds": ["water-7-streets"],
+      "quotes": [
+        {
+          "text": "Fresh Fire!",
+          "speaker": "Franky",
+          "context": "Franky's first use of his fire-breathing technique in the anime"
+        },
+        {
+          "text": "He can breathe fire! Is he a Devil Fruit user?",
+          "speaker": "Nami",
+          "context": "Nami's initial assumption about Franky's abilities"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep238-event-003",
+      "episodeNumber": 238,
+      "timestamp": "06:45",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Franky Proves He's Not a Devil Fruit User",
+      "description": "To disprove Nami's theory about him having Devil Fruit powers, Franky suddenly leaps into the water and swims, demonstrating that he has not eaten a Devil Fruit. He then crashes into a boat from the water, sending Luffy and Nami flying.",
+      "significance": "Establishes that Franky's abilities come from his cyborg modifications rather than Devil Fruit powers, an important distinction for his character and future role as the crew's shipwright.",
+      "characterIds": ["franky", "luffy", "nami"],
+      "locationIds": ["water-7-streets", "water-7-canals"],
+      "quotes": [
+        {
+          "text": "I haven't eaten a Devil Fruit!",
+          "speaker": "Franky",
+          "context": "Franky proves he can swim to show he's not a Devil Fruit user"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep238-event-004",
+      "episodeNumber": 238,
+      "timestamp": "08:15",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Strong Right Technique Revealed",
+      "description": "As Luffy falls toward Franky from the air, Franky launches his Strong Right attack - his right forearm detaches from his body, connected by a chain, and flies at Luffy like a projectile. The attack sends Luffy flying across the water, into a wall, and crashing downward onto his head.",
+      "significance": "First appearance of Franky's Strong Right technique in the anime, showcasing his detachable mechanical limbs and establishing his unique cyborg combat style.",
+      "characterIds": ["franky", "luffy"],
+      "locationIds": ["water-7-streets"],
+      "quotes": [
+        {
+          "text": "Strong Right!",
+          "speaker": "Franky",
+          "context": "Franky's first use of his detachable arm attack"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep238-event-005",
+      "episodeNumber": 238,
+      "timestamp": "10:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Destruction of the Shipyard",
+      "description": "The battle between Luffy and Franky escalates as they continue to brawl through Water 7, destroying the shipyard in the process. Luffy launches his Gomu Gomu no Pistol, sending Franky flying backward, while Franky retaliates with his Weapons Left attack.",
+      "significance": "The destructive nature of their fight draws attention from the Galley-La Company and causes significant property damage, further complicating the Straw Hats' situation in Water 7.",
+      "characterIds": ["luffy", "franky"],
+      "locationIds": ["water-7-shipyard"],
+      "quotes": [
+        {
+          "text": "Gomu Gomu no Pistol!",
+          "speaker": "Luffy",
+          "context": "Luffy attacks Franky with his signature technique"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep238-event-006",
+      "episodeNumber": 238,
+      "timestamp": "11:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Weapons Left Cannon Attack",
+      "description": "Franky uses his Weapons Left technique, where his left arm rotates inward and his wrist opens like a door hinge, revealing a gun sight. He then fires a cannonball from his left hand at Luffy in a massive explosive blast.",
+      "significance": "First appearance of Franky's Weapons Left technique in the anime, demonstrating his left arm's long-range offensive capabilities and contrasting with his right arm's melee focus.",
+      "characterIds": ["franky", "luffy"],
+      "locationIds": ["water-7-shipyard"],
+      "quotes": [
+        {
+          "text": "Weapons Left!",
+          "speaker": "Franky",
+          "context": "Franky's first use of his cannon arm attack"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep238-event-007",
+      "episodeNumber": 238,
+      "timestamp": "13:20",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Iceburg Regains Consciousness",
+      "description": "Inside the hospital, Iceburg briefly regains consciousness after being shot. In a critical moment, he recalls seeing his attackers before he was shot - one being Nico Robin and another being a tall masked man.",
+      "significance": "This revelation is the pivotal moment that turns Water 7 against the Straw Hat Pirates, as Iceburg's testimony identifies Robin as one of his attackers. This sets in motion the events that lead to Robin's departure from the crew.",
+      "characterIds": ["iceburg", "robin"],
+      "locationIds": ["water-7-hospital"],
+      "quotes": [
+        {
+          "text": "It was... Nico Robin... and another tall man...",
+          "speaker": "Iceburg",
+          "context": "Iceburg identifies his attackers before losing consciousness again"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [236],
+      "payoffInEpisodes": [239, 240],
+      "callbacksToEpisodes": [236]
+    },
+    {
+      "id": "ep238-event-008",
+      "episodeNumber": 238,
+      "timestamp": "14:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Galley-La Company Turns Against the Straw Hats",
+      "description": "After hearing Iceburg's testimony, Kalifa informs Paulie that one of the Straw Hat Pirates attempted to murder Iceburg. The Galley-La Company concludes that the Straw Hats are responsible for the attack and must be dealt with immediately.",
+      "significance": "This false accusation based on Robin's involvement marks a major turning point in the Water 7 Arc, transforming the Galley-La Company from potential allies into antagonists who actively hunt the Straw Hat crew.",
+      "characterIds": ["paulie", "kalifa", "kaku", "lucci"],
+      "locationIds": ["water-7-galley-la-company"],
+      "crewIds": ["straw-hat-pirates", "galley-la-company"],
+      "quotes": [
+        {
+          "text": "The Straw Hats tried to kill Iceburg! We have to find them!",
+          "speaker": "Paulie",
+          "context": "Paulie rallies the Galley-La Company against the Straw Hats"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [236, 237],
+      "payoffInEpisodes": [239, 240],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep238-event-009",
+      "episodeNumber": 238,
+      "timestamp": "16:00",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Galley-La Company Interrupts the Fight",
+      "description": "Tilestone alerts Paulie that Luffy and Franky are fighting and destroying the entire shipyard. The Galley-La Company members, including Paulie, Kaku, and Rob Lucci, rush outside to stop the fight and confront the Straw Hat Pirates.",
+      "significance": "Escalates the conflict as the Galley-La Company now views Luffy as a criminal, setting up the multi-sided battle that will dominate the coming episodes.",
+      "characterIds": ["tilestone", "paulie", "kaku", "lucci", "luffy", "franky"],
+      "locationIds": ["water-7-shipyard"],
+      "crewIds": ["galley-la-company"],
+      "quotes": [
+        {
+          "text": "Luffy and Franky are destroying the shipyard!",
+          "speaker": "Tilestone",
+          "context": "Alerting the Galley-La Company to the ongoing destruction"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep238-event-010",
+      "episodeNumber": 238,
+      "timestamp": "17:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Paulie Attacks Luffy with Rope Action",
+      "description": "Despite Franky's warnings not to interfere, Paulie uses his Rope Action technique on Luffy, binding him with ropes and slamming him onto the ground. This marks the first direct combat between the Galley-La Company and Luffy.",
+      "significance": "Demonstrates Paulie's rope-based combat abilities and establishes the Galley-La Company as formidable opponents who now view Luffy as an enemy.",
+      "characterIds": ["paulie", "luffy", "franky"],
+      "locationIds": ["water-7-shipyard"],
+      "quotes": [
+        {
+          "text": "Don't interfere! This is between me and him!",
+          "speaker": "Franky",
+          "context": "Franky protests as the Galley-La Company interrupts his fight with Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [239],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep238-event-011",
+      "episodeNumber": 238,
+      "timestamp": "18:45",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Kaku and Lucci Join the Fight",
+      "description": "Kaku grabs Franky and slams him onto the ground with his impressive physical strength, while Rob Lucci engages Luffy in a fist fight, eventually knocking him backward with a single hand strike.",
+      "significance": "Showcases the combat abilities of Kaku and Lucci, foreshadowing their true identities as CP9 agents. Their display of strength here is unusually powerful for ordinary shipwrights.",
+      "characterIds": ["kaku", "franky", "lucci", "luffy"],
+      "locationIds": ["water-7-shipyard"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [239, 240],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep238-event-012",
+      "episodeNumber": 238,
+      "timestamp": "20:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "The Accusation Goes Public",
+      "description": "The episode concludes with the Galley-La Company publicly accusing the Straw Hat Pirates of attempting to assassinate Iceburg. Word spreads throughout Water 7 that the Straw Hats are responsible for attacking their city's beloved hero.",
+      "significance": "Turns the entire city of Water 7 against the Straw Hat Pirates, isolating them from any potential allies and creating a hostile environment that will force them into increasingly desperate situations.",
+      "characterIds": ["luffy", "nami", "paulie", "kaku", "lucci"],
+      "locationIds": ["water-7-shipyard", "water-7-streets"],
+      "crewIds": ["straw-hat-pirates", "galley-la-company"],
+      "quotes": [
+        {
+          "text": "The Straw Hat Pirates tried to kill Iceburg!",
+          "speaker": "Paulie",
+          "context": "Paulie publicly accuses the Straw Hats of the assassination attempt"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [236, 237],
+      "payoffInEpisodes": [239, 240, 241],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["fresh-fire", "strong-right", "weapons-left"]
+  },
+  "episodeRelationships": {
+    "setupFor": [239, 240, 241],
+    "payoffFrom": [236, 237],
+    "thematicLinks": [236, 237, 239, 240]
+  },
+  "quotes": [
+    {
+      "text": "So you're the one who beat up Usopp!",
+      "speaker": "Luffy",
+      "context": "Luffy confronts Franky for attacking his crew member",
+      "timestamp": "03:45"
+    },
+    {
+      "text": "Fresh Fire!",
+      "speaker": "Franky",
+      "context": "Franky's first fire-breathing attack in the anime",
+      "timestamp": "05:30"
+    },
+    {
+      "text": "I haven't eaten a Devil Fruit!",
+      "speaker": "Franky",
+      "context": "Franky proves he can swim to demonstrate his cyborg nature",
+      "timestamp": "06:45"
+    },
+    {
+      "text": "It was... Nico Robin... and another tall man...",
+      "speaker": "Iceburg",
+      "context": "Critical testimony identifying Robin as one of his attackers",
+      "timestamp": "13:20"
+    },
+    {
+      "text": "The Straw Hat Pirates tried to kill Iceburg!",
+      "speaker": "Paulie",
+      "context": "Public accusation that turns Water 7 against the crew",
+      "timestamp": "20:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Misunderstanding and Betrayal",
+      "description": "The episode centers on a tragic misunderstanding where Robin's involvement in the attack on Iceburg is interpreted as the entire Straw Hat crew's betrayal, when in reality Robin is being blackmailed by CP9.",
+      "symbolism": "The chaotic three-way battle between Luffy, Franky, and the Galley-La Company symbolizes how quickly allies can become enemies based on incomplete information.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Loyalty and Revenge",
+      "description": "Luffy's motivation to fight Franky stems from loyalty to his injured crewmate Usopp, demonstrating the bonds between the Straw Hat Pirates even during their internal conflict.",
+      "symbolism": "Despite the crew's current separation and conflict over the Going Merry, Luffy immediately seeks revenge for Usopp's beating, showing their underlying unity.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Technology vs. Nature",
+      "description": "Franky's cyborg abilities contrast with Luffy's Devil Fruit powers, presenting two different paths to superhuman strength in the One Piece world.",
+      "symbolism": "Franky's mechanical modifications represent human ingenuity and scientific advancement as an alternative to Devil Fruits.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Intense", "Dramatic", "Chaotic", "Suspenseful"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist - Vengeful Fighter",
+      "development": "Luffy demonstrates his unwavering loyalty to his crew by immediately seeking revenge against Franky for beating up Usopp, even as his crew faces a new crisis with Robin's accusation.",
+      "keyActions": [
+        "Confronts Franky for attacking Usopp",
+        "Battles Franky using Gomu Gomu techniques",
+        "Faces attacks from the Galley-La Company",
+        "Engages in combat with Rob Lucci"
+      ],
+      "quotes": [
+        "So you're the one who beat up Usopp!"
+      ]
+    },
+    {
+      "characterId": "franky",
+      "role": "Antagonist turned Rival - The Cyborg",
+      "development": "Franky showcases his cyborg abilities for the first time, revealing his fire-breathing, detachable limbs, and weapon systems. His warning to the Galley-La Company not to interfere hints at his personal code of honor.",
+      "keyActions": [
+        "Challenges Luffy to a fight",
+        "Demonstrates Fresh Fire technique",
+        "Proves he's not a Devil Fruit user by swimming",
+        "Uses Strong Right and Weapons Left attacks",
+        "Warns Galley-La Company not to interfere in his fight"
+      ],
+      "quotes": [
+        "Fresh Fire!",
+        "I haven't eaten a Devil Fruit!",
+        "Don't interfere! This is between me and him!"
+      ]
+    },
+    {
+      "characterId": "iceburg",
+      "role": "Victim - Key Witness",
+      "development": "Iceburg's brief moment of consciousness provides the crucial testimony that identifies Robin as one of his attackers, dramatically shifting the entire situation in Water 7.",
+      "keyActions": [
+        "Regains consciousness in the hospital",
+        "Recalls and identifies his attackers",
+        "Identifies Nico Robin and a tall masked man",
+        "Loses consciousness again"
+      ],
+      "quotes": [
+        "It was... Nico Robin... and another tall man..."
+      ]
+    },
+    {
+      "characterId": "paulie",
+      "role": "Galley-La Foreman - Pursuer",
+      "development": "Paulie takes charge of the Galley-La Company's response to the assassination attempt, demonstrating his loyalty to Iceburg and his combat skills with rope techniques.",
+      "keyActions": [
+        "Hears about Iceburg's identification of Robin",
+        "Rallies the Galley-La Company against the Straw Hats",
+        "Rushes to stop Luffy and Franky's fight",
+        "Uses Rope Action technique on Luffy",
+        "Publicly accuses the Straw Hats"
+      ],
+      "quotes": [
+        "The Straw Hats tried to kill Iceburg! We have to find them!",
+        "The Straw Hat Pirates tried to kill Iceburg!"
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends the battle sequences between Luffy and Franky with additional attacks and reactions to maintain pacing, while the manga presents the confrontation more concisely.",
+      "episodeTimestamp": "10:30-18:45",
+      "mangaReference": "Chapter 336",
+      "type": "PACING_CHANGE"
+    },
+    {
+      "difference": "Some reaction shots from Water 7 citizens watching the battle are anime-original additions to emphasize the public nature of the conflict.",
+      "episodeTimestamp": "05:30",
+      "mangaReference": "Chapter 336",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the first appearance of Franky's signature Fresh Fire technique in the anime, which would become one of his most iconic moves throughout the series.",
+      "category": "ABILITIES",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_238",
+          "title": "Episode 238 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode adapts material from manga chapters 335 (p.15-18), 336 (p.2-19), and 337 (p.2-14), combining elements from three chapters into one episode.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chapter_336",
+          "title": "Chapter 336 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Kazuki Yao, Franky's original Japanese voice actor, voiced the character for nearly 20 years before being replaced by Subaru Kimura in 2025 due to retirement.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Franky_(One_Piece)",
+          "title": "Franky - Wikipedia",
+          "platform": "Wikipedia",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The Japanese TV rating for this episode was 10.2%, ranking 7th in its time slot for the week of July 10, 2005.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_238",
+          "title": "Episode 238 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Rob Lucci and Kaku's display of unusual strength in this episode foreshadows their true identities as CP9 agents, which will be revealed later in the arc.",
+      "category": "PLOT",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Water_7_Arc",
+          "title": "Water 7 Arc - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
