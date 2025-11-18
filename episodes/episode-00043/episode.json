@@ -1,0 +1,518 @@
+{
+  "episodeNumber": 43,
+  "episodeTitle": "The End of the Fish-Man Empire! Nami is my Friend!",
+  "description": "Luffy defeats Arlong in an epic final battle, destroying Arlong Park and freeing Cocoyasi Village. Nami officially joins the Straw Hat Pirates as their navigator, while Marine Captain Nezumi reports Luffy to headquarters, setting in motion his first bounty.",
+  "airDate": "2000-09-27",
+  "airDateJapan": "2000-09-27",
+  "airDateUS": "2005-09-07",
+  "arcName": "Arlong Park",
+  "sagaName": "East Blue Saga",
+  "animationQuality": "ENHANCED",
+  "openingSong": {
+    "title": "We Are!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [1, 47]
+  },
+  "endingSong": {
+    "title": "RUN! RUN! RUN!",
+    "artist": "Maki Otsuki",
+    "episodeRange": [31, 63]
+  },
+  "credits": {
+    "animationDirector": "Kazuya Hisada",
+    "director": "Junji Shimizu",
+    "screenplay": "Michiru Shimada",
+    "artDirector": "Miyuki Sato",
+    "keyAnimators": ["Kazuya Hisada"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Arlong",
+        "actor": "Jurota Kosugi"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Arlong",
+        "actor": "Chris Rager"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep043-event-001",
+      "episodeNumber": 43,
+      "timestamp": "05:12",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Luffy Discovers Nami's Blood-Covered Pen",
+      "description": "While fighting in the cartography room, Luffy notices Nami's old drawing pen covered in her blood, revealing the physical and emotional abuse she endured while being forced to draw maps for Arlong. This discovery deepens Luffy's resolve to defeat Arlong and free Nami.",
+      "significance": "This moment visualizes Nami's suffering and transforms Luffy's fight from a simple battle into a mission to destroy the room and maps that represent her captivity. It's a pivotal emotional beat that shows why Luffy fights - not just to win, but to free his friends.",
+      "characterIds": ["luffy", "nami", "arlong"],
+      "locationIds": ["arlong-park"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [35, 37],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [37]
+    },
+    {
+      "id": "ep043-event-002",
+      "episodeNumber": 43,
+      "timestamp": "06:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Luffy Destroys Arlong's Maps and Weapons",
+      "description": "Enraged by Arlong's boasts about using Nami as a tool, Luffy breaks Arlong's Kiribachi sword with his bare hands and then systematically destroys all the sea maps and furniture in the cartography room, throwing them out the window. This destruction symbolizes freeing Nami from her prison of forced labor.",
+      "significance": "One of the most iconic and emotionally powerful moments in early One Piece. Luffy doesn't just defeat Arlong - he destroys the very symbols of Nami's captivity. The spectators and Nami watching furniture being thrown from the building creates a powerful visual metaphor for liberation.",
+      "characterIds": ["luffy", "arlong", "nami"],
+      "locationIds": ["arlong-park"],
+      "quotes": [
+        {
+          "text": "Of course I can't use a sword! And I can't navigate! And I can't cook! And I can't lie! I know I need help to accomplish my dream! But I can beat you!",
+          "speaker": "Luffy",
+          "context": "Luffy explains why he needs his crew while destroying Arlong's maps"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [37],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep043-event-003",
+      "episodeNumber": 43,
+      "timestamp": "08:23",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Nami Silently Thanks Luffy",
+      "description": "As Nami watches the maps and furniture being thrown from Arlong Park, tears stream down her face as she silently thanks Luffy for destroying the room where she was imprisoned for eight years. The spectators and crew also witness this moment of liberation.",
+      "significance": "A powerful emotional moment showing Nami's gratitude and the beginning of her true freedom. This silent acknowledgment demonstrates the deep bond forming between Luffy and Nami.",
+      "characterIds": ["nami", "luffy"],
+      "locationIds": ["arlong-park"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [37],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep043-event-004",
+      "episodeNumber": 43,
+      "timestamp": "10:15",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Luffy Breaks Arlong's Nose",
+      "description": "During their intense battle, Arlong bites down on Luffy's shoulder with his powerful shark teeth. However, Luffy manages to break free and shatters Arlong's nose, one of his most prized features as a shark fishman. This marks a turning point in the battle.",
+      "significance": "Breaking Arlong's nose is both literally and symbolically defeating his pride. The nose is a key physical trait of shark fishmen and Arlong's source of pride in fishman superiority. Its destruction shows Luffy dominating the fight.",
+      "characterIds": ["luffy", "arlong"],
+      "locationIds": ["arlong-park"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [39, 41, 42],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep043-event-005",
+      "episodeNumber": 43,
+      "timestamp": "12:34",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Gomu Gomu no Ono (Battle Axe) Debut",
+      "description": "In the final clash, Arlong attempts his Shark on Tooth attack, but Luffy counters with a new technique - Gomu Gomu no Ono (Rubber Rubber Battle Axe). Luffy stretches his leg high into the air and brings it down like an axe on Arlong's back with tremendous force, sending the fishman crashing through multiple floors.",
+      "significance": "This technique debuts as Luffy's finishing move against Arlong, demonstrating his growth and ability to develop new attacks. The powerful visual of Luffy's leg axe-kick became one of the iconic moments of early One Piece.",
+      "characterIds": ["luffy", "arlong"],
+      "locationIds": ["arlong-park"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [
+        {
+          "text": "Gomu Gomu no... Ono!",
+          "speaker": "Luffy",
+          "context": "Luffy's finishing move against Arlong"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [41, 42],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep043-event-006",
+      "episodeNumber": 43,
+      "timestamp": "13:45",
+      "eventType": "BATTLE_END",
+      "severity": "CRITICAL",
+      "title": "Arlong's Defeat",
+      "description": "Luffy's Gomu Gomu no Ono sends Arlong crashing unconscious through five floors to the bottom of Arlong Park. The structural damage from this devastating attack causes the entire building to collapse. Arlong, the tyrannical ruler who terrorized the East Blue for years, is finally defeated.",
+      "significance": "The defeat of Arlong marks the end of eight years of oppression for Cocoyasi Village and Nami's freedom from forced servitude. This is one of the first major villain defeats in One Piece and establishes the pattern of Luffy liberating oppressed people. It's the climax of the entire Arlong Park arc.",
+      "characterIds": ["luffy", "arlong"],
+      "locationIds": ["arlong-park"],
+      "crewIds": ["arlong-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [31, 32, 33, 34, 35, 37, 39, 41, 42],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep043-event-007",
+      "episodeNumber": 43,
+      "timestamp": "14:52",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MAJOR",
+      "title": "Destruction of Arlong Park",
+      "description": "The structural damage from Luffy's final attack causes Arlong Park to completely collapse. The building that served as a symbol of fishman oppression and Nami's prison for eight years is reduced to rubble, marking the physical end of Arlong's reign.",
+      "significance": "The destruction of Arlong Park is deeply symbolic - it represents the complete dismantling of Arlong's empire and the liberation of the East Blue from his terror. The building's collapse mirrors the fall of tyranny.",
+      "characterIds": ["luffy", "arlong"],
+      "locationIds": ["arlong-park"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [31],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep043-event-008",
+      "episodeNumber": 43,
+      "timestamp": "15:23",
+      "eventType": "CREW_JOIN",
+      "severity": "CRITICAL",
+      "title": "Luffy Declares Nami His Friend",
+      "description": "Luffy emerges victorious from the rubble of Arlong Park and, standing atop the ruins, declares to everyone present that Nami is his friend and nakama (crewmate). This public declaration solidifies Nami's place in the Straw Hat Pirates and marks her true freedom from Arlong.",
+      "significance": "This is one of the most iconic moments in One Piece history. Luffy's declaration of 'Nami, you are my friend!' (nakama) is the emotional climax of the Arlong Park arc. The concept of nakama becomes a central theme of the entire series from this point forward. This moment cements Nami as the third official member of the Straw Hat Pirates.",
+      "characterIds": ["luffy", "nami"],
+      "locationIds": ["arlong-park"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "Nami! You are my friend!",
+          "speaker": "Luffy",
+          "context": "Luffy's declaration after defeating Arlong"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [1, 31, 33, 35, 37],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [1]
+    },
+    {
+      "id": "ep043-event-009",
+      "episodeNumber": 43,
+      "timestamp": "16:45",
+      "eventType": "CREW_JOIN",
+      "severity": "CRITICAL",
+      "title": "Nami Officially Joins the Straw Hat Pirates",
+      "description": "In response to Luffy's declaration, Nami smiles through her tears and accepts, officially becoming a permanent member of the Straw Hat Pirates as their navigator. After years of being forced to work for Arlong, she can finally choose her own path and join the crew she wants to be part of.",
+      "significance": "Nami's acceptance marks her official recruitment as the navigator of the Straw Hat Pirates. This completes her character arc from reluctant ally to true crewmate. She becomes the third member to officially join (after Zoro and potentially counting herself, though she initially refused). Her navigational skills become essential to the crew's journey on the Grand Line.",
+      "characterIds": ["nami", "luffy"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [1, 31, 37],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [1]
+    },
+    {
+      "id": "ep043-event-010",
+      "episodeNumber": 43,
+      "timestamp": "17:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Cocoyasi Village Celebrates Liberation",
+      "description": "The spectators and villagers begin celebrating their freedom from Arlong's tyrannical rule. After eight years of oppression, paying tribute, and living in fear, the people of Cocoyasi Village and the surrounding islands can finally rejoice in their liberation.",
+      "significance": "This celebration represents the end of a dark chapter for the entire region and validates Luffy's role as a liberator, not just a pirate. It establishes the recurring theme of Luffy freeing oppressed people throughout the series.",
+      "characterIds": ["luffy", "nami", "genzo", "nojiko"],
+      "locationIds": ["cocoyasi-village", "arlong-park"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [31, 35, 37],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep043-event-011",
+      "episodeNumber": 43,
+      "timestamp": "18:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Nezumi Attempts to Seize Arlong's Treasure",
+      "description": "Marine Captain Nezumi and his forces interrupt the celebration, attempting to confiscate Arlong's treasure for themselves rather than arresting the fishman pirates or returning the wealth to the villagers. This reveals Nezumi's corruption and his partnership with Arlong.",
+      "significance": "This moment exposes the corruption within the Marines and shows that the 'official' forces of justice can be just as villainous as pirates. It adds moral complexity to the world of One Piece and justifies Luffy's actions outside the law.",
+      "characterIds": ["nezumi", "luffy", "nami", "zoro", "sanji", "usopp"],
+      "locationIds": ["arlong-park"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [31, 37],
+      "payoffInEpisodes": [45],
+      "callbacksToEpisodes": [31]
+    },
+    {
+      "id": "ep043-event-012",
+      "episodeNumber": 43,
+      "timestamp": "19:42",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Straw Hats Force Nezumi to Arrest Arlong",
+      "description": "The Straw Hat crew angrily confronts Nezumi and his Marines, forcing them to actually do their job - arrest Arlong and his crew, and ensure the stolen wealth is returned to the townspeople. Nezumi reluctantly complies but vows retribution before fleeing.",
+      "significance": "This shows the Straw Hats enforcing justice when the official authorities fail to do so. It also sets up Nezumi's revenge, which will have immediate consequences for Luffy.",
+      "characterIds": ["luffy", "zoro", "sanji", "usopp", "nezumi"],
+      "locationIds": ["arlong-park"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [45],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep043-event-013",
+      "episodeNumber": 43,
+      "timestamp": "20:58",
+      "eventType": "BOUNTY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Nezumi Reports Luffy to Marine Headquarters",
+      "description": "Back at his Marine base, the vengeful Captain Nezumi contacts Marine Headquarters to report Monkey D. Luffy and requests that a high bounty be placed on his head. This act of revenge sets in motion Luffy's first wanted poster and bounty, marking him as an official threat to the World Government.",
+      "significance": "This is a pivotal moment that transitions Luffy from an unknown pirate to a wanted criminal with an official bounty. Nezumi's corrupt revenge ironically validates Luffy's threat to the established order. This sets up the reveal of Luffy's first bounty in the next episodes and marks the beginning of his reputation spreading across the world.",
+      "characterIds": ["nezumi", "luffy"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [45],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep043-event-014",
+      "episodeNumber": 43,
+      "timestamp": "21:45",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MINOR",
+      "title": "Genzo Apologizes to Nami",
+      "description": "Back in Cocoyasi Village, Genzo, on behalf of all the townspeople, apologizes to Nami for ostracizing her and not understanding her sacrifice. The villagers now know she was trying to buy their freedom all along and regret treating her as a traitor.",
+      "significance": "This reconciliation heals the rift between Nami and her home village, allowing her to leave with the Straw Hats without guilt or resentment. It shows the villagers' recognition of her sacrifice and validates her struggle over the past eight years.",
+      "characterIds": ["genzo", "nami", "nojiko"],
+      "locationIds": ["cocoyasi-village"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [35, 37],
+      "payoffInEpisodes": [44, 45],
+      "callbacksToEpisodes": [35, 37]
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["gomu-gomu-no-ono"]
+  },
+  "episodeRelationships": {
+    "setupFor": [44, 45],
+    "payoffFrom": [31, 35, 37, 39, 41, 42],
+    "thematicLinks": [1, 37, 44]
+  },
+  "quotes": [
+    {
+      "text": "Of course I can't use a sword! And I can't navigate! And I can't cook! And I can't lie! I know I need help to accomplish my dream! But I can beat you!",
+      "speaker": "Luffy",
+      "context": "Luffy explaining to Arlong why he needs his crew",
+      "timestamp": "06:45"
+    },
+    {
+      "text": "Gomu Gomu no... Ono!",
+      "speaker": "Luffy",
+      "context": "Luffy's finishing move against Arlong",
+      "timestamp": "12:34"
+    },
+    {
+      "text": "Nami! You are my friend!",
+      "speaker": "Luffy",
+      "context": "Luffy's declaration after defeating Arlong",
+      "timestamp": "15:23"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Freedom and Liberation",
+      "description": "The episode's central theme is liberation - Nami's freedom from Arlong's control, the villagers' freedom from oppression, and the symbolic destruction of Arlong Park representing the breaking of chains.",
+      "symbolism": "Luffy destroying the cartography room symbolizes freeing Nami from her prison. The collapsing Arlong Park represents the fall of tyranny.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Nakama (Friendship/Crewmates)",
+      "description": "Luffy's declaration that Nami is his friend establishes nakama as a core value of One Piece. True friendship means fighting for each other and accepting help when needed.",
+      "symbolism": "Luffy's willingness to destroy everything Arlong forced Nami to create shows that true friends value the person over their utility.",
+      "culturalReferences": ["The concept of nakama is deeply rooted in Japanese culture, emphasizing bonds that go beyond simple friendship"]
+    },
+    {
+      "theme": "Justice vs. Corruption",
+      "description": "The episode contrasts Luffy's vigilante justice with Nezumi's corrupt official authority, questioning who the real criminals are.",
+      "symbolism": "Nezumi's attempt to steal treasure versus Luffy ensuring it returns to the villagers shows that moral authority doesn't always align with legal authority.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Strength in Vulnerability",
+      "description": "Luffy openly admits he can't navigate, cook, or do many things, but emphasizes that needing help from others is not weakness - it's why he has a crew.",
+      "symbolism": "Luffy's acknowledgment of his limitations while defeating Arlong shows that true strength includes knowing when you need others.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Triumphant", "Emotional", "Cathartic", "Inspirational"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Hero and Liberator",
+      "development": "Luffy demonstrates that his strength comes not just from his abilities, but from his understanding of what his crew needs from him. His fight against Arlong is deeply personal because it's about freeing Nami, not about winning.",
+      "keyActions": [
+        "Discovers Nami's blood-covered pen",
+        "Destroys Arlong's maps and weapons",
+        "Breaks Arlong's nose",
+        "Defeats Arlong with Gomu Gomu no Ono",
+        "Declares Nami his friend and crewmate"
+      ],
+      "quotes": [
+        "Of course I can't use a sword! And I can't navigate! And I can't cook! And I can't lie! I know I need help to accomplish my dream! But I can beat you!",
+        "Nami! You are my friend!"
+      ]
+    },
+    {
+      "characterId": "nami",
+      "role": "Liberated Prisoner Turned True Crewmate",
+      "development": "Nami's arc completes in this episode. She transitions from a reluctant ally using the crew for her own purposes to a true member of the Straw Hat Pirates. Watching Luffy destroy the room where she suffered allows her to finally let go of her past and embrace her future.",
+      "keyActions": [
+        "Watches Luffy destroy Arlong's maps",
+        "Silently thanks Luffy through tears",
+        "Accepts Luffy's declaration and joins the crew officially",
+        "Receives apology from Genzo and the villagers"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "arlong",
+      "role": "Fallen Tyrant",
+      "development": "Arlong's defeat marks the end of his reign of terror. His pride in fishman superiority is literally broken along with his nose, and his empire crumbles along with Arlong Park.",
+      "keyActions": [
+        "Boasts about using Nami",
+        "Bites Luffy's shoulder",
+        "Has his nose broken",
+        "Is defeated by Gomu Gomu no Ono",
+        "Falls unconscious through five floors"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends several fight scenes and emotional moments compared to the manga for dramatic effect",
+      "episodeTimestamp": "Various",
+      "mangaReference": "Chapters 92-94",
+      "type": "PACING_CHANGE"
+    },
+    {
+      "difference": "The anime uses enhanced animation techniques including close-ups and increased frame rates for Nami's acceptance scene",
+      "episodeTimestamp": "16:45",
+      "mangaReference": "Chapter 94",
+      "type": "ANIME_ENHANCEMENT"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode was animated by Kazuya Hisada, who used special animation techniques including close-ups and slightly increased frame rates for Nami's emotional 'yes' to make the scene more impactful.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://forums.arlongpark.net/topic/18855/a-study-of-one-piece-animation",
+          "title": "A Study of One Piece Animation - Arlong Park Forums",
+          "platform": "Arlong Park Forums",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 43 adapts manga chapters 92-94, concluding the Arlong Park arc which is considered one of the most emotionally impactful arcs in early One Piece.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_43",
+          "title": "Episode 43 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode originally aired on September 27, 2000, in Japan and was later remastered and re-aired on February 16, 2013.",
+      "category": "BROADCAST",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_43",
+          "title": "Episode 43 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Luffy's quote 'Of course I can't use a sword! And I can't navigate!' became iconic for establishing the interdependence of the Straw Hat crew.",
+      "category": "CULTURAL_IMPACT",
+      "sources": []
+    },
+    {
+      "fact": "This episode has an IMDb rating of 8.7/10, making it one of the highest-rated episodes of the Arlong Park arc.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://www.imdb.com/title/tt0967040/",
+          "title": "One Piece Episode 43 - IMDb",
+          "platform": "IMDb",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The Gomu Gomu no Ono (Battle Axe) technique debuts in this episode and becomes one of Luffy's signature finishing moves throughout the series.",
+      "category": "ABILITIES",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

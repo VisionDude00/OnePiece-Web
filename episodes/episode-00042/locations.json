@@ -1,0 +1,84 @@
+[
+  {
+    "name": {
+      "english": "Nami's Cartography Room",
+      "japanese": "ナミの製図室",
+      "romanized": "Nami no Seizushitsu"
+    },
+    "locationType": "ROOM",
+    "seaRegion": "EAST_BLUE",
+    "islandName": "Conomi Islands",
+    "debutEpisode": 42,
+    "debutChapter": 92,
+    "description": "A room within Arlong Park where Nami was forced to draw maps for Arlong's conquest plans. The walls are covered with maps that Nami spent eight years creating. Her desk contains a pen encrusted with her blood, symbolizing the brutal toll of her forced labor.",
+    "episodeAppearances": [42],
+    "keyEvents": [
+      {
+        "episodeNumber": 42,
+        "eventId": "ep042-event-009",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Luffy Discovers Nami's Cartography Room",
+        "description": "Arlong slams Luffy through the wall into Nami's cartography room where Luffy sees the evidence of her eight years of suffering.",
+        "significance": "This discovery reveals the true extent of Nami's exploitation and strengthens Luffy's resolve to free her.",
+        "timestamp": "18:45"
+      },
+      {
+        "episodeNumber": 42,
+        "eventId": "ep042-event-010",
+        "eventType": "MAJOR_DECISION",
+        "title": "Luffy Declares Nami as His Navigator",
+        "description": "Standing in this room, Luffy formally declares Nami as his navigator.",
+        "significance": "The room becomes the setting for one of the most important crew declarations in the series.",
+        "timestamp": "20:15"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 42,
+        "episodeEnd": null,
+        "reason": "Room is in active use by Arlong to exploit Nami"
+      }
+    ],
+    "parentLocation": "arlong-park",
+    "childLocations": [],
+    "relatedCharacters": ["nami", "luffy", "arlong"],
+    "relatedCrews": ["arlong-pirates"],
+    "relatedArcs": ["Arlong Park Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Arlong Park",
+      "japanese": "アーロンパーク",
+      "romanized": "Āron Pāku"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "EAST_BLUE",
+    "islandName": "Conomi Islands",
+    "debutEpisode": 31,
+    "debutChapter": 69,
+    "description": "The headquarters of the Arlong Pirates, a large fortress-like structure where Arlong conducts his operations and exploits the local population.",
+    "episodeAppearances": [42],
+    "keyEvents": [
+      {
+        "episodeNumber": 42,
+        "eventId": "ep042-event-001",
+        "eventType": "BATTLE_START",
+        "title": "Luffy vs Arlong Battle",
+        "description": "The intense battle between Luffy and Arlong takes place throughout Arlong Park.",
+        "significance": "The climactic location for the resolution of the Arlong Park arc.",
+        "timestamp": "03:15"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [],
+    "parentLocation": null,
+    "childLocations": ["namis-cartography-room"],
+    "relatedCharacters": ["arlong", "luffy", "nami", "sanji", "zoro", "usopp"],
+    "relatedCrews": ["arlong-pirates", "straw-hat-pirates"],
+    "relatedArcs": ["Arlong Park Arc"],
+    "images": []
+  }
+]
