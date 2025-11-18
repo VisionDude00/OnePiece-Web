@@ -1,0 +1,488 @@
+{
+  "episodeNumber": 275,
+  "episodeTitle": "Robin's Past! The Girl Who Was Called a Devil!",
+  "episodeTitleJapanese": "ロビンの過去！悪魔と呼ばれた少女！",
+  "episodeTitleRomanized": "Robin no Kako! Akuma to Yobareta Shōjo!",
+  "description": "Spandam threatens Robin with the Buster Call, triggering painful memories. The episode flashes back 20 years to Ohara, where eight-year-old Robin passes her archaeology exam, becoming the youngest archaeologist ever. Despite her achievement, she is forbidden from researching the Void Century and ostracized by other children who call her a devil for her Devil Fruit powers. A giant named Jaguar D. Saul washes ashore, and Robin befriends him, finding someone who accepts her.",
+  "airDate": "2006-08-13",
+  "airDateJapan": "2006-08-13",
+  "airDateUS": "2013-07-23",
+  "arcName": "Enies Lobby",
+  "sagaName": "Water 7 Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Brand New World",
+    "artist": "D-51",
+    "episodeRange": [264, 278]
+  },
+  "endingSong": {
+    "title": "Adventure World",
+    "artist": "Delicatessen",
+    "episodeRange": [264, 278]
+  },
+  "credits": {
+    "animationDirector": "Hiroaki Miyamoto",
+    "screenplayWriter": "Hirohiko Kamisaka",
+    "artDirector": "Miyuki Sato, Kunihiro Chida",
+    "keyAnimators": ["Noboru Koizumi"],
+    "voiceActorsJP": [
+      {
+        "character": "Nico Robin (Adult)",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Nico Robin (Young)",
+        "actor": "Anzu Nagai"
+      },
+      {
+        "character": "Jaguar D. Saul",
+        "actor": "Takeshi Kusao"
+      },
+      {
+        "character": "Spandam",
+        "actor": "Masaya Onosaka"
+      },
+      {
+        "character": "Professor Clover",
+        "actor": "Kinryu Arimoto"
+      },
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Nico Robin (Adult)",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Nico Robin (Young)",
+        "actor": "Jad Saxton"
+      },
+      {
+        "character": "Jaguar D. Saul",
+        "actor": "Cole Brown"
+      },
+      {
+        "character": "Spandam",
+        "actor": "Kent Williams"
+      },
+      {
+        "character": "Professor Clover",
+        "actor": "Kent Williams"
+      },
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep275-event-001",
+      "episodeNumber": 275,
+      "timestamp": "02:15",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Spandam Threatens Robin with Buster Call",
+      "description": "In the present day at Enies Lobby, Spandam reveals the Golden Den Den Mushi to Robin and threatens her with the devastating Buster Call. This triggers traumatic memories from her past, causing Robin to relive the horrors of Ohara's destruction.",
+      "significance": "This moment sets up Robin's emotional breakdown and provides the narrative framing for her entire backstory arc. The threat of another Buster Call connects her past trauma to her present situation.",
+      "characterIds": ["robin", "spandam"],
+      "locationIds": ["enies-lobby"],
+      "quotes": [
+        {
+          "text": "This is the Golden Den Den Mushi that can summon the Buster Call!",
+          "speaker": "Spandam",
+          "context": "Spandam reveals the device that destroyed Robin's homeland to traumatize her"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [272, 273, 274],
+      "payoffInEpisodes": [277, 278],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep275-event-002",
+      "episodeNumber": 275,
+      "timestamp": "04:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Flashback Begins: Ohara 20 Years Ago",
+      "description": "The episode transitions to a flashback set 20 years before the main story on the island of Ohara in the West Blue. We see young Robin as an 8-year-old child living among the scholars of Ohara.",
+      "significance": "This marks the beginning of one of One Piece's most important backstories, revealing the origins of Robin's trauma and her connection to the Void Century.",
+      "characterIds": ["robin"],
+      "locationIds": ["ohara"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [276, 277, 278],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep275-event-003",
+      "episodeNumber": 275,
+      "timestamp": "06:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Robin Passes Archaeology Exam at Age 8",
+      "description": "Eight-year-old Nico Robin successfully passes the archaeology examination with a perfect score, becoming the youngest person ever to earn the title of archaeologist. Professor Clover and the other scholars acknowledge her incredible achievement.",
+      "significance": "This establishes Robin's genius intellect and her deep connection to archaeology, which becomes central to her character and the overall plot regarding the Poneglyphs and Void Century.",
+      "characterIds": ["robin", "professor-clover"],
+      "locationIds": ["ohara", "tree-of-knowledge"],
+      "quotes": [
+        {
+          "text": "At only eight years old, you've become the youngest archaeologist in history!",
+          "speaker": "Professor Clover",
+          "context": "Clover congratulates young Robin on her achievement"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep275-event-004",
+      "episodeNumber": 275,
+      "timestamp": "08:20",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Professor Clover Forbids Robin from Void Century Research",
+      "description": "Despite Robin's achievement, Professor Clover strictly forbids her from participating in the forbidden research about the Void Century, the 100-year gap in history that the World Government has made illegal to study. He explains that this research is too dangerous.",
+      "significance": "This introduces the concept of the Void Century as forbidden knowledge and foreshadows the tragic fate of Ohara. It also shows Robin's early fascination with the very topic that will define her life's purpose.",
+      "characterIds": ["robin", "professor-clover"],
+      "locationIds": ["tree-of-knowledge"],
+      "quotes": [
+        {
+          "text": "You must never participate in our research on the Void Century. It's too dangerous.",
+          "speaker": "Professor Clover",
+          "context": "Clover warns young Robin away from the forbidden research"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [276, 277],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep275-event-005",
+      "episodeNumber": 275,
+      "timestamp": "11:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Robin's Isolation and Ostracization",
+      "description": "The episode shows young Robin being rejected and bullied by other children on Ohara. They call her a 'demon' and 'monster' because of her Devil Fruit powers, throwing rocks and avoiding her. Even adults treat her with suspicion and fear.",
+      "significance": "This establishes Robin's deep-seated loneliness and fear of rejection, which becomes the emotional core of the Enies Lobby arc. Her childhood isolation explains why she initially refuses to let the Straw Hats rescue her.",
+      "characterIds": ["robin"],
+      "locationIds": ["ohara"],
+      "quotes": [
+        {
+          "text": "Go away, demon child! You're creepy with those weird powers!",
+          "speaker": "Ohara Children",
+          "context": "Children bully young Robin for having Devil Fruit abilities"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [278],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep275-event-006",
+      "episodeNumber": 275,
+      "timestamp": "13:15",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Young Robin Uses Hana Hana no Mi Powers",
+      "description": "Robin demonstrates her Hana Hana no Mi (Flower-Flower Fruit) Devil Fruit abilities as a child, sprouting multiple arms to help with various tasks. This display of her powers is what causes other children to fear and reject her.",
+      "significance": "Shows that Robin has had her Devil Fruit powers since early childhood, and reveals how these powers contributed to her isolation. The visual of child Robin using these abilities emphasizes how young she was when cursed with loneliness.",
+      "characterIds": ["robin"],
+      "devilFruitIds": ["hana-hana-no-mi"],
+      "locationIds": ["ohara"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep275-event-007",
+      "episodeNumber": 275,
+      "timestamp": "16:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Jaguar D. Saul Washes Ashore on Ohara",
+      "description": "A giant named Jaguar D. Saul, a former Marine Vice Admiral, washes up unconscious on the shore of Ohara. His arrival on the island will change young Robin's life forever.",
+      "significance": "Saul's debut marks a turning point in Robin's childhood. He becomes the first person to truly accept and befriend her, teaching her that she's not alone in the world. His presence also connects to the larger plot of Ohara's destruction.",
+      "characterIds": ["jaguar-d-saul"],
+      "locationIds": ["ohara"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [276, 277],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep275-event-008",
+      "episodeNumber": 275,
+      "timestamp": "18:30",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Robin Discovers the Giant Saul",
+      "description": "Young Robin ventures to the beach and discovers the unconscious giant Saul. Despite her fear, curiosity drives her to investigate. When Saul awakens, he is initially confused but notices the small girl before him.",
+      "significance": "This is the first meeting between Robin and Saul, establishing one of the most important relationships in Robin's life. Saul will become her first true friend and the person who gives her hope for the future.",
+      "characterIds": ["robin", "jaguar-d-saul"],
+      "locationIds": ["ohara"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [276, 277],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep275-event-009",
+      "episodeNumber": 275,
+      "timestamp": "20:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Saul Teaches Robin to Laugh",
+      "description": "Jaguar D. Saul introduces himself to Robin with his distinctive laugh 'Dereshishishi!' He encourages the sad and lonely Robin to laugh, telling her that when things are hard, laughing can help. He demonstrates his unique giant's laugh and tries to get Robin to smile.",
+      "significance": "This moment represents Robin's first experience of genuine kindness and acceptance. Saul's lesson about laughing through hardship becomes a core memory that sustains Robin through decades of suffering. His laugh also becomes a symbol of hope and friendship.",
+      "characterIds": ["robin", "jaguar-d-saul"],
+      "locationIds": ["ohara"],
+      "quotes": [
+        {
+          "text": "Dereshishishi! When you're sad or things are tough, just laugh! It'll make you feel better!",
+          "speaker": "Jaguar D. Saul",
+          "context": "Saul's first lesson to Robin about finding joy even in hardship"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [277, 278],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep275-event-010",
+      "episodeNumber": 275,
+      "timestamp": "21:45",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Robin and Saul Begin Their Friendship",
+      "description": "Despite her initial wariness, Robin begins to open up to Saul. She is amazed by the giant and his kind demeanor. Saul doesn't fear or judge her for her Devil Fruit powers, treating her as a normal child. This marks the beginning of their friendship.",
+      "significance": "This is the first time in Robin's life that someone has accepted her without fear or prejudice. Saul's unconditional friendship plants the seed that will eventually allow Robin to trust the Straw Hat Pirates decades later.",
+      "characterIds": ["robin", "jaguar-d-saul"],
+      "locationIds": ["ohara"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [276, 277, 278],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["jaguar-d-saul", "professor-clover", "spandine"],
+    "locations": ["ohara", "tree-of-knowledge"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [276, 277, 278],
+    "payoffFrom": [272, 273, 274],
+    "thematicLinks": [235, 236, 237, 278]
+  },
+  "quotes": [
+    {
+      "text": "This is the Golden Den Den Mushi that can summon the Buster Call!",
+      "speaker": "Spandam",
+      "context": "Threatening Robin with the same weapon that destroyed Ohara",
+      "timestamp": "02:15"
+    },
+    {
+      "text": "At only eight years old, you've become the youngest archaeologist in history!",
+      "speaker": "Professor Clover",
+      "context": "Congratulating Robin on passing her examination",
+      "timestamp": "06:45"
+    },
+    {
+      "text": "You must never participate in our research on the Void Century. It's too dangerous.",
+      "speaker": "Professor Clover",
+      "context": "Forbidding young Robin from the forbidden research",
+      "timestamp": "08:20"
+    },
+    {
+      "text": "Go away, demon child! You're creepy with those weird powers!",
+      "speaker": "Ohara Children",
+      "context": "Children ostracizing Robin for her Devil Fruit abilities",
+      "timestamp": "11:30"
+    },
+    {
+      "text": "Dereshishishi! When you're sad or things are tough, just laugh! It'll make you feel better!",
+      "speaker": "Jaguar D. Saul",
+      "context": "Saul's philosophy of laughing through hardship, teaching Robin to find joy",
+      "timestamp": "20:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Isolation and Loneliness",
+      "description": "The episode explores Robin's profound childhood loneliness as someone feared and rejected by her community. Her Devil Fruit powers make her an outcast, symbolizing how being different can lead to isolation.",
+      "symbolism": "Young Robin standing alone while other children play together represents her emotional isolation. The contrast between her intellectual achievement and social rejection highlights the tragedy of her situation.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Power of Acceptance",
+      "description": "Saul's unconditional acceptance of Robin demonstrates the transformative power of genuine friendship. His willingness to see past her 'demon' label and treat her as a normal child gives Robin her first taste of belonging.",
+      "symbolism": "Saul's giant laugh represents joy and acceptance breaking through Robin's walls of loneliness. His size contrasts with his gentle nature, showing that true kindness transcends appearances.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Forbidden Knowledge",
+      "description": "The Void Century research represents dangerous truth that threatens established power. The scholars of Ohara pursue knowledge despite the risks, valuing truth over safety.",
+      "symbolism": "The Tree of Knowledge symbolizes humanity's pursuit of understanding. Professor Clover's warning to Robin foreshadows the tragic consequences of seeking forbidden truths.",
+      "culturalReferences": ["References the biblical Tree of Knowledge, representing dangerous enlightenment"]
+    },
+    {
+      "theme": "Laughing Through Pain",
+      "description": "Saul's philosophy of laughing when things are difficult introduces a coping mechanism that becomes important throughout One Piece. Finding joy despite suffering is presented as an act of resilience.",
+      "symbolism": "Saul's distinctive 'Dereshishishi!' laugh becomes a symbol of hope and perseverance that Robin carries with her throughout her life.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tragic", "Melancholic", "Hopeful", "Heartbreaking"],
+  "characterSpotlights": [
+    {
+      "characterId": "robin",
+      "role": "Protagonist of flashback",
+      "development": "We see Robin as an 8-year-old prodigy who achieves remarkable academic success but suffers profound social isolation. Her intelligence sets her apart, but her Devil Fruit powers make her feared. The arrival of Saul provides her first genuine friendship.",
+      "keyActions": [
+        "Passes archaeology exam with perfect score at age 8",
+        "Is forbidden from Void Century research by Professor Clover",
+        "Experiences rejection and bullying from other children",
+        "Discovers the giant Saul washed ashore",
+        "Begins to open up and smile for the first time"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "jaguar-d-saul",
+      "role": "Robin's first friend and protector",
+      "development": "Saul is introduced as a mysterious giant who washes up on Ohara's shore. Despite being a former Marine Vice Admiral, he shows immediate kindness to young Robin, accepting her without judgment and teaching her to find joy even in hardship.",
+      "keyActions": [
+        "Washes ashore on Ohara island",
+        "Awakens and meets young Robin",
+        "Teaches Robin his philosophy of laughing through difficulties",
+        "Begins befriending the lonely child"
+      ],
+      "quotes": [
+        "Dereshishishi! When you're sad or things are tough, just laugh! It'll make you feel better!"
+      ]
+    },
+    {
+      "characterId": "professor-clover",
+      "role": "Scholar and protector",
+      "development": "Clover is shown as the leader of Ohara's scholars who recognizes Robin's genius but also understands the danger of their research. He tries to protect Robin from the same fate that may await the adult scholars.",
+      "keyActions": [
+        "Congratulates Robin on becoming the youngest archaeologist",
+        "Forbids her from participating in Void Century research",
+        "Shows concern for her safety while acknowledging her talent"
+      ],
+      "quotes": [
+        "You must never participate in our research on the Void Century. It's too dangerous."
+      ]
+    },
+    {
+      "characterId": "spandam",
+      "role": "Antagonist in present timeline",
+      "development": "In the present, Spandam psychologically tortures Robin by threatening her with the Buster Call, the same weapon that destroyed her childhood home. His cruelty triggers Robin's traumatic memories.",
+      "keyActions": [
+        "Reveals the Golden Den Den Mushi to Robin",
+        "Threatens her with the Buster Call",
+        "Triggers Robin's flashback to Ohara"
+      ],
+      "quotes": [
+        "This is the Golden Den Den Mushi that can summon the Buster Call!"
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime expands some of the scenes of young Robin's daily life on Ohara and her interactions with the other children to emphasize her isolation.",
+      "episodeTimestamp": "11:30",
+      "mangaReference": "Chapter 391-392",
+      "type": "EXPANDED_SCENE"
+    },
+    {
+      "difference": "The framing device with Spandam threatening Robin in the present is given more screen time in the anime to create a stronger emotional connection between past and present.",
+      "episodeTimestamp": "02:15",
+      "mangaReference": "Chapter 391",
+      "type": "EXPANDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the first appearance of Jaguar D. Saul, who carries the mysterious 'D' initial that connects to several major characters including Luffy, Ace, and Gol D. Roger.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_275",
+          "title": "Episode 275 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 275 received a 9.0/10 rating on IMDb with over 3,200 votes, making it one of the highest-rated episodes in the Enies Lobby arc.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://www.imdb.com/title/tt1044631/",
+          "title": "One Piece Episode 275 - IMDb",
+          "platform": "IMDb",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode adapts material from Manga Chapters 391 (pages 3-19) and 392 (pages 2-19), covering approximately 1.5 chapters worth of content.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_275",
+          "title": "Episode 275 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Anzu Nagai, who voices young Robin in this episode, only worked on One Piece from 2006-2011, voicing the character across 9 episodes during the Ohara flashback arc.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://www.imdb.com/name/nm1833961/",
+          "title": "Anzu Nagai - IMDb",
+          "platform": "IMDb",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The ending theme 'Adventure World' by Delicatessen that concludes this episode was the last ending theme used in One Piece for 17 years, as the anime discontinued ending themes after episode 278 until episode 1071 in 2023.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Adventure_World",
+          "title": "Adventure World - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

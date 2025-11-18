@@ -1,0 +1,513 @@
+{
+  "episodeNumber": 278,
+  "episodeTitle": "Say You Want to Live! We Are Your Friends!!",
+  "description": "Robin concludes her tragic backstory from the Ohara incident. In the present, she expresses her fear of being a burden, but Luffy responds by having Sogeking burn the World Government flag, declaring war on behalf of the Straw Hat Pirates. Moved by this unwavering support, Robin finally cries out that she wants to live.",
+  "airDate": "2006-09-24",
+  "airDateJapan": "2006-09-24",
+  "airDateUS": "2013-09-03",
+  "arcName": "Enies Lobby",
+  "sagaName": "Water 7 Saga",
+  "animationQuality": "HIGH",
+  "openingSong": {
+    "title": "Brand New World",
+    "artist": "D-51",
+    "episodeRange": [264, 278]
+  },
+  "endingSong": {
+    "title": "Adventure World",
+    "artist": "Delicatessen",
+    "episodeRange": [264, 278]
+  },
+  "credits": {
+    "animationDirector": "Naoki Tate",
+    "director": "Yoshihiro Ueda",
+    "screenplay": "Hirohiko Kamisaka",
+    "artDirectors": ["Miyuki Sato", "Kunihiro Chida"],
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Usopp/Sogeking",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Spandam",
+        "actor": "Masaya Onosaka"
+      },
+      {
+        "character": "Jaguar D. Saul",
+        "actor": "Takeshi Kusao"
+      },
+      {
+        "character": "Kuzan (Aokiji)",
+        "actor": "Takehito Koyasu"
+      },
+      {
+        "character": "Sakazuki (Akainu)",
+        "actor": "Fumihiko Tachiki"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Usopp/Sogeking",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Spandam",
+        "actor": "Kent Williams"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep278-event-001",
+      "episodeNumber": 278,
+      "timestamp": "03:45",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Saul's Final Stand Against the Marines",
+      "description": "Vice Admiral Jaguar D. Saul fights against the Marine battleships, defending the scholars of Ohara and attempting to allow young Robin to escape the Buster Call.",
+      "significance": "Demonstrates Saul's sacrifice and conviction in protecting Robin and the knowledge of Ohara, establishing the foundation for Robin's survival and her eventual trust issues.",
+      "characterIds": ["jaguar-d-saul", "nico-robin"],
+      "locationIds": ["ohara"],
+      "quotes": [
+        {
+          "text": "You'll meet friends someday for sure...you'll come across friends who'll protect you!",
+          "speaker": "Jaguar D. Saul",
+          "context": "Saul's final words to Robin before his defeat, prophecy of her future with the Straw Hats"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [275, 276, 277],
+      "payoffInEpisodes": [278],
+      "callbacksToEpisodes": [275]
+    },
+    {
+      "id": "ep278-event-002",
+      "episodeNumber": 278,
+      "timestamp": "06:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "CRITICAL",
+      "title": "Sakazuki's First Appearance",
+      "description": "Vice Admiral Sakazuki (later known as Admiral Akainu) appears for the first time in silhouette form during the Ohara flashback. He orders the destruction of the evacuation ship, showing his extreme view of absolute justice.",
+      "significance": "First introduction of one of the series' most important antagonists. His ruthless action of destroying a civilian evacuation ship establishes his character and foreshadows his role in future tragedies.",
+      "characterIds": ["sakazuki", "nico-robin"],
+      "locationIds": ["ohara"],
+      "quotes": [
+        {
+          "text": "If even one scholar managed to escape on that ship, all our efforts will have been for nothing!",
+          "speaker": "Sakazuki",
+          "context": "Justifying the destruction of the evacuation ship full of civilians"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [299, 483],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep278-event-003",
+      "episodeNumber": 278,
+      "timestamp": "08:15",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Evacuation Ship Destroyed by Sakazuki",
+      "description": "Sakazuki orders the destruction of the evacuation ship from Ohara, killing all the civilians aboard under the suspicion that a scholar might be hiding among them.",
+      "significance": "This traumatic event solidifies Robin's distrust of others and her belief that the world sees her as a monster. It also establishes Sakazuki's extremist philosophy of justice.",
+      "characterIds": ["sakazuki", "nico-robin"],
+      "locationIds": ["ohara"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [277],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep278-event-004",
+      "episodeNumber": 278,
+      "timestamp": "11:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Kuzan Allows Robin to Escape",
+      "description": "Vice Admiral Kuzan (Aokiji), moved by Saul's conviction and disgusted by Sakazuki's actions, helps young Robin escape Ohara on an ice path despite being ordered to capture her.",
+      "significance": "Kuzan's mercy allows Robin to survive and establishes his more nuanced view of justice compared to Sakazuki. This moment has lasting implications for Robin's survival and their future encounters.",
+      "characterIds": ["kuzan", "nico-robin", "jaguar-d-saul"],
+      "locationIds": ["ohara"],
+      "quotes": [
+        {
+          "text": "Saul was my friend... I'll let you go this time, but if you do anything bad, I'll be the first to catch you.",
+          "speaker": "Kuzan",
+          "context": "Kuzan's decision to honor Saul's wishes by letting Robin escape"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [277],
+      "payoffInEpisodes": [227, 228, 229],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep278-event-005",
+      "episodeNumber": 278,
+      "timestamp": "14:00",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Robin's Lonely Childhood and Betrayals",
+      "description": "Robin reveals how she survived after Ohara, constantly being betrayed by people who used her for her ability to read Poneglyphs, then turned her in for the bounty on her head.",
+      "significance": "Explains Robin's deep-seated trust issues and why she initially refused to accept the Straw Hats' help. This backstory is crucial for understanding her character arc and the significance of her eventual declaration.",
+      "characterIds": ["nico-robin"],
+      "locationIds": [],
+      "quotes": [
+        {
+          "text": "No one in this world wanted me to exist. I was told over and over that I was a demon child.",
+          "speaker": "Nico Robin",
+          "context": "Robin explaining her traumatic past to the Straw Hats"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [275, 276, 277],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep278-event-006",
+      "episodeNumber": 278,
+      "timestamp": "16:45",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Robin Expresses Her Fear of Being a Burden",
+      "description": "Robin confesses to the Straw Hats that while she considers them friends, she fears that one day they will see her as too much of a burden and abandon her like everyone else in her life.",
+      "significance": "This moment reveals Robin's deepest fear and the emotional barrier preventing her from fully accepting the crew's help. It sets up the need for Luffy's ultimate declaration.",
+      "characterIds": ["nico-robin", "monkey-d-luffy"],
+      "locationIds": ["enies-lobby"],
+      "quotes": [
+        {
+          "text": "One day you'll realize what a burden I am and leave me behind. That's why I can't stay with you.",
+          "speaker": "Nico Robin",
+          "context": "Robin explaining why she believes she must sacrifice herself"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [269, 270],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [269]
+    },
+    {
+      "id": "ep278-event-007",
+      "episodeNumber": 278,
+      "timestamp": "18:20",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Spandam Points Out the Consequences",
+      "description": "Spandam mockingly points out that protecting Robin means making enemies of the entire world, including the World Government. He believes this will make the Straw Hats reconsider.",
+      "significance": "This statement creates the perfect setup for Luffy's response, highlighting the magnitude of what the crew is willing to do for Robin.",
+      "characterIds": ["spandam", "monkey-d-luffy", "nico-robin"],
+      "locationIds": ["enies-lobby"],
+      "quotes": [
+        {
+          "text": "Do you understand what it means to make an enemy of the World Government? It means making the entire world your enemy!",
+          "speaker": "Spandam",
+          "context": "Spandam trying to intimidate the Straw Hats"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep278-event-008",
+      "episodeNumber": 278,
+      "timestamp": "19:35",
+      "eventType": "MAJOR_DECISION",
+      "severity": "ULTRA_SECRET",
+      "title": "Luffy Orders the World Government Flag to Be Shot",
+      "description": "In response to Spandam's statement, Luffy calmly orders Sogeking to shoot down the World Government flag flying above Enies Lobby, effectively declaring war on the World Government itself.",
+      "significance": "One of the most iconic moments in One Piece. This action demonstrates the crew's absolute commitment to Robin and marks a turning point where the Straw Hats officially become major enemies of the World Government. This single act has repercussions throughout the entire series.",
+      "characterIds": ["monkey-d-luffy", "usopp", "nico-robin"],
+      "locationIds": ["enies-lobby"],
+      "quotes": [
+        {
+          "text": "Sogeking... shoot down that flag.",
+          "speaker": "Monkey D. Luffy",
+          "context": "Luffy's order to declare war on the World Government"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [269, 270],
+      "payoffInEpisodes": [279, 280, 312, 405],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep278-event-009",
+      "episodeNumber": 278,
+      "timestamp": "20:15",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Sogeking Burns the World Government Flag",
+      "description": "Sogeking uses his Fire Bird Star to shoot and burn the World Government flag, completing Luffy's declaration of war. The flag burns and falls in dramatic fashion.",
+      "significance": "The physical act of destroying the World Government's symbol cements the declaration of war and shocks everyone present, including the Marines and CP9.",
+      "characterIds": ["usopp", "monkey-d-luffy"],
+      "locationIds": ["enies-lobby"],
+      "quotes": [
+        {
+          "text": "Fire Bird Star!",
+          "speaker": "Sogeking",
+          "context": "Sogeking's attack to burn the World Government flag"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep278-event-010",
+      "episodeNumber": 278,
+      "timestamp": "21:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "ULTRA_SECRET",
+      "title": "Luffy Asks Robin to Say She Wants to Live",
+      "description": "After burning the flag, Luffy directly asks Robin to say that she wants to live, demanding that she voice her true feelings and accept their help.",
+      "significance": "This moment forces Robin to confront her deepest fears and desires. Luffy's direct approach breaks through Robin's emotional barriers and gives her permission to want to live.",
+      "characterIds": ["monkey-d-luffy", "nico-robin"],
+      "locationIds": ["enies-lobby"],
+      "quotes": [
+        {
+          "text": "Robin! Say you want to live!",
+          "speaker": "Monkey D. Luffy",
+          "context": "Luffy demanding Robin to voice her true wish"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep278-event-011",
+      "episodeNumber": 278,
+      "timestamp": "22:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "ULTRA_SECRET",
+      "title": "Robin's Declaration: 'I Want to Live!'",
+      "description": "Overcome with emotion, Robin finally breaks down and screams that she wants to live, asking Luffy to take her back to the sea with the crew. This is the emotional climax of the Enies Lobby arc.",
+      "significance": "This is arguably one of the most emotional and important moments in the entire series. Robin finally accepts that she deserves to live and that the Straw Hats truly want her. This moment completes her character arc from someone who wanted to die to someone who embraces life and friendship.",
+      "characterIds": ["nico-robin", "monkey-d-luffy"],
+      "locationIds": ["enies-lobby"],
+      "quotes": [
+        {
+          "text": "I want to live! Take me out to sea with you!",
+          "speaker": "Nico Robin",
+          "context": "Robin's tearful declaration of her wish to live and stay with the Straw Hats"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [269, 270, 275, 276, 277],
+      "payoffInEpisodes": [279, 312],
+      "callbacksToEpisodes": [130]
+    }
+  ],
+  "debuts": {
+    "characters": ["sakazuki"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["fire-bird-star"]
+  },
+  "episodeRelationships": {
+    "setupFor": [279, 280, 281],
+    "payoffFrom": [269, 270, 275, 276, 277],
+    "thematicLinks": [130, 312, 405]
+  },
+  "quotes": [
+    {
+      "text": "You'll meet friends someday for sure...you'll come across friends who'll protect you!",
+      "speaker": "Jaguar D. Saul",
+      "context": "Saul's dying words to Robin",
+      "timestamp": "03:45"
+    },
+    {
+      "text": "If even one scholar managed to escape on that ship, all our efforts will have been for nothing!",
+      "speaker": "Sakazuki",
+      "context": "Ordering the destruction of the evacuation ship",
+      "timestamp": "06:20"
+    },
+    {
+      "text": "Do you understand what it means to make an enemy of the World Government? It means making the entire world your enemy!",
+      "speaker": "Spandam",
+      "context": "Warning the Straw Hats about the consequences",
+      "timestamp": "18:20"
+    },
+    {
+      "text": "Sogeking... shoot down that flag.",
+      "speaker": "Monkey D. Luffy",
+      "context": "Declaring war on the World Government",
+      "timestamp": "19:35"
+    },
+    {
+      "text": "Robin! Say you want to live!",
+      "speaker": "Monkey D. Luffy",
+      "context": "Demanding Robin to voice her true wish",
+      "timestamp": "21:00"
+    },
+    {
+      "text": "I want to live! Take me out to sea with you!",
+      "speaker": "Nico Robin",
+      "context": "Robin's emotional declaration",
+      "timestamp": "22:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "The Will to Live",
+      "description": "The episode explores Robin's journey from someone who believed her existence was a crime to someone who embraces life and friendship.",
+      "symbolism": "The burning of the World Government flag symbolizes the destruction of the oppressive forces that denied Robin's right to exist.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Unconditional Friendship",
+      "description": "The Straw Hats demonstrate that true friendship means accepting someone completely, regardless of the consequences.",
+      "symbolism": "Declaring war on the world for one person shows the ultimate expression of friendship and loyalty.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Defying Absolute Justice",
+      "description": "The episode contrasts the Marines' absolute justice (represented by Sakazuki) with the Straw Hats' personal justice based on friendship and freedom.",
+      "symbolism": "The World Government flag represents oppressive authority that the Straw Hats reject.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Emotional", "Triumphant", "Tearjerking", "Epic"],
+  "characterSpotlights": [
+    {
+      "characterId": "nico-robin",
+      "role": "Episode protagonist",
+      "development": "Robin completes her emotional arc by accepting that she deserves to live and that the Straw Hats truly want her as part of their crew. She overcomes her fear of being abandoned.",
+      "keyActions": [
+        "Finishes telling her tragic backstory",
+        "Expresses her fear of being a burden",
+        "Finally declares she wants to live"
+      ],
+      "quotes": ["I want to live! Take me out to sea with you!"]
+    },
+    {
+      "characterId": "monkey-d-luffy",
+      "role": "Catalyst for Robin's transformation",
+      "development": "Luffy demonstrates the depth of his commitment to his crew by declaring war on the World Government without hesitation.",
+      "keyActions": [
+        "Orders Sogeking to shoot the World Government flag",
+        "Declares war on the World Government",
+        "Demands Robin to say she wants to live"
+      ],
+      "quotes": ["Sogeking... shoot down that flag.", "Robin! Say you want to live!"]
+    },
+    {
+      "characterId": "usopp",
+      "role": "Executes Luffy's declaration of war",
+      "development": "As Sogeking, Usopp performs one of the most important actions in the series by burning the World Government flag.",
+      "keyActions": [
+        "Shoots the World Government flag with Fire Bird Star",
+        "Completes the declaration of war"
+      ],
+      "quotes": ["Fire Bird Star!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended several emotional scenes with Robin and added more reaction shots from various characters to heighten the dramatic impact.",
+      "episodeTimestamp": "Various",
+      "mangaReference": "Chapters 397-398",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "The anime omitted the introduction card revealing Sakazuki would later be known as Admiral Akainu, keeping his identity more mysterious.",
+      "episodeTimestamp": "06:20",
+      "mangaReference": "Chapter 397",
+      "type": "ANIME_ORIGINAL_CHANGE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode has a 9.6 rating on IMDb, making it one of the highest-rated episodes in the entire One Piece anime series.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://www.imdb.com/title/tt1044632/",
+          "title": "One Piece Episode 278 - IMDb",
+          "platform": "IMDb",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This was the last episode to use 'Adventure World' as the ending theme. It was also the last episode to feature any ending theme for 17 years.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_278",
+          "title": "Episode 278 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode was the final episode directed by Kōnosuke Uda, who had directed the show since the very first episode.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_278",
+          "title": "Episode 278 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode achieved a 13.2% TV rating in Japan, ranking #1 for its time slot.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_278",
+          "title": "Episode 278 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode marks the first appearance of Sakazuki (Akainu), though he appears mostly in silhouette. He would later become one of the most important antagonists in the series.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Sakazuki",
+          "title": "Sakazuki - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The scene where Luffy orders the flag to be shot is considered one of the most iconic moments in anime history, frequently appearing in 'top anime moments' lists.",
+      "category": "CULTURAL_IMPACT",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
