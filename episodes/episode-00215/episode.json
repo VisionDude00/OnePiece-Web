@@ -1,0 +1,496 @@
+{
+  "episodeNumber": 215,
+  "episodeTitle": "The Screaming Speed Serve! Pirate Dodgeball!",
+  "description": "After Luffy wins the roller race and reclaims Chopper, Foxy demands a rematch with a three-coin Davy Back Fight. The second event begins: Hit & Dead Ball, a pirate dodgeball match where the Straw Hats face off against the Foxy Pirates with unpredictable rules and underhanded tactics.",
+  "airDate": "2005-01-09",
+  "airDateJapan": "2005-01-09",
+  "airDateUS": "2012-08-07",
+  "arcName": "Long Ring Long Land",
+  "sagaName": "Water 7 Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Kokoro no Chizu",
+    "artist": "BOYSTYLE",
+    "episodeRange": [207, 263]
+  },
+  "endingSong": {
+    "title": "Mirai Koukai",
+    "artist": "Tackey & Tsubasa",
+    "episodeRange": [207, 230]
+  },
+  "credits": {
+    "animationDirector": "Ken Koyama",
+    "keyAnimators": ["Kazuya Hisada"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Foxy",
+        "actor": "Bin Shimada"
+      },
+      {
+        "character": "Porche",
+        "actor": "Takahiro Yoshimizu"
+      },
+      {
+        "character": "Rokuroshi",
+        "actor": "Tomohisa Asō"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Foxy",
+        "actor": "Jonathan Brooks"
+      },
+      {
+        "character": "Rokuroshi",
+        "actor": "Tony Oliver"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep215-event-001",
+      "episodeNumber": 215,
+      "timestamp": "02:30",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "Luffy Wins Roller Race",
+      "description": "Luffy successfully wins the final round of the roller race against Foxy and his crew in the three-coin Davy Back Fight. With this victory, Luffy reclaims Chopper and brings him back to the Straw Hat Pirates.",
+      "significance": "Resolves the previous game's outcome and reunites Chopper with the crew, but immediately leads to another challenge.",
+      "characterIds": ["luffy", "chopper", "foxy"],
+      "locationIds": ["long-ring-long-land"],
+      "quotes": [
+        {
+          "text": "Chopper, you're coming back with us!",
+          "speaker": "Luffy",
+          "context": "Luffy reclaims Chopper after winning the race"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [214],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [207]
+    },
+    {
+      "id": "ep215-event-002",
+      "episodeNumber": 215,
+      "timestamp": "04:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Foxy Demands Rematch",
+      "description": "Foxy, declaring that 'there should be no draws in the Pirate world,' challenges the Straw Hats to another Davy Back Fight rematch, this time proposing a three-coin match with higher stakes.",
+      "significance": "Extends the Davy Back Fight arc and sets up the dodgeball game, demonstrating Foxy's competitive nature and refusal to accept the previous outcome.",
+      "characterIds": ["foxy", "luffy"],
+      "locationIds": ["long-ring-long-land"],
+      "quotes": [
+        {
+          "text": "There should be no draws in the Pirate world!",
+          "speaker": "Foxy",
+          "context": "Foxy's justification for demanding another match"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [216, 217],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep215-event-003",
+      "episodeNumber": 215,
+      "timestamp": "05:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Luffy Accepts Rematch Challenge",
+      "description": "Despite protests from his crew, Luffy foolishly accepts Foxy's challenge for a three-coin Davy Back Fight rematch, putting his crew members at risk once again.",
+      "significance": "Shows Luffy's impulsive nature and love of competition, even when it puts his crew in danger. This decision forces the crew into another series of games.",
+      "characterIds": ["luffy", "nami", "usopp", "zoro"],
+      "locationIds": ["long-ring-long-land"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [216, 217, 218],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep215-event-004",
+      "episodeNumber": 215,
+      "timestamp": "06:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Rokuroshi's Debut as Head Referee",
+      "description": "Rokuroshi, an elderly member of the Foxy Pirates, debuts as the head referee for the Hit & Dead Ball game. He introduces himself and begins explaining the complex rules of pirate dodgeball.",
+      "significance": "Introduces a new anime-exclusive character who serves as the authority figure for the game. His role as referee allows the Foxy Pirates to manipulate rules to their advantage.",
+      "characterIds": ["rokuroshi"],
+      "locationIds": ["long-ring-long-land"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep215-event-005",
+      "episodeNumber": 215,
+      "timestamp": "07:45",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Hit & Dead Ball Game Begins",
+      "description": "The second event of the Davy Back Fight begins: Hit & Dead Ball, a pirate version of dodgeball with spiked balls, complex rules, and audience participation allowed. The Straw Hats face a numerical disadvantage against Foxy's crew.",
+      "significance": "Starts the main conflict of the episode. The game features unique One Piece-style rules and showcases the Foxy Pirates' tendency to cheat within the rulebook.",
+      "characterIds": ["luffy", "zoro", "sanji", "chopper", "foxy", "porche", "hamburg"],
+      "locationIds": ["long-ring-long-land"],
+      "crewIds": ["straw-hat-pirates", "foxy-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep215-event-006",
+      "episodeNumber": 215,
+      "timestamp": "10:20",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Zoro Disqualified for Cutting Ball",
+      "description": "Zoro instinctively cuts an incoming ball with his sword, which violates the rules of Hit & Dead Ball. Rokuroshi immediately disqualifies him from the game.",
+      "significance": "Demonstrates Zoro's swordsman instincts working against him in non-combat situations. Reduces the Straw Hats' fighting power and shows the strict enforcement of game rules.",
+      "characterIds": ["zoro", "rokuroshi"],
+      "locationIds": ["long-ring-long-land"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep215-event-007",
+      "episodeNumber": 215,
+      "timestamp": "12:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Gina's Debut",
+      "description": "Gina, a female shipwright of the Foxy Pirates, appears during the Hit & Dead Ball game. She works alongside Porche to distract Sanji using their feminine charms.",
+      "significance": "Introduces another anime-exclusive member of the Foxy Pirates. Her appearance as a shipwright foreshadows the crew's technical capabilities.",
+      "characterIds": ["gina", "sanji", "porche"],
+      "locationIds": ["long-ring-long-land"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep215-event-008",
+      "episodeNumber": 215,
+      "timestamp": "14:10",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Chopper's Face Hit Defense",
+      "description": "Chopper appears to be hit and eliminated, but reveals it was actually a face hit which doesn't count as an out according to the rules. This earns him cheers and support from the audience.",
+      "significance": "Shows Chopper's cleverness in using the game rules to his advantage. Demonstrates the complex rulebook that governs the Davy Back Fight games.",
+      "characterIds": ["chopper", "rokuroshi"],
+      "locationIds": ["long-ring-long-land"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep215-event-009",
+      "episodeNumber": 215,
+      "timestamp": "15:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Sanji Distracted by Gina and Porche",
+      "description": "Gina and Porche deliberately distract Sanji with their feminine charms, exploiting his weakness for beautiful women and compromising his performance in the dodgeball game.",
+      "significance": "Highlights Sanji's character weakness that has consistently been used against him. Shows the Foxy Pirates' willingness to use any tactic within the rules.",
+      "characterIds": ["sanji", "gina", "porche"],
+      "locationIds": ["long-ring-long-land"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep215-event-010",
+      "episodeNumber": 215,
+      "timestamp": "16:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Chopper Disqualified for Out of Bounds",
+      "description": "Chopper is disqualified from the game when he goes out of bounds while trying to avoid an incoming ball, further reducing the Straw Hats' numbers.",
+      "significance": "Continues to diminish the Straw Hats' advantage and shows how the strict rules can work against them even when trying to play fairly.",
+      "characterIds": ["chopper", "rokuroshi"],
+      "locationIds": ["long-ring-long-land"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep215-event-011",
+      "episodeNumber": 215,
+      "timestamp": "18:20",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Foxy Pirates Cheat with Fake Balls",
+      "description": "Porche and the audience shuffle the real game ball with multiple fake ones, making it difficult for the Straw Hats to distinguish which ball is legitimate. This cheating tactic confuses the Straw Hats but technically doesn't violate the rulebook.",
+      "significance": "Demonstrates the Foxy Pirates' signature strategy of 'legal cheating' - finding loopholes in the rules to gain unfair advantages while technically staying within the regulations.",
+      "characterIds": ["porche", "foxy", "luffy", "sanji"],
+      "locationIds": ["long-ring-long-land"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [207, 208]
+    },
+    {
+      "id": "ep215-event-012",
+      "episodeNumber": 215,
+      "timestamp": "20:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Luffy Swallows Ball and Gets Disqualified",
+      "description": "In a moment of poor judgment, Luffy catches a ball with his mouth and swallows it. Rokuroshi declares that swallowing balls is explicitly forbidden in the rulebook, resulting in Luffy's disqualification.",
+      "significance": "Demonstrates Luffy's lack of strategic thinking and impulsive nature. His disqualification proves costly as it removes the Straw Hats' strongest fighter from the game.",
+      "characterIds": ["luffy", "rokuroshi"],
+      "locationIds": ["long-ring-long-land"],
+      "quotes": [
+        {
+          "text": "Swallowing balls is not allowed!",
+          "speaker": "Rokuroshi",
+          "context": "Rokuroshi disqualifies Luffy for breaking the rules"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep215-event-013",
+      "episodeNumber": 215,
+      "timestamp": "21:30",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "Foxy Pirates Win First Round",
+      "description": "With Luffy, Zoro, and Chopper all disqualified, the Foxy Pirates win the first round of the Hit & Dead Ball game, giving them an early advantage in the three-coin Davy Back Fight rematch.",
+      "significance": "Establishes the Foxy Pirates' early lead in the rematch and demonstrates the effectiveness of their rule-manipulation tactics. Sets up tension for the remaining games.",
+      "characterIds": ["foxy", "luffy", "sanji"],
+      "locationIds": ["long-ring-long-land"],
+      "crewIds": ["foxy-pirates", "straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [216],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["rokuroshi", "gina"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [216, 217],
+    "payoffFrom": [214],
+    "thematicLinks": [207, 208, 209]
+  },
+  "quotes": [
+    {
+      "text": "There should be no draws in the Pirate world!",
+      "speaker": "Foxy",
+      "context": "Demanding a rematch after the previous game",
+      "timestamp": "04:15"
+    },
+    {
+      "text": "Swallowing balls is not allowed!",
+      "speaker": "Rokuroshi",
+      "context": "Disqualifying Luffy for breaking a rule",
+      "timestamp": "20:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Fair Play vs Cheating",
+      "description": "The episode explores the tension between playing fairly and exploiting loopholes. The Foxy Pirates demonstrate 'legal cheating' by finding ways to gain advantages while technically following the rules.",
+      "symbolism": "The massive rulebook represents how complex regulations can be manipulated by those who understand them better, mirroring real-world bureaucracy and legal loopholes.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Impulsiveness vs Strategy",
+      "description": "Luffy's acceptance of the rematch and his swallowing of the ball demonstrate how impulsive decisions can lead to disadvantages, contrasting with the Foxy Pirates' calculated approach.",
+      "symbolism": "The dodgeball game itself represents strategic thinking, where raw strength alone isn't enough to win.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Comedic", "Competitive", "Frustrating"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Impulsive Captain",
+      "development": "Luffy demonstrates both his competitive spirit and his lack of strategic thinking, accepting a dangerous rematch and making a foolish mistake that costs his team.",
+      "keyActions": [
+        "Wins the roller race and reclaims Chopper",
+        "Accepts Foxy's rematch challenge despite crew protests",
+        "Swallows a dodgeball and gets disqualified"
+      ],
+      "quotes": ["Chopper, you're coming back with us!"]
+    },
+    {
+      "characterId": "foxy",
+      "role": "Cunning Antagonist",
+      "development": "Foxy continues to demonstrate his philosophy of winning through rule manipulation rather than direct strength, refusing to accept the previous game's outcome.",
+      "keyActions": [
+        "Demands a rematch claiming 'no draws in the pirate world'",
+        "Orchestrates various cheating tactics during the dodgeball game"
+      ],
+      "quotes": ["There should be no draws in the Pirate world!"]
+    },
+    {
+      "characterId": "rokuroshi",
+      "role": "Biased Referee",
+      "development": "Introduced as the head referee who maintains the appearance of fairness while enabling the Foxy Pirates' cheating tactics.",
+      "keyActions": [
+        "Introduces the complex rules of Hit & Dead Ball",
+        "Disqualifies Zoro for cutting the ball",
+        "Disqualifies Chopper for going out of bounds",
+        "Disqualifies Luffy for swallowing a ball"
+      ],
+      "quotes": ["Swallowing balls is not allowed!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The Hit & Dead Ball dodgeball game is anime-only filler content. In the manga, the Davy Back Fight proceeds directly from the roller race to the combat event without this dodgeball interlude.",
+      "episodeTimestamp": "06:30",
+      "mangaReference": "Chapter 313",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "Rokuroshi and Gina are anime-exclusive characters who do not appear in the manga version of the Long Ring Long Land arc.",
+      "episodeTimestamp": "06:30",
+      "mangaReference": "Chapter 313",
+      "type": "ANIME_ORIGINAL_CHARACTER"
+    },
+    {
+      "difference": "The episode omits a manga scene where Nami suggests recruiting Foxy after Luffy's victory in the previous game.",
+      "episodeTimestamp": "02:30",
+      "mangaReference": "Chapter 313",
+      "type": "MANGA_SCENE_OMITTED"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This is the first episode to feature the opening theme 'Kokoro no Chizu' in widescreen format, marking a technical milestone for the One Piece anime.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Kokoro_no_Chizu",
+          "title": "Kokoro no Chizu - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The Hit & Dead Ball game is entirely anime filler, created to extend the Long Ring Long Land arc. This type of game-based filler was common during this period to prevent the anime from catching up to the manga.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_215",
+          "title": "Episode 215 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Chopper's rapid use of Rumble Ball in this episode creates a continuity issue, as later canon establishes that Chopper cannot use multiple Rumble Balls in quick succession without serious consequences.",
+      "category": "CONTINUITY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_215",
+          "title": "Episode 215 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode was animated by Kazuya Hisada and directed by Ken Koyama, with screenplay by Hirohiko Kamisaka.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_215",
+          "title": "Episode 215 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
