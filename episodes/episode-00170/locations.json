@@ -1,0 +1,167 @@
+[
+  {
+    "name": {
+      "english": "Upper Yard",
+      "japanese": "アッパーヤード",
+      "romanized": "Appā Yādo"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "SKY",
+    "islandName": "Skypiea",
+    "debutEpisode": 153,
+    "debutChapter": 241,
+    "description": "The upper portion of Skypiea where the ancient city of Shandora once stood. It is the main battleground for Enel's survival game, where various factions fight for control.",
+    "episodeAppearances": [170],
+    "keyEvents": [
+      {
+        "episodeNumber": 170,
+        "eventId": "ep170-event-001",
+        "eventType": "BATTLE_START",
+        "title": "Zoro vs Braham - Aerial Battle",
+        "description": "Zoro battles Braham in mid-air combat over Upper Yard.",
+        "significance": "Major battle location for the survival game.",
+        "timestamp": "08:30"
+      },
+      {
+        "episodeNumber": 170,
+        "eventId": "ep170-event-002",
+        "eventType": "TECHNIQUE_DEBUT",
+        "title": "Zoro Debuts 36 Pound Cannon",
+        "description": "Zoro unveils his new flying slash technique in Upper Yard.",
+        "significance": "Location of an important technique debut.",
+        "timestamp": "14:25"
+      },
+      {
+        "episodeNumber": 170,
+        "eventId": "ep170-event-005",
+        "eventType": "BATTLE_START",
+        "title": "Luffy vs Wyper Battle",
+        "description": "Luffy and Wyper begin their confrontation in Upper Yard.",
+        "significance": "Another key battle location.",
+        "timestamp": "06:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 153,
+        "episodeEnd": "present",
+        "reason": "Main battlefield for the Skypiea arc conflicts"
+      }
+    ],
+    "parentLocation": "Skypiea",
+    "childLocations": ["upper-yard-ruins"],
+    "relatedCharacters": ["zoro", "braham", "luffy", "wyper", "robin"],
+    "relatedCrews": ["straw-hat-pirates", "shandia-warriors"],
+    "relatedArcs": ["Skypiea Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Upper Yard Ruins",
+      "japanese": "アッパーヤード遺跡",
+      "romanized": "Appā Yādo Iseki"
+    },
+    "locationType": "RUINS",
+    "seaRegion": "SKY",
+    "islandName": "Skypiea",
+    "debutEpisode": 153,
+    "debutChapter": 241,
+    "description": "The ancient ruins within Upper Yard, remnants of the city of Shandora. This is where Chopper encounters the priest Gedatsu.",
+    "episodeAppearances": [170],
+    "keyEvents": [
+      {
+        "episodeNumber": 170,
+        "eventId": "ep170-event-006",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Chopper Arrives at the Ruins",
+        "description": "Tony Tony Chopper arrives at the ancient ruins.",
+        "significance": "Sets up Chopper's encounter with Gedatsu.",
+        "timestamp": "12:30"
+      },
+      {
+        "episodeNumber": 170,
+        "eventId": "ep170-event-007",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Chopper Encounters Gedatsu",
+        "description": "Chopper meets the priest Gedatsu at the ruins.",
+        "significance": "Location where their battle will take place.",
+        "timestamp": "13:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 153,
+        "episodeEnd": "present",
+        "reason": "Ancient ruins serving as a key location in the arc"
+      }
+    ],
+    "parentLocation": "Upper Yard",
+    "childLocations": [],
+    "relatedCharacters": ["chopper", "gedatsu"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Skypiea Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Going Merry",
+      "japanese": "ゴーイング・メリー号",
+      "romanized": "Gōingu Merī-gō"
+    },
+    "locationType": "SHIP",
+    "seaRegion": "SKY",
+    "islandName": null,
+    "debutEpisode": 17,
+    "debutChapter": 41,
+    "description": "The Straw Hat Pirates' first ship, currently docked in the Skypiea area. In this episode, it becomes the target of Enel's attack.",
+    "episodeAppearances": [170],
+    "keyEvents": [
+      {
+        "episodeNumber": 170,
+        "eventId": "ep170-event-008",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Enel Arrives at the Going Merry",
+        "description": "Enel appears on the Straw Hats' ship and declares those aboard as participants in his survival game.",
+        "significance": "Major escalation as Enel directly targets the ship.",
+        "timestamp": "17:30"
+      },
+      {
+        "episodeNumber": 170,
+        "eventId": "ep170-event-009",
+        "eventType": "POWER_REVEAL",
+        "title": "Enel Attacks on the Going Merry",
+        "description": "Enel defeats Sanji on the Going Merry using his lightning powers.",
+        "significance": "The ship becomes a battlefield.",
+        "timestamp": "18:15"
+      },
+      {
+        "episodeNumber": 170,
+        "eventId": "ep170-event-010",
+        "eventType": "BATTLE_END",
+        "title": "Usopp Defeated on the Going Merry",
+        "description": "Enel also defeats Usopp on the ship.",
+        "significance": "Leaves the Going Merry vulnerable to Enel.",
+        "timestamp": "18:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 17,
+        "episodeEnd": 312,
+        "reason": "Serving as the Straw Hats' ship"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": [],
+    "relatedCharacters": ["sanji", "usopp", "enel"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Skypiea Arc"],
+    "images": []
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [170],
+    "type": "PIRATE_CREW",
+    "captain": "luffy",
+    "members": [
+      {
+        "characterId": "luffy",
+        "role": "Captain",
+        "episodeJoined": 1,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "zoro",
+        "role": "Combatant",
+        "episodeJoined": 2,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "nami",
+        "role": "Navigator",
+        "episodeJoined": 44,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "usopp",
+        "role": "Sniper",
+        "episodeJoined": 17,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "sanji",
+        "role": "Cook",
+        "episodeJoined": 30,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "chopper",
+        "role": "Doctor",
+        "episodeJoined": 91,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "robin",
+        "role": "Archaeologist",
+        "episodeJoined": 130,
+        "episodeLeft": null
+      }
+    ],
+    "ship": "going-merry",
+    "keyMoments": [
+      {
+        "episodeNumber": 170,
+        "eventId": "ep170-event-008",
+        "momentType": "MAJOR_BATTLE",
+        "description": "The crew's ship, the Going Merry, is attacked by Enel, with Sanji and Usopp being defeated.",
+        "significance": "Shows the crew facing the overwhelming threat of Enel while separated."
+      }
+    ],
+    "status": "ACTIVE",
+    "baseLocation": null,
+    "allies": [],
+    "enemies": ["enel", "god-army"],
+    "reveals": []
+  },
+  {
+    "name": {
+      "english": "Shandia Warriors",
+      "japanese": "シャンディア",
+      "romanized": "Shandia"
+    },
+    "debutEpisode": 151,
+    "debutChapter": 237,
+    "episodeAppearances": [170],
+    "type": "WARRIOR_TRIBE",
+    "captain": "wyper",
+    "members": [
+      {
+        "characterId": "wyper",
+        "role": "Leader",
+        "episodeJoined": null,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "braham",
+        "role": "Warrior",
+        "episodeJoined": null,
+        "episodeLeft": null
+      }
+    ],
+    "ship": null,
+    "keyMoments": [
+      {
+        "episodeNumber": 170,
+        "eventId": "ep170-event-003",
+        "momentType": "MAJOR_BATTLE",
+        "description": "Shandia warrior Braham is defeated by Zoro in the survival game.",
+        "significance": "One of their warriors is eliminated from Enel's survival game."
+      },
+      {
+        "episodeNumber": 170,
+        "eventId": "ep170-event-005",
+        "momentType": "MAJOR_BATTLE",
+        "description": "Wyper battles Luffy as part of the survival game.",
+        "significance": "The Shandia continue their fight to reclaim their homeland."
+      }
+    ],
+    "status": "ACTIVE",
+    "baseLocation": "upper-yard",
+    "allies": [],
+    "enemies": ["enel", "god-army"],
+    "reveals": []
+  }
+]
