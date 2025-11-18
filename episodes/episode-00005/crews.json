@@ -1,0 +1,79 @@
+[
+  {
+    "name": {
+      "english": "Buggy Pirates",
+      "japanese": "バギー海賊団",
+      "romanized": "Bagī Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "buggy",
+    "debutEpisode": 5,
+    "debutChapter": 9,
+    "episodeAppearances": [5],
+    "members": [
+      {
+        "characterId": "buggy",
+        "role": "Captain",
+        "episodeJoined": 5,
+        "episodeLeft": null,
+        "joinCircumstances": "Buggy is the founder and captain of the Buggy Pirates."
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 5,
+        "eventId": "ep005-event-003",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Buggy Pirates Terrorize Orange Town",
+        "description": "The Buggy Pirates are introduced as they occupy and terrorize Orange Town under Captain Buggy's command.",
+        "significance": "Introduction of the Buggy Pirates, one of the first pirate crews Luffy encounters in the East Blue.",
+        "timestamp": "08:45"
+      },
+      {
+        "episodeNumber": 5,
+        "eventId": "ep005-event-010",
+        "momentType": "BATTLE_END",
+        "title": "Cannon Redirected at Buggy's Crew",
+        "description": "Zoro and Nami redirect the Buggy Ball cannon to fire at the Buggy Pirates crew members.",
+        "significance": "Shows the Buggy Pirates facing their first serious opposition from Luffy's allies.",
+        "timestamp": "21:50"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Big Top",
+        "episodeAcquired": 5,
+        "episodeLost": null,
+        "description": "Buggy's pirate ship, designed to look like a circus tent."
+      }
+    ],
+    "bases": [
+      {
+        "locationId": "orange-town",
+        "episodeEstablished": 5,
+        "episodeAbandoned": 8,
+        "status": "TEMPORARY"
+      }
+    ],
+    "totalBountyProgression": [
+      {
+        "totalBounty": 15000000,
+        "episodeNumber": 5,
+        "memberBounties": {
+          "buggy": 15000000
+        }
+      }
+    ],
+    "jollyRoger": {
+      "description": "A skull wearing a striped captain's hat with crossbones behind it, styled to look like a clown",
+      "episodeFirstSeen": 5,
+      "imageUrl": ""
+    },
+    "mainColor": "#FF0000",
+    "relationships": {
+      "allies": [],
+      "enemies": ["straw-hat-pirates"],
+      "parentOrganization": null
+    }
+  }
+]

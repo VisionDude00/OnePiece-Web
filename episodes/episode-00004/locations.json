@@ -1,0 +1,204 @@
+[
+  {
+    "id": "foosha-village",
+    "name": {
+      "english": "Foosha Village",
+      "japanese": "フーシャ村",
+      "romanized": "Fūsha Mura",
+      "aliases": ["Windmill Village"]
+    },
+    "locationType": "VILLAGE",
+    "seaRegion": "EAST_BLUE",
+    "islandName": "Dawn Island",
+    "debutEpisode": 4,
+    "debutChapter": 1,
+    "description": "A small, peaceful village on Dawn Island in the East Blue. This is Luffy's hometown where he spent his childhood and met Shanks.",
+    "episodeAppearances": [4],
+    "keyEvents": [
+      {
+        "episodeNumber": 4,
+        "eventId": "ep004-event-001",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Foosha Village Debut",
+        "description": "Luffy's hometown is shown in flashback, where young Luffy meets Shanks and his crew.",
+        "significance": "The birthplace of the future Pirate King and the location of foundational events in the series.",
+        "timestamp": "03:15"
+      },
+      {
+        "episodeNumber": 4,
+        "eventId": "ep004-event-010",
+        "eventType": "LOCATION_DEPARTURE",
+        "title": "Shanks Departs from Foosha Village",
+        "description": "Shanks and the Red Hair Pirates leave Foosha Village for the Grand Line after giving Luffy his straw hat.",
+        "significance": "The departure that sets Luffy on his journey to become a great pirate.",
+        "timestamp": "17:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 4,
+        "episodeEnd": "present",
+        "reason": "Peaceful village, Luffy's hometown"
+      }
+    ],
+    "parentLocation": "Dawn Island",
+    "childLocations": ["partys-bar"],
+    "relatedCharacters": ["luffy", "shanks", "makino", "higuma"],
+    "relatedCrews": ["red-hair-pirates"],
+    "relatedArcs": ["Romance Dawn"],
+    "images": []
+  },
+  {
+    "id": "partys-bar",
+    "name": {
+      "english": "Partys Bar",
+      "japanese": "パーティーズバー",
+      "romanized": "Pātīzu Bā",
+      "aliases": ["Party's Bar"]
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "EAST_BLUE",
+    "islandName": "Dawn Island",
+    "debutEpisode": 4,
+    "debutChapter": 1,
+    "description": "A bar in Foosha Village run by Makino. This is where Shanks and his crew frequently gathered during their stay, and where young Luffy spent time with them.",
+    "episodeAppearances": [4],
+    "keyEvents": [
+      {
+        "episodeNumber": 4,
+        "eventId": "ep004-event-002",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Partys Bar Introduction",
+        "description": "The bar where Shanks and his crew gather, and where Luffy spends time with them.",
+        "significance": "The setting for many crucial moments in Luffy's childhood.",
+        "timestamp": "05:42"
+      },
+      {
+        "episodeNumber": 4,
+        "eventId": "ep004-event-003",
+        "eventType": "BACKSTORY_REVEAL",
+        "title": "Luffy Eats Devil Fruit at Partys Bar",
+        "description": "Young Luffy accidentally eats the Gomu Gomu no Mi while at the bar with Shanks' crew.",
+        "significance": "The location where Luffy gained his devil fruit powers.",
+        "timestamp": "06:30"
+      },
+      {
+        "episodeNumber": 4,
+        "eventId": "ep004-event-004",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Higuma Confronts Shanks at Partys Bar",
+        "description": "Mountain bandit Higuma arrives and insults Shanks, leading to the chain of events that results in Shanks losing his arm.",
+        "significance": "The confrontation that sets up one of the most important moments in the series.",
+        "timestamp": "08:15"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 4,
+        "episodeEnd": "present",
+        "reason": "Bar operated by Makino"
+      }
+    ],
+    "parentLocation": "Foosha Village",
+    "childLocations": [],
+    "relatedCharacters": ["shanks", "luffy", "makino", "higuma"],
+    "relatedCrews": ["red-hair-pirates"],
+    "relatedArcs": ["Romance Dawn"],
+    "images": []
+  },
+  {
+    "id": "dawn-island",
+    "name": {
+      "english": "Dawn Island",
+      "japanese": "ドーン島",
+      "romanized": "Dōn-tō"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "EAST_BLUE",
+    "islandName": "Dawn Island",
+    "debutEpisode": 4,
+    "debutChapter": 1,
+    "description": "An island in the East Blue that contains Foosha Village, Luffy's hometown. The island is also home to Mt. Colubo where Luffy trained as a child.",
+    "episodeAppearances": [4],
+    "keyEvents": [
+      {
+        "episodeNumber": 4,
+        "eventId": "ep004-event-008",
+        "eventType": "BACKSTORY_REVEAL",
+        "title": "Shanks Loses Arm at Dawn Island Coast",
+        "description": "At the coast of Dawn Island, Shanks saves Luffy from the Lord of the Coast but loses his left arm.",
+        "significance": "The location of one of the most pivotal moments in One Piece history.",
+        "timestamp": "14:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 4,
+        "episodeEnd": "present",
+        "reason": "Inhabited island in the East Blue"
+      }
+    ],
+    "parentLocation": "East Blue",
+    "childLocations": ["foosha-village", "partys-bar"],
+    "relatedCharacters": ["luffy", "shanks", "lord-of-the-coast"],
+    "relatedCrews": ["red-hair-pirates"],
+    "relatedArcs": ["Romance Dawn"],
+    "images": []
+  },
+  {
+    "id": "orange-town",
+    "name": {
+      "english": "Orange Town",
+      "japanese": "オレンジの町",
+      "romanized": "Orenji no Machi"
+    },
+    "locationType": "TOWN",
+    "seaRegion": "EAST_BLUE",
+    "islandName": "Organ Islands",
+    "debutEpisode": 4,
+    "debutChapter": 8,
+    "description": "A town in the East Blue that has been taken over by Buggy the Clown and his pirates. The town appears damaged and mostly deserted when Luffy and Zoro arrive.",
+    "episodeAppearances": [4],
+    "keyEvents": [
+      {
+        "episodeNumber": 4,
+        "eventId": "ep004-event-011",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Luffy and Zoro Arrive at Orange Town",
+        "description": "Luffy and Zoro arrive at Orange Town seeking supplies, finding it deserted and damaged.",
+        "significance": "Beginning of the Orange Town arc and setup for the confrontation with Buggy.",
+        "timestamp": "19:15"
+      },
+      {
+        "episodeNumber": 4,
+        "eventId": "ep004-event-012",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Nami Appears in Orange Town",
+        "description": "Nami is first seen in Orange Town after stealing from Buggy's crew.",
+        "significance": "The location where Nami is introduced to the series.",
+        "timestamp": "20:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 4,
+        "episodeEnd": "present",
+        "reason": "Town occupied by Buggy's crew"
+      }
+    ],
+    "parentLocation": "Organ Islands",
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "zoro", "nami", "buggy"],
+    "relatedCrews": ["buggy-pirates"],
+    "relatedArcs": ["Orange Town"],
+    "images": []
+  }
+]

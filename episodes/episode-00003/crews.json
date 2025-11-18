@@ -1,0 +1,99 @@
+[
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi",
+      "aliases": ["Straw Hats"]
+    },
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [3],
+    "crewType": "PIRATE_CREW",
+    "captainId": "luffy",
+    "members": [
+      {
+        "characterId": "luffy",
+        "role": "Captain",
+        "episodeJoined": 1,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "zoro",
+        "role": "Combatant",
+        "episodeJoined": 3,
+        "episodeLeft": null
+      }
+    ],
+    "shipName": null,
+    "jollyRoger": {
+      "description": "A skull wearing a straw hat with crossbones behind it",
+      "firstAppearance": null
+    },
+    "totalBounty": 0,
+    "keyMoments": [
+      {
+        "episodeNumber": 3,
+        "eventId": "ep003-event-010",
+        "title": "First Member Joins",
+        "description": "Roronoa Zoro officially becomes the first member to join Luffy's crew, marking the true formation of the Straw Hat Pirates.",
+        "significance": "The most important recruitment in the series - establishes the crew's foundation and the bond between captain and first mate.",
+        "timestamp": "16:30"
+      }
+    ],
+    "affiliations": [],
+    "baseOfOperations": null,
+    "status": "ACTIVE"
+  },
+  {
+    "name": {
+      "english": "Marines",
+      "japanese": "海軍",
+      "romanized": "Kaigun",
+      "aliases": ["Navy", "World Government Marines"]
+    },
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [3],
+    "crewType": "MILITARY",
+    "captainId": null,
+    "members": [
+      {
+        "characterId": "koby",
+        "role": "Recruit",
+        "episodeJoined": 3,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "ripper",
+        "role": "Captain (153rd Branch)",
+        "episodeJoined": null,
+        "episodeLeft": null
+      }
+    ],
+    "shipName": null,
+    "jollyRoger": null,
+    "totalBounty": null,
+    "keyMoments": [
+      {
+        "episodeNumber": 3,
+        "eventId": "ep003-event-009",
+        "title": "Marines Arrest Morgan",
+        "description": "The Marines of the 153rd Branch arrest their own captain for his tyrannical abuse of power.",
+        "significance": "Shows that justice can come from within corrupt organizations and not all Marines are corrupt.",
+        "timestamp": "15:45"
+      },
+      {
+        "episodeNumber": 3,
+        "eventId": "ep003-event-014",
+        "title": "Koby Joins",
+        "description": "Koby officially joins the Marines as a recruit, beginning his journey to become an admiral.",
+        "significance": "Establishes Koby's path as a Marine and sets up future encounters with Luffy.",
+        "timestamp": "21:45"
+      }
+    ],
+    "affiliations": ["World Government"],
+    "baseOfOperations": "Marineford",
+    "status": "ACTIVE"
+  }
+]

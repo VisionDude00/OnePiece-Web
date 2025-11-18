@@ -1,0 +1,456 @@
+{
+  "episodeNumber": 5,
+  "episodeTitle": "Fear, Mysterious Power! Pirate Clown Captain Buggy!",
+  "description": "Luffy arrives in Orange Town and encounters Nami, a self-proclaimed thief who targets pirates. After a tense betrayal and capture, Buggy the Clown reveals his Devil Fruit powers. Zoro arrives to help fight against Buggy and his crew.",
+  "airDate": "1999-11-24",
+  "airDateJapan": "1999-11-24",
+  "airDateUS": "2004-10-16",
+  "arcName": "Orange Town",
+  "sagaName": "East Blue Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Are!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [1, 47]
+  },
+  "endingSong": {
+    "title": "Memories",
+    "artist": "Maki Otsuki",
+    "episodeRange": [1, 30]
+  },
+  "credits": {
+    "animationDirector": "Junichi Fujise",
+    "screenplay": "Junki Takegami",
+    "artDirection": "Tomoko Yoshida",
+    "animation": "Yuji Hakamada",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Buggy",
+        "actor": "Shigeru Chiba"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Buggy",
+        "actor": "Mike McFarland"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep005-event-001",
+      "episodeNumber": 5,
+      "timestamp": "03:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Nami's First Appearance",
+      "description": "Nami introduces herself to Luffy as a thief who specializes in robbing pirates. She presents herself as someone who hates pirates and steals from them, revealing her goal of collecting 100 million Berries.",
+      "significance": "Introduction of Nami, who will become the Straw Hat Pirates' navigator. This marks the first time Luffy meets one of his future core crew members. Her introduction establishes her initial anti-pirate stance and mysterious motivations.",
+      "characterIds": ["nami", "luffy"],
+      "locationIds": ["orange-town"],
+      "quotes": [
+        {
+          "text": "I'm a thief who specializes in robbing pirates. I hate pirates!",
+          "speaker": "Nami",
+          "context": "Nami's introduction to Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [8, 9],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep005-event-002",
+      "episodeNumber": 5,
+      "timestamp": "05:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Arrival at Orange Town",
+      "description": "Luffy arrives at Orange Town after getting his head stuck in a giant bird's beak. The town appears to be under the control of Buggy the Clown and his pirate crew.",
+      "significance": "Sets the stage for the Orange Town Arc and introduces the setting where Luffy will face his second major pirate antagonist.",
+      "characterIds": ["luffy"],
+      "locationIds": ["orange-town"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [4],
+      "payoffInEpisodes": [6, 7, 8],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep005-event-003",
+      "episodeNumber": 5,
+      "timestamp": "08:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "CRITICAL",
+      "title": "Buggy the Clown's Introduction",
+      "description": "Buggy the Clown, captain of the Buggy Pirates, is introduced as a fearsome pirate terrorizing Orange Town. He demonstrates his cruel nature and showmanship, establishing himself as a major threat.",
+      "significance": "Introduction of Buggy, one of the most recurring and important characters in One Piece. Despite being an early antagonist, Buggy will play a significant role throughout the entire series, eventually becoming a Warlord of the Sea and Emperor.",
+      "characterIds": ["buggy"],
+      "locationIds": ["orange-town"],
+      "crewIds": ["buggy-pirates"],
+      "quotes": [
+        {
+          "text": "I am the great Captain Buggy!",
+          "speaker": "Buggy",
+          "context": "Buggy introducing himself to the town"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [4],
+      "payoffInEpisodes": [6, 7, 8],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep005-event-004",
+      "episodeNumber": 5,
+      "timestamp": "11:20",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Nami Betrays Luffy",
+      "description": "Nami ties up Luffy and hands him over to the Buggy Pirates, pretending he was her former boss. She does this to gain Buggy's trust and get closer to his treasure, though she shows hesitation.",
+      "significance": "Establishes Nami's morally gray character and her willingness to do whatever it takes to achieve her goal. This betrayal sets up the complex relationship between Luffy and Nami, showing that she isn't immediately trustworthy but has deeper motivations.",
+      "characterIds": ["nami", "luffy", "buggy"],
+      "locationIds": ["orange-town"],
+      "quotes": [
+        {
+          "text": "This is the pirate I used to work for. I'm offering him to you as a gift.",
+          "speaker": "Nami",
+          "context": "Nami betraying Luffy to Buggy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [6, 7],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep005-event-005",
+      "episodeNumber": 5,
+      "timestamp": "14:00",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Buggy Ball Demonstration",
+      "description": "Buggy demonstrates the destructive power of the Buggy Ball, a special explosive cannonball that destroys an entire row of houses with a single shot. This showcases the serious threat Buggy poses to the town.",
+      "significance": "Establishes Buggy as a serious threat despite his clownish appearance. The Buggy Ball becomes his signature weapon and demonstrates that early One Piece antagonists possess devastating power.",
+      "characterIds": ["buggy"],
+      "locationIds": ["orange-town"],
+      "quotes": [
+        {
+          "text": "Witness the power of my special Buggy Ball!",
+          "speaker": "Buggy",
+          "context": "Buggy about to fire his special cannonball"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [6, 7, 8],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep005-event-006",
+      "episodeNumber": 5,
+      "timestamp": "16:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Nami Refuses to Fire at Luffy",
+      "description": "Buggy orders Nami to fire a Buggy Ball at the caged Luffy. Despite her earlier betrayal, Nami refuses and extinguishes the cannon's fuse with her bare hands, burning herself in the process.",
+      "significance": "Reveals Nami's true character - she may be a thief willing to betray, but she won't kill an innocent person. This moment shows her moral compass and foreshadows her eventual alliance with Luffy.",
+      "characterIds": ["nami", "luffy", "buggy"],
+      "locationIds": ["orange-town"],
+      "quotes": [
+        {
+          "text": "I refuse! I won't kill him!",
+          "speaker": "Nami",
+          "context": "Nami refusing Buggy's order to fire at Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [6, 7, 8],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep005-event-007",
+      "episodeNumber": 5,
+      "timestamp": "18:15",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Zoro Arrives and Attacks Buggy",
+      "description": "Roronoa Zoro arrives to help Luffy and immediately attacks Buggy, cutting off his hand and leg with his swords. Zoro's intervention saves Luffy from immediate danger.",
+      "significance": "Demonstrates Zoro's loyalty to Luffy and his combat prowess. This marks the beginning of the confrontation with Buggy and shows the growing bond between the early Straw Hat crew members.",
+      "characterIds": ["zoro", "buggy", "luffy"],
+      "locationIds": ["orange-town"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [6, 7, 8],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep005-event-008",
+      "episodeNumber": 5,
+      "timestamp": "19:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Bara Bara no Mi Powers Revealed",
+      "description": "After Zoro cuts off Buggy's hand and leg, Buggy's severed hand stabs Zoro from behind, then reattaches itself to Buggy's body. Buggy reveals he ate the Bara Bara no Mi, a Devil Fruit that allows him to split his body into pieces and control them independently.",
+      "significance": "First appearance of the Bara Bara no Mi Devil Fruit powers. This reveals that Buggy is a Devil Fruit user, making him a much more formidable opponent. It's the second Devil Fruit power shown in the series after Luffy's Gomu Gomu no Mi.",
+      "characterIds": ["buggy", "zoro"],
+      "locationIds": ["orange-town"],
+      "devilFruitIds": ["bara-bara-no-mi"],
+      "quotes": [
+        {
+          "text": "I ate the Bara Bara no Mi! I'm a splitting man!",
+          "speaker": "Buggy",
+          "context": "Buggy revealing his Devil Fruit powers to Zoro"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [6, 7, 8],
+      "callbacksToEpisodes": [1]
+    },
+    {
+      "id": "ep005-event-009",
+      "episodeNumber": 5,
+      "timestamp": "20:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Bara Bara Ho Technique Shown",
+      "description": "Buggy demonstrates his signature technique, Bara Bara Ho, where he separates his body parts and controls them at will. This allows him to avoid Zoro's sword attacks and attack from unexpected angles.",
+      "significance": "Introduction of Buggy's primary fighting technique. The Bara Bara abilities prove effective against swordsmen like Zoro, establishing an interesting dynamic in the fight.",
+      "characterIds": ["buggy", "zoro"],
+      "locationIds": ["orange-town"],
+      "devilFruitIds": ["bara-bara-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [6, 7],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep005-event-010",
+      "episodeNumber": 5,
+      "timestamp": "21:50",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "Cannon Redirected at Buggy's Crew",
+      "description": "Zoro runs to the cannon, readjusts it to aim at the Buggy Pirates, and allows Nami to reignite the fuse. The episode ends with the cannon being fired at Buggy's crew, creating a cliffhanger.",
+      "significance": "Shows teamwork between Zoro and Nami, setting up the conclusion of the Orange Town conflict in the next episodes. Demonstrates strategic thinking rather than just brute force.",
+      "characterIds": ["zoro", "nami", "buggy"],
+      "locationIds": ["orange-town"],
+      "crewIds": ["buggy-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [6],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["nami", "buggy"],
+    "locations": ["orange-town"],
+    "devilFruits": ["bara-bara-no-mi"],
+    "crews": ["buggy-pirates"],
+    "abilities": ["bara-bara-ho", "buggy-ball"]
+  },
+  "episodeRelationships": {
+    "setupFor": [6, 7, 8],
+    "payoffFrom": [4],
+    "thematicLinks": [1, 2, 3]
+  },
+  "quotes": [
+    {
+      "text": "I'm a thief who specializes in robbing pirates. I hate pirates!",
+      "speaker": "Nami",
+      "context": "Nami introducing herself to Luffy",
+      "timestamp": "03:15"
+    },
+    {
+      "text": "I ate the Bara Bara no Mi! I'm a splitting man!",
+      "speaker": "Buggy",
+      "context": "Buggy revealing his Devil Fruit powers",
+      "timestamp": "19:30"
+    },
+    {
+      "text": "I refuse! I won't kill him!",
+      "speaker": "Nami",
+      "context": "Nami showing her moral compass by refusing to fire at Luffy",
+      "timestamp": "16:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Deception and Trust",
+      "description": "The episode explores themes of betrayal and trust through Nami's actions. She betrays Luffy but ultimately can't bring herself to kill him, showing the complexity of her character.",
+      "symbolism": "Nami's burned hands from extinguishing the fuse symbolize the pain of making the right choice despite her initial betrayal.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Power and Fear",
+      "description": "Buggy uses fear and intimidation to control Orange Town, demonstrating how power can be wielded for oppression. His Buggy Ball represents overwhelming destructive force.",
+      "symbolism": "The clown motif contrasts with Buggy's genuinely threatening nature, showing that appearances can be deceiving.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Loyalty and Friendship",
+      "description": "Zoro's arrival to help Luffy demonstrates the growing bond between the early crew members and their willingness to protect each other.",
+      "symbolism": "Zoro finding Luffy despite the danger shows the foundations of the Straw Hat crew's loyalty.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Suspenseful", "Action-packed", "Dramatic"],
+  "characterSpotlights": [
+    {
+      "characterId": "nami",
+      "role": "Deuteragonist introduction",
+      "development": "Nami is introduced as a morally complex character - a thief who hates pirates and is willing to betray others, but ultimately has a conscience and won't kill innocent people. Her goal of collecting 100 million Berries is revealed but not explained.",
+      "keyActions": [
+        "Introduces herself to Luffy as a pirate thief",
+        "Betrays Luffy by handing him to Buggy",
+        "Refuses to fire the Buggy Ball at Luffy, burning her hands",
+        "Teams up with Zoro to redirect the cannon"
+      ],
+      "quotes": [
+        "I'm a thief who specializes in robbing pirates. I hate pirates!",
+        "I refuse! I won't kill him!"
+      ]
+    },
+    {
+      "characterId": "buggy",
+      "role": "Primary antagonist",
+      "development": "Buggy is established as a cruel, theatrical pirate captain who terrorizes Orange Town. His Devil Fruit powers make him a formidable opponent, and his Buggy Ball demonstrates his destructive capabilities.",
+      "keyActions": [
+        "Demonstrates the Buggy Ball's destructive power",
+        "Accepts Nami's 'betrayal' of Luffy",
+        "Reveals his Bara Bara no Mi powers",
+        "Fights against Zoro using his splitting abilities"
+      ],
+      "quotes": [
+        "I am the great Captain Buggy!",
+        "I ate the Bara Bara no Mi! I'm a splitting man!"
+      ]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Protagonist",
+      "development": "Luffy continues his journey and shows trust in people, even when they betray him. He remains optimistic and undeterred even when captured.",
+      "keyActions": [
+        "Arrives at Orange Town",
+        "Meets and trusts Nami despite her stated hatred of pirates",
+        "Gets betrayed and caged by Buggy",
+        "Maintains his resolve despite danger"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "zoro",
+      "role": "Supporting hero",
+      "development": "Zoro shows loyalty to Luffy by arriving to rescue him and immediately engaging Buggy in combat, demonstrating both his combat skills and his commitment to his captain.",
+      "keyActions": [
+        "Arrives to save Luffy",
+        "Attacks Buggy with his swords",
+        "Gets stabbed by Buggy's detached hand",
+        "Works with Nami to redirect the cannon"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime added extended scenes of Luffy stuck in the bird's beak for comedic effect.",
+      "episodeTimestamp": "01:30",
+      "mangaReference": "Chapter 9",
+      "type": "ANIME_EXTENDED"
+    },
+    {
+      "difference": "The Buggy Ball destruction sequence is more detailed and prolonged in the anime.",
+      "episodeTimestamp": "14:00",
+      "mangaReference": "Chapter 10",
+      "type": "ANIME_EXTENDED"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the first appearance of Nami, who becomes one of the most important characters in the entire series and the Straw Hat Pirates' navigator.",
+      "category": "CHARACTERS",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_5",
+          "title": "Episode 5 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Buggy the Clown, despite being an early antagonist, becomes one of the most recurring characters in One Piece, eventually becoming a Warlord of the Sea and later an Emperor (Yonko).",
+      "category": "CHARACTERS",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Buggy",
+          "title": "Buggy - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The Bara Bara no Mi is the second Devil Fruit to be introduced in the anime, following Luffy's Gomu Gomu no Mi.",
+      "category": "DEVIL_FRUITS",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Bara_Bara_no_Mi",
+          "title": "Bara Bara no Mi - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Akemi Okamura, Nami's Japanese voice actress, has voiced the character for over 1000 episodes since this debut.",
+      "category": "VOICE_ACTING",
+      "sources": []
+    },
+    {
+      "fact": "Episode 5 covers portions of Chapters 8-11 of the manga.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_5",
+          "title": "Episode 5 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

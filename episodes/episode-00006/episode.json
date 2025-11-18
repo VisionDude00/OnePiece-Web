@@ -1,0 +1,562 @@
+{
+  "episodeNumber": 6,
+  "episodeTitle": "Desperate Situation! Beast Tamer Mohji vs. Luffy!",
+  "episodeTitleJapanese": "絶体絶命！猛獣使いモージVSルフィ！",
+  "episodeTitleRomanized": "Zettai Zetsumei! Mōjūtsukai Mōji tai Rufi!",
+  "description": "Luffy meets Chouchou, a loyal dog guarding his deceased owner's pet food shop in Orange Town. When Buggy's first mate Mohji and his lion Richie destroy the shop, Luffy fights them to defend Chouchou's precious treasure.",
+  "airDate": "1999-12-29",
+  "airDateJapan": "1999-12-29",
+  "airDateUS": "2008-05-27",
+  "airDateRemaster": "2012-05-12",
+  "arcName": "Orange Town Arc",
+  "sagaName": "East Blue Saga",
+  "animationQuality": "STANDARD",
+  "mangaChapters": [11, 12, 13, 14, 15],
+  "openingSong": {
+    "title": "We Are!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [1, 47]
+  },
+  "endingSong": {
+    "title": "Memories",
+    "artist": "Maki Otsuki",
+    "episodeRange": [1, 30]
+  },
+  "credits": {
+    "screenplay": "Michiru Shimada",
+    "artDirection": "Miyuki Sato",
+    "animation": "Takeo Ide",
+    "direction": "Shigeyasu Yamauchi",
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Mohji",
+        "actor": "Shigenori Soya"
+      },
+      {
+        "character": "Boodle",
+        "actor": "Masaharu Sato"
+      },
+      {
+        "character": "Chouchou",
+        "actor": "Non-speaking role"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Mohji",
+        "actor": "Chuck Huber"
+      },
+      {
+        "character": "Boodle",
+        "actor": "Kent Williams"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep006-event-001",
+      "episodeNumber": 6,
+      "timestamp": "02:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Zoro Taken to Mayor's House",
+      "description": "A wounded Zoro drags Luffy's cage to the pet food shop, where Mayor Boodle finds them and takes Zoro to his house to nurse his wounds from the battle with Buggy's crew.",
+      "significance": "Establishes Boodle's compassionate character and sets up the location where Zoro will recover.",
+      "characterIds": ["zoro", "luffy", "boodle"],
+      "locationIds": ["orange-town", "boodle-house"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [5],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [5]
+    },
+    {
+      "id": "ep006-event-002",
+      "episodeNumber": 6,
+      "timestamp": "03:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Chouchou's First Appearance",
+      "description": "Luffy encounters Chouchou, a small white dog sitting in front of a pet food shop, vigilantly guarding the store. When Luffy approaches, Chouchou immediately bites him.",
+      "significance": "Introduces one of the most emotionally impactful minor characters in early One Piece, establishing the theme of loyalty and treasured memories.",
+      "characterIds": ["luffy", "chouchou"],
+      "locationIds": ["orange-town", "pet-food-shop"],
+      "quotes": [
+        {
+          "text": "Ow! What was that for?!",
+          "speaker": "Luffy",
+          "context": "Luffy's reaction to Chouchou biting him"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [8],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep006-event-003",
+      "episodeNumber": 6,
+      "timestamp": "04:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Mayor Boodle's First Appearance",
+      "description": "Mayor Boodle appears and explains that he's been caring for Chouchou by bringing him food. He introduces himself as the mayor of Orange Town.",
+      "significance": "Introduces the mayor character who represents the heart and history of Orange Town.",
+      "characterIds": ["boodle", "luffy", "chouchou"],
+      "locationIds": ["orange-town"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [7, 8],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep006-event-004",
+      "episodeNumber": 6,
+      "timestamp": "05:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Chouchou's Backstory Revealed",
+      "description": "Boodle reveals Chouchou's tragic story through flashback: Chouchou's owner Hocker ran the pet food shop for over a decade. When Hocker fell ill and left to seek medical treatment, he asked Chouchou to guard the shop. Hocker never returned, having died from his illness, but Chouchou continues to faithfully guard the shop as his treasure and memento of his beloved owner.",
+      "significance": "This backstory establishes the emotional core of the episode and demonstrates One Piece's ability to create powerful emotional moments with minor characters. It introduces themes of loyalty, memory, and what people truly treasure.",
+      "characterIds": ["chouchou", "hocker", "boodle"],
+      "locationIds": ["pet-food-shop"],
+      "quotes": [
+        {
+          "text": "Chouchou knows his master's fate. He treasures the shop purely as a memento.",
+          "speaker": "Boodle",
+          "context": "Explaining why Chouchou guards the empty shop"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep006-event-005",
+      "episodeNumber": 6,
+      "timestamp": "07:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Nami Arrives with Cage Key",
+      "description": "Nami arrives at the pet food shop with the key to unlock Luffy's cage. However, before she can free him, Chouchou snatches and eats the key.",
+      "significance": "Delays Luffy's freedom and forces him to remain caged during the upcoming confrontation with Mohji, adding comedy and tension.",
+      "characterIds": ["nami", "luffy", "chouchou"],
+      "locationIds": ["pet-food-shop"],
+      "quotes": [
+        {
+          "text": "What?! He ate the key?!",
+          "speaker": "Nami",
+          "context": "Shocked reaction to Chouchou eating the cage key"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [5],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep006-event-006",
+      "episodeNumber": 6,
+      "timestamp": "09:40",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Mohji and Richie's First Appearance",
+      "description": "Mohji the Beast Tamer appears riding his massive lion Richie. Mohji is sent by Buggy to find and eliminate Luffy. He boasts about his ability to control any beast.",
+      "significance": "Introduces Mohji and Richie as the antagonists for this episode and demonstrates the Buggy Pirates' organizational structure.",
+      "characterIds": ["mohji", "richie"],
+      "locationIds": ["orange-town"],
+      "quotes": [
+        {
+          "text": "I am Mohji the Beast Tamer, first mate of the Buggy Pirates! I can control any animal!",
+          "speaker": "Mohji",
+          "context": "Mohji's introduction and boast"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [5],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep006-event-007",
+      "episodeNumber": 6,
+      "timestamp": "11:20",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Chouchou Defends the Shop",
+      "description": "When Richie approaches the pet food shop looking for food, Chouchou bravely attacks the massive lion to defend his treasure despite being vastly outmatched in size and strength.",
+      "significance": "Demonstrates Chouchou's unwavering loyalty and courage, setting up the emotional impact of the shop's destruction.",
+      "characterIds": ["chouchou", "richie"],
+      "locationIds": ["pet-food-shop"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep006-event-008",
+      "episodeNumber": 6,
+      "timestamp": "12:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Pet Food Shop Destroyed",
+      "description": "Despite Chouchou's brave efforts, Richie destroys and burns down the pet food shop while searching for food. Chouchou can only watch helplessly as his precious treasure - his last connection to his deceased owner - goes up in flames.",
+      "significance": "The emotional climax of Chouchou's story and a pivotal moment that motivates Luffy to fight. This scene establishes that One Piece will explore deep emotional themes beyond typical adventure stories.",
+      "characterIds": ["chouchou", "richie", "mohji"],
+      "locationIds": ["pet-food-shop"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep006-event-009",
+      "episodeNumber": 6,
+      "timestamp": "14:10",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Luffy vs Mohji and Richie Begins",
+      "description": "Enraged by Mohji's destruction of Chouchou's treasure, Luffy breaks free from his cage (which Richie inadvertently destroyed) and engages Mohji and Richie in battle to defend Chouchou's honor.",
+      "significance": "Demonstrates Luffy's character - he fights not for himself but to defend others' treasures and dreams.",
+      "characterIds": ["luffy", "mohji", "richie"],
+      "locationIds": ["orange-town"],
+      "quotes": [
+        {
+          "text": "You destroyed his treasure! I won't forgive you for that!",
+          "speaker": "Luffy",
+          "context": "Luffy declaring his intent to fight for Chouchou"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep006-event-010",
+      "episodeNumber": 6,
+      "timestamp": "17:35",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Mohji's Whip Attacks",
+      "description": "Mohji demonstrates his combat style using a whip to attack while riding Richie, showing his reliance on his beast companion for strength.",
+      "significance": "Establishes Mohji's fighting abilities and tactical approach.",
+      "characterIds": ["mohji"],
+      "devilFruitIds": [],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep006-event-011",
+      "episodeNumber": 6,
+      "timestamp": "19:20",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "Luffy Defeats Mohji and Richie",
+      "description": "Luffy defeats both Mohji and Richie using his Gomu Gomu powers, knocking them out and avenging the destruction of Chouchou's shop.",
+      "significance": "Demonstrates Luffy's strength and his willingness to fight for others, even for a dog he just met.",
+      "characterIds": ["luffy", "mohji", "richie"],
+      "locationIds": ["orange-town"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [1]
+    },
+    {
+      "id": "ep006-event-012",
+      "episodeNumber": 6,
+      "timestamp": "20:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Luffy Gives Dog Food to Chouchou",
+      "description": "After the battle, Luffy presents Chouchou with a single box of dog food he salvaged from the burning shop. He sits with the grieving dog and tells him he fought well. This tender moment is accompanied by the first use of 'Mother Sea,' the soundtrack that will become One Piece's signature emotional music.",
+      "significance": "This is one of the most emotionally powerful moments in early One Piece and establishes the series' ability to create profound emotional connections. The first use of 'Mother Sea' marks this as a defining moment. It also shows Nami that not all pirates are heartless.",
+      "characterIds": ["luffy", "chouchou", "nami"],
+      "locationIds": ["orange-town"],
+      "quotes": [
+        {
+          "text": "You fought well.",
+          "speaker": "Luffy",
+          "context": "Luffy comforting Chouchou while giving him the salvaged dog food"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep006-event-013",
+      "episodeNumber": 6,
+      "timestamp": "21:30",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MINOR",
+      "title": "Nami's Perspective Shifts",
+      "description": "Witnessing Luffy's compassion toward Chouchou causes Nami to smile and reconsider her belief that all pirates are heartless destroyers who only care about treasure.",
+      "significance": "Important character development for Nami that foreshadows her eventual joining of the Straw Hat crew.",
+      "characterIds": ["nami", "luffy"],
+      "locationIds": ["orange-town"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [4, 5],
+      "payoffInEpisodes": [8],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep006-event-014",
+      "episodeNumber": 6,
+      "timestamp": "22:15",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MINOR",
+      "title": "Heading to Confront Buggy",
+      "description": "With Mohji defeated, Luffy, Nami, and the townspeople prepare to return to Buggy's base for a final confrontation with the pirate captain.",
+      "significance": "Sets up the climax of the Orange Town arc.",
+      "characterIds": ["luffy", "nami", "boodle"],
+      "locationIds": ["orange-town"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [7, 8],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["mohji", "richie", "chouchou", "boodle", "hocker"],
+    "locations": ["pet-food-shop", "boodle-house"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [7, 8],
+    "payoffFrom": [4, 5],
+    "thematicLinks": [1, 37, 235, 312]
+  },
+  "quotes": [
+    {
+      "text": "Chouchou knows his master's fate. He treasures the shop purely as a memento.",
+      "speaker": "Boodle",
+      "context": "Explaining Chouchou's loyalty",
+      "timestamp": "05:30"
+    },
+    {
+      "text": "You fought well.",
+      "speaker": "Luffy",
+      "context": "Comforting Chouchou after giving him salvaged dog food",
+      "timestamp": "20:45"
+    },
+    {
+      "text": "I am Mohji the Beast Tamer, first mate of the Buggy Pirates! I can control any animal!",
+      "speaker": "Mohji",
+      "context": "Introducing himself",
+      "timestamp": "09:40"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Loyalty and Memory",
+      "description": "Chouchou's unwavering dedication to guarding the pet shop represents the power of loyalty and how treasured memories can transcend death. The shop itself becomes a symbol of love and devotion.",
+      "symbolism": "The pet food shop represents Chouchou's connection to his deceased owner and demonstrates that treasures aren't always material wealth.",
+      "culturalReferences": [
+        "The story parallels famous real-life loyal dogs like Hachikō, the Japanese Akita who waited for his deceased owner at a train station for nearly 10 years."
+      ]
+    },
+    {
+      "theme": "What Makes a True Treasure",
+      "description": "The episode contrasts Buggy's crew who seek material treasure with Chouchou who treasures memories and Luffy who treasures freedom and friendship. This establishes that One Piece's concept of 'treasure' goes beyond gold and jewels.",
+      "symbolism": "The single box of dog food Luffy saves becomes more valuable than any amount of treasure because of what it represents.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Compassion and Understanding",
+      "description": "Luffy fighting for Chouchou's treasure shows his ability to understand and empathize with others' values, even when they're different from his own. This compassion begins to change Nami's perspective on pirates.",
+      "symbolism": "Luffy sitting with Chouchou in silence shows that sometimes compassion doesn't require words.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Emotional", "Heartwarming", "Tragic", "Bittersweet", "Inspirational"],
+  "characterSpotlights": [
+    {
+      "characterId": "chouchou",
+      "role": "Episode protagonist",
+      "development": "Chouchou's entire story is revealed - from living happily with Hocker, to losing his owner, to dedicating his life to guarding their shop. Despite losing his treasure, he finds connection with Luffy.",
+      "keyActions": [
+        "Guards the pet food shop faithfully",
+        "Bites Luffy and eats the cage key",
+        "Bravely fights Richie despite being outmatched",
+        "Watches helplessly as his shop burns",
+        "Accepts Luffy's offering of salvaged dog food",
+        "Helps the Straw Hats later in the arc"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "luffy",
+      "role": "Hero defending another's treasure",
+      "development": "Demonstrates his core character trait of fighting not for himself but to defend what others treasure, even for a dog he just met. Shows his emotional intelligence and compassion.",
+      "keyActions": [
+        "Meets Chouchou and learns his story",
+        "Gets bitten and has cage key eaten by Chouchou",
+        "Becomes enraged when the shop is destroyed",
+        "Fights Mohji and Richie to defend Chouchou's honor",
+        "Salvages dog food from the burning shop",
+        "Comforts Chouchou with the saved treasure"
+      ],
+      "quotes": ["You destroyed his treasure! I won't forgive you for that!", "You fought well."]
+    },
+    {
+      "characterId": "mohji",
+      "role": "Episode antagonist",
+      "development": "Introduced as Buggy's first mate and beast tamer. Demonstrates his pompous personality and reliance on Richie for combat strength.",
+      "keyActions": [
+        "Arrives riding Richie to find Luffy",
+        "Orders Richie to attack, destroying the cage",
+        "Destroys the pet food shop",
+        "Battles Luffy",
+        "Is defeated by Luffy"
+      ],
+      "quotes": ["I am Mohji the Beast Tamer, first mate of the Buggy Pirates! I can control any animal!"]
+    },
+    {
+      "characterId": "boodle",
+      "role": "Supporting character and narrator",
+      "development": "Introduced as the compassionate mayor of Orange Town who has been caring for both Zoro and Chouchou. His explanation of Chouchou's backstory provides the emotional foundation of the episode.",
+      "keyActions": [
+        "Takes wounded Zoro to his house",
+        "Brings food to Chouchou regularly",
+        "Explains Chouchou's backstory to Luffy",
+        "Prepares to confront Buggy alongside the Straw Hats"
+      ],
+      "quotes": ["Chouchou knows his master's fate. He treasures the shop purely as a memento."]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended Chouchou's backstory, showing it through visual flashbacks rather than just Boodle's narration as in the manga.",
+      "episodeTimestamp": "05:30",
+      "mangaReference": "Chapter 12",
+      "type": "EXPANDED_SCENE"
+    },
+    {
+      "difference": "Some violent moments from the manga were toned down in the anime version.",
+      "episodeTimestamp": "Various",
+      "mangaReference": "Chapters 11-15",
+      "type": "CENSORSHIP"
+    },
+    {
+      "difference": "The anime eyecatcher music was reversed - Luffy's theme played during Zoro's visual and vice versa.",
+      "episodeTimestamp": "Eyecatcher",
+      "mangaReference": "N/A",
+      "type": "PRODUCTION_ERROR"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episode 6 holds the record for most animated pages, covering chapters 11 to 15 almost entirely - a total of five consecutive manga chapters.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_6",
+          "title": "Episode 6 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode aired as part of an hour-and-a-half special alongside episodes 7 and 8 on December 29, 1999.",
+      "category": "BROADCAST",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_6",
+          "title": "Episode 6 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode marks the first use of 'Mother Sea,' composed by Kohei Tanaka, which would become One Piece's signature emotional soundtrack used in countless tearjerker moments throughout the series.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chouchou",
+          "title": "Chouchou - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Chouchou's story is based on the Japanese cultural archetype of the loyal dog, most famously represented by Hachikō, who waited at a train station for his deceased owner for nearly 10 years.",
+      "category": "CULTURAL_REFERENCE",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chouchou",
+          "title": "Chouchou - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode achieved a 12.3% viewer rating during its original broadcast in Japan, ranking #1 for that time slot.",
+      "category": "RATINGS",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_6",
+          "title": "Episode 6 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The eyecatchers for this episode featured Luffy and Zoro, but had their theme music reversed - a production quirk unique to this episode.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_6",
+          "title": "Episode 6 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

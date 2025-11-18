@@ -1,0 +1,612 @@
+{
+  "episodeNumber": 8,
+  "episodeTitle": "Who Will Win? Showdown Between the True Powers of the Devil Fruit!",
+  "episodeTitleJapanese": "勝者はどっち？悪魔の実の能力対決！",
+  "episodeTitleRomaji": "Shōsha wa Docchi? Akuma no Mi no Nōryoku Taiketsu!",
+  "description": "Luffy faces off against Buggy the Clown in an epic Devil Fruit showdown. Through a flashback, Buggy's past with Shanks is revealed, showing how he accidentally ate the Bara Bara no Mi. Luffy debuts his Gomu Gomu no Bazooka technique to defeat Buggy and save Orange Town.",
+  "airDate": "1999-12-29",
+  "airDateJapan": "1999-12-29",
+  "airDateUS": "2004-11-06",
+  "airDateUSFunimation": "2008-05-27",
+  "arcName": "Orange Town Arc",
+  "sagaName": "East Blue Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Are!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [1, 47]
+  },
+  "endingSong": {
+    "title": "Memories",
+    "artist": "Maki Otsuki",
+    "episodeRange": [1, 30]
+  },
+  "credits": {
+    "director": "Kōnosuke Uda",
+    "animationDirector": "Kenji Yokoyama",
+    "artDirector": "Kunihiro Chida",
+    "screenplay": "Michiru Shimada",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Buggy",
+        "actor": "Shigeru Chiba"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Shanks",
+        "actor": "Shūichi Ikeda"
+      },
+      {
+        "character": "Boodle",
+        "actor": "Takkou Ishimori"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Buggy",
+        "actor": "Mike McFarland"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Shanks",
+        "actor": "Brandon Potter"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep008-event-001",
+      "episodeNumber": 8,
+      "timestamp": "03:45",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Buggy and Shanks' Past on the Oro Jackson",
+      "description": "A flashback reveals that young Buggy and Shanks served together as apprentices on the same pirate ship, the Oro Jackson. They are shown arguing about which pole is colder, establishing their long-standing rivalry and friendship.",
+      "significance": "This flashback establishes the deep history between Buggy and Shanks, revealing they both served under the same legendary crew. It provides crucial context for Buggy's resentment toward Shanks and foreshadows the importance of their former captain.",
+      "characterIds": ["buggy", "shanks", "rayleigh"],
+      "locationIds": ["oro-jackson"],
+      "crewIds": ["roger-pirates"],
+      "quotes": [
+        {
+          "text": "The North Pole is colder!",
+          "speaker": "Buggy",
+          "context": "Young Buggy arguing with Shanks on the Oro Jackson"
+        },
+        {
+          "text": "No way, the South Pole is way colder!",
+          "speaker": "Shanks",
+          "context": "Young Shanks arguing back with Buggy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [45, 316, 459],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep008-event-002",
+      "episodeNumber": 8,
+      "timestamp": "04:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "CRITICAL",
+      "title": "Silvers Rayleigh's First Appearance",
+      "description": "Silvers Rayleigh appears for the first time in the flashback aboard the Oro Jackson, observing young Buggy and Shanks' argument. His identity as first mate of the Roger Pirates is not yet revealed but becomes crucial later.",
+      "significance": "This is the first appearance of one of the most important characters in the series - the Dark King Rayleigh, who will later become Luffy's Haki teacher. His presence hints at the legendary nature of the crew Buggy and Shanks served on.",
+      "characterIds": ["rayleigh", "buggy", "shanks"],
+      "locationIds": ["oro-jackson"],
+      "crewIds": ["roger-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [400, 401, 402],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep008-event-003",
+      "episodeNumber": 8,
+      "timestamp": "05:15",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "How Buggy Obtained the Bara Bara no Mi",
+      "description": "The flashback reveals that Buggy discovered a treasure map and planned to steal a Devil Fruit to sell for 100,000,000 Belly. He ate a fake Devil Fruit in front of the crew while hiding the real Bara Bara no Mi. However, Shanks surprised him, causing Buggy to accidentally swallow the real Devil Fruit.",
+      "significance": "This explains Buggy's grudge against Shanks and reveals the accidental nature of how Buggy gained his powers. It also shows Buggy's cunning nature even as a young pirate and establishes his mercenary motivations.",
+      "characterIds": ["buggy", "shanks"],
+      "locationIds": ["oro-jackson"],
+      "devilFruitIds": ["bara-bara-no-mi"],
+      "quotes": [
+        {
+          "text": "I was going to sell that Devil Fruit for 100 million Belly!",
+          "speaker": "Buggy",
+          "context": "Buggy explaining his original plan before accidentally eating the fruit"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep008-event-004",
+      "episodeNumber": 8,
+      "timestamp": "06:00",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Buggy Loses His Treasure Map",
+      "description": "After accidentally eating the Bara Bara no Mi, Buggy's treasure map is blown overboard by the wind. Unable to swim due to the Devil Fruit curse, Buggy cannot retrieve it, losing both his ability to swim and his treasure in one moment.",
+      "significance": "This traumatic moment establishes Buggy's lifelong obsession with treasure and his deep resentment toward Shanks. The loss of his swimming ability and the treasure map shapes Buggy's character and motivations throughout the series.",
+      "characterIds": ["buggy", "shanks"],
+      "devilFruitIds": ["bara-bara-no-mi"],
+      "quotes": [
+        {
+          "text": "My treasure map! I can't swim anymore!",
+          "speaker": "Buggy",
+          "context": "Buggy's anguish as he watches his treasure map float away"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep008-event-005",
+      "episodeNumber": 8,
+      "timestamp": "08:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Final Showdown: Luffy vs Buggy",
+      "description": "The battle between Luffy and Buggy intensifies as both pirates use their Devil Fruit powers to their fullest. Buggy unleashes his Bara Bara Festival technique, sending his body parts flying in all directions to attack Luffy.",
+      "significance": "This represents Luffy's first major Devil Fruit vs Devil Fruit battle, showcasing the strategic thinking required when facing opponents with unique powers.",
+      "characterIds": ["luffy", "buggy"],
+      "locationIds": ["orange-town"],
+      "devilFruitIds": ["gomu-gomu-no-mi", "bara-bara-no-mi"],
+      "quotes": [
+        {
+          "text": "Bara Bara Festival!",
+          "speaker": "Buggy",
+          "context": "Buggy launching his signature technique against Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [7],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep008-event-006",
+      "episodeNumber": 8,
+      "timestamp": "12:15",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Nami's Strategic Brilliance",
+      "description": "Nami demonstrates her cunning by stealing Buggy's detached body parts and tying them together in a bag, rendering him unable to reassemble and leaving him vulnerable to Luffy's attacks.",
+      "significance": "This showcases Nami's intelligence and strategic value to the crew, proving she's more than just a thief. Her quick thinking turns the tide of battle and demonstrates how teamwork can overcome powerful Devil Fruit users.",
+      "characterIds": ["nami", "buggy", "luffy"],
+      "locationIds": ["orange-town"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep008-event-007",
+      "episodeNumber": 8,
+      "timestamp": "14:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Gomu Gomu no Bazooka Debut",
+      "description": "Luffy debuts his Gomu Gomu no Bazooka technique for the first time, stretching both arms far back and then hurling them forward in a devastating double palm strike that sends Buggy flying out of Orange Town.",
+      "significance": "This is one of Luffy's signature finishing moves that becomes a staple throughout the series. The technique demonstrates Luffy's growing mastery of his Devil Fruit powers and his ability to develop new techniques in battle. It ranks as the 5th most popular of Luffy's attacks in fan polls.",
+      "characterIds": ["luffy", "buggy"],
+      "locationIds": ["orange-town"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [
+        {
+          "text": "Gomu Gomu no... Bazooka!",
+          "speaker": "Luffy",
+          "context": "Luffy unleashing his new technique to defeat Buggy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep008-event-008",
+      "episodeNumber": 8,
+      "timestamp": "15:30",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Buggy's Defeat",
+      "description": "Buggy is sent flying out of Orange Town by Luffy's Gomu Gomu no Bazooka, ending the battle. The citizens of Orange Town are freed from Buggy's terror, and peace is restored to the town.",
+      "significance": "This marks Luffy's first victory over a Devil Fruit user and establishes a pattern of Luffy defeating villains who terrorize innocent people. Buggy's defeat liberates Orange Town and allows the Straw Hats to continue their journey.",
+      "characterIds": ["luffy", "buggy"],
+      "locationIds": ["orange-town"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [7],
+      "payoffInEpisodes": [430, 431],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep008-event-009",
+      "episodeNumber": 8,
+      "timestamp": "17:00",
+      "eventType": "TREASURE_DISCOVERY",
+      "severity": "MINOR",
+      "title": "Nami Secures Buggy's Treasure",
+      "description": "After Buggy's defeat, Nami successfully secures the treasure she stole from Buggy's hideout, including valuable loot and maps. Among the treasure is a map to the Grand Line.",
+      "significance": "This treasure, particularly the Grand Line map, becomes an important asset for the crew's journey. It also reinforces Nami's role as the crew's treasure hunter and navigator.",
+      "characterIds": ["nami"],
+      "locationIds": ["orange-town"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [7],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep008-event-010",
+      "episodeNumber": 8,
+      "timestamp": "18:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Luffy Donates Treasure to Orange Town",
+      "description": "Despite Nami's protests, Luffy decides to leave 5,000,000 Belly from Buggy's treasure with the citizens of Orange Town to help them rebuild after the destruction caused by Buggy's crew.",
+      "significance": "This selfless act demonstrates Luffy's character and values - he prioritizes helping people over wealth. It shows why people are drawn to follow him and establishes his leadership philosophy. Nami is shocked by this decision, highlighting the difference in their initial motivations.",
+      "characterIds": ["luffy", "nami", "boodle"],
+      "locationIds": ["orange-town"],
+      "quotes": [
+        {
+          "text": "They need it more than we do.",
+          "speaker": "Luffy",
+          "context": "Luffy explaining his decision to leave money for the townspeople"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep008-event-011",
+      "episodeNumber": 8,
+      "timestamp": "19:45",
+      "eventType": "CREW_JOIN",
+      "severity": "MAJOR",
+      "title": "Nami Officially Joins as Navigator",
+      "description": "After witnessing Luffy's character and the crew's adventure in Orange Town, Nami officially agrees to join the Straw Hat Pirates as their navigator, though she initially claims it's only temporary and for the treasure.",
+      "significance": "This is a pivotal moment in the formation of the Straw Hat crew. Nami becomes the third member and the first female member of the crew. Her navigation skills will prove essential for their journey to the Grand Line and beyond.",
+      "characterIds": ["nami", "luffy", "zoro"],
+      "locationIds": ["orange-town"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "Fine, I'll join you guys... but only as your navigator!",
+          "speaker": "Nami",
+          "context": "Nami agreeing to join the crew"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [5, 6, 7],
+      "payoffInEpisodes": [37, 44],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep008-event-012",
+      "episodeNumber": 8,
+      "timestamp": "20:30",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MINOR",
+      "title": "Departure from Orange Town",
+      "description": "The Straw Hat crew departs from Orange Town as the grateful citizens, led by Mayor Boodle, wave goodbye. The town can now begin rebuilding in peace.",
+      "significance": "This marks the end of the Orange Town Arc and the crew's continuation toward the Grand Line. The peaceful departure contrasts with their violent arrival and shows the positive impact they've had.",
+      "characterIds": ["luffy", "zoro", "nami", "boodle"],
+      "locationIds": ["orange-town"],
+      "quotes": [
+        {
+          "text": "Thank you, Straw Hat!",
+          "speaker": "Boodle",
+          "context": "Mayor Boodle expressing gratitude as the crew departs"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep008-event-013",
+      "episodeNumber": 8,
+      "timestamp": "21:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Introduction to Gecko Islands",
+      "description": "The episode briefly shifts to show the Gecko Islands, a new location where the next arc will take place. This sets up the crew's next destination.",
+      "significance": "This introduces the setting for the upcoming Syrup Village arc and builds anticipation for the next adventure.",
+      "characterIds": [],
+      "locationIds": ["gecko-islands"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [9],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep008-event-014",
+      "episodeNumber": 8,
+      "timestamp": "21:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Usopp's First Appearance",
+      "description": "Usopp makes his debut appearance at the Gecko Islands, shown as a young man telling tall tales to the village children. He declares himself as 'Captain Usopp' and speaks of his brave pirate adventures.",
+      "significance": "This is the first appearance of the future Straw Hat sniper, Usopp. His introduction sets up the next arc and foreshadows his eventual recruitment into Luffy's crew.",
+      "characterIds": ["usopp"],
+      "locationIds": ["gecko-islands", "syrup-village"],
+      "quotes": [
+        {
+          "text": "I am the great Captain Usopp!",
+          "speaker": "Usopp",
+          "context": "Usopp introducing himself to the village children"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [9, 10, 11, 12, 13, 14, 15, 16, 17],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep008-event-015",
+      "episodeNumber": 8,
+      "timestamp": "22:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Poro's First Appearance",
+      "description": "Poro, one of the children who listens to Usopp's stories in Syrup Village, appears for the first time.",
+      "significance": "Poro is one of Usopp's young followers and represents the village children who look up to Usopp despite knowing his tendency to lie.",
+      "characterIds": ["poro", "usopp"],
+      "locationIds": ["syrup-village"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [9],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["rayleigh", "usopp", "poro"],
+    "locations": ["oro-jackson", "gecko-islands", "syrup-village"],
+    "devilFruits": [],
+    "crews": ["roger-pirates"],
+    "abilities": ["gomu-gomu-no-bazooka", "bara-bara-festival"]
+  },
+  "episodeRelationships": {
+    "setupFor": [9, 10, 11, 12, 13, 14, 15, 16, 17],
+    "payoffFrom": [5, 6, 7],
+    "thematicLinks": [45, 316, 400, 430]
+  },
+  "quotes": [
+    {
+      "text": "Gomu Gomu no... Bazooka!",
+      "speaker": "Luffy",
+      "context": "Luffy's first use of the Bazooka technique",
+      "timestamp": "14:45"
+    },
+    {
+      "text": "Fine, I'll join you guys... but only as your navigator!",
+      "speaker": "Nami",
+      "context": "Nami officially joining the crew",
+      "timestamp": "19:45"
+    },
+    {
+      "text": "They need it more than we do.",
+      "speaker": "Luffy",
+      "context": "Explaining why he's leaving treasure for Orange Town",
+      "timestamp": "18:30"
+    },
+    {
+      "text": "I was going to sell that Devil Fruit for 100 million Belly!",
+      "speaker": "Buggy",
+      "context": "Flashback revealing Buggy's original plan",
+      "timestamp": "05:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Friendship and Rivalry",
+      "description": "The flashback explores the complex relationship between Buggy and Shanks, showing how childhood friends can become rivals while still maintaining a connection.",
+      "symbolism": "The argument about the poles represents their fundamental differences in perspective and values.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Selflessness vs Greed",
+      "description": "Luffy's decision to leave treasure for Orange Town contrasts sharply with Buggy's greed and Nami's initial treasure-focused motivations.",
+      "symbolism": "The donated money represents Luffy's values and the kind of pirate king he aspires to be - one who helps rather than exploits.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Consequences of Choices",
+      "description": "Buggy's accidental consumption of the Devil Fruit and loss of his treasure map shows how split-second decisions can have lifelong consequences.",
+      "symbolism": "The treasure map blowing away represents lost opportunities and how greed can lead to greater losses.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Found Family",
+      "description": "Nami officially joining the crew marks the growing family that Luffy is building, with each member bringing unique skills and perspectives.",
+      "symbolism": "The crew's teamwork in defeating Buggy symbolizes the strength found in unity and complementary abilities.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Action-packed", "Revelatory", "Triumphant", "Emotional"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist/Hero",
+      "development": "Luffy demonstrates both his combat growth with the Gomu Gomu no Bazooka and his moral character by giving treasure to the townspeople. This episode solidifies his role as a different kind of pirate.",
+      "keyActions": [
+        "Debuts Gomu Gomu no Bazooka technique",
+        "Defeats Buggy and saves Orange Town",
+        "Donates 5,000,000 Belly to help rebuild the town",
+        "Welcomes Nami as the crew's navigator"
+      ],
+      "quotes": ["Gomu Gomu no... Bazooka!", "They need it more than we do."]
+    },
+    {
+      "characterId": "buggy",
+      "role": "Arc Antagonist",
+      "development": "Buggy's backstory is revealed, showing his past with Shanks and how he obtained his Devil Fruit. This adds depth to his character beyond being a simple villain and establishes his long-running grudge.",
+      "keyActions": [
+        "Reveals his past with Shanks through flashback",
+        "Demonstrates Bara Bara Festival technique",
+        "Is defeated and sent flying out of Orange Town"
+      ],
+      "quotes": ["I was going to sell that Devil Fruit for 100 million Belly!", "Bara Bara Festival!"]
+    },
+    {
+      "characterId": "nami",
+      "role": "New Crew Member",
+      "development": "Nami officially commits to joining the crew as navigator, though she maintains her focus on treasure. Her strategic thinking proves valuable in helping defeat Buggy.",
+      "keyActions": [
+        "Steals Buggy's body parts and ties them up",
+        "Secures Buggy's treasure and Grand Line map",
+        "Officially joins the Straw Hat Pirates as navigator"
+      ],
+      "quotes": ["Fine, I'll join you guys... but only as your navigator!"]
+    },
+    {
+      "characterId": "shanks",
+      "role": "Flashback Character",
+      "development": "The flashback provides more context about Shanks' past, showing him as a young pirate apprentice alongside Buggy and establishing his connection to a legendary crew.",
+      "keyActions": [
+        "Appears in flashback arguing with young Buggy",
+        "Accidentally causes Buggy to swallow the Bara Bara no Mi"
+      ],
+      "quotes": ["No way, the South Pole is way colder!"]
+    },
+    {
+      "characterId": "usopp",
+      "role": "Next Arc Setup",
+      "development": "Usopp is introduced telling stories to children, establishing his character as a liar and storyteller while setting up the next arc.",
+      "keyActions": [
+        "Makes his first appearance in Syrup Village",
+        "Tells tall tales to village children"
+      ],
+      "quotes": ["I am the great Captain Usopp!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime expanded the flashback sequence with additional scenes and dialogue to fill episode runtime.",
+      "episodeTimestamp": "03:45",
+      "mangaReference": "Chapter 19",
+      "type": "ANIME_EXPANSION"
+    },
+    {
+      "difference": "The anime added more detail to the final battle sequence between Luffy and Buggy with extended fight choreography.",
+      "episodeTimestamp": "08:30",
+      "mangaReference": "Chapter 20",
+      "type": "ANIME_EXPANSION"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This is the final episode of the Orange Town Arc, which spans episodes 4-8.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_8",
+          "title": "Episode 8 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Gomu Gomu no Bazooka ranks as the 5th most popular of Luffy's techniques in fan polls, with 995 votes.",
+      "category": "FAN_ENGAGEMENT",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Gomu_Gomu_no_Mi/Techniques",
+          "title": "Gomu Gomu no Mi Techniques - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Silvers Rayleigh makes his first appearance in this episode, though his identity as the Dark King is not revealed until much later in the series.",
+      "category": "FORESHADOWING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_8",
+          "title": "Episode 8 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode aired on December 29, 1999, making it the last One Piece episode of the 20th century.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_8",
+          "title": "Episode 8 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode covers manga chapters 19-21 from Volume 3.",
+      "category": "MANGA_ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_8",
+          "title": "Episode 8 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The original broadcast had a 12.3% rating, while the 2012 remastered version had a 5.2% rating.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_8",
+          "title": "Episode 8 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

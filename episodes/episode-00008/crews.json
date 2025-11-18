@@ -1,0 +1,202 @@
+[
+  {
+    "name": {
+      "english": "Roger Pirates",
+      "japanese": "ロジャー海賊団",
+      "romanized": "Rojā Kaizokudan"
+    },
+    "debutEpisode": 8,
+    "debutChapter": 19,
+    "episodeAppearances": [8],
+    "jollyRoger": {
+      "description": "Not shown in this episode",
+      "symbolism": "Unknown at this point"
+    },
+    "captain": {
+      "characterId": "unknown",
+      "name": "Unknown (identity not revealed in this episode)"
+    },
+    "ship": {
+      "name": "Oro Jackson",
+      "locationId": "oro-jackson"
+    },
+    "members": [
+      {
+        "characterId": "rayleigh",
+        "role": "First Mate",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "status": "FORMER_MEMBER"
+      },
+      {
+        "characterId": "shanks",
+        "role": "Apprentice",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "status": "FORMER_MEMBER"
+      },
+      {
+        "characterId": "buggy",
+        "role": "Apprentice",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "status": "FORMER_MEMBER"
+      }
+    ],
+    "territory": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 8,
+        "eventId": "ep008-event-001",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Roger Pirates Revealed in Flashback",
+        "description": "The crew is shown for the first time in a flashback, with young Buggy and Shanks serving as apprentices aboard the Oro Jackson.",
+        "significance": "First appearance of the legendary crew that will be revealed as belonging to the Pirate King. This establishes the deep history connecting several important characters.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 8,
+        "eventId": "ep008-event-002",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Rayleigh's First Appearance",
+        "description": "Silvers Rayleigh is shown aboard the Oro Jackson, though his identity and role are not yet revealed.",
+        "significance": "Introduction of a legendary figure who will become crucial to the story.",
+        "timestamp": "04:30"
+      },
+      {
+        "episodeNumber": 8,
+        "eventId": "ep008-event-003",
+        "momentType": "BACKSTORY_REVEAL",
+        "title": "Buggy's Devil Fruit Incident",
+        "description": "The flashback shows the incident where Buggy accidentally consumed the Bara Bara no Mi aboard the Oro Jackson.",
+        "significance": "Reveals a pivotal moment that shaped Buggy's character and his relationship with Shanks.",
+        "timestamp": "05:15"
+      }
+    ],
+    "status": "DISBANDED",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 8,
+        "episodeEnd": 8,
+        "reason": "Active during flashback period"
+      },
+      {
+        "status": "DISBANDED",
+        "episodeStart": 8,
+        "episodeEnd": "present",
+        "reason": "Crew disbanded at some point between flashback and present (details not yet revealed)"
+      }
+    ],
+    "affiliatedLocations": ["oro-jackson"],
+    "reveals": [
+      {
+        "infoType": "EXISTENCE",
+        "information": "First appearance of the crew shown in flashback",
+        "episodeRevealed": 8,
+        "severity": "CRITICAL"
+      },
+      {
+        "infoType": "MEMBERS",
+        "information": "Buggy and Shanks served as apprentices on this crew",
+        "episodeRevealed": 8,
+        "severity": "MAJOR"
+      },
+      {
+        "infoType": "SHIP",
+        "information": "Crew sailed on the Oro Jackson",
+        "episodeRevealed": 8,
+        "severity": "MAJOR"
+      }
+    ]
+  },
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "debutEpisode": 1,
+    "episodeAppearances": [8],
+    "jollyRoger": {
+      "description": "A skull wearing a straw hat with crossbones behind it",
+      "symbolism": "Represents Luffy's signature straw hat and his dream to become Pirate King"
+    },
+    "captain": {
+      "characterId": "luffy",
+      "name": "Monkey D. Luffy"
+    },
+    "ship": {
+      "name": "Small boats",
+      "locationId": "small-boats"
+    },
+    "members": [
+      {
+        "characterId": "luffy",
+        "role": "Captain",
+        "episodeJoined": 1,
+        "episodeLeft": null,
+        "status": "ACTIVE"
+      },
+      {
+        "characterId": "zoro",
+        "role": "Combatant",
+        "episodeJoined": 2,
+        "episodeLeft": null,
+        "status": "ACTIVE"
+      },
+      {
+        "characterId": "nami",
+        "role": "Navigator",
+        "episodeJoined": 8,
+        "episodeLeft": null,
+        "status": "ACTIVE"
+      }
+    ],
+    "territory": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 8,
+        "eventId": "ep008-event-011",
+        "momentType": "CREW_JOIN",
+        "title": "Nami Officially Joins as Navigator",
+        "description": "After witnessing Luffy's character and the crew's adventure in Orange Town, Nami officially agrees to join the Straw Hat Pirates as their navigator.",
+        "significance": "The crew gains its third member and first female member. Nami's navigation skills are essential for reaching the Grand Line.",
+        "timestamp": "19:45"
+      },
+      {
+        "episodeNumber": 8,
+        "eventId": "ep008-event-008",
+        "momentType": "BATTLE_END",
+        "title": "Victory Over Buggy",
+        "description": "The Straw Hat Pirates defeat Buggy and liberate Orange Town from his terror.",
+        "significance": "Demonstrates the crew's growing strength and Luffy's ability to defeat powerful Devil Fruit users.",
+        "timestamp": "15:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 1,
+        "episodeEnd": "present",
+        "reason": "Crew is actively recruiting and adventuring"
+      }
+    ],
+    "affiliatedLocations": ["orange-town"],
+    "reveals": [
+      {
+        "infoType": "MEMBER_JOIN",
+        "information": "Nami officially joins as the crew's navigator",
+        "episodeRevealed": 8,
+        "severity": "MAJOR"
+      },
+      {
+        "infoType": "STRENGTH",
+        "information": "Crew demonstrates ability to defeat Devil Fruit users through teamwork",
+        "episodeRevealed": 8,
+        "severity": "MAJOR"
+      }
+    ]
+  }
+]

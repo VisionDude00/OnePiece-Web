@@ -1,0 +1,140 @@
+[
+  {
+    "name": {
+      "english": "Shells Town",
+      "japanese": "シェルズタウン",
+      "romanized": "Sheruzu Taun"
+    },
+    "locationType": "TOWN",
+    "seaRegion": "EAST_BLUE",
+    "islandName": "Unknown Island",
+    "debutEpisode": 2,
+    "debutChapter": 3,
+    "description": "A small town in the East Blue controlled by the tyrannical Marine Captain Morgan and his 153rd Branch.",
+    "episodeAppearances": [2],
+    "keyEvents": [
+      {
+        "episodeNumber": 2,
+        "eventId": "ep002-event-001",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Luffy and Koby Arrive at Shells Town",
+        "description": "Luffy and Koby arrive at Shells Town seeking food and information about Roronoa Zoro.",
+        "significance": "First visit to a Marine-controlled town and the location where Luffy recruits his first crew member.",
+        "timestamp": "04:00"
+      },
+      {
+        "episodeNumber": 2,
+        "eventId": "ep002-event-004",
+        "eventType": "BACKSTORY_REVEAL",
+        "title": "Town's Oppression Revealed",
+        "description": "The townspeople reveal that Captain Morgan rules the town with an iron fist, and no one dares to oppose him.",
+        "significance": "Establishes the corrupt nature of some Marines and the suffering of innocent civilians.",
+        "timestamp": "09:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 2,
+        "episodeEnd": "present",
+        "reason": "Town is under Marine control"
+      }
+    ],
+    "parentLocation": "East Blue",
+    "childLocations": ["Marine Base (153rd Branch)"],
+    "relatedCharacters": ["luffy", "koby", "zoro", "morgan", "helmeppo", "rika", "ririka"],
+    "relatedCrews": ["marines-153rd-branch"],
+    "relatedArcs": ["Romance Dawn"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Marine Base (153rd Branch)",
+      "japanese": "海軍基地第153支部",
+      "romanized": "Kaigun Kichi Dai 153 Shibu"
+    },
+    "locationType": "MILITARY_BASE",
+    "seaRegion": "EAST_BLUE",
+    "islandName": "Unknown Island",
+    "debutEpisode": 2,
+    "debutChapter": 3,
+    "description": "The Marine base in Shells Town commanded by Captain Morgan, where Roronoa Zoro is imprisoned.",
+    "episodeAppearances": [2],
+    "keyEvents": [
+      {
+        "episodeNumber": 2,
+        "eventId": "ep002-event-001",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Zoro Imprisoned at Marine Base",
+        "description": "Roronoa Zoro is shown tied up in the courtyard of the Marine base, enduring his sentence.",
+        "significance": "The location of Zoro's first appearance and where Luffy recruits him.",
+        "timestamp": "05:30"
+      },
+      {
+        "episodeNumber": 2,
+        "eventId": "ep002-event-011",
+        "eventType": "BATTLE_START",
+        "title": "Luffy Infiltrates the Base",
+        "description": "Luffy sneaks into the Marine base to retrieve Zoro's swords from Captain Morgan's office.",
+        "significance": "First direct confrontation with Marines and establishment of Luffy's willingness to oppose corrupt authority.",
+        "timestamp": "18:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 2,
+        "episodeEnd": "present",
+        "reason": "Base is operational under Captain Morgan"
+      }
+    ],
+    "parentLocation": "Shells Town",
+    "childLocations": [],
+    "relatedCharacters": ["zoro", "morgan", "helmeppo", "luffy", "koby"],
+    "relatedCrews": ["marines-153rd-branch"],
+    "relatedArcs": ["Romance Dawn"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Shimotsuki Village",
+      "japanese": "シモツキ村",
+      "romanized": "Shimotsuki Mura"
+    },
+    "locationType": "VILLAGE",
+    "seaRegion": "EAST_BLUE",
+    "islandName": "Unknown Island",
+    "debutEpisode": 2,
+    "debutChapter": 5,
+    "description": "A village in the East Blue where Zoro trained in his childhood with Kuina. Appears in flashback.",
+    "episodeAppearances": [2],
+    "keyEvents": [
+      {
+        "episodeNumber": 2,
+        "eventId": "ep002-event-006",
+        "eventType": "BACKSTORY_REVEAL",
+        "title": "Zoro's Training Flashback",
+        "description": "Brief flashback shows young Zoro training with Kuina at a dojo in Shimotsuki Village.",
+        "significance": "First glimpse of Zoro's past and the origin of his dream.",
+        "timestamp": "08:15"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 2,
+        "episodeEnd": "present",
+        "reason": "Village appears in flashback"
+      }
+    ],
+    "parentLocation": "East Blue",
+    "childLocations": [],
+    "relatedCharacters": ["zoro", "kuina"],
+    "relatedCrews": [],
+    "relatedArcs": ["Romance Dawn"],
+    "images": []
+  }
+]
