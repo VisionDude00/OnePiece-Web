@@ -1,0 +1,514 @@
+{
+  "episodeNumber": 46,
+  "episodeTitle": "Chase Straw Hat! Little Buggy's Big Adventure!",
+  "description": "After his defeat by Luffy, Buggy embarks on a journey across multiple islands to reunite his scattered body parts and find his crew. He eventually meets Gaimon on the Island of Rare Animals before forming an unexpected alliance with a transformed Alvida.",
+  "airDate": "2000-11-01",
+  "airDateJapan": "2000-11-01",
+  "airDateUS": "2009-03-31",
+  "arcName": "Buggy's Crew Adventure Chronicles",
+  "sagaName": "East Blue Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Are!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [1, 47]
+  },
+  "endingSong": {
+    "title": "RUN! RUN! RUN!",
+    "artist": "Maki Otsuki",
+    "episodeRange": [31, 63]
+  },
+  "credits": {
+    "animationDirector": "Kenji Yokoyama",
+    "director": "Munehisa Sakai",
+    "screenplay": "Junki Takegami",
+    "artDirector": "Tomoko Yoshida",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Buggy",
+        "actor": "Shigeru Chiba"
+      },
+      {
+        "character": "Gaimon",
+        "actor": "Toru Ohira"
+      },
+      {
+        "character": "Alvida",
+        "actor": "Yoko Matsuoka"
+      },
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Buggy",
+        "actor": "Mike McFarland"
+      },
+      {
+        "character": "Gaimon",
+        "actor": "Jonathan C. Osborne"
+      },
+      {
+        "character": "Alvida",
+        "actor": "Laurie Steele"
+      },
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep046-event-001",
+      "episodeNumber": 46,
+      "timestamp": "02:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Buggy Stranded on First Island",
+      "description": "After being punched away by Luffy in Orange Town, Buggy finds himself stranded on a remote island, separated from his body parts. He has been reduced to just his head, hands, and feet, appearing much smaller than his normal height.",
+      "significance": "Sets up Buggy's solo adventure arc and shows the aftermath of his defeat by the Straw Hat Pirates.",
+      "characterIds": ["buggy"],
+      "locationIds": ["first-island-buggy"],
+      "quotes": [
+        {
+          "text": "Where am I? What happened to my body parts?",
+          "speaker": "Buggy",
+          "context": "Buggy realizes he's been separated from most of his body"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [8],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [8]
+    },
+    {
+      "id": "ep046-event-002",
+      "episodeNumber": 46,
+      "timestamp": "04:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Buggy Builds a Raft",
+      "description": "Demonstrating his resourcefulness and determination, Buggy constructs a makeshift raft from materials found on the island to continue his journey and search for his crew.",
+      "significance": "Shows Buggy's perseverance and survival skills despite his comedic nature.",
+      "characterIds": ["buggy"],
+      "locationIds": ["first-island-buggy"],
+      "quotes": [
+        {
+          "text": "I won't let this stop me! I'll find my crew and get revenge on that Straw Hat!",
+          "speaker": "Buggy",
+          "context": "Buggy's determination to reunite with his crew and pursue Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep046-event-003",
+      "episodeNumber": 46,
+      "timestamp": "06:45",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Piranha Attack",
+      "description": "While sailing on his raft, Buggy is attacked by a school of aggressive piranhas. Despite his diminished size, he manages to fend them off using his Chop-Chop Fruit abilities, though he barely makes it to the next island.",
+      "significance": "Demonstrates that Buggy can still use his Devil Fruit powers effectively even when separated from most of his body.",
+      "characterIds": ["buggy"],
+      "devilFruitIds": ["bara-bara-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep046-event-004",
+      "episodeNumber": 46,
+      "timestamp": "09:20",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Bird Attack and Flight",
+      "description": "On the second island, Buggy encounters a massive bird that initially tries to eat him. Finding Buggy unpalatable, the bird spits him out, launching him high into the air and sending him flying to yet another island.",
+      "significance": "Adds comedic relief while advancing Buggy's journey toward the Island of Rare Animals where he'll meet Gaimon.",
+      "characterIds": ["buggy"],
+      "quotes": [
+        {
+          "text": "Not again! How many islands do I have to go through?!",
+          "speaker": "Buggy",
+          "context": "Buggy's frustration at being continuously thrown from island to island"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep046-event-005",
+      "episodeNumber": 46,
+      "timestamp": "11:45",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Buggy Arrives at Island of Rare Animals",
+      "description": "After his chaotic journey, Buggy crash-lands on the Island of Rare Animals, the same island the Straw Hat Pirates visited in Episode 18. This sets the stage for his encounter with Gaimon.",
+      "significance": "Connects this episode back to an earlier Straw Hat adventure and establishes the location for Buggy and Gaimon's meeting.",
+      "characterIds": ["buggy"],
+      "locationIds": ["island-of-rare-animals"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [18],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [18]
+    },
+    {
+      "id": "ep046-event-006",
+      "episodeNumber": 46,
+      "timestamp": "13:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Buggy and Gaimon Meet",
+      "description": "Buggy encounters Gaimon, the man trapped in a treasure chest who guards the island's rare animals. Initially, Gaimon suspects Buggy might be a poacher, but after a brief confrontation, they discover they're both pirates.",
+      "significance": "Creates an unexpected friendship between two unusual characters who were both previously encountered by Luffy, though neither knows of their connection to the Straw Hat captain.",
+      "characterIds": ["buggy", "gaimon"],
+      "locationIds": ["island-of-rare-animals"],
+      "quotes": [
+        {
+          "text": "You're not here to harm the animals, are you?",
+          "speaker": "Gaimon",
+          "context": "Gaimon's protective instinct for the island's creatures"
+        },
+        {
+          "text": "I'm a pirate, not some animal poacher!",
+          "speaker": "Buggy",
+          "context": "Buggy defending himself against Gaimon's accusation"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [18],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [18]
+    },
+    {
+      "id": "ep046-event-007",
+      "episodeNumber": 46,
+      "timestamp": "16:00",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MINOR",
+      "title": "Buggy and Gaimon Bond Over Drinks",
+      "description": "After their initial confrontation, Buggy and Gaimon sit together by a campfire, sharing drinks and stories. They bond over their experiences as pirates, with Gaimon mentioning his encounter with a young pirate (Luffy) who inspired him. Ironically, neither realizes they both know Luffy.",
+      "significance": "Shows a softer side to Buggy and creates an ironic connection between characters who have all encountered Luffy. It also demonstrates Gaimon's lasting impact from meeting the Straw Hats.",
+      "characterIds": ["buggy", "gaimon"],
+      "locationIds": ["island-of-rare-animals"],
+      "quotes": [
+        {
+          "text": "A young pirate came through here recently. He reminded me what it means to pursue your dreams.",
+          "speaker": "Gaimon",
+          "context": "Gaimon reflecting on his meeting with Luffy, unaware he's talking to Luffy's enemy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [18],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [18]
+    },
+    {
+      "id": "ep046-event-008",
+      "episodeNumber": 46,
+      "timestamp": "18:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Alvida's Dramatic Transformation Revealed",
+      "description": "A mysterious beautiful woman appears before Buggy, revealing herself to be Alvida. She has been completely transformed by the power of the Sube Sube no Mi (Slip-Slip Fruit), which made her body smooth and slippery while causing all her excess weight to 'slip off'. Her appearance is now drastically different from her previous form.",
+      "significance": "First appearance of Alvida's transformed look and the debut of the Sube Sube no Mi in the anime. This marks a major character redesign and introduces a Devil Fruit with unique cosmetic side effects.",
+      "characterIds": ["alvida", "buggy"],
+      "locationIds": ["island-of-rare-animals"],
+      "devilFruitIds": ["sube-sube-no-mi"],
+      "quotes": [
+        {
+          "text": "It's me, Alvida. Don't you recognize me?",
+          "speaker": "Alvida",
+          "context": "Alvida revealing her identity to a shocked Buggy"
+        },
+        {
+          "text": "You... you're Alvida?! What happened to you?!",
+          "speaker": "Buggy",
+          "context": "Buggy's disbelief at Alvida's transformation"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [1, 2],
+      "payoffInEpisodes": [53],
+      "callbacksToEpisodes": [1, 2]
+    },
+    {
+      "id": "ep046-event-009",
+      "episodeNumber": 46,
+      "timestamp": "19:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Sube Sube no Mi Abilities Demonstrated",
+      "description": "Alvida demonstrates the power of the Sube Sube no Mi, showing how attacks and objects slide harmlessly off her smooth skin. She also reveals that eating the fruit caused all her excess fat to slip away, resulting in her dramatic physical transformation.",
+      "significance": "Establishes the abilities and unique side effects of the Sube Sube no Mi. This is the first Devil Fruit shown to have permanent cosmetic effects on the user's appearance.",
+      "characterIds": ["alvida"],
+      "devilFruitIds": ["sube-sube-no-mi"],
+      "quotes": [
+        {
+          "text": "This is the power of the Sube Sube no Mi. Everything slips right off me!",
+          "speaker": "Alvida",
+          "context": "Alvida explaining her Devil Fruit's abilities"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [53],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep046-event-010",
+      "episodeNumber": 46,
+      "timestamp": "21:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Buggy and Alvida Form Alliance",
+      "description": "Discovering they share a common enemy in Monkey D. Luffy, Buggy and Alvida agree to form an alliance. Both pirates are determined to pursue the Straw Hat Pirates and settle their scores with Luffy.",
+      "significance": "Establishes the Buggy-Alvida alliance that will play a role in future episodes, particularly in Loguetown. This partnership combines two of Luffy's earliest defeated enemies.",
+      "characterIds": ["buggy", "alvida"],
+      "crewIds": ["buggy-pirates", "alvida-pirates"],
+      "quotes": [
+        {
+          "text": "We both have a score to settle with that Straw Hat brat. Let's work together.",
+          "speaker": "Alvida",
+          "context": "Alvida proposing the alliance"
+        },
+        {
+          "text": "Damn you, Straw Hat! Someday, I will settle the score with you! Just you wait!",
+          "speaker": "Buggy",
+          "context": "Buggy vowing revenge against Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [1, 2, 8],
+      "payoffInEpisodes": [45, 48, 53],
+      "callbacksToEpisodes": [1, 2, 8]
+    },
+    {
+      "id": "ep046-event-011",
+      "episodeNumber": 46,
+      "timestamp": "22:30",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MINOR",
+      "title": "Buggy and Alvida Depart Together",
+      "description": "Buggy and Alvida set sail together, leaving the Island of Rare Animals to continue their pursuit of the Straw Hat Pirates. Gaimon remains behind to continue protecting the island's animals.",
+      "significance": "Concludes the episode and sets up future encounters between these allied pirates and the Straw Hat crew.",
+      "characterIds": ["buggy", "alvida", "gaimon"],
+      "locationIds": ["island-of-rare-animals"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [45, 48, 53],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": ["sube-sube-no-mi"],
+    "crews": [],
+    "abilities": ["slip-slip-defense"]
+  },
+  "episodeRelationships": {
+    "setupFor": [47, 48, 53],
+    "payoffFrom": [1, 2, 8, 18],
+    "thematicLinks": [18, 45]
+  },
+  "quotes": [
+    {
+      "text": "Damn you, Straw Hat! Someday, I will settle the score with you! Just you wait!",
+      "speaker": "Buggy",
+      "context": "Buggy's vow of revenge against Luffy",
+      "timestamp": "21:15"
+    },
+    {
+      "text": "This is the power of the Sube Sube no Mi. Everything slips right off me!",
+      "speaker": "Alvida",
+      "context": "Alvida demonstrating her Devil Fruit abilities",
+      "timestamp": "19:30"
+    },
+    {
+      "text": "We both have a score to settle with that Straw Hat brat. Let's work together.",
+      "speaker": "Alvida",
+      "context": "Proposing the alliance with Buggy",
+      "timestamp": "21:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Persistence and Determination",
+      "description": "Despite his comedic mishaps and defeats, Buggy demonstrates remarkable persistence in pursuing his goals, building rafts, and surviving multiple dangerous encounters.",
+      "symbolism": "Buggy's reduced size and separated body parts symbolize his current weakness, yet he continues forward.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Unlikely Connections",
+      "description": "The episode explores ironic connections between characters who have all encountered Luffy without realizing their shared link.",
+      "symbolism": "The Island of Rare Animals serves as a meeting point for characters from different storylines.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Transformation and Change",
+      "description": "Alvida's physical transformation represents both literal change through Devil Fruit power and character evolution as she adapts to her defeat.",
+      "symbolism": "Alvida's new appearance symbolizes reinvention after defeat.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Comedic", "Adventurous", "Ironic"],
+  "characterSpotlights": [
+    {
+      "characterId": "buggy",
+      "role": "Protagonist of this adventure",
+      "development": "Buggy shows his resourceful side and capacity for friendship despite his villainous nature. His determination to pursue Luffy drives the episode.",
+      "keyActions": [
+        "Builds a raft to escape the first island",
+        "Survives piranha and bird attacks",
+        "Befriends Gaimon",
+        "Forms alliance with Alvida"
+      ],
+      "quotes": [
+        "Damn you, Straw Hat! Someday, I will settle the score with you! Just you wait!"
+      ]
+    },
+    {
+      "characterId": "alvida",
+      "role": "Transformed antagonist and new ally",
+      "development": "Alvida's dramatic transformation showcases her adaptation to defeat. Rather than giving up, she gained power through a Devil Fruit and seeks revenge.",
+      "keyActions": [
+        "Reveals her transformed appearance",
+        "Demonstrates Sube Sube no Mi abilities",
+        "Proposes alliance with Buggy"
+      ],
+      "quotes": [
+        "This is the power of the Sube Sube no Mi. Everything slips right off me!"
+      ]
+    },
+    {
+      "characterId": "gaimon",
+      "role": "Supporting character and connector",
+      "development": "Gaimon shows growth from his previous episode, remaining committed to protecting the island while maintaining his positive outlook on piracy inspired by Luffy.",
+      "keyActions": [
+        "Confronts Buggy to protect animals",
+        "Befriends Buggy over drinks",
+        "Shares his inspiration from meeting Luffy"
+      ],
+      "quotes": [
+        "A young pirate came through here recently. He reminded me what it means to pursue your dreams."
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "This episode is adapted from cover story illustrations in the manga, not from actual manga chapters. The cover story 'Buggy's Crew: After the Battle!' ran from Chapter 35 to Chapter 75.",
+      "episodeTimestamp": "00:00",
+      "mangaReference": "Cover story: Buggy's Crew: After the Battle! (Chapters 35-75)",
+      "type": "ANIME_ORIGINAL_EXPANSION"
+    },
+    {
+      "difference": "The detailed scenes of Buggy's journey including the piranha attack, bird encounter, and extended conversation with Gaimon are anime-original expansions of single cover page illustrations.",
+      "episodeTimestamp": "04:00",
+      "mangaReference": "Cover story panels",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This is the first episode of the Buggy's Crew Adventure Chronicles mini-arc, which adapts the manga's first cover story into full episodes.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_46",
+          "title": "Episode 46 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode was completely skipped in the 4Kids English dub, making Buggy's return in Loguetown unexplained for those viewers.",
+      "category": "LOCALIZATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Buggy%27s_Crew_Adventure_Chronicles",
+          "title": "Buggy's Crew Adventure Chronicles - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The Sube Sube no Mi is the first Devil Fruit shown in the series to have a dramatic cosmetic side effect, permanently altering the user's appearance.",
+      "category": "DEVIL_FRUIT",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Sube_Sube_no_Mi",
+          "title": "Sube Sube no Mi - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 46 aired with a TV rating of 14.4%, ranking 6th in viewership for that week in Japan.",
+      "category": "RATINGS",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_46",
+          "title": "Episode 46 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The ironic situation where Buggy and Gaimon both know Luffy but don't realize it creates a comedic dramatic irony for viewers.",
+      "category": "STORYTELLING",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
