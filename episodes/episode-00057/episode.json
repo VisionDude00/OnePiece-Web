@@ -1,0 +1,513 @@
+{
+  "episodeNumber": 57,
+  "episodeTitle": "Lone Island in a Distant Sea! The Legendary Lost Island",
+  "episodeTitleJapanese": "絶海の孤島！伝説のロストアイランド",
+  "episodeTitleRomanized": "Zekkai no Kotō! Densetsu no Rosuto Airando",
+  "description": "The Straw Hat crew navigates through mirages and storms to reach a mysterious island hidden in a distant sea. Upon arrival, they discover an ancient temple with cryptic murals that reveal Lost Island's true location. Luffy debuts a new technique to rescue Ryu during the storm, and the crew falls into the temple ruins where ancient paintings trigger Ryu's memory about the dragon nesting grounds.",
+  "airDate": "2001-02-07",
+  "airDateJapan": "2001-02-07",
+  "airDateUS": "2009-06-30",
+  "arcName": "Warship Island Arc",
+  "sagaName": "East Blue Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Are!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [1, 47]
+  },
+  "endingSong": {
+    "title": "RUN! RUN! RUN!",
+    "artist": "Maki Otsuki",
+    "episodeRange": [31, 63]
+  },
+  "credits": {
+    "director": "Yoko Ikeda",
+    "screenplay": "Junki Takegami",
+    "artDirector": "Kunihiro Chida",
+    "animationDirector": "Kazuo Takigawa",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Apis",
+        "actor": "Masami Suzuki"
+      },
+      {
+        "character": "Eric",
+        "actor": "Ryusei Nakao"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Apis",
+        "actor": "Brittney Karbowski"
+      },
+      {
+        "character": "Eric",
+        "actor": "Kenny Green"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep057-event-001",
+      "episodeNumber": 57,
+      "timestamp": "03:45",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Mirage Sighting",
+      "description": "The Going Merry is surrounded by thick fog, and the crew spots what appears to be an island. Nami confirms it's a mirage when Usopp points it out, demonstrating the mysterious nature of the area they're navigating.",
+      "significance": "Establishes the supernatural and hidden nature of the Lost Island's location, showing that finding it requires navigating through illusions and natural barriers.",
+      "characterIds": ["nami", "usopp"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "That's just a mirage. It's not the real island.",
+          "speaker": "Nami",
+          "context": "Nami uses her navigation knowledge to identify the optical illusion"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [54, 55, 56],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep057-event-002",
+      "episodeNumber": 57,
+      "timestamp": "05:20",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Nami Explains Mirages",
+      "description": "Nami provides a scientific explanation of how mirages form, demonstrating her navigational expertise and knowledge. She explains the optical phenomena that make islands appear where they aren't.",
+      "significance": "Showcases Nami's role as the crew's navigator and her intellectual contributions beyond map-reading. This moment also adds realism to the fantastical setting.",
+      "characterIds": ["nami"],
+      "locationIds": ["going-merry"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep057-event-003",
+      "episodeNumber": 57,
+      "timestamp": "07:15",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Storm Strikes the Going Merry",
+      "description": "The weather suddenly changes and the Going Merry is caught in a violent storm with powerful waves. The sudden shift demonstrates the dangerous and unpredictable nature of the Grand Line approach waters.",
+      "significance": "Creates immediate danger for the crew and Ryu, testing their ability to protect their dragon passenger and showcasing the natural hazards they face.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji"],
+      "locationIds": ["going-merry"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep057-event-004",
+      "episodeNumber": 57,
+      "timestamp": "08:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Gomu Gomu no Nagenawa Debut",
+      "description": "When the storm's strong waves break the ropes towing Ryu's raft, Luffy debuts a new technique: Gomu Gomu no Nagenawa (Gum-Gum Lasso). He entwines his body around the Going Merry's mast and stretches his arm to lasso and pull Ryu to safety, with Zoro's help catching the broken ropes.",
+      "significance": "First appearance of this rescue-oriented technique, demonstrating Luffy's creative use of his Devil Fruit powers for protection rather than combat. Shows the crew's teamwork with Zoro and Luffy working together.",
+      "characterIds": ["luffy", "zoro", "ryu"],
+      "locationIds": ["going-merry"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [
+        {
+          "text": "Gomu Gomu no... Nagenawa!",
+          "speaker": "Luffy",
+          "context": "Luffy's first use of his lasso technique to save Ryu from being swept away"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep057-event-005",
+      "episodeNumber": 57,
+      "timestamp": "10:00",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Discovery of the Hidden Island",
+      "description": "Usopp spots an island at the eye of the storm, and Nami decides they should head toward it. The crew successfully navigates through the dangerous weather to reach the mysterious island.",
+      "significance": "Marks the arrival at what they believe could be the Lost Island. Nami notes that an island hidden by mirages and surrounded by stormy seas explains why no one has ever found it before.",
+      "characterIds": ["usopp", "nami", "luffy", "zoro", "sanji"],
+      "locationIds": ["going-merry", "lost-island"],
+      "quotes": [
+        {
+          "text": "An island hidden by a mirage and surrounded by stormy seas... that must be why no one has ever found it!",
+          "speaker": "Nami",
+          "context": "Nami deduces why the Lost Island has remained undiscovered"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [54, 55, 56],
+      "payoffInEpisodes": [58, 59, 60, 61],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep057-event-006",
+      "episodeNumber": 57,
+      "timestamp": "12:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Landing on the Island",
+      "description": "The Straw Hats successfully bring the Going Merry to shore and haul Ryu onto the island. However, Ryu remains uncertain whether this is actually the Lost Island he remembers.",
+      "significance": "The crew has reached their destination, but uncertainty about whether it's the correct location creates tension and mystery.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "apis", "ryu"],
+      "locationIds": ["lost-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep057-event-007",
+      "episodeNumber": 57,
+      "timestamp": "14:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Lunch Preparation",
+      "description": "Apis serves lunch to the crew and Ryu while they rest on the island. This moment of calm provides a respite before the next discovery.",
+      "significance": "Shows the crew's routine and care for both each other and their dragon passenger, highlighting their bond with Apis and Ryu.",
+      "characterIds": ["apis", "ryu", "luffy", "sanji"],
+      "locationIds": ["lost-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep057-event-008",
+      "episodeNumber": 57,
+      "timestamp": "15:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Hot Pot Triggers Ryu's Memory",
+      "description": "While Apis is serving lunch, hot soup accidentally spills on Ryu's head. The sudden sensation wakes him from his drowsy state and begins to jog his memory about the location of the true Lost Island.",
+      "significance": "A comedic accident becomes the catalyst for a major revelation. This moment shows that sometimes important discoveries come from unexpected circumstances.",
+      "characterIds": ["apis", "ryu"],
+      "locationIds": ["lost-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [58, 59, 60],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep057-event-009",
+      "episodeNumber": 57,
+      "timestamp": "16:45",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Discovery of the Ancient Temple",
+      "description": "The crew finds a building with a dragon emblem on it. Apis notices a hole in the door that matches the shape of her pendant, suggesting a connection between her pendant and this ancient structure.",
+      "significance": "Establishes a link between Apis's pendant and the dragon civilization, suggesting the pendant may be a key to unlocking ancient secrets about the Sennenryu.",
+      "characterIds": ["apis", "luffy", "zoro", "nami", "usopp", "sanji"],
+      "locationIds": ["lost-island", "ancient-temple"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [54],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep057-event-010",
+      "episodeNumber": 57,
+      "timestamp": "18:00",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Ground Collapse into Temple Ruins",
+      "description": "Before the crew can investigate the temple door with Apis's pendant, the ground beneath them suddenly collapses. The entire crew falls into what appears to be the ancient temple's interior chamber.",
+      "significance": "Forces the crew into the temple through an unexpected entrance, creating immediate danger while also providing access to the hidden knowledge they seek.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "apis"],
+      "locationIds": ["ancient-temple"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep057-event-011",
+      "episodeNumber": 57,
+      "timestamp": "19:15",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Ancient Murals Reveal Lost Island's True Location",
+      "description": "Inside the temple chamber, the crew looks up at the ceiling and discovers elaborate ancient murals depicting dragons and locations. These paintings contain crucial clues about where the real Lost Island actually is located.",
+      "significance": "Major revelation that provides the key information the crew needs. The murals represent ancient dragon civilization knowledge preserved for centuries, waiting to guide future generations.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "apis", "ryu"],
+      "locationIds": ["ancient-temple"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [54, 55, 56],
+      "payoffInEpisodes": [58, 59, 60, 61],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep057-event-012",
+      "episodeNumber": 57,
+      "timestamp": "20:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Ryu Remembers: The Nesting Grounds Are at Warship Island",
+      "description": "Upon seeing the ancient murals in the temple, Ryu's memories fully return. He recalls that the dragon's nesting grounds - the true Lost Island - are actually back at Warship Island, not this distant island they've reached.",
+      "significance": "Major plot twist that reveals the crew has been searching in the wrong place. The Lost Island they seek has been at Warship Island all along, just beneath the surface. This realization will send them back to face the Marines and Eric.",
+      "characterIds": ["ryu", "apis"],
+      "locationIds": ["ancient-temple"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [54, 55, 56],
+      "payoffInEpisodes": [58, 59, 60, 61],
+      "callbacksToEpisodes": [54, 55, 56]
+    },
+    {
+      "id": "ep057-event-013",
+      "episodeNumber": 57,
+      "timestamp": "21:45",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MAJOR",
+      "title": "Eric Tracks the Straw Hats to the Island",
+      "description": "Eric the Whirlwind has followed the Straw Hat Pirates throughout their journey and arrives on the island. He prepares to confront them as they are about to leave the temple.",
+      "significance": "Sets up the inevitable confrontation between Eric and the crew. Shows Eric's persistence and determination to capture Ryu for his own purposes.",
+      "characterIds": ["eric"],
+      "locationIds": ["lost-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [54, 55, 56],
+      "payoffInEpisodes": [58, 59, 60],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep057-event-014",
+      "episodeNumber": 57,
+      "timestamp": "22:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Eric Confronts the Straw Hats",
+      "description": "As the crew emerges from the temple with their newfound knowledge, Eric confronts them. He engages Zoro in combat, using his Kama Kama no Mi abilities.",
+      "significance": "Marks the beginning of the direct conflict with Eric on this island. Zoro takes on the role of protecting the crew from this Devil Fruit user.",
+      "characterIds": ["eric", "zoro", "luffy"],
+      "locationIds": ["lost-island"],
+      "devilFruitIds": ["kama-kama-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [54, 55, 56],
+      "payoffInEpisodes": [58, 59, 60],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": ["lost-island", "ancient-temple"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["gomu-gomu-no-nagenawa"]
+  },
+  "episodeRelationships": {
+    "setupFor": [58, 59, 60, 61],
+    "payoffFrom": [54, 55, 56],
+    "thematicLinks": []
+  },
+  "quotes": [
+    {
+      "text": "Gomu Gomu no... Nagenawa!",
+      "speaker": "Luffy",
+      "context": "Luffy's first use of his lasso technique to save Ryu",
+      "timestamp": "08:30"
+    },
+    {
+      "text": "An island hidden by a mirage and surrounded by stormy seas... that must be why no one has ever found it!",
+      "speaker": "Nami",
+      "context": "Nami deduces why the Lost Island has remained hidden",
+      "timestamp": "10:00"
+    },
+    {
+      "text": "That's just a mirage. It's not the real island.",
+      "speaker": "Nami",
+      "context": "Nami identifies the optical illusion",
+      "timestamp": "03:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Journey and Discovery",
+      "description": "The episode emphasizes that the journey itself reveals truths, as the crew must navigate through natural barriers and false leads to discover that the answer was back where they started.",
+      "symbolism": "The mirage represents false paths and illusions in the pursuit of goals, while the ancient temple symbolizes preserved knowledge waiting to be rediscovered.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Friendship and Protection",
+      "description": "The crew's dedication to protecting Ryu during the storm and helping Apis find the Lost Island demonstrates their compassion for those in need, even when facing danger.",
+      "symbolism": "Luffy's lasso technique literally represents the crew's bond - reaching out to protect and save those they care about.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Ancient Wisdom",
+      "description": "The temple murals show that knowledge from past civilizations can guide present generations, emphasizing the importance of history and preservation of cultural heritage.",
+      "symbolism": "The dragon murals represent the wisdom of ancient dragon civilization, preserved in stone to guide future Sennenryu back home.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Adventurous", "Mysterious", "Suspenseful", "Hopeful"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protector and Leader",
+      "development": "Luffy demonstrates creative problem-solving by developing a new rescue technique on the spot, showing his growth in utilizing his Devil Fruit powers beyond combat.",
+      "keyActions": [
+        "Debuts Gomu Gomu no Nagenawa to save Ryu during the storm",
+        "Leads the crew through the dangerous weather to the island",
+        "Explores the ancient temple with his crewmates"
+      ],
+      "quotes": ["Gomu Gomu no... Nagenawa!"]
+    },
+    {
+      "characterId": "nami",
+      "role": "Navigator and Strategist",
+      "development": "Nami showcases her navigation expertise by identifying mirages, explaining the science behind them, and making the crucial decision to head toward the island in the storm's eye.",
+      "keyActions": [
+        "Identifies the mirage and explains the optical phenomenon",
+        "Navigates the Going Merry through the storm to the hidden island",
+        "Deduces why the island has remained undiscovered"
+      ],
+      "quotes": ["An island hidden by a mirage and surrounded by stormy seas... that must be why no one has ever found it!"]
+    },
+    {
+      "characterId": "ryu",
+      "role": "Key to the Mystery",
+      "development": "Ryu's memories begin to return through physical triggers, leading to the crucial revelation about the Lost Island's true location.",
+      "keyActions": [
+        "Is rescued by Luffy during the storm",
+        "Memory begins to return when hot soup spills on him",
+        "Recalls the true location of the nesting grounds upon seeing the temple murals"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "apis",
+      "role": "Guide and Caretaker",
+      "development": "Apis continues to care for Ryu and her pendant is revealed to have a connection to the ancient temple, suggesting her importance to the dragons' history.",
+      "keyActions": [
+        "Cares for Ryu during the journey",
+        "Notices her pendant matches the temple door",
+        "Translates Ryu's realization about the Lost Island's location"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "This entire episode is anime-only filler content. The Warship Island arc does not appear in the original One Piece manga.",
+      "episodeTimestamp": "00:00",
+      "mangaReference": "N/A",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "Gomu Gomu no Nagenawa is an anime-original technique that debuts in this episode. While similar lasso techniques appear in the manga, this specific debut is anime-only.",
+      "episodeTimestamp": "08:30",
+      "mangaReference": "N/A",
+      "type": "ANIME_ORIGINAL_CONTENT"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode aired on February 7, 2001, in Japan and achieved a rating of 14.6%, ranking 8th among Warship Island arc episodes.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_57",
+          "title": "Episode 57 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Gomu Gomu no Nagenawa (Gum-Gum Lasso) makes its first appearance in this episode as a utility technique rather than a combat move, demonstrating Luffy's creative use of his powers.",
+      "category": "ABILITIES",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Gomu_Gomu_no_Mi/Techniques",
+          "title": "Gomu Gomu no Mi Techniques - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The Warship Island arc is the first filler arc in One Piece, introducing anime-original characters like Apis, Eric, and the Sennenryu dragons.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "The episode was directed by Yoko Ikeda with screenplay by Junki Takegami, and animation direction by Kazuo Takigawa.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_57",
+          "title": "Episode 57 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The ancient temple murals serve as a plot device to reveal that the Lost Island's nesting grounds are actually located beneath Warship Island, creating a narrative twist.",
+      "category": "STORY",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

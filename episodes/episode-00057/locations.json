@@ -1,0 +1,151 @@
+[
+  {
+    "name": {
+      "english": "Lost Island",
+      "japanese": "ロストアイランド",
+      "romanized": "Rosuto Airando"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "EAST_BLUE",
+    "islandName": "Lost Island",
+    "debutEpisode": 57,
+    "debutChapter": null,
+    "description": "A mysterious island hidden by mirages and surrounded by violent storms at the eye of a tempest. The island features ancient ruins including a temple with dragon emblems and murals. Despite appearing to be the legendary Lost Island, it serves as a waypoint containing clues to the true location of the dragon nesting grounds.",
+    "episodeAppearances": [57],
+    "keyEvents": [
+      {
+        "episodeNumber": 57,
+        "eventId": "ep057-event-005",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Discovery of the Hidden Island",
+        "description": "The Straw Hats navigate through a violent storm to reach this island at the eye of the tempest, believing it might be the Lost Island.",
+        "significance": "The island is hidden by natural barriers of mirages and storms, explaining why it has remained undiscovered.",
+        "timestamp": "10:00"
+      },
+      {
+        "episodeNumber": 57,
+        "eventId": "ep057-event-006",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Landing on the Island",
+        "description": "The crew successfully brings the Going Merry to shore and hauls Ryu onto the island.",
+        "significance": "Marks the beginning of their exploration of this mysterious location.",
+        "timestamp": "12:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 57,
+        "episodeEnd": "present",
+        "reason": "Island discovered and explored by the Straw Hat Pirates"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["ancient-temple"],
+    "relatedCharacters": ["luffy", "zoro", "nami", "usopp", "sanji", "apis", "ryu", "eric"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Warship Island Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Ancient Temple",
+      "japanese": "古代の神殿",
+      "romanized": "Kodai no Shinden"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "EAST_BLUE",
+    "islandName": "Lost Island",
+    "debutEpisode": 57,
+    "debutChapter": null,
+    "description": "An ancient temple structure on Lost Island featuring a dragon emblem on its door with a keyhole matching Apis's pendant. The temple's interior contains elaborate ceiling murals depicting dragons and geographical locations that provide clues to the true Lost Island. The ground above the main chamber is unstable, causing visitors to fall into the ruins.",
+    "episodeAppearances": [57],
+    "keyEvents": [
+      {
+        "episodeNumber": 57,
+        "eventId": "ep057-event-009",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Discovery of the Ancient Temple",
+        "description": "The crew finds a building with a dragon emblem and Apis notices her pendant matches the door's keyhole.",
+        "significance": "Establishes a connection between Apis's pendant and the ancient dragon civilization.",
+        "timestamp": "16:45"
+      },
+      {
+        "episodeNumber": 57,
+        "eventId": "ep057-event-010",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Ground Collapse into Temple Ruins",
+        "description": "The ground beneath the crew collapses, dropping them into the temple's interior chamber.",
+        "significance": "Provides unexpected access to the temple's interior and the crucial murals within.",
+        "timestamp": "18:00"
+      },
+      {
+        "episodeNumber": 57,
+        "eventId": "ep057-event-011",
+        "eventType": "WORLD_LORE",
+        "title": "Ancient Murals Reveal Lost Island's True Location",
+        "description": "The crew discovers elaborate ceiling murals that contain clues about the real Lost Island's location.",
+        "significance": "The murals are the key to understanding that the true nesting grounds are at Warship Island.",
+        "timestamp": "19:15"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 57,
+        "episodeEnd": "present",
+        "reason": "Ancient ruins discovered and explored"
+      }
+    ],
+    "parentLocation": "Lost Island",
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "zoro", "nami", "usopp", "sanji", "apis", "ryu"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Warship Island Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Going Merry",
+      "japanese": "ゴーイングメリー号",
+      "romanized": "Gōingu Merī-gō"
+    },
+    "locationType": "SHIP",
+    "seaRegion": "EAST_BLUE",
+    "islandName": null,
+    "debutEpisode": 17,
+    "debutChapter": 41,
+    "description": "The Straw Hat Pirates' first ship, used to navigate through dangerous waters, mirages, and storms to reach the Lost Island while towing Ryu.",
+    "episodeAppearances": [57],
+    "keyEvents": [
+      {
+        "episodeNumber": 57,
+        "eventId": "ep057-event-003",
+        "eventType": "BATTLE_START",
+        "title": "Storm Strikes the Going Merry",
+        "description": "The Going Merry is caught in a violent storm with powerful waves that break the ropes towing Ryu.",
+        "significance": "Tests the crew's seamanship and ability to protect their passenger.",
+        "timestamp": "07:15"
+      },
+      {
+        "episodeNumber": 57,
+        "eventId": "ep057-event-004",
+        "eventType": "TECHNIQUE_DEBUT",
+        "title": "Luffy Uses Mast as Anchor Point",
+        "description": "Luffy entwines himself around the Going Merry's mast to use his lasso technique to save Ryu.",
+        "significance": "The ship's structure enables Luffy's rescue technique.",
+        "timestamp": "08:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [],
+    "parentLocation": null,
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "zoro", "nami", "usopp", "sanji"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Warship Island Arc"],
+    "images": []
+  }
+]

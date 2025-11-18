@@ -1,0 +1,139 @@
+[
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "luffy",
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [56],
+    "members": [
+      {
+        "characterId": "luffy",
+        "role": "Captain",
+        "episodeJoined": 1,
+        "episodeLeft": null,
+        "joinCircumstances": "Founded the crew"
+      },
+      {
+        "characterId": "zoro",
+        "role": "Swordsman/First Mate",
+        "episodeJoined": 2,
+        "episodeLeft": null,
+        "joinCircumstances": "Joined after Luffy saved him from execution"
+      },
+      {
+        "characterId": "nami",
+        "role": "Navigator",
+        "episodeJoined": 44,
+        "episodeLeft": null,
+        "joinCircumstances": "Officially joined after the Arlong Park Arc"
+      },
+      {
+        "characterId": "usopp",
+        "role": "Sniper",
+        "episodeJoined": 17,
+        "episodeLeft": null,
+        "joinCircumstances": "Joined after defending his village from Kuro"
+      },
+      {
+        "characterId": "sanji",
+        "role": "Cook",
+        "episodeJoined": 30,
+        "episodeLeft": null,
+        "joinCircumstances": "Joined after the Baratie Arc"
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 56,
+        "eventId": "ep056-event-001",
+        "momentType": "MISSION",
+        "title": "Straw Hats Decide to Escape with Ryu",
+        "description": "The Straw Hat crew commits to helping Apis and Ryu escape from Warship Island, demonstrating their willingness to help those in need.",
+        "significance": "Shows the crew's compassionate nature and teamwork during a crisis situation.",
+        "timestamp": "03:15"
+      },
+      {
+        "episodeNumber": 56,
+        "eventId": "ep056-event-010",
+        "momentType": "MISSION",
+        "title": "The Escape Begins",
+        "description": "The Straw Hats begin their daring escape from Warship Island with Ryu, breaking through the Marine blockade.",
+        "significance": "Demonstrates the crew's coordination and determination to complete their mission.",
+        "timestamp": "22:50"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Going Merry",
+        "episodeAcquired": 17,
+        "episodeLost": 312,
+        "description": "The Straw Hats' first ship, used for their escape from Warship Island"
+      }
+    ],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull wearing a straw hat with crossed bones behind it",
+      "episodeFirstSeen": 45,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": ["apis"],
+      "enemies": ["marines", "eric"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Marines",
+      "japanese": "海軍",
+      "romanized": "Kaigun"
+    },
+    "crewType": "MILITARY",
+    "captainId": null,
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [56],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 56,
+        "eventId": "ep056-event-005",
+        "momentType": "MILITARY_ACTION",
+        "title": "Marines Surround the Island",
+        "description": "Marine ships under Nelson Royal's command surround Warship Island, attempting to trap the Straw Hats and prevent their escape with Ryu.",
+        "significance": "Demonstrates the Marines' tactical approach to capturing pirates and their involvement in the Warship Island conflict.",
+        "timestamp": "13:50"
+      },
+      {
+        "episodeNumber": 56,
+        "eventId": "ep056-event-008",
+        "momentType": "BATTLE",
+        "title": "Sanji Provides Combat Cover",
+        "description": "Marine soldiers attempt to interfere with the crew's escape preparations but are fought off by Sanji.",
+        "significance": "Shows the Marines as antagonistic force in this episode.",
+        "timestamp": "19:45"
+      }
+    ],
+    "ships": [],
+    "bases": ["Marine Branch 8"],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "The Marine symbol - a seagull with the word MARINE",
+      "episodeFirstSeen": 1,
+      "imageUrl": ""
+    },
+    "mainColor": "#003366",
+    "relationships": {
+      "allies": ["nelson-royal", "eric"],
+      "enemies": ["straw-hat-pirates"],
+      "parentOrganization": "World Government"
+    }
+  }
+]

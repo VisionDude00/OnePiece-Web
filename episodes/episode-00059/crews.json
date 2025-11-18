@@ -1,0 +1,162 @@
+[
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "luffy",
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [59],
+    "members": [
+      {
+        "characterId": "luffy",
+        "role": "Captain",
+        "episodeJoined": 1,
+        "episodeLeft": null,
+        "joinCircumstances": "Founded the crew"
+      },
+      {
+        "characterId": "zoro",
+        "role": "Swordsman",
+        "episodeJoined": 3,
+        "episodeLeft": null,
+        "joinCircumstances": "First crew member to join"
+      },
+      {
+        "characterId": "nami",
+        "role": "Navigator",
+        "episodeJoined": 44,
+        "episodeLeft": null,
+        "joinCircumstances": "Officially joined after Arlong Park Arc"
+      },
+      {
+        "characterId": "usopp",
+        "role": "Sniper",
+        "episodeJoined": 17,
+        "episodeLeft": null,
+        "joinCircumstances": "Joined at Syrup Village"
+      },
+      {
+        "characterId": "sanji",
+        "role": "Cook",
+        "episodeJoined": 30,
+        "episodeLeft": null,
+        "joinCircumstances": "Joined at Baratie"
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 59,
+        "eventId": "ep059-event-001",
+        "momentType": "BATTLE_START",
+        "title": "Surrounded by Nelson's Fleet",
+        "description": "The Straw Hat Pirates find themselves completely surrounded by Commodore Nelson's Marine fleet executing the Crane Wing Formation.",
+        "significance": "The crew faces a major naval threat and must work together to escape the encirclement.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 59,
+        "eventId": "ep059-event-002",
+        "momentType": "POWER_REVEAL",
+        "title": "Crew Defense Against Bombardment",
+        "description": "The crew works together to defend the Going Merry from Nelson's naval bombardment, with Luffy deflecting cannonballs.",
+        "significance": "Demonstrates the crew's coordination and Luffy's commitment to protecting his friends.",
+        "timestamp": "06:30"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Going Merry",
+        "episodeAcquired": 17,
+        "episodeLost": null,
+        "description": "The crew's first ship, a caravel given to them by Kaya"
+      }
+    ],
+    "bases": [],
+    "totalBountyProgression": [
+      {
+        "totalBounty": 30000000,
+        "episodeNumber": 45,
+        "memberBounties": {
+          "luffy": 30000000
+        }
+      }
+    ],
+    "jollyRoger": {
+      "description": "A skull wearing a straw hat with crossed bones behind it",
+      "episodeFirstSeen": 1,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": ["apis"],
+      "enemies": ["marine-branch-8", "eric"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Marine Branch 8",
+      "japanese": "海軍第8支部",
+      "romanized": "Kaigun Dai-8 Shibu"
+    },
+    "crewType": "MARINE_UNIT",
+    "captainId": "nelson-royale",
+    "debutEpisode": 55,
+    "debutChapter": null,
+    "episodeAppearances": [59],
+    "members": [
+      {
+        "characterId": "nelson-royale",
+        "role": "Commanding Officer",
+        "episodeJoined": 55,
+        "episodeLeft": null,
+        "joinCircumstances": "Introduced as the commander of the branch"
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 59,
+        "eventId": "ep059-event-001",
+        "momentType": "BATTLE_START",
+        "title": "Executes Crane Wing Formation",
+        "description": "Marine Branch 8's fleet successfully surrounds the Going Merry using a coordinated naval formation under Nelson's command.",
+        "significance": "Demonstrates the tactical capabilities of the Marine branch under Nelson's leadership.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 59,
+        "eventId": "ep059-event-006",
+        "momentType": "MAJOR_DECISION",
+        "title": "Nelson Sacrifices His Own Men",
+        "description": "Nelson orders his entire fleet to open fire on a rowboat containing Eric and three of his own Marines, showing complete disregard for his subordinates' lives.",
+        "significance": "Reveals the corruption and moral bankruptcy of Marine Branch 8 under Nelson's command.",
+        "timestamp": "16:50"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Multiple Marine Warships",
+        "episodeAcquired": 55,
+        "episodeLost": null,
+        "description": "A fleet of Marine warships under Nelson's command"
+      }
+    ],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "Standard Marine emblem",
+      "episodeFirstSeen": 55,
+      "imageUrl": ""
+    },
+    "mainColor": "#0000FF",
+    "relationships": {
+      "allies": [],
+      "enemies": ["straw-hat-pirates", "eric"],
+      "parentOrganization": "marines"
+    }
+  }
+]

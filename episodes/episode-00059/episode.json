@@ -1,0 +1,474 @@
+{
+  "episodeNumber": 59,
+  "episodeTitle": "Luffy, Completely Surrounded! Admiral Nelson's Secret Plan",
+  "description": "The Straw Hat crew faces off against Marine Commodore Nelson's fleet in a naval battle. Eric reveals his betrayal as he attempts to capture the ancient dragon Ryu for himself. The dragon makes a heroic sacrifice to protect Apis and ensure the crew's escape.",
+  "airDate": "2001-02-21",
+  "airDateJapan": "2001-02-21",
+  "airDateUS": "2009-06-30",
+  "arcName": "Warship Island",
+  "sagaName": "East Blue Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Believe",
+    "artist": "Folder5",
+    "episodeRange": [48, 115]
+  },
+  "endingSong": {
+    "title": "RUN! RUN! RUN!",
+    "artist": "Maki Otsuki",
+    "episodeRange": [52, 74]
+  },
+  "credits": {
+    "animationDirector": "Junichi Fujise",
+    "keyAnimators": ["Yuji Hakamada"],
+    "screenwriter": "Junki Takegami",
+    "artDirector": "Miyuki Sato",
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Nelson Royale",
+        "actor": "Kenichi Ogata"
+      },
+      {
+        "character": "Eric",
+        "actor": "Shin-ichiro Miki"
+      },
+      {
+        "character": "Apis",
+        "actor": "Emi Motoi"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep059-event-001",
+      "episodeNumber": 59,
+      "timestamp": "03:45",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Nelson's Fleet Surrounds the Straw Hats",
+      "description": "Commodore Nelson's Marine fleet executes the 'Crane Wing Formation,' completely surrounding the Going Merry with warships. Nelson reveals his plan to capture both the Straw Hat Pirates and the ancient dragon.",
+      "significance": "Establishes the main conflict of the episode and demonstrates Nelson's strategic capabilities despite his physical limitations.",
+      "characterIds": ["luffy", "nelson-royale", "zoro", "nami", "sanji", "usopp", "apis"],
+      "locationIds": ["going-merry", "east-blue-sea"],
+      "crewIds": ["straw-hat-pirates", "marine-branch-8"],
+      "quotes": [
+        {
+          "text": "You're completely surrounded! There's no escape now, Straw Hat!",
+          "speaker": "Nelson Royale",
+          "context": "Nelson declares victory as his fleet completes the encirclement"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [54, 55, 56, 57, 58],
+      "payoffInEpisodes": [60, 61],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep059-event-002",
+      "episodeNumber": 59,
+      "timestamp": "06:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Luffy Deflects Cannonballs",
+      "description": "As Nelson's fleet opens fire with cannons, Luffy uses his Gomu Gomu no Mi powers to deflect the cannonballs back at the Marine ships, demonstrating his creative use of his rubber abilities in naval combat.",
+      "significance": "Shows Luffy's growth in utilizing his Devil Fruit powers tactically and highlights his ability to protect his crew.",
+      "characterIds": ["luffy"],
+      "locationIds": ["going-merry"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [
+        {
+          "text": "I'll send them all back!",
+          "speaker": "Luffy",
+          "context": "Luffy declares his intent to protect the ship from the barrage"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [1, 4]
+    },
+    {
+      "id": "ep059-event-003",
+      "episodeNumber": 59,
+      "timestamp": "10:15",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Eric Reveals His Betrayal to Nelson",
+      "description": "Eric openly declares to Commodore Nelson that he has no intention of helping him obtain the dragon bone elixir. He reveals that his plan all along was to use Nelson's authority and resources to capture the dragon for himself.",
+      "significance": "Major plot twist that shifts the conflict dynamics and reveals Eric's true villainous nature. Demonstrates the mercenary's selfishness and ambition for immortality.",
+      "characterIds": ["eric", "nelson-royale"],
+      "locationIds": ["east-blue-sea"],
+      "quotes": [
+        {
+          "text": "Did you really think I would share the elixir of immortality with you? I only needed your fleet to catch the dragon!",
+          "speaker": "Eric",
+          "context": "Eric reveals his treachery to Nelson"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [55, 56, 57, 58],
+      "payoffInEpisodes": [60, 61],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep059-event-004",
+      "episodeNumber": 59,
+      "timestamp": "12:45",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Zoro vs. Eric Combat Begins",
+      "description": "Roronoa Zoro engages Eric in combat. Eric uses his Kama Kama no Mi abilities to create razor-sharp wind slashes, gaining the upper hand against Zoro in their first direct confrontation.",
+      "significance": "Establishes Eric as a credible threat and demonstrates his Devil Fruit combat capabilities. Shows that even Zoro can be challenged by opponents with unique abilities.",
+      "characterIds": ["zoro", "eric"],
+      "locationIds": ["going-merry", "east-blue-sea"],
+      "devilFruitIds": ["kama-kama-no-mi"],
+      "quotes": [
+        {
+          "text": "The wind I create is as sharp as a Meito. Tearing a person limb from limb is child's play!",
+          "speaker": "Eric",
+          "context": "Eric boasts about his Devil Fruit abilities while fighting Zoro"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [56, 57, 58],
+      "payoffInEpisodes": [60, 61],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep059-event-005",
+      "episodeNumber": 59,
+      "timestamp": "15:20",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Eric Uses Kama Kama no Tsumujikaze",
+      "description": "Eric unleashes his signature technique, Kama Kama no Tsumujikaze, releasing multiple razor-sharp air blades in a devastating X-formation pattern against Zoro and the Straw Hat crew.",
+      "significance": "First showcase of Eric's most powerful attack technique, demonstrating the full combat potential of the Kama Kama no Mi Devil Fruit.",
+      "characterIds": ["eric", "zoro"],
+      "locationIds": ["east-blue-sea"],
+      "devilFruitIds": ["kama-kama-no-mi"],
+      "quotes": [
+        {
+          "text": "Kama Kama no Tsumujikaze!",
+          "speaker": "Eric",
+          "context": "Eric calls out his technique name while attacking"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [56],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep059-event-006",
+      "episodeNumber": 59,
+      "timestamp": "16:50",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Nelson Orders Fire on His Own Men",
+      "description": "When Eric attempts to escape in a rowboat with three of Nelson's own Marines aboard, Nelson callously orders all his ships to open fire on the boat, completely disregarding the lives of his subordinates in his rage at Eric's betrayal.",
+      "significance": "Demonstrates Nelson's complete moral corruption and willingness to sacrifice his own men. This moment characterizes him as a villain who cares only for his own interests.",
+      "characterIds": ["nelson-royale", "eric"],
+      "locationIds": ["east-blue-sea"],
+      "crewIds": ["marine-branch-8"],
+      "quotes": [
+        {
+          "text": "All ships, open fire! I don't care if my own men are on that boat!",
+          "speaker": "Nelson Royale",
+          "context": "Nelson's cold order showing his disregard for his subordinates' lives"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep059-event-007",
+      "episodeNumber": 59,
+      "timestamp": "18:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Ryu's Heroic Sacrifice",
+      "description": "The ancient dragon Ryu, despite being injured and weak, intervenes to protect Apis and the Straw Hat crew from the combined threats of Eric and Nelson's fleet. The dragon puts itself in harm's way to ensure their escape.",
+      "significance": "Emotional climax of the episode showing the dragon's bond with Apis and its noble nature. Sets up the resolution of the Warship Island arc.",
+      "characterIds": ["ryu", "apis", "luffy"],
+      "locationIds": ["east-blue-sea"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [54, 55, 56, 57, 58],
+      "payoffInEpisodes": [60, 61],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep059-event-008",
+      "episodeNumber": 59,
+      "timestamp": "19:45",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Dragon Bone Elixir of Immortality",
+      "description": "The episode explicitly reveals that the bones of Sennenryu dragons can be extracted to create an elixir that grants eternal youth and immortality, explaining why both Nelson and Eric are so desperate to capture Ryu.",
+      "significance": "Establishes the mystical properties of the Sennenryu species and provides the core motivation for the antagonists in this arc.",
+      "characterIds": ["nelson-royale", "eric", "ryu"],
+      "locationIds": [],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [54, 55],
+      "payoffInEpisodes": [60, 61],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep059-event-009",
+      "episodeNumber": 59,
+      "timestamp": "20:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Apis's Emotional Plea",
+      "description": "Apis cries out in anguish as she watches Ryu put himself in danger. Her emotional connection to the dragon is on full display as she desperately tries to communicate with him using her Hiso Hiso no Mi ability.",
+      "significance": "Highlights the deep bond between Apis and Ryu, emphasizing the theme of friendship and sacrifice that runs throughout the arc.",
+      "characterIds": ["apis", "ryu"],
+      "locationIds": [],
+      "devilFruitIds": ["hiso-hiso-no-mi"],
+      "quotes": [
+        {
+          "text": "Ryu, please! You don't have to do this!",
+          "speaker": "Apis",
+          "context": "Apis pleads with the dragon to save himself"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [54, 55, 56, 57, 58],
+      "payoffInEpisodes": [60, 61],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["kama-kama-no-tsumujikaze"]
+  },
+  "episodeRelationships": {
+    "setupFor": [60, 61],
+    "payoffFrom": [54, 55, 56, 57, 58],
+    "thematicLinks": []
+  },
+  "quotes": [
+    {
+      "text": "Did you really think I would share the elixir of immortality with you? I only needed your fleet to catch the dragon!",
+      "speaker": "Eric",
+      "context": "Eric reveals his betrayal to Nelson",
+      "timestamp": "10:15"
+    },
+    {
+      "text": "All ships, open fire! I don't care if my own men are on that boat!",
+      "speaker": "Nelson Royale",
+      "context": "Nelson's callous order to fire on his own men",
+      "timestamp": "16:50"
+    },
+    {
+      "text": "The wind I create is as sharp as a Meito. Tearing a person limb from limb is child's play!",
+      "speaker": "Eric",
+      "context": "Eric boasts about his Kama Kama no Mi abilities",
+      "timestamp": "12:45"
+    },
+    {
+      "text": "I'll send them all back!",
+      "speaker": "Luffy",
+      "context": "Luffy deflects cannonballs",
+      "timestamp": "06:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Betrayal and Ambition",
+      "description": "The episode centers on Eric's betrayal of Nelson, revealing that his ambition for immortality was always his true motivation. Both antagonists demonstrate how unchecked ambition can corrupt.",
+      "symbolism": "The dragon bone elixir represents the corrupting influence of the desire for eternal life.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Sacrifice and Protection",
+      "description": "Ryu's heroic sacrifice to protect Apis and the crew demonstrates selflessness in contrast to the villains' selfishness.",
+      "symbolism": "The ancient dragon represents wisdom and noble sacrifice.",
+      "culturalReferences": ["Japanese dragon mythology often portrays dragons as wise, noble beings"]
+    },
+    {
+      "theme": "Corruption of Authority",
+      "description": "Nelson's willingness to sacrifice his own men highlights the corruption that can come with military power when wielded by selfish individuals.",
+      "symbolism": "Nelson's obesity and inability to move represent his moral stagnation and excess.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Intense", "Dramatic", "Bittersweet"],
+  "characterSpotlights": [
+    {
+      "characterId": "eric",
+      "role": "Primary antagonist",
+      "development": "Eric's true villainous nature is fully revealed as he betrays Nelson and shows his willingness to kill anyone who stands between him and immortality.",
+      "keyActions": [
+        "Reveals betrayal to Nelson",
+        "Fights Zoro using Kama Kama no Mi abilities",
+        "Attempts to capture Ryu for himself",
+        "Uses Kama Kama no Tsumujikaze technique"
+      ],
+      "quotes": ["Did you really think I would share the elixir of immortality with you?", "The wind I create is as sharp as a Meito!"]
+    },
+    {
+      "characterId": "nelson-royale",
+      "role": "Secondary antagonist",
+      "development": "Nelson's moral depravity is fully displayed when he orders his ships to fire on his own men, showing he values revenge over human life.",
+      "keyActions": [
+        "Executes Crane Wing Formation to surround the Straw Hats",
+        "Is betrayed by Eric",
+        "Orders his fleet to fire on his own men"
+      ],
+      "quotes": ["You're completely surrounded! There's no escape now!", "All ships, open fire! I don't care if my own men are on that boat!"]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Protagonist/protector",
+      "development": "Luffy demonstrates his tactical thinking by using his Devil Fruit powers to deflect cannonballs and protect his crew.",
+      "keyActions": [
+        "Deflects incoming cannonballs using Gomu Gomu no Mi",
+        "Protects the Going Merry from Nelson's fleet",
+        "Supports Apis emotionally"
+      ],
+      "quotes": ["I'll send them all back!"]
+    },
+    {
+      "characterId": "apis",
+      "role": "Emotional center",
+      "development": "Apis's deep emotional bond with Ryu is highlighted as she watches him sacrifice himself to protect everyone.",
+      "keyActions": [
+        "Communicates with Ryu using Hiso Hiso no Mi",
+        "Cries in anguish at Ryu's sacrifice",
+        "Desperately tries to save the dragon"
+      ],
+      "quotes": ["Ryu, please! You don't have to do this!"]
+    },
+    {
+      "characterId": "zoro",
+      "role": "Combatant",
+      "development": "Zoro faces a challenging opponent in Eric, whose Devil Fruit abilities give him an advantage in their battle.",
+      "keyActions": [
+        "Engages Eric in combat",
+        "Struggles against Eric's wind slash abilities",
+        "Demonstrates his swordsmanship"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "This entire episode is anime-original filler content. The Warship Island Arc (episodes 54-61) does not appear in the manga at all.",
+      "episodeTimestamp": "00:00",
+      "mangaReference": "N/A - Filler arc",
+      "type": "FILLER"
+    },
+    {
+      "difference": "Zoro cuts through steel in this episode, which is an ability he doesn't develop until the Arabasta Arc when fighting Mr. 1.",
+      "episodeTimestamp": "14:30",
+      "mangaReference": "Chapter 195",
+      "type": "CONTINUITY_ERROR"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This is part of the first filler arc in One Piece, spanning episodes 54-61, created while the manga built up more material.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_59",
+          "title": "Episode 59 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode contains a notable continuity error where Zoro demonstrates the ability to cut steel, which he doesn't canonically develop until his battle with Daz Bonez (Mr. 1) in the Arabasta Arc.",
+      "category": "CONTINUITY_ERROR",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_59",
+          "title": "Episode 59 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Nelson's rank of 'Admiral' (Teitoku/提督) doesn't exist in the canonical Marine hierarchy. This is likely a translation inconsistency, as he should be referred to as 'Commodore.'",
+      "category": "TRANSLATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Nelson_Royale",
+          "title": "Nelson Royale - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The Kama Kama no Mi eaten by Eric is the first anime-only Devil Fruit consumed by an antagonist in the series.",
+      "category": "DEVIL_FRUIT",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Kama_Kama_no_Mi",
+          "title": "Kama Kama no Mi - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode aired during the early days of One Piece when the anime was quickly catching up to the manga, necessitating the creation of filler content.",
+      "category": "PRODUCTION",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

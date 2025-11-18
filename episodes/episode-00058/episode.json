@@ -1,0 +1,484 @@
+{
+  "episodeNumber": 58,
+  "episodeTitle": "Showdown in the Ruins! Tense Zoro vs. Eric!",
+  "episodeTitleJapanese": "廃墟の決闘！緊迫のゾロVSエリック！",
+  "episodeTitleRomanized": "Haikyo no Kettou! Kinpaku no Zoro VS Erik!",
+  "description": "The Straw Hat crew discovers underground ruins containing ancient dragon paintings. While Nami deduces the true location of the Dragon's Nest, Zoro engages in a fierce battle with the mercenary Eric, who reveals his devastating wind-blade techniques. The crew must escape with Apis and Ryu before Eric and the Marines catch them.",
+  "airDate": "2001-02-21",
+  "airDateJapan": "2001-02-21",
+  "airDateUS": "2009-06-30",
+  "arcName": "Warship Island",
+  "sagaName": "East Blue Saga",
+  "animationQuality": "STANDARD",
+  "isCanon": false,
+  "isFiller": true,
+  "openingSong": {
+    "title": "Believe",
+    "artist": "Folder5",
+    "episodeRange": [48, 115]
+  },
+  "endingSong": {
+    "title": "RUN! RUN! RUN!",
+    "artist": "Maki Otsuki",
+    "episodeRange": [31, 61]
+  },
+  "credits": {
+    "director": "Munehisa Sakai",
+    "screenwriter": "Junki Takegami",
+    "artDirector": "Tomoko Yoshida",
+    "animationDirector": "Tadayoshi Yamamuro",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Eric",
+        "actor": "Ryūsei Nakao"
+      },
+      {
+        "character": "Apis",
+        "actor": "Masami Suzuki"
+      },
+      {
+        "character": "Nelson Royal",
+        "actor": "Junpei Takiguchi"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Eric",
+        "actor": "Kenny Green"
+      },
+      {
+        "character": "Apis",
+        "actor": "Brittney Karbowski"
+      },
+      {
+        "character": "Nelson Royal",
+        "actor": "Ray Gestaut"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep058-event-001",
+      "episodeNumber": 58,
+      "timestamp": "03:00",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Discovery of Underground Ruins",
+      "description": "The Straw Hat Pirates reach the top of the mountain and the dome-shaped building on Lost Island. The ground beneath them suddenly crumbles, causing them to fall into an underground area filled with ancient ruins.",
+      "significance": "This location reveals crucial information about the Sennenryu and the true location of the Dragon's Nest, advancing the arc's mystery.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "apis"],
+      "locationIds": ["lost-island-ruins"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [57],
+      "payoffInEpisodes": [59, 60, 61],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep058-event-002",
+      "episodeNumber": 58,
+      "timestamp": "05:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Ancient Sennenryu Paintings Discovered",
+      "description": "Luffy notices collapsed ceiling sections featuring detailed paintings of Sennenryu dragons. These ancient artworks depict the legendary thousand-year dragons and provide clues about their nesting grounds.",
+      "significance": "The paintings serve as historical evidence of the Sennenryu's existence and help the crew piece together the mystery of the Dragon's Nest location.",
+      "characterIds": ["luffy", "nami", "apis"],
+      "locationIds": ["lost-island-ruins"],
+      "quotes": [
+        {
+          "text": "Look at these paintings! They're of the Sennenryu!",
+          "speaker": "Luffy",
+          "context": "Discovering the ancient dragon artwork on the ceiling"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [54, 55, 56, 57],
+      "payoffInEpisodes": [59, 60],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep058-event-003",
+      "episodeNumber": 58,
+      "timestamp": "07:45",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Nami Deduces True Dragon's Nest Location",
+      "description": "After carefully inspecting the ceiling paintings and analyzing the historical evidence, Nami deduces that the Dragon's Nest was never on Lost Island. The true nesting grounds were located at Warship Island but have since sunk beneath the sea.",
+      "significance": "This revelation is a major turning point in the arc, explaining why the dragons disappeared and setting up the climax. It demonstrates Nami's intelligence and navigation skills.",
+      "characterIds": ["nami", "apis", "luffy", "usopp", "sanji", "zoro"],
+      "locationIds": ["lost-island-ruins", "warship-island"],
+      "quotes": [
+        {
+          "text": "The Dragon's Nest wasn't on this island... it was back at Warship Island, but it sank into the sea!",
+          "speaker": "Nami",
+          "context": "Revealing her deduction about the true location of the Dragon's Nest"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [54, 55, 56, 57],
+      "payoffInEpisodes": [59, 60, 61],
+      "callbacksToEpisodes": [54, 55]
+    },
+    {
+      "id": "ep058-event-004",
+      "episodeNumber": 58,
+      "timestamp": "09:00",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Lost Island Identified as Ancient Royal Court",
+      "description": "The crew realizes that Lost Island was not the Dragon's Nest, but rather the ancient royal court mentioned in Bokuden's historical stories. The island has significant archaeological and historical value.",
+      "significance": "This adds depth to the world-building of the Warship Island arc, connecting various historical elements and legends.",
+      "characterIds": ["nami", "apis", "luffy"],
+      "locationIds": ["lost-island-ruins"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [56, 57],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep058-event-005",
+      "episodeNumber": 58,
+      "timestamp": "11:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Eric Enters the Ruins",
+      "description": "Eric the Whirlwind infiltrates the underground ruins where the Straw Hats are located. He has been tracking them and overhears their conversation about the true location of the Dragon's Nest.",
+      "significance": "Eric gains critical information that will drive the conflict in the remaining episodes. His presence forces a confrontation with Zoro.",
+      "characterIds": ["eric", "zoro"],
+      "locationIds": ["lost-island-ruins"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [54, 55, 56, 57],
+      "payoffInEpisodes": [59, 60, 61],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep058-event-006",
+      "episodeNumber": 58,
+      "timestamp": "12:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Zoro vs Eric Battle Begins",
+      "description": "Zoro confronts Eric in the underground ruins to protect his crewmates and buy them time to escape. The swordsman faces off against the Devil Fruit user in a tense battle.",
+      "significance": "This is the first major one-on-one confrontation between Zoro and Eric, showcasing both fighters' abilities and determination.",
+      "characterIds": ["zoro", "eric"],
+      "locationIds": ["lost-island-ruins"],
+      "quotes": [
+        {
+          "text": "You're not getting past me!",
+          "speaker": "Zoro",
+          "context": "Blocking Eric's path to the rest of the crew"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [54, 55, 56, 57],
+      "payoffInEpisodes": [58, 59],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep058-event-007",
+      "episodeNumber": 58,
+      "timestamp": "14:00",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Kama Kama no Kamaitachi Debut",
+      "description": "Eric demonstrates his signature Devil Fruit technique, Kama Kama no Kamaitachi, releasing razor-sharp wind slashes from his elongated fingernails. The technique is powerful enough to slice through solid rock.",
+      "significance": "This is the first time Eric's most powerful technique is revealed, establishing him as a formidable opponent with destructive capabilities.",
+      "characterIds": ["eric", "zoro"],
+      "locationIds": ["lost-island-ruins"],
+      "devilFruitIds": ["kama-kama-no-mi"],
+      "quotes": [
+        {
+          "text": "Kama Kama no Kamaitachi!",
+          "speaker": "Eric",
+          "context": "Unleashing his signature wind-blade attack"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [54, 55, 56],
+      "payoffInEpisodes": [59, 60],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep058-event-008",
+      "episodeNumber": 58,
+      "timestamp": "16:00",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Eric's Wind Slash Abilities Fully Revealed",
+      "description": "Throughout the battle, Eric showcases the full extent of his Kama Kama no Mi abilities, including multiple techniques like Kama Kama no Tsumujikaze and variations of his Kamaitachi attacks. His sharp nails create devastating wind blades.",
+      "significance": "This event fully establishes Eric's fighting style and the capabilities of the Kama Kama no Mi Devil Fruit, important for understanding the threat he poses.",
+      "characterIds": ["eric", "zoro"],
+      "locationIds": ["lost-island-ruins"],
+      "devilFruitIds": ["kama-kama-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [54, 55, 56],
+      "payoffInEpisodes": [59, 60],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep058-event-009",
+      "episodeNumber": 58,
+      "timestamp": "17:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Straw Hats Escape with Apis and Ryu",
+      "description": "While Zoro holds off Eric, the rest of the Straw Hat Pirates escape from the ruins using a cart, bringing Apis and the dragon Ryu with them. They need to reach their ship to sail back to Warship Island.",
+      "significance": "This decision splits the crew temporarily and sets up the chase sequence that will continue in the following episodes.",
+      "characterIds": ["luffy", "nami", "usopp", "sanji", "apis"],
+      "locationIds": ["lost-island-ruins"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [54, 55, 56, 57],
+      "payoffInEpisodes": [59],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep058-event-010",
+      "episodeNumber": 58,
+      "timestamp": "19:00",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "Zoro Breaks Off from Eric Battle",
+      "description": "After buying his crew enough time to escape, Zoro disengages from his fight with Eric and pursues the mercenary who is now chasing after the rest of the crew and Ryu.",
+      "significance": "The battle ends without a clear victor, leaving the conflict unresolved and maintaining tension for future confrontations.",
+      "characterIds": ["zoro", "eric"],
+      "locationIds": ["lost-island-ruins"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [58],
+      "payoffInEpisodes": [59, 60],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep058-event-011",
+      "episodeNumber": 58,
+      "timestamp": "20:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Eric Pursues the Dragon",
+      "description": "Having overheard the location of the true Dragon's Nest, Eric abandons his fight with Zoro to chase after Ryu and Apis, prioritizing his mission to capture the dragon over defeating the swordsman.",
+      "significance": "This shows Eric's mercenary nature and single-minded focus on his objective, setting up the chase that will dominate the next episode.",
+      "characterIds": ["eric", "zoro"],
+      "locationIds": ["lost-island-ruins"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [54, 55, 56, 57, 58],
+      "payoffInEpisodes": [59, 60],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep058-event-012",
+      "episodeNumber": 58,
+      "timestamp": "21:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Zoro Throws Stick at Eric",
+      "description": "As Eric attempts to leap from a building onto the cart carrying the crew, Zoro throws a stick that strikes Eric's legs, preventing him from reaching them and giving the crew more time to escape.",
+      "significance": "This clever tactical move demonstrates Zoro's quick thinking and resourcefulness even when separated from his swords.",
+      "characterIds": ["zoro", "eric"],
+      "locationIds": ["lost-island-ruins"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [58],
+      "payoffInEpisodes": [59],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep058-event-013",
+      "episodeNumber": 58,
+      "timestamp": "22:00",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MINOR",
+      "title": "Crew Heads Toward the Ship",
+      "description": "The Straw Hat Pirates successfully exit the ruins and head toward their ship with Apis and Ryu, planning to sail back to Warship Island now that they know the true location of the Dragon's Nest.",
+      "significance": "This sets up the journey back to Warship Island and the final confrontation of the arc.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "apis"],
+      "locationIds": ["lost-island-ruins"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [57, 58],
+      "payoffInEpisodes": [59, 60, 61],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": ["lost-island-ruins"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["kama-kama-no-kamaitachi", "kama-kama-no-tsumujikaze"]
+  },
+  "episodeRelationships": {
+    "setupFor": [59, 60, 61],
+    "payoffFrom": [54, 55, 56, 57],
+    "thematicLinks": [59, 60]
+  },
+  "quotes": [
+    {
+      "text": "Look at these paintings! They're of the Sennenryu!",
+      "speaker": "Luffy",
+      "context": "Discovering the ancient dragon artwork",
+      "timestamp": "05:30"
+    },
+    {
+      "text": "The Dragon's Nest wasn't on this island... it was back at Warship Island, but it sank into the sea!",
+      "speaker": "Nami",
+      "context": "Revealing her deduction about the Dragon's Nest location",
+      "timestamp": "07:45"
+    },
+    {
+      "text": "You're not getting past me!",
+      "speaker": "Zoro",
+      "context": "Confronting Eric to protect the crew",
+      "timestamp": "12:30"
+    },
+    {
+      "text": "Kama Kama no Kamaitachi!",
+      "speaker": "Eric",
+      "context": "Unleashing his signature wind-blade attack",
+      "timestamp": "14:00"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Mystery and Discovery",
+      "description": "The episode centers on uncovering the truth about the Dragon's Nest through archaeological evidence and logical deduction.",
+      "symbolism": "The ancient paintings represent the connection between past and present, showing how history holds the answers to current mysteries.",
+      "culturalReferences": ["Archaeological discovery themes common in adventure stories"]
+    },
+    {
+      "theme": "Sacrifice and Protection",
+      "description": "Zoro willingly stays behind to fight Eric, sacrificing his own safety to protect his friends and give them time to escape.",
+      "symbolism": "The ruins serve as a battleground where loyalty is tested and proven.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Intelligence vs. Strength",
+      "description": "While Zoro provides physical strength in combat, Nami's intelligence solves the central mystery, showing the crew needs both to succeed.",
+      "symbolism": "The contrast between the violent battle and the intellectual puzzle-solving highlights different forms of value.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Mysterious", "Action-packed", "Revelatory"],
+  "characterSpotlights": [
+    {
+      "characterId": "nami",
+      "role": "Problem solver",
+      "development": "Nami demonstrates her intelligence and analytical skills by solving the mystery of the Dragon's Nest location through careful observation and deduction.",
+      "keyActions": [
+        "Examines the ceiling paintings carefully",
+        "Deduces the Dragon's Nest was at Warship Island",
+        "Realizes the island sank into the sea",
+        "Guides the crew on where to go next"
+      ],
+      "quotes": ["The Dragon's Nest wasn't on this island... it was back at Warship Island, but it sank into the sea!"]
+    },
+    {
+      "characterId": "zoro",
+      "role": "Protector and warrior",
+      "development": "Zoro shows his dedication to the crew by taking on Eric alone, demonstrating both his combat skills and tactical thinking.",
+      "keyActions": [
+        "Confronts Eric to protect the crew",
+        "Fights Eric in intense combat",
+        "Throws stick to prevent Eric from catching the cart",
+        "Pursues Eric to continue protecting his friends"
+      ],
+      "quotes": ["You're not getting past me!"]
+    },
+    {
+      "characterId": "eric",
+      "role": "Antagonist",
+      "development": "Eric's abilities are fully revealed, establishing him as a serious threat. His single-minded pursuit of the dragon shows his mercenary nature.",
+      "keyActions": [
+        "Infiltrates the ruins",
+        "Overhears the truth about the Dragon's Nest",
+        "Battles Zoro using wind-blade techniques",
+        "Reveals Kama Kama no Kamaitachi technique",
+        "Pursues Ryu relentlessly"
+      ],
+      "quotes": ["Kama Kama no Kamaitachi!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The entire Warship Island arc, including this episode, is anime-original filler content that does not appear in the manga. The manga goes directly from Loguetown to the Grand Line.",
+      "episodeTimestamp": "00:00",
+      "mangaReference": "N/A - Filler arc",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode features the only time in the Warship Island arc where Eric's full Devil Fruit abilities are demonstrated in combat.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "The Kama Kama no Mi is an anime-only Devil Fruit that never appears in the manga, making Eric's abilities unique to the anime adaptation.",
+      "category": "DEVIL_FRUIT",
+      "sources": []
+    },
+    {
+      "fact": "Nami's deduction about the Dragon's Nest location showcases her navigation and analytical skills, consistent with her role as the crew's navigator.",
+      "category": "CHARACTER",
+      "sources": []
+    },
+    {
+      "fact": "The Warship Island arc was entirely skipped by 4Kids Entertainment in their English dub, with the series jumping directly from Loguetown to the Grand Line as in the manga.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "Eric's voice actor in Japanese, Ryūsei Nakao, is famous for voicing Frieza in Dragon Ball Z.",
+      "category": "VOICE_ACTING",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

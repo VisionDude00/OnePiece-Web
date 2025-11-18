@@ -1,0 +1,588 @@
+{
+  "episodeNumber": 60,
+  "episodeTitle": "Those Who Soar in the Open Skies! Revival of the 1000 Year Legend",
+  "description": "The Lost Island resurfaces from the ocean after a thousand years, revealing the nesting ground of the sennenryu dragons. Luffy defeats Nelson Royal and his Marines while Ryu makes his final sacrifice. A new dragon is born from an egg, suggesting Ryu's rebirth.",
+  "airDate": "2001-02-28",
+  "airDateJapan": "2001-02-28",
+  "airDateUS": "2009-06-30",
+  "arcName": "Warship Island",
+  "sagaName": "East Blue Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Believe",
+    "artist": "Folder5",
+    "episodeRange": [48, 115]
+  },
+  "endingSong": {
+    "title": "RUN! RUN! RUN!",
+    "artist": "Maki Otsuki",
+    "episodeRange": [31, 63]
+  },
+  "credits": {
+    "animationDirector": "Hideaki Naniwa",
+    "director": "Kōnosuke Uda",
+    "screenplay": "Junki Takegami",
+    "artDirection": "Yuri Sanami",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Apis",
+        "actor": "Megumi Toyoguchi"
+      },
+      {
+        "character": "Nelson Royal",
+        "actor": "Masaru Ikeda"
+      },
+      {
+        "character": "Eric",
+        "actor": "Hideaki Tezuka"
+      },
+      {
+        "character": "Bokuden",
+        "actor": "Yuzuru Fujimoto"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Apis",
+        "actor": "Tiffany Grant"
+      },
+      {
+        "character": "Nelson Royal",
+        "actor": "R Bruce Elliott"
+      },
+      {
+        "character": "Eric",
+        "actor": "Mike McFarland"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep060-event-001",
+      "episodeNumber": 60,
+      "timestamp": "03:15",
+      "eventType": "BATTLE_CONTINUES",
+      "severity": "MINOR",
+      "title": "Luffy Encourages Ryu",
+      "description": "Despite being severely weakened from Marine attacks, Luffy tries to encourage the dying dragon Ryu to keep living and not give up.",
+      "significance": "Shows Luffy's compassionate nature and his unwillingness to let his friends die.",
+      "characterIds": ["luffy", "ryu", "apis"],
+      "locationIds": ["warship-island-waters"],
+      "quotes": [
+        {
+          "text": "Don't give up, Ryu! You can make it!",
+          "speaker": "Luffy",
+          "context": "Trying to encourage the dying dragon"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [59],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [55, 56, 57, 58, 59]
+    },
+    {
+      "id": "ep060-event-002",
+      "episodeNumber": 60,
+      "timestamp": "05:30",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Marines Launch Harpoon Attack",
+      "description": "Following Nelson's orders, the Marines launch a harpoon attack at the weakened Ryu to finish him off.",
+      "significance": "Demonstrates Nelson's cruelty and sets up Luffy's heroic intervention.",
+      "characterIds": ["nelson-royal", "luffy"],
+      "locationIds": ["warship-island-waters"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [59],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep060-event-003",
+      "episodeNumber": 60,
+      "timestamp": "06:15",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Luffy Deflects Harpoon",
+      "description": "In an impressive display of strength and reflexes, Luffy catches the harpoon mid-flight and throws it back at Nelson's Marine ship, destroying parts of the vessel.",
+      "significance": "Showcases Luffy's growing combat abilities and his protective instincts toward his friends.",
+      "characterIds": ["luffy", "nelson-royal"],
+      "locationIds": ["warship-island-waters"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep060-event-004",
+      "episodeNumber": 60,
+      "timestamp": "08:45",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Ryu's Final Call",
+      "description": "Ryu positions himself and releases a deafening roar that calls out to other ancient sennenryu dragons. Luffy appears to understand what Ryu is communicating.",
+      "significance": "Reveals Luffy's mysterious ability to understand the 'voice of all things' - an ability that becomes more significant later in the series. The roar triggers the Lost Island's emergence.",
+      "characterIds": ["ryu", "luffy", "apis"],
+      "locationIds": ["warship-island-waters"],
+      "quotes": [
+        {
+          "text": "I understand... I'll tell her, Ryu.",
+          "speaker": "Luffy",
+          "context": "Luffy mysteriously understanding Ryu's final message"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [55, 56, 57, 58, 59],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep060-event-005",
+      "episodeNumber": 60,
+      "timestamp": "11:20",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Luffy's Gum-Gum Rocket to Dragon",
+      "description": "Luffy uses his Gum-Gum Rocket to grab onto the neck of a passing millennia dragon, propelling himself toward Nelson's ship.",
+      "significance": "Creative use of Luffy's Devil Fruit powers and demonstrates his tactical thinking in battle.",
+      "characterIds": ["luffy"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "locationIds": ["warship-island-waters"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep060-event-006",
+      "episodeNumber": 60,
+      "timestamp": "12:30",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Luffy Destroys Nelson's Flagship",
+      "description": "Luffy executes his Gum-Gum Battle-Axe technique, splitting Nelson Royal's Marine flagship in half with a devastating kick. The Marines retreat in fear.",
+      "significance": "Marks the decisive defeat of Nelson Royal and the end of the primary threat to the dragons and Apis.",
+      "characterIds": ["luffy", "nelson-royal"],
+      "locationIds": ["warship-island-waters"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [54, 55, 56, 57, 58, 59],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep060-event-007",
+      "episodeNumber": 60,
+      "timestamp": "14:00",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "CRITICAL",
+      "title": "The Lost Island Resurfaces",
+      "description": "The ocean begins to tremble and water drains away as the legendary Lost Island emerges from beneath the sea for the first time in a thousand years. The island is revealed to be the ancient nesting ground of the sennenryu.",
+      "significance": "The climactic moment of the Warship Island arc, revealing the truth about the dragons' migration cycle and the legend of the Lost Island. This is the fulfillment of Ryu's lifelong dream.",
+      "characterIds": ["luffy", "nami", "zoro", "sanji", "usopp", "apis", "ryu"],
+      "locationIds": ["lost-island", "warship-island-waters"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [54, 55, 56, 57, 58, 59],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep060-event-008",
+      "episodeNumber": 60,
+      "timestamp": "16:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Truth About Sennenryu Revealed",
+      "description": "Nami realizes and explains that sennenryu are not called 'thousand-year dragons' because they live for a thousand years, but because they are migratory creatures that return to their nesting grounds every thousand years. The Lost Island only surfaces during this migration cycle.",
+      "significance": "Reveals the true nature of the sennenryu species and explains the mystery of the Lost Island. Corrects the misconception that had driven the entire arc.",
+      "characterIds": ["nami", "apis", "luffy", "zoro", "sanji", "usopp"],
+      "locationIds": ["lost-island"],
+      "quotes": [
+        {
+          "text": "They're not called sennenryu because they live for a thousand years, but because they come to the nest every thousand years!",
+          "speaker": "Nami",
+          "context": "Nami's realization about the dragons' true nature"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [54, 55],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep060-event-009",
+      "episodeNumber": 60,
+      "timestamp": "18:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Dragon Fossils and Dragonite Discovery",
+      "description": "The Lost Island is revealed to contain massive fossilized remains of ancient dragons. This is the 'Dragonite' that Nelson and Eric had been seeking - not a magical elixir, but simply the fossilized bones of deceased dragons.",
+      "significance": "Reveals that the legendary Dragonite is just fossilized dragon bones, debunking the myth of an immortality elixir and showing the greed-driven motivations of the antagonists were based on misconceptions.",
+      "characterIds": ["nelson-royal", "eric"],
+      "locationIds": ["lost-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [54, 55, 56],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep060-event-010",
+      "episodeNumber": 60,
+      "timestamp": "19:15",
+      "eventType": "DEATH",
+      "severity": "CRITICAL",
+      "title": "Ryu's Death",
+      "description": "Having fulfilled his dream of reaching the Lost Island nesting grounds, the ancient dragon Ryu passes away peacefully. Apis is devastated, crying that Ryu had promised he would get better once they reached the nest.",
+      "significance": "An emotionally powerful moment that concludes Ryu's journey and quest. His death is bittersweet as he dies having achieved his lifelong dream.",
+      "characterIds": ["ryu", "apis", "luffy"],
+      "locationIds": ["lost-island"],
+      "quotes": [
+        {
+          "text": "Ryu was a liar! He promised me that once he got to the nest, he would get better!",
+          "speaker": "Apis",
+          "context": "Apis's grief over Ryu's death"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [55, 56, 57, 58, 59],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep060-event-011",
+      "episodeNumber": 60,
+      "timestamp": "20:30",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MAJOR",
+      "title": "Ryu's Rebirth - Baby Dragon Hatches",
+      "description": "Luffy comforts Apis by explaining that sennenryu are reborn in their nesting grounds. Moments later, a dragon egg hatches revealing a baby sennenryu who calls out to Apis. The baby is implied to be Ryu reborn.",
+      "significance": "Provides a hopeful conclusion to the arc, showing the cycle of life and rebirth. Gives closure to Apis and Ryu's relationship while maintaining the magical nature of the sennenryu.",
+      "characterIds": ["apis", "luffy", "ryu"],
+      "locationIds": ["lost-island"],
+      "quotes": [
+        {
+          "text": "Sennenryu are reborn in the nest.",
+          "speaker": "Luffy",
+          "context": "Luffy comforting Apis about Ryu's death"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [55, 56, 57, 58, 59]
+    },
+    {
+      "id": "ep060-event-012",
+      "episodeNumber": 60,
+      "timestamp": "21:45",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Eric Confronts Nelson",
+      "description": "Eric appears on Nelson's damaged ship, soaking wet after being knocked into the ocean. Nelson tries to make a deal with him, but Eric is furious about being betrayed.",
+      "significance": "Sets up the final confrontation between the two antagonists who had been working together throughout the arc.",
+      "characterIds": ["eric", "nelson-royal"],
+      "locationIds": ["warship-island-waters"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [59],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [54, 55, 56, 57, 58]
+    },
+    {
+      "id": "ep060-event-013",
+      "episodeNumber": 60,
+      "timestamp": "22:15",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Eric Attacks Nelson",
+      "description": "Consumed by rage after his betrayal, Eric uses his Kama Kama no Mi Devil Fruit powers to slash Nelson Royal with a wind attack. Nelson's fate is left ambiguous - it's unclear if this attack killed him or simply knocked him out.",
+      "significance": "Provides poetic justice as the villains turn on each other. Eric's betrayal of Nelson mirrors how Nelson had used and betrayed Eric throughout their partnership.",
+      "characterIds": ["eric", "nelson-royal"],
+      "devilFruitIds": ["kama-kama-no-mi"],
+      "locationIds": ["warship-island-waters"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [54, 55, 56, 57, 58, 59],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": ["lost-island"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [61],
+    "payoffFrom": [54, 55, 56, 57, 58, 59],
+    "thematicLinks": []
+  },
+  "quotes": [
+    {
+      "text": "Don't give up, Ryu! You can make it!",
+      "speaker": "Luffy",
+      "context": "Encouraging the dying dragon",
+      "timestamp": "03:15"
+    },
+    {
+      "text": "I understand... I'll tell her, Ryu.",
+      "speaker": "Luffy",
+      "context": "Understanding Ryu's final message through mysterious ability",
+      "timestamp": "08:45"
+    },
+    {
+      "text": "They're not called sennenryu because they live for a thousand years, but because they come to the nest every thousand years!",
+      "speaker": "Nami",
+      "context": "Revealing the truth about the dragons",
+      "timestamp": "16:30"
+    },
+    {
+      "text": "Ryu was a liar! He promised me that once he got to the nest, he would get better!",
+      "speaker": "Apis",
+      "context": "Grieving over Ryu's death",
+      "timestamp": "19:15"
+    },
+    {
+      "text": "Sennenryu are reborn in the nest.",
+      "speaker": "Luffy",
+      "context": "Comforting Apis after Ryu's death",
+      "timestamp": "20:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Dreams and Ambition",
+      "description": "Ryu's lifelong dream to return to the Lost Island nesting grounds drives the emotional core of the episode. Despite dying, he achieves his dream, making his death bittersweet rather than tragic.",
+      "symbolism": "The Lost Island emerging represents the fulfillment of long-held dreams and the rewards of perseverance.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Life, Death, and Rebirth",
+      "description": "The episode explores the natural cycle of life as Ryu dies but is reborn as a baby dragon, showing that death is not always an ending but can be a transformation.",
+      "symbolism": "The hatching egg symbolizes new beginnings and the continuation of life across generations.",
+      "culturalReferences": ["The concept of reincarnation common in Eastern philosophy"]
+    },
+    {
+      "theme": "Greed and Corruption",
+      "description": "Nelson and Eric's greed for the legendary Dragonite (which turns out to be just fossils) ultimately leads to their downfall, with the two villains turning on each other.",
+      "symbolism": "The revelation that Dragonite is merely fossilized bones shows how greed is often based on misconceptions and false promises.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Friendship and Compassion",
+      "description": "The bond between Apis and Ryu, and Luffy's determination to help them both, showcases the power of friendship and compassion even in the face of impossible odds.",
+      "symbolism": "Luffy understanding Ryu's final message represents the deep connection formed through genuine friendship.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Truth vs. Legend",
+      "description": "The episode reveals that many of the legends about sennenryu and Dragonite were based on misunderstandings. The truth is often simpler but no less wondrous than the myths.",
+      "symbolism": "The Lost Island represents hidden truths waiting to be discovered.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Bittersweet", "Triumphant", "Emotional", "Hopeful"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Hero and Protector",
+      "development": "Luffy demonstrates his mysterious ability to understand the 'voice' of creatures like Ryu. He shows remarkable combat prowess by defeating Nelson's fleet and proves himself as a protector of the innocent.",
+      "keyActions": [
+        "Encourages dying Ryu to keep fighting",
+        "Catches and deflects a harpoon back at Marines",
+        "Uses Gum-Gum Rocket to grab onto a flying dragon",
+        "Destroys Nelson's flagship with Gum-Gum Battle-Axe",
+        "Understands Ryu's final message",
+        "Comforts Apis about death and rebirth"
+      ],
+      "quotes": [
+        "Don't give up, Ryu! You can make it!",
+        "I understand... I'll tell her, Ryu.",
+        "Sennenryu are reborn in the nest."
+      ]
+    },
+    {
+      "characterId": "ryu",
+      "role": "Tragic Hero",
+      "development": "Ryu completes his life's journey by reaching the Lost Island nesting grounds. His final act is to call out to other dragons, triggering the island's emergence before peacefully passing away.",
+      "keyActions": [
+        "Releases final roar to summon other sennenryu",
+        "Communicates final message to Luffy for Apis",
+        "Dies peacefully after reaching his dream destination",
+        "Is reborn as a baby dragon from an egg"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "apis",
+      "role": "Emotional Heart",
+      "development": "Apis experiences the pain of losing her friend Ryu but finds hope in his rebirth. Her grief and subsequent joy provide the emotional anchor for the episode's themes.",
+      "keyActions": [
+        "Witnesses Ryu's final moments",
+        "Grieves over Ryu's broken promise",
+        "Receives comfort from Luffy",
+        "Connects with the newly hatched baby dragon (Ryu reborn)"
+      ],
+      "quotes": [
+        "Ryu was a liar! He promised me that once he got to the nest, he would get better!"
+      ]
+    },
+    {
+      "characterId": "nami",
+      "role": "Voice of Reason",
+      "development": "Nami uses her intelligence and observational skills to deduce the truth about the sennenryu's nature, solving the mystery that had driven the entire arc.",
+      "keyActions": [
+        "Deduces the truth about sennenryu migration cycle",
+        "Explains the Lost Island's thousand-year emergence pattern",
+        "Helps defeat Eric by tipping him into the water"
+      ],
+      "quotes": [
+        "They're not called sennenryu because they live for a thousand years, but because they come to the nest every thousand years!"
+      ]
+    },
+    {
+      "characterId": "nelson-royal",
+      "role": "Primary Antagonist",
+      "development": "Nelson's greed and cruelty lead to his downfall. After being defeated by Luffy, he is betrayed and attacked by his former ally Eric.",
+      "keyActions": [
+        "Orders harpoon attack on dying Ryu",
+        "Has his flagship destroyed by Luffy",
+        "Attempts to make deal with Eric",
+        "Is attacked by Eric in act of betrayal"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "eric",
+      "role": "Secondary Antagonist",
+      "development": "Eric's mercenary nature and anger at being betrayed leads him to attack his former employer Nelson, showing that there is no honor among thieves.",
+      "keyActions": [
+        "Survives being knocked into the ocean",
+        "Confronts Nelson about betrayal",
+        "Attacks Nelson with Kama Kama no Mi powers"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The entire Warship Island arc (episodes 54-61) is anime-original filler content that does not appear in the manga. The arc was created to give the manga time to get ahead of the anime's production schedule.",
+      "episodeTimestamp": "00:00",
+      "mangaReference": "N/A - Filler Arc",
+      "type": "ANIME_ORIGINAL_ARC"
+    },
+    {
+      "difference": "Luffy's ability to understand Ryu's voice is a foreshadowing of the 'Voice of All Things' ability that appears much later in the canon manga, but this specific scene is anime-original.",
+      "episodeTimestamp": "08:45",
+      "mangaReference": "N/A - Filler Arc",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode concludes the Warship Island Arc, which was the first major filler arc in One Piece spanning 8 episodes (54-61). It was created to allow the manga to get further ahead.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_60",
+          "title": "Episode 60 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 60 aired on February 28, 2001 in Japan, but didn't air in the United States until June 30, 2009 - over 8 years later - as part of Funimation's English dub release.",
+      "category": "RELEASE",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_60",
+          "title": "Episode 60 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode's title in Japanese is 'Ōsora o mau mono! Yomigaeru sennen no densetsu!' (大空を舞うもの！蘇る千年の伝説！) which literally translates to 'Those Who Dance in the Great Sky! The Revived Thousand-Year Legend!'",
+      "category": "TRANSLATION",
+      "sources": []
+    },
+    {
+      "fact": "Luffy's mysterious ability to understand Ryu in this filler episode foreshadows his canonical ability to hear the 'Voice of All Things', which becomes important much later in the series with characters like the Sea Kings and Zunesha.",
+      "category": "FORESHADOWING",
+      "sources": []
+    },
+    {
+      "fact": "This episode marks the last appearance of the ending theme 'RUN! RUN! RUN!' by Maki Otsuki, which had been used since episode 31. Episode 64 would introduce a new ending theme.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/RUN!_RUN!_RUN!",
+          "title": "RUN! RUN! RUN! - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The Warship Island arc was generally criticized by fans for being too slow-paced, though some appreciated the arc's themes of dreams and rebirth. It has a mixed reception among the One Piece filler arcs.",
+      "category": "RECEPTION",
+      "sources": []
+    },
+    {
+      "fact": "The concept of the Lost Island that only surfaces every thousand years may be inspired by various mythological islands in different cultures that appear and disappear, such as the Irish myth of Hy-Brasil.",
+      "category": "CULTURAL",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
