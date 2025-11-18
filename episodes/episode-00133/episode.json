@@ -1,0 +1,534 @@
+{
+  "episodeNumber": 133,
+  "episodeTitle": "A Recipe Handed Down! Sanji, the Iron Man of Curry!",
+  "description": "The Straw Hat Pirates encounter Marine ships in fog. After rescuing a young Marine chef named Tajio who falls overboard, Sanji helps him recreate a curry dish for Marine captains, teaching him valuable cooking lessons along the way.",
+  "airDate": "2002-11-17",
+  "airDateJapan": "2002-11-17",
+  "airDateUS": "2010-05-11",
+  "arcName": "Post-Arabasta Arc",
+  "sagaName": "Arabasta Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Hikari e",
+    "artist": "The Babystars",
+    "episodeRange": [116, 168]
+  },
+  "endingSong": {
+    "title": "Free Will",
+    "artist": "Ruppina",
+    "episodeRange": [133, 156]
+  },
+  "credits": {
+    "animationDirector": "Masayuki Takagi",
+    "director": "Hidehiko Kadota",
+    "screenplay": "Junki Takegami",
+    "artDirection": ["Miyuki Sato", "Michiyo Kawasaki"],
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Tajio",
+        "actor": "Satsuki Yukino"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Tajio",
+        "actor": "Kira Vincent-Davis"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep133-event-001",
+      "episodeNumber": 133,
+      "timestamp": "03:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Encounter with Marine Ships in Fog",
+      "description": "The Going Merry navigates through dense fog and encounters several Marine vessels from the 18th Fleet Gallery. The crew must carefully maneuver to avoid detection.",
+      "significance": "Sets up the encounter with Tajio and provides tension as the crew must avoid the Marines.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin"],
+      "locationIds": ["going-merry"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep133-event-002",
+      "episodeNumber": 133,
+      "timestamp": "05:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Tajio's First Appearance",
+      "description": "Tajio, a young Marine apprentice chef, falls overboard from a Marine vessel while attempting to gather ingredients. The Straw Hats spot him struggling in the water.",
+      "significance": "Introduces the episode's guest character and sets up the main plot about cooking and mentorship.",
+      "characterIds": ["tajio"],
+      "locationIds": ["marine-vessel-18th-fleet"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep133-event-003",
+      "episodeNumber": 133,
+      "timestamp": "06:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Robin Rescues Tajio",
+      "description": "Nico Robin uses her Devil Fruit powers to rescue Tajio from drowning, pulling him safely aboard the Going Merry despite him being a Marine.",
+      "significance": "Demonstrates the Straw Hats' willingness to help those in need, regardless of their affiliation. Shows Robin's growing integration with the crew.",
+      "characterIds": ["robin", "tajio"],
+      "locationIds": ["going-merry"],
+      "devilFruitIds": ["hana-hana-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep133-event-004",
+      "episodeNumber": 133,
+      "timestamp": "08:20",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MINOR",
+      "title": "Tajio Reveals His Predicament",
+      "description": "Tajio explains that he accidentally spilled the curry meant for the Marine captains' lunch and was ordered to remake it himself. Despite multiple attempts, he has failed to recreate the dish properly.",
+      "significance": "Establishes the central conflict of the episode and Tajio's need for guidance in cooking.",
+      "characterIds": ["tajio", "sanji"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "I spilled the curry the head chef prepared for the captains. He told me to make another batch myself, but I can't get it right!",
+          "speaker": "Tajio",
+          "context": "Tajio explaining his situation to the Straw Hats"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep133-event-005",
+      "episodeNumber": 133,
+      "timestamp": "10:15",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MINOR",
+      "title": "Tajio Shares His Dream of All Blue",
+      "description": "Tajio reveals that he shares Sanji's dream of finding the All Blue, a legendary sea where all types of fish from every ocean gather. This creates an immediate connection between them.",
+      "significance": "Establishes common ground between Sanji and Tajio, motivating Sanji to help despite Tajio being a Marine. Reinforces Sanji's core dream.",
+      "characterIds": ["tajio", "sanji"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "I want to find All Blue, just like you!",
+          "speaker": "Tajio",
+          "context": "Tajio expressing his dream to Sanji"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [20, 21, 26],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [20, 21, 26]
+    },
+    {
+      "id": "ep133-event-006",
+      "episodeNumber": 133,
+      "timestamp": "11:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Sanji Tastes Tajio's Failed Curry",
+      "description": "Sanji samples one of Tajio's failed curry attempts and immediately identifies multiple problems with the dish, including improper seasoning and timing.",
+      "significance": "Demonstrates Sanji's exceptional culinary skills and sets up his role as mentor for Tajio.",
+      "characterIds": ["sanji", "tajio"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "You can't rush cooking. Every ingredient needs time to blend properly.",
+          "speaker": "Sanji",
+          "context": "Sanji critiquing Tajio's curry and teaching him patience"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep133-event-007",
+      "episodeNumber": 133,
+      "timestamp": "13:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MINOR",
+      "title": "Flashback to Zeff's Teaching Methods",
+      "description": "Sanji recalls his time training under Chef Zeff at the Baratie, where Zeff taught him through observation and subtle guidance rather than direct instruction. This parallels Tajio's situation with his head chef.",
+      "significance": "Provides insight into Sanji's cooking philosophy and his understanding of traditional mentorship. Connects to Sanji's own journey as a chef.",
+      "characterIds": ["sanji", "zeff"],
+      "locationIds": ["baratie"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]
+    },
+    {
+      "id": "ep133-event-008",
+      "episodeNumber": 133,
+      "timestamp": "15:50",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Sanji Teaches Tajio Cooking Fundamentals",
+      "description": "Sanji begins instructing Tajio on proper cooking techniques, emphasizing patience, attention to detail, and the importance of understanding each ingredient. He guides Tajio to remember his head chef's exact movements and methods.",
+      "significance": "Core teaching moment that shows Sanji passing on the knowledge he learned from Zeff. Demonstrates the mentor-student relationship that transcends pirate-Marine boundaries.",
+      "characterIds": ["sanji", "tajio"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "Watch carefully and remember every detail. Cooking isn't just about following a recipe—it's about understanding the process.",
+          "speaker": "Sanji",
+          "context": "Sanji guiding Tajio through the cooking process"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep133-event-009",
+      "episodeNumber": 133,
+      "timestamp": "17:20",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Tajio Recalls His Chef's Instructions",
+      "description": "With Sanji's encouragement, Tajio begins to remember the precise instructions and demonstrations his head chef provided. He realizes the chef was teaching him all along through careful observation.",
+      "significance": "Key moment of realization for Tajio about the nature of learning and mentorship. Shows his growth and understanding.",
+      "characterIds": ["tajio", "sanji"],
+      "locationIds": ["going-merry"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep133-event-010",
+      "episodeNumber": 133,
+      "timestamp": "19:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Luffy's Interference Nearly Ruins the Dish",
+      "description": "Luffy attempts to sneak a taste of the curry while it's cooking, nearly compromising the dish. Sanji catches him and prevents disaster with quick reflexes.",
+      "significance": "Provides comic relief and showcases Luffy's characteristic food obsession. Tests Sanji's ability to protect the cooking process.",
+      "characterIds": ["luffy", "sanji"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "Luffy! Get your hands off that curry!",
+          "speaker": "Sanji",
+          "context": "Sanji stopping Luffy from eating the curry prematurely"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep133-event-011",
+      "episodeNumber": 133,
+      "timestamp": "20:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Tajio Successfully Completes the Curry",
+      "description": "With Sanji's guidance and his own recalled knowledge, Tajio successfully recreates the curry to perfection. The Straw Hats sample it and confirm its quality.",
+      "significance": "Resolution of the episode's main conflict. Shows Tajio's growth and validates Sanji's teaching approach.",
+      "characterIds": ["tajio", "sanji", "luffy"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "This is it! This is exactly how it should taste!",
+          "speaker": "Tajio",
+          "context": "Tajio realizing he's successfully recreated the curry"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep133-event-012",
+      "episodeNumber": 133,
+      "timestamp": "21:45",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MINOR",
+      "title": "Tajio Returns to Marine Vessel",
+      "description": "The Straw Hats help Tajio return to the Marine vessel with his completed curry. Despite being enemies on paper, they part on good terms with mutual respect.",
+      "significance": "Demonstrates the theme that dreams and passions can bridge even the pirate-Marine divide. Shows the Straw Hats' kindness.",
+      "characterIds": ["tajio", "sanji", "luffy", "robin"],
+      "locationIds": ["going-merry", "marine-vessel-18th-fleet"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep133-event-013",
+      "episodeNumber": 133,
+      "timestamp": "22:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Tajio Covers for the Straw Hats",
+      "description": "When questioned by his fellow Marines about his absence, Tajio covers for the Straw Hats, protecting them from pursuit. He thanks them silently for their help.",
+      "significance": "Shows Tajio's gratitude and honor. Reinforces the episode's theme about connections that transcend factional boundaries.",
+      "characterIds": ["tajio"],
+      "locationIds": ["marine-vessel-18th-fleet"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep133-event-014",
+      "episodeNumber": 133,
+      "timestamp": "23:15",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MINOR",
+      "title": "Straw Hats Escape Through the Fog",
+      "description": "The Going Merry safely departs the foggy area, leaving the Marine ships behind. The crew reflects on the encounter and Sanji's role as a mentor.",
+      "significance": "Concludes the episode with the crew successfully avoiding conflict and Sanji having passed on his knowledge to the next generation of chefs.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin"],
+      "locationIds": ["going-merry"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["tajio"],
+    "locations": ["marine-vessel-18th-fleet"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [],
+    "payoffFrom": [20, 21, 26],
+    "thematicLinks": [20, 21, 26, 27, 28, 29, 30]
+  },
+  "quotes": [
+    {
+      "text": "You can't rush cooking. Every ingredient needs time to blend properly.",
+      "speaker": "Sanji",
+      "context": "Teaching Tajio about patience in cooking",
+      "timestamp": "11:45"
+    },
+    {
+      "text": "I want to find All Blue, just like you!",
+      "speaker": "Tajio",
+      "context": "Expressing his dream to Sanji",
+      "timestamp": "10:15"
+    },
+    {
+      "text": "Watch carefully and remember every detail. Cooking isn't just about following a recipe—it's about understanding the process.",
+      "speaker": "Sanji",
+      "context": "Guiding Tajio through the cooking process",
+      "timestamp": "15:50"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Mentorship and Legacy",
+      "description": "The episode explores how knowledge and skills are passed from one generation to the next, with Sanji taking on Zeff's role as mentor to teach Tajio.",
+      "symbolism": "The curry recipe represents inherited knowledge and traditions that must be learned through practice and observation.",
+      "culturalReferences": ["Traditional apprenticeship methods in Japanese cooking culture"]
+    },
+    {
+      "theme": "Dreams Transcending Boundaries",
+      "description": "Despite being on opposite sides (pirates vs Marines), Sanji and Tajio connect through their shared dream of finding All Blue.",
+      "symbolism": "The fog represents the barriers between people that can be overcome through shared passions and mutual respect.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Patience and Dedication",
+      "description": "The episode emphasizes that mastery requires patience, attention to detail, and dedication rather than rushing through the process.",
+      "symbolism": "The cooking process itself serves as a metaphor for personal growth and skill development.",
+      "culturalReferences": ["Japanese culinary traditions emphasizing precision and patience"]
+    }
+  ],
+  "emotionalTone": ["Heartwarming", "Inspirational", "Lighthearted", "Reflective"],
+  "characterSpotlights": [
+    {
+      "characterId": "sanji",
+      "role": "Mentor and teacher",
+      "development": "Sanji takes on a mentorship role for the first time, passing on the lessons he learned from Zeff. This shows his growth from student to teacher and reinforces his identity as a master chef.",
+      "keyActions": [
+        "Recognizes Tajio's predicament and decides to help",
+        "Tastes and critiques Tajio's curry",
+        "Teaches Tajio through Zeff's indirect method",
+        "Protects the cooking process from Luffy's interference",
+        "Successfully guides Tajio to complete the curry"
+      ],
+      "quotes": [
+        "You can't rush cooking. Every ingredient needs time to blend properly.",
+        "Watch carefully and remember every detail. Cooking isn't just about following a recipe—it's about understanding the process."
+      ]
+    },
+    {
+      "characterId": "tajio",
+      "role": "Student seeking guidance",
+      "development": "Tajio grows from a frustrated apprentice to a more confident cook who understands the value of patience and observation in learning.",
+      "keyActions": [
+        "Falls overboard and gets rescued by the Straw Hats",
+        "Reveals his shared dream of All Blue with Sanji",
+        "Accepts Sanji's guidance and teaching",
+        "Successfully recreates the curry",
+        "Covers for the Straw Hats when returning to his ship"
+      ],
+      "quotes": [
+        "I want to find All Blue, just like you!",
+        "This is it! This is exactly how it should taste!"
+      ]
+    },
+    {
+      "characterId": "robin",
+      "role": "Rescuer and crew member",
+      "development": "Robin shows her integration with the crew by using her powers to help someone in need, demonstrating her compassionate side.",
+      "keyActions": [
+        "Rescues Tajio from drowning using her Devil Fruit powers"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "This entire episode is anime-original filler content with no manga counterpart.",
+      "episodeTimestamp": "00:00",
+      "mangaReference": "None",
+      "type": "ANIME_ORIGINAL_EPISODE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the first use of 'Free Will' by Ruppina as the ending theme, which would continue until episode 156.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_133",
+          "title": "Episode 133 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode contains a documented animation error where a Marine officer is depicted with two right arms.",
+      "category": "ANIMATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_133",
+          "title": "Episode 133 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 133 is part of the Post-Arabasta filler arc (episodes 131-135), where each episode focuses on a different Straw Hat crew member.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Post-Arabasta_Arc",
+          "title": "Post-Arabasta Arc - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Tajio shares Sanji's dream of finding All Blue, making him one of the few non-Straw Hat characters to have this specific dream.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "The episode's Japanese title uses parentheses to show that 'Recipe' (レシピ) is read as 'Dream' (Yume), emphasizing the dual meaning of inherited dreams and recipes.",
+      "category": "CULTURAL",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_133",
+          "title": "Episode 133 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
