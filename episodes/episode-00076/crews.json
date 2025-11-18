@@ -1,0 +1,177 @@
+[
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "luffy",
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [76],
+    "members": [
+      {
+        "characterId": "luffy",
+        "role": "Captain",
+        "episodeJoined": 1,
+        "episodeLeft": null,
+        "joinCircumstances": "Founded the crew"
+      },
+      {
+        "characterId": "zoro",
+        "role": "Swordsman",
+        "episodeJoined": 2,
+        "episodeLeft": null,
+        "joinCircumstances": "First crew member to join"
+      },
+      {
+        "characterId": "nami",
+        "role": "Navigator",
+        "episodeJoined": 44,
+        "episodeLeft": null,
+        "joinCircumstances": "Officially joined after Arlong Park"
+      },
+      {
+        "characterId": "usopp",
+        "role": "Sniper",
+        "episodeJoined": 17,
+        "episodeLeft": null,
+        "joinCircumstances": "Joined at Syrup Village"
+      },
+      {
+        "characterId": "sanji",
+        "role": "Cook",
+        "episodeJoined": 30,
+        "episodeLeft": null,
+        "joinCircumstances": "Joined after Baratie arc"
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 76,
+        "eventId": "ep076-event-003",
+        "momentType": "BATTLE_START",
+        "title": "Crew Counterattack Against Baroque Works",
+        "description": "After Usopp frees Luffy from hypnosis, the entire crew launches a coordinated counterattack against the Baroque Works agents threatening them.",
+        "significance": "Shows the crew working together to overcome a dire situation where they were nearly defeated.",
+        "timestamp": "08:45"
+      },
+      {
+        "episodeNumber": 76,
+        "eventId": "ep076-event-011",
+        "momentType": "MAJOR_DECISION",
+        "title": "Sanji Deceives Crocodile",
+        "description": "Sanji's quick thinking in impersonating Mr. 3 prevents Crocodile from discovering the crew's survival, buying them crucial time.",
+        "significance": "One of the crew's most important strategic victories, achieved through deception rather than combat.",
+        "timestamp": "22:00"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull wearing a straw hat with crossed bones behind it",
+      "episodeFirstSeen": 45,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": ["nefertari-vivi"],
+      "enemies": ["baroque-works"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Baroque Works",
+      "japanese": "バロックワークス",
+      "romanized": "Barokku Wākusu"
+    },
+    "crewType": "CRIMINAL_ORGANIZATION",
+    "captainId": "crocodile",
+    "debutEpisode": 62,
+    "debutChapter": 103,
+    "episodeAppearances": [76],
+    "members": [
+      {
+        "characterId": "crocodile",
+        "role": "President (Mr. 0)",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Founder and leader"
+      },
+      {
+        "characterId": "mr-3",
+        "role": "Officer Agent",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Officer Agent pair with Miss Goldenweek"
+      },
+      {
+        "characterId": "miss-goldenweek",
+        "role": "Officer Agent",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Officer Agent pair with Mr. 3"
+      },
+      {
+        "characterId": "mr-5",
+        "role": "Officer Agent",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Officer Agent pair with Miss Valentine"
+      },
+      {
+        "characterId": "miss-valentine",
+        "role": "Officer Agent",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Officer Agent pair with Mr. 5"
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 76,
+        "eventId": "ep076-event-010",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Leader Crocodile Makes First Appearance",
+        "description": "The organization's mysterious leader, Mr. 0 (Crocodile), makes his first appearance via Den Den Mushi call to check on the mission.",
+        "significance": "Reveals the true power behind Baroque Works - a Warlord of the Sea.",
+        "timestamp": "21:30"
+      },
+      {
+        "episodeNumber": 76,
+        "eventId": "ep076-event-008",
+        "momentType": "BATTLE_END",
+        "title": "Multiple Officer Agents Defeated",
+        "description": "Mr. 3, Miss Goldenweek, Mr. 5, and Miss Valentine are all defeated by the Straw Hats, representing a major failure for the organization.",
+        "significance": "The loss of four officer agents on Little Garden is a significant blow to Baroque Works' operations.",
+        "timestamp": "19:30"
+      },
+      {
+        "episodeNumber": 76,
+        "eventId": "ep076-event-011",
+        "momentType": "MAJOR_DECISION",
+        "title": "Crocodile Deceived About Mission Success",
+        "description": "Sanji successfully tricks Crocodile into believing the Straw Hats and Vivi have been eliminated, when in reality the mission failed completely.",
+        "significance": "This deception prevents immediate reinforcements and gives the protagonists time to continue their journey.",
+        "timestamp": "22:00"
+      }
+    ],
+    "ships": [],
+    "bases": ["Rain Dinners"],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "Unknown",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "#000000",
+    "relationships": {
+      "allies": [],
+      "enemies": ["straw-hat-pirates", "nefertari-vivi"],
+      "parentOrganization": null
+    }
+  }
+]

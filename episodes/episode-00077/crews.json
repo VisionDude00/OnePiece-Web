@@ -1,0 +1,112 @@
+[
+  {
+    "name": {
+      "english": "Baroque Works",
+      "japanese": "バロックワークス",
+      "romanized": "Barokku Wākusu"
+    },
+    "crewType": "CRIMINAL_ORGANIZATION",
+    "captainId": "crocodile",
+    "debutEpisode": 64,
+    "debutChapter": 103,
+    "episodeAppearances": [77],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 77,
+        "eventId": "ep077-event-001",
+        "momentType": "MISSION",
+        "title": "The Unluckies Deliver Eternal Pose",
+        "description": "Baroque Works' messenger duo, the Unluckies (Mr. 13 and Miss Friday), arrive at Little Garden to deliver an Eternal Pose to Arabasta to Mr. 3.",
+        "significance": "Shows the organization's communication and delivery system for critical missions.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 77,
+        "eventId": "ep077-event-002",
+        "momentType": "DECEPTION",
+        "title": "Leader Deceived by Sanji",
+        "description": "Mr. 0 (Crocodile) receives a false report from someone he believes is Mr. 3, not knowing he's actually speaking to Sanji of the Straw Hats.",
+        "significance": "First time Baroque Works' leader has been successfully deceived, showing a crack in the organization's intelligence.",
+        "timestamp": "05:20"
+      },
+      {
+        "episodeNumber": 77,
+        "eventId": "ep077-event-005",
+        "momentType": "INTERNAL_CONFLICT",
+        "title": "Crocodile Orders Mr. 3's Elimination",
+        "description": "Suspicious of the report, Crocodile orders Mr. 2 Bon Clay to intercept and eliminate Mr. 3 before he reaches Arabasta.",
+        "significance": "Demonstrates the ruthless nature of Baroque Works where failure or suspicion leads to execution by fellow agents.",
+        "timestamp": "10:15"
+      }
+    ],
+    "ships": [],
+    "bases": ["Rain Dinners"],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A stylized skull with a crown",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "#000000",
+    "relationships": {
+      "allies": [],
+      "enemies": ["straw-hat-pirates"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "luffy",
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [77],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 77,
+        "eventId": "ep077-event-004",
+        "momentType": "TREASURE_DISCOVERY",
+        "title": "Obtain Eternal Pose to Arabasta",
+        "description": "Through Sanji's clever deception, the Straw Hats obtain an Eternal Pose that will guide them directly to Arabasta.",
+        "significance": "Allows the crew to bypass normal navigation and sail straight to their destination, accelerating their journey.",
+        "timestamp": "08:30"
+      },
+      {
+        "episodeNumber": 77,
+        "eventId": "ep077-event-007",
+        "momentType": "LOCATION_DEPARTURE",
+        "title": "Departure from Little Garden",
+        "description": "The Straw Hat Pirates leave Little Garden on the Going Merry, setting course for Arabasta with Vivi and Karoo.",
+        "significance": "Marks the end of the Little Garden Arc and the crew's progression toward the major Arabasta confrontation.",
+        "timestamp": "15:30"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Going Merry",
+        "episodeAcquired": 17,
+        "episodeLost": null,
+        "description": "The crew's first ship, a caravel gifted by Kaya"
+      }
+    ],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull wearing a straw hat with crossed bones behind it",
+      "episodeFirstSeen": 45,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": ["dorry", "brogy"],
+      "enemies": ["baroque-works"],
+      "parentOrganization": null
+    }
+  }
+]
