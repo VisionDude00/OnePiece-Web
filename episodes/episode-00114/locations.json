@@ -1,0 +1,102 @@
+[
+  {
+    "id": "alubarna-molehill-4th-avenue",
+    "name": {
+      "english": "Molehill 4th Avenue",
+      "japanese": "モグラ塚4番街",
+      "romanized": "Mogura Tsuka Yonban-gai"
+    },
+    "locationType": "BATTLEFIELD",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Arabasta",
+    "parentLocation": "alubarna",
+    "debutEpisode": 113,
+    "debutChapter": 184,
+    "description": "An area in Alubarna featuring an extensive underground tunnel system created by Miss Merry Christmas's Mogu Mogu no Mi powers. The location becomes the battlefield for Usopp and Chopper's fight against Mr. 4 and Miss Merry Christmas.",
+    "episodeAppearances": [114],
+    "keyEvents": [
+      {
+        "episodeNumber": 114,
+        "eventId": "ep114-event-001",
+        "eventType": "BATTLE_START",
+        "title": "Underground Battle Continues",
+        "description": "Usopp and Chopper continue their desperate battle against Mr. 4 and Miss Merry Christmas in the underground tunnel system.",
+        "significance": "The interconnected tunnels become both an advantage for the enemies and ultimately their downfall when Chopper discovers the connection pattern.",
+        "timestamp": "04:15"
+      },
+      {
+        "episodeNumber": 114,
+        "eventId": "ep114-event-004",
+        "eventType": "BATTLE_START",
+        "title": "Whack-a-Mole Battle",
+        "description": "The location's multiple tunnel entrances create a unique whack-a-mole style combat scenario.",
+        "significance": "Demonstrates how the environment shapes the battle dynamics and tactics.",
+        "timestamp": "09:20"
+      },
+      {
+        "episodeNumber": 114,
+        "eventId": "ep114-event-008",
+        "eventType": "POWER_REVEAL",
+        "title": "Tunnel System Analyzed",
+        "description": "Chopper discovers that all the mole holes in this area are interconnected underground, revealing a crucial tactical weakness.",
+        "significance": "The revelation about the location's structure becomes key to defeating the Baroque Works agents.",
+        "timestamp": "17:15"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 113,
+        "episodeEnd": 115,
+        "reason": "Active battlefield during the Arabasta conflict"
+      }
+    ],
+    "childLocations": [],
+    "relatedCharacters": ["usopp", "chopper", "mr-4", "miss-merry-christmas", "lassoo"],
+    "relatedCrews": ["straw-hat-pirates", "baroque-works"],
+    "relatedArcs": ["Arabasta Arc"],
+    "images": []
+  },
+  {
+    "id": "alubarna",
+    "name": {
+      "english": "Alubarna",
+      "japanese": "アルバーナ",
+      "romanized": "Arubāna"
+    },
+    "locationType": "CITY",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Arabasta",
+    "debutEpisode": 92,
+    "debutChapter": 159,
+    "description": "The capital city of the Arabasta Kingdom, serving as the central battleground during the civil war and the location of the royal palace.",
+    "episodeAppearances": [114],
+    "keyEvents": [
+      {
+        "episodeNumber": 114,
+        "eventId": "ep114-event-010",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Rebellion Advance",
+        "description": "Brief scenes show Koza leading the rebel army's continued advance toward the palace while Vivi tries to stop the fighting.",
+        "significance": "Maintains tension of the larger Arabasta conflict occurring simultaneously with individual battles.",
+        "timestamp": "02:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 92,
+        "episodeEnd": "present",
+        "reason": "Capital city of Arabasta Kingdom"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["alubarna-molehill-4th-avenue", "alubarna-palace"],
+    "relatedCharacters": ["vivi", "koza", "nefertari-cobra", "usopp", "chopper", "luffy", "crocodile"],
+    "relatedCrews": ["straw-hat-pirates", "baroque-works"],
+    "relatedArcs": ["Arabasta Arc"],
+    "images": []
+  }
+]

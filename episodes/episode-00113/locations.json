@@ -1,0 +1,118 @@
+[
+  {
+    "name": {
+      "english": "Alubarna",
+      "japanese": "アルバーナ",
+      "romanized": "Arubāna"
+    },
+    "locationType": "CITY",
+    "seaRegion": "PARADISE",
+    "islandName": "Arabasta",
+    "debutEpisode": 92,
+    "debutChapter": 155,
+    "description": "The capital city of the Arabasta Kingdom, where the climactic battles of the civil war take place. In this episode, it becomes the battleground for the Straw Hats' fight against Baroque Works.",
+    "episodeAppearances": [113],
+    "keyEvents": [
+      {
+        "episodeNumber": 113,
+        "eventId": "ep113-event-001",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Vivi Reaches Alubarna Outskirts",
+        "description": "Princess Vivi arrives at the outskirts attempting to stop the rebel army from attacking the capital.",
+        "significance": "Marks the beginning of Vivi's desperate attempt to prevent the civil war from destroying the capital city.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 113,
+        "eventId": "ep113-event-003",
+        "eventType": "BATTLE_START",
+        "title": "Mr. 2 Pursues Vivi Through Alubarna",
+        "description": "Mr. 2 Bon Clay chases Vivi and the wounded Karoo through the streets of Alubarna.",
+        "significance": "Transforms Alubarna into a dangerous chase scene as Baroque Works attempts to assassinate the princess.",
+        "timestamp": "07:15"
+      },
+      {
+        "episodeNumber": 113,
+        "eventId": "ep113-event-010",
+        "eventType": "BATTLE_START",
+        "title": "Sanji Fights Through Both Armies in Alubarna",
+        "description": "Sanji battles through both the Royal and Rebel armies in the streets of Alubarna to reach and protect Vivi.",
+        "significance": "Shows the chaos and violence of the civil war engulfing the capital city.",
+        "timestamp": "19:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 92,
+        "episodeEnd": "present",
+        "reason": "Capital city under siege during civil war"
+      }
+    ],
+    "parentLocation": "arabasta-kingdom",
+    "childLocations": ["alubarna-southeast-gate", "alubarna-palace"],
+    "relatedCharacters": ["vivi", "karoo", "mr-2-bon-clay", "sanji"],
+    "relatedCrews": ["baroque-works", "arabasta-royal-army", "arabasta-rebel-army"],
+    "relatedArcs": ["Arabasta Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Alubarna Southeast Gate",
+      "japanese": "アルバーナ南東の門",
+      "romanized": "Arubāna Nantō no Mon"
+    },
+    "locationType": "BATTLEFIELD",
+    "seaRegion": "PARADISE",
+    "islandName": "Arabasta",
+    "debutEpisode": 113,
+    "debutChapter": 183,
+    "description": "One of the gates of Alubarna that becomes the battlefield where Usopp and Chopper face Mr. 4 and Miss Merry Christmas. The area features dusty terrain that Miss Merry Christmas exploits with her underground tunnels.",
+    "episodeAppearances": [113],
+    "keyEvents": [
+      {
+        "episodeNumber": 113,
+        "eventId": "ep113-event-005",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Usopp Finds Wounded Chopper at Southeast Gate",
+        "description": "Usopp discovers the injured Chopper at the Southeast Gate, where they must face Mr. 4 and Miss Merry Christmas.",
+        "significance": "Establishes this gate as the battlefield for one of the arc's most memorable fights.",
+        "timestamp": "11:50"
+      },
+      {
+        "episodeNumber": 113,
+        "eventId": "ep113-event-007",
+        "eventType": "POWER_REVEAL",
+        "title": "Miss Merry Christmas Creates Tunnel Network",
+        "description": "Miss Merry Christmas uses her Mogu Mogu no Mi to create an extensive underground tunnel network beneath the Southeast Gate.",
+        "significance": "The terrain is transformed into a tactical advantage for the Baroque Works agents through the tunnel system.",
+        "timestamp": "14:45"
+      },
+      {
+        "episodeNumber": 113,
+        "eventId": "ep113-event-008",
+        "eventType": "BATTLE_START",
+        "title": "Battle at Southeast Gate Begins",
+        "description": "The full battle between Usopp & Chopper vs Mr. 4 & Miss Merry Christmas begins at the Southeast Gate.",
+        "significance": "This location becomes the stage for testing the courage and ingenuity of the Straw Hats' weakest members.",
+        "timestamp": "16:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 113,
+        "episodeEnd": 115,
+        "reason": "Active battlefield during Baroque Works confrontation"
+      }
+    ],
+    "parentLocation": "alubarna",
+    "childLocations": [],
+    "relatedCharacters": ["usopp", "chopper", "mr-4", "miss-merry-christmas", "lassoo"],
+    "relatedCrews": ["straw-hat-pirates", "baroque-works"],
+    "relatedArcs": ["Arabasta Arc"],
+    "images": []
+  }
+]
