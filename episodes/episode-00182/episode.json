@@ -1,0 +1,528 @@
+{
+  "episodeNumber": 182,
+  "episodeTitle": "They Finally Clash! Pirate Luffy vs. God Eneru!",
+  "description": "Luffy finally confronts Enel in a climactic battle. To everyone's shock, Enel's devastating lightning attacks prove completely ineffective against Luffy's rubber body. Meanwhile, Conis and McKinley work to evacuate Angel Island's citizens before Enel can destroy it.",
+  "airDate": "2004-02-22",
+  "airDateJapan": "2004-02-22",
+  "airDateUS": "2008-11-19",
+  "arcName": "Skypiea Arc",
+  "sagaName": "Sky Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "BON VOYAGE!",
+    "artist": "Bon-Bon Blanco",
+    "episodeRange": [207, 263]
+  },
+  "endingSong": {
+    "title": "Tsuki to Taiyō",
+    "artist": "shela",
+    "episodeRange": [182, 195]
+  },
+  "credits": {
+    "animationDirector": "Takeo Ide",
+    "director": "Kōnosuke Uda",
+    "screenplay": "Junki Takegami",
+    "artDirection": ["Miyuki Sato", "Michiyo Kawasaki"],
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Enel",
+        "actor": "Toshiyuki Morikawa"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Conis",
+        "actor": "Masami Suzuki"
+      },
+      {
+        "character": "Aisa",
+        "actor": "Masami Suzuki"
+      },
+      {
+        "character": "McKinley",
+        "actor": "Masato Hirano"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Enel",
+        "actor": "J. Michael Tatum"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep182-event-001",
+      "episodeNumber": 182,
+      "timestamp": "03:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Conis Warns Angel Island Citizens",
+      "description": "Conis arrives at Angel Island and courageously warns the citizens about Enel's plan to destroy the island. Despite the danger of defying the self-proclaimed god, she urges everyone to evacuate immediately to save their lives.",
+      "significance": "Demonstrates Conis's character growth from fearful citizen to brave protector of her people. This moment shows her willingness to risk everything to save others from Enel's wrath.",
+      "characterIds": ["conis"],
+      "locationIds": ["angel-island"],
+      "quotes": [
+        {
+          "text": "Everyone, please listen! You must evacuate the island immediately! Enel plans to destroy everything!",
+          "speaker": "Conis",
+          "context": "Conis's desperate plea to save Angel Island's inhabitants"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [172, 180],
+      "payoffInEpisodes": [183, 184],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep182-event-002",
+      "episodeNumber": 182,
+      "timestamp": "05:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "McKinley Reveals Birka's Destruction",
+      "description": "McKinley reveals that Enel destroyed his home island of Birka, a sky island to the southeast, six years ago. This revelation confirms Enel's true nature as a destructive tyrant rather than a benevolent deity, and shows he has committed genocide before.",
+      "significance": "This is the first mention of Birka's destruction and establishes Enel's backstory as someone who has already annihilated an entire civilization. It foreshadows what could happen to Skypiea and raises the stakes dramatically.",
+      "characterIds": ["mckinley", "enel"],
+      "locationIds": ["angel-island", "birka"],
+      "quotes": [
+        {
+          "text": "I can't let this island turn into another Birka. That sky island to the southeast disappeared six years ago... Enel destroyed his own homeland before coming here.",
+          "speaker": "McKinley",
+          "context": "McKinley reveals Enel's dark past and the fate of Birka"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [187, 279],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep182-event-003",
+      "episodeNumber": 182,
+      "timestamp": "08:45",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Aisa Guides Luffy to Enel",
+      "description": "Using her Mantra (Observation Haki) ability, Aisa successfully guides Luffy through the complex interior of the Giant Jack to find Enel's location in the cave where he's holding Nami captive.",
+      "significance": "Aisa's guidance is crucial in bringing together the two main combatants. Her Mantra ability proves instrumental in navigating the massive structure and setting up the climactic confrontation.",
+      "characterIds": ["aisa", "luffy"],
+      "locationIds": ["giant-jack"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [180, 181],
+      "payoffInEpisodes": [182],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep182-event-004",
+      "episodeNumber": 182,
+      "timestamp": "10:20",
+      "eventType": "BATTLE_START",
+      "severity": "CRITICAL",
+      "title": "Luffy Confronts Enel",
+      "description": "Luffy finally comes face-to-face with Enel in the cave. Upon seeing the self-proclaimed god, Luffy immediately challenges him, questioning what makes Enel worthy of being called a god. The battle that will determine Skypiea's fate begins.",
+      "significance": "This marks the beginning of one of the arc's most important battles. It's the first direct confrontation between Luffy and the main antagonist of the Skypiea arc, setting up the revelation of Luffy's natural advantage.",
+      "characterIds": ["luffy", "enel", "nami"],
+      "locationIds": ["enels-ark-maxim"],
+      "quotes": [
+        {
+          "text": "So you're the god everyone's talking about? What makes you a god anyway?",
+          "speaker": "Luffy",
+          "context": "Luffy's first words to Enel, challenging his divine status"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181],
+      "payoffInEpisodes": [182, 183, 184],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep182-event-005",
+      "episodeNumber": 182,
+      "timestamp": "12:00",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Enel Uses El Thor",
+      "description": "Enel unleashes his El Thor technique, a massive lightning strike aimed directly at Luffy. The attack creates a giant hole in the wall behind where Luffy was standing, demonstrating the devastating power of Enel's lightning abilities.",
+      "significance": "Demonstrates the raw destructive power of Enel's Goro Goro no Mi abilities and sets up the shocking revelation that Luffy can withstand these attacks.",
+      "characterIds": ["enel", "luffy"],
+      "devilFruitIds": ["goro-goro-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [173]
+    },
+    {
+      "id": "ep182-event-006",
+      "episodeNumber": 182,
+      "timestamp": "13:15",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Luffy Survives El Thor Attack",
+      "description": "As the smoke clears from Enel's El Thor attack, both Enel and Nami are shocked to see Luffy standing unharmed. Luffy himself seems confused about the attack, looking at the giant hole in the wall with curiosity rather than fear.",
+      "significance": "This is the first hint that Luffy has a natural defense against Enel's lightning powers. The moment begins to undermine Enel's confidence and foreshadows his ultimate vulnerability.",
+      "characterIds": ["luffy", "enel", "nami"],
+      "devilFruitIds": ["gomu-gomu-no-mi", "goro-goro-no-mi"],
+      "quotes": [
+        {
+          "text": "Huh? What was that supposed to be?",
+          "speaker": "Luffy",
+          "context": "Luffy's confused reaction after surviving El Thor"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [1],
+      "payoffInEpisodes": [182, 183],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep182-event-007",
+      "episodeNumber": 182,
+      "timestamp": "14:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Enel Debuts 60 Million Volt Jamboule",
+      "description": "Frustrated that his El Thor didn't work, Enel charges up an even more powerful attack: 60 Million Volt Jamboule. He releases a massive spherical lightning attack directly at Luffy, engulfing him in electrical energy.",
+      "significance": "First appearance of this powerful technique in Enel's arsenal. The escalation shows Enel's growing concern that his initial attack failed, prompting him to use stronger techniques.",
+      "characterIds": ["enel", "luffy"],
+      "devilFruitIds": ["goro-goro-no-mi"],
+      "quotes": [
+        {
+          "text": "60 Million Volt Jamboule!",
+          "speaker": "Enel",
+          "context": "Enel unleashes a more powerful lightning attack"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep182-event-008",
+      "episodeNumber": 182,
+      "timestamp": "15:00",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Luffy Unharmed by 60 Million Volt Jamboule",
+      "description": "The smoke clears once again to reveal Luffy standing completely unharmed after being engulfed by 60 Million Volt Jamboule. Enel's shock and disbelief grow as his increasingly powerful attacks continue to have no effect on the rubber pirate.",
+      "significance": "Further confirms Luffy's immunity to lightning, escalating Enel's confusion and fear. The pattern of failed attacks begins to shift the power dynamic of the fight.",
+      "characterIds": ["luffy", "enel", "nami"],
+      "devilFruitIds": ["gomu-gomu-no-mi", "goro-goro-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep182-event-009",
+      "episodeNumber": 182,
+      "timestamp": "16:10",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Enel Debuts 100 Million Volt Vari",
+      "description": "In desperation, Enel teleports directly in front of Luffy using his lightning powers and unleashes his most powerful attack yet: 100 Million Volt Vari, a devastating point-blank electrical discharge aimed to obliterate his opponent.",
+      "significance": "First appearance of one of Enel's strongest techniques. The fact that Enel uses this attack at point-blank range shows his growing desperation and disbelief at Luffy's resistance.",
+      "characterIds": ["enel", "luffy"],
+      "devilFruitIds": ["goro-goro-no-mi"],
+      "quotes": [
+        {
+          "text": "100 Million Volt Vari!",
+          "speaker": "Enel",
+          "context": "Enel unleashes his most powerful attack at point-blank range"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep182-event-010",
+      "episodeNumber": 182,
+      "timestamp": "17:00",
+      "eventType": "POWER_REVEAL",
+      "severity": "ULTRA_SECRET",
+      "title": "Nami Realizes Luffy's Immunity to Lightning",
+      "description": "After witnessing Luffy survive three consecutive lightning attacks, Nami has a crucial realization: Luffy's rubber body makes him completely immune to electrical attacks. She explains that rubber is a natural insulator, making Luffy Enel's natural enemy despite Enel possessing one of the most powerful Devil Fruits.",
+      "significance": "This revelation is the turning point of the entire Skypiea arc. It establishes why Luffy can defeat a seemingly invincible Logia user without Haki, introducing the concept of natural Devil Fruit matchups. This moment fundamentally changes the nature of the battle and gives Luffy a path to victory.",
+      "characterIds": ["nami", "luffy", "enel"],
+      "devilFruitIds": ["gomu-gomu-no-mi", "goro-goro-no-mi"],
+      "quotes": [
+        {
+          "text": "That's it! Luffy's body is made of rubber! Rubber doesn't conduct electricity! Enel's lightning attacks are completely useless against him!",
+          "speaker": "Nami",
+          "context": "Nami's realization of Luffy's natural advantage"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [1, 2, 3],
+      "payoffInEpisodes": [183, 184],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep182-event-011",
+      "episodeNumber": 182,
+      "timestamp": "18:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Luffy Can Touch and Hurt Enel",
+      "description": "Luffy demonstrates that not only is he immune to Enel's lightning, but his rubber body also allows him to physically touch and harm Enel despite him being a Logia user. This double advantage completely negates Enel's seeming invincibility.",
+      "significance": "This establishes that Luffy has found a way to harm a Logia user without Haki, through the natural properties of his Devil Fruit. It's a crucial moment that will influence how Devil Fruit matchups are understood throughout the series.",
+      "characterIds": ["luffy", "enel"],
+      "devilFruitIds": ["gomu-gomu-no-mi", "goro-goro-no-mi"],
+      "quotes": [
+        {
+          "text": "I don't know about god powers or whatever, but I can hit you just fine!",
+          "speaker": "Luffy",
+          "context": "Luffy demonstrates he can physically harm Enel"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [183, 184],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep182-event-012",
+      "episodeNumber": 182,
+      "timestamp": "20:15",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Enel's God Complex Shattered",
+      "description": "For the first time, Enel's absolute confidence in his divine status is shaken. Faced with an opponent who is immune to his most powerful attacks, Enel begins to show genuine fear and disbelief, marking a fundamental shift in his character.",
+      "significance": "This moment deconstructs the god mythology that Enel has built around himself. It shows that his power, while formidable, is not absolute and that he can be challenged and defeated.",
+      "characterIds": ["enel", "luffy"],
+      "quotes": [
+        {
+          "text": "Impossible... How can this be? I am God!",
+          "speaker": "Enel",
+          "context": "Enel's disbelief at finding his natural enemy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [167, 168, 169],
+      "payoffInEpisodes": [183, 184],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["60-million-volt-jamboule", "100-million-volt-vari"]
+  },
+  "episodeRelationships": {
+    "setupFor": [183, 184],
+    "payoffFrom": [167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181],
+    "thematicLinks": [1, 2, 3]
+  },
+  "quotes": [
+    {
+      "text": "So you're the god everyone's talking about? What makes you a god anyway?",
+      "speaker": "Luffy",
+      "context": "Luffy's first words challenging Enel's divine status",
+      "timestamp": "10:20"
+    },
+    {
+      "text": "I can't let this island turn into another Birka. That sky island to the southeast disappeared six years ago... Enel destroyed his own homeland before coming here.",
+      "speaker": "McKinley",
+      "context": "Revealing Enel's destruction of Birka",
+      "timestamp": "05:30"
+    },
+    {
+      "text": "That's it! Luffy's body is made of rubber! Rubber doesn't conduct electricity! Enel's lightning attacks are completely useless against him!",
+      "speaker": "Nami",
+      "context": "Nami's crucial realization about Luffy's immunity",
+      "timestamp": "17:00"
+    },
+    {
+      "text": "I don't know about god powers or whatever, but I can hit you just fine!",
+      "speaker": "Luffy",
+      "context": "Luffy demonstrates he can physically harm Enel",
+      "timestamp": "18:30"
+    },
+    {
+      "text": "Impossible... How can this be? I am God!",
+      "speaker": "Enel",
+      "context": "Enel's disbelief at finding his natural enemy",
+      "timestamp": "20:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Natural Advantages and Weaknesses",
+      "description": "The episode explores how natural properties and matchups can overcome seemingly insurmountable power differences. Luffy's rubber body, which seemed like a simple power, becomes the perfect counter to Enel's godlike lightning abilities.",
+      "symbolism": "The concept of rubber nullifying electricity symbolizes how the right approach or natural advantage can defeat overwhelming power.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Challenging False Gods",
+      "description": "Luffy's confrontation with Enel represents the broader theme of challenging false authority and tyranny. By questioning what makes Enel a god and proving his vulnerability, Luffy deconstructs the mythology of divine power.",
+      "symbolism": "Enel's crumbling confidence represents the fall of tyrannical authority when faced with genuine courage and natural justice.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Courage in the Face of Overwhelming Power",
+      "description": "Both Luffy and Conis demonstrate tremendous courage in this episode. Conis risks her life to warn the citizens, while Luffy fearlessly challenges a god without knowing he has an advantage.",
+      "symbolism": "The willingness to stand up against tyranny despite the odds represents the core values of heroism in One Piece.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Triumphant", "Shocking", "Intense", "Comedic"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist - The Natural Enemy",
+      "development": "Luffy discovers his rubber body makes him Enel's perfect counter. His fearless confrontation and natural immunity establish him as the only one who can defeat the self-proclaimed god.",
+      "keyActions": [
+        "Confronts Enel directly",
+        "Survives multiple devastating lightning attacks",
+        "Demonstrates ability to physically harm Enel",
+        "Challenges Enel's claim to godhood"
+      ],
+      "quotes": [
+        "So you're the god everyone's talking about? What makes you a god anyway?",
+        "I don't know about god powers or whatever, but I can hit you just fine!"
+      ]
+    },
+    {
+      "characterId": "enel",
+      "role": "Antagonist - The Fallen God",
+      "development": "Enel's absolute confidence is shaken for the first time as he encounters an opponent immune to his powers. His escalating attacks and growing desperation show the beginning of his downfall.",
+      "keyActions": [
+        "Uses El Thor attack",
+        "Debuts 60 Million Volt Jamboule",
+        "Debuts 100 Million Volt Vari",
+        "Shows genuine fear and disbelief for the first time"
+      ],
+      "quotes": [
+        "60 Million Volt Jamboule!",
+        "100 Million Volt Vari!",
+        "Impossible... How can this be? I am God!"
+      ]
+    },
+    {
+      "characterId": "nami",
+      "role": "Observer - The Explainer",
+      "development": "Nami serves as the audience surrogate, realizing and explaining why Luffy is immune to lightning. Her knowledge of weather and natural phenomena helps her understand the situation.",
+      "keyActions": [
+        "Witnesses the battle between Luffy and Enel",
+        "Realizes Luffy's rubber body makes him immune to electricity",
+        "Explains the scientific basis for Luffy's immunity"
+      ],
+      "quotes": [
+        "That's it! Luffy's body is made of rubber! Rubber doesn't conduct electricity! Enel's lightning attacks are completely useless against him!"
+      ]
+    },
+    {
+      "characterId": "conis",
+      "role": "Supporting - The Brave Messenger",
+      "development": "Conis shows tremendous growth by openly defying Enel to warn the Angel Island citizens. Her courage marks her transformation from fearful subject to active protector.",
+      "keyActions": [
+        "Arrives at Angel Island",
+        "Warns citizens about Enel's plan",
+        "Organizes evacuation despite personal danger"
+      ],
+      "quotes": [
+        "Everyone, please listen! You must evacuate the island immediately! Enel plans to destroy everything!"
+      ]
+    },
+    {
+      "characterId": "mckinley",
+      "role": "Supporting - The Revealer",
+      "development": "McKinley backs Conis's warning and provides crucial backstory about Enel's destruction of Birka, giving historical context to the current threat.",
+      "keyActions": [
+        "Supports Conis's evacuation effort",
+        "Reveals that Enel destroyed Birka six years ago",
+        "Helps organize the citizens"
+      ],
+      "quotes": [
+        "I can't let this island turn into another Birka. That sky island to the southeast disappeared six years ago... Enel destroyed his own homeland before coming here."
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends some of the battle sequences and reaction shots for dramatic effect, while the manga covers these moments more quickly.",
+      "episodeTimestamp": "12:00-19:00",
+      "mangaReference": "Chapters 278-279",
+      "type": "PACING_CHANGE"
+    },
+    {
+      "difference": "The evacuation scenes with Conis and McKinley are given more screen time in the anime to build tension.",
+      "episodeTimestamp": "03:15-07:00",
+      "mangaReference": "Chapter 279",
+      "type": "EXPANDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the first time the ending theme 'Tsuki to Taiyō' (The Moon and The Sun) by shela is used, symbolically representing the duality between Luffy and Enel.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_182",
+          "title": "Episode 182 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 182 achieved a TV rating of 11.9% and ranked #6 in viewership when it aired in Japan on February 22, 2004.",
+      "category": "RATINGS",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_182",
+          "title": "Episode 182 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The concept of Luffy being Enel's 'natural enemy' introduced in this episode becomes a recurring theme in One Piece, where Devil Fruit matchups and natural advantages play crucial roles in battles.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "This is one of the few instances in the series where a Logia user can be hit without the use of Haki, due to the natural properties of Devil Fruit matchups.",
+      "category": "POWER_SYSTEM",
+      "sources": []
+    },
+    {
+      "fact": "The revelation about Birka's destruction (6 years before this episode) provides important backstory for Enel and establishes him as a mass murderer rather than just a tyrant.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Birka",
+          "title": "Birka - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

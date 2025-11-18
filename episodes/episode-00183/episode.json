@@ -1,0 +1,538 @@
+{
+  "episodeNumber": 183,
+  "episodeTitle": "Maxim Rises! The Start of Deathpiea!!",
+  "description": "The battle between Luffy and Enel intensifies as Luffy's rubber body proves immune to lightning attacks. Enel adapts by using his golden staff and activates Deathpiea, a catastrophic system designed to destroy all of Skypiea with massive thunderclouds.",
+  "airDate": "2004-02-29",
+  "airDateJapan": "2004-02-29",
+  "airDateUS": "2008-11-20",
+  "arcName": "Skypiea Arc",
+  "sagaName": "Sky Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "BON VOYAGE!",
+    "artist": "Bon-Bon Blanco",
+    "episodeRange": [169, 206]
+  },
+  "endingSong": {
+    "title": "Tsuki to Taiyo",
+    "artist": "Shela",
+    "episodeRange": [182, 195]
+  },
+  "credits": {
+    "director": "Takahiro Imamura",
+    "writer": "Michiru Shimada",
+    "animationDirector": "Kazuya Hisada",
+    "artDirectors": ["Miyuki Sato", "Kunihiro Chida"],
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Enel",
+        "actor": "Toshiyuki Morikawa"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Aisa",
+        "actor": "Yuka Shioyama"
+      },
+      {
+        "character": "McKinley",
+        "actor": "Masato Hirano"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Enel",
+        "actor": "J Michael Tatum"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep183-event-001",
+      "episodeNumber": 183,
+      "timestamp": "02:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Rubber Immunity to Lightning Confirmed",
+      "description": "Nami realizes and explains that Luffy's rubber body makes him completely immune to Enel's electrical attacks. This revelation shocks Enel, who has never encountered rubber in the White-White Sea and doesn't understand why his god-like powers have no effect.",
+      "significance": "This marks the turning point in the battle, establishing Luffy as Enel's natural predator and setting up the David vs Goliath dynamic where Luffy's seemingly weaker power perfectly counters Enel's overwhelming electrical abilities.",
+      "characterIds": ["luffy", "enel", "nami"],
+      "locationIds": ["ark-maxim"],
+      "devilFruitIds": ["gomu-gomu-no-mi", "goro-goro-no-mi"],
+      "quotes": [
+        {
+          "text": "Rubber doesn't conduct electricity! Luffy is completely immune to his lightning!",
+          "speaker": "Nami",
+          "context": "Nami explaining why Luffy can withstand Enel's attacks"
+        },
+        {
+          "text": "What are you? Rubber does not exist in the White-White Sea!",
+          "speaker": "Enel",
+          "context": "Enel's confusion upon learning Luffy is made of rubber"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [182],
+      "payoffInEpisodes": [183, 184, 185, 194, 195],
+      "callbacksToEpisodes": [1, 4, 8]
+    },
+    {
+      "id": "ep183-event-002",
+      "episodeNumber": 183,
+      "timestamp": "04:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Luffy Declares His Dream to Enel",
+      "description": "When Enel suggests Luffy should join him in ruling the world, Luffy refuses and declares his dream to become King of the Pirates. This declaration intrigues Enel, who finds the concept 'not half bad.'",
+      "significance": "Reaffirms Luffy's core motivation and contrasts his dream of freedom on the seas with Enel's desire for godhood and domination. Shows that even villains can respect the magnitude of Luffy's ambition.",
+      "characterIds": ["luffy", "enel"],
+      "locationIds": ["ark-maxim"],
+      "quotes": [
+        {
+          "text": "I'm going to be King of the Pirates!",
+          "speaker": "Luffy",
+          "context": "Luffy declaring his dream when Enel suggests he should rule with him"
+        },
+        {
+          "text": "King of the sea, you say? That's not half bad.",
+          "speaker": "Enel",
+          "context": "Enel's response to Luffy's dream"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [1, 4],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [1, 53, 130]
+    },
+    {
+      "id": "ep183-event-003",
+      "episodeNumber": 183,
+      "timestamp": "06:15",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Enel Adapts - Golden Staff Combat",
+      "description": "Realizing his lightning powers are useless against Luffy, Enel transforms his golden staff into a trident and begins using it as a melee weapon. Using his Mantra to predict Luffy's movements, he pins Luffy against the wall.",
+      "significance": "Demonstrates Enel's adaptability and intelligence as a fighter. Shows that even without his devil fruit's offensive capabilities, he remains dangerous due to his Mantra and combat skills.",
+      "characterIds": ["enel", "luffy"],
+      "locationIds": ["ark-maxim"],
+      "quotes": [
+        {
+          "text": "Lightning is not the only weapon I can use. Once I realize something does not work, I can adapt my strategy accordingly.",
+          "speaker": "Enel",
+          "context": "Enel explaining his adaptability after discovering his lightning doesn't work on Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [182],
+      "payoffInEpisodes": [183, 184],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep183-event-004",
+      "episodeNumber": 183,
+      "timestamp": "09:00",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Gomu Gomu no Tako Debut",
+      "description": "Luffy debuts the Gomu Gomu no Tako (Rubber Rubber Octopus) technique, transforming his arms and legs into tentacle-like appendages and rapidly punching the walls of the Maxim's throne room. Nami finds this new technique to be another one of Luffy's 'silly ideas.'",
+      "significance": "Introduces one of Luffy's most creative and unusual techniques, showcasing his ability to use his rubber body in unconventional ways during combat.",
+      "characterIds": ["luffy", "nami"],
+      "locationIds": ["ark-maxim"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [
+        {
+          "text": "Gomu Gomu no... Tako!",
+          "speaker": "Luffy",
+          "context": "Luffy using his new octopus technique for the first time"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [183],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep183-event-005",
+      "episodeNumber": 183,
+      "timestamp": "10:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Gomu Gomu no Tako Hanabi and Ricochet Strategy",
+      "description": "Luffy discovers that by using Gomu Gomu no Tako Hanabi (Rubber Rubber Octopus Fireworks) and ricocheting his attacks off the walls, he can bypass Enel's Mantra. The ricochet attacks are unpredictable because they come from the natural bounce of the walls rather than Luffy's conscious thoughts, which Enel's Mantra reads.",
+      "significance": "This is a crucial strategic breakthrough that demonstrates Luffy's battle intelligence. By turning off his mind and using environmental physics, he finds a way to counter precognitive abilities - a concept that will be important in future battles.",
+      "characterIds": ["luffy", "enel"],
+      "locationIds": ["ark-maxim"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [
+        {
+          "text": "Gomu Gomu no... Tako Hanabi!",
+          "speaker": "Luffy",
+          "context": "Luffy using ricochet attacks that Enel cannot predict"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [160, 182],
+      "payoffInEpisodes": [183, 184],
+      "callbacksToEpisodes": [160]
+    },
+    {
+      "id": "ep183-event-006",
+      "episodeNumber": 183,
+      "timestamp": "11:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Gomu Gomu no Rifle Debut",
+      "description": "Luffy debuts the Gomu Gomu no Rifle technique, a more powerful variation of his Gomu Gomu no Pistol where he twists his arm while stretching it back, adding rotational force to his punch.",
+      "significance": "Introduces an enhanced version of Luffy's signature attack that will become one of his staple moves throughout the series, demonstrating his growing combat sophistication.",
+      "characterIds": ["luffy", "enel"],
+      "locationIds": ["ark-maxim"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [
+        {
+          "text": "Gomu Gomu no... Rifle!",
+          "speaker": "Luffy",
+          "context": "Luffy using his new twisted punch technique"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [1, 8]
+    },
+    {
+      "id": "ep183-event-007",
+      "episodeNumber": 183,
+      "timestamp": "13:20",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MINOR",
+      "title": "Luffy's Battle Philosophy - Fighting Without Thinking",
+      "description": "Luffy realizes that by entering an 'unthinking state' and fighting on pure instinct, he can make his movements less predictable to Enel's Mantra. This shows Luffy's unique approach to combat where his greatest strength is sometimes his simplicity.",
+      "significance": "Establishes an important character trait that Luffy can be most dangerous when he stops overthinking and relies on instinct. This concept becomes a recurring theme in his major battles.",
+      "characterIds": ["luffy", "enel"],
+      "locationIds": ["ark-maxim"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [160],
+      "payoffInEpisodes": [309, 483, 877],
+      "callbacksToEpisodes": [160]
+    },
+    {
+      "id": "ep183-event-008",
+      "episodeNumber": 183,
+      "timestamp": "14:00",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Enel's Gloam Paddling",
+      "description": "Enel uses the technique Gloam Paddling, a move where he propels himself using electrical discharge to move at high speeds while wielding his golden staff as a weapon.",
+      "significance": "Demonstrates Enel's ability to use his lightning powers for mobility and combat enhancement even when the electrical damage itself is ineffective against Luffy.",
+      "characterIds": ["enel", "luffy"],
+      "locationIds": ["ark-maxim"],
+      "devilFruitIds": ["goro-goro-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep183-event-009",
+      "episodeNumber": 183,
+      "timestamp": "16:15",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Ark Maxim Activates - Deathpiea Begins",
+      "description": "Enel activates the Ark Maxim's ultimate function: Deathpiea. The flying ship begins generating massive thunderclouds that spread across the sky above Skypiea. These clouds can produce lightning bolts ten times more powerful than Enel's own attacks, each capable of destroying an entire village.",
+      "significance": "This reveals the true scale of Enel's plan to completely annihilate Skypiea. It transforms the conflict from a personal battle into a race against time to save an entire nation, raising the stakes dramatically.",
+      "characterIds": ["enel", "luffy", "nami"],
+      "locationIds": ["ark-maxim", "skypiea"],
+      "devilFruitIds": ["goro-goro-no-mi"],
+      "quotes": [
+        {
+          "text": "Behold Deathpiea! The thunder clouds will spread across all of Skypiea, and I will destroy this entire island with lightning!",
+          "speaker": "Enel",
+          "context": "Enel announcing his plan to destroy Skypiea"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [167, 173, 182],
+      "payoffInEpisodes": [184, 185, 194, 195],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep183-event-010",
+      "episodeNumber": 183,
+      "timestamp": "17:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "CRITICAL",
+      "title": "MAX 200,000,000 Volt Vari",
+      "description": "Enel demonstrates MAX 200,000,000 Volt Vari, one of his most powerful electrical attacks. Despite the massive voltage, the attack has no effect on Luffy due to his rubber body, further frustrating Enel.",
+      "significance": "Shows the upper limits of Enel's electrical power and emphasizes the perfect counter-matchup between Enel's god-like lightning abilities and Luffy's simple rubber body.",
+      "characterIds": ["enel", "luffy"],
+      "locationIds": ["ark-maxim"],
+      "devilFruitIds": ["goro-goro-no-mi", "gomu-gomu-no-mi"],
+      "quotes": [
+        {
+          "text": "MAX 200,000,000 Volt Vari!",
+          "speaker": "Enel",
+          "context": "Enel unleashing his massive electrical attack"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep183-event-011",
+      "episodeNumber": 183,
+      "timestamp": "18:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Skypiea Citizens Flee in Terror",
+      "description": "As the Deathpiea thunderclouds spread across the sky, the citizens of Skypiea panic and begin evacuating. McKinley encourages people to flee and prioritize survival. Demonstration lightning strikes hit Angel Island, showing the devastating power of the system.",
+      "significance": "Heightens the dramatic tension by showing innocent civilians in immediate danger. Establishes the true scale of destruction Enel is capable of and gives the heroes a ticking clock to stop him.",
+      "characterIds": ["mckinley", "conis"],
+      "locationIds": ["skypiea", "angel-island"],
+      "quotes": [
+        {
+          "text": "Everyone, evacuate immediately! Prioritize your survival!",
+          "speaker": "McKinley",
+          "context": "McKinley directing the evacuation of Skypiea"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [167, 173],
+      "payoffInEpisodes": [194, 195],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep183-event-012",
+      "episodeNumber": 183,
+      "timestamp": "20:10",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Aisa and Pierre Observe the Battle",
+      "description": "Aisa, riding on Pierre, observes the battle between Luffy and Enel from below the Ark Maxim. She respects this as Luffy's personal fight and watches from a distance, sensing the intensity of the confrontation.",
+      "significance": "Shows the respect and trust other characters have in Luffy to handle the situation. Aisa's Mantra allows her to sense the battle's significance even from afar.",
+      "characterIds": ["aisa", "pierre"],
+      "locationIds": ["skypiea", "ark-maxim"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [175, 182],
+      "payoffInEpisodes": [194, 195],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep183-event-013",
+      "episodeNumber": 183,
+      "timestamp": "21:00",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Ark Maxim's Thunder Cloud Generation",
+      "description": "The episode explains that the Ark Maxim uses Enel's electrical power to condense intense air currents and create artificial thunderclouds. These clouds store massive electrical charges that can be released as devastating lightning strikes.",
+      "significance": "Provides technical explanation for how Enel's ship works, combining his devil fruit powers with advanced Skypiean engineering to create a weapon of mass destruction.",
+      "characterIds": ["enel"],
+      "locationIds": ["ark-maxim"],
+      "devilFruitIds": ["goro-goro-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [167, 173],
+      "payoffInEpisodes": [184, 194],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["gomu-gomu-no-tako", "gomu-gomu-no-tako-hanabi", "gomu-gomu-no-rifle", "gloam-paddling", "max-200000000-volt-vari", "deathpiea"]
+  },
+  "episodeRelationships": {
+    "setupFor": [184, 185, 194, 195],
+    "payoffFrom": [160, 167, 173, 182],
+    "thematicLinks": [1, 160, 182, 194]
+  },
+  "quotes": [
+    {
+      "text": "Rubber doesn't conduct electricity! Luffy is completely immune to his lightning!",
+      "speaker": "Nami",
+      "context": "Explaining Luffy's immunity to Enel's powers",
+      "timestamp": "02:30"
+    },
+    {
+      "text": "I'm going to be King of the Pirates!",
+      "speaker": "Luffy",
+      "context": "Declaring his dream to Enel",
+      "timestamp": "04:45"
+    },
+    {
+      "text": "Lightning is not the only weapon I can use.",
+      "speaker": "Enel",
+      "context": "Adapting his strategy to fight Luffy",
+      "timestamp": "06:15"
+    },
+    {
+      "text": "Behold Deathpiea! The thunder clouds will spread across all of Skypiea!",
+      "speaker": "Enel",
+      "context": "Activating his plan to destroy Skypiea",
+      "timestamp": "16:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Natural Counters and Unexpected Advantages",
+      "description": "The episode explores how Luffy's seemingly simple rubber powers perfectly counter Enel's god-like lightning abilities. This demonstrates that power isn't always about raw strength - sometimes it's about matchups and circumstances.",
+      "symbolism": "Rubber insulating against electricity symbolizes how even the mightiest can be brought low by the right opponent, regardless of reputation or perceived power levels.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Adaptability in Combat",
+      "description": "Both Enel and Luffy demonstrate adaptability when their primary strategies fail. Enel switches to melee combat with his staff, while Luffy discovers the ricochet strategy to bypass Mantra.",
+      "symbolism": "The battle showcases intelligence and creativity in combat, not just brute force.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Dreams vs Domination",
+      "description": "Luffy's dream of becoming Pirate King is contrasted with Enel's desire to become a god and rule through fear and destruction. This highlights the difference between ambition driven by freedom versus ambition driven by control.",
+      "symbolism": "The clash represents freedom and adventure versus tyranny and isolation.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Intense", "Suspenseful", "Dramatic", "Epic"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist - Underdog Hero",
+      "development": "Luffy demonstrates his adaptability and strategic thinking by finding creative ways to counter Enel's precognitive abilities. His rubber immunity is confirmed as the key to victory.",
+      "keyActions": [
+        "Confirms his immunity to Enel's lightning",
+        "Declares his dream to become Pirate King",
+        "Debuts three new techniques: Tako, Tako Hanabi, and Rifle",
+        "Discovers the ricochet strategy to bypass Mantra",
+        "Fights on pure instinct"
+      ],
+      "quotes": ["I'm going to be King of the Pirates!", "Gomu Gomu no... Tako!", "Gomu Gomu no... Rifle!"]
+    },
+    {
+      "characterId": "enel",
+      "role": "Main Antagonist - God Complex Villain",
+      "development": "Enel's invincibility is shattered when he meets his natural enemy. Despite his shock and frustration, he shows tactical intelligence by adapting to melee combat and activating his ultimate weapon: Deathpiea.",
+      "keyActions": [
+        "Discovers his lightning powers are useless against rubber",
+        "Adapts by using his golden staff as a melee weapon",
+        "Activates the Deathpiea system to destroy Skypiea",
+        "Uses Gloam Paddling for enhanced mobility",
+        "Unleashes MAX 200,000,000 Volt Vari"
+      ],
+      "quotes": ["What are you? Rubber does not exist in the White-White Sea!", "Lightning is not the only weapon I can use.", "Behold Deathpiea!"]
+    },
+    {
+      "characterId": "nami",
+      "role": "Observer and Analyst",
+      "development": "Nami provides crucial exposition about why Luffy is immune to lightning, helping the audience understand the scientific basis for the matchup. She observes Luffy's creative techniques with her usual mix of amazement and exasperation.",
+      "keyActions": [
+        "Explains Luffy's rubber immunity to lightning",
+        "Watches Luffy debut his Tako technique",
+        "Witnesses the activation of Deathpiea"
+      ],
+      "quotes": ["Rubber doesn't conduct electricity! Luffy is completely immune to his lightning!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended several combat sequences between Luffy and Enel with additional exchanges and reactions not present in the manga panels.",
+      "episodeTimestamp": "06:00-12:00",
+      "mangaReference": "Chapters 280-281",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "The anime added more dramatic shots of the Skypiean citizens evacuating and reacting to the Deathpiea thunderclouds spreading.",
+      "episodeTimestamp": "18:45",
+      "mangaReference": "Chapter 281",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This is the only episode in the entire One Piece anime series to premiere on February 29, a leap year date.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_183",
+          "title": "Episode 183 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 183 has a 9.0/10 rating on IMDb, making it one of the highest-rated episodes in the Skypiea Arc.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://www.imdb.com/title/tt1008765/",
+          "title": "One Piece Episode 183 - IMDb",
+          "platform": "IMDb",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The Gomu Gomu no Tako (Octopus) technique is one of Luffy's most creative and unusual attacks, transforming his limbs into tentacles. This technique showcases the versatility of the Gomu Gomu no Mi.",
+      "category": "ABILITIES",
+      "sources": []
+    },
+    {
+      "fact": "The concept of using ricochet attacks to counter precognition (Mantra/Observation Haki) introduces a strategic element that becomes relevant in future battles against opponents with similar abilities.",
+      "category": "COMBAT",
+      "sources": []
+    },
+    {
+      "fact": "Enel's MAX 200,000,000 Volt attack is one of the highest voltage attacks shown in the series at this point, yet it's completely ineffective against Luffy - demonstrating that type advantage can trump raw power.",
+      "category": "ABILITIES",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
