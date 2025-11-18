@@ -1,0 +1,733 @@
+{
+  "episodeNumber": 66,
+  "episodeTitle": "A Serious Fight! Luffy vs. Zoro: The Baffling Duel!",
+  "episodeTitleJapanese": "真剣勝負！ルフィVSゾロ謎の大決闘！",
+  "episodeTitleRomanized": "Shinken Shōbu! Rufi tai Zoro Nazo no Dai Kettō",
+  "description": "Luffy wakes up and confronts Zoro, believing he attacked innocent townspeople without reason. Their intense battle creates chaos as Mr. 5 and Miss Valentine attempt to eliminate Princess Vivi. The fight ends when Nami intervenes, and the truth about the bounty hunters is revealed.",
+  "airDate": "2001-04-22",
+  "airDateJapan": "2001-04-22",
+  "airDateUS": "2005-08-13",
+  "airDateUSFunimation": "2009-06-30",
+  "arcName": "Whisky Peak Arc",
+  "sagaName": "Arabasta Saga",
+  "animationQuality": "STANDARD",
+  "canonStatus": "CANON",
+  "openingSong": {
+    "title": "Believe",
+    "artist": "Folder5",
+    "episodeRange": [48, 115]
+  },
+  "endingSong": {
+    "title": "Watashi ga Iru Yo",
+    "artist": "TOMATO CUBE",
+    "episodeRange": [62, 73]
+  },
+  "credits": {
+    "director": "Hidehiko Kadota",
+    "screenplay": "Michiru Shimada",
+    "artDirection": "Kunihiro Chida",
+    "animation": "Yuji Hakamada",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Misa Watanabe"
+      },
+      {
+        "character": "Igaram",
+        "actor": "Keiichi Sonobe"
+      },
+      {
+        "character": "Mr. 5",
+        "actor": "Masaya Takatsuka"
+      },
+      {
+        "character": "Miss Valentine",
+        "actor": "Fumiko Orikasa"
+      },
+      {
+        "character": "Miss Monday",
+        "actor": "Makiko Ohmoto"
+      },
+      {
+        "character": "Karoo",
+        "actor": "Moo Daikuhara"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Caitlin Glass"
+      },
+      {
+        "character": "Igaram",
+        "actor": "Kyle Hebert"
+      },
+      {
+        "character": "Mr. 5",
+        "actor": "David Matranga"
+      },
+      {
+        "character": "Miss Valentine",
+        "actor": "Jamie Marchi"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep066-event-001",
+      "episodeNumber": 66,
+      "timestamp": "02:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Mr. 5 and Miss Valentine Arrive at Whisky Peak",
+      "description": "The Baroque Works Officer Agents Mr. 5 and Miss Valentine arrive at Whisky Peak with orders to eliminate the traitors who discovered the organization's secrets. They confront the townspeople about the princess's location.",
+      "significance": "Introduces higher-ranking Baroque Works agents and escalates the threat level, showing that the organization will eliminate anyone who learns their secrets.",
+      "characterIds": ["mr-5", "miss-valentine"],
+      "crewIds": ["baroque-works"],
+      "locationIds": ["whisky-peak"],
+      "quotes": [
+        {
+          "text": "We're here on orders from the boss. Where is the princess?",
+          "speaker": "Mr. 5",
+          "context": "Mr. 5 demanding information from the Whisky Peak residents"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [64, 65],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [65]
+    },
+    {
+      "id": "ep066-event-002",
+      "episodeNumber": 66,
+      "timestamp": "04:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Miss Monday Attempts to Protect Vivi",
+      "description": "Despite being severely injured from her earlier fight with Zoro, Miss Monday picks up a large wooden log and attempts to block Mr. 5 and Miss Valentine's path to protect Princess Vivi, whom she considers a friend.",
+      "significance": "Shows the genuine friendship between Miss Monday and Vivi, demonstrating that not all Baroque Works agents are purely evil. This act of sacrifice highlights the theme of friendship transcending organizational loyalty.",
+      "characterIds": ["miss-monday", "vivi", "mr-5", "miss-valentine"],
+      "locationIds": ["whisky-peak"],
+      "quotes": [
+        {
+          "text": "I won't let you hurt Vivi! She's my friend!",
+          "speaker": "Miss Monday",
+          "context": "Miss Monday's defiant stand despite her injuries"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [65],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [65]
+    },
+    {
+      "id": "ep066-event-003",
+      "episodeNumber": 66,
+      "timestamp": "05:45",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Mr. 5's Bomu Bomu no Mi Ability Revealed",
+      "description": "Mr. 5 demonstrates his Devil Fruit ability by flicking a booger that explodes on impact, knocking Miss Monday unconscious. He reveals that he ate the Bomu Bomu no Mi, making any part of his body capable of exploding without harming himself.",
+      "significance": "Introduces the first Baroque Works Officer Agent Devil Fruit ability, establishing that the organization has powerful fruit users. This ability showcases the creative and sometimes gross nature of Devil Fruits in One Piece.",
+      "characterIds": ["mr-5", "miss-monday"],
+      "devilFruitIds": ["bomu-bomu-no-mi"],
+      "locationIds": ["whisky-peak"],
+      "quotes": [
+        {
+          "text": "I ate the Bomu Bomu no Mi. Every part of my body is a bomb!",
+          "speaker": "Mr. 5",
+          "context": "Mr. 5 explaining his explosive powers after using Nose Fancy Cannon"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [67, 68],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep066-event-004",
+      "episodeNumber": 66,
+      "timestamp": "06:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Igaram Begs Zoro to Protect Vivi",
+      "description": "After regaining consciousness, Igaram crawls to Zoro and desperately pleads with him to protect Princess Vivi, offering great rewards from the kingdom of Arabasta. He emphasizes that Vivi's survival is critical to preventing the country's destruction.",
+      "significance": "This moment marks the Straw Hats' official involvement in the Arabasta conflict. Igaram's desperation shows the stakes involved and plants the seeds for the crew's journey to Arabasta.",
+      "characterIds": ["igaram", "zoro", "vivi"],
+      "locationIds": ["whisky-peak"],
+      "quotes": [
+        {
+          "text": "Please! You must protect the princess! It would be the end of Arabasta if anything happened to Vivi!",
+          "speaker": "Igaram",
+          "context": "Igaram's desperate plea to Zoro while gravely injured"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [65],
+      "payoffInEpisodes": [67, 92, 130],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep066-event-005",
+      "episodeNumber": 66,
+      "timestamp": "08:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Zoro Agrees to Protect Vivi",
+      "description": "After hearing Igaram's plea and assessing the situation, Zoro decides to protect Princess Vivi from Mr. 5 and Miss Valentine. He positions himself between the attackers and Vivi, ready to fight.",
+      "significance": "Demonstrates Zoro's moral compass and willingness to help those in need, even without Luffy's direct command. This decision sets up the crew's involvement in the Arabasta arc.",
+      "characterIds": ["zoro", "vivi", "igaram"],
+      "locationIds": ["whisky-peak"],
+      "quotes": [
+        {
+          "text": "Fine. I'll protect the girl.",
+          "speaker": "Zoro",
+          "context": "Zoro's acceptance of Igaram's request"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [67],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep066-event-006",
+      "episodeNumber": 66,
+      "timestamp": "09:30",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Zoro Confronts Mr. 5 and Miss Valentine",
+      "description": "Zoro prepares to fight Mr. 5 and Miss Valentine to protect Vivi. The Baroque Works agents prepare their Devil Fruit abilities for combat, with Miss Valentine floating in the air with her umbrella.",
+      "significance": "Begins the confrontation between Zoro and the Officer Agents, showcasing the power difference between Frontier Agents and Officer Agents in Baroque Works.",
+      "characterIds": ["zoro", "mr-5", "miss-valentine"],
+      "locationIds": ["whisky-peak"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep066-event-007",
+      "episodeNumber": 66,
+      "timestamp": "10:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Luffy Wakes Up and Misunderstands the Situation",
+      "description": "Luffy wakes up from his food coma and sees the defeated townspeople lying around. Not understanding that they were bounty hunters who attacked them, Luffy assumes Zoro hurt innocent people who fed them and becomes furious.",
+      "significance": "Creates the central conflict of the episode and showcases Luffy's protective nature toward those who show him hospitality. This misunderstanding leads to one of the most memorable fights between crew members.",
+      "characterIds": ["luffy", "zoro"],
+      "locationIds": ["whisky-peak"],
+      "quotes": [
+        {
+          "text": "Zoro! What did you do to these nice people?!",
+          "speaker": "Luffy",
+          "context": "Luffy's angry accusation upon seeing the defeated bounty hunters"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [64, 65],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep066-event-008",
+      "episodeNumber": 66,
+      "timestamp": "11:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Luffy vs. Zoro Fight Begins",
+      "description": "An enraged Luffy charges at Zoro, refusing to listen to his explanation about the bounty hunters. Zoro initially tries to reason with Luffy but eventually accepts that they need to fight. The two crew members clash in an intense battle.",
+      "significance": "One of the most iconic crew member vs. crew member fights in the series. This battle demonstrates both fighters' strengths and establishes a recurring theme of miscommunication leading to conflict. It also shows that Zoro and Luffy are roughly equal in strength at this point.",
+      "characterIds": ["luffy", "zoro"],
+      "locationIds": ["whisky-peak"],
+      "quotes": [
+        {
+          "text": "If you won't listen, then I'll make you listen with my fists!",
+          "speaker": "Luffy",
+          "context": "Luffy declaring his intent to fight Zoro"
+        },
+        {
+          "text": "Fine. If that's how you want it.",
+          "speaker": "Zoro",
+          "context": "Zoro accepting the fight after Luffy refuses to listen"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep066-event-009",
+      "episodeNumber": 66,
+      "timestamp": "13:15",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Luffy and Zoro Exchange Signature Attacks",
+      "description": "Luffy and Zoro charge at each other with their signature moves. Luffy uses Gomu Gomu no Bazooka while Zoro counters with Oni Giri. The collision of their attacks creates a massive shockwave that damages the surrounding buildings.",
+      "significance": "Showcases the destructive power of both fighters and demonstrates that they can match each other's strength. The visual spectacle of this clash becomes an iconic moment in the series.",
+      "characterIds": ["luffy", "zoro"],
+      "locationIds": ["whisky-peak"],
+      "quotes": [
+        {
+          "text": "Gomu Gomu no... Bazooka!",
+          "speaker": "Luffy",
+          "context": "Luffy's attack during the fight with Zoro"
+        },
+        {
+          "text": "Oni Giri!",
+          "speaker": "Zoro",
+          "context": "Zoro's counter-attack against Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep066-event-010",
+      "episodeNumber": 66,
+      "timestamp": "14:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Zoro Uses Tatsu Maki Against Luffy",
+      "description": "Zoro unleashes his Tatsu Maki (Dragon Twister) technique, creating a powerful whirlwind attack. Luffy counters with Gomu Gomu no Pistol. Both attacks send them flying backward into nearby walls.",
+      "significance": "Demonstrates the variety of techniques both fighters possess and the intensity of their battle. Shows that even crew members can push each other to use their full arsenal of moves.",
+      "characterIds": ["luffy", "zoro"],
+      "locationIds": ["whisky-peak"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep066-event-011",
+      "episodeNumber": 66,
+      "timestamp": "15:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Mr. 5 and Miss Valentine Attempt to Interfere",
+      "description": "Seeing an opportunity while Luffy and Zoro are distracted fighting each other, Mr. 5 and Miss Valentine prepare to attack and eliminate both of them along with Princess Vivi.",
+      "significance": "Shows the opportunistic nature of the Baroque Works agents and adds tension to the scene as the Straw Hats are vulnerable while fighting each other.",
+      "characterIds": ["mr-5", "miss-valentine", "luffy", "zoro"],
+      "locationIds": ["whisky-peak"],
+      "quotes": [
+        {
+          "text": "This is perfect! We can eliminate them all while they're fighting each other!",
+          "speaker": "Miss Valentine",
+          "context": "Miss Valentine seeing an opportunity during the Luffy vs Zoro fight"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep066-event-012",
+      "episodeNumber": 66,
+      "timestamp": "16:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Luffy and Zoro Defeat Mr. 5 and Miss Valentine",
+      "description": "When Mr. 5 and Miss Valentine try to interfere with their duel, both Luffy and Zoro instantly turn on them in perfect synchronization. Without even needing to communicate, they simultaneously strike down both agents for interrupting their fight.",
+      "significance": "Demonstrates the unspoken understanding and teamwork between Luffy and Zoro even while fighting each other. Shows that they respect their duel and won't tolerate interference. Also establishes their dominance over the Officer Agents.",
+      "characterIds": ["luffy", "zoro", "mr-5", "miss-valentine"],
+      "locationIds": ["whisky-peak"],
+      "quotes": [
+        {
+          "text": "Don't interfere!",
+          "speaker": "Luffy and Zoro",
+          "context": "Both yelling in unison at Mr. 5 and Miss Valentine"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep066-event-013",
+      "episodeNumber": 66,
+      "timestamp": "17:45",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Miss Valentine's Kiro Kiro no Mi Ability Revealed",
+      "description": "During the fight, Miss Valentine demonstrates her Kiro Kiro no Mi powers, showing her ability to change her weight from 1 kilogram to 10,000 kilograms. She uses this to float with her umbrella and then increase her weight for crushing attacks.",
+      "significance": "Introduces Miss Valentine's Devil Fruit ability and shows the variety of powers in Baroque Works. The weight-manipulation ability adds another dimension to the combat in this arc.",
+      "characterIds": ["miss-valentine"],
+      "devilFruitIds": ["kiro-kiro-no-mi"],
+      "locationIds": ["whisky-peak"],
+      "quotes": [
+        {
+          "text": "I ate the Kiro Kiro no Mi! I can change my weight at will!",
+          "speaker": "Miss Valentine",
+          "context": "Miss Valentine explaining her Devil Fruit ability"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [67, 68],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep066-event-014",
+      "episodeNumber": 66,
+      "timestamp": "19:00",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Nami Stops the Fight",
+      "description": "Nami arrives at the scene and immediately punches both Luffy and Zoro, knocking sense into them and stopping their fight. She's furious about their reckless behavior and the damage they've caused to the town.",
+      "significance": "Showcases Nami's authority within the crew and her ability to discipline even the strongest members. This moment reinforces the running gag of Nami being able to hurt Luffy despite his rubber body, and establishes her as the crew's voice of reason.",
+      "characterIds": ["nami", "luffy", "zoro"],
+      "locationIds": ["whisky-peak"],
+      "quotes": [
+        {
+          "text": "What do you two idiots think you're doing?!",
+          "speaker": "Nami",
+          "context": "Nami's angry outburst after stopping the fight"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep066-event-015",
+      "episodeNumber": 66,
+      "timestamp": "20:15",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Vivi Explains the Arabasta Situation",
+      "description": "After the fight ends, Princess Vivi reveals the full truth about Baroque Works' plan to overthrow the Arabasta Kingdom. She explains that the organization has been orchestrating a civil war to destabilize the country and that she infiltrated Baroque Works to discover their leader's identity.",
+      "significance": "Provides crucial exposition that sets up the entire Arabasta Saga. This revelation gives the Straw Hats a mission and establishes the stakes for the upcoming arc. It also deepens Vivi's character as a dedicated princess willing to risk her life for her kingdom.",
+      "characterIds": ["vivi", "luffy", "zoro", "nami", "igaram"],
+      "crewIds": ["baroque-works"],
+      "locationIds": ["whisky-peak"],
+      "quotes": [
+        {
+          "text": "Baroque Works is planning to take over Arabasta. They've been manipulating both sides to start a civil war!",
+          "speaker": "Vivi",
+          "context": "Vivi explaining the conspiracy to the Straw Hats"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [65],
+      "payoffInEpisodes": [67, 92, 110, 130],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep066-event-016",
+      "episodeNumber": 66,
+      "timestamp": "21:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Baroque Works Organization Structure Revealed",
+      "description": "The episode reveals details about Baroque Works' organizational structure, including the hierarchy of Frontier Agents and Officer Agents, the codename system, and the fact that members don't know their boss's true identity. The mysterious leader is only known as Mr. 0.",
+      "significance": "Establishes Baroque Works as a major antagonistic organization with a complex structure. The mystery of Mr. 0's identity becomes a driving force for the Arabasta arc. This information shows the scope of the threat the Straw Hats will face.",
+      "characterIds": ["vivi", "igaram"],
+      "crewIds": ["baroque-works"],
+      "locationIds": ["whisky-peak"],
+      "quotes": [
+        {
+          "text": "No one in the organization knows the boss's true identity. He's only known as Mr. 0.",
+          "speaker": "Vivi",
+          "context": "Explaining the secretive nature of Baroque Works leadership"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [65],
+      "payoffInEpisodes": [67, 92, 110],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["nose-fancy-cannon", "10000-kilo-press"]
+  },
+  "episodeRelationships": {
+    "setupFor": [67, 68, 69],
+    "payoffFrom": [64, 65],
+    "thematicLinks": [8, 43, 236]
+  },
+  "quotes": [
+    {
+      "text": "Zoro! What did you do to these nice people?!",
+      "speaker": "Luffy",
+      "context": "Luffy's angry accusation upon seeing the defeated bounty hunters",
+      "timestamp": "10:45"
+    },
+    {
+      "text": "If you won't listen, then I'll make you listen with my fists!",
+      "speaker": "Luffy",
+      "context": "Luffy declaring his intent to fight Zoro",
+      "timestamp": "11:30"
+    },
+    {
+      "text": "Fine. If that's how you want it.",
+      "speaker": "Zoro",
+      "context": "Zoro accepting the fight after Luffy refuses to listen",
+      "timestamp": "11:30"
+    },
+    {
+      "text": "I ate the Bomu Bomu no Mi. Every part of my body is a bomb!",
+      "speaker": "Mr. 5",
+      "context": "Mr. 5 explaining his explosive powers after using Nose Fancy Cannon",
+      "timestamp": "05:45"
+    },
+    {
+      "text": "Please! You must protect the princess! It would be the end of Arabasta if anything happened to Vivi!",
+      "speaker": "Igaram",
+      "context": "Igaram's desperate plea to Zoro while gravely injured",
+      "timestamp": "06:30"
+    },
+    {
+      "text": "Don't interfere!",
+      "speaker": "Luffy and Zoro",
+      "context": "Both yelling in unison at Mr. 5 and Miss Valentine",
+      "timestamp": "16:30"
+    },
+    {
+      "text": "What do you two idiots think you're doing?!",
+      "speaker": "Nami",
+      "context": "Nami's angry outburst after stopping the fight",
+      "timestamp": "19:00"
+    },
+    {
+      "text": "Baroque Works is planning to take over Arabasta. They've been manipulating both sides to start a civil war!",
+      "speaker": "Vivi",
+      "context": "Vivi explaining the conspiracy to the Straw Hats",
+      "timestamp": "20:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Miscommunication and Trust",
+      "description": "The episode explores how miscommunication can create conflict even between close allies. Luffy's refusal to listen to Zoro's explanation leads to an intense battle, highlighting the importance of communication and understanding within a crew.",
+      "symbolism": "The fight between Luffy and Zoro represents the fragility of trust and how easily assumptions can lead to conflict. Their synchronized attack on the interfering agents shows that their bond remains strong despite their disagreement.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Loyalty and Sacrifice",
+      "description": "Multiple characters demonstrate loyalty through sacrifice, from Miss Monday protecting Vivi despite her injuries to Igaram desperately pleading for help to save the princess. These acts show that loyalty transcends organizational boundaries.",
+      "symbolism": "Miss Monday's wounded stand with the wooden log symbolizes the strength found in protecting those we care about, even when facing overwhelming odds.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Duty vs. Friendship",
+      "description": "The episode examines the tension between duty to an organization and personal friendships, particularly through Miss Monday's choice to help Vivi despite both being Baroque Works members.",
+      "symbolism": "",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Power of Understanding",
+      "description": "Nami's intervention demonstrates how a single person with full understanding of a situation can resolve conflicts that seem insurmountable to those involved.",
+      "symbolism": "Nami's punches represent the 'wake-up call' needed to break through stubbornness and restore reason.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Intense", "Dramatic", "Action-packed", "Comedic", "Tense"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist in conflict",
+      "development": "Luffy shows his fierce loyalty to those who show him kindness, but also his stubborn nature and refusal to listen when he believes he's right. His willingness to fight his own crew member over a perceived injustice demonstrates his strong moral convictions.",
+      "keyActions": [
+        "Wakes up and sees the defeated townspeople",
+        "Accuses Zoro of attacking innocent people",
+        "Refuses to listen to Zoro's explanation",
+        "Engages in an intense fight with Zoro",
+        "Uses Gomu Gomu no Bazooka and Gomu Gomu no Pistol",
+        "Defeats Mr. 5 and Miss Valentine alongside Zoro",
+        "Gets punched by Nami",
+        "Learns the truth about the situation"
+      ],
+      "quotes": [
+        "Zoro! What did you do to these nice people?!",
+        "If you won't listen, then I'll make you listen with my fists!",
+        "Don't interfere!"
+      ]
+    },
+    {
+      "characterId": "zoro",
+      "role": "Deuteragonist and protector",
+      "development": "Zoro demonstrates his protective instincts by agreeing to guard Vivi despite having no obligation to do so. His willingness to fight Luffy rather than force the explanation shows respect for his captain while also standing by his actions. This episode reinforces Zoro's role as the crew's guardian.",
+      "keyActions": [
+        "Listens to Igaram's plea",
+        "Agrees to protect Princess Vivi",
+        "Confronts Mr. 5 and Miss Valentine",
+        "Tries to explain the situation to Luffy",
+        "Accepts the fight with Luffy",
+        "Uses Oni Giri and Tatsu Maki",
+        "Defeats the Baroque Works agents with Luffy",
+        "Gets punched by Nami"
+      ],
+      "quotes": [
+        "Fine. I'll protect the girl.",
+        "Fine. If that's how you want it.",
+        "Don't interfere!"
+      ]
+    },
+    {
+      "characterId": "nami",
+      "role": "Voice of reason",
+      "development": "Nami asserts her authority as the crew's navigator and voice of reason. Her ability to immediately resolve the conflict between Luffy and Zoro shows her importance to the crew's cohesion and her unique ability to discipline the strongest members.",
+      "keyActions": [
+        "Arrives at the chaotic scene",
+        "Punches both Luffy and Zoro to stop the fight",
+        "Scolds them for their reckless behavior",
+        "Helps explain the true situation"
+      ],
+      "quotes": [
+        "What do you two idiots think you're doing?!"
+      ]
+    },
+    {
+      "characterId": "vivi",
+      "role": "Princess in danger",
+      "development": "Vivi's true identity and mission are fully revealed to the Straw Hats. She demonstrates her dedication to saving Arabasta by risking her life to infiltrate Baroque Works, establishing her as a character driven by duty to her people.",
+      "keyActions": [
+        "Flees from Mr. 5 and Miss Valentine",
+        "Protected by Miss Monday and Zoro",
+        "Explains the Baroque Works conspiracy",
+        "Reveals the threat to Arabasta"
+      ],
+      "quotes": [
+        "Baroque Works is planning to take over Arabasta. They've been manipulating both sides to start a civil war!"
+      ]
+    },
+    {
+      "characterId": "mr-5",
+      "role": "Antagonist and Baroque Works Officer Agent",
+      "development": "Mr. 5 is established as a formidable opponent with his Bomu Bomu no Mi powers. However, his defeat by Luffy and Zoro when they accidentally attack him shows that despite his dangerous abilities, he underestimates his opponents.",
+      "keyActions": [
+        "Arrives at Whisky Peak with Miss Valentine",
+        "Uses Nose Fancy Cannon to defeat Miss Monday",
+        "Reveals his Bomu Bomu no Mi powers",
+        "Attempts to interfere with Luffy and Zoro's fight",
+        "Gets defeated by the duo"
+      ],
+      "quotes": [
+        "We're here on orders from the boss. Where is the princess?",
+        "I ate the Bomu Bomu no Mi. Every part of my body is a bomb!"
+      ]
+    },
+    {
+      "characterId": "miss-valentine",
+      "role": "Supporting antagonist",
+      "development": "Miss Valentine is introduced as Mr. 5's partner with her weight-manipulation abilities. She demonstrates overconfidence and cruelty but is quickly dispatched when she interferes with Luffy and Zoro's battle.",
+      "keyActions": [
+        "Arrives with Mr. 5",
+        "Uses her Kiro Kiro no Mi to float and attack",
+        "Reveals her weight-manipulation powers",
+        "Attempts to take advantage of the Luffy-Zoro fight",
+        "Gets defeated alongside Mr. 5"
+      ],
+      "quotes": [
+        "This is perfect! We can eliminate them all while they're fighting each other!",
+        "I ate the Kiro Kiro no Mi! I can change my weight at will!"
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends the Luffy vs Zoro fight with additional action sequences and exchanges that weren't in the manga, adding more dramatic tension to their confrontation.",
+      "episodeTimestamp": "11:30-18:00",
+      "mangaReference": "Chapter 112",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "Some of the dialogue and reactions from the Baroque Works agents are expanded in the anime for dramatic effect.",
+      "episodeTimestamp": "Various",
+      "mangaReference": "Chapters 110-112",
+      "type": "DIALOGUE_EXPANSION"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This is one of the few times Luffy and Zoro fight each other seriously in the series, making it a memorable moment for fans.",
+      "category": "CHARACTER",
+      "sources": []
+    },
+    {
+      "fact": "The episode adapts chapters 110-112 of the manga, covering the final parts of the Whisky Peak Arc.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "Mr. 5's voice actor in Japanese, Masaya Takatsuka, is known for voicing various characters across multiple anime series.",
+      "category": "VOICE_ACTING",
+      "sources": []
+    },
+    {
+      "fact": "This episode marks the first appearance of the 'Nose Fancy Cannon' technique, one of the more unusual and comedic attacks in One Piece despite its deadly nature.",
+      "category": "CHARACTER",
+      "sources": []
+    },
+    {
+      "fact": "The synchronized 'Don't interfere!' moment between Luffy and Zoro has become an iconic scene demonstrating their unspoken understanding despite their conflict.",
+      "category": "CULTURAL_IMPACT",
+      "sources": []
+    },
+    {
+      "fact": "In the 4Kids dub, this was Episode 46 due to their censorship cuts and episode removals.",
+      "category": "CENSORSHIP",
+      "sources": []
+    },
+    {
+      "fact": "This episode aired on April 22, 2001, during the series' second season.",
+      "category": "PRODUCTION",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

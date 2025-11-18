@@ -1,0 +1,594 @@
+{
+  "episodeNumber": 67,
+  "episodeTitle": "Deliver Princess Vivi! The Luffy Pirates Set Sail!",
+  "description": "After Igaram sets sail as a decoy to protect Vivi, his ship is destroyed in a massive explosion. The mysterious Miss All Sunday appears on the Going Merry, revealing herself as Crocodile's vice president. Despite her offer of a safer route via an Eternal Pose, Luffy destroys it, choosing to chart his own course to protect Vivi.",
+  "airDate": "2001-04-29",
+  "airDateJapan": "2001-04-29",
+  "airDateUS": "2009-08-25",
+  "arcName": "Whisky Peak Arc",
+  "sagaName": "Arabasta Saga",
+  "animationQuality": "STANDARD",
+  "canonStatus": "CANON",
+  "openingSong": {
+    "title": "Believe",
+    "artist": "Folder5",
+    "episodeRange": [48, 115]
+  },
+  "endingSong": {
+    "title": "Watashi ga Iru Yo",
+    "artist": "Tomato Cube",
+    "episodeRange": [64, 73]
+  },
+  "credits": {
+    "director": "Kōnosuke Uda",
+    "storyboard": "Kōnosuke Uda",
+    "screenplay": "Michiru Shimada",
+    "artDirection": "Tomoko Yoshida",
+    "animationDirector": "Hideaki Naniwa",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Misa Watanabe"
+      },
+      {
+        "character": "Karoo",
+        "actor": "Kenji Nomura"
+      },
+      {
+        "character": "Igaram",
+        "actor": "Keiichi Sonobe"
+      },
+      {
+        "character": "Miss All Sunday (Nico Robin)",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Mr. 5",
+        "actor": "Masaya Takatsuka"
+      },
+      {
+        "character": "Miss Valentine",
+        "actor": "Fumiko Orikasa"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Caitlin Glass"
+      },
+      {
+        "character": "Karoo",
+        "actor": "Bill Flynn"
+      },
+      {
+        "character": "Igaram",
+        "actor": "J. Paul Slavens"
+      },
+      {
+        "character": "Miss All Sunday (Nico Robin)",
+        "actor": "Stephanie Young"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep067-event-001",
+      "episodeNumber": 67,
+      "timestamp": "02:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Igaram's Decoy Mission",
+      "description": "Igaram disguises himself as Princess Vivi to serve as a decoy. He boards a ship and sets sail from Whisky Peak, hoping to draw Baroque Works' attention away from the real Vivi and the Straw Hat crew.",
+      "significance": "Demonstrates Igaram's loyalty and willingness to sacrifice himself for Vivi's safety. Sets up the tragic explosion and introduces the danger posed by Baroque Works.",
+      "characterIds": ["igaram", "vivi"],
+      "locationIds": ["whisky-peak"],
+      "crewIds": ["baroque-works"],
+      "quotes": [
+        {
+          "text": "Princess Vivi, please escape safely. I will draw their attention.",
+          "speaker": "Igaram",
+          "context": "Igaram's farewell before departing as a decoy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [66],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep067-event-002",
+      "episodeNumber": 67,
+      "timestamp": "04:15",
+      "eventType": "DEATH",
+      "severity": "CRITICAL",
+      "title": "Igaram's Ship Explosion",
+      "description": "Shortly after Igaram's ship leaves the harbor, it is destroyed in a massive explosion visible from Whisky Peak. The fireball engulfs the entire vessel, seemingly killing Igaram and his crew. The Straw Hats and Vivi witness the explosion in horror.",
+      "significance": "A shocking moment that establishes the lethal stakes of opposing Baroque Works. Later revealed to be a fake-out death, as Igaram survived. Demonstrates the ruthlessness of the organization and the danger Vivi faces.",
+      "characterIds": ["igaram", "vivi", "luffy", "nami", "zoro", "usopp", "sanji"],
+      "locationIds": ["whisky-peak"],
+      "crewIds": ["baroque-works"],
+      "quotes": [
+        {
+          "text": "Igaram-san!",
+          "speaker": "Vivi",
+          "context": "Vivi's anguished cry as she witnesses the explosion"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [130],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep067-event-003",
+      "episodeNumber": 67,
+      "timestamp": "05:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "CRITICAL",
+      "title": "Miss All Sunday's Debut",
+      "description": "Miss All Sunday (Nico Robin) mysteriously appears on the Going Merry, emerging from the shadows. She introduces herself as the vice president of Baroque Works and partner to Mr. 0 (Crocodile). Her calm demeanor and mysterious presence unnerve the crew.",
+      "significance": "The first appearance of one of the series' most important characters. Robin's introduction marks a pivotal moment in the Arabasta Saga and foreshadows her eventual recruitment as the seventh Straw Hat crew member.",
+      "characterIds": ["nico-robin", "luffy", "zoro", "nami", "usopp", "sanji", "vivi", "karoo"],
+      "locationIds": ["going-merry"],
+      "crewIds": ["baroque-works"],
+      "quotes": [
+        {
+          "text": "I am Miss All Sunday, vice president of Baroque Works.",
+          "speaker": "Miss All Sunday",
+          "context": "Robin's introduction to the Straw Hat crew"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [130],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep067-event-004",
+      "episodeNumber": 67,
+      "timestamp": "07:20",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Miss All Sunday Reveals Her Role in Igaram's Death",
+      "description": "Miss All Sunday casually reveals that she was responsible for destroying Igaram's ship. She explains that she deliberately allowed Vivi to discover Mr. 0's identity, setting the current events in motion.",
+      "significance": "Establishes Miss All Sunday as a dangerous antagonist and raises questions about her true motivations. Her admission of responsibility for Igaram's apparent death creates immediate tension with the crew.",
+      "characterIds": ["nico-robin", "vivi", "luffy", "sanji"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "I was the one who blew up that ship.",
+          "speaker": "Miss All Sunday",
+          "context": "Robin admits to destroying Igaram's vessel"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep067-event-005",
+      "episodeNumber": 67,
+      "timestamp": "09:10",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Hana Hana no Mi Demonstration",
+      "description": "Miss All Sunday demonstrates her Devil Fruit ability, the Hana Hana no Mi (Flower-Flower Fruit). She effortlessly sprouts arms from the bodies of Sanji and Usopp, flipping them over to showcase her power. The crew is shocked by this ability.",
+      "significance": "The debut of the Hana Hana no Mi powers in the anime. This ability will become iconic as Robin joins the crew and develops increasingly powerful techniques. Demonstrates Robin's combat capability and the unique nature of her Paramecia-type fruit.",
+      "characterIds": ["nico-robin", "sanji", "usopp", "luffy", "zoro", "nami"],
+      "locationIds": ["going-merry"],
+      "devilFruitIds": ["hana-hana-no-mi"],
+      "quotes": [
+        {
+          "text": "Dos Fleur!",
+          "speaker": "Miss All Sunday",
+          "context": "Robin's technique to sprout two arms and flip Sanji and Usopp"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep067-event-006",
+      "episodeNumber": 67,
+      "timestamp": "10:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Sanji Threatens a Woman",
+      "description": "In a rare and shocking moment, Sanji points his gun at Miss All Sunday and threatens her to protect Vivi. This is the only instance in the series where Sanji actively threatens to harm a woman, showing the gravity of the situation.",
+      "significance": "A character-defining moment that shows Sanji's loyalty to his crewmates can override even his strongest principles. Demonstrates the extreme tension of the situation and Sanji's protective nature toward Vivi.",
+      "characterIds": ["sanji", "nico-robin", "vivi"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "I don't care if you're a woman. If you threaten our friends, I won't hesitate.",
+          "speaker": "Sanji",
+          "context": "Sanji's uncharacteristic threat toward Miss All Sunday"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep067-event-007",
+      "episodeNumber": 67,
+      "timestamp": "12:30",
+      "eventType": "TREASURE_DISCOVERY",
+      "severity": "MAJOR",
+      "title": "Miss All Sunday Offers the Eternal Pose",
+      "description": "Miss All Sunday produces an Eternal Pose that points to a location near Arabasta, offering it to Vivi. She explains that following this pose would allow them to bypass the dangerous islands on the Grand Line route and reach Arabasta more quickly and safely.",
+      "significance": "Introduces the concept of taking shortcuts versus following one's chosen path. Sets up Luffy's defining character moment where he rejects outside control over his crew's journey.",
+      "characterIds": ["nico-robin", "vivi", "nami", "luffy"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "This Eternal Pose will lead you directly to your destination, avoiding the dangerous islands ahead.",
+          "speaker": "Miss All Sunday",
+          "context": "Robin offering an easier path to Arabasta"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep067-event-008",
+      "episodeNumber": 67,
+      "timestamp": "14:25",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Luffy Destroys the Eternal Pose",
+      "description": "In a defining moment, Luffy snatches the Eternal Pose from Vivi's hands and crushes it without hesitation. He declares that no one else has the right to decide where his crew goes. He refuses to let an enemy dictate their course, even if it means taking a more dangerous path.",
+      "significance": "One of the most iconic character-defining moments in One Piece. Establishes Luffy's core values: freedom, self-determination, and trust in his crew's ability to overcome any obstacle. This philosophy becomes central to Luffy's character throughout the series and parallels his later destruction of an Eternal Pose to Laugh Tale in Stampede.",
+      "characterIds": ["luffy", "nico-robin", "vivi", "nami", "zoro", "sanji", "usopp"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "You have no right to decide where we go! We'll follow our own path!",
+          "speaker": "Luffy",
+          "context": "Luffy's declaration as he destroys the Eternal Pose"
+        },
+        {
+          "text": "I hate you. You blew up that old man's ship.",
+          "speaker": "Luffy",
+          "context": "Luffy's reason for rejecting Robin's help"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep067-event-009",
+      "episodeNumber": 67,
+      "timestamp": "16:40",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MAJOR",
+      "title": "Departure from Whisky Peak",
+      "description": "The Straw Hat crew, now accompanied by Vivi and Karoo, sets sail from Whisky Peak aboard the Going Merry. They follow their Log Pose toward Little Garden, accepting whatever dangers lie ahead on the proper route through the Grand Line.",
+      "significance": "Marks the end of the Whisky Peak Arc and the crew's full commitment to helping Vivi save Arabasta. Their decision to take the dangerous route demonstrates their growing bond with Vivi and their determination to face challenges head-on.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "vivi", "karoo"],
+      "locationIds": ["whisky-peak", "going-merry"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [66],
+      "payoffInEpisodes": [70],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep067-event-010",
+      "episodeNumber": 67,
+      "timestamp": "18:15",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MAJOR",
+      "title": "Miss All Sunday's Mysterious Departure",
+      "description": "After the Eternal Pose is destroyed, Miss All Sunday calmly departs from the Going Merry without conflict. She leaves with an enigmatic smile, suggesting she has her own hidden agenda. Her mysterious behavior hints at future encounters.",
+      "significance": "Foreshadows Robin's complex character and hidden motivations. Her peaceful departure despite Luffy's rejection hints that she is not a typical villain and plants the seeds for her eventual alliance with the Straw Hats.",
+      "characterIds": ["nico-robin", "luffy"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "We'll meet again soon enough.",
+          "speaker": "Miss All Sunday",
+          "context": "Robin's cryptic farewell to the crew"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [110, 130],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep067-event-011",
+      "episodeNumber": 67,
+      "timestamp": "19:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Introduction to Little Garden",
+      "description": "As the Going Merry sails away, the crew discusses their next destination: Little Garden. Nami explains that their Log Pose is pointing to this mysterious island, and they have no choice but to go there to allow the pose to reset.",
+      "significance": "Sets up the next arc and reinforces the mechanics of Grand Line navigation. Introduces Little Garden, which will be the setting for important character development and battles in the upcoming episodes.",
+      "characterIds": ["nami", "vivi", "luffy", "usopp"],
+      "locationIds": ["going-merry", "little-garden"],
+      "quotes": [
+        {
+          "text": "The Log Pose is pointing to a place called Little Garden. That's where we're headed next.",
+          "speaker": "Nami",
+          "context": "Nami explaining their destination"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [70, 71, 72, 73, 74, 75, 76, 77],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["nico-robin"],
+    "locations": [],
+    "devilFruits": ["hana-hana-no-mi"],
+    "crews": [],
+    "abilities": ["dos-fleur"]
+  },
+  "episodeRelationships": {
+    "setupFor": [70, 71, 130],
+    "payoffFrom": [64, 65, 66],
+    "thematicLinks": []
+  },
+  "quotes": [
+    {
+      "text": "You have no right to decide where we go! We'll follow our own path!",
+      "speaker": "Luffy",
+      "context": "Luffy's declaration of independence as he destroys the Eternal Pose",
+      "timestamp": "14:25"
+    },
+    {
+      "text": "I hate you. You blew up that old man's ship.",
+      "speaker": "Luffy",
+      "context": "Luffy explaining why he won't accept Robin's help",
+      "timestamp": "14:30"
+    },
+    {
+      "text": "I am Miss All Sunday, vice president of Baroque Works.",
+      "speaker": "Miss All Sunday",
+      "context": "Robin's introduction to the Straw Hats",
+      "timestamp": "05:45"
+    },
+    {
+      "text": "We'll meet again soon enough.",
+      "speaker": "Miss All Sunday",
+      "context": "Robin's mysterious departure",
+      "timestamp": "18:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Freedom and Self-Determination",
+      "description": "Luffy's destruction of the Eternal Pose embodies the core theme of choosing one's own path despite danger or difficulty. His refusal to let anyone else dictate the crew's course demonstrates his unwavering commitment to freedom.",
+      "symbolism": "The Eternal Pose represents the easy path and external control, while its destruction symbolizes Luffy's rejection of shortcuts and his belief in forging one's own destiny.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Loyalty and Sacrifice",
+      "description": "Igaram's willingness to serve as a decoy and seemingly sacrifice his life for Vivi demonstrates the depth of loyalty in One Piece. The crew's decision to help Vivi despite the dangers shows their growing bonds.",
+      "symbolism": "The explosion of Igaram's ship represents the high stakes of loyalty and the sacrifices characters are willing to make for those they serve.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Mystery and Hidden Agendas",
+      "description": "Miss All Sunday's enigmatic behavior, calm demeanor, and cryptic statements create an aura of mystery. Her true motivations remain unclear, setting up her character arc.",
+      "symbolism": "Robin's ability to appear and disappear mysteriously mirrors her hidden past and secret goals.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Trust in Crew and Journey",
+      "description": "The episode emphasizes trusting in one's companions and the journey itself rather than seeking shortcuts. Luffy's faith in his crew's ability to handle whatever comes reinforces this theme.",
+      "symbolism": "The Log Pose versus the Eternal Pose represents the difference between accepting the journey with all its challenges versus taking an easier but less meaningful path.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Dramatic", "Mysterious", "Determined"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Captain making a defining choice",
+      "development": "Luffy demonstrates his core values of freedom and self-determination by destroying the Eternal Pose. This moment crystallizes his leadership philosophy and his refusal to compromise his crew's autonomy.",
+      "keyActions": [
+        "Witnesses Igaram's ship explosion",
+        "Confronts Miss All Sunday",
+        "Destroys the Eternal Pose",
+        "Declares that the crew will follow their own path"
+      ],
+      "quotes": [
+        "You have no right to decide where we go!",
+        "I hate you. You blew up that old man's ship."
+      ]
+    },
+    {
+      "characterId": "nico-robin",
+      "role": "Mysterious antagonist introduction",
+      "development": "Robin makes her first appearance as Miss All Sunday, establishing her as a dangerous and enigmatic figure. Her calm demeanor, devil fruit powers, and cryptic behavior create intrigue about her true motivations.",
+      "keyActions": [
+        "Appears mysteriously on the Going Merry",
+        "Reveals responsibility for Igaram's ship explosion",
+        "Demonstrates Hana Hana no Mi abilities",
+        "Offers and loses the Eternal Pose",
+        "Departs peacefully with cryptic remarks"
+      ],
+      "quotes": [
+        "I am Miss All Sunday, vice president of Baroque Works.",
+        "We'll meet again soon enough."
+      ]
+    },
+    {
+      "characterId": "vivi",
+      "role": "Grieving princess facing difficult choices",
+      "development": "Vivi experiences the trauma of witnessing Igaram's apparent death and must grapple with the consequences of her mission. She witnesses Luffy's unwavering determination to help her despite the dangers.",
+      "keyActions": [
+        "Witnesses Igaram's sacrifice and death",
+        "Confronts Miss All Sunday",
+        "Nearly accepts the Eternal Pose before Luffy intervenes",
+        "Commits to the dangerous journey ahead"
+      ],
+      "quotes": [
+        "Igaram-san!"
+      ]
+    },
+    {
+      "characterId": "sanji",
+      "role": "Protector breaking his code",
+      "development": "Sanji demonstrates the depth of his loyalty by threatening Miss All Sunday, a woman, to protect Vivi. This unprecedented action shows how far he'll go to defend his crewmates.",
+      "keyActions": [
+        "Points gun at Miss All Sunday",
+        "Threatens to harm a woman for the first time",
+        "Demonstrates protective instinct toward Vivi"
+      ],
+      "quotes": [
+        "I don't care if you're a woman. If you threaten our friends, I won't hesitate."
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends some dialogue and reaction shots during Miss All Sunday's appearance and the Eternal Pose scene for dramatic effect.",
+      "episodeTimestamp": "14:25",
+      "mangaReference": "Chapter 114",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks Nico Robin's first appearance in the One Piece anime. She would later become the seventh member of the Straw Hat crew.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_67",
+          "title": "Episode 67 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This is the only instance in the entire series where Sanji actively threatens to harm a woman, demonstrating the extreme tension of the situation.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_67",
+          "title": "Episode 67 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Luffy's destruction of the Eternal Pose in this episode mirrors his later action in One Piece: Stampede (2019) where he destroys an Eternal Pose to Laugh Tale, maintaining his philosophy of forging his own path.",
+      "category": "PARALLELS",
+      "sources": [
+        {
+          "url": "https://screenrant.com/one-piece-anime-movie-canon-scene-luffy-log-pose-theory/",
+          "title": "If Netflix Wants to Do One Piece Right - Screen Rant",
+          "platform": "Screen Rant",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode concludes the Whisky Peak Arc, which spans only 4 episodes (64-67) in the anime.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Whisky_Peak_Arc",
+          "title": "Whisky Peak Arc - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Igaram's apparent death is later revealed to be a fake-out when he reappears alive in Episode 130, having survived the explosion.",
+      "category": "PLOT",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Igaram",
+          "title": "Igaram - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode's Japanese title is '王女ビビを届けろ！ルフィ海賊団出航' (Ōjo Bibi o todokero! Rufi kaizokudan shukkō).",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_67",
+          "title": "Episode 67 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Yuriko Yamaguchi, who voices Nico Robin in Japanese, has been her voice actress throughout the entire series from this debut episode to the present.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Nico_Robin",
+          "title": "Nico Robin - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

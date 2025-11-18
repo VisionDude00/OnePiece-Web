@@ -1,0 +1,605 @@
+{
+  "episodeNumber": 70,
+  "episodeTitle": "An Ancient Island! The Shadow Hiding in Little Garden!",
+  "description": "The Straw Hat Pirates arrive at the mysterious prehistoric island of Little Garden. While Mr. 3 and Miss Goldenweek receive new orders on Kyuka Island, the crew encounters massive dinosaurs and other ancient creatures. Zoro and Sanji begin a heated hunting competition, and the episode ends with the ominous appearance of a giant's shadow.",
+  "airDate": "2001-05-27",
+  "airDateJapan": "2001-05-27",
+  "airDateUS": "2009-08-25",
+  "arcName": "Little Garden",
+  "sagaName": "Arabasta Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Believe",
+    "artist": "Folder5",
+    "episodeRange": [48, 115]
+  },
+  "endingSong": {
+    "title": "Watashi ga Iru Yo",
+    "artist": "Tomato Cube",
+    "episodeRange": [64, 73]
+  },
+  "credits": {
+    "animationDirector": "Yuji Endo",
+    "keyAnimators": ["Kazuya Hisada"],
+    "artDirection": "Shōichirō Sugiura",
+    "screenplay": "Junki Takegami",
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Wakana Yamazaki"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Misa Watanabe"
+      },
+      {
+        "character": "Karoo",
+        "actor": "Hidenari Ugaki"
+      },
+      {
+        "character": "Mr. 3",
+        "actor": "Nobuyuki Hiyama"
+      },
+      {
+        "character": "Miss Goldenweek",
+        "actor": "Akiko Nakagawa"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Caitlin Glass"
+      },
+      {
+        "character": "Mr. 3",
+        "actor": "Duncan Brannan"
+      },
+      {
+        "character": "Miss Goldenweek",
+        "actor": "Leah Clark"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep070-event-001",
+      "episodeNumber": 70,
+      "timestamp": "02:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Mr. 3 and Miss Goldenweek Debut",
+      "description": "On Kyuka Island, Baroque Works Officer Agents Mr. 3 and Miss Goldenweek are shown relaxing on vacation. Mr. 3 is preparing Earl Grey tea while Miss Goldenweek casually mentions new orders from the organization that she received days ago but neglected to share immediately.",
+      "significance": "Introduces two new Baroque Works agents who will become central antagonists in the Little Garden arc. Establishes Mr. 3's intellectual personality and Miss Goldenweek's laid-back nature.",
+      "characterIds": ["mr-3", "miss-goldenweek"],
+      "locationIds": ["kyuka-island"],
+      "quotes": [
+        {
+          "text": "I prefer Earl Grey tea.",
+          "speaker": "Mr. 3",
+          "context": "Mr. 3 showing his refined tastes while on vacation"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [71, 72, 73, 74, 75, 76, 77],
+      "callbacksToEpisodes": [62, 63, 64, 65]
+    },
+    {
+      "id": "ep070-event-002",
+      "episodeNumber": 70,
+      "timestamp": "03:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Kyuka Island Debut",
+      "description": "The tropical vacation island of Kyuka Island is shown, featuring hotels, palm trees, and resort facilities. This is where Baroque Works agents take their leisure time between missions.",
+      "significance": "Establishes that even Baroque Works agents get vacation time, adding depth to the organization's structure.",
+      "characterIds": ["mr-3", "miss-goldenweek"],
+      "locationIds": ["kyuka-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep070-event-003",
+      "episodeNumber": 70,
+      "timestamp": "04:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Mr. 3's Doru Doru no Mi Introduction",
+      "description": "Mr. 3 demonstrates his Wax-Wax Fruit powers by creating a white wax house structure. His ability to create and manipulate wax for various purposes is revealed, showcasing both artistic and practical applications.",
+      "significance": "First display of the Doru Doru no Mi Devil Fruit abilities, which will be crucial to upcoming battles and strategies in Little Garden.",
+      "characterIds": ["mr-3"],
+      "devilFruitIds": ["doru-doru-no-mi"],
+      "locationIds": ["kyuka-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [72, 73, 74, 75],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep070-event-004",
+      "episodeNumber": 70,
+      "timestamp": "06:20",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Arrival at Little Garden",
+      "description": "The Going Merry approaches and arrives at Little Garden, a mysterious prehistoric island. The crew immediately notices unusual roaring sounds and massive jungle vegetation that dwarfs normal islands.",
+      "significance": "Marks the beginning of the Little Garden arc and introduces one of the Grand Line's most unique islands, setting the stage for encounters with giants and Baroque Works agents.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "vivi", "karoo"],
+      "locationIds": ["little-garden"],
+      "quotes": [
+        {
+          "text": "What kind of island is this?",
+          "speaker": "Nami",
+          "context": "Expressing concern upon seeing the unusual island"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [71, 72, 73, 74, 75, 76, 77],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep070-event-005",
+      "episodeNumber": 70,
+      "timestamp": "08:10",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Little Garden Prehistoric Island Debut",
+      "description": "Little Garden is revealed to be a prehistoric island frozen in time, populated by dinosaurs and massive plant life. The island's unique climate has kept it in a prehistoric state while the rest of the world evolved.",
+      "significance": "Establishes Little Garden as one of the Grand Line's most dangerous and unique islands, demonstrating the variety and strangeness of the Grand Line's environments.",
+      "characterIds": ["luffy", "nami", "usopp", "vivi"],
+      "locationIds": ["little-garden"],
+      "quotes": [
+        {
+          "text": "It's like we've gone back in time!",
+          "speaker": "Usopp",
+          "context": "Realizing the island is prehistoric"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [71, 72, 73, 74, 75, 76, 77],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep070-event-006",
+      "episodeNumber": 70,
+      "timestamp": "09:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Nami Remembers Little Garden's Legend",
+      "description": "Nami recalls reading about Little Garden in a book. According to explorer Louis Arnote's account, the island was given its name due to its unique prehistoric nature, though he warned that those who visited never returned.",
+      "significance": "Provides backstory and foreshadowing about the island's dangers while establishing it has a reputation among sailors.",
+      "characterIds": ["nami"],
+      "locationIds": ["little-garden"],
+      "quotes": [
+        {
+          "text": "I remember now! This island is called Little Garden, and according to the book, no one who has gone there has ever come back!",
+          "speaker": "Nami",
+          "context": "Warning the crew about the island's dangerous reputation"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [71, 72, 73, 74, 75, 76, 77],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep070-event-007",
+      "episodeNumber": 70,
+      "timestamp": "10:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Crew Splits to Explore",
+      "description": "Despite the warnings, Luffy, Vivi, Zoro, and Sanji decide to explore the island for food and adventure. Nami and Usopp, being more cautious, choose to stay aboard the Going Merry to guard the ship.",
+      "significance": "Establishes the exploration dynamic and separates the crew, setting up individual encounters with the island's dangers.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "vivi", "karoo"],
+      "locationIds": ["little-garden"],
+      "quotes": [
+        {
+          "text": "I'm staying on the ship!",
+          "speaker": "Usopp",
+          "context": "Refusing to explore the dangerous island"
+        },
+        {
+          "text": "Me too. Someone has to guard the ship anyway.",
+          "speaker": "Nami",
+          "context": "Supporting Usopp's decision while providing practical justification"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [71, 72],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep070-event-008",
+      "episodeNumber": 70,
+      "timestamp": "12:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Zoro and Sanji's Hunting Competition Begins",
+      "description": "Upon entering the jungle, Zoro and Sanji immediately get into an argument about who can hunt the biggest dinosaur. They turn their exploration into a competition, with each determined to bring back more meat than the other.",
+      "significance": "This marks the formal beginning of Zoro and Sanji's legendary rivalry that will continue throughout the series, establishing their competitive dynamic.",
+      "characterIds": ["zoro", "sanji"],
+      "locationIds": ["little-garden"],
+      "quotes": [
+        {
+          "text": "I bet I can hunt bigger prey than you, moss-head!",
+          "speaker": "Sanji",
+          "context": "Challenging Zoro to a hunting competition"
+        },
+        {
+          "text": "You're on, cook!",
+          "speaker": "Zoro",
+          "context": "Accepting Sanji's challenge"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [71, 72],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep070-event-009",
+      "episodeNumber": 70,
+      "timestamp": "13:50",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Sanji vs Tyrannosaurus Rex",
+      "description": "Sanji encounters a massive Tyrannosaurus Rex in the jungle. The dinosaur attempts to eat him, leading to a brief but intense confrontation where Sanji uses his powerful kicks to defend himself.",
+      "significance": "Demonstrates the real danger of Little Garden's prehistoric inhabitants and showcases Sanji's combat abilities against large creatures.",
+      "characterIds": ["sanji"],
+      "locationIds": ["little-garden"],
+      "quotes": [
+        {
+          "text": "I'm not going to be dinosaur food!",
+          "speaker": "Sanji",
+          "context": "Fighting off the T-Rex"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [71],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep070-event-010",
+      "episodeNumber": 70,
+      "timestamp": "15:20",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Zoro vs Triceratops",
+      "description": "Zoro encounters a Triceratops and immediately wonders if it would be good to eat. He engages the dinosaur in combat, viewing it as both a challenge and a potential meal for the crew.",
+      "significance": "Shows Zoro's combat prowess and his practical approach to hunting, while demonstrating the variety of prehistoric creatures on Little Garden.",
+      "characterIds": ["zoro"],
+      "locationIds": ["little-garden"],
+      "quotes": [
+        {
+          "text": "I wonder if this thing is edible.",
+          "speaker": "Zoro",
+          "context": "Sizing up the Triceratops as potential food"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [71],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep070-event-011",
+      "episodeNumber": 70,
+      "timestamp": "16:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Luffy and Vivi Encounter Brachiosaurus",
+      "description": "Luffy and Vivi come across a massive Brachiosaurus (long-necked dinosaur) peacefully eating vegetation. Luffy is fascinated by the creature's size while Vivi is amazed and frightened.",
+      "significance": "Provides variety in dinosaur encounters and shows different character reactions to Little Garden's prehistoric wildlife.",
+      "characterIds": ["luffy", "vivi", "karoo"],
+      "locationIds": ["little-garden"],
+      "quotes": [
+        {
+          "text": "Wow! Look at the size of that thing!",
+          "speaker": "Luffy",
+          "context": "Excited reaction to seeing the Brachiosaurus"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep070-event-012",
+      "episodeNumber": 70,
+      "timestamp": "18:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Louis Arnote's Little Garden Account",
+      "description": "Through Nami's recollection, the explorer Louis Arnote's historical account of Little Garden is revealed. He documented the island's prehistoric nature and gave it the name 'Little Garden', though his reports warned of its extreme danger.",
+      "significance": "Provides world-building lore about Grand Line exploration and establishes that Little Garden has been documented before, adding historical context.",
+      "characterIds": ["nami"],
+      "locationIds": ["little-garden"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep070-event-013",
+      "episodeNumber": 70,
+      "timestamp": "19:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Samurai Batts Transponder Snail Debut",
+      "description": "Mr. 3's personal transponder snail, Samurai Batts, is shown. This unique snail wears samurai-style armor and serves as Mr. 3's communication device for receiving orders from Baroque Works.",
+      "significance": "Introduces a unique character design element and shows the variety of transponder snails in the One Piece world.",
+      "characterIds": ["mr-3", "samurai-batts"],
+      "locationIds": ["kyuka-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [72, 73, 74],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep070-event-014",
+      "episodeNumber": 70,
+      "timestamp": "20:45",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MAJOR",
+      "title": "Giant's Shadow Appears",
+      "description": "As the episode concludes, a massive shadow looms over the jungle. The silhouette of an enormous humanoid figure appears, towering over the trees. This is Brogy, one of the two giant warriors of Little Garden, though he is not yet fully revealed.",
+      "significance": "Creates suspense and foreshadows the introduction of the giants, setting up major encounters for the next episode. The shadow's immense size hints at threats beyond even the dinosaurs.",
+      "characterIds": ["brogy"],
+      "locationIds": ["little-garden"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [71],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep070-event-015",
+      "episodeNumber": 70,
+      "timestamp": "05:15",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Miss Goldenweek's Colors Trap Hint",
+      "description": "Miss Goldenweek is shown with her painting supplies and colored paints, hinting at her unique hypnosis ability called Colors Trap. Though not fully demonstrated yet, her paints are shown to be her primary tool.",
+      "significance": "Sets up Miss Goldenweek's unique non-Devil Fruit ability that will be crucial in upcoming battles.",
+      "characterIds": ["miss-goldenweek"],
+      "locationIds": ["kyuka-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [74, 75],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["mr-3", "miss-goldenweek", "samurai-batts"],
+    "locations": ["little-garden", "kyuka-island"],
+    "devilFruits": ["doru-doru-no-mi"],
+    "crews": [],
+    "abilities": ["doru-doru-no-mi-wax-creation"]
+  },
+  "episodeRelationships": {
+    "setupFor": [71, 72, 73, 74, 75, 76, 77],
+    "payoffFrom": [],
+    "thematicLinks": [62, 63, 64, 65]
+  },
+  "quotes": [
+    {
+      "text": "I prefer Earl Grey tea.",
+      "speaker": "Mr. 3",
+      "context": "Showing his refined personality during vacation",
+      "timestamp": "02:15"
+    },
+    {
+      "text": "I remember now! This island is called Little Garden, and according to the book, no one who has gone there has ever come back!",
+      "speaker": "Nami",
+      "context": "Warning about Little Garden's dangerous reputation",
+      "timestamp": "09:45"
+    },
+    {
+      "text": "I bet I can hunt bigger prey than you, moss-head!",
+      "speaker": "Sanji",
+      "context": "Starting the hunting competition with Zoro",
+      "timestamp": "12:15"
+    },
+    {
+      "text": "You're on, cook!",
+      "speaker": "Zoro",
+      "context": "Accepting Sanji's hunting challenge",
+      "timestamp": "12:20"
+    },
+    {
+      "text": "Wow! Look at the size of that thing!",
+      "speaker": "Luffy",
+      "context": "Excited reaction to seeing a Brachiosaurus",
+      "timestamp": "16:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Adventure and Exploration",
+      "description": "The episode emphasizes the excitement and danger of exploring unknown islands on the Grand Line, particularly one frozen in prehistoric time.",
+      "symbolism": "Little Garden represents the unpredictable and wondrous nature of the Grand Line, where islands can be frozen in different time periods.",
+      "culturalReferences": [
+        "The prehistoric setting evokes classic adventure stories like 'The Lost World' and 'Journey to the Center of the Earth'"
+      ]
+    },
+    {
+      "theme": "Rivalry and Competition",
+      "description": "The hunting competition between Zoro and Sanji establishes their ongoing rivalry as a source of both tension and motivation.",
+      "symbolism": "Their competition drives both to become stronger and push their limits, while maintaining camaraderie.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Courage vs Caution",
+      "description": "The episode contrasts brave explorers (Luffy, Zoro, Sanji) with cautious crew members (Nami, Usopp), showing both approaches have merit.",
+      "symbolism": "Different personality types within the crew create balance between reckless adventure and practical safety.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Adventurous", "Mysterious", "Comedic", "Tense"],
+  "characterSpotlights": [
+    {
+      "characterId": "mr-3",
+      "role": "Antagonist Introduction",
+      "development": "Mr. 3 is introduced as an intelligent, refined Baroque Works agent who values strategy over brute force. His wax powers and arrogant personality are established.",
+      "keyActions": [
+        "Relaxing on Kyuka Island",
+        "Preparing Earl Grey tea",
+        "Demonstrating Doru Doru no Mi powers",
+        "Receiving orders about the Straw Hats"
+      ],
+      "quotes": ["I prefer Earl Grey tea."]
+    },
+    {
+      "characterId": "miss-goldenweek",
+      "role": "Antagonist Introduction",
+      "development": "Miss Goldenweek is introduced as Mr. 3's laid-back partner who takes a casual approach to her missions, even delaying sharing important information.",
+      "keyActions": [
+        "Vacationing with Mr. 3",
+        "Revealing orders received days ago",
+        "Showing her painting supplies"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "zoro",
+      "role": "Competitive Hunter",
+      "development": "Zoro's competitive nature with Sanji is formalized as he takes the hunting challenge seriously while showing his practical mindset.",
+      "keyActions": [
+        "Accepting hunting competition",
+        "Encountering Triceratops",
+        "Competing with Sanji for largest catch"
+      ],
+      "quotes": ["You're on, cook!", "I wonder if this thing is edible."]
+    },
+    {
+      "characterId": "sanji",
+      "role": "Competitive Hunter",
+      "development": "Sanji's rivalry with Zoro takes center stage as he initiates the hunting competition, showing his prideful nature.",
+      "keyActions": [
+        "Challenging Zoro to hunting competition",
+        "Battling Tyrannosaurus Rex",
+        "Searching for large prey"
+      ],
+      "quotes": ["I bet I can hunt bigger prey than you, moss-head!", "I'm not going to be dinosaur food!"]
+    },
+    {
+      "characterId": "nami",
+      "role": "Voice of Caution",
+      "development": "Nami serves as the crew's cautious navigator, recalling information about Little Garden's dangers and choosing to stay on the ship.",
+      "keyActions": [
+        "Remembering Louis Arnote's account",
+        "Warning crew about dangers",
+        "Staying to guard the ship"
+      ],
+      "quotes": ["I remember now! This island is called Little Garden, and according to the book, no one who has gone there has ever come back!", "Me too. Someone has to guard the ship anyway."]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime includes extended scenes of Nami barefoot on the ship that were not in the manga.",
+      "episodeTimestamp": "11:30",
+      "mangaReference": "Chapter 115",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "Additional comedic interactions between Usopp and Nami on the Going Merry are added for pacing.",
+      "episodeTimestamp": "17:20",
+      "mangaReference": "Chapter 115",
+      "type": "EXPANDED_SCENE"
+    },
+    {
+      "difference": "The wax house scene with Mr. 3 is expanded with more visual detail of his abilities.",
+      "episodeTimestamp": "04:30",
+      "mangaReference": "Chapter 117",
+      "type": "EXPANDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Pandaman makes a cameo appearance in this episode, continuing the series' longest-running Easter egg.",
+      "category": "EASTER_EGG",
+      "sources": []
+    },
+    {
+      "fact": "This episode marks the beginning of episodes where Wakana Yamazaki substituted for Akemi Okamura as Nami's voice actress due to Okamura's maternity leave. Yamazaki voiced Nami from episodes 70-78.",
+      "category": "VOICE_ACTING",
+      "sources": []
+    },
+    {
+      "fact": "Episode 70 is the first episode of the Little Garden Arc, which is considered one of the shorter arcs in One Piece, spanning only 8 episodes (70-77).",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "The episode adapts portions of manga chapters 115 and 117, notably skipping chapter 116 entirely.",
+      "category": "ADAPTATION",
+      "sources": []
+    },
+    {
+      "fact": "Mr. 3's character design includes hair that changes shape based on his emotions, forming punctuation marks like exclamation points and question marks.",
+      "category": "CHARACTER_DESIGN",
+      "sources": []
+    },
+    {
+      "fact": "Little Garden is stated to require a full year for the Log Pose to set, the longest recording time shown so far in the series at this point.",
+      "category": "WORLD_BUILDING",
+      "sources": []
+    },
+    {
+      "fact": "The opening theme 'Believe' by Folder5 is actually a Japanese cover of the Eurobeat song 'Dreamin' Of You' by Lolita (Elena Gobbi Frattini).",
+      "category": "MUSIC",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
