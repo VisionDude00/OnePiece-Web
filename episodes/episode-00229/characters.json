@@ -1,0 +1,310 @@
+[
+  {
+    "id": "kokoro",
+    "name": {
+      "english": "Kokoro",
+      "japanese": "ココロ",
+      "romanized": "Kokoro"
+    },
+    "debutEpisode": 229,
+    "debutChapter": 322,
+    "episodeAppearances": [229],
+    "keyMoments": [
+      {
+        "episodeNumber": 229,
+        "eventId": "ep229-event-004",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Meeting the Straw Hat Pirates",
+        "description": "Kokoro meets the Straw Hat Pirates at Shift Station after they nearly collide with the Puffing Tom sea train. She introduces herself and her granddaughter Chimney.",
+        "significance": "First meeting between Kokoro and the Straw Hats, establishing her as a helpful guide who will play a crucial role in the Water 7 and Enies Lobby arcs.",
+        "timestamp": "08:20",
+        "quote": "Nagagagaga! Welcome to Shift Station, young pirates!"
+      },
+      {
+        "episodeNumber": 229,
+        "eventId": "ep229-event-005",
+        "momentType": "WORLD_LORE",
+        "title": "Explains the Sea Train System",
+        "description": "Kokoro provides detailed information about the Puffing Tom sea train system, explaining how it connects Water 7 to other islands including Enies Lobby.",
+        "significance": "Establishes crucial information about the sea train that becomes central to the upcoming arcs. Shows Kokoro's knowledge and connection to the region's infrastructure.",
+        "timestamp": "11:30",
+        "quote": ""
+      },
+      {
+        "episodeNumber": 229,
+        "eventId": "ep229-event-010",
+        "momentType": "WORLD_LORE",
+        "title": "Gives Introduction to Iceburg",
+        "description": "Kokoro provides the Straw Hats with a letter of introduction to Iceburg, the mayor of Water 7 and president of Galley-La Company.",
+        "significance": "Facilitates the crew's entry into Water 7 society and their meeting with Iceburg, which drives the plot forward.",
+        "timestamp": "20:15",
+        "quote": ""
+      }
+    ],
+    "status": "ALIVE",
+    "statusHistory": [
+      {
+        "status": "ALIVE",
+        "episodeStart": 229,
+        "episodeEnd": "present"
+      }
+    ],
+    "occupations": ["Sea Train Station Master", "Former Secretary"],
+    "affiliations": [
+      {
+        "organizationId": "shift-station",
+        "role": "Station Master",
+        "episodeJoined": 229,
+        "episodeLeft": null
+      }
+    ],
+    "age": 70,
+    "height": "Unknown",
+    "species": "Mermaid (Icefish)",
+    "birthday": "February 2",
+    "abilities": [],
+    "relationships": [
+      {
+        "targetCharacterId": "chimney",
+        "relationshipType": "FAMILY",
+        "description": "Kokoro is Chimney's grandmother and guardian. She raises Chimney at Shift Station.",
+        "episodeEstablished": 229,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 229,
+            "description": "Kokoro introduces Chimney to the Straw Hats as her granddaughter.",
+            "newRelationshipType": "FAMILY"
+          }
+        ]
+      }
+    ],
+    "reveals": [
+      {
+        "infoType": "OCCUPATION",
+        "information": "Station master at Shift Station for the sea train",
+        "episodeRevealed": 229,
+        "severity": "MINOR"
+      },
+      {
+        "infoType": "CONNECTION",
+        "information": "Has knowledge of Water 7 and provides introduction to Iceburg",
+        "episodeRevealed": 229,
+        "severity": "MINOR"
+      }
+    ],
+    "voiceActors": {
+      "japanese": "Ako Mayama",
+      "english": "Juli Erickson"
+    }
+  },
+  {
+    "id": "chimney",
+    "name": {
+      "english": "Chimney",
+      "japanese": "チムニー",
+      "romanized": "Chimunī"
+    },
+    "debutEpisode": 229,
+    "debutChapter": 322,
+    "episodeAppearances": [229],
+    "keyMoments": [
+      {
+        "episodeNumber": 229,
+        "eventId": "ep229-event-004",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Meeting the Straw Hat Pirates",
+        "description": "Chimney meets the Straw Hat Pirates at Shift Station alongside her grandmother Kokoro. She introduces her pet rabbit Gonbe, insisting that he is a cat.",
+        "significance": "First appearance of Chimney, an energetic and cheerful child who becomes a recurring character in the Water 7 saga. Her misidentification of Gonbe provides comic relief.",
+        "timestamp": "08:20",
+        "quote": "That's my cat, Gonbe!"
+      }
+    ],
+    "status": "ALIVE",
+    "statusHistory": [
+      {
+        "status": "ALIVE",
+        "episodeStart": 229,
+        "episodeEnd": "present"
+      }
+    ],
+    "occupations": [],
+    "affiliations": [],
+    "age": 8,
+    "height": "115 cm",
+    "species": "1/4 Mermaid (Human appearance)",
+    "birthday": "June 2",
+    "bloodType": "S",
+    "abilities": [
+      {
+        "abilityName": "Exceptional Swimming",
+        "abilityType": "NATURAL",
+        "episodeFirstUsed": 229,
+        "description": "Due to her mermaid heritage, Chimney is an exceptionally good swimmer despite appearing fully human."
+      }
+    ],
+    "relationships": [
+      {
+        "targetCharacterId": "kokoro",
+        "relationshipType": "FAMILY",
+        "description": "Chimney is Kokoro's granddaughter. She lives with her grandmother at Shift Station.",
+        "episodeEstablished": 229,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 229,
+            "description": "Chimney is introduced as Kokoro's granddaughter.",
+            "newRelationshipType": "FAMILY"
+          }
+        ]
+      },
+      {
+        "targetCharacterId": "gonbe",
+        "relationshipType": "PET_OWNER",
+        "description": "Chimney owns Gonbe, a rabbit she insists is a cat. They are constant companions.",
+        "episodeEstablished": 229,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 229,
+            "description": "Chimney introduces Gonbe as her pet 'cat' to the Straw Hats.",
+            "newRelationshipType": "PET_OWNER"
+          }
+        ]
+      }
+    ],
+    "reveals": [
+      {
+        "infoType": "PERSONALITY",
+        "information": "Lighthearted, hyperactive, and adventurous child with innocent curiosity",
+        "episodeRevealed": 229,
+        "severity": "MINOR"
+      },
+      {
+        "infoType": "QUIRK",
+        "information": "Believes her pet rabbit Gonbe is actually a cat",
+        "episodeRevealed": 229,
+        "severity": "MINOR"
+      }
+    ],
+    "voiceActors": {
+      "japanese": "Akemi Okamura",
+      "english": "Michelle Rojas"
+    }
+  },
+  {
+    "id": "gonbe",
+    "name": {
+      "english": "Gonbe",
+      "japanese": "ゴンベ",
+      "romanized": "Gonbe"
+    },
+    "debutEpisode": 229,
+    "debutChapter": 322,
+    "episodeAppearances": [229],
+    "keyMoments": [
+      {
+        "episodeNumber": 229,
+        "eventId": "ep229-event-004",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Introduction as Chimney's 'Cat'",
+        "description": "Gonbe is introduced as Chimney's pet. Despite clearly being a rabbit with long ears and a cotton tail, Chimney insists he is a cat. Gonbe makes cat-like 'nya' sounds despite being a rabbit.",
+        "significance": "First appearance of Gonbe, whose species confusion provides ongoing comic relief throughout the Water 7 saga. The running gag of his identity becomes a memorable aspect of the arc.",
+        "timestamp": "08:20",
+        "quote": ""
+      }
+    ],
+    "status": "ALIVE",
+    "statusHistory": [
+      {
+        "status": "ALIVE",
+        "episodeStart": 229,
+        "episodeEnd": "present"
+      }
+    ],
+    "occupations": [],
+    "affiliations": [],
+    "species": "Rabbit (identified as cat by Chimney)",
+    "birthday": "February 8",
+    "abilities": [],
+    "relationships": [
+      {
+        "targetCharacterId": "chimney",
+        "relationshipType": "PET",
+        "description": "Gonbe is Chimney's pet companion. He accompanies her everywhere and mimics her actions.",
+        "episodeEstablished": 229,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 229,
+            "description": "Gonbe is introduced as Chimney's pet.",
+            "newRelationshipType": "PET"
+          }
+        ]
+      }
+    ],
+    "reveals": [
+      {
+        "infoType": "QUIRK",
+        "information": "A rabbit who makes cat sounds and is believed to be a cat by his owner Chimney",
+        "episodeRevealed": 229,
+        "severity": "MINOR"
+      }
+    ],
+    "voiceActors": {
+      "japanese": "Akemi Okamura",
+      "english": "Michelle Rojas"
+    }
+  },
+  {
+    "id": "yokozuna",
+    "name": {
+      "english": "Yokozuna",
+      "japanese": "ヨコヅナ",
+      "romanized": "Yokozuna"
+    },
+    "debutEpisode": 229,
+    "debutChapter": 322,
+    "episodeAppearances": [229],
+    "keyMoments": [
+      {
+        "episodeNumber": 229,
+        "eventId": "ep229-event-002",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Giant Frog Swimming Front Crawl",
+        "description": "Yokozuna is spotted by Zoro swimming the front crawl (freestyle) across the ocean. The crew is amazed by the sight of a giant frog swimming in a human style rather than the natural breaststroke.",
+        "significance": "First appearance of Yokozuna, who becomes a recurring character connected to Franky. The humorous swimming style and his later attempts to stop the sea train establish his character and foreshadow Franky's introduction.",
+        "timestamp": "04:30",
+        "quote": ""
+      }
+    ],
+    "status": "ALIVE",
+    "statusHistory": [
+      {
+        "status": "ALIVE",
+        "episodeStart": 229,
+        "episodeEnd": "present"
+      }
+    ],
+    "occupations": [],
+    "affiliations": [],
+    "species": "Giant Frog",
+    "abilities": [
+      {
+        "abilityName": "Front Crawl Swimming",
+        "abilityType": "NATURAL",
+        "episodeFirstUsed": 229,
+        "description": "Yokozuna swims using the front crawl (freestyle) technique, an unusual and humorous contrast to the natural breaststroke swimming of typical frogs."
+      }
+    ],
+    "relationships": [],
+    "reveals": [
+      {
+        "infoType": "ABILITY",
+        "information": "Can swim using the front crawl stroke despite being a frog",
+        "episodeRevealed": 229,
+        "severity": "MINOR"
+      }
+    ],
+    "voiceActors": {
+      "japanese": "Unknown",
+      "english": "Unknown"
+    }
+  }
+]
