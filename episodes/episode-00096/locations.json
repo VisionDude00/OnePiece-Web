@@ -1,0 +1,272 @@
+[
+  {
+    "name": {
+      "english": "Erumalu",
+      "japanese": "エルマル",
+      "romanized": "Erumaru",
+      "aliases": ["The Green City"]
+    },
+    "debutEpisode": 96,
+    "debutChapter": 161,
+    "episodeAppearances": [96],
+    "locationType": "CITY",
+    "geography": {
+      "region": "Arabasta Kingdom",
+      "climate": "Desert (formerly had vegetation)",
+      "terrain": "Sandy ruins with buried buildings and dead trees",
+      "notableFeatures": ["Great Taph Temple/Cathedral", "Irrigation canal system (now destroyed)", "Half-buried buildings", "Dead trees", "Skulls in the sand"]
+    },
+    "keyEvents": [
+      {
+        "episodeNumber": 96,
+        "eventId": "ep096-event-008",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Straw Hats Arrive at Erumalu Ruins",
+        "description": "The Straw Hat Pirates arrive at the abandoned ruins of Erumalu and witness the devastating effects of the drought.",
+        "significance": "First direct evidence of Arabasta's crisis, motivating the crew to help Vivi",
+        "timestamp": "15:45"
+      },
+      {
+        "episodeNumber": 96,
+        "eventId": "ep096-event-009",
+        "eventType": "WORLD_LORE",
+        "title": "Erumalu's History Explained",
+        "description": "Vivi explains how Erumalu went from a thriving green city to abandoned desert ruins over three years.",
+        "significance": "Provides crucial context for understanding the Arabasta conflict",
+        "timestamp": "17:20"
+      }
+    ],
+    "currentStatus": "ABANDONED",
+    "statusHistory": [
+      {
+        "status": "THRIVING",
+        "episodeStart": null,
+        "episodeEnd": null,
+        "description": "Erumalu was known as the 'Green City' due to its abundant plant life sustained by the Sandora River"
+      },
+      {
+        "status": "DECLINING",
+        "episodeStart": null,
+        "episodeEnd": null,
+        "description": "The Sandora River began losing force and seawater infiltrated, making water unsuitable for consumption or agriculture"
+      },
+      {
+        "status": "ABANDONED",
+        "episodeStart": 96,
+        "episodeEnd": 96,
+        "description": "After three years without rain, the city was completely abandoned. Only half-buried ruins remain"
+      }
+    ],
+    "culturalSignificance": "The Great Taph Temple was completed here 3,835 years ago, making it one of Arabasta's most historically significant locations. The city's fall symbolizes the devastating impact of the drought.",
+    "reveals": [
+      {
+        "infoType": "LOCATION_STATE",
+        "information": "Erumalu is now completely abandoned with only ruins remaining",
+        "episodeRevealed": 96,
+        "severity": "MAJOR"
+      },
+      {
+        "infoType": "HISTORY",
+        "information": "Was called the 'Green City' before the drought destroyed it over three years",
+        "episodeRevealed": 96,
+        "severity": "MAJOR"
+      },
+      {
+        "infoType": "LANDMARK",
+        "information": "Contains the Great Taph Temple/Cathedral, built 3,835 years ago",
+        "episodeRevealed": 96,
+        "severity": "MINOR"
+      }
+    ],
+    "connections": {
+      "nearbyLocations": ["sandora-river", "arabasta-coast", "alubarna"],
+      "partOf": "arabasta-kingdom"
+    }
+  },
+  {
+    "name": {
+      "english": "Arabasta Coast",
+      "japanese": "アラバスタ海岸",
+      "romanized": "Arabasuta Kaigan",
+      "aliases": []
+    },
+    "debutEpisode": 96,
+    "debutChapter": 161,
+    "episodeAppearances": [96],
+    "locationType": "COASTAL_AREA",
+    "geography": {
+      "region": "Arabasta Kingdom",
+      "climate": "Coastal desert",
+      "terrain": "Sandy shore with access to the sea",
+      "notableFeatures": ["Home of Kung Fu Dugongs", "Shore where ships can anchor near Erumalu"]
+    },
+    "keyEvents": [
+      {
+        "episodeNumber": 96,
+        "eventId": "ep096-event-003",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Kung Fu Dugongs Encounter",
+        "description": "The Straw Hats encounter Kung Fu Dugongs for the first time at this coastal location.",
+        "significance": "Introduction of memorable creatures and comedic sequence",
+        "timestamp": "06:45"
+      },
+      {
+        "episodeNumber": 96,
+        "eventId": "ep096-event-005",
+        "eventType": "BATTLE_END",
+        "title": "Luffy Defeats Kung Fu Dugong",
+        "description": "Luffy defeats a Kung Fu Dugong at the coast, making them his disciples.",
+        "significance": "Establishes the dugongs' honor code",
+        "timestamp": "10:15"
+      }
+    ],
+    "currentStatus": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 96,
+        "episodeEnd": 96,
+        "description": "Coastal area inhabited by Kung Fu Dugongs"
+      }
+    ],
+    "culturalSignificance": "Home to the Kung Fu Dugongs, a unique species that practices martial arts and follows a strict honor code.",
+    "reveals": [
+      {
+        "infoType": "INHABITANTS",
+        "information": "The Arabasta coast is home to Kung Fu Dugongs",
+        "episodeRevealed": 96,
+        "severity": "MINOR"
+      }
+    ],
+    "connections": {
+      "nearbyLocations": ["erumalu", "sandora-river"],
+      "partOf": "arabasta-kingdom"
+    }
+  },
+  {
+    "name": {
+      "english": "Sandora River",
+      "japanese": "サンドラ川",
+      "romanized": "Sandora Gawa",
+      "aliases": []
+    },
+    "debutEpisode": 92,
+    "debutChapter": 159,
+    "episodeAppearances": [96],
+    "locationType": "RIVER",
+    "geography": {
+      "region": "Arabasta Kingdom",
+      "climate": "Desert river",
+      "terrain": "River running through desert",
+      "notableFeatures": ["Major water source for Arabasta", "Suffering from reduced flow and seawater infiltration"]
+    },
+    "keyEvents": [
+      {
+        "episodeNumber": 96,
+        "eventId": "ep096-event-001",
+        "eventType": "MAJOR_DECISION",
+        "title": "Ace Travels with Straw Hats on the River",
+        "description": "The crew travels along the Sandora River with Ace temporarily joining them.",
+        "significance": "Setting for Ace's revelation about hunting Blackbeard",
+        "timestamp": "03:15"
+      },
+      {
+        "episodeNumber": 96,
+        "eventId": "ep096-event-009",
+        "eventType": "WORLD_LORE",
+        "title": "Sandora River's Degradation Explained",
+        "description": "Vivi explains that the Sandora River has been losing force, with seawater from the Grand Line infiltrating and making the water unusable.",
+        "significance": "Explains one of the natural factors contributing to Arabasta's crisis",
+        "timestamp": "17:20"
+      }
+    ],
+    "currentStatus": "DEGRADED",
+    "statusHistory": [
+      {
+        "status": "HEALTHY",
+        "episodeStart": null,
+        "episodeEnd": null,
+        "description": "Once a strong river providing reliable water to cities like Erumalu"
+      },
+      {
+        "status": "DEGRADED",
+        "episodeStart": 96,
+        "episodeEnd": 96,
+        "description": "River has lost much of its force, with seawater infiltration making water unsuitable for consumption or agriculture"
+      }
+    ],
+    "culturalSignificance": "Major water source for Arabasta, its degradation contributed significantly to the abandonment of Erumalu and other cities.",
+    "reveals": [
+      {
+        "infoType": "ENVIRONMENTAL",
+        "information": "The Sandora River has been contaminated by seawater infiltration from the Grand Line",
+        "episodeRevealed": 96,
+        "severity": "MAJOR"
+      }
+    ],
+    "connections": {
+      "nearbyLocations": ["erumalu", "arabasta-coast", "alubarna"],
+      "partOf": "arabasta-kingdom"
+    }
+  },
+  {
+    "name": {
+      "english": "Alubarna Palace",
+      "japanese": "アルバーナ宮殿",
+      "romanized": "Arubāna Kyūden",
+      "aliases": []
+    },
+    "debutEpisode": 92,
+    "debutChapter": 159,
+    "episodeAppearances": [96],
+    "locationType": "PALACE",
+    "geography": {
+      "region": "Alubarna, Arabasta Kingdom",
+      "climate": "Desert",
+      "terrain": "Royal palace in the capital city",
+      "notableFeatures": ["Throne room", "Palace gates", "Royal chambers"]
+    },
+    "keyEvents": [
+      {
+        "episodeNumber": 96,
+        "eventId": "ep096-event-013",
+        "eventType": "BACKSTORY_REVEAL",
+        "title": "King Cobra Opens Palace to Citizens",
+        "description": "King Cobra personally invites all citizens who want to speak with him to enter the palace, showing his compassion and openness.",
+        "significance": "Demonstrates Cobra's true character and innocence regarding the Dance Powder accusations",
+        "timestamp": "22:30"
+      },
+      {
+        "episodeNumber": 96,
+        "eventId": "ep096-event-011",
+        "eventType": "WORLD_LORE",
+        "title": "Alubarna and the 'King's Miracle'",
+        "description": "Referenced as the location where Dance Powder allegedly caused rain, leading people to believe in the 'King's Miracle' while the rest of the country suffered.",
+        "significance": "Central location in Crocodile's propaganda campaign against King Cobra",
+        "timestamp": "19:45"
+      }
+    ],
+    "currentStatus": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 96,
+        "episodeEnd": 96,
+        "description": "Seat of royal power in Arabasta, currently under scrutiny due to Dance Powder allegations"
+      }
+    ],
+    "culturalSignificance": "The royal palace of Arabasta and seat of the Nefertari family's power. Central to the political crisis due to allegations of Dance Powder use.",
+    "reveals": [
+      {
+        "infoType": "POLITICAL",
+        "information": "King Cobra maintains an open-door policy despite the crisis, personally meeting with citizens",
+        "episodeRevealed": 96,
+        "severity": "MINOR"
+      }
+    ],
+    "connections": {
+      "nearbyLocations": ["alubarna"],
+      "partOf": "arabasta-kingdom"
+    }
+  }
+]

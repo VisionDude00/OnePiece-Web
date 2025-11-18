@@ -1,0 +1,529 @@
+{
+  "episodeNumber": 97,
+  "episodeTitle": "Adventure in the Country of Sand! The Demons that Live in the Scorching Earth",
+  "titleJapanese": "砂の国の冒険！炎熱の大地に棲む魔物",
+  "titleRomanized": "Suna no kuni no bōken! Ennetsu no daichi ni sumu mamono",
+  "description": "The Straw Hat Pirates, accompanied by Ace, traverse the treacherous Sandora Desert on their way to Yuba. They encounter dangerous desert creatures including poisonous scorpions, thieving Warusagi birds, carnivorous plants, and giant Sandora Lizards, while Vivi explains the devastating impact of Dance Powder on Arabasta.",
+  "airDate": "2002-01-20",
+  "airDateJapan": "2002-01-20",
+  "airDateUS": "2009-12-15",
+  "airDate4Kids": "2006-03-25",
+  "arcName": "Arabasta Arc",
+  "sagaName": "Arabasta Saga",
+  "season": 4,
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Believe",
+    "artist": "Folder 5",
+    "episodeRange": [48, 115]
+  },
+  "endingSong": {
+    "title": "fish",
+    "artist": "The Kaleidoscope",
+    "episodeRange": [95, 106]
+  },
+  "credits": {
+    "screenplay": "Junki Takegami",
+    "artDirection": ["Miyuki Sato", "Fumihiro Uchikawa"],
+    "animation": "Kazuya Hisada",
+    "director": "Harume Kosaka",
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Misa Watanabe"
+      },
+      {
+        "character": "Portgas D. Ace",
+        "actor": "Toshio Furukawa"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Caitlin Glass"
+      },
+      {
+        "character": "Portgas D. Ace",
+        "actor": "Travis Willingham"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep097-event-001",
+      "episodeNumber": 97,
+      "timestamp": "03:15",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Dance Powder Explanation",
+      "description": "Vivi and Nami explain what Dance Powder is to the crew. Dance Powder is a green powder that can create artificial rain by accelerating ice particle formation in clouds, but it cannot create new water—it only redirects existing rainfall. This causes droughts in surrounding areas and was used to frame King Cobra and destabilize Arabasta.",
+      "significance": "Reveals the mechanism behind Arabasta's civil unrest and Crocodile's manipulation of the kingdom through artificial drought creation. This is a key piece of the conspiracy driving the entire Arabasta Arc.",
+      "characterIds": ["vivi", "nami", "luffy"],
+      "locationIds": ["sandora-desert"],
+      "quotes": [
+        {
+          "text": "Dance Powder cannot create new rainwater entirely. If the powder causes all rain to fall in one location, it will deprive other locations of rain, causing droughts.",
+          "speaker": "Vivi",
+          "context": "Explaining the environmental consequences of Dance Powder to the crew"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [92, 93],
+      "payoffInEpisodes": [110, 122, 126],
+      "callbacksToEpisodes": [93]
+    },
+    {
+      "id": "ep097-event-002",
+      "episodeNumber": 97,
+      "timestamp": "05:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Luffy Drinks Too Much Water",
+      "description": "While exhausted from walking all day in the scorching desert heat, Luffy is allowed to drink some water but fills his cheeks to the fullest, prompting Nami to hit him. This leads to an argument between Luffy and Usopp about water conservation in the desert.",
+      "significance": "Demonstrates Luffy's characteristic lack of self-control and the crew's struggle to manage limited resources in the harsh desert environment. Shows the physical toll the Sandora Desert takes on the crew.",
+      "characterIds": ["luffy", "nami", "usopp"],
+      "locationIds": ["sandora-desert"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep097-event-003",
+      "episodeNumber": 97,
+      "timestamp": "07:45",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Ace Discusses Luffy's Charisma with Vivi",
+      "description": "During their night camp in the desert, Vivi talks with Ace about Luffy. Ace tells Vivi that Luffy has always been the same way since childhood, never changing. He reveals that Luffy has always had natural charisma and the ability to befriend people around him.",
+      "significance": "Provides character insight into Luffy from his older brother's perspective. Establishes Luffy's consistent personality traits and his natural ability to attract allies—a theme that runs throughout the entire series. This conversation foreshadows Luffy's growing influence.",
+      "characterIds": ["ace", "vivi", "luffy"],
+      "locationIds": ["sandora-desert"],
+      "quotes": [
+        {
+          "text": "Luffy has always been that way since he was a child, and he has not changed a bit. He always had charisma and befriends people around him.",
+          "speaker": "Portgas D. Ace",
+          "context": "Ace sharing his observations about his younger brother with Vivi during their desert camp"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [91, 94],
+      "payoffInEpisodes": [130, 151, 228],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep097-event-004",
+      "episodeNumber": 97,
+      "timestamp": "10:20",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Luffy Mistakes Poisonous Scorpion for Food",
+      "description": "In the morning, Luffy finds an extremely poisonous scorpion and mistakes it for a shrimp, attempting to eat it. Vivi wakes up and yells at him to leave it alone, warning that a single sting from this scorpion is extremely poisonous and could be fatal.",
+      "significance": "Demonstrates Luffy's reckless nature and constant hunger, while also showcasing the deadly dangers lurking in the Sandora Desert. Vivi's quick intervention saves Luffy from potential death.",
+      "characterIds": ["luffy", "vivi"],
+      "locationIds": ["sandora-desert"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep097-event-005",
+      "episodeNumber": 97,
+      "timestamp": "12:40",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Warusagi Birds Steal the Crew's Supplies",
+      "description": "The crew returns from their morning activities to find that Warusagi birds (thieving desert birds) have stolen their supplies and belongings. Vivi explains that Warusagi are bandit birds that pretend to be dead to trick travelers, then steal their possessions when they let their guard down.",
+      "significance": "Introduces the Warusagi birds as a unique desert hazard. The name is wordplay: 'waru' means 'bad' in Japanese, while 'sagi' can mean both 'heron' and 'swindler.' This demonstrates the many dangers beyond simple heat and thirst in the Sandora Desert.",
+      "characterIds": ["luffy", "vivi", "chopper"],
+      "locationIds": ["sandora-desert"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep097-event-006",
+      "episodeNumber": 97,
+      "timestamp": "14:15",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Luffy Chases the Warusagi Birds",
+      "description": "Ignoring Vivi's warnings, Luffy chases after the Warusagi birds to retrieve the stolen supplies. During the chase, one of the birds falls to the ground, and carnivorous plants suddenly emerge from beneath the sand.",
+      "significance": "Sets up the encounter with the desert's carnivorous plants and leads to Luffy being briefly captured, demonstrating yet another hidden danger in the Sandora Desert.",
+      "characterIds": ["luffy", "vivi"],
+      "locationIds": ["sandora-desert"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep097-event-007",
+      "episodeNumber": 97,
+      "timestamp": "15:30",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "Luffy Escapes Carnivorous Plant",
+      "description": "One of the carnivorous plants catches and swallows Luffy, but he manages to break free using his strength. The plants are shown to hide beneath the sand, waiting to ambush unsuspecting prey.",
+      "significance": "Demonstrates the hidden dangers of the Sandora Desert's ecosystem and showcases Luffy's resilience. Even when caught off-guard, Luffy can fight his way out of danger.",
+      "characterIds": ["luffy"],
+      "locationIds": ["sandora-desert"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep097-event-008",
+      "episodeNumber": 97,
+      "timestamp": "16:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Luffy Saves Matsuge the Camel",
+      "description": "Luffy discovers a camel being attacked by carnivorous plants. The camel calls out for help, and Luffy rescues him from being eaten. This camel will be named Matsuge (meaning 'eyelash' in Japanese) by Nami due to his distinctive lower eyelashes.",
+      "significance": "Introduces Matsuge, who becomes the crew's desert companion and transportation for the remainder of the Arabasta Arc. This is the beginning of Matsuge's role as a recurring character who aids the Straw Hats.",
+      "characterIds": ["luffy", "matsuge"],
+      "locationIds": ["sandora-desert"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [98, 99, 100, 110, 130],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep097-event-009",
+      "episodeNumber": 97,
+      "timestamp": "18:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "First Sandora Lizard Encounter",
+      "description": "After Luffy saves Matsuge, something massive begins moving beneath the sand. Vivi recognizes the danger and warns the crew about giant Sandora Lizards that hide underground waiting for prey. A massive purple lizard emerges from the sand.",
+      "significance": "Introduces one of the Sandora Desert's most formidable predators. The Sandora Lizards are enormous creatures that hunt in the desert, representing a major threat to travelers.",
+      "characterIds": ["luffy", "vivi", "matsuge"],
+      "locationIds": ["sandora-desert"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep097-event-010",
+      "episodeNumber": 97,
+      "timestamp": "19:45",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Ace Defeats Sandora Lizard from Inside",
+      "description": "One of the giant Sandora Lizards appears beside Ace and swallows him whole. However, Ace uses his Mera Mera no Mi (Flame-Flame Fruit) powers to cook the lizard from the inside, defeating it. The crew then feasts on the grilled lizard meat.",
+      "significance": "Demonstrates Ace's Devil Fruit mastery and combat prowess. Shows his quick thinking and ability to turn a dangerous situation into an advantage. The scene also provides comic relief as the crew gains a massive food source.",
+      "characterIds": ["ace", "luffy", "zoro", "sanji"],
+      "locationIds": ["sandora-desert"],
+      "devilFruitIds": ["mera-mera-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [94, 95]
+    },
+    {
+      "id": "ep097-event-011",
+      "episodeNumber": 97,
+      "timestamp": "21:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Nami Names Matsuge and He Shows Perverted Nature",
+      "description": "After the crew eats the Sandora Lizard meat, Nami officially names the camel Matsuge. The camel demonstrates his perverted personality by only allowing Nami and Vivi (the female crew members) to ride on his back, refusing the male crew members.",
+      "significance": "Establishes Matsuge's character quirk that will continue throughout his appearances in the Arabasta Arc. This personality trait becomes a running gag and also provides practical transportation for Vivi and Nami through the desert.",
+      "characterIds": ["matsuge", "nami", "vivi"],
+      "locationIds": ["sandora-desert"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [98, 99, 100],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep097-event-012",
+      "episodeNumber": 97,
+      "timestamp": "22:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Barbarossa and Rasa Appear in Silhouette",
+      "description": "Near the end of the episode, two new characters are shown in silhouette: Barbarossa, the captain of the Barbar Pirates, and Rasa, the navigator of the same crew. They are desert pirates who travel on a sand-sailing ship.",
+      "significance": "Teases the introduction of the Barbar Pirates, who will be formally introduced in the next episode. Sets up the upcoming filler arc involving desert pirates.",
+      "characterIds": ["barbarossa", "rasa"],
+      "locationIds": ["sandora-desert"],
+      "crewIds": ["barbar-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [98, 99],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["matsuge", "barbarossa", "rasa"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": ["barbar-pirates"],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [98, 99, 110],
+    "payoffFrom": [91, 92, 93, 94, 95, 96],
+    "thematicLinks": [110, 122, 126]
+  },
+  "quotes": [
+    {
+      "text": "Luffy has always been that way since he was a child, and he has not changed a bit. He always had charisma and befriends people around him.",
+      "speaker": "Portgas D. Ace",
+      "context": "Discussing Luffy's personality with Vivi during night camp",
+      "timestamp": "07:45"
+    },
+    {
+      "text": "Dance Powder cannot create new rainwater entirely. If the powder causes all rain to fall in one location, it will deprive other locations of rain, causing droughts.",
+      "speaker": "Nefertari Vivi",
+      "context": "Explaining the consequences of Dance Powder to the crew",
+      "timestamp": "03:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Environmental Manipulation and Consequences",
+      "description": "The episode explores how Dance Powder, while seemingly beneficial, has devastating environmental consequences. Crocodile's use of this technology to manipulate Arabasta's climate demonstrates how science and nature can be weaponized for political gain.",
+      "symbolism": "Dance Powder represents humanity's hubris in trying to control nature, with the drought symbolizing the unintended consequences of such interference.",
+      "culturalReferences": ["Cloud seeding and silver iodide use in real-world weather modification"]
+    },
+    {
+      "theme": "Survival and Adaptation",
+      "description": "The Straw Hats must adapt to the harsh desert environment, learning to deal with limited water, extreme heat, and dangerous wildlife. Each challenge tests their resourcefulness and teamwork.",
+      "symbolism": "The Sandora Desert represents a trial by fire for the crew, testing their resolve before the final confrontation in Arabasta.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Brotherhood and Understanding",
+      "description": "Ace's conversation with Vivi about Luffy reveals the deep understanding between brothers and highlights Luffy's consistent character from childhood to present.",
+      "symbolism": "Ace serves as a bridge between Luffy's past and present, showing that his core qualities have remained unchanged despite his growth.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Adventurous", "Comedic", "Educational", "Perilous"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Main protagonist dealing with desert dangers",
+      "development": "Luffy continues to display his characteristic recklessness and hunger, nearly eating a poisonous scorpion and getting swallowed by a plant. However, he also shows his heroic nature by immediately rescuing Matsuge without hesitation.",
+      "keyActions": [
+        "Drinks too much water and argues with Usopp",
+        "Nearly eats a poisonous scorpion",
+        "Chases Warusagi birds despite warnings",
+        "Gets swallowed by carnivorous plant but breaks free",
+        "Rescues Matsuge from carnivorous plants"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "vivi",
+      "role": "Desert guide and exposition provider",
+      "development": "Vivi demonstrates her knowledge of the desert environment and Arabasta's political situation. She serves as the voice of caution and education, explaining Dance Powder and warning about various desert dangers.",
+      "keyActions": [
+        "Explains Dance Powder's effects to the crew",
+        "Has meaningful conversation with Ace about Luffy",
+        "Warns Luffy about poisonous scorpion",
+        "Explains Warusagi birds' thieving behavior",
+        "Identifies Sandora Lizards as dangerous predators"
+      ],
+      "quotes": ["Dance Powder cannot create new rainwater entirely. If the powder causes all rain to fall in one location, it will deprive other locations of rain, causing droughts."]
+    },
+    {
+      "characterId": "ace",
+      "role": "Temporary crew companion and Luffy's older brother",
+      "development": "Ace provides insight into Luffy's character and demonstrates his formidable Devil Fruit powers. His casual defeat of the Sandora Lizard from inside shows his strength and experience.",
+      "keyActions": [
+        "Has heartfelt conversation with Vivi about Luffy",
+        "Gets swallowed by Sandora Lizard",
+        "Uses Mera Mera no Mi to cook the lizard from inside",
+        "Provides food for the crew"
+      ],
+      "quotes": ["Luffy has always been that way since he was a child, and he has not changed a bit. He always had charisma and befriends people around him."]
+    },
+    {
+      "characterId": "matsuge",
+      "role": "New ally and desert transportation",
+      "development": "Matsuge debuts as a camel in distress who becomes the crew's companion. His perverted personality quirk is immediately established when he only allows female crew members to ride him.",
+      "keyActions": [
+        "Calls for help while being attacked by plants",
+        "Gets rescued by Luffy",
+        "Receives name 'Matsuge' from Nami",
+        "Refuses to let male crew members ride him",
+        "Provides transportation for Nami and Vivi"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The episode includes an anachronistic musical reference, featuring Franky's theme music during a sequence with Luffy and Chopper riding Matsuge, despite Franky not being introduced until much later in the series.",
+      "episodeTimestamp": "21:30",
+      "mangaReference": "Chapter 162",
+      "type": "ANIME_ORIGINAL_ADDITION"
+    },
+    {
+      "difference": "The anime expands on the desert survival scenes and adds more detail to the encounters with desert creatures compared to the manga's more condensed presentation.",
+      "episodeTimestamp": "Various",
+      "mangaReference": "Chapter 162, pages 2-14",
+      "type": "EXPANDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode achieved a 14.6% TV rating in Japan, ranking 4th in viewership for that week, demonstrating the strong popularity of the Arabasta Arc.",
+      "category": "VIEWERSHIP",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_97",
+          "title": "Episode 97 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Matsuge's name means 'eyelash' in Japanese (まつげ), referring to his distinctive long lower eyelashes. He is 190 cm tall and was 15 years old at his debut.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Matsuge",
+          "title": "Matsuge - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The Warusagi birds' name is a clever Japanese wordplay: 'waru' (悪) means 'bad' and 'sagi' can mean either 'heron' (鷺) or 'swindler' (詐欺), making them 'bad herons' or 'swindler birds.'",
+      "category": "WORDPLAY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Animal_Species/Arabasta_Saga",
+          "title": "Animal Species/Arabasta Saga - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Dance Powder is based on the real-world practice of cloud seeding, specifically using silver iodide to promote precipitation. The World Government banned Dance Powder worldwide after it caused wars.",
+      "category": "WORLD_BUILDING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Dance_Powder",
+          "title": "Dance Powder - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode covers Chapter 162 of the manga, titled 'Adventure in the Kingdom of Sand,' which was published on November 27, 2000, about 14 months before the anime episode aired.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chapter_162",
+          "title": "Chapter 162 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode was released three different times in English: by 4Kids on March 25, 2006 (as Episode 65), and by Funimation on December 15, 2009, reflecting the different localization approaches.",
+      "category": "LOCALIZATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_97",
+          "title": "Episode 97 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "After the Arabasta Arc, Matsuge receives special royal treatment from King Cobra and is allowed to join the Super Spot-Billed Duck Troops despite being a camel, not a duck.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Matsuge",
+          "title": "Matsuge - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": [],
+  "mangaChapters": [
+    {
+      "chapterNumber": 162,
+      "chapterTitle": "Adventure in the Kingdom of Sand",
+      "coveragePages": "2-14",
+      "publishDate": "2000-11-27"
+    }
+  ]
+}
