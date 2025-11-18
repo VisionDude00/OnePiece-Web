@@ -1,0 +1,608 @@
+{
+  "episodeNumber": 273,
+  "episodeTitle": "Everything Is to Protect My Friends! Second Gear Activated!",
+  "description": "The Straw Hats charge into the Enies Lobby courthouse while their allies hold back enemies. Luffy confronts CP9's Blueno on the rooftop and unveils his new power, Gear Second, overwhelming Blueno with incredible speed and defeating him with a devastating Jet Bazooka.",
+  "airDate": "2006-07-30",
+  "airDateJapan": "2006-07-30",
+  "airDateUS": "2013-07-27",
+  "arcName": "Enies Lobby",
+  "sagaName": "Water 7 Saga",
+  "animationQuality": "ENHANCED",
+  "openingSong": {
+    "title": "Brand New World",
+    "artist": "D-51",
+    "episodeRange": [264, 278]
+  },
+  "endingSong": {
+    "title": "Adventure World",
+    "artist": "Delicatessen",
+    "episodeRange": [264, 278]
+  },
+  "credits": {
+    "animationDirector": "Konosuke Uda",
+    "keyAnimators": ["Naoki Tate", "Kazuya Hisada"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Usopp/Sogeking",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Blueno",
+        "actor": "Seiji Sasaki"
+      },
+      {
+        "character": "Spandam",
+        "actor": "Masaya Onosaka"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Usopp/Sogeking",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Blueno",
+        "actor": "Mark Fickert"
+      },
+      {
+        "character": "Spandam",
+        "actor": "Kent Williams"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep273-event-001",
+      "episodeNumber": 273,
+      "timestamp": "03:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Straw Hats Enter the Courthouse",
+      "description": "The Straw Hat Pirates successfully breach the entrance to the Enies Lobby courthouse. Yokozuna and the Franky Family remain at the doors to defend their backs from pursuing Marines and World Government forces.",
+      "significance": "Marks the beginning of the courthouse invasion phase of the Enies Lobby battle, bringing the crew closer to rescuing Robin.",
+      "characterIds": ["luffy", "zoro", "nami", "sanji", "chopper", "sogeking"],
+      "locationIds": ["enies-lobby-courthouse"],
+      "crewIds": ["straw-hat-pirates", "franky-family"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [272],
+      "payoffInEpisodes": [274, 275],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep273-event-002",
+      "episodeNumber": 273,
+      "timestamp": "04:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Three-Headed Judge Baskerville Confronts the Pirates",
+      "description": "The Three-Headed Judge Baskerville, Chief Justice of Enies Lobby, attempts to stop the Straw Hats by declaring they've entered a place of sacred judgment and starting a trial. The pirates ignore him and continue their advance.",
+      "significance": "Introduces the courthouse's chief justice as an obstacle, demonstrating the Straw Hats' determination to ignore all World Government authority in their mission to save Robin.",
+      "characterIds": ["baskerville", "luffy", "zoro"],
+      "locationIds": ["enies-lobby-courthouse"],
+      "quotes": [
+        {
+          "text": "You have entered a place of sacred judgment!",
+          "speaker": "Baskerville",
+          "context": "Attempting to assert authority over the invading pirates"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep273-event-003",
+      "episodeNumber": 273,
+      "timestamp": "05:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Zoro Uses Enbima Yonezu Oni Giri",
+      "description": "As Marines raise their rifles toward the Straw Hats, Zoro unleashes Enbima Yonezu Oni Giri, a powerful variation of his Oni Giri technique where the swords are twisted during the slash for added force, clearing a path through multiple Marines simultaneously.",
+      "significance": "Demonstrates Zoro's continued growth and mastery of Three Sword Style variations, showing he can dispatch large groups of standard enemies with ease.",
+      "characterIds": ["zoro"],
+      "locationIds": ["enies-lobby-courthouse"],
+      "quotes": [
+        {
+          "text": "Enbima Yonezu Oni Giri!",
+          "speaker": "Zoro",
+          "context": "Unleashing a new technique to clear Marines blocking the path"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [2, 3]
+    },
+    {
+      "id": "ep273-event-004",
+      "episodeNumber": 273,
+      "timestamp": "07:00",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Franky Family Takes on Baskerville",
+      "description": "Just as Zoro prepares to fight the Three-Headed Judge Baskerville, the Franky Family grabs onto the judge's legs and pulls him back, telling the Straw Hats they'll handle him so the crew can continue forward.",
+      "significance": "Shows the alliance and teamwork between the Straw Hats and their allies, with the Franky Family taking responsibility for holding off obstacles.",
+      "characterIds": ["baskerville", "zambai", "zoro"],
+      "locationIds": ["enies-lobby-courthouse"],
+      "crewIds": ["franky-family"],
+      "quotes": [
+        {
+          "text": "We'll handle the judge! You guys keep going!",
+          "speaker": "Zambai",
+          "context": "The Franky Family taking on Baskerville to let the Straw Hats advance"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep273-event-005",
+      "episodeNumber": 273,
+      "timestamp": "08:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Sanji's Chivalrous Rush to Protect Nami",
+      "description": "Sanji rushes ahead urgently, not to reach Robin faster, but because he's worried about Nami fighting alone. His chivalrous nature creates comedic tension as the crew comments on his priorities.",
+      "significance": "Character moment highlighting Sanji's unwavering code of chivalry, even during a critical rescue mission.",
+      "characterIds": ["sanji", "nami"],
+      "locationIds": ["enies-lobby-courthouse"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep273-event-006",
+      "episodeNumber": 273,
+      "timestamp": "10:00",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Luffy vs Blueno Begins on the Courthouse Roof",
+      "description": "Luffy reaches the courthouse roof where he confronts CP9 agent Blueno. The battle begins with both fighters testing each other's abilities, with Blueno using his Rokushiki techniques and Door-Door Fruit powers.",
+      "significance": "Sets up the first major CP9 agent battle, where Luffy will demonstrate his new power and prove he's ready to face the World Government's elite.",
+      "characterIds": ["luffy", "blueno"],
+      "locationIds": ["enies-lobby-courthouse-roof"],
+      "devilFruitIds": ["gomu-gomu-no-mi", "doa-doa-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [271, 272],
+      "payoffInEpisodes": [273],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep273-event-007",
+      "episodeNumber": 273,
+      "timestamp": "12:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Luffy Activates Gear Second in Full Combat",
+      "description": "Luffy activates Gear Second, pumping his blood at an accelerated rate. Steam begins rising from his body as his skin turns shiny and pink. He declares that all of his attacks have now gone up a level, and Blueno won't be able to keep up with him anymore.",
+      "significance": "The full combat debut of Luffy's revolutionary new power-up technique, Gear Second. This marks a massive leap in Luffy's capabilities and is one of the most iconic power reveals in the series.",
+      "characterIds": ["luffy", "blueno"],
+      "locationIds": ["enies-lobby-courthouse-roof"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [
+        {
+          "text": "All of my attacks have gone up a step. You won't be able to keep up with me anymore!",
+          "speaker": "Luffy",
+          "context": "Explaining the effects of Gear Second to Blueno after activation"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [272],
+      "payoffInEpisodes": [274, 278, 284, 288, 309],
+      "callbacksToEpisodes": [227]
+    },
+    {
+      "id": "ep273-event-008",
+      "episodeNumber": 273,
+      "timestamp": "14:00",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Gomu Gomu no Jet Pistol Debut",
+      "description": "Luffy unleashes his first Gear Second attack, Gomu Gomu no Jet Pistol, a massively enhanced version of his standard Pistol attack. The strike is so fast Blueno can barely perceive it, sending him flying into a wall with tremendous force.",
+      "significance": "First demonstration of how Gear Second amplifies Luffy's techniques, establishing the 'Jet' naming convention for enhanced attacks.",
+      "characterIds": ["luffy", "blueno"],
+      "locationIds": ["enies-lobby-courthouse-roof"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [
+        {
+          "text": "Gomu Gomu no... Jet Pistol!",
+          "speaker": "Luffy",
+          "context": "Luffy's first Gear Second attack"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [272],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [1, 2]
+    },
+    {
+      "id": "ep273-event-009",
+      "episodeNumber": 273,
+      "timestamp": "15:15",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Multiple Jet Techniques Showcase",
+      "description": "Luffy demonstrates a rapid succession of new Gear Second techniques: Jet Rifle, Jet Stamp, Jet Spear, and Jet Missile. Each attack showcases the enhanced speed and power that Gear Second provides, with Blueno struggling to defend against the barrage.",
+      "significance": "Displays the versatility of Gear Second by showing how it can enhance all of Luffy's existing attack arsenal, not just one technique.",
+      "characterIds": ["luffy", "blueno"],
+      "locationIds": ["enies-lobby-courthouse-roof"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [272],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep273-event-010",
+      "episodeNumber": 273,
+      "timestamp": "16:45",
+      "eventType": "POWER_REVEAL",
+      "severity": "MINOR",
+      "title": "Blueno Uses Tekkai 'Go'",
+      "description": "In a desperate attempt to defend against Luffy's overwhelming assault, Blueno activates Tekkai 'Go', his strongest defensive variation of the Rokushiki Iron Body technique. His body hardens to an extreme degree to withstand Luffy's attacks.",
+      "significance": "Shows Blueno using his ultimate defense, setting up for Luffy to break through it and prove Gear Second's superiority over CP9's techniques.",
+      "characterIds": ["blueno"],
+      "locationIds": ["enies-lobby-courthouse-roof"],
+      "quotes": [
+        {
+          "text": "Tekkai 'Go'!",
+          "speaker": "Blueno",
+          "context": "Activating his strongest defensive technique against Luffy's barrage"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep273-event-011",
+      "episodeNumber": 273,
+      "timestamp": "18:00",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "CRITICAL",
+      "title": "Gomu Gomu no Jet Bazooka Defeats Blueno",
+      "description": "Luffy finishes the battle with Gomu Gomu no Jet Bazooka, a full-power enhanced version of his signature two-fisted attack. The strike breaks through Blueno's Tekkai 'Go' defense, leaving a massive dent in his chest and sending him sliding back before collapsing unconscious.",
+      "significance": "Decisive victory demonstrating that Luffy's new power can overwhelm even CP9's strongest defensive techniques. Establishes Luffy as ready to face stronger CP9 members.",
+      "characterIds": ["luffy", "blueno"],
+      "locationIds": ["enies-lobby-courthouse-roof"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [
+        {
+          "text": "Gomu Gomu no... Jet Bazooka!",
+          "speaker": "Luffy",
+          "context": "Delivering the finishing blow to Blueno"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [272],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [17]
+    },
+    {
+      "id": "ep273-event-012",
+      "episodeNumber": 273,
+      "timestamp": "19:00",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Blueno Defeated, Luffy's Victory",
+      "description": "Blueno falls unconscious to the ground, completely defeated. Luffy stands exhausted, panting heavily as the strain of using Gear Second takes its toll. He comments to himself that his body still can't quite handle Gear Second perfectly.",
+      "significance": "Marks Luffy's first decisive victory over a CP9 agent and proves the effectiveness of Gear Second, while also foreshadowing that the technique has significant drawbacks.",
+      "characterIds": ["luffy", "blueno"],
+      "locationIds": ["enies-lobby-courthouse-roof"],
+      "quotes": [
+        {
+          "text": "My body still can't quite take Gear Second...",
+          "speaker": "Luffy",
+          "context": "Reflecting on the physical toll of his new technique after defeating Blueno"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [272],
+      "payoffInEpisodes": [274],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep273-event-013",
+      "episodeNumber": 273,
+      "timestamp": "20:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Spandam's Growing Panic",
+      "description": "Spandam receives reports of the Straw Hats' advance through the courthouse and Blueno's defeat. His confidence begins to crack as he realizes the pirates are far more capable than he anticipated, and he starts to panic about his situation.",
+      "significance": "Character development for Spandam showing his cowardice and lack of combat ability, contrasting with the powerful CP9 agents under his command.",
+      "characterIds": ["spandam"],
+      "locationIds": ["enies-lobby-courthouse"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [275, 278],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep273-event-014",
+      "episodeNumber": 273,
+      "timestamp": "21:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Luffy Shouts to Robin",
+      "description": "From the courthouse roof, Luffy yells out Robin's name at the top of his lungs, declaring that he's coming for her. His voice echoes across Enies Lobby, reaching Robin and Spandam, reassuring Robin that her friends haven't abandoned her.",
+      "significance": "Emotional climax of the episode, reinforcing the central theme of protecting nakama (friends/crewmates) and giving Robin hope that she will be rescued.",
+      "characterIds": ["luffy", "robin", "spandam", "franky"],
+      "locationIds": ["enies-lobby-courthouse-roof", "enies-lobby-courthouse"],
+      "quotes": [
+        {
+          "text": "ROBIN!!!",
+          "speaker": "Luffy",
+          "context": "Shouting from the courthouse roof to let Robin know he's coming to save her"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [264, 269],
+      "payoffInEpisodes": [278],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["baskerville"],
+    "locations": ["enies-lobby-courthouse-roof"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["gear-second-combat", "jet-pistol", "jet-rifle", "jet-stamp", "jet-spear", "jet-missile", "jet-bazooka", "enbima-yonezu-oni-giri", "tekkai-go"]
+  },
+  "episodeRelationships": {
+    "setupFor": [274, 275, 278],
+    "payoffFrom": [272, 271, 269],
+    "thematicLinks": [1, 37, 278, 309, 516]
+  },
+  "quotes": [
+    {
+      "text": "All of my attacks have gone up a step. You won't be able to keep up with me anymore!",
+      "speaker": "Luffy",
+      "context": "Explaining Gear Second's effects to Blueno",
+      "timestamp": "12:30"
+    },
+    {
+      "text": "Gomu Gomu no... Jet Pistol!",
+      "speaker": "Luffy",
+      "context": "First Gear Second attack",
+      "timestamp": "14:00"
+    },
+    {
+      "text": "Gomu Gomu no... Jet Bazooka!",
+      "speaker": "Luffy",
+      "context": "Finishing blow against Blueno",
+      "timestamp": "18:00"
+    },
+    {
+      "text": "My body still can't quite take Gear Second...",
+      "speaker": "Luffy",
+      "context": "After defeating Blueno",
+      "timestamp": "19:00"
+    },
+    {
+      "text": "ROBIN!!!",
+      "speaker": "Luffy",
+      "context": "Shouting from the roof to Robin",
+      "timestamp": "21:00"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Protecting Friends/Nakama",
+      "description": "The central theme of the episode is Luffy's unwavering determination to protect his friends at any cost. The episode title itself emphasizes this: 'Everything Is to Protect My Friends!' Luffy's development of Gear Second and his willingness to push his body beyond its limits all stem from his defeat by Admiral Aokiji and his determination to never let his crew be hurt again.",
+      "symbolism": "The steam rising from Luffy's body represents both the literal heat of his accelerated metabolism and the burning passion of his determination to save Robin.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Evolution and Growth",
+      "description": "Gear Second represents Luffy's first major self-developed power-up, showing his growth as a fighter who can adapt and evolve to face stronger opponents. Unlike his Devil Fruit power which he received by accident, Gear Second is a technique born from Luffy's own creativity and understanding of his abilities.",
+      "symbolism": "The transformation from normal Luffy to Gear Second, with the physical changes and steam, symbolizes metamorphosis and evolution.",
+      "culturalReferences": ["The concept echoes shonen transformation sequences while maintaining a more grounded, biological explanation"]
+    },
+    {
+      "theme": "Challenging Authority",
+      "description": "The Straw Hats completely ignore the Three-Headed Judge's attempts to assert World Government authority, showing their willingness to defy any power structure that threatens their friends.",
+      "symbolism": "Breaking into the courthouse, a symbol of law and order, represents the Straw Hats' rejection of unjust authority.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Intense", "Triumphant", "Determined", "Hopeful"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist",
+      "development": "Luffy demonstrates his new power Gear Second in full combat for the first time, showing massive growth since his defeat by Aokiji. He overwhelms a CP9 agent, proving he's ready to face the World Government's elite. However, he also acknowledges the technique's toll on his body, showing self-awareness of his limitations.",
+      "keyActions": [
+        "Activates Gear Second in battle",
+        "Unleashes multiple new Jet techniques",
+        "Defeats Blueno decisively",
+        "Shouts to Robin, reassuring her he's coming to save her"
+      ],
+      "quotes": [
+        "All of my attacks have gone up a step. You won't be able to keep up with me anymore!",
+        "Gomu Gomu no... Jet Bazooka!",
+        "ROBIN!!!"
+      ]
+    },
+    {
+      "characterId": "blueno",
+      "role": "Antagonist",
+      "development": "Blueno serves as the benchmark to demonstrate Gear Second's power. Despite his Rokushiki mastery and Devil Fruit abilities, he's completely outclassed by Luffy's new form, showing the power gap between the Straw Hats and standard CP9 agents.",
+      "keyActions": [
+        "Battles Luffy on the courthouse roof",
+        "Uses Tekkai 'Go' defense",
+        "Is defeated by Jet Bazooka"
+      ],
+      "quotes": ["Tekkai 'Go'!"]
+    },
+    {
+      "characterId": "zoro",
+      "role": "Supporting Fighter",
+      "development": "Zoro demonstrates new techniques and continues to lead the crew's advance through the courthouse, showing his reliability as the first mate.",
+      "keyActions": [
+        "Uses Enbima Yonezu Oni Giri to clear Marines",
+        "Prepares to fight Baskerville before the Franky Family intervenes"
+      ],
+      "quotes": ["Enbima Yonezu Oni Giri!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The fight between Luffy and Blueno is significantly extended in the anime with additional combat sequences and Jet technique demonstrations. The manga version is more concise.",
+      "episodeTimestamp": "10:00-19:00",
+      "mangaReference": "Chapters 387-388",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "The anime adds more scenes of the other Straw Hats and allies fighting through the courthouse, expanding on brief panels in the manga.",
+      "episodeTimestamp": "03:00-09:00",
+      "mangaReference": "Chapter 387",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "The steam effect from Gear Second is more pronounced and detailed in the anime, with enhanced visual effects showing the heat and steam rising from Luffy's body.",
+      "episodeTimestamp": "12:30",
+      "mangaReference": "Chapter 387",
+      "type": "VISUAL_ENHANCEMENT"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode aired on July 30, 2006, exactly one week after the Brand New World opening debuted.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_273",
+          "title": "Episode 273 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Gear Second's debut in full combat received a TV rating of 9.1%, ranking 4th among One Piece episodes in viewership for that period.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_273",
+          "title": "Episode 273 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode has an IMDB rating of 9.3/10, making it one of the highest-rated episodes in the entire series.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://www.imdb.com/title/tt1044628/",
+          "title": "One Piece Episode 273 IMDB",
+          "platform": "IMDB",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Oda revealed that the inspiration for the 'Jet' naming in Gear Second attacks came from a song by Japanese singer Dreams Come True titled 'Jet'.",
+      "category": "BEHIND_THE_SCENES",
+      "sources": [
+        {
+          "url": "https://gamerant.com/one-piece-oda-inspiration-luffy-gear-second-jet/",
+          "title": "One Piece: Oda Reveals Inspiration Behind Luffy's Gear Second Technique",
+          "platform": "GameRant",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The Japanese name 'Enbima Yonezu Oni Giri' contains a pun - it can also mean 'shrimp mayonnaise rice ball' (ebi mayonezu onigiri) in Japanese.",
+      "category": "WORDPLAY",
+      "sources": []
+    },
+    {
+      "fact": "This is the last episode to feature the Adventure World ending theme. After episode 278, One Piece would not have ending themes for 17 years.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Adventure_World",
+          "title": "Adventure World - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Blueno's voice actor Seiji Sasaki also voiced various Power Rangers characters in the Japanese Super Sentai series.",
+      "category": "VOICE_ACTING",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
