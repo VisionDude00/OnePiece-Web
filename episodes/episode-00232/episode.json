@@ -1,0 +1,457 @@
+{
+  "episodeNumber": 232,
+  "episodeTitle": "Galley-La Company! The Magnificent Dock #1",
+  "episodeTitleJapanese": "ガレーラカンパニー！壮観第一ドック",
+  "episodeTitleRomanized": "Garera Kanpanī! Sōkan Ichiban Dokku",
+  "description": "Luffy, Nami, and Usopp tour the impressive Galley-La Company's Dock #1, meeting shipwright Paulie and company president Iceburg. The Franky Family mugs Usopp, and Kaku delivers devastating news about the Going Merry's condition.",
+  "airDate": "2005-05-15",
+  "airDateJapan": "2005-05-15",
+  "airDateUS": "2012-10-13",
+  "arcName": "Water 7",
+  "sagaName": "Water 7 Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Kokoro no Chizu",
+    "artist": "BOYSTYLE",
+    "episodeRange": [207, 263]
+  },
+  "endingSong": {
+    "title": "Eternal Pose",
+    "artist": "ASIA ENGINEER",
+    "episodeRange": [231, 245]
+  },
+  "credits": {
+    "animationDirector": "Kazuya Hisada",
+    "episodeDirector": "Kōnosuke Uda",
+    "screenplay": "Hirohiko Kamisaka",
+    "artDirection": "Miyuki Sato, Kumiko Fukuzawa",
+    "storyboard": "Ken Koyama",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Paulie",
+        "actor": "Takahiro Yoshimizu"
+      },
+      {
+        "character": "Kalifa",
+        "actor": "Naomi Shindō"
+      },
+      {
+        "character": "Iceburg",
+        "actor": "Kōichi Nagano"
+      },
+      {
+        "character": "Kaku",
+        "actor": "Ryōtarō Okiayu"
+      },
+      {
+        "character": "Rob Lucci",
+        "actor": "Tomokazu Seki"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Paulie",
+        "actor": "David Wald"
+      },
+      {
+        "character": "Kalifa",
+        "actor": "Shelley Calene-Black"
+      },
+      {
+        "character": "Kaku",
+        "actor": "Alex Organ"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep232-event-001",
+      "episodeNumber": 232,
+      "timestamp": "03:20",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Tour of Dock #1",
+      "description": "Kalifa guides Luffy, Nami, and Usopp through Galley-La Company's Dock #1, explaining the company's history and Iceburg's founding of the shipbuilding enterprise. The Straw Hats are amazed by the scale and grandeur of the massive shipyard.",
+      "significance": "Introduces the Straw Hats to the world-class shipbuilding facility that will play a central role in the Water 7 arc. Establishes the prestige and capabilities of Galley-La Company.",
+      "characterIds": ["luffy", "nami", "usopp", "kalifa", "iceburg"],
+      "locationIds": ["galley-la-dock-1", "water-7"],
+      "quotes": [
+        {
+          "text": "This is Galley-La Company, the finest shipbuilding company in all of Water 7.",
+          "speaker": "Kalifa",
+          "context": "Kalifa introduces the company to the Straw Hats during the tour"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [229, 230],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep232-event-002",
+      "episodeNumber": 232,
+      "timestamp": "07:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Paulie's Debut",
+      "description": "Paulie makes his first speaking appearance, showcasing his rope techniques as he retrieves stolen money while being chased by debt collectors. He is introduced as one of Dock #1's five foremen, a skilled shipwright specializing in rigging, knots, and masts.",
+      "significance": "Introduces Paulie, a key ally during the Water 7 arc who will help the Straw Hats during the conflict with CP9. Establishes his rope-based fighting style and his chronic debt problems.",
+      "characterIds": ["paulie", "luffy", "nami", "usopp"],
+      "locationIds": ["galley-la-dock-1"],
+      "quotes": [
+        {
+          "text": "Hey! Cover yourself up, woman! That's indecent!",
+          "speaker": "Paulie",
+          "context": "Paulie's prudish reaction to seeing Nami's outfit, establishing his personality trait"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [234, 235, 240, 250],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep232-event-003",
+      "episodeNumber": 232,
+      "timestamp": "09:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Rob Lucci and Hattori Appear",
+      "description": "Rob Lucci, another Dock #1 foreman, brings Paulie back while Hattori, his pet pigeon, appears to scold Paulie for his debts. Lucci presents himself as a ventriloquist who speaks through his pigeon, never talking directly himself.",
+      "significance": "Introduces Rob Lucci in his undercover role as a shipwright. His true identity as a CP9 agent and major antagonist remains hidden, making this introduction crucial for the later betrayal reveal.",
+      "characterIds": ["rob-lucci", "hattori", "paulie", "nami"],
+      "locationIds": ["galley-la-dock-1"],
+      "quotes": [
+        {
+          "text": "Paulie! You need to pay your debts!",
+          "speaker": "Hattori (voiced by Lucci)",
+          "context": "Hattori appears to scold Paulie while Lucci remains silent"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [230],
+      "payoffInEpisodes": [236, 237, 250],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep232-event-004",
+      "episodeNumber": 232,
+      "timestamp": "12:15",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Iceburg's History with Galley-La",
+      "description": "Kalifa explains how Iceburg founded Galley-La Company and became mayor of Water 7, establishing him as both a business leader and political figure in the city. The tour reveals the company's massive scale and importance to Water 7's economy.",
+      "significance": "Provides background on Iceburg's dual role as mayor and company president, which is important for understanding the political dynamics of Water 7 and why CP9 targeted him.",
+      "characterIds": ["iceburg", "kalifa", "luffy", "nami", "usopp"],
+      "locationIds": ["galley-la-dock-1"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [235, 236],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep232-event-005",
+      "episodeNumber": 232,
+      "timestamp": "14:50",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Luffy Asks Iceburg to Join the Crew",
+      "description": "Luffy impulsively asks Iceburg, the mayor of Water 7 and president of Galley-La Company, to join the Straw Hat Pirates as their shipwright. Iceburg politely declines, explaining he has responsibilities to the city and his company.",
+      "significance": "Shows Luffy's straightforward recruitment style and establishes that the Straw Hats are actively searching for a shipwright, which foreshadows Franky eventually joining the crew.",
+      "characterIds": ["luffy", "iceburg", "nami", "usopp"],
+      "locationIds": ["galley-la-dock-1"],
+      "quotes": [
+        {
+          "text": "Join my crew! Be our shipwright!",
+          "speaker": "Luffy",
+          "context": "Luffy's direct request to Iceburg"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [231],
+      "payoffInEpisodes": [322],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep232-event-006",
+      "episodeNumber": 232,
+      "timestamp": "16:20",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Warning About the Franky Family",
+      "description": "Iceburg warns the Straw Hats about the Franky Family, describing them as professional ship dismantlers who also work as bounty hunters. He cautions them that the Franky Family often targets pirates and can be dangerous, particularly their leader Franky.",
+      "significance": "Foreshadows the upcoming conflict with the Franky Family and sets up Franky's character before his actual appearance. Establishes the danger posed by these ship dismantlers to visiting pirates.",
+      "characterIds": ["iceburg", "luffy", "nami", "usopp"],
+      "locationIds": ["galley-la-dock-1"],
+      "quotes": [
+        {
+          "text": "Be careful of the Franky Family. They're ship dismantlers and bounty hunters who cause chaos in Water 7. Don't underestimate Franky himself.",
+          "speaker": "Iceburg",
+          "context": "Iceburg's warning to the Straw Hats about potential dangers"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [230],
+      "payoffInEpisodes": [233, 234, 235],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep232-event-007",
+      "episodeNumber": 232,
+      "timestamp": "18:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Franky Family Mugs Usopp",
+      "description": "While Usopp is distracted watching a cannon being prepared for a galleon, the Franky Family sneaks up from behind and attacks him. They successfully steal the 200 million berries the Straw Hats were carrying to pay for ship repairs, beating Usopp in the process.",
+      "significance": "This theft triggers a major crisis for the crew and sets in motion Usopp's emotional arc during Water 7. The loss of money and Usopp's guilt over being robbed leads directly to the Going Merry conflict and his temporary departure from the crew.",
+      "characterIds": ["usopp", "zambai", "franky-family"],
+      "locationIds": ["galley-la-dock-1"],
+      "crewIds": ["franky-family"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [230],
+      "payoffInEpisodes": [233, 234, 235],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep232-event-008",
+      "episodeNumber": 232,
+      "timestamp": "20:45",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Going Merry is Beyond Repair",
+      "description": "Kaku returns from inspecting the Going Merry and delivers devastating news: the ship's keel is irreparably damaged from accumulated battle scars. Even with Galley-La's expertise, the ship cannot be fixed. Paulie explains that the keel is the ship's lifeline, and replacing it would mean building a new ship entirely.",
+      "significance": "This is the pivotal moment that drives the entire Water 7 arc. The news that Going Merry cannot be repaired leads to Luffy's difficult decision to get a new ship, Usopp's breakdown and departure from the crew, and the emotional farewell to their beloved vessel. This is one of the most important plot points in the series.",
+      "characterIds": ["kaku", "luffy", "nami", "paulie", "iceburg"],
+      "locationIds": ["galley-la-dock-1"],
+      "quotes": [
+        {
+          "text": "Merry's scars from battles are too deep. That ship is beyond repair. It's a miracle you even reached Water 7.",
+          "speaker": "Kaku",
+          "context": "Kaku delivers the devastating diagnosis about the Going Merry"
+        },
+        {
+          "text": "The keel is the lifeline of the ship. Ships are built starting with the keel. Replacing the keel would mean building a new ship.",
+          "speaker": "Paulie",
+          "context": "Paulie explains why the keel damage is irreparable"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [229, 230, 231],
+      "payoffInEpisodes": [233, 234, 235, 236, 237, 238, 246, 312],
+      "callbacksToEpisodes": [50, 61, 129]
+    },
+    {
+      "id": "ep232-event-009",
+      "episodeNumber": 232,
+      "timestamp": "21:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Luffy Offers to Pay Any Price",
+      "description": "After hearing that the Going Merry is beyond repair, Luffy desperately offers to pay Galley-La Company any amount of money to fix their beloved ship, not wanting to accept that they must part with it. However, Kaku reiterates that the damage is too severe and no amount of money can save the ship.",
+      "significance": "Shows Luffy's emotional attachment to the Going Merry and his initial denial of the situation. This desperation and reluctance to let go of the ship makes his eventual decision to get a new ship even more painful and meaningful.",
+      "characterIds": ["luffy", "kaku", "nami"],
+      "locationIds": ["galley-la-dock-1"],
+      "quotes": [
+        {
+          "text": "We'll pay you as much as you want! Just fix the Merry!",
+          "speaker": "Luffy",
+          "context": "Luffy's desperate plea to save the Going Merry"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [235, 236],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["paulie"],
+    "locations": ["galley-la-dock-1"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["rope-action"]
+  },
+  "episodeRelationships": {
+    "setupFor": [233, 234, 235, 236],
+    "payoffFrom": [229, 230, 231],
+    "thematicLinks": [312]
+  },
+  "quotes": [
+    {
+      "text": "Merry's scars from battles are too deep. That ship is beyond repair.",
+      "speaker": "Kaku",
+      "context": "The devastating diagnosis about the Going Merry",
+      "timestamp": "20:45"
+    },
+    {
+      "text": "The keel is the lifeline of the ship. Replacing the keel would mean building a new ship.",
+      "speaker": "Paulie",
+      "context": "Explaining why the Going Merry cannot be saved",
+      "timestamp": "21:00"
+    },
+    {
+      "text": "Be careful of the Franky Family. Don't underestimate Franky himself.",
+      "speaker": "Iceburg",
+      "context": "Warning the Straw Hats about potential danger",
+      "timestamp": "16:20"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Accepting Loss and Moving Forward",
+      "description": "The episode presents the heartbreaking reality that the Going Merry, the Straw Hats' beloved ship and nakama, can no longer continue the journey. This forces the crew to confront the painful truth that sometimes we must let go of what we cherish.",
+      "symbolism": "The irreparable keel damage symbolizes wounds that run too deep to heal, representing the finality of certain losses despite our desires to preserve what we love.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Trust and Deception",
+      "description": "The episode introduces characters who will betray the Straw Hats' trust. Kalifa, Kaku, and Rob Lucci appear helpful and professional, hiding their true identities as CP9 agents with sinister motives.",
+      "symbolism": "The friendly tour of Dock #1 contrasts with the underlying deception, showing how trust can be exploited by those with hidden agendas.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Responsibility and Guilt",
+      "description": "Usopp's failure to protect the crew's money sets up his internal struggle with self-worth and his role in the crew, questioning whether he deserves to be a Straw Hat pirate.",
+      "symbolism": "The stolen money represents Usopp's perceived failure to contribute and protect, intensifying his existing insecurities about his strength and value to the crew.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Bittersweet", "Tense", "Foreboding", "Tragic"],
+  "characterSpotlights": [
+    {
+      "characterId": "usopp",
+      "role": "Victim of the Franky Family attack",
+      "development": "Usopp's distraction while admiring craftsmanship leads to him being mugged, setting up his guilt and eventual conflict with Luffy over the Going Merry. His vulnerability and self-blame are highlighted.",
+      "keyActions": [
+        "Tours Dock #1 with excitement about the craftsmanship",
+        "Gets distracted watching a cannon being prepared",
+        "Is attacked and robbed by the Franky Family"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "paulie",
+      "role": "Newly introduced ally",
+      "development": "Paulie is established as a skilled but debt-ridden shipwright with strong moral convictions about modesty. His rope techniques and ability to catch thieves demonstrate his competence despite his financial troubles.",
+      "keyActions": [
+        "Retrieves stolen money using rope techniques",
+        "Runs from debt collectors",
+        "Explains why the Going Merry's keel damage is irreparable"
+      ],
+      "quotes": ["Hey! Cover yourself up, woman! That's indecent!"]
+    },
+    {
+      "characterId": "kaku",
+      "role": "Ship inspector delivering bad news",
+      "development": "Kaku returns from inspecting the Going Merry and must deliver the heartbreaking news that the ship cannot be saved. His professionalism and expertise are established, making his later betrayal more impactful.",
+      "keyActions": [
+        "Inspects the Going Merry thoroughly",
+        "Returns with detailed assessment of the damage",
+        "Delivers the diagnosis that the ship is beyond repair"
+      ],
+      "quotes": ["Merry's scars from battles are too deep. That ship is beyond repair."]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Captain facing an impossible decision",
+      "development": "Luffy's desperation to save the Going Merry shows his emotional attachment to the ship. His offer to pay any price demonstrates his unwillingness to accept the loss, setting up the difficult decision he'll have to make.",
+      "keyActions": [
+        "Tours Dock #1 with excitement",
+        "Asks Iceburg to join his crew",
+        "Desperately offers to pay any amount to save the Merry"
+      ],
+      "quotes": ["We'll pay you as much as you want! Just fix the Merry!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended the tour of Dock #1 with additional scenes showing the scale and operations of the shipyard.",
+      "episodeTimestamp": "03:20",
+      "mangaReference": "Chapter 327",
+      "type": "EXPANDED_SCENE"
+    },
+    {
+      "difference": "The anime added more detail to Paulie's chase scene with the debt collectors and the retrieval of the stolen money.",
+      "episodeTimestamp": "07:45",
+      "mangaReference": "Chapter 327",
+      "type": "EXPANDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks Paulie's first speaking appearance, though he was briefly seen in Episode 230.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Paulie",
+          "title": "Paulie - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The revelation that the Going Merry is irreparable is one of the most emotionally impactful moments in the entire series, often cited by fans as one of the saddest plot points.",
+      "category": "CULTURAL_IMPACT",
+      "sources": []
+    },
+    {
+      "fact": "Rob Lucci's ventriloquism with Hattori is a clever disguise - as a CP9 agent, he needed to appear to express emotions to blend in, but used the pigeon to do so while maintaining his cold demeanor.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Rob_Lucci",
+          "title": "Rob Lucci - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode aired during Japan's Golden Week period in 2005, a major holiday season.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "The opening theme 'Kokoro no Chizu' (Map of the Heart) was the first One Piece opening to air in widescreen format, beginning with episode 207.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Kokoro_no_Chizu",
+          "title": "Kokoro no Chizu - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

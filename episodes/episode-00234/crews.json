@@ -1,0 +1,150 @@
+[
+  {
+    "name": {
+      "english": "Franky Family",
+      "japanese": "フランキー一家",
+      "romanized": "Furankī Ikka"
+    },
+    "crewType": "DISMANTLER_GANG",
+    "captainId": "franky",
+    "debutEpisode": 233,
+    "debutChapter": 329,
+    "episodeAppearances": [234],
+    "members": [
+      {
+        "characterId": "franky",
+        "role": "Leader",
+        "episodeJoined": 233,
+        "episodeLeft": null,
+        "joinCircumstances": "Founded and leads the Franky Family as a gang of ship dismantlers in Water 7."
+      },
+      {
+        "characterId": "zambai",
+        "role": "Right-hand man",
+        "episodeJoined": 234,
+        "episodeLeft": null,
+        "joinCircumstances": "Serves as Franky's most trusted lieutenant and second-in-command."
+      },
+      {
+        "characterId": "kiwi",
+        "role": "Member",
+        "episodeJoined": 234,
+        "episodeLeft": null,
+        "joinCircumstances": "One half of the Square Sisters, extremely loyal to Franky."
+      },
+      {
+        "characterId": "mozu",
+        "role": "Member",
+        "episodeJoined": 234,
+        "episodeLeft": null,
+        "joinCircumstances": "One half of the Square Sisters, extremely loyal to Franky."
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 234,
+        "eventId": "ep234-event-003",
+        "momentType": "BATTLE_END",
+        "title": "Franky Family Beats Usopp",
+        "description": "Members of the Franky Family brutally beat Usopp after Franky leaves, leaving him unconscious outside their headquarters.",
+        "significance": "Establishes the Franky Family as antagonists willing to use violence and shows their loyalty to Franky's actions.",
+        "timestamp": "07:20"
+      },
+      {
+        "episodeNumber": 234,
+        "eventId": "ep234-event-007",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Franky Family Members Partying",
+        "description": "The crew walks in on Franky Family members celebrating and partying with the stolen money at their headquarters.",
+        "significance": "First proper showcase of the Franky Family's members and their hideout lifestyle.",
+        "timestamp": "14:30"
+      },
+      {
+        "episodeNumber": 234,
+        "eventId": "ep234-event-013",
+        "momentType": "BATTLE_END",
+        "title": "Franky Family Defeated by Straw Hats",
+        "description": "All Franky Family members present at the headquarters are completely overwhelmed and defeated by Luffy, Zoro, Sanji, and Chopper.",
+        "significance": "Demonstrates the power difference between the Franky Family and the Straw Hat Pirates, humbling the gang.",
+        "timestamp": "20:45"
+      }
+    ],
+    "ships": [],
+    "bases": [
+      {
+        "locationId": "franky-house",
+        "locationName": "Franky House",
+        "episodeEstablished": 234,
+        "status": "ACTIVE"
+      }
+    ],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "Unknown or not established in this episode",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "",
+    "relationships": {
+      "allies": [],
+      "enemies": ["straw-hat-pirates"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "luffy",
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [234],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 234,
+        "eventId": "ep234-event-006",
+        "momentType": "BATTLE_START",
+        "title": "Raid on Franky House",
+        "description": "The Straw Hats storm Franky House to avenge Usopp's beating, prioritizing their friend's well-being over recovering the stolen money.",
+        "significance": "Demonstrates the crew's core values of loyalty and protecting their nakama above all material concerns.",
+        "timestamp": "13:15"
+      },
+      {
+        "episodeNumber": 234,
+        "eventId": "ep234-event-013",
+        "momentType": "BATTLE_END",
+        "title": "Complete Victory Over Franky Family",
+        "description": "Luffy, Zoro, Sanji, and Chopper decisively defeat all Franky Family members at their headquarters.",
+        "significance": "Establishes the Straw Hats' combat superiority in Water 7 and shows their growth since entering the Grand Line.",
+        "timestamp": "20:45"
+      },
+      {
+        "episodeNumber": 234,
+        "eventId": "ep234-event-015",
+        "momentType": "MAJOR_DECISION",
+        "title": "Decision to Say Goodbye to Going Merry",
+        "description": "Luffy makes the painful decision that the crew must say goodbye to the Going Merry, their first ship.",
+        "significance": "One of the most emotionally difficult decisions in the crew's history, marking a turning point in the Water 7 arc.",
+        "timestamp": "22:15"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "",
+    "relationships": {
+      "allies": [],
+      "enemies": ["franky-family"],
+      "parentOrganization": null
+    }
+  }
+]

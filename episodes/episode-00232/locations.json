@@ -1,0 +1,109 @@
+[
+  {
+    "name": {
+      "english": "Galley-La Company Dock #1",
+      "japanese": "ガレーラカンパニー第1ドック",
+      "romanized": "Garera Kanpanī Dai-ichi Dokku"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Water 7",
+    "debutEpisode": 232,
+    "debutChapter": 327,
+    "description": "The primary shipbuilding dock of the Galley-La Company in Water 7, Dock #1 is a massive facility where the finest ships in the world are constructed. It features state-of-the-art shipbuilding equipment, dry docks, and workshops staffed by master shipwrights.",
+    "episodeAppearances": [232],
+    "keyEvents": [
+      {
+        "episodeNumber": 232,
+        "eventId": "ep232-event-001",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Tour of Dock #1",
+        "description": "Kalifa guides Luffy, Nami, and Usopp through the impressive facilities of Dock #1, showcasing the scale and capabilities of Galley-La Company's main shipbuilding facility.",
+        "significance": "Introduces the primary location for the early Water 7 arc events and establishes the prestige of Galley-La Company.",
+        "timestamp": "03:20"
+      },
+      {
+        "episodeNumber": 232,
+        "eventId": "ep232-event-002",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Paulie's Debut at Dock #1",
+        "description": "Paulie demonstrates his rope techniques at Dock #1 while being chased by debt collectors, establishing him as one of the skilled foremen working at the facility.",
+        "significance": "Shows the kind of talent employed at Dock #1 and introduces a key ally.",
+        "timestamp": "07:45"
+      },
+      {
+        "episodeNumber": 232,
+        "eventId": "ep232-event-007",
+        "eventType": "BATTLE_START",
+        "title": "Usopp Mugged at Dock #1",
+        "description": "The Franky Family attacks Usopp while he watches craftsmen work at Dock #1, stealing the Straw Hats' money.",
+        "significance": "The location where the critical theft occurs that triggers the Water 7 arc's main conflict.",
+        "timestamp": "18:30"
+      },
+      {
+        "episodeNumber": 232,
+        "eventId": "ep232-event-008",
+        "eventType": "BACKSTORY_REVEAL",
+        "title": "Going Merry's Death Sentence",
+        "description": "At Dock #1, Kaku delivers the devastating diagnosis that the Going Merry is beyond repair, a turning point in the arc.",
+        "significance": "The location where the Straw Hats learn they must say goodbye to their beloved ship.",
+        "timestamp": "20:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 232,
+        "episodeEnd": "present",
+        "reason": "Dock #1 is operational as Galley-La Company's primary shipbuilding facility"
+      }
+    ],
+    "parentLocation": "water-7",
+    "childLocations": [],
+    "relatedCharacters": ["iceburg", "paulie", "kaku", "kalifa", "rob-lucci", "luffy", "nami", "usopp"],
+    "relatedCrews": ["galley-la-company", "straw-hat-pirates", "franky-family"],
+    "relatedArcs": ["Water 7"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Water 7",
+      "japanese": "ウォーターセブン",
+      "romanized": "Wōtā Sebun"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Water 7",
+    "debutEpisode": 229,
+    "debutChapter": 322,
+    "description": "Water 7 is a city built on water, famous worldwide as the premier location for shipbuilding. The city is built on multiple levels connected by waterways, with Galley-La Company as its major economic force. Iceburg serves as both company president and city mayor.",
+    "episodeAppearances": [232],
+    "keyEvents": [
+      {
+        "episodeNumber": 232,
+        "eventId": "ep232-event-001",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Exploring Water 7's Shipyard",
+        "description": "The Straw Hats continue exploring Water 7, specifically visiting the famous Dock #1 of Galley-La Company.",
+        "significance": "Shows more of Water 7's shipbuilding culture and infrastructure.",
+        "timestamp": "03:20"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 229,
+        "episodeEnd": "present",
+        "reason": "Water 7 is a thriving shipbuilding city"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["galley-la-dock-1"],
+    "relatedCharacters": ["iceburg", "paulie", "kaku", "kalifa", "rob-lucci", "franky"],
+    "relatedCrews": ["galley-la-company", "franky-family"],
+    "relatedArcs": ["Water 7"],
+    "images": []
+  }
+]

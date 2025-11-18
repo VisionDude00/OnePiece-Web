@@ -1,0 +1,581 @@
+{
+  "episodeNumber": 233,
+  "episodeTitle": "The Pirate Kidnapping Incident and the Pirate Ship Waits for Death!",
+  "description": "The Straw Hats learn the devastating news that the Going Merry cannot be repaired due to a broken keel. Meanwhile, Usopp is beaten by the Franky Family who steal 200 million berries, leading him to confront them at Franky House.",
+  "airDate": "2005-05-22",
+  "airDateJapan": "2005-05-22",
+  "airDateUS": "2012-10-13",
+  "arcName": "Water 7",
+  "sagaName": "Water 7 Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Kokoro no Chizu",
+    "artist": "BOYSTYLE",
+    "episodeRange": [207, 263]
+  },
+  "endingSong": {
+    "title": "Eternal Pose",
+    "artist": "Asia Engineer",
+    "episodeRange": [231, 245]
+  },
+  "credits": {
+    "animationDirector": "Unknown",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Iceburg",
+        "actor": "Kiyoyuki Yanada"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Iceburg",
+        "actor": "John Gremillion"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep233-event-001",
+      "episodeNumber": 233,
+      "timestamp": "03:45",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MINOR",
+      "title": "Sanji and Chopper Return Without Robin",
+      "description": "Sanji and Chopper return to the Going Merry after failing to find Robin. They discuss whether Robin's disappearance is connected to what Admiral Aokiji told them about her.",
+      "significance": "Continues the mystery of Robin's disappearance and references the encounter with Admiral Aokiji.",
+      "characterIds": ["sanji", "chopper", "robin"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "Do you think Robin not returning has something to do with what Aokiji told us about her?",
+          "speaker": "Chopper",
+          "context": "Discussing Robin's mysterious absence"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [227, 228],
+      "payoffInEpisodes": [269, 272],
+      "callbacksToEpisodes": [227, 228]
+    },
+    {
+      "id": "ep233-event-002",
+      "episodeNumber": 233,
+      "timestamp": "05:20",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Going Merry's Keel is Broken - Cannot Be Repaired",
+      "description": "Iceburg and the Galley-La shipwrights deliver the devastating news that the Going Merry's keel (the ship's backbone) is broken and cannot be repaired. They explain that attempting to fix it would be equivalent to building an entirely new ship.",
+      "significance": "This is a pivotal moment that sets up the major conflict in the Water 7 arc between Luffy and Usopp. The Going Merry has been the crew's ship since the beginning, and learning it cannot be saved is emotionally devastating.",
+      "characterIds": ["iceburg", "kaku", "luffy", "nami", "zoro"],
+      "locationIds": ["galley-la-company"],
+      "devilFruitIds": [],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "The keel is broken. The ship cannot be repaired.",
+          "speaker": "Iceburg",
+          "context": "Delivering the devastating diagnosis of the Going Merry"
+        },
+        {
+          "text": "Trying to fix this would be like building an entirely new ship.",
+          "speaker": "Kaku",
+          "context": "Explaining why the Going Merry cannot be saved"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [230, 231, 232],
+      "payoffInEpisodes": [236, 237, 312],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep233-event-003",
+      "episodeNumber": 233,
+      "timestamp": "07:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Luffy Refuses to Accept the Going Merry's Fate",
+      "description": "Luffy adamantly refuses to believe that the Going Merry cannot be repaired, showing his deep emotional attachment to the ship. He insists there must be a way to fix it.",
+      "significance": "Demonstrates Luffy's emotional side and his attachment to the Going Merry. This denial sets up his eventual difficult decision to say goodbye to the ship.",
+      "characterIds": ["luffy"],
+      "locationIds": ["galley-la-company"],
+      "quotes": [
+        {
+          "text": "There has to be a way to fix it! We can't just give up on the Merry!",
+          "speaker": "Luffy",
+          "context": "Refusing to accept the news about the Going Merry"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [236, 237],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep233-event-004",
+      "episodeNumber": 233,
+      "timestamp": "09:40",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "The Crew Discovers 200 Million Berries Have Been Stolen",
+      "description": "The Straw Hat Pirates discover that the two briefcases containing 200 million berries (the money they recovered) are now empty. The money has been stolen while they were dealing with the Going Merry situation.",
+      "significance": "This theft triggers a chain of events that will lead to Usopp's confrontation with the Franky Family and eventually his conflict with Luffy.",
+      "characterIds": ["luffy", "nami", "zoro", "sanji", "chopper"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "The money... it's all gone!",
+          "speaker": "Nami",
+          "context": "Discovering the briefcases are empty"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [231, 232],
+      "payoffInEpisodes": [234, 235, 236],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep233-event-005",
+      "episodeNumber": 233,
+      "timestamp": "11:25",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Usopp is Missing - Left to Guard the Ship",
+      "description": "The crew realizes that Usopp is missing. He had stayed behind to guard the Going Merry and the money while the others went to Galley-La Company.",
+      "significance": "Sets up the revelation that Usopp was attacked and the money was stolen on his watch, which will deeply affect his sense of responsibility and worth to the crew.",
+      "characterIds": ["usopp", "luffy", "nami"],
+      "locationIds": ["going-merry"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [234, 236],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep233-event-006",
+      "episodeNumber": 233,
+      "timestamp": "13:50",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "First Appearance of Franky",
+      "description": "Franky makes his first appearance in the series, shown at the Franky House headquarters with his family celebrating their theft of the Straw Hats' money.",
+      "significance": "Introduction of Franky, who will eventually become the eighth member of the Straw Hat Pirates and the crew's shipwright. At this point, he appears as an antagonist.",
+      "characterIds": ["franky"],
+      "locationIds": ["franky-house"],
+      "crewIds": ["franky-family"],
+      "quotes": [
+        {
+          "text": "SUPER!",
+          "speaker": "Franky",
+          "context": "Franky's iconic catchphrase during his introduction"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [322, 329],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep233-event-007",
+      "episodeNumber": 233,
+      "timestamp": "14:35",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Introduction of Franky House",
+      "description": "The Franky House, headquarters of the Franky Family, is shown for the first time. It's a large building where the Franky Family dismantles ships and celebrates.",
+      "significance": "Establishes the base of operations for the Franky Family, which becomes an important location in the Water 7 arc.",
+      "characterIds": ["franky"],
+      "locationIds": ["franky-house"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [234, 235],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep233-event-008",
+      "episodeNumber": 233,
+      "timestamp": "15:20",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Franky Family Celebrates with the Stolen Money",
+      "description": "The Franky Family, including Zambai, Kiwi, and Mozu (the Square Sisters), celebrate having stolen 200 million berries from the Straw Hats. They show their nature of quickly spending money on parties and celebrations.",
+      "significance": "Establishes the Franky Family's carefree, party-loving nature and sets them up as antagonists who stole from the crew.",
+      "characterIds": ["franky", "zambai", "kiwi", "mozu"],
+      "locationIds": ["franky-house"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [234],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep233-event-009",
+      "episodeNumber": 233,
+      "timestamp": "17:45",
+      "eventType": "BATTLE_END",
+      "severity": "CRITICAL",
+      "title": "Usopp Found Beaten on the Street",
+      "description": "Nami finds Usopp lying beaten and injured on a Water 7 street. He has been severely attacked by the Franky Family, suffering black eyes, a bent nose, and a missing tooth. He is in a pitiful state and crying about being responsible for losing the money.",
+      "significance": "This brutal beating is a turning point for Usopp's character. His failure to protect the money and his severe injuries trigger his feelings of inadequacy and worthlessness to the crew, which later escalates into his confrontation with Luffy.",
+      "characterIds": ["usopp", "nami"],
+      "locationIds": ["water-7-streets"],
+      "quotes": [
+        {
+          "text": "I'm sorry... I couldn't protect the money... It's all my fault...",
+          "speaker": "Usopp",
+          "context": "Usopp crying and apologizing after being beaten"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [234, 235, 236],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep233-event-010",
+      "episodeNumber": 233,
+      "timestamp": "19:10",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Nami Learns About the Franky Family",
+      "description": "Nami questions people on the street and learns that the Franky Family, a gang of ship dismantlers led by Franky, were the ones who attacked Usopp and stole the money. She heads back to inform the crew.",
+      "significance": "Provides the crew with the information they need to know who their enemies are and where to find them.",
+      "characterIds": ["nami"],
+      "locationIds": ["water-7-streets"],
+      "crewIds": ["franky-family"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [234],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep233-event-011",
+      "episodeNumber": 233,
+      "timestamp": "20:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Usopp Decides to Confront the Franky Family Alone",
+      "description": "Despite his severe injuries and Nami heading back to get help, Usopp makes the decision to go to the Franky House by himself to retrieve the stolen money. His sense of responsibility and guilt drives him to attempt this dangerous mission alone.",
+      "significance": "Shows Usopp's determination and sense of responsibility, even though he's outmatched. This decision demonstrates both his courage and his tendency to act rashly when feeling guilty or inadequate.",
+      "characterIds": ["usopp"],
+      "locationIds": ["water-7-streets"],
+      "quotes": [
+        {
+          "text": "I have to get that money back... It was my responsibility...",
+          "speaker": "Usopp",
+          "context": "Deciding to confront the Franky Family alone despite his injuries"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [234],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep233-event-012",
+      "episodeNumber": 233,
+      "timestamp": "21:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Zoro Explains the Reality of Being Pirates",
+      "description": "Zoro philosophically explains to Sanji and Chopper that as pirates, they cannot rely on authorities or the law to help them. Since they declared themselves pirates, they must solve their own problems and cannot expect help from officials.",
+      "significance": "Provides a thematic moment about the reality and consequences of being a pirate in the One Piece world. It's a more serious, philosophical side of Zoro.",
+      "characterIds": ["zoro", "sanji", "chopper"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "We're pirates. We can't go running to the authorities for help. The moment we raised our flag, we accepted that we're on our own.",
+          "speaker": "Zoro",
+          "context": "Explaining the reality of their pirate status"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep233-event-013",
+      "episodeNumber": 233,
+      "timestamp": "22:50",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Usopp Arrives at Franky House and Destroys the Door",
+      "description": "Usopp arrives at the Franky House and uses his slingshot to destroy the front door with an explosive attack, announcing his presence to the Franky Family. Despite being injured, he confronts them to get the money back.",
+      "significance": "Marks the beginning of Usopp's confrontation with the Franky Family. His brave entrance shows his determination, even though he is outmatched and injured. This sets up the continuation of the fight in the next episode.",
+      "characterIds": ["usopp", "franky"],
+      "locationIds": ["franky-house"],
+      "crewIds": ["franky-family"],
+      "quotes": [
+        {
+          "text": "Give back our money!",
+          "speaker": "Usopp",
+          "context": "Confronting the Franky Family after destroying their door"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [234],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["franky", "zambai", "kiwi", "mozu"],
+    "locations": ["franky-house"],
+    "devilFruits": [],
+    "crews": ["franky-family"],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [234, 235, 236, 237],
+    "payoffFrom": [227, 228, 230, 231, 232],
+    "thematicLinks": [312, 322]
+  },
+  "quotes": [
+    {
+      "text": "The keel is broken. The ship cannot be repaired.",
+      "speaker": "Iceburg",
+      "context": "Delivering the diagnosis of the Going Merry",
+      "timestamp": "05:20"
+    },
+    {
+      "text": "There has to be a way to fix it! We can't just give up on the Merry!",
+      "speaker": "Luffy",
+      "context": "Refusing to accept the Going Merry's fate",
+      "timestamp": "07:15"
+    },
+    {
+      "text": "I'm sorry... I couldn't protect the money... It's all my fault...",
+      "speaker": "Usopp",
+      "context": "After being beaten by the Franky Family",
+      "timestamp": "17:45"
+    },
+    {
+      "text": "We're pirates. We can't go running to the authorities for help. The moment we raised our flag, we accepted that we're on our own.",
+      "speaker": "Zoro",
+      "context": "Explaining the reality of being pirates",
+      "timestamp": "21:30"
+    },
+    {
+      "text": "SUPER!",
+      "speaker": "Franky",
+      "context": "Franky's iconic catchphrase during his first appearance",
+      "timestamp": "13:50"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Loss and Letting Go",
+      "description": "The episode deals with the painful reality of having to let go of something precious (the Going Merry) even when it's emotionally devastating. The ship has been with the crew since the beginning, and accepting its loss is heart-wrenching.",
+      "symbolism": "The broken keel represents irreparable damage and the inevitability of loss, no matter how much we wish otherwise.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Responsibility and Guilt",
+      "description": "Usopp's overwhelming sense of responsibility for losing the money and his guilt over failing to protect it drive him to take dangerous actions alone. This theme explores how feelings of inadequacy can lead to reckless decisions.",
+      "symbolism": "Usopp's beaten state symbolizes both physical and emotional vulnerability.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Cost of Freedom",
+      "description": "Zoro's explanation about being pirates highlights that freedom comes with a cost - they cannot rely on society's protections and must face consequences on their own.",
+      "symbolism": "The pirate flag represents both freedom and isolation from societal support systems.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Pride and Determination",
+      "description": "Despite being severely beaten and outmatched, Usopp's pride and determination push him to confront the Franky Family alone, showing both courage and stubbornness.",
+      "symbolism": "Usopp destroying the Franky House door represents his refusal to back down despite overwhelming odds.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Somber", "Tense", "Emotional", "Serious"],
+  "characterSpotlights": [
+    {
+      "characterId": "usopp",
+      "role": "Tragic protagonist of this episode",
+      "development": "Usopp experiences one of his lowest moments, being beaten and failing to protect the money. His sense of responsibility and guilt drive him to make increasingly desperate decisions. This episode sets up his emotional breakdown and conflict with Luffy.",
+      "keyActions": [
+        "Gets beaten by the Franky Family and loses the 200 million berries",
+        "Found crying on the street by Nami",
+        "Decides to confront the Franky Family alone despite his injuries",
+        "Arrives at Franky House and destroys the door"
+      ],
+      "quotes": [
+        "I'm sorry... I couldn't protect the money... It's all my fault..."
+      ]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Captain facing difficult truths",
+      "development": "Luffy struggles with accepting the reality that the Going Merry cannot be saved. His emotional attachment to the ship conflicts with the logical assessment from the shipwrights. This denial sets up his difficult decision ahead.",
+      "keyActions": [
+        "Learns the Going Merry's keel is broken",
+        "Refuses to accept that the ship cannot be repaired",
+        "Discovers the money has been stolen"
+      ],
+      "quotes": [
+        "There has to be a way to fix it! We can't just give up on the Merry!"
+      ]
+    },
+    {
+      "characterId": "franky",
+      "role": "Antagonist introduction",
+      "development": "Franky is introduced as an apparent villain - the leader of the gang that attacked Usopp and stole the Straw Hats' money. He's shown as eccentric and flamboyant with his signature 'SUPER!' catchphrase.",
+      "keyActions": [
+        "First appearance at Franky House",
+        "Celebrates with his family after stealing the money"
+      ],
+      "quotes": [
+        "SUPER!"
+      ]
+    },
+    {
+      "characterId": "zoro",
+      "role": "Voice of harsh wisdom",
+      "development": "Zoro takes on a philosophical role, explaining the harsh realities of being pirates to Sanji and Chopper. He shows maturity and understanding of their situation.",
+      "keyActions": [
+        "Explains that as pirates, they cannot rely on authorities",
+        "Provides philosophical perspective on their situation"
+      ],
+      "quotes": [
+        "We're pirates. We can't go running to the authorities for help. The moment we raised our flag, we accepted that we're on our own."
+      ]
+    },
+    {
+      "characterId": "iceburg",
+      "role": "Bearer of bad news",
+      "development": "Iceburg must deliver the devastating news that the Going Merry cannot be saved. Despite his professionalism, he shows sympathy for the ship and the crew's situation.",
+      "keyActions": [
+        "Examines the Going Merry",
+        "Delivers the diagnosis that the keel is broken and the ship cannot be repaired"
+      ],
+      "quotes": [
+        "The keel is broken. The ship cannot be repaired."
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends some of the emotional reactions and adds more scenes of the crew discussing the situation, while the manga moves through events more quickly.",
+      "episodeTimestamp": "Various",
+      "mangaReference": "Chapters 328-329",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks Franky's first appearance in the anime. He would later become the eighth member of the Straw Hat Pirates and their shipwright.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_233",
+          "title": "Episode 233 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-01-18"
+        }
+      ]
+    },
+    {
+      "fact": "The revelation about the Going Merry's broken keel is one of the most emotionally impactful moments in the Water 7 arc, setting up the conflict between Luffy and Usopp that many fans consider one of the saddest moments in One Piece.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Water_7_Arc",
+          "title": "Water 7 Arc - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-01-18"
+        }
+      ]
+    },
+    {
+      "fact": "Franky's Japanese voice actor is Kazuki Yao, who voiced the character from his debut until December 2024 when he retired from the role. He was replaced by Subaru Kimura.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://www.crunchyroll.com/news/latest/2024/12/8/one-piece-anime-franky-voice-actor-kazuki-yao-retires-role",
+          "title": "One Piece Franky Voice Actor Kazuki Yao to Retire from Role",
+          "platform": "Crunchyroll",
+          "accessedAt": "2025-01-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode adapts material from manga chapters 328 (pages 2-19) and 329 (pages 2-11).",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_233",
+          "title": "Episode 233 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-01-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode title in Japanese is 'Kaizoku Yuukai Jiken to Shi o Matsu Dake no Kaizokusen' which translates to 'The Pirate Kidnapping Incident and the Pirate Ship Waits for Death!'",
+      "category": "PRODUCTION",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
