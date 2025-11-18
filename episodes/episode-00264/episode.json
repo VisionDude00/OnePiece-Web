@@ -1,0 +1,561 @@
+{
+  "episodeNumber": 264,
+  "episodeTitle": "Landing Operations Start! Charge in, Straw Hats!",
+  "japaneseName": "上陸作戦始動！麦わら一味突入せよ！",
+  "romanizedName": "Jōriku sakusen shidō! Mugiwara ichimi totsunyū se yo!",
+  "description": "The Straw Hat Pirates and their allies arrive at Enies Lobby aboard the Rocketman. Paulie explains their infiltration plan while three new CP9 members - Kumadori, Jabra, and Fukurou - make their debut. Despite the carefully laid plans, Luffy impulsively launches himself into the Judicial Island, forcing the operation to begin immediately.",
+  "airDate": "2006-05-21",
+  "airDateJapan": "2006-05-21",
+  "airDateUS": "2013-07-26",
+  "arcName": "Enies Lobby",
+  "sagaName": "Water 7 Saga",
+  "mangaChapters": [375, 376],
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Brand New World",
+    "artist": "D-51",
+    "episodeRange": [264, 278]
+  },
+  "endingSong": {
+    "title": "Adventure World",
+    "artist": "Delicatessen",
+    "episodeRange": [264, 278]
+  },
+  "credits": {
+    "animationDirector": "Takeo Ide",
+    "episodeDirector": "Munehisa Sakai",
+    "screenplay": "Hirohiko Kamisaka",
+    "artDirector": ["Miyuki Sato", "Michiyo Kawasaki"],
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp/Sogeking",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Paulie",
+        "actor": "Takahiro Yoshimizu"
+      },
+      {
+        "character": "Zambai",
+        "actor": "Kenta Miyake"
+      },
+      {
+        "character": "Spandam",
+        "actor": "Masaya Onosaka"
+      },
+      {
+        "character": "Kumadori",
+        "actor": "Hiroaki Yoshida"
+      },
+      {
+        "character": "Jabra",
+        "actor": "Masaya Takatsuka"
+      },
+      {
+        "character": "Fukurou",
+        "actor": "Kumiko Watanabe"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp/Sogeking",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Paulie",
+        "actor": "David Wald"
+      },
+      {
+        "character": "Zambai",
+        "actor": "Doug Goodrich"
+      },
+      {
+        "character": "Spandam",
+        "actor": "Christopher Corey Smith"
+      },
+      {
+        "character": "Kumadori",
+        "actor": "Andrew Love"
+      },
+      {
+        "character": "Jabra",
+        "actor": "Phil Parsons"
+      },
+      {
+        "character": "Fukurou",
+        "actor": "Alexis Tipton"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep264-event-001",
+      "episodeNumber": 264,
+      "timestamp": "02:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "First View of Enies Lobby",
+      "description": "The Rocketman approaches Enies Lobby, and the Straw Hat Pirates get their first glimpse of the Judicial Island. The island is bathed in perpetual daylight, with massive gates visible in the distance.",
+      "significance": "Marks the beginning of the Enies Lobby Arc, one of the most iconic arcs in One Piece. The visual reveal of this World Government stronghold sets the stage for the rescue mission.",
+      "characterIds": ["luffy", "zoro", "nami", "sanji", "chopper", "usopp"],
+      "locationIds": ["enies-lobby", "rocketman"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [260, 261, 262, 263],
+      "payoffInEpisodes": [265, 266, 267],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep264-event-002",
+      "episodeNumber": 264,
+      "timestamp": "05:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Sogeking Entertains Luffy and Chopper",
+      "description": "Sogeking (Usopp in disguise) performs and shows off to Luffy and Chopper, who remain completely oblivious to his true identity. They are impressed by Sogeking's heroic persona.",
+      "significance": "Provides comic relief before the serious battle ahead, while highlighting the ongoing Sogeking disguise subplot that began in Water 7.",
+      "characterIds": ["usopp", "luffy", "chopper"],
+      "locationIds": ["rocketman"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [257, 258],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [257]
+    },
+    {
+      "id": "ep264-event-003",
+      "episodeNumber": 264,
+      "timestamp": "08:45",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Paulie Explains Enies Lobby's Layout",
+      "description": "Paulie, who previously did maintenance work at Enies Lobby, presents a rough sketch and explains the island's layout. He details that the Gates of Justice are located at the far back of the island and can only be reached by going through the Tower of Law.",
+      "significance": "Provides crucial exposition about the structure of Enies Lobby and establishes the strategic challenge the crew faces. This information sets up the geography for the entire arc.",
+      "characterIds": ["paulie", "luffy", "zoro", "nami", "sanji"],
+      "locationIds": ["enies-lobby", "rocketman"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [265, 266, 267, 268],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep264-event-004",
+      "episodeNumber": 264,
+      "timestamp": "10:20",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "The Gates of Justice Explained",
+      "description": "Paulie and Nami explain that the Gates of Justice connect three World Government strongholds: Enies Lobby, Marine Headquarters, and Impel Down. If Robin and Franky pass through the gates, they will be lost forever to either Marine Headquarters or the underwater prison.",
+      "significance": "Establishes the urgency of the rescue mission and introduces the concept of the Gates of Justice, a crucial element of the World Government's power structure. This creates a ticking clock for the rescue.",
+      "characterIds": ["paulie", "nami"],
+      "locationIds": ["enies-lobby"],
+      "organizationIds": ["world-government"],
+      "quotes": [
+        {
+          "text": "If they pass through the Gates of Justice, then it's all over. The only two places to go are Marine Headquarters or Impel Down.",
+          "speaker": "Nami",
+          "context": "Explaining the stakes of the rescue mission"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [309, 310, 311],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep264-event-005",
+      "episodeNumber": 264,
+      "timestamp": "11:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "The Infiltration Plan",
+      "description": "Paulie outlines the plan: The Franky Family and Galley-La Company will break through the main gate first, allowing the Rocketman to enter. The Straw Hat Pirates are designated as the primary force to fight CP9, as they are the only ones strong enough to face them.",
+      "significance": "Establishes the battle strategy and acknowledges the Straw Hat Pirates' superior strength. This division of labor sets up the alliance dynamics for the assault on Enies Lobby.",
+      "characterIds": ["paulie", "zambai", "luffy"],
+      "locationIds": ["rocketman"],
+      "organizationIds": ["franky-family", "galley-la"],
+      "quotes": [
+        {
+          "text": "The Straw Hat Pirates are the only ones strong enough to go against CP9.",
+          "speaker": "Paulie",
+          "context": "Explaining why the Straw Hats must be the ones to fight CP9"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [265, 266],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep264-event-006",
+      "episodeNumber": 264,
+      "timestamp": "13:00",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Enies Lobby's 2,000 Marine Garrison",
+      "description": "Zambai mentions that Enies Lobby is defended by over 2,000 Marines, emphasizing the scale of the stronghold they are about to assault.",
+      "significance": "Establishes the overwhelming odds the rescue party faces, highlighting the courage and determination required for this mission.",
+      "characterIds": ["zambai"],
+      "locationIds": ["enies-lobby"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [265, 266],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep264-event-007",
+      "episodeNumber": 264,
+      "timestamp": "14:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Kumadori, Jabra, and Fukurou Debut",
+      "description": "At Enies Lobby, three previously unseen CP9 members make their first appearance: Kumadori with his kabuki-style theatrics, Jabra with his wolf-like features, and Fukurou with his distinctive zipper mouth. They gather with Spandam as CP9 reunites.",
+      "significance": "Introduces three of the main antagonists for the Enies Lobby Arc. These CP9 members will become major opponents for the Straw Hat Pirates in upcoming battles.",
+      "characterIds": ["kumadori", "jabra", "fukurou", "spandam"],
+      "locationIds": ["enies-lobby"],
+      "organizationIds": ["cp9"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [272, 273, 274, 277, 278, 285],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep264-event-008",
+      "episodeNumber": 264,
+      "timestamp": "16:15",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "CP9 Five-Year Reunion",
+      "description": "Spandam reveals that this is the first time in five years that all eight members of CP9 have been reunited together at Enies Lobby.",
+      "significance": "Establishes the timeline of CP9's activities and hints at their previous missions. This reveals that CP9 members are often deployed separately on long-term undercover assignments.",
+      "characterIds": ["spandam", "kumadori", "jabra", "fukurou"],
+      "locationIds": ["enies-lobby"],
+      "organizationIds": ["cp9"],
+      "quotes": [
+        {
+          "text": "It's been five years for all eight members of CP9 to be reunited.",
+          "speaker": "Spandam",
+          "context": "Commenting on the full CP9 assembly"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [239, 240, 241],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep264-event-009",
+      "episodeNumber": 264,
+      "timestamp": "17:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Spandam's Frustration About Extra Assassinations",
+      "description": "Spandam angrily confronts CP9 about why they assassinated twenty Revolutionary Army members instead of just the three targets he specified. Kumadori apologizes, Jabra explains the enemy discovered their plan, and Fukurou admits he might have talked about it all over town.",
+      "significance": "Provides character insight into CP9's methods and personalities. Fukurou's inability to keep secrets despite being a spy is a comedic character trait that will be referenced throughout the arc.",
+      "characterIds": ["spandam", "kumadori", "jabra", "fukurou"],
+      "locationIds": ["enies-lobby"],
+      "organizationIds": ["cp9", "revolutionary-army"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep264-event-010",
+      "episodeNumber": 264,
+      "timestamp": "19:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Luffy Abandons the Plan",
+      "description": "Before the Rocketman even stops, Luffy goes missing. It's revealed that he has already launched himself into Enies Lobby using his Gomu Gomu powers, completely ignoring the carefully laid infiltration plan. Zoro comments that he should have expected Luffy would do this.",
+      "significance": "Demonstrates Luffy's impulsive nature and forces the entire operation to begin prematurely. This moment is quintessentially Luffy - choosing action over strategy. It sets the tone for how the Enies Lobby assault will unfold.",
+      "characterIds": ["luffy", "zoro", "nami", "paulie"],
+      "locationIds": ["enies-lobby", "rocketman"],
+      "quotes": [
+        {
+          "text": "I should've known Luffy would do that.",
+          "speaker": "Zoro",
+          "context": "Reacting to Luffy's impulsive launch into Enies Lobby"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [265],
+      "callbacksToEpisodes": [1, 45, 130]
+    },
+    {
+      "id": "ep264-event-011",
+      "episodeNumber": 264,
+      "timestamp": "00:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Brand New World Opening Debuts",
+      "description": "The episode debuts a new opening theme, 'Brand New World' by D-51, which will serve as the opening for the beginning of the Enies Lobby Arc.",
+      "significance": "Marks a tonal shift in the series as the crew enters one of the most intense and action-packed arcs. The energetic opening reflects the determination and unity of the Straw Hat Pirates.",
+      "characterIds": [],
+      "locationIds": [],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep264-event-012",
+      "episodeNumber": 264,
+      "timestamp": "21:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Adventure World Ending Debuts",
+      "description": "The episode debuts a new ending theme, 'Adventure World' by Delicatessen, featuring chibi versions of the Straw Hats viewing fan art.",
+      "significance": "This would be the last ending theme for One Piece for 17 years, as the series would subsequently use extended openings to maximize episode runtime.",
+      "characterIds": [],
+      "locationIds": [],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["kumadori", "jabra", "fukurou"],
+    "locations": ["enies-lobby"],
+    "devilFruits": [],
+    "crews": [],
+    "organizations": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [265, 266, 267, 268, 269, 270],
+    "payoffFrom": [260, 261, 262, 263],
+    "thematicLinks": [278, 309, 312]
+  },
+  "quotes": [
+    {
+      "text": "If they pass through the Gates of Justice, then it's all over. The only two places to go are Marine Headquarters or Impel Down.",
+      "speaker": "Nami",
+      "context": "Explaining the urgency of rescuing Robin and Franky",
+      "timestamp": "10:20"
+    },
+    {
+      "text": "The Straw Hat Pirates are the only ones strong enough to go against CP9.",
+      "speaker": "Paulie",
+      "context": "Outlining the battle plan",
+      "timestamp": "11:45"
+    },
+    {
+      "text": "It's been five years for all eight members of CP9 to be reunited.",
+      "speaker": "Spandam",
+      "context": "Observing the full CP9 assembly at Enies Lobby",
+      "timestamp": "16:15"
+    },
+    {
+      "text": "I should've known Luffy would do that.",
+      "speaker": "Zoro",
+      "context": "Reacting to Luffy's predictably impulsive behavior",
+      "timestamp": "19:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Determination and Resolve",
+      "description": "The episode showcases the unwavering determination of the Straw Hat Pirates and their allies to rescue Robin and Franky, even when facing a World Government stronghold with overwhelming military force.",
+      "symbolism": "The perpetual daylight of Enies Lobby represents the World Government's constant vigilance, while the crew's willingness to charge in represents their refusal to be intimidated.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Unity and Alliance",
+      "description": "Former rivals and new allies unite for a common cause. The Galley-La Company and Franky Family join forces with the Straw Hats despite their previous conflicts.",
+      "symbolism": "The Rocketman carrying multiple factions represents the power of unity in the face of tyranny.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Strategy vs. Instinct",
+      "description": "The episode contrasts careful planning (Paulie's strategic approach) with impulsive action (Luffy's immediate launch into Enies Lobby), ultimately showing that both have their place.",
+      "symbolism": "Luffy's rubber-sling launch represents his direct, uncomplicated approach to problems - he doesn't overthink, he acts.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Determined", "Tense", "Anticipatory", "Humorous"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Impulsive protagonist",
+      "development": "Luffy demonstrates his characteristic inability to follow complex plans, choosing instead to charge directly toward his goal. His actions force everyone else to adapt, showing his role as the catalyst for action.",
+      "keyActions": [
+        "Observes Enies Lobby for the first time",
+        "Listens to (but ignores) the infiltration plan",
+        "Launches himself into Enies Lobby ahead of schedule"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "paulie",
+      "role": "Strategic planner",
+      "development": "Paulie steps into a leadership role, using his knowledge of Enies Lobby to create a strategic plan for the assault. He recognizes the Straw Hats' strength and positions them appropriately.",
+      "keyActions": [
+        "Presents a map and layout of Enies Lobby",
+        "Explains the strategic importance of the Gates of Justice",
+        "Outlines the infiltration plan",
+        "Designates roles for each faction"
+      ],
+      "quotes": [
+        "The Straw Hat Pirates are the only ones strong enough to go against CP9."
+      ]
+    },
+    {
+      "characterId": "kumadori",
+      "role": "CP9 member debut",
+      "development": "Makes his first appearance as one of CP9's elite agents. His kabuki-style mannerisms and theatrical nature are immediately apparent.",
+      "keyActions": [
+        "Appears at Enies Lobby for CP9 reunion",
+        "Apologizes to Spandam for exceeding assassination orders"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "jabra",
+      "role": "CP9 member debut",
+      "development": "Debuts as a CP9 member, showing his tactical thinking when explaining why they had to eliminate extra Revolutionary Army members.",
+      "keyActions": [
+        "Appears at Enies Lobby for CP9 reunion",
+        "Explains the complications in their previous mission"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "fukurou",
+      "role": "CP9 member debut",
+      "development": "Introduced with his distinctive zipper-mouth appearance and reveals his character flaw: despite being a spy, he can't keep secrets.",
+      "keyActions": [
+        "Appears at Enies Lobby for CP9 reunion",
+        "Admits to possibly revealing mission details around town"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends the Sogeking comedy scenes with Luffy and Chopper for additional comedic effect.",
+      "episodeTimestamp": "05:15",
+      "mangaReference": "Chapter 375",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "The CP9 reunion scene includes additional dialogue about their previous Revolutionary Army mission that was not in the manga.",
+      "episodeTimestamp": "17:30",
+      "mangaReference": "Chapter 375",
+      "type": "ANIME_ORIGINAL_CONTENT"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the beginning of the Enies Lobby Arc, considered by many fans to be one of the greatest arcs in One Piece.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_264",
+          "title": "Episode 264 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The opening theme 'Brand New World' by D-51 is one of the shortest-running openings in the series, used for only 15 episodes (264-278).",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Brand_New_World",
+          "title": "Brand New World - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "'Adventure World' is the last ending theme in One Piece for 17 years, as the anime would switch to extended openings to allow more story content per episode.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Adventure_World",
+          "title": "Adventure World - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Enies Lobby is known as the 'Island of Never-Night' because it exists in perpetual daylight - a phenomenon that is never explained in the series.",
+      "category": "WORLD_BUILDING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Enies_Lobby",
+          "title": "Enies Lobby - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode adapts chapters 375-376 of the manga, maintaining a good pacing of roughly 2 chapters per episode.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_264",
+          "title": "Episode 264 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
