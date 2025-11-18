@@ -1,0 +1,525 @@
+{
+  "episodeNumber": 68,
+  "episodeTitle": "Try Hard, Koby! Diary of Koby-Meppo's Marine Struggles",
+  "episodeTitleJapanese": "頑張れコビー！コビメッポ海軍奮闘記",
+  "episodeTitleRomanized": "Ganbare Kobī! Kobimeppo kaigun funtōki",
+  "description": "Luffy remembers Koby while the Going Merry is becalmed. The episode follows Koby and Helmeppo as Marine chore boys tasked with escorting Morgan to Vice Admiral Garp. When Morgan escapes, Garp recruits the two young Marines to train at Marine Headquarters.",
+  "airDate": "2001-05-13",
+  "airDateJapan": "2001-05-13",
+  "airDateUS": "2009-08-25",
+  "arcName": "Diary of Koby-Meppo",
+  "sagaName": "East Blue Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Believe",
+    "artist": "Folder5",
+    "episodeRange": [48, 115]
+  },
+  "endingSong": {
+    "title": "Watashi ga Iru Yo",
+    "artist": "TOMATO CUBE",
+    "episodeRange": [64, 73]
+  },
+  "credits": {
+    "animationDirector": "Harume Kosaka",
+    "screenplayWriter": "Michiru Shimada",
+    "artDirector": "Miyuki Sato",
+    "keyAnimators": ["Kenji Yokoyama"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Koby",
+        "actor": "Mika Doi"
+      },
+      {
+        "character": "Helmeppo",
+        "actor": "Koichi Nagano"
+      },
+      {
+        "character": "Monkey D. Garp",
+        "actor": "Hiroshi Naka"
+      },
+      {
+        "character": "Vivi",
+        "actor": "Misa Watanabe"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Koby",
+        "actor": "Leah Clark"
+      },
+      {
+        "character": "Helmeppo",
+        "actor": "Mike McFarland"
+      },
+      {
+        "character": "Monkey D. Garp",
+        "actor": "R. Bruce Elliott"
+      },
+      {
+        "character": "Vivi",
+        "actor": "Caitlin Glass"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep068-event-001",
+      "episodeNumber": 68,
+      "timestamp": "02:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Going Merry Becalmed",
+      "description": "The Going Merry suddenly stops as the wind ceases to propel its sail. Vivi expresses concern about time running out as they're stuck in the calm waters.",
+      "significance": "Sets up the parallel narrative structure of the episode, showing the Straw Hats' current situation while transitioning to Koby's story.",
+      "characterIds": ["luffy", "nami", "zoro", "sanji", "vivi", "karoo"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "Time is running as we speak.",
+          "speaker": "Vivi",
+          "context": "Expressing concern about being becalmed while trying to reach Alabasta"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [62, 67],
+      "payoffInEpisodes": [69],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep068-event-002",
+      "episodeNumber": 68,
+      "timestamp": "04:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Luffy Eats the Bait",
+      "description": "Luffy decides it's time to fish, but Sanji discovers that Luffy has eaten all the bait (bugs), which Luffy claims taste good.",
+      "significance": "Comedic moment showing Luffy's typical behavior and appetite, providing levity before the serious Koby storyline.",
+      "characterIds": ["luffy", "sanji"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "They taste good!",
+          "speaker": "Luffy",
+          "context": "After eating the fishing bait bugs"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep068-event-003",
+      "episodeNumber": 68,
+      "timestamp": "06:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Remembering Luffy's Victories",
+      "description": "Nami recalls all the big names Luffy has beaten: Arlong, Don Krieg, and Captain Kuro. Zoro adds that she forgot Axe-Hand Morgan.",
+      "significance": "Recaps Luffy's accomplishments in the East Blue and sets up the transition to Koby's storyline through the mention of Morgan.",
+      "characterIds": ["nami", "zoro", "vivi"],
+      "locationIds": ["going-merry"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [3, 45, 52, 61],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [3, 45, 52, 61]
+    },
+    {
+      "id": "ep068-event-004",
+      "episodeNumber": 68,
+      "timestamp": "06:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Luffy Remembers Koby",
+      "description": "Upon hearing Morgan's name, Luffy suddenly remembers Koby. The Going Merry's sail catches wind again, and Luffy tells Nami that Koby is his friend.",
+      "significance": "The trigger that transitions the episode to focus on Koby and Helmeppo's storyline. Shows Luffy's bond with his first friend from his journey.",
+      "characterIds": ["luffy", "nami"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "He's my friend.",
+          "speaker": "Luffy",
+          "context": "When Nami asks who Koby is"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [1, 2, 3],
+      "payoffInEpisodes": [69],
+      "callbacksToEpisodes": [1, 2, 3]
+    },
+    {
+      "id": "ep068-event-005",
+      "episodeNumber": 68,
+      "timestamp": "08:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Koby and Helmeppo as Chore Boys",
+      "description": "The scene shifts to show Koby and Helmeppo working as chore boys in the Marines, cleaning swords and cannonballs, performing menial tasks despite having enlisted.",
+      "significance": "Shows the humble beginnings of Koby and Helmeppo's Marine careers, establishing their current status and growth from earlier episodes.",
+      "characterIds": ["koby", "helmeppo"],
+      "locationIds": ["marine-ship"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [3],
+      "payoffInEpisodes": [69],
+      "callbacksToEpisodes": [3]
+    },
+    {
+      "id": "ep068-event-006",
+      "episodeNumber": 68,
+      "timestamp": "10:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Helmeppo's Conflicted Feelings About Morgan",
+      "description": "While cleaning, Helmeppo tells Koby that he respected his father and wanted to be like him, but knows Morgan went too far by abusing his position. Helmeppo begins crying and wonders if his father will be executed.",
+      "significance": "Reveals Helmeppo's complex emotions about his father, showing his character development from the spoiled brat he was in Episode 2-3. This humanizes both Helmeppo and Morgan.",
+      "characterIds": ["helmeppo", "koby"],
+      "locationIds": ["marine-ship"],
+      "quotes": [
+        {
+          "text": "I respected my father. I wanted to be like him, but he went too far, abusing his position.",
+          "speaker": "Helmeppo",
+          "context": "Reflecting on his father while performing chores"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [2, 3],
+      "payoffInEpisodes": [69],
+      "callbacksToEpisodes": [2, 3]
+    },
+    {
+      "id": "ep068-event-007",
+      "episodeNumber": 68,
+      "timestamp": "13:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Morgan Transport Mission Begins",
+      "description": "The Marine captain briefs Koby and Helmeppo on their mission: escort the imprisoned Morgan to Vice Admiral Garp's custody for his court trial. Both boys are visibly scared upon seeing Morgan in chains.",
+      "significance": "Sets up the central conflict of the episode and creates tension as Koby and Helmeppo must face Morgan.",
+      "characterIds": ["koby", "helmeppo", "morgan"],
+      "locationIds": ["marine-ship"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [3],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [3]
+    },
+    {
+      "id": "ep068-event-008",
+      "episodeNumber": 68,
+      "timestamp": "15:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Monkey D. Garp's Debut",
+      "description": "Vice Admiral Monkey D. Garp makes his first appearance, arriving on his ship to receive custody of Morgan. He's wearing his signature dog hat. Garp briefly falls asleep during the handover, and when the captain shouts at him, Garp shouts back that he can hear him.",
+      "significance": "First introduction of one of the most important characters in One Piece - Luffy's grandfather and a Marine legend. His casual demeanor contrasts with his high rank, establishing his unique personality.",
+      "characterIds": ["garp", "koby", "helmeppo"],
+      "locationIds": ["marine-ship"],
+      "quotes": [
+        {
+          "text": "I can hear you!",
+          "speaker": "Garp",
+          "context": "Shouting back at the captain who woke him from his nap"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [69, 313, 314],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep068-event-009",
+      "episodeNumber": 68,
+      "timestamp": "16:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Bogard's Debut",
+      "description": "Bogard, Garp's right-hand man and subordinate, appears for the first time alongside Garp. He is a tall Marine officer wearing a beige suit and hat, carrying a katana.",
+      "significance": "Introduction of Garp's mysterious subordinate who will appear in later arcs. Though he has minimal dialogue, his presence establishes him as Garp's trusted aide.",
+      "characterIds": ["bogard", "garp"],
+      "locationIds": ["marine-ship"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [69],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep068-event-010",
+      "episodeNumber": 68,
+      "timestamp": "17:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Morgan Escapes",
+      "description": "During the handover, Morgan slashes at Garp and breaks free from his chains. He begins his escape attempt, fighting through the Marines.",
+      "significance": "Morgan's escape creates the crisis that defines Koby and Helmeppo's character development in this episode.",
+      "characterIds": ["morgan", "garp", "koby", "helmeppo"],
+      "locationIds": ["marine-ship"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [3],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [3]
+    },
+    {
+      "id": "ep068-event-011",
+      "episodeNumber": 68,
+      "timestamp": "18:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Morgan Takes Helmeppo Hostage",
+      "description": "Morgan grabs his son Helmeppo as a hostage, declaring he doesn't need a son and just wants freedom. He then takes Koby hostage as well, preparing to strike them down.",
+      "significance": "The climactic moment where Morgan explicitly rejects his son, forcing Helmeppo to make a choice about his future and his relationship with his father.",
+      "characterIds": ["morgan", "helmeppo", "koby"],
+      "locationIds": ["marine-ship"],
+      "quotes": [
+        {
+          "text": "I don't need a son. I just want freedom!",
+          "speaker": "Morgan",
+          "context": "While holding Helmeppo hostage"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [2, 3],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [2, 3]
+    },
+    {
+      "id": "ep068-event-012",
+      "episodeNumber": 68,
+      "timestamp": "19:30",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Helmeppo Disowns Morgan",
+      "description": "Rather than killing Koby and Helmeppo, Morgan throws them aside, saying they're not worth killing. Helmeppo declares that while he'll let Morgan escape today, they will cross paths again and he will capture him.",
+      "significance": "Helmeppo's defining character moment where he completely breaks from his father's influence and commits to his own path as a Marine. This represents his full transformation from the spoiled brat of Episode 2.",
+      "characterIds": ["helmeppo", "morgan", "koby"],
+      "locationIds": ["marine-ship"],
+      "quotes": [
+        {
+          "text": "I'll let you escape today, but someday, we will cross paths again and I will surely capture you on that day!",
+          "speaker": "Helmeppo",
+          "context": "Confronting his escaping father"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [2, 3],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [2, 3]
+    },
+    {
+      "id": "ep068-event-013",
+      "episodeNumber": 68,
+      "timestamp": "21:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Garp Recruits Koby and Helmeppo",
+      "description": "After Morgan's escape, Garp tells Koby and Helmeppo they must come with him to Marine Headquarters. He says if they don't like it, they can run away. The two young Marines accept and begin their journey to the Grand Line with Garp.",
+      "significance": "The pivotal moment that sets Koby and Helmeppo on their path to becoming strong Marines under Garp's training. This decision will shape their entire future in the series.",
+      "characterIds": ["garp", "koby", "helmeppo"],
+      "locationIds": ["marine-ship"],
+      "quotes": [
+        {
+          "text": "I have no choice but to tell you to come with me to Marine Headquarters. If you don't like it, you can run away.",
+          "speaker": "Garp",
+          "context": "Recruiting Koby and Helmeppo after Morgan's escape"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [3],
+      "payoffInEpisodes": [69],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["garp", "bogard"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [69],
+    "payoffFrom": [1, 2, 3],
+    "thematicLinks": [1, 2, 3, 69]
+  },
+  "quotes": [
+    {
+      "text": "He's my friend.",
+      "speaker": "Luffy",
+      "context": "Remembering Koby while on the Going Merry",
+      "timestamp": "06:45"
+    },
+    {
+      "text": "I respected my father. I wanted to be like him, but he went too far, abusing his position.",
+      "speaker": "Helmeppo",
+      "context": "Reflecting on his relationship with Morgan",
+      "timestamp": "10:30"
+    },
+    {
+      "text": "I don't need a son. I just want freedom!",
+      "speaker": "Morgan",
+      "context": "Rejecting Helmeppo while holding him hostage",
+      "timestamp": "18:45"
+    },
+    {
+      "text": "I'll let you escape today, but someday, we will cross paths again and I will surely capture you on that day!",
+      "speaker": "Helmeppo",
+      "context": "Confronting his escaping father",
+      "timestamp": "19:30"
+    },
+    {
+      "text": "I can hear you!",
+      "speaker": "Garp",
+      "context": "Responding to being woken from his nap",
+      "timestamp": "15:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Redemption and Second Chances",
+      "description": "The episode explores redemption through Helmeppo's journey from spoiled antagonist to dedicated Marine trainee, as well as Koby's continued growth.",
+      "symbolism": "Morgan's escape and rejection of Helmeppo symbolizes the breaking of toxic family ties, allowing Helmeppo to find his own path.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Mentorship and Legacy",
+      "description": "Garp's decision to train Koby and Helmeppo introduces the theme of mentorship that will continue throughout the series, paralleling his relationship with Luffy.",
+      "symbolism": "Garp's recruitment of the two young Marines mirrors the generational passing of values and strength in the One Piece world.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Parallel Journeys",
+      "description": "The episode juxtaposes Luffy's journey on the Going Merry with Koby's journey in the Marines, showing how both are pursuing their dreams on different paths.",
+      "symbolism": "The becalmed Going Merry catching wind when Luffy remembers Koby symbolizes the enduring connection between the two friends despite their separate paths.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Inspirational", "Emotional", "Dramatic"],
+  "characterSpotlights": [
+    {
+      "characterId": "helmeppo",
+      "role": "Character development focus",
+      "development": "Helmeppo confronts his complicated feelings about his father and makes the defining choice to disown Morgan, completing his transformation from spoiled antagonist to dedicated Marine.",
+      "keyActions": [
+        "Reflects on his respect for and disappointment in his father",
+        "Faces Morgan during the escape",
+        "Declares he will capture Morgan in the future",
+        "Accepts Garp's offer to train at Marine Headquarters"
+      ],
+      "quotes": [
+        "I respected my father. I wanted to be like him, but he went too far, abusing his position.",
+        "I'll let you escape today, but someday, we will cross paths again and I will surely capture you on that day!"
+      ]
+    },
+    {
+      "characterId": "koby",
+      "role": "Supporting character development",
+      "development": "Koby continues his growth as a Marine, supporting Helmeppo through his crisis and showing bravery when taken hostage by Morgan.",
+      "keyActions": [
+        "Works diligently as a Marine chore boy",
+        "Supports Helmeppo emotionally",
+        "Faces Morgan during the escape",
+        "Accepts training under Garp"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "garp",
+      "role": "Major debut",
+      "development": "First appearance establishes Garp's unique personality - a legendary Marine Vice Admiral with a casual, unconventional demeanor. His decision to train Koby and Helmeppo shows his eye for potential.",
+      "keyActions": [
+        "Arrives to take custody of Morgan",
+        "Falls asleep during official business",
+        "Confronts Morgan during escape",
+        "Recruits Koby and Helmeppo for Marine Headquarters training"
+      ],
+      "quotes": [
+        "I can hear you!",
+        "I have no choice but to tell you to come with me to Marine Headquarters. If you don't like it, you can run away."
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The Diary of Koby-Meppo story was told through cover pages in the manga (Chapters 83-119), but was adapted into full anime episodes 68-69.",
+      "episodeTimestamp": "00:00",
+      "mangaReference": "Chapters 83-119 cover stories",
+      "type": "ANIME_EXPANSION"
+    },
+    {
+      "difference": "The Going Merry becalmed scenes with Luffy and the crew are anime-original, added to provide context and transition to the Koby storyline.",
+      "episodeTimestamp": "02:15",
+      "mangaReference": "Not in manga",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This is the second cover story to be animated in the One Piece anime, following the Buggy's Adventure arc.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "The 4Kids English dub completely skipped episodes 68 and 69, removing the Diary of Koby-Meppo arc entirely from their version.",
+      "category": "LOCALIZATION",
+      "sources": []
+    },
+    {
+      "fact": "Garp's name is not revealed in this episode, only his rank as Vice Admiral. His full name is revealed later in the series.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "Bogard's name was only revealed in the episode credits and on the official One Piece website, never formally introduced in the anime or manga.",
+      "category": "CHARACTER",
+      "sources": []
+    },
+    {
+      "fact": "This episode aired on May 13, 2001 in Japan and achieved a 14.6% broadcast rating, ranking #3 for the week.",
+      "category": "BROADCAST",
+      "sources": []
+    },
+    {
+      "fact": "The Funimation English dub of this episode didn't air until August 25, 2009, over 8 years after the Japanese broadcast.",
+      "category": "LOCALIZATION",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

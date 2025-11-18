@@ -1,0 +1,148 @@
+[
+  {
+    "name": {
+      "english": "Baroque Works",
+      "japanese": "バロックワークス",
+      "romanized": "Barokku Wākusu"
+    },
+    "debutEpisode": 64,
+    "debutChapter": 103,
+    "episodeAppearances": [66],
+    "crewType": "CRIMINAL_ORGANIZATION",
+    "status": "ACTIVE",
+    "leader": {
+      "characterId": "crocodile",
+      "codename": "Mr. 0",
+      "episodeRevealed": null
+    },
+    "members": [
+      {
+        "characterId": "mr-5",
+        "role": "Officer Agent",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "codename": "Mr. 5"
+      },
+      {
+        "characterId": "miss-valentine",
+        "role": "Officer Agent",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "codename": "Miss Valentine"
+      }
+    ],
+    "formerMembers": [],
+    "territory": ["Paradise", "Arabasta Kingdom"],
+    "goals": [
+      {
+        "goal": "Overthrow the Arabasta Kingdom",
+        "episodeEstablished": 66,
+        "status": "IN_PROGRESS"
+      },
+      {
+        "goal": "Orchestrate civil war in Arabasta",
+        "episodeEstablished": 66,
+        "status": "IN_PROGRESS"
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 66,
+        "eventId": "ep066-event-016",
+        "momentType": "WORLD_LORE",
+        "title": "Baroque Works Organization Structure Revealed",
+        "description": "The episode reveals the hierarchical structure of Baroque Works, including Frontier Agents, Officer Agents, the codename system, and the mystery of the leader known only as Mr. 0.",
+        "significance": "Establishes Baroque Works as a major antagonistic force with a complex organization, setting up the conflict for the Arabasta Saga.",
+        "timestamp": "21:30"
+      },
+      {
+        "episodeNumber": 66,
+        "eventId": "ep066-event-015",
+        "momentType": "BACKSTORY_REVEAL",
+        "title": "Arabasta Conspiracy Revealed",
+        "description": "Vivi explains that Baroque Works has been orchestrating a civil war in Arabasta as part of their plan to overthrow the kingdom.",
+        "significance": "Reveals the organization's ultimate goal and the scope of their operations, making them a kingdom-level threat.",
+        "timestamp": "20:15"
+      }
+    ],
+    "resources": ["Large network of agents", "Secret criminal operations", "Influence in Arabasta"],
+    "allies": [],
+    "enemies": [
+      {
+        "crewId": "straw-hat-pirates",
+        "reason": "Straw Hats discovered their conspiracy and agreed to help Princess Vivi",
+        "episodeEstablished": 66
+      },
+      {
+        "crewId": "arabasta-kingdom",
+        "reason": "Baroque Works is planning to overthrow the Arabasta Kingdom",
+        "episodeEstablished": 66
+      }
+    ],
+    "reveals": [
+      {
+        "infoType": "ORGANIZATION_STRUCTURE",
+        "information": "Baroque Works has a hierarchical system with Frontier Agents (numbered pairs like Mr. 8 and Miss Monday) and Officer Agents (numbered pairs like Mr. 5 and Miss Valentine), with members not knowing the boss's true identity",
+        "episodeRevealed": 66,
+        "severity": "MAJOR"
+      },
+      {
+        "infoType": "GOAL",
+        "information": "The organization's ultimate goal is to overthrow the Kingdom of Arabasta by orchestrating a civil war",
+        "episodeRevealed": 66,
+        "severity": "CRITICAL"
+      },
+      {
+        "infoType": "LEADER",
+        "information": "The organization is led by a mysterious figure known only by the codename Mr. 0",
+        "episodeRevealed": 66,
+        "severity": "MAJOR"
+      }
+    ]
+  },
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [66],
+    "crewType": "PIRATE_CREW",
+    "status": "ACTIVE",
+    "leader": {
+      "characterId": "luffy",
+      "codename": null,
+      "episodeRevealed": 1
+    },
+    "members": [],
+    "formerMembers": [],
+    "territory": [],
+    "goals": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 66,
+        "eventId": "ep066-event-008",
+        "momentType": "BATTLE_START",
+        "title": "Internal Conflict: Luffy vs Zoro",
+        "description": "The crew experiences internal conflict when Luffy and Zoro fight each other due to a misunderstanding about the bounty hunters.",
+        "significance": "One of the rare instances of serious internal crew conflict, demonstrating that even the strongest bonds can be tested by miscommunication.",
+        "timestamp": "11:30"
+      },
+      {
+        "episodeNumber": 66,
+        "eventId": "ep066-event-004",
+        "momentType": "MAJOR_DECISION",
+        "title": "Agreement to Protect Vivi",
+        "description": "Zoro agrees to protect Princess Vivi on behalf of the crew, setting the stage for their involvement in the Arabasta conflict.",
+        "significance": "Marks the beginning of the Straw Hats' involvement in saving the Arabasta Kingdom.",
+        "timestamp": "06:30"
+      }
+    ],
+    "resources": [],
+    "allies": [],
+    "enemies": [],
+    "reveals": []
+  }
+]
