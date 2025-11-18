@@ -1,0 +1,83 @@
+[
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "luffy",
+    "debutEpisode": 1,
+    "episodeAppearances": [268],
+    "keyMoments": [
+      {
+        "episodeNumber": 268,
+        "eventId": "ep268-event-001",
+        "momentType": "BATTLE_START",
+        "title": "All-Out Assault on Enies Lobby",
+        "description": "The Straw Hat Pirates launch their coordinated assault through Enies Lobby's front gate, battling Marines and government forces to reach Luffy and rescue Robin.",
+        "significance": "The crew's unified attack on a World Government stronghold demonstrates their unwavering commitment to saving Robin regardless of the consequences.",
+        "timestamp": "03:15"
+      }
+    ],
+    "relationships": {
+      "allies": ["franky-family", "galley-la-company"],
+      "enemies": ["cp9", "world-government-marines"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Franky Family",
+      "japanese": "フランキー一家",
+      "romanized": "Furankī Ikka"
+    },
+    "crewType": "DISMANTLER_GROUP",
+    "captainId": "franky",
+    "debutEpisode": 233,
+    "episodeAppearances": [268],
+    "keyMoments": [
+      {
+        "episodeNumber": 268,
+        "eventId": "ep268-event-010",
+        "momentType": "LOCATION_ARRIVAL",
+        "title": "Franky Family Arrives with King Bulls",
+        "description": "The Franky Family arrives at Enies Lobby riding the giant King Bulls Sodom and Gomorrah, breaking through Marine encirclement to support the Straw Hats.",
+        "significance": "The Franky Family officially joins the assault on Enies Lobby, bringing powerful allies in the form of their King Bulls and solidifying their alliance with the Straw Hats.",
+        "timestamp": "19:30"
+      }
+    ],
+    "relationships": {
+      "allies": ["straw-hat-pirates", "galley-la-company"],
+      "enemies": ["cp9", "world-government-marines"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Galley-La Company",
+      "japanese": "ガレーラカンパニー",
+      "romanized": "Garēra Kanpanī"
+    },
+    "crewType": "SHIPWRIGHT_COMPANY",
+    "captainId": "iceburg",
+    "debutEpisode": 233,
+    "episodeAppearances": [268],
+    "keyMoments": [
+      {
+        "episodeNumber": 268,
+        "eventId": "ep268-event-004",
+        "momentType": "BATTLE_START",
+        "title": "Galley-La Foremen Fight Watchdog Unit",
+        "description": "Paulie, Tilestone, and Peepley Lulu engage the Watchdog Unit of the Law in battle, allowing the Straw Hats to advance toward the courthouse. Paulie delivers the message 'You're fired' to be relayed to CP9.",
+        "significance": "The Galley-La Company takes revenge on CP9 for their infiltration and betrayal while repaying their debt to the Straw Hats for saving their company and Iceburg.",
+        "timestamp": "09:20"
+      }
+    ],
+    "relationships": {
+      "allies": ["straw-hat-pirates", "franky-family"],
+      "enemies": ["cp9", "watchdog-unit-of-the-law"],
+      "parentOrganization": null
+    }
+  }
+]

@@ -1,0 +1,395 @@
+{
+  "episodeNumber": 269,
+  "episodeTitle": "Robin Betrayed! The Motive of the World Government!",
+  "episodeTitleJapanese": "裏切られたロビン！世界政府の思惑！",
+  "episodeTitleRomanized": "Uragirareta Robin! Sekai Seifu no Omowaku!",
+  "description": "Robin is shocked to learn that CP9 plans to execute the Straw Hats for violating their agreement by coming to Enies Lobby. Spandam beats Robin when she questions his Buster Call authority, triggering a brief flashback to the Ohara incident. Meanwhile, Chopper translates Sodom and Gomorrah's backstory, and Luffy fights through Marines before encountering Blueno at the courthouse.",
+  "airDate": "2006-06-25",
+  "airDateJapan": "2006-06-25",
+  "airDateUS": "2013-07-13",
+  "arcName": "Enies Lobby",
+  "sagaName": "Water 7 Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Brand New World",
+    "artist": "D-51",
+    "episodeRange": [264, 278]
+  },
+  "endingSong": {
+    "title": "Adventure World",
+    "artist": "Delicatessen",
+    "episodeRange": [264, 278]
+  },
+  "credits": {
+    "director": "Katsumi Tokoro",
+    "writer": "Hirohiko Kamisaka",
+    "animationDirector": "Masayuki Takagi",
+    "artDirectors": ["Miyuki Sato", "Kunihiro Chida"],
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Spandam",
+        "actor": "Masaya Onosaka"
+      },
+      {
+        "character": "Rob Lucci",
+        "actor": "Tomokazu Seki"
+      },
+      {
+        "character": "Blueno",
+        "actor": "Seiji Sasaki"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Spandam",
+        "actor": "Christopher Corey Smith"
+      },
+      {
+        "character": "Rob Lucci",
+        "actor": "Jason Liebrecht"
+      },
+      {
+        "character": "Blueno",
+        "actor": "R. Bruce Elliott"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep269-event-001",
+      "episodeNumber": 269,
+      "timestamp": "04:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "CP9 Reveals Plan to Execute Straw Hats",
+      "description": "Rob Lucci reveals that CP9 plans to kill the Straw Hat Pirates because they violated the original agreement. The deal was that Robin's surrender would allow the crew to leave Water 7 safely, but their arrival at Enies Lobby breached those terms.",
+      "significance": "Establishes that the Straw Hats are now marked for death by CP9, raising the stakes of the conflict and showing that Robin's sacrifice was in vain.",
+      "characterIds": ["rob-lucci", "robin", "spandam"],
+      "locationIds": ["enies-lobby-tower-of-justice"],
+      "crewIds": ["cp9"],
+      "quotes": [
+        {
+          "text": "The terms of the arrangement were that, excluding Nico Robin, the Straw Hat Pirates would be allowed to leave Water 7 safely. After allowing the Straw Hats to leave Water 7 safely as promised, they then decided to come to Enies Lobby, which was beyond the scope of the arrangement.",
+          "speaker": "Rob Lucci",
+          "context": "Explaining the loophole in the agreement to Robin"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [245, 268],
+      "payoffInEpisodes": [270, 271],
+      "callbacksToEpisodes": [245]
+    },
+    {
+      "id": "ep269-event-002",
+      "episodeNumber": 269,
+      "timestamp": "06:15",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Rob Lucci Reveals His Bloodlust",
+      "description": "When Spandam asks what CP9 wants, Rob Lucci reveals his true motivation: government-sanctioned killing. He states that as long as he remains part of the establishment, he can kill criminals, innocents, and whoever gets in the way with impunity.",
+      "significance": "Establishes Rob Lucci as the most dangerous and psychopathic member of CP9, revealing his true nature beyond simply following orders.",
+      "characterIds": ["rob-lucci", "spandam"],
+      "locationIds": ["enies-lobby-tower-of-justice"],
+      "crewIds": ["cp9"],
+      "quotes": [
+        {
+          "text": "Our Justice exists in the World Government. We want blood, and we have the right to kill people because we are with the Government.",
+          "speaker": "Rob Lucci",
+          "context": "Revealing his true motivation to Spandam"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [302, 309],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep269-event-003",
+      "episodeNumber": 269,
+      "timestamp": "07:45",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Spandam Beats Robin",
+      "description": "Robin questions why Spandam was given rights to the Buster Call, which triggers his anger. Spandam violently beats Robin in response to her questioning his authority.",
+      "significance": "Demonstrates Spandam's cruelty and insecurity, while also triggering Robin's traumatic memories of the Ohara incident and the Buster Call.",
+      "characterIds": ["spandam", "robin"],
+      "locationIds": ["enies-lobby-tower-of-justice"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [268],
+      "payoffInEpisodes": [278, 309],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep269-event-004",
+      "episodeNumber": 269,
+      "timestamp": "09:20",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Brief Ohara Flashback",
+      "description": "When Robin is reminded of the Buster Call, she has a brief flashback to the Ohara incident, showing the archaeologists discussing their theories about the Lost Century and the Ancient Kingdom.",
+      "significance": "Foreshadows the full Ohara flashback that will come later in the arc, and reinforces Robin's trauma related to the Buster Call.",
+      "characterIds": ["robin", "clover", "olvia"],
+      "locationIds": ["ohara"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [275, 276, 277, 278],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep269-event-005",
+      "episodeNumber": 269,
+      "timestamp": "11:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MINOR",
+      "title": "Sodom and Gomorrah's Origin Story",
+      "description": "Chopper translates for Sodom and Gomorrah, revealing how the King Bulls met the Franky Family. They were saved from the stomach of a Sea King by Franky, and in gratitude, they swore loyalty to him forever.",
+      "significance": "Provides character development for the King Bulls and demonstrates Chopper's ability to communicate with animals, while also showing the bonds that tie the Franky Family together.",
+      "characterIds": ["chopper", "sodom", "gomorrah", "franky"],
+      "locationIds": ["enies-lobby"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [266],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep269-event-006",
+      "episodeNumber": 269,
+      "timestamp": "13:00",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Sogeking Goes Missing",
+      "description": "Chopper and the Franky Family realize that Sogeking (Usopp) is not with them anymore. He has separated from the group to pursue his own objective.",
+      "significance": "Sets up Sogeking's independent actions during the Enies Lobby assault, which will be crucial to rescuing Robin.",
+      "characterIds": ["chopper", "usopp"],
+      "locationIds": ["enies-lobby"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [268],
+      "payoffInEpisodes": [270, 294],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep269-event-007",
+      "episodeNumber": 269,
+      "timestamp": "16:45",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Luffy Fights Through Marines",
+      "description": "Luffy battles his way through waves of Marines at Enies Lobby, fighting on rooftops to avoid being surrounded. He demonstrates improved combat abilities compared to his earlier encounters.",
+      "significance": "Shows Luffy's determination to reach Robin and his growth as a fighter, setting up his confrontation with Blueno.",
+      "characterIds": ["luffy"],
+      "locationIds": ["enies-lobby-courthouse"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [268],
+      "payoffInEpisodes": [270],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep269-event-008",
+      "episodeNumber": 269,
+      "timestamp": "19:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Blueno Confronts Luffy at the Courthouse",
+      "description": "Blueno appears before Luffy on the roof of the Courthouse of Justice, having waited for the invaders. He creates an air door and explains this is the first time anyone has gotten past the entrance.",
+      "significance": "Sets up the rematch between Luffy and Blueno, where Luffy will demonstrate his new Gear Second technique. This is a crucial test of Luffy's growth since their first encounter.",
+      "characterIds": ["luffy", "blueno"],
+      "locationIds": ["enies-lobby-courthouse"],
+      "devilFruitIds": ["doa-doa-no-mi"],
+      "quotes": [
+        {
+          "text": "You made it this far. This is the first time anyone has gotten past the entrance.",
+          "speaker": "Blueno",
+          "context": "Confronting Luffy at the courthouse"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [239, 268],
+      "payoffInEpisodes": [270, 271, 272, 273],
+      "callbacksToEpisodes": [239]
+    },
+    {
+      "id": "ep269-event-009",
+      "episodeNumber": 269,
+      "timestamp": "20:15",
+      "eventType": "POWER_REVEAL",
+      "severity": "MINOR",
+      "title": "Blueno Demonstrates Door-Door Fruit",
+      "description": "Blueno demonstrates his Doa Doa no Mi (Door-Door Fruit) powers by creating doors in the air, showing Luffy the abilities he will face in their upcoming battle.",
+      "significance": "Reminds viewers of Blueno's Devil Fruit powers and sets up the challenge Luffy must overcome in the next episode.",
+      "characterIds": ["blueno", "luffy"],
+      "locationIds": ["enies-lobby-courthouse"],
+      "devilFruitIds": ["doa-doa-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [239],
+      "payoffInEpisodes": [270, 271],
+      "callbacksToEpisodes": [239]
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [270, 271, 272, 273],
+    "payoffFrom": [245, 268],
+    "thematicLinks": [239, 275, 276, 277, 278]
+  },
+  "quotes": [
+    {
+      "text": "The terms of the arrangement were that, excluding Nico Robin, the Straw Hat Pirates would be allowed to leave Water 7 safely.",
+      "speaker": "Rob Lucci",
+      "context": "Explaining the loophole in the deal with Robin",
+      "timestamp": "04:30"
+    },
+    {
+      "text": "Our Justice exists in the World Government. We want blood, and we have the right to kill people because we are with the Government.",
+      "speaker": "Rob Lucci",
+      "context": "Revealing his true bloodthirsty nature to Spandam",
+      "timestamp": "06:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Betrayal and Sacrifice",
+      "description": "Robin learns that her sacrifice to save the Straw Hats was meaningless, as CP9 plans to kill them anyway due to a technicality in their agreement.",
+      "symbolism": "The broken agreement represents the World Government's duplicity and willingness to manipulate the truth to achieve their ends.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Institutional Corruption",
+      "description": "Rob Lucci's revelation that he seeks government-sanctioned killing exposes the darkness within the World Government's justice system.",
+      "symbolism": "CP9 represents the corrupted side of justice, where power is used for personal satisfaction rather than righteous purposes.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Trauma and Memory",
+      "description": "The brief Ohara flashback shows how Robin's past trauma continues to haunt her, especially when faced with the Buster Call again.",
+      "symbolism": "The Buster Call represents the ultimate destructive power of the World Government and Robin's deepest fears.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Dark", "Dramatic", "Determined"],
+  "characterSpotlights": [
+    {
+      "characterId": "robin",
+      "role": "Victim of betrayal",
+      "development": "Robin realizes her sacrifice was meaningless and faces both physical abuse and psychological torment through memories of Ohara.",
+      "keyActions": [
+        "Questions Spandam about Buster Call authority",
+        "Endures beating from Spandam",
+        "Experiences flashback to Ohara incident"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "rob-lucci",
+      "role": "Antagonist revelation",
+      "development": "Lucci reveals his true psychopathic nature, showing he's motivated by bloodlust rather than duty.",
+      "keyActions": [
+        "Reveals loophole in agreement with Robin",
+        "Explains his desire for government-sanctioned killing",
+        "Disturbs even Spandam with his honesty"
+      ],
+      "quotes": ["Our Justice exists in the World Government. We want blood, and we have the right to kill people because we are with the Government."]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Determined rescuer",
+      "development": "Luffy fights through Marines with improved abilities, showing his growth since facing CP9 in Water 7.",
+      "keyActions": [
+        "Battles through waves of Marines",
+        "Reaches the courthouse roof",
+        "Confronts Blueno for a rematch"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime expands on the Marine battle sequences as Luffy fights his way to the courthouse, adding more action scenes than present in the manga.",
+      "episodeTimestamp": "16:45",
+      "mangaReference": "Chapter 382-383",
+      "type": "ANIME_EXPANSION"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episodes 268 and 269 aired together as a television special on June 25, 2006.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_269",
+          "title": "Episode 269 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode had a TV rating of 10.2% and ranked 4th in viewership for its timeslot.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_269",
+          "title": "Episode 269 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Adventure World by Delicatessen was the last ending theme used in One Piece for 17 years until 2023, when the series added a new ending theme.",
+      "category": "MUSIC",
+      "sources": []
+    },
+    {
+      "fact": "This episode adapts portions of manga chapters 382 and 383.",
+      "category": "ADAPTATION",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

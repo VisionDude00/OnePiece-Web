@@ -1,0 +1,534 @@
+{
+  "episodeNumber": 268,
+  "episodeTitle": "Catch Up with Luffy! The Straw Hats' All-Out Battle",
+  "description": "The Straw Hat Pirates launch an all-out assault through Enies Lobby to reach Luffy. Nami tests her upgraded Perfect Clima-Tact with chaotic results, while the Galley-La foremen battle the Watchdog Unit of the Law. Meanwhile, Luffy fights through thousands of Marines as Spandam reveals shocking information about Aokiji's involvement to Robin and Franky.",
+  "airDate": "2006-06-25",
+  "airDateJapan": "2006-06-25",
+  "airDateUS": "2013-07-23",
+  "arcName": "Enies Lobby",
+  "sagaName": "Water 7 Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Brand New World",
+    "artist": "D-51",
+    "episodeRange": [264, 278]
+  },
+  "endingSong": {
+    "title": "Adventure World",
+    "artist": "Delicatessen",
+    "episodeRange": [264, 278]
+  },
+  "credits": {
+    "animationDirector": "Kazuya Hisada",
+    "director": "Hiroaki Miyamoto",
+    "storyboard": "Eisaku Inoue",
+    "screenplay": "Hirohiko Kamisaka",
+    "artDirection": ["Miho Shiraishi", "Fumihiro Uchikawa"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp/Sogeking",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Spandam",
+        "actor": "Masaya Onosaka"
+      },
+      {
+        "character": "Paulie",
+        "actor": "Tetsu Inada"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp/Sogeking",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Spandam",
+        "actor": "Andrew Love"
+      },
+      {
+        "character": "Paulie",
+        "actor": "David Vincent"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep268-event-001",
+      "episodeNumber": 268,
+      "timestamp": "03:15",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Straw Hats Begin All-Out Assault on Enies Lobby",
+      "description": "The Straw Hat Pirates charge through the front gate of Enies Lobby, engaging in an all-out battle against the Marines and government forces. The crew experiences coordination problems as they fight, with Zoro and Sanji bickering and Sogeking failing as a decoy.",
+      "significance": "Marks the beginning of the Straw Hats' coordinated assault to rescue Robin and reach Luffy, demonstrating their determination despite overwhelming odds.",
+      "characterIds": ["luffy", "zoro", "sanji", "nami", "chopper", "sogeking"],
+      "locationIds": ["enies-lobby"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [264, 265, 266, 267],
+      "payoffInEpisodes": [269, 270, 271],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep268-event-002",
+      "episodeNumber": 268,
+      "timestamp": "05:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Nami's Perfect Clima-Tact Thunderbolt Tempo Backfires",
+      "description": "Nami uses her newly upgraded Perfect Clima-Tact for the first time, creating a thundercloud and unleashing Thunderbolt Tempo. However, Usopp's design made the weapon too powerful, causing it to fire uncontrollable lightning bolts across the entire area, hitting both enemies and allies indiscriminately.",
+      "significance": "First use of the Perfect Clima-Tact in battle reveals its overwhelming power but also its dangerous lack of control. This demonstrates both the weapon's potential and the need for Nami to master it.",
+      "characterIds": ["nami", "usopp"],
+      "locationIds": ["enies-lobby"],
+      "itemIds": ["perfect-clima-tact"],
+      "quotes": [
+        {
+          "text": "Thunderbolt Tempo!",
+          "speaker": "Nami",
+          "context": "Nami unleashing her upgraded weapon's power for the first time"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [257],
+      "payoffInEpisodes": [269, 270],
+      "callbacksToEpisodes": [257]
+    },
+    {
+      "id": "ep268-event-003",
+      "episodeNumber": 268,
+      "timestamp": "07:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Watchdog Unit of the Law Intercepts the Straw Hats",
+      "description": "The elite Watchdog Unit of the Law, led by Baskerville, appears riding their war dogs to intercept the Straw Hat Pirates. The unit uses their arm blades and swift dog mounts to attack the crew as they advance toward the courthouse.",
+      "significance": "Introduces a specialized government force defending Enies Lobby, demonstrating the increasing resistance the Straw Hats face as they penetrate deeper into the judicial island.",
+      "characterIds": ["baskerville"],
+      "locationIds": ["enies-lobby"],
+      "organizationIds": ["watchdog-unit-of-the-law"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [268],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep268-event-004",
+      "episodeNumber": 268,
+      "timestamp": "09:20",
+      "eventType": "BATTLE_START",
+      "title": "Galley-La Foremen vs Watchdog Unit of the Law",
+      "description": "Paulie arrives riding Sodom the King Bull and rallies the Galley-La foremen (Tilestone and Peepley Lulu) to fight the Watchdog Unit of the Law. Paulie delivers a message for the Straw Hats to relay to CP9: 'You're fired.' The foremen engage the elite guards, allowing the Straw Hats to advance.",
+      "severity": "MAJOR",
+      "significance": "The Galley-La Company repays their debt to the Straw Hats and takes revenge on CP9 for infiltrating their company. Paulie's message symbolizes the shipwrights' rejection of their former colleagues who betrayed them.",
+      "characterIds": ["paulie", "tilestone", "peepley-lulu", "baskerville"],
+      "locationIds": ["enies-lobby"],
+      "organizationIds": ["galley-la-company", "watchdog-unit-of-the-law"],
+      "quotes": [
+        {
+          "text": "You're fired!",
+          "speaker": "Paulie",
+          "context": "Paulie's message to be delivered to CP9, symbolizing the Galley-La Company's formal rejection of the traitors"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [267],
+      "payoffInEpisodes": [269, 270],
+      "callbacksToEpisodes": [238, 239, 240]
+    },
+    {
+      "id": "ep268-event-005",
+      "episodeNumber": 268,
+      "timestamp": "11:00",
+      "eventType": "POWER_REVEAL",
+      "severity": "MINOR",
+      "title": "Watchdog Unit Combat Techniques Displayed",
+      "description": "The Watchdog Unit demonstrates their fighting style using dual arm blades attached to their wrists and their war dogs for swift movement. However, despite their arrogance and elite status, they prove no match for the experienced Galley-La foremen.",
+      "significance": "Shows the combat capabilities of Enies Lobby's specialized guards while highlighting the skill level of the Galley-La foremen who easily overpower them.",
+      "characterIds": ["paulie", "tilestone", "peepley-lulu", "baskerville"],
+      "locationIds": ["enies-lobby"],
+      "organizationIds": ["watchdog-unit-of-the-law"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep268-event-006",
+      "episodeNumber": 268,
+      "timestamp": "13:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Luffy Surrounded by Thousands of Marines",
+      "description": "Luffy finds himself cornered by thousands of Marines on a cliff edge. The Big Bazooka units fire at him, causing the cliff to collapse. Marines step on Luffy's fingers as he hangs from the cliff trying to make him fall to his death, but the entire cliff face gives way.",
+      "significance": "Demonstrates both the overwhelming numbers Luffy faces and his resilience and determination to reach Robin despite impossible odds. The scene shows Luffy's predicament fighting alone deep in enemy territory.",
+      "characterIds": ["luffy"],
+      "locationIds": ["enies-lobby"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [267],
+      "payoffInEpisodes": [268, 269],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep268-event-007",
+      "episodeNumber": 268,
+      "timestamp": "15:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Luffy Runs on Falling Marines",
+      "description": "As the cliff collapses with Marines falling, Luffy demonstrates his agility and creativity by running upward on top of the falling Marines and debris, using them as stepping stones to escape the collapse.",
+      "significance": "A comedic yet impressive display of Luffy's combat creativity and his ability to turn dire situations to his advantage through unconventional tactics.",
+      "characterIds": ["luffy"],
+      "locationIds": ["enies-lobby"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep268-event-008",
+      "episodeNumber": 268,
+      "timestamp": "16:45",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Spandam Reveals Aokiji Gave Him the Buster Call",
+      "description": "In the Tower of Justice, Spandam reveals to Robin and Franky that Admiral Aokiji informed him of Robin's arrival in Water 7 and entrusted him with the authority to summon a Buster Call via the Golden Den Den Mushi. When Robin questions why Aokiji would trust Spandam with such power, Spandam punches her.",
+      "significance": "Reveals Admiral Aokiji's direct involvement in the events leading to Robin's capture and establishes the threat of the Buster Call. This information deeply impacts Robin, who trusted Aokiji might be different from other World Government agents.",
+      "characterIds": ["spandam", "robin", "franky", "aokiji"],
+      "locationIds": ["tower-of-justice"],
+      "itemIds": ["golden-den-den-mushi"],
+      "quotes": [
+        {
+          "text": "Admiral Aokiji informed me that Nico Robin was on her way to Water 7, and he entrusted me with the Buster Call!",
+          "speaker": "Spandam",
+          "context": "Spandam revealing Aokiji's role in Robin's capture and his possession of the Buster Call authority"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [227, 228, 229],
+      "payoffInEpisodes": [283, 284, 285],
+      "callbacksToEpisodes": [227, 228, 229]
+    },
+    {
+      "id": "ep268-event-009",
+      "episodeNumber": 268,
+      "timestamp": "18:15",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Spandam Explains the Deal's Loophole",
+      "description": "Spandam explains to Robin how he exploited the loophole in their agreement. The deal stated the crew 'minus Robin, shall depart from Water 7 in peace.' Since the crew technically left Water 7 to reach Enies Lobby, the agreement is void. He also reveals how Iceburg made Galley-La indispensable to the World Government.",
+      "significance": "Demonstrates Spandam's ruthless manipulation and reveals why CP9 couldn't simply assassinate Iceburg. Shows Robin that her sacrifice to protect the crew was undermined by Spandam's deception, reinforcing her hopeless situation.",
+      "characterIds": ["spandam", "robin", "franky", "iceburg"],
+      "locationIds": ["tower-of-justice"],
+      "quotes": [
+        {
+          "text": "The agreement stated your crew, minus Robin, shall depart from Water 7 in peace. They left Water 7... so the deal is complete!",
+          "speaker": "Spandam",
+          "context": "Spandam explaining how he exploited the technicality in his deal with Robin"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [264, 265, 266],
+      "payoffInEpisodes": [269, 270, 271, 278],
+      "callbacksToEpisodes": [264, 265, 266]
+    },
+    {
+      "id": "ep268-event-010",
+      "episodeNumber": 268,
+      "timestamp": "19:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Franky Family Arrives with Sodom and Gomorrah",
+      "description": "Just as the Straw Hats become surrounded by Marines, the Franky Family arrives riding the giant King Bulls Sodom and Gomorrah. The massive sea creatures barrel through the Marines, breaking the encirclement and providing support to the Straw Hats' assault.",
+      "significance": "The Franky Family officially joins forces with the Straw Hats in the assault on Enies Lobby, bringing their King Bulls as powerful allies. Demonstrates the growing alliance between the two groups.",
+      "characterIds": ["zambai", "sodom", "gomorrah"],
+      "locationIds": ["enies-lobby"],
+      "crewIds": ["franky-family"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [267],
+      "payoffInEpisodes": [269, 270],
+      "callbacksToEpisodes": [256, 267]
+    },
+    {
+      "id": "ep268-event-011",
+      "episodeNumber": 268,
+      "timestamp": "21:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Blueno Confronts Luffy",
+      "description": "As Luffy surveys the fortress and declares his determination to rescue Robin, CP9 agent Blueno appears through an Air Door created by his Doa Doa no Mi powers. The two face off at the courthouse, setting up their upcoming battle.",
+      "significance": "Luffy's first direct confrontation with a CP9 agent at Enies Lobby. This encounter will lead to Luffy's first major one-on-one battle against CP9, testing his strength against their superhuman Rokushiki techniques.",
+      "characterIds": ["luffy", "blueno"],
+      "locationIds": ["enies-lobby"],
+      "devilFruitIds": ["doa-doa-no-mi"],
+      "quotes": [
+        {
+          "text": "I'll get Robin out safely, no matter what!",
+          "speaker": "Luffy",
+          "context": "Luffy's declaration before Blueno appears to challenge him"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [267],
+      "payoffInEpisodes": [269, 270, 271],
+      "callbacksToEpisodes": [240, 241, 242]
+    },
+    {
+      "id": "ep268-event-012",
+      "episodeNumber": 268,
+      "timestamp": "10:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Zoro and Sanji's Ongoing Rivalry",
+      "description": "Throughout the battle, Zoro and Sanji continue their constant bickering about who is stronger and arguing with each other even while fighting Marines. Their rivalry creates comedic moments amid the intense battle.",
+      "significance": "Maintains the comic relief dynamic between Zoro and Sanji that defines their relationship, showing that even in a life-or-death battle for Robin, their competitive nature remains unchanged.",
+      "characterIds": ["zoro", "sanji"],
+      "locationIds": ["enies-lobby"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [21, 43, 64]
+    }
+  ],
+  "debuts": {
+    "characters": ["baskerville"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["thunderbolt-tempo-perfect"],
+    "organizations": ["watchdog-unit-of-the-law"],
+    "items": []
+  },
+  "episodeRelationships": {
+    "setupFor": [269, 270, 271],
+    "payoffFrom": [264, 265, 266, 267],
+    "thematicLinks": [238, 239, 240, 257]
+  },
+  "quotes": [
+    {
+      "text": "You're fired!",
+      "speaker": "Paulie",
+      "context": "Message to CP9 from Galley-La Company",
+      "timestamp": "09:20"
+    },
+    {
+      "text": "Thunderbolt Tempo!",
+      "speaker": "Nami",
+      "context": "First use of upgraded Perfect Clima-Tact",
+      "timestamp": "05:30"
+    },
+    {
+      "text": "Admiral Aokiji informed me that Nico Robin was on her way to Water 7, and he entrusted me with the Buster Call!",
+      "speaker": "Spandam",
+      "context": "Revealing Aokiji's involvement to Robin",
+      "timestamp": "16:45"
+    },
+    {
+      "text": "I'll get Robin out safely, no matter what!",
+      "speaker": "Luffy",
+      "context": "Luffy's determination before facing Blueno",
+      "timestamp": "21:00"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Loyalty and Sacrifice",
+      "description": "The Galley-La foremen risk their lives to help the Straw Hats, repaying the debt for saving their company. Paulie's 'You're fired' message represents their loyalty to Iceburg and rejection of betrayal.",
+      "symbolism": "The King Bulls Sodom and Gomorrah carrying both Galley-La and Franky Family represent the unification of Water 7's forces against the World Government.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Betrayal and Manipulation",
+      "description": "Spandam's exploitation of the deal's loophole and revelation of Aokiji's involvement shows the World Government's ruthless manipulation. Robin's realization that her sacrifice was meaningless deepens her despair.",
+      "symbolism": "The Buster Call authority represents the ultimate power the World Government wields and their willingness to use it without conscience.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Determination Against Overwhelming Odds",
+      "description": "Both Luffy fighting thousands of Marines alone and the Straw Hats battling through Enies Lobby's forces demonstrate unwavering determination. No amount of opposition will stop them from rescuing Robin.",
+      "symbolism": "Luffy running upward on falling Marines symbolizes his ability to overcome any obstacle through sheer willpower and creativity.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Intense", "Dramatic", "Action-Packed", "Comedic"],
+  "characterSpotlights": [
+    {
+      "characterId": "nami",
+      "role": "Featured combatant",
+      "development": "Nami tests her upgraded Perfect Clima-Tact for the first time, revealing both its devastating power and the challenge of controlling Usopp's overpowered design.",
+      "keyActions": [
+        "Uses Thunderbolt Tempo with Perfect Clima-Tact",
+        "Accidentally hits allies with uncontrolled lightning",
+        "Realizes the weapon's power is beyond her current control"
+      ],
+      "quotes": ["Thunderbolt Tempo!"]
+    },
+    {
+      "characterId": "paulie",
+      "role": "Supporting ally",
+      "development": "Paulie leads the Galley-La foremen in supporting the Straw Hats, settling the score with CP9 for their betrayal of the company.",
+      "keyActions": [
+        "Arrives riding Sodom the King Bull",
+        "Delivers 'You're fired' message for CP9",
+        "Fights the Watchdog Unit of the Law",
+        "Enables the Straw Hats to advance toward CP9"
+      ],
+      "quotes": ["You're fired!"]
+    },
+    {
+      "characterId": "spandam",
+      "role": "Antagonist",
+      "development": "Spandam reveals his manipulative nature and the extent of his planning, showing how he exploited both Robin's deal and Aokiji's information to execute his scheme.",
+      "keyActions": [
+        "Reveals Aokiji gave him the Buster Call authority",
+        "Explains the loophole in Robin's deal",
+        "Punches Robin for questioning him",
+        "Gloats about his manipulation of events"
+      ],
+      "quotes": ["Admiral Aokiji informed me that Nico Robin was on her way to Water 7, and he entrusted me with the Buster Call!"]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Protagonist",
+      "development": "Luffy fights alone against overwhelming Marine forces, demonstrating his determination to rescue Robin regardless of the odds. His resourcefulness and fighting spirit shine through impossible situations.",
+      "keyActions": [
+        "Fights thousands of Marines simultaneously",
+        "Escapes cliff collapse by running on falling Marines",
+        "Declares determination to rescue Robin",
+        "Confronts Blueno"
+      ],
+      "quotes": ["I'll get Robin out safely, no matter what!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime added extended scenes of Luffy being cornered on the cliff and Marines stepping on his fingers, which were not as detailed in the manga.",
+      "episodeTimestamp": "13:30",
+      "mangaReference": "Chapter 381-382",
+      "type": "ANIME_EXPANSION"
+    },
+    {
+      "difference": "The anime showed more comedic interactions between Zoro and Sanji bickering during the battle than the manga depicted.",
+      "episodeTimestamp": "10:30",
+      "mangaReference": "Chapter 381",
+      "type": "ANIME_EXPANSION"
+    },
+    {
+      "difference": "Animation error: Sogeking is shown wearing his riding harness despite never boarding the King Bull.",
+      "episodeTimestamp": "19:30",
+      "mangaReference": "Chapter 381",
+      "type": "ANIMATION_ERROR"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episodes 268 and 269 were originally aired together as a television special on June 25, 2006.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_268",
+          "title": "Episode 268 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode marks the debut of Nami's Perfect Clima-Tact in actual combat, though Usopp created it in episode 257.",
+      "category": "ITEMS",
+      "sources": []
+    },
+    {
+      "fact": "The Watchdog Unit of the Law, despite being elite guards, are easily defeated by the Galley-La foremen, demonstrating the shipwrights' combat prowess.",
+      "category": "FIGHTS",
+      "sources": []
+    },
+    {
+      "fact": "This episode adapts Chapter 381 (pages 2-18) and Chapter 382 (pages 2-8) of the manga.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_268",
+          "title": "Episode 268 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode's eyecatcher features Sanji and Zoro, highlighting their ongoing rivalry that's prominently displayed throughout the episode.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "Adventure World by Delicatessen was the last ending theme used in One Piece until 2023, a gap of 17 years. Episode 268 was one of the last episodes to feature this ending.",
+      "category": "MUSIC",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
