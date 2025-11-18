@@ -1,0 +1,109 @@
+[
+  {
+    "name": {
+      "english": "Monkey D. Luffy",
+      "japanese": "モンキー・D・ルフィ",
+      "romanized": "Monkī Dī Rufi"
+    },
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [1],
+    "keyMoments": [
+      {
+        "episodeNumber": 1,
+        "eventId": "ep001-event-001",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Luffy's First Appearance",
+        "description": "Luffy emerges from a barrel and introduces himself to Koby, declaring his dream to become King of the Pirates.",
+        "significance": "First introduction of the series protagonist and establishment of his core dream.",
+        "timestamp": "14:32",
+        "quote": "I'm gonna be King of the Pirates!"
+      },
+      {
+        "episodeNumber": 1,
+        "eventId": "ep001-event-002",
+        "momentType": "TECHNIQUE_DEBUT",
+        "title": "First Use of Gomu Gomu no Pistol",
+        "description": "Luffy demonstrates his Devil Fruit powers by stretching his arm to punch Alvida.",
+        "significance": "First display of Luffy's signature fighting ability.",
+        "timestamp": "18:45",
+        "quote": "Gomu Gomu no... Pistol!"
+      }
+    ],
+    "status": "ALIVE",
+    "statusHistory": [
+      {
+        "status": "ALIVE",
+        "episodeStart": 1,
+        "episodeEnd": "present"
+      }
+    ],
+    "occupations": ["Pirate", "Captain"],
+    "affiliations": [
+      {
+        "crewId": "straw-hat-pirates",
+        "role": "Captain",
+        "episodeJoined": 1,
+        "episodeLeft": null
+      }
+    ],
+    "birthday": "May 5",
+    "age": 17,
+    "height": "172 cm",
+    "bloodType": "F",
+    "bounties": [
+      {
+        "amount": 0,
+        "episodeRevealed": 1,
+        "reason": "Not yet a wanted pirate"
+      }
+    ],
+    "devilFruitProgression": {
+      "fruitId": "gomu-gomu-no-mi",
+      "episodeConsumed": 1,
+      "episodeLost": null,
+      "awakeningEpisode": null
+    },
+    "abilities": [
+      {
+        "abilityName": "Gomu Gomu no Pistol",
+        "abilityType": "DEVIL_FRUIT",
+        "episodeFirstUsed": 1,
+        "description": "Luffy stretches his arm back and launches a powerful punch."
+      }
+    ],
+    "relationships": [
+      {
+        "targetCharacterId": "koby",
+        "relationshipType": "FRIEND",
+        "description": "Luffy befriends Koby and encourages him to pursue his dream of becoming a Marine.",
+        "episodeEstablished": 1,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 1,
+            "description": "Luffy and Koby meet when Luffy emerges from the barrel on Alvida's ship.",
+            "newRelationshipType": "FRIEND"
+          }
+        ]
+      }
+    ],
+    "reveals": [
+      {
+        "infoType": "DREAM",
+        "information": "Wants to become King of the Pirates",
+        "episodeRevealed": 1,
+        "severity": "MINOR"
+      },
+      {
+        "infoType": "ABILITY",
+        "information": "Ate the Gomu Gomu no Mi Devil Fruit",
+        "episodeRevealed": 1,
+        "severity": "MAJOR"
+      }
+    ],
+    "voiceActors": {
+      "japanese": "Mayumi Tanaka",
+      "english": "Colleen Clinkenbeard"
+    }
+  }
+]

@@ -1,0 +1,156 @@
+{
+  "episodeNumber": 1,
+  "episodeTitle": "I'm Luffy! The Man Who's Gonna Be King of the Pirates!",
+  "description": "A spoiler-free 2-3 sentence description of what happens in this episode.",
+  "airDate": "1999-10-20",
+  "airDateJapan": "1999-10-20",
+  "airDateUS": "2004-09-18",
+  "arcName": "Romance Dawn",
+  "sagaName": "East Blue Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Are!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [1, 47]
+  },
+  "endingSong": {
+    "title": "Memories",
+    "artist": "Maki Otsuki",
+    "episodeRange": [1, 30]
+  },
+  "credits": {
+    "animationDirector": "Director Name",
+    "keyAnimators": ["Animator 1", "Animator 2"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep001-event-001",
+      "episodeNumber": 1,
+      "timestamp": "14:32",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Luffy's First Appearance",
+      "description": "Monkey D. Luffy emerges from a barrel, introducing himself to Koby and declaring his dream to become King of the Pirates.",
+      "significance": "Establishes the protagonist and the series' central goal.",
+      "characterIds": ["luffy", "koby"],
+      "locationIds": ["alvida-ship"],
+      "quotes": [
+        {
+          "text": "I'm gonna be King of the Pirates!",
+          "speaker": "Luffy",
+          "context": "Luffy's first declaration of his dream"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://example.com/luffy-barrel.jpg",
+          "description": "Luffy emerging from the barrel",
+          "credit": "Toei Animation"
+        }
+      ],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [100, 312, 405],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep001-event-002",
+      "episodeNumber": 1,
+      "timestamp": "18:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Gomu Gomu no Pistol Debut",
+      "description": "Luffy uses his signature stretching punch for the first time, demonstrating his Devil Fruit powers.",
+      "significance": "First display of Luffy's fighting abilities and Devil Fruit powers.",
+      "characterIds": ["luffy"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["luffy", "koby", "alvida"],
+    "locations": ["alvida-ship", "shells-town"],
+    "devilFruits": ["gomu-gomu-no-mi"],
+    "crews": ["alvida-pirates"],
+    "abilities": ["gomu-gomu-no-pistol"]
+  },
+  "episodeRelationships": {
+    "setupFor": [2, 3],
+    "payoffFrom": [],
+    "thematicLinks": [45, 312]
+  },
+  "quotes": [
+    {
+      "text": "I'm gonna be King of the Pirates!",
+      "speaker": "Luffy",
+      "context": "Opening declaration",
+      "timestamp": "14:32"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Dreams and Ambition",
+      "description": "The episode establishes Luffy's unwavering dream to become Pirate King despite the dangers.",
+      "symbolism": "The barrel represents Luffy emerging into the world, ready to chase his dream.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Adventurous", "Inspirational", "Comedic"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist introduction",
+      "development": "We meet Luffy and learn about his dream, his Devil Fruit powers, and his carefree personality.",
+      "keyActions": [
+        "Emerges from barrel",
+        "Saves Koby from Alvida",
+        "Declares his dream to become Pirate King"
+      ],
+      "quotes": ["I'm gonna be King of the Pirates!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime added a scene of Luffy in the barrel during the storm that wasn't in the manga.",
+      "episodeTimestamp": "02:15",
+      "mangaReference": "Chapter 1",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode aired on October 20, 1999, the same day as the manga's chapter 100 release.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_1",
+          "title": "Episode 1 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-01-15"
+        }
+      ]
+    },
+    {
+      "fact": "Mayumi Tanaka, Luffy's voice actress, was 44 years old when she first voiced him.",
+      "category": "VOICE_ACTING",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
