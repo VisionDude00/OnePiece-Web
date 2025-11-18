@@ -1,0 +1,479 @@
+{
+  "episodeNumber": 41,
+  "episodeTitle": "Luffy at Full Power! Nami's Courage and the Straw Hat!",
+  "episodeTitleJapanese": "ルフィ全開！ナミの決意と麦わら帽子",
+  "episodeTitleRomanized": "Rufi Zenkai! Nami no Ketsui to Mugiwara Bōshi",
+  "description": "Nami refuses Arlong's ultimatum and chooses to fight alongside her crew. Sanji dives underwater to free Luffy from cement while the crew battles Arlong's officers. Luffy emerges and begins his confrontation with Arlong.",
+  "airDate": "2000-09-13",
+  "airDateJapan": "2000-09-13",
+  "airDateUS": "2005-09-09",
+  "arcName": "Arlong Park Arc",
+  "sagaName": "East Blue Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Are!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [1, 47]
+  },
+  "endingSong": {
+    "title": "RUN! RUN! RUN!",
+    "artist": "Maki Otsuki",
+    "episodeRange": [31, 63]
+  },
+  "credits": {
+    "animationDirector": "Kōnosuke Uda",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Arlong",
+        "actor": "Jūrōta Kosugi"
+      },
+      {
+        "character": "Hatchan",
+        "actor": "Toshiyuki Morikawa"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Arlong",
+        "actor": "Chris Rager"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep041-event-001",
+      "episodeNumber": 41,
+      "timestamp": "03:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Nami Refuses Arlong's Ultimatum",
+      "description": "Arlong offers Nami an ultimatum: return as his cartographer or he will kill her village. Nami courageously refuses, choosing to fight alongside the Straw Hat crew despite the danger to the villagers.",
+      "significance": "This marks Nami's decisive break from Arlong and her commitment to trusting Luffy and the crew to save her village, demonstrating her growth from acting alone to relying on her friends.",
+      "characterIds": ["nami", "arlong"],
+      "locationIds": ["arlong-park"],
+      "quotes": [
+        {
+          "text": "I'm going to fight with them!",
+          "speaker": "Nami",
+          "context": "Nami's declaration of allegiance to the Straw Hat crew"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [37, 39, 40],
+      "payoffInEpisodes": [44],
+      "callbacksToEpisodes": [1, 9]
+    },
+    {
+      "id": "ep041-event-002",
+      "episodeNumber": 41,
+      "timestamp": "06:45",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Sanji Dives to Rescue Luffy",
+      "description": "With Luffy trapped underwater in cement, Sanji bravely dives into the pool to break the cement and free him, despite knowing he'll be at a disadvantage against the fish-men in their element.",
+      "significance": "Demonstrates Sanji's selflessness and establishes the recurring pattern of Sanji being the one who rescues Luffy from drowning throughout the series.",
+      "characterIds": ["sanji", "luffy"],
+      "locationIds": ["arlong-park"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [40],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep041-event-003",
+      "episodeNumber": 41,
+      "timestamp": "08:20",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Hatchan Pursues Sanji Underwater",
+      "description": "Hatchan regains consciousness and pursues Sanji underwater as he attempts to free Luffy from the cement, creating additional danger for the Straw Hat cook.",
+      "significance": "Adds tension to Sanji's rescue mission and demonstrates the fish-men's underwater advantage.",
+      "characterIds": ["hatchan", "sanji"],
+      "locationIds": ["arlong-park"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [40],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep041-event-004",
+      "episodeNumber": 41,
+      "timestamp": "10:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Hatchan's Takoyaki Punch",
+      "description": "Hatchan demonstrates his Takoyaki Punch technique, using his six octopus arms to punch rapidly at his opponent underwater.",
+      "significance": "First showcase of Hatchan's signature fighting technique utilizing his octopus fish-man physiology.",
+      "characterIds": ["hatchan"],
+      "locationIds": ["arlong-park"],
+      "devilFruitIds": [],
+      "quotes": [
+        {
+          "text": "Takoyaki Punch!",
+          "speaker": "Hatchan",
+          "context": "Hatchan attacks with his signature move"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep041-event-005",
+      "episodeNumber": 41,
+      "timestamp": "12:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Sanji Frees Luffy from Cement",
+      "description": "Sanji successfully breaks the cement block attached to Luffy's feet, freeing him from drowning. Nojiko helps pull Luffy to the surface.",
+      "significance": "Crucial rescue moment that allows Luffy to rejoin the battle against Arlong and represents Sanji's role as the crew's protector in water-related emergencies.",
+      "characterIds": ["sanji", "luffy", "nojiko"],
+      "locationIds": ["arlong-park"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [40],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep041-event-006",
+      "episodeNumber": 41,
+      "timestamp": "14:10",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Luffy Emerges from the Water",
+      "description": "After being freed by Sanji, Luffy launches himself out of the pool and into the air, ready to fight Arlong with renewed determination.",
+      "significance": "Marks the beginning of Luffy's direct confrontation with Arlong and demonstrates his resilience after nearly drowning.",
+      "characterIds": ["luffy"],
+      "locationIds": ["arlong-park"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [40],
+      "payoffInEpisodes": [43, 44],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep041-event-007",
+      "episodeNumber": 41,
+      "timestamp": "15:30",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "Usopp Announces Victory Over Chew",
+      "description": "Usopp appears and announces his victory against Chew, one of Arlong's top officers, demonstrating his contribution to the battle despite his fears.",
+      "significance": "Shows Usopp's growth as a warrior and contributes to the crew's overall success against the Arlong Pirates.",
+      "characterIds": ["usopp", "chew"],
+      "locationIds": ["arlong-park"],
+      "quotes": [
+        {
+          "text": "I won! I defeated Chew!",
+          "speaker": "Usopp",
+          "context": "Usopp proudly announces his victory"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [39, 40],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep041-event-008",
+      "episodeNumber": 41,
+      "timestamp": "17:00",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Zoro Battles Arlong",
+      "description": "Zoro engages Arlong in combat, attempting to break the fish-man's saw-like nose that Arlong claims is indestructible. The battle demonstrates both fighters' strength and determination.",
+      "significance": "Important battle that tests Zoro's abilities against one of the strongest enemies the crew has faced, while Zoro is still recovering from Mihawk's wounds.",
+      "characterIds": ["zoro", "arlong"],
+      "locationIds": ["arlong-park"],
+      "quotes": [
+        {
+          "text": "Your nose is indestructible? Let's test that!",
+          "speaker": "Zoro",
+          "context": "Zoro challenges Arlong's boast"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [40],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep041-event-009",
+      "episodeNumber": 41,
+      "timestamp": "18:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Arlong's Shark on Darts Attack",
+      "description": "Arlong demonstrates his devastating Shark on Darts attack, propelling himself like a torpedo at Zoro and piercing him with his saw-like nose.",
+      "significance": "First display of Arlong's signature technique and demonstrates the deadly power of fish-man physiology combined with weaponized body parts.",
+      "characterIds": ["arlong", "zoro"],
+      "locationIds": ["arlong-park"],
+      "quotes": [
+        {
+          "text": "Shark on Darts!",
+          "speaker": "Arlong",
+          "context": "Arlong launches his signature attack"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [44],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep041-event-010",
+      "episodeNumber": 41,
+      "timestamp": "19:20",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Arlong Notices Zoro's Mihawk Wounds",
+      "description": "After defeating Zoro, Arlong removes Zoro's bandages and notices the massive wounds he sustained from Dracule Mihawk, realizing Zoro has been fighting while severely injured.",
+      "significance": "Reveals to Arlong (and reinforces to viewers) the severity of Zoro's injuries from Mihawk, making his current fighting even more impressive and highlighting his dedication.",
+      "characterIds": ["arlong", "zoro"],
+      "locationIds": ["arlong-park"],
+      "quotes": [
+        {
+          "text": "These wounds... you've been fighting in this condition?",
+          "speaker": "Arlong",
+          "context": "Arlong discovers Zoro's Mihawk injuries"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [24],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [24]
+    },
+    {
+      "id": "ep041-event-011",
+      "episodeNumber": 41,
+      "timestamp": "20:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Luffy Confronts Arlong",
+      "description": "Luffy directly confronts Arlong, mocking his fish-man appearance and preparing for their climactic battle. The tension builds as the two captains face off.",
+      "significance": "Sets up the final confrontation between Luffy and Arlong that will determine Nami's freedom and the fate of Cocoyasi Village.",
+      "characterIds": ["luffy", "arlong"],
+      "locationIds": ["arlong-park"],
+      "quotes": [
+        {
+          "text": "I'm the man who'll become the Pirate King!",
+          "speaker": "Luffy",
+          "context": "Luffy declares his dream while facing Arlong"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [37, 40],
+      "payoffInEpisodes": [43, 44],
+      "callbacksToEpisodes": [1]
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["takoyaki-punch", "shark-on-darts"]
+  },
+  "episodeRelationships": {
+    "setupFor": [42, 43, 44],
+    "payoffFrom": [37, 39, 40],
+    "thematicLinks": [1, 24, 37]
+  },
+  "quotes": [
+    {
+      "text": "I'm going to fight with them!",
+      "speaker": "Nami",
+      "context": "Nami's declaration to fight alongside the Straw Hats",
+      "timestamp": "03:15"
+    },
+    {
+      "text": "I'm the man who'll become the Pirate King!",
+      "speaker": "Luffy",
+      "context": "Luffy's declaration while confronting Arlong",
+      "timestamp": "20:30"
+    },
+    {
+      "text": "Takoyaki Punch!",
+      "speaker": "Hatchan",
+      "context": "Hatchan's signature attack",
+      "timestamp": "10:30"
+    },
+    {
+      "text": "Shark on Darts!",
+      "speaker": "Arlong",
+      "context": "Arlong's devastating attack on Zoro",
+      "timestamp": "18:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Trust and Friendship",
+      "description": "Nami's decision to trust Luffy and fight alongside the crew represents her emotional breakthrough from years of isolation and self-reliance.",
+      "symbolism": "The Straw Hat represents the bond between Luffy and Nami, symbolizing trust and protection.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Sacrifice and Loyalty",
+      "description": "Sanji risks his life diving underwater to save Luffy, while Zoro continues fighting despite severe injuries from Mihawk, demonstrating the crew's willingness to sacrifice for each other.",
+      "symbolism": "The underwater rescue symbolizes the depths to which the crew will go to protect each other.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Determination Against Oppression",
+      "description": "The crew's coordinated assault on Arlong Park represents their united stand against tyranny and their determination to free Nami and her village.",
+      "symbolism": "Arlong Park as a fortress represents the seemingly insurmountable power of oppression that must be torn down.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Intense", "Heroic", "Determined", "Dramatic"],
+  "characterSpotlights": [
+    {
+      "characterId": "nami",
+      "role": "Emotional center",
+      "development": "Nami makes the crucial decision to trust her friends and fight alongside them, marking her true acceptance into the crew.",
+      "keyActions": [
+        "Refuses Arlong's ultimatum",
+        "Chooses to fight with the Straw Hats",
+        "Demonstrates courage despite fear for the villagers"
+      ],
+      "quotes": ["I'm going to fight with them!"]
+    },
+    {
+      "characterId": "sanji",
+      "role": "Rescuer and protector",
+      "development": "Sanji establishes his role as the crew member who rescues Luffy from water, risking his own safety.",
+      "keyActions": [
+        "Dives underwater to save Luffy",
+        "Battles Hatchan underwater",
+        "Successfully breaks the cement freeing Luffy"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "luffy",
+      "role": "Determined hero",
+      "development": "Despite nearly drowning, Luffy emerges ready to fight and confronts Arlong with unwavering confidence.",
+      "keyActions": [
+        "Survives being trapped underwater",
+        "Launches himself from the pool",
+        "Confronts Arlong directly"
+      ],
+      "quotes": ["I'm the man who'll become the Pirate King!"]
+    },
+    {
+      "characterId": "zoro",
+      "role": "Wounded warrior",
+      "development": "Zoro fights Arlong despite his severe injuries from Mihawk, demonstrating his incredible willpower and dedication.",
+      "keyActions": [
+        "Engages Arlong in combat",
+        "Attempts to break Arlong's nose",
+        "Continues fighting despite being pierced"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends several battle sequences and adds more dramatic tension to Sanji's underwater rescue compared to the manga.",
+      "episodeTimestamp": "06:45-12:45",
+      "mangaReference": "Chapters 88-89",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "Additional dialogue and reactions from the villagers watching the battle were added in the anime.",
+      "episodeTimestamp": "Various",
+      "mangaReference": "Chapters 88-90",
+      "type": "ANIME_ORIGINAL_DIALOGUE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode aired on September 13, 2000, and covers portions of manga chapters 88, 89, and 90.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_41",
+          "title": "Episode 41 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode has an IMDb rating of 8.1/10, reflecting its importance in the Arlong Park Arc.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://www.imdb.com/title/tt0967037/",
+          "title": "One Piece Episode 41 - IMDb",
+          "platform": "IMDb",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Sanji rescuing Luffy from water establishes a recurring pattern throughout the series where Sanji is typically the first to dive in after Luffy when he falls into the sea.",
+      "category": "CHARACTER",
+      "sources": []
+    },
+    {
+      "fact": "The ending song 'RUN! RUN! RUN!' by Maki Otsuki, who also performed the first ending theme 'Memories', features the Straw Hat crew members as children.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/RUN!_RUN!_RUN!",
+          "title": "RUN! RUN! RUN! - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
