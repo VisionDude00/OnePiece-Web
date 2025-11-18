@@ -1,0 +1,105 @@
+[
+  {
+    "name": {
+      "english": "Rocketman",
+      "japanese": "ロケットマン",
+      "romanized": "Rokettoman"
+    },
+    "locationType": "SHIP",
+    "seaRegion": "PARADISE",
+    "islandName": null,
+    "description": "A prototype sea train designed by Tom's Workers. Unlike the Puffing Tom, the Rocketman was deemed too dangerous for public use due to its uncontrollable speed and lack of reliable brakes. It was stored in Water 7 until Kokoro piloted it for the rescue mission to Enies Lobby.",
+    "episodeAppearances": [256],
+    "keyEvents": [
+      {
+        "episodeNumber": 256,
+        "eventId": "ep256-event-001",
+        "eventType": "LOCATION_DEPARTURE",
+        "title": "Rocketman Departs Water 7",
+        "description": "The Rocketman successfully departs from Water 7 and heads out to sea, carrying the Straw Hat Pirates and their allies toward Enies Lobby.",
+        "significance": "Marks the beginning of the journey to rescue Robin and Franky from CP9.",
+        "timestamp": "02:15"
+      },
+      {
+        "episodeNumber": 256,
+        "eventId": "ep256-event-003",
+        "eventType": "MAJOR_DECISION",
+        "title": "Luffy Rescues Chimney",
+        "description": "As the train accelerates rapidly, Chimney and Gonbe are thrown off but saved by Luffy.",
+        "significance": "Demonstrates the dangerous speed of the Rocketman and Luffy's quick reflexes.",
+        "timestamp": "04:30"
+      },
+      {
+        "episodeNumber": 256,
+        "eventId": "ep256-event-010",
+        "eventType": "MAJOR_DECISION",
+        "title": "Three-Way Alliance Formed",
+        "description": "Aboard the Rocketman, Luffy successfully forms an alliance between the Straw Hat Pirates, Franky Family, and Galley-La Company.",
+        "significance": "The Rocketman serves as the meeting place where former enemies unite for a common cause.",
+        "timestamp": "18:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 256,
+        "episodeEnd": null,
+        "reason": "Being used to transport the rescue party to Enies Lobby"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "zoro", "nami", "chopper", "kokoro", "chimney", "gonbe", "paulie", "zambai", "tilestone", "peepley-lulu"],
+    "relatedCrews": ["straw-hat-pirates", "franky-family", "galley-la-company"],
+    "relatedArcs": ["Water 7", "Enies Lobby"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Water 7",
+      "japanese": "ウォーターセブン",
+      "romanized": "Wōtā Sebun"
+    },
+    "locationType": "CITY",
+    "seaRegion": "PARADISE",
+    "islandName": "Water 7",
+    "description": "A city built on water, known for its shipbuilding industry. Home to Galley-La Company and the site where Tom's Workers once operated.",
+    "episodeAppearances": [256],
+    "keyEvents": [
+      {
+        "episodeNumber": 256,
+        "eventId": "ep256-event-001",
+        "eventType": "LOCATION_DEPARTURE",
+        "title": "Rocketman Departs Water 7",
+        "description": "The Rocketman leaves Water 7 to begin the rescue mission to Enies Lobby.",
+        "significance": "Marks the departure point for the alliance's rescue mission.",
+        "timestamp": "02:15"
+      },
+      {
+        "episodeNumber": 256,
+        "eventId": "ep256-event-004",
+        "eventType": "BACKSTORY_REVEAL",
+        "title": "Flashback: Franky Returns to Water 7",
+        "description": "In a flashback set four years ago, Franky returns to Water 7 to meet with Iceburg.",
+        "significance": "Provides backstory context for the Pluton blueprints and the relationship between Franky and Iceburg.",
+        "timestamp": "06:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 256,
+        "episodeEnd": null,
+        "reason": "City continues to exist after the rescue party departs"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": [],
+    "relatedCharacters": ["iceburg", "franky", "kalifa"],
+    "relatedCrews": ["galley-la-company"],
+    "relatedArcs": ["Water 7"],
+    "images": []
+  }
+]

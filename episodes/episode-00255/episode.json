@@ -1,0 +1,553 @@
+{
+  "episodeNumber": 255,
+  "episodeTitle": "Another Sea Train? Rocketman Charges Forth!",
+  "description": "Determined to save Robin, Luffy and the Straw Hats receive help from Kokoro and Iceburg, who lend them the Rocketman—an unused, uncontrollable sea train. The Franky Family joins the rescue mission as the group departs Water 7 toward Enies Lobby, while Sanji continues fighting on the Puffing Tom.",
+  "airDate": "2006-01-29",
+  "airDateJapan": "2006-01-29",
+  "airDateUS": "2012-12-29",
+  "arcName": "Water 7",
+  "sagaName": "Water 7 Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Kokoro no Chizu",
+    "artist": "BOYSTYLE",
+    "episodeRange": [207, 263]
+  },
+  "endingSong": {
+    "title": "Dear Friends",
+    "artist": "TRIPLANE",
+    "episodeRange": [246, 255]
+  },
+  "credits": {
+    "animationDirector": "Ken Koyama",
+    "director": "Ken Koyama",
+    "screenplay": "Hirohiko Kamisaka",
+    "artDirectors": ["Miyuki Sato", "Kumiko Fukuzawa"],
+    "keyAnimators": ["Kenji Yokoyama"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Kokoro",
+        "actor": "Akiko Yajima"
+      },
+      {
+        "character": "Iceburg",
+        "actor": "Koichi Yamadera"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Paulie",
+        "actor": "Tetsu Inada"
+      },
+      {
+        "character": "T Bone",
+        "actor": "Masaya Takatsuka"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Iceburg",
+        "actor": "Kenny Green"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep255-event-001",
+      "episodeNumber": 255,
+      "timestamp": "03:15",
+      "eventType": "BATTLE_PROGRESS",
+      "severity": "MINOR",
+      "title": "Sanji Fights Through Train Cars",
+      "description": "Sanji battles his way through the Puffing Tom sea train, defeating Marine guards in Cart Six. He's searching for his captured crewmates while the train speeds toward Enies Lobby.",
+      "significance": "Demonstrates Sanji's determination to rescue Robin and shows his combat prowess against multiple opponents.",
+      "characterIds": ["sanji"],
+      "locationIds": ["puffing-tom"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [254],
+      "payoffInEpisodes": [256, 257],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep255-event-002",
+      "episodeNumber": 255,
+      "timestamp": "05:30",
+      "eventType": "LOCATION_DISCOVERY",
+      "severity": "MINOR",
+      "title": "Sanji Finds Usopp and Franky",
+      "description": "Sanji discovers Usopp and Franky imprisoned in Cart Six of the Puffing Tom. This cart contains communication equipment (Den Den Mushi) that could potentially contact Nami.",
+      "significance": "Sanji locates two key captives, setting up potential rescue and alliance opportunities.",
+      "characterIds": ["sanji", "usopp", "franky"],
+      "locationIds": ["puffing-tom"],
+      "quotes": [
+        {
+          "text": "I'm here to save you!",
+          "speaker": "Sanji",
+          "context": "Sanji arriving at the prison cart"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [254],
+      "payoffInEpisodes": [256],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep255-event-003",
+      "episodeNumber": 255,
+      "timestamp": "06:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Franky Introduces Himself to Sanji",
+      "description": "Franky introduces himself to Sanji for the first time. In comedic fashion, Sanji kicks Franky before Usopp intervenes to clarify the situation.",
+      "significance": "First direct interaction between Sanji and Franky, establishing their dynamic before Franky joins the crew.",
+      "characterIds": ["sanji", "franky", "usopp"],
+      "locationIds": ["puffing-tom"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [322, 323],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep255-event-004",
+      "episodeNumber": 255,
+      "timestamp": "08:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "T Bone's Debut",
+      "description": "Marine Captain T Bone, known as 'Ship Cutter,' makes his first appearance. He hears the commotion caused by Sanji's fight and prepares to investigate by drawing his sword.",
+      "significance": "Introduction of a notable Marine officer who will later confront the Straw Hats. T Bone is characterized as an honorable and skilled swordsman.",
+      "characterIds": ["t-bone"],
+      "locationIds": ["puffing-tom"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [256, 257],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep255-event-005",
+      "episodeNumber": 255,
+      "timestamp": "10:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Luffy Declares Determination to Save Robin",
+      "description": "Despite the dangerous Aqua Laguna storm and the impossibility of sailing, Luffy declares his unwavering determination to rescue Robin from CP9 and Enies Lobby, no matter the cost.",
+      "significance": "Reaffirms Luffy's commitment to his crewmates and sets the tone for the Enies Lobby rescue arc. His determination inspires others to help.",
+      "characterIds": ["luffy", "nami", "zoro", "chopper"],
+      "locationIds": ["water-7"],
+      "quotes": [
+        {
+          "text": "I'm going to save Robin no matter what!",
+          "speaker": "Luffy",
+          "context": "Luffy's declaration despite the obstacles"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [253, 254],
+      "payoffInEpisodes": [278, 309],
+      "callbacksToEpisodes": [252]
+    },
+    {
+      "id": "ep255-event-006",
+      "episodeNumber": 255,
+      "timestamp": "12:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "The Rocketman Sea Train Revealed",
+      "description": "Kokoro leads Luffy, Zoro, and Chopper to the Brick Warehouse where they discover the Rocketman—a second sea train created by Tom's Workers. This prototype was never used publicly because its speed cannot be controlled and it cannot be stopped safely.",
+      "significance": "Introduces the vessel that will transport the Straw Hats to Enies Lobby. The Rocketman's uncontrollable nature becomes both a challenge and an advantage.",
+      "characterIds": ["kokoro", "luffy", "zoro", "chopper", "iceburg"],
+      "locationIds": ["brick-warehouse", "water-7"],
+      "devilFruitIds": [],
+      "crewIds": [],
+      "quotes": [
+        {
+          "text": "This is the Rocketman! It's a sea train that was never used because its speed can't be controlled!",
+          "speaker": "Kokoro",
+          "context": "Kokoro explaining the Rocketman's nature"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [256, 257, 258, 259, 260],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep255-event-007",
+      "episodeNumber": 255,
+      "timestamp": "14:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Iceburg Prepares the Rocketman",
+      "description": "Despite his injuries from the CP9 attack, Iceburg has already serviced the Rocketman and filled it with enough coal to last the entire journey to Enies Lobby, demonstrating his support for the rescue mission.",
+      "significance": "Shows Iceburg's dedication to helping the Straw Hats save Robin and his respect for their cause despite his own condition.",
+      "characterIds": ["iceburg", "luffy"],
+      "locationIds": ["brick-warehouse"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [253, 254],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep255-event-008",
+      "episodeNumber": 255,
+      "timestamp": "15:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Nami Brings Provisions",
+      "description": "Nami arrives at the Rocketman with two conductors carrying provisions including meat and drinks for the journey. Luffy and Zoro immediately dig in and thank her.",
+      "significance": "Demonstrates Nami's practical thinking and care for the crew, ensuring they're prepared for the dangerous journey ahead.",
+      "characterIds": ["nami", "luffy", "zoro"],
+      "locationIds": ["brick-warehouse"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep255-event-009",
+      "episodeNumber": 255,
+      "timestamp": "17:00",
+      "eventType": "CREW_JOIN",
+      "severity": "MAJOR",
+      "title": "Franky Family Joins the Rescue Mission",
+      "description": "The Franky Family members arrive and beg Luffy to let them join the mission to rescue their boss Franky. While Nami opposes, Luffy agrees immediately, allowing them to ride on King Bulls tethered to the Rocketman.",
+      "significance": "Establishes an alliance between the Straw Hats and the Franky Family, expanding the rescue force and showing Luffy's acceptance of allies who share his goals.",
+      "characterIds": ["luffy", "nami", "franky-family"],
+      "crewIds": ["straw-hat-pirates", "franky-family"],
+      "locationIds": ["brick-warehouse"],
+      "quotes": [
+        {
+          "text": "Get in!",
+          "speaker": "Luffy",
+          "context": "Luffy immediately accepting the Franky Family's help"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [254],
+      "payoffInEpisodes": [256, 257, 258],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep255-event-010",
+      "episodeNumber": 255,
+      "timestamp": "18:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Paulie Discovered Stowing Away",
+      "description": "Paulie is discovered already aboard the Rocketman, having stowed away to join the rescue mission despite his injuries from fighting CP9.",
+      "significance": "Shows Paulie's loyalty to Iceburg and his determination to help save Robin and stop CP9, despite nearly dying in the previous battles.",
+      "characterIds": ["paulie", "luffy"],
+      "locationIds": ["rocketman"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [253, 254],
+      "payoffInEpisodes": [256, 257],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep255-event-011",
+      "episodeNumber": 255,
+      "timestamp": "20:15",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MAJOR",
+      "title": "Rocketman Departs Water 7",
+      "description": "The Rocketman departs Water 7 with Kokoro as the pilot. The train carries the Straw Hats, Paulie, and the Franky Family (on King Bulls), all heading toward Enies Lobby to rescue Robin and Franky despite the raging Aqua Laguna storm.",
+      "significance": "Marks the transition from the Water 7 arc to the journey toward Enies Lobby. This is the beginning of the rescue mission that will define the arc.",
+      "characterIds": ["kokoro", "luffy", "zoro", "nami", "chopper", "paulie", "franky-family"],
+      "locationIds": ["water-7", "rocketman"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "Don't worry, Iceburg. Franky will be okay. He got hit by a Sea Train and survived!",
+          "speaker": "Kokoro",
+          "context": "Kokoro reassuring Iceburg as they depart"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [253, 254, 255],
+      "payoffInEpisodes": [256, 257, 258, 259, 260],
+      "callbacksToEpisodes": [235]
+    },
+    {
+      "id": "ep255-event-012",
+      "episodeNumber": 255,
+      "timestamp": "21:00",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Spandam Reveals Robin and Franky's Importance",
+      "description": "At Enies Lobby, Spandam congratulates himself on capturing Robin and Franky, noting they are the only two people in the world capable of resurrecting the ancient weapon Pluton—Robin can decipher Poneglyphs, and Franky possesses Pluton's blueprints.",
+      "significance": "Reveals the strategic importance of both captives and the threat they pose to the World Government. This explains CP9's desperate mission and the stakes of the rescue.",
+      "characterIds": ["spandam", "robin", "franky"],
+      "locationIds": ["enies-lobby"],
+      "quotes": [
+        {
+          "text": "These two are irreplaceable! Robin can read the Poneglyphs, and Franky has Pluton's blueprints!",
+          "speaker": "Spandam",
+          "context": "Spandam explaining his victory to Funkfreed"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [252, 253],
+      "payoffInEpisodes": [256, 257, 262],
+      "callbacksToEpisodes": [238]
+    }
+  ],
+  "debuts": {
+    "characters": ["t-bone"],
+    "locations": ["rocketman", "brick-warehouse"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [256, 257, 258],
+    "payoffFrom": [253, 254],
+    "thematicLinks": [235, 252, 278, 309]
+  },
+  "quotes": [
+    {
+      "text": "I'm going to save Robin no matter what!",
+      "speaker": "Luffy",
+      "context": "Declaring his determination to rescue Robin",
+      "timestamp": "10:00"
+    },
+    {
+      "text": "This is the Rocketman! It's a sea train that was never used because its speed can't be controlled!",
+      "speaker": "Kokoro",
+      "context": "Introducing the Rocketman to the Straw Hats",
+      "timestamp": "12:30"
+    },
+    {
+      "text": "Get in!",
+      "speaker": "Luffy",
+      "context": "Accepting the Franky Family's help immediately",
+      "timestamp": "17:00"
+    },
+    {
+      "text": "Don't worry, Iceburg. Franky will be okay. He got hit by a Sea Train and survived!",
+      "speaker": "Kokoro",
+      "context": "Reassuring Iceburg as they depart Water 7",
+      "timestamp": "20:15"
+    },
+    {
+      "text": "These two are irreplaceable! Robin can read the Poneglyphs, and Franky has Pluton's blueprints!",
+      "speaker": "Spandam",
+      "context": "Explaining why capturing Robin and Franky is critical",
+      "timestamp": "21:00"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Loyalty and Friendship",
+      "description": "The episode showcases unwavering loyalty as Luffy refuses to abandon Robin, the Franky Family fights to save their boss, and Paulie risks his life despite his injuries. Even Iceburg and Kokoro put themselves at risk to help.",
+      "symbolism": "The Rocketman's uncontrollable speed mirrors the unstoppable determination of the rescue party.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Sacrifice and Determination",
+      "description": "Multiple characters make sacrifices for the rescue mission—Iceburg works despite his injuries, Kokoro risks piloting the dangerous Rocketman, and everyone braves the Aqua Laguna storm.",
+      "symbolism": "The storm represents the overwhelming obstacles, but the crew pushes forward regardless.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Alliance and Unity",
+      "description": "Former enemies and rivals unite for a common cause. The Franky Family, previously antagonistic, joins forces with the Straw Hats. Paulie, a Galley-La foreman, allies with pirates.",
+      "symbolism": "Multiple crews riding together on the Rocketman symbolizes unity against a greater threat.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Determined", "Inspiring", "Tense", "Hopeful"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Leader and driving force",
+      "development": "Luffy's determination to save Robin galvanizes everyone around him. His immediate acceptance of the Franky Family's help shows his leadership style—trusting those who share his goals.",
+      "keyActions": [
+        "Declares determination to save Robin",
+        "Accepts the Franky Family's help without hesitation",
+        "Prepares to board the Rocketman despite the danger"
+      ],
+      "quotes": ["I'm going to save Robin no matter what!", "Get in!"]
+    },
+    {
+      "characterId": "kokoro",
+      "role": "Guide and pilot",
+      "development": "Kokoro takes decisive action to help the Straw Hats, lending them the Rocketman and volunteering to pilot it despite the danger. She shows maternal care for Franky and trust in his resilience.",
+      "keyActions": [
+        "Leads the Straw Hats to the Rocketman",
+        "Volunteers to pilot the dangerous sea train",
+        "Reassures Iceburg about Franky's safety"
+      ],
+      "quotes": ["This is the Rocketman! It's a sea train that was never used because its speed can't be controlled!", "Don't worry, Iceburg. Franky will be okay. He got hit by a Sea Train and survived!"]
+    },
+    {
+      "characterId": "iceburg",
+      "role": "Supporter",
+      "development": "Despite his severe injuries from CP9's attack, Iceburg prepares the Rocketman for the rescue mission, showing his support for the cause and his care for both Robin and Franky.",
+      "keyActions": [
+        "Services the Rocketman despite his injuries",
+        "Fills the train with enough coal for the journey",
+        "Lends the train to the Straw Hats"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "sanji",
+      "role": "Advance scout and fighter",
+      "development": "Sanji continues his solo mission on the Puffing Tom, fighting through Marine forces to locate and potentially rescue Usopp and Franky. His dedication to saving Robin drives him forward.",
+      "keyActions": [
+        "Defeats Marine guards in Cart Six",
+        "Locates Usopp and Franky",
+        "Meets Franky for the first time"
+      ],
+      "quotes": ["I'm here to save you!"]
+    },
+    {
+      "characterId": "t-bone",
+      "role": "New antagonist introduction",
+      "development": "T Bone is introduced as a Marine Captain aboard the Puffing Tom. His epithet 'Ship Cutter' and his reaction to the commotion establish him as a skilled and honorable opponent.",
+      "keyActions": [
+        "Hears the commotion from Sanji's fight",
+        "Draws his sword to investigate"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends several scenes for pacing, including Luffy's declaration and the Franky Family's plea to join. The manga presents these moments more concisely.",
+      "episodeTimestamp": "10:00-17:00",
+      "mangaReference": "Chapter 365",
+      "type": "PACING_EXTENSION"
+    },
+    {
+      "difference": "Additional animation showing the Rocketman's appearance and the warehouse interior provides more visual detail than the manga panels.",
+      "episodeTimestamp": "12:30",
+      "mangaReference": "Chapter 365",
+      "type": "VISUAL_EXPANSION"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episode 255 is the last episode to use 'Dear Friends' by TRIPLANE as the ending theme. This ending ran from episodes 246-255.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Dear_Friends",
+          "title": "Dear Friends - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-01-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode achieved TV ratings of 11.3%, ranking #3 for its broadcast period on January 29, 2006.",
+      "category": "RATINGS",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_255",
+          "title": "Episode 255 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-01-18"
+        }
+      ]
+    },
+    {
+      "fact": "The Rocketman's design, featuring a shark-like painted face, was inspired by World War II aircraft nose art.",
+      "category": "DESIGN",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Rocketman",
+          "title": "Rocketman - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-01-18"
+        }
+      ]
+    },
+    {
+      "fact": "T Bone's debut in this episode introduces a Marine officer who would later be promoted to Vice Admiral. Tragically, he was later killed by a civilian seeking the Cross Guild bounty.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/T_Bone",
+          "title": "T Bone - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-01-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode adapts parts of manga chapters 364 and 365, with the majority of content coming from chapter 365 titled 'Rocketman!!'",
+      "category": "MANGA_ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chapter_365",
+          "title": "Chapter 365 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-01-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
