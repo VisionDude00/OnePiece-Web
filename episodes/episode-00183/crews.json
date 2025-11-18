@@ -1,0 +1,100 @@
+[
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [183],
+    "captain": "luffy",
+    "members": [
+      {
+        "characterId": "luffy",
+        "role": "Captain",
+        "joinedEpisode": 1
+      },
+      {
+        "characterId": "nami",
+        "role": "Navigator",
+        "joinedEpisode": 44
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 183,
+        "eventId": "ep183-event-001",
+        "momentType": "BATTLE_START",
+        "title": "Luffy's Advantage Revealed",
+        "description": "The Straw Hat Pirates' captain proves to be Enel's natural enemy due to his rubber body's immunity to lightning.",
+        "significance": "This gives the Straw Hats a fighting chance against the seemingly invincible Enel.",
+        "timestamp": "02:30"
+      },
+      {
+        "episodeNumber": 183,
+        "eventId": "ep183-event-002",
+        "momentType": "MAJOR_DECISION",
+        "title": "Luffy Reaffirms His Dream",
+        "description": "Luffy declares to Enel that he will become King of the Pirates, refusing to join forces with the self-proclaimed god.",
+        "significance": "Reaffirms the crew's ultimate goal and Luffy's unwavering commitment to his dream.",
+        "timestamp": "04:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "reveals": []
+  },
+  {
+    "name": {
+      "english": "God's Army",
+      "japanese": "神の軍勢",
+      "romanized": "Kami no Gunzei"
+    },
+    "debutEpisode": 167,
+    "debutChapter": 254,
+    "episodeAppearances": [183],
+    "captain": "enel",
+    "members": [
+      {
+        "characterId": "enel",
+        "role": "God/Leader",
+        "joinedEpisode": 167
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 183,
+        "eventId": "ep183-event-001",
+        "momentType": "POWER_REVEAL",
+        "title": "Enel's Weakness Exposed",
+        "description": "God Enel discovers that his seemingly invincible lightning powers are completely useless against rubber.",
+        "significance": "Shatters Enel's god complex and shows that even the most powerful can have weaknesses.",
+        "timestamp": "02:30"
+      },
+      {
+        "episodeNumber": 183,
+        "eventId": "ep183-event-009",
+        "momentType": "POWER_REVEAL",
+        "title": "Deathpiea Activation",
+        "description": "Enel activates his ultimate plan to destroy all of Skypiea using the Ark Maxim's Deathpiea system.",
+        "significance": "Reveals the full extent of God's Army's destructive capabilities and genocidal intentions.",
+        "timestamp": "16:15"
+      }
+    ],
+    "status": "ACTIVE",
+    "reveals": [
+      {
+        "infoType": "PLAN",
+        "information": "God's Army's ultimate goal is to destroy Skypiea using Deathpiea before leaving for the Fairy Vearth",
+        "episodeRevealed": 183,
+        "severity": "CRITICAL"
+      },
+      {
+        "infoType": "WEAKNESS",
+        "information": "Despite their godlike leader, God's Army is vulnerable to opponents with rubber-based abilities",
+        "episodeRevealed": 183,
+        "severity": "MAJOR"
+      }
+    ]
+  }
+]

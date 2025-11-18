@@ -1,0 +1,589 @@
+{
+  "episodeNumber": 180,
+  "episodeTitle": "Showdown in the Ancient Ruins! God Eneru's Goal!",
+  "description": "Enel reveals his plan to destroy Skypiea and ascend to Fairy Vearth. After defeating Gan Fall and Robin, and easily overpowering Zoro, Enel faces Wyper who uses Seastone and a Reject Dial to temporarily stop the self-proclaimed god's heart.",
+  "airDate": "2004-02-08",
+  "airDateJapan": "2004-02-08",
+  "airDateUS": "2008-11-17",
+  "arcName": "Skypiea Arc",
+  "sagaName": "Sky Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "BON VOYAGE!",
+    "artist": "Bon-Bon Blanco",
+    "episodeRange": [169, 206]
+  },
+  "endingSong": {
+    "title": "A to Z ~ONE PIECE Edition~",
+    "artist": "ZZ",
+    "episodeRange": [168, 181]
+  },
+  "credits": {
+    "animationDirector": "Masayuki Takagi",
+    "episodeDirector": "Yukio Kaizawa",
+    "screenplay": "Junki Takegami",
+    "artDirection": ["Miyuki Sato", "Fumihiro Uchikawa"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Enel",
+        "actor": "Toshiyuki Morikawa"
+      },
+      {
+        "character": "Wyper",
+        "actor": "Masaki Aizawa"
+      },
+      {
+        "character": "Gan Fall",
+        "actor": "Joji Yanami"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Enel",
+        "actor": "J. Michael Tatum"
+      },
+      {
+        "character": "Wyper",
+        "actor": "Andrew Love"
+      },
+      {
+        "character": "Gan Fall",
+        "actor": "R. Bruce Elliott"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep180-event-001",
+      "episodeNumber": 180,
+      "timestamp": "04:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Enel Reveals Fairy Vearth Plan",
+      "description": "Enel explains his plan to destroy Skypiea and ascend to Fairy Vearth, a legendary place of infinite vearth where god is meant to reside. He states that people living in the sky is unnatural and that as God, it is his job to maintain natural order. He plans to take people with him to this infinite land.",
+      "significance": "Reveals Enel's ultimate goal and motivation for his tyrannical rule over Skypiea. Introduces the concept of Fairy Vearth which later proves to be the moon, connecting to broader One Piece lore about the moon civilizations.",
+      "characterIds": ["enel", "gan-fall", "robin", "zoro", "wyper"],
+      "locationIds": ["shandora-ruins", "upper-yard"],
+      "quotes": [
+        {
+          "text": "Fairy Vearth has a limitless amount of vearth, and according to legends from where I was born, it is where God lives.",
+          "speaker": "Enel",
+          "context": "Enel explaining his destination and motivation"
+        },
+        {
+          "text": "People living in the sky is unnatural. As God, it is my job to keep the natural order.",
+          "speaker": "Enel",
+          "context": "Enel justifying his plan to destroy Skypiea"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [167, 169, 170],
+      "payoffInEpisodes": [182, 183, 195],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep180-event-002",
+      "episodeNumber": 180,
+      "timestamp": "06:15",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Enel Plans to Destroy Skypiea",
+      "description": "Enel announces his intention to kill every Skypiean and send the island back down to the Blue Sea. He confirms that he will leave Skypiea to ascend to Fairy Vearth alone, abandoning all the inhabitants to their deaths.",
+      "significance": "Establishes the stakes of the Skypiea arc's climax. Shows Enel's absolute ruthlessness and god complex, willing to commit genocide to achieve his goals.",
+      "characterIds": ["enel", "gan-fall"],
+      "locationIds": ["shandora-ruins"],
+      "quotes": [
+        {
+          "text": "I plan to send this island back down to the Blue Seas and kill every Skypiean.",
+          "speaker": "Enel",
+          "context": "Enel revealing his genocidal plan"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [169, 170],
+      "payoffInEpisodes": [182, 183],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep180-event-003",
+      "episodeNumber": 180,
+      "timestamp": "07:45",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Gan Fall Challenges Enel",
+      "description": "Gan Fall attacks Enel, declaring that the world does not need a god. He attempts to strike Enel with his lance, but Enel effortlessly dodges and prepares to counterattack.",
+      "significance": "Shows Gan Fall's courage and determination to protect Skypiea despite knowing he is outmatched. Sets up the sequence of defeats that demonstrate Enel's overwhelming power.",
+      "characterIds": ["gan-fall", "enel"],
+      "locationIds": ["shandora-ruins"],
+      "quotes": [
+        {
+          "text": "The world does not need a god!",
+          "speaker": "Gan Fall",
+          "context": "Gan Fall attacking Enel"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [167]
+    },
+    {
+      "id": "ep180-event-004",
+      "episodeNumber": 180,
+      "timestamp": "08:20",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Enel's 30 Million Volt Attack",
+      "description": "Enel retaliates against Gan Fall with a devastating 30 million volt electrical attack, gravely injuring the former Sky Knight and rendering him unable to continue fighting.",
+      "significance": "Demonstrates the lethal power of Enel's Goro Goro no Mi abilities. Shows the voltage levels Enel can produce and their effects on opponents.",
+      "characterIds": ["enel", "gan-fall"],
+      "locationIds": ["shandora-ruins"],
+      "devilFruitIds": ["goro-goro-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep180-event-005",
+      "episodeNumber": 180,
+      "timestamp": "10:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Robin Attempts to Manipulate Enel",
+      "description": "Nico Robin tries to use her intelligence and manipulative abilities to gain an advantage over Enel, attempting to outsmart the self-proclaimed god through psychological tactics.",
+      "significance": "Shows Robin's strategic thinking and willingness to use unconventional methods. Demonstrates her courage in facing an overwhelming threat.",
+      "characterIds": ["robin", "enel"],
+      "locationIds": ["shandora-ruins"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep180-event-006",
+      "episodeNumber": 180,
+      "timestamp": "11:15",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Enel Strikes Down Robin",
+      "description": "Enel declares that he doesn't like manipulative women and strikes Robin down with a powerful lightning attack, knocking her unconscious. Her attempt to outsmart him fails completely.",
+      "significance": "Shows Enel's personality and his disdain for manipulation. Creates a pivotal moment that motivates Zoro's protective reaction and subsequent attack.",
+      "characterIds": ["enel", "robin"],
+      "locationIds": ["shandora-ruins"],
+      "devilFruitIds": ["goro-goro-no-mi"],
+      "quotes": [
+        {
+          "text": "I don't like manipulative women.",
+          "speaker": "Enel",
+          "context": "Before striking Robin with lightning"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep180-event-007",
+      "episodeNumber": 180,
+      "timestamp": "12:45",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Zoro Defends Robin and Attacks Enel",
+      "description": "Enraged by Enel's attack on Robin, Zoro defends her honor, noting that she is a woman. Provoked by Enel's actions, Zoro launches an attack against the god of Skypiea.",
+      "significance": "Demonstrates Zoro's protective nature and chivalry towards women. Shows his willingness to fight an overwhelmingly powerful opponent to defend his crewmate.",
+      "characterIds": ["zoro", "enel", "robin"],
+      "locationIds": ["shandora-ruins"],
+      "quotes": [
+        {
+          "text": "She is a woman!",
+          "speaker": "Zoro",
+          "context": "Zoro defending Robin before attacking Enel"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep180-event-008",
+      "episodeNumber": 180,
+      "timestamp": "13:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Zoro Slashes Through Enel's Logia Body",
+      "description": "Zoro manages to slash directly through Enel's body with his swords. However, due to Enel's Logia-type Devil Fruit powers, the attack is ineffective as Enel effortlessly reforms his body from pure electricity.",
+      "significance": "Demonstrates the fundamental weakness of physical attacks against Logia users. Shows Zoro's impressive skill in landing the hit, but also the futility of conventional attacks against Enel.",
+      "characterIds": ["zoro", "enel"],
+      "locationIds": ["shandora-ruins"],
+      "devilFruitIds": ["goro-goro-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep180-event-009",
+      "episodeNumber": 180,
+      "timestamp": "14:15",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Enel Defeats Zoro Through His Swords",
+      "description": "Enel grabs Zoro's swords and channels his electricity directly through the metal blades, severely electrocuting Zoro. The swordsman is defeated, unable to counter this method of attack.",
+      "significance": "Shows Enel's tactical intelligence in using Zoro's own weapons against him. Demonstrates another application of the Goro Goro no Mi's powers. Adds to the growing list of defeated opponents, emphasizing Enel's dominance.",
+      "characterIds": ["enel", "zoro"],
+      "locationIds": ["shandora-ruins"],
+      "devilFruitIds": ["goro-goro-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep180-event-010",
+      "episodeNumber": 180,
+      "timestamp": "16:00",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "CRITICAL",
+      "title": "Wyper Uses Seastone Against Enel",
+      "description": "Wyper reveals that he has Seastone bandaged to his left arm and uses it to make physical contact with Enel. The Seastone nullifies Enel's Devil Fruit abilities, draining him of his electrical powers and making him vulnerable.",
+      "significance": "First effective counter to Enel's Logia abilities in the arc. Introduces Seastone as a weapon in combat. Shows Wyper's tactical preparation and understanding of Devil Fruit weaknesses. Critical moment in the battle against Enel.",
+      "characterIds": ["wyper", "enel"],
+      "locationIds": ["shandora-ruins"],
+      "itemIds": ["seastone"],
+      "devilFruitIds": ["goro-goro-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep180-event-011",
+      "episodeNumber": 180,
+      "timestamp": "17:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "CRITICAL",
+      "title": "Wyper Uses Reject Dial on Enel",
+      "description": "With Enel weakened by Seastone, Wyper unleashes his ultimate weapon—the Reject Dial. This dial is ten times more powerful than an Impact Dial and releases devastating damage to both the target and the user. Wyper uses it despite knowing it could kill him, striking Enel with full force.",
+      "significance": "Demonstrates Wyper's ultimate sacrifice and determination to protect Shandora. Shows the destructive power of the Reject Dial. Represents the culmination of Wyper's warrior spirit and his willingness to die for his cause.",
+      "characterIds": ["wyper", "enel"],
+      "locationIds": ["shandora-ruins"],
+      "itemIds": ["reject-dial"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [173],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep180-event-012",
+      "episodeNumber": 180,
+      "timestamp": "18:45",
+      "eventType": "BATTLE_END",
+      "severity": "CRITICAL",
+      "title": "Enel Falls Unconscious",
+      "description": "The combined effect of Wyper's Seastone and Reject Dial attack causes Enel to fall to the ground, unconscious. The Reject Dial's devastating power stops Enel's heart. For a moment, it appears that the self-proclaimed god has been defeated.",
+      "significance": "Climactic moment of the episode showing that Enel can be defeated. Creates false hope for the heroes and viewers. Sets up the shocking revelation in the next episode where Enel revives himself.",
+      "characterIds": ["enel", "wyper"],
+      "locationIds": ["shandora-ruins"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [181],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep180-event-013",
+      "episodeNumber": 180,
+      "timestamp": "03:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Skypiean Children Discuss Conis and Pagaya",
+      "description": "Three Skypiean children are shown playing near Conis's house. One child comments on how nice Conis and Pagaya are, while another mentions hearing they were evil because they helped the Blue Sea Dwellers escape and disobeyed God.",
+      "significance": "Shows the divide in Skypiean society regarding Enel's rule. Demonstrates how propaganda and fear affect even children. Highlights the moral courage of Conis and Pagaya in helping the Straw Hats despite social consequences.",
+      "characterIds": ["conis", "pagaya"],
+      "locationIds": ["angel-island"],
+      "quotes": [
+        {
+          "text": "I heard they were evil because they helped the Blue Sea Dwellers escape and disobeyed God.",
+          "speaker": "Skypiean Child",
+          "context": "Children discussing Conis and Pagaya"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [168, 169],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [168]
+    },
+    {
+      "id": "ep180-event-014",
+      "episodeNumber": 180,
+      "timestamp": "15:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Flashback: Shandia's Ancient Duty",
+      "description": "A flashback shows young Wyper and other Shandia children learning about how their ancestors defended an ancient stone tablet 800 years ago. They learn that it was the will of their surviving ancestors to forever guard the message of the ancient tablet.",
+      "significance": "Provides context for Wyper's determination and the Shandia's 400-year war. Connects to the broader mystery of the Poneglyphs and the Void Century. Shows the generational burden carried by the Shandia people.",
+      "characterIds": ["wyper"],
+      "locationIds": ["shandora-ruins"],
+      "itemIds": ["poneglyph"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [189, 191, 192],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["30-million-volt-attack", "seastone-weapon-technique", "reject-dial-attack"]
+  },
+  "episodeRelationships": {
+    "setupFor": [181, 182, 183],
+    "payoffFrom": [167, 169, 170, 173],
+    "thematicLinks": [275, 278]
+  },
+  "quotes": [
+    {
+      "text": "Fairy Vearth has a limitless amount of vearth, and according to legends from where I was born, it is where God lives.",
+      "speaker": "Enel",
+      "context": "Explaining his ultimate destination",
+      "timestamp": "04:30"
+    },
+    {
+      "text": "People living in the sky is unnatural. As God, it is my job to keep the natural order.",
+      "speaker": "Enel",
+      "context": "Justifying his plan to destroy Skypiea",
+      "timestamp": "04:45"
+    },
+    {
+      "text": "The world does not need a god!",
+      "speaker": "Gan Fall",
+      "context": "Attacking Enel",
+      "timestamp": "07:45"
+    },
+    {
+      "text": "I don't like manipulative women.",
+      "speaker": "Enel",
+      "context": "Before striking Robin",
+      "timestamp": "11:15"
+    },
+    {
+      "text": "She is a woman!",
+      "speaker": "Zoro",
+      "context": "Defending Robin before attacking Enel",
+      "timestamp": "12:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Sacrifice and Determination",
+      "description": "The episode showcases multiple characters willing to sacrifice themselves against overwhelming odds. Wyper's use of the Reject Dial, knowing it could kill him, exemplifies the theme of ultimate sacrifice for one's beliefs and people.",
+      "symbolism": "The Reject Dial symbolizes the double-edged nature of power and the cost of resistance against tyranny.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Tyranny and God Complex",
+      "description": "Enel's plan to destroy Skypiea and his justification based on maintaining 'natural order' demonstrates the danger of absolute power and delusions of divinity. His treatment of others as expendable underscores the corrupting nature of unchecked authority.",
+      "symbolism": "Enel as a 'god' represents the abuse of power and the false justifications tyrants use for their actions.",
+      "culturalReferences": ["References to god complexes in mythology and literature"]
+    },
+    {
+      "theme": "Legacy and Duty",
+      "description": "The flashback to young Wyper learning about the Shandia's 800-year duty to protect the ancient tablet highlights the weight of ancestral responsibility and the burden of inherited conflict.",
+      "symbolism": "The Poneglyph represents knowledge worth protecting across generations, regardless of the cost.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Dramatic", "Desperate", "Epic"],
+  "characterSpotlights": [
+    {
+      "characterId": "enel",
+      "role": "Primary Antagonist",
+      "development": "Enel reveals the full extent of his plans, showing both his power and his complete disregard for life. His god complex is on full display as he effortlessly defeats multiple opponents.",
+      "keyActions": [
+        "Reveals Fairy Vearth plan",
+        "Announces intention to destroy Skypiea",
+        "Defeats Gan Fall with 30 million volts",
+        "Knocks out Robin",
+        "Defeats Zoro using his own swords",
+        "Falls unconscious from Wyper's attack"
+      ],
+      "quotes": [
+        "Fairy Vearth has a limitless amount of vearth, and according to legends from where I was born, it is where God lives.",
+        "People living in the sky is unnatural. As God, it is my job to keep the natural order.",
+        "I don't like manipulative women."
+      ]
+    },
+    {
+      "characterId": "wyper",
+      "role": "Heroic Warrior",
+      "development": "Wyper demonstrates his ultimate determination and tactical preparation. He reveals his hidden weapons—Seastone and the Reject Dial—and uses them despite the mortal danger to himself, embodying the warrior spirit of the Shandia.",
+      "keyActions": [
+        "Uses Seastone to nullify Enel's powers",
+        "Deploys Reject Dial against Enel",
+        "Successfully stops Enel's heart"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "zoro",
+      "role": "Defender",
+      "development": "Zoro shows his protective nature and chivalry, defending Robin after she's attacked. Despite his impressive skill in landing a hit on Enel, he learns the hard way about the limitations of physical attacks against Logia users.",
+      "keyActions": [
+        "Defends Robin's honor",
+        "Successfully slashes through Enel's body",
+        "Is defeated when Enel uses his swords against him"
+      ],
+      "quotes": ["She is a woman!"]
+    },
+    {
+      "characterId": "robin",
+      "role": "Strategist",
+      "development": "Robin attempts to use her intelligence and manipulative skills against Enel, showing her strategic thinking. However, she learns that conventional tactics don't work against someone with Enel's power and personality.",
+      "keyActions": [
+        "Attempts to manipulate Enel",
+        "Is struck down by lightning attack"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "gan-fall",
+      "role": "Courageous Elder",
+      "development": "Gan Fall demonstrates his courage and convictions by challenging Enel directly, declaring that the world doesn't need a god. Despite his defeat, he represents the moral opposition to Enel's tyranny.",
+      "keyActions": [
+        "Challenges Enel",
+        "Is gravely injured by 30 million volt attack"
+      ],
+      "quotes": ["The world does not need a god!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime episode covers approximately 2 manga chapters (274-275), with standard pacing for the Skypiea arc.",
+      "episodeTimestamp": "N/A",
+      "mangaReference": "Chapters 274-275",
+      "type": "PACING"
+    },
+    {
+      "difference": "The scene with Skypiean children discussing Conis and Pagaya may have been expanded slightly for the anime to provide additional context about the social situation in Skypiea.",
+      "episodeTimestamp": "03:00",
+      "mangaReference": "Chapter 274-275",
+      "type": "EXPANDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode aired on February 8, 2004 in Japan, during the height of the Skypiea arc's popularity.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_180",
+          "title": "Episode 180 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode achieved a TV rating of 12.8% in Japan, showing strong viewership for this pivotal Skypiea arc episode.",
+      "category": "RATINGS",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_180",
+          "title": "Episode 180 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The Reject Dial is stated to be ten times more powerful than an Impact Dial, and using it can kill the user. Wyper's willingness to use it demonstrates his complete dedication to protecting Shandora.",
+      "category": "WORLDBUILDING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chapter_275",
+          "title": "Chapter 275 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode has an IMDb rating of 8.9/10, one of the higher-rated episodes in the Skypiea arc, indicating strong fan appreciation for the battle sequences and plot development.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://www.imdb.com/title/tt1008751/",
+          "title": "Episode 180 - IMDb",
+          "platform": "IMDb",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Enel's Fairy Vearth is later revealed to be the moon, connecting to the broader One Piece lore about ancient moon civilizations that descended to earth. This episode plants the seeds for Enel's cover story adventures on the moon.",
+      "category": "FORESHADOWING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Enel",
+          "title": "Enel - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
