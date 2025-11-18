@@ -1,0 +1,573 @@
+{
+  "episodeNumber": 199,
+  "episodeTitle": "The Navy's Dragnet Closes In! The Second Member Captured!",
+  "description": "Robin and Usopp both disguise themselves to infiltrate the G-8 fortress. Usopp impersonates Inspector Shepherd at the docks but is exposed when Robin arrives as the 'real' inspector, leading to his capture alongside Zoro. Meanwhile, Luffy and Sanji are discovered by Jonathan in the kitchen, and the crew learns their ship has been relocated.",
+  "airDate": "2004-07-18",
+  "airDateJapan": "2004-07-18",
+  "airDateUS": "2011-04-19",
+  "arcName": "G-8 Arc",
+  "sagaName": "Sky Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "BON VOYAGE!",
+    "artist": "Bon-Bon Blanco",
+    "episodeRange": [169, 206]
+  },
+  "endingSong": {
+    "title": "Dreamship",
+    "artist": "Aiko Ikuta",
+    "episodeRange": [196, 206]
+  },
+  "credits": {
+    "animationDirector": "Mamoru Hosoda",
+    "screenplay": "Yoshiyuki Suga",
+    "artDirection": ["Miyuki Sato", "Fumihiro Uchikawa"],
+    "animation": "Hideaki Naniwa",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Ōtani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Vice Admiral Jonathan",
+        "actor": "Nobuo Tanaka"
+      },
+      {
+        "character": "Jessica",
+        "actor": "Yuko Kaida"
+      },
+      {
+        "character": "Drake",
+        "actor": "Eiji Takemoto"
+      },
+      {
+        "character": "Mekao",
+        "actor": "Keiichi Sonobe"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Vice Admiral Jonathan",
+        "actor": "Mark Stoddard"
+      },
+      {
+        "character": "Drake",
+        "actor": "Bryan Massey"
+      },
+      {
+        "character": "Mekao",
+        "actor": "Jerry Russell"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep199-event-001",
+      "episodeNumber": 199,
+      "timestamp": "04:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Robin Defeats Marine Officer and Takes Disguise",
+      "description": "Nico Robin encounters a marine officer in the corridors of the G-8 fortress. She quickly defeats him using her Hana Hana no Mi abilities and takes his uniform to disguise herself as 'Major Shepherd,' a visiting inspector from Marine Headquarters.",
+      "significance": "Establishes Robin's infiltration strategy and her ability to blend into the enemy base using her devil fruit powers and intelligence.",
+      "characterIds": ["robin"],
+      "locationIds": ["g8-fortress"],
+      "devilFruitIds": ["hana-hana-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [196, 197, 198],
+      "payoffInEpisodes": [200],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep199-event-002",
+      "episodeNumber": 199,
+      "timestamp": "06:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Usopp Arrives at the Docks",
+      "description": "Usopp, disguised as a marine chore boy, arrives at the naval docks where the Going Merry is being held. He surveys the area looking for their ship while trying to remain inconspicuous among the many marine vessels.",
+      "significance": "Marks Usopp's attempt to locate and potentially rescue the Going Merry from the marine fortress.",
+      "characterIds": ["usopp"],
+      "locationIds": ["g8-docks"],
+      "quotes": [
+        {
+          "text": "Now where did they put the Merry? I've got to find it before anyone notices me.",
+          "speaker": "Usopp",
+          "context": "Usopp searching for the Going Merry at the docks"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [198],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep199-event-003",
+      "episodeNumber": 199,
+      "timestamp": "08:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Usopp Meets Shipwright Mekao",
+      "description": "Usopp encounters Mekao, the marine base's shipwright, who engages him in conversation about the Going Merry. Mekao comments on the ship's condition, noting that it has received mysterious repairs and that without proper maintenance, it may not be able to sail much longer.",
+      "significance": "Foreshadows the Going Merry's deteriorating condition and references the mysterious Sky Island repairs, setting up future story developments about the ship's fate.",
+      "characterIds": ["usopp", "mekao"],
+      "locationIds": ["g8-docks"],
+      "quotes": [
+        {
+          "text": "This ship... it's had some unusual repairs. Someone cared for it, but it won't last much longer without serious work.",
+          "speaker": "Mekao",
+          "context": "Mekao's assessment of the Going Merry's condition"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [198],
+      "payoffInEpisodes": [312, 313],
+      "callbacksToEpisodes": [168]
+    },
+    {
+      "id": "ep199-event-004",
+      "episodeNumber": 199,
+      "timestamp": "10:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Drake Arrives and Questions Usopp",
+      "description": "Lieutenant Commander Drake appears at the docks and begins questioning Usopp about his presence there. Through clever interrogation, Drake tricks Usopp into revealing information that exposes his true identity as a pirate.",
+      "significance": "Demonstrates Drake's competence as a marine officer and marks the beginning of Usopp's capture, showing how even the Straw Hats' deception can be uncovered.",
+      "characterIds": ["drake", "usopp"],
+      "locationIds": ["g8-docks"],
+      "quotes": [
+        {
+          "text": "You're not a regular chore boy, are you? Your story doesn't add up.",
+          "speaker": "Drake",
+          "context": "Drake beginning to suspect Usopp's true identity"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep199-event-005",
+      "episodeNumber": 199,
+      "timestamp": "12:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Usopp Impersonates Inspector Shepherd",
+      "description": "Cornered by Drake's questioning and facing capture, Usopp makes a bold decision to claim he is actually Captain Usopp, the Special Inspector from Marine Headquarters. He confidently declares this new identity to avoid immediate arrest.",
+      "significance": "Shows Usopp's quick thinking and ability to improvise under pressure, temporarily turning his disadvantage into an opportunity.",
+      "characterIds": ["usopp", "drake"],
+      "locationIds": ["g8-docks"],
+      "quotes": [
+        {
+          "text": "You're mistaken! I am Captain Usopp, Special Inspector from Marine Headquarters!",
+          "speaker": "Usopp",
+          "context": "Usopp's desperate attempt to avoid capture by claiming to be Inspector Shepherd"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep199-event-006",
+      "episodeNumber": 199,
+      "timestamp": "14:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Usopp Brought Before Jonathan",
+      "description": "Drake escorts 'Inspector Shepherd' (Usopp in disguise) to Vice Admiral Jonathan's office. Jonathan welcomes who he believes is the inspector from headquarters, and Usopp must maintain his deception while under the scrutiny of one of the Navy's most intelligent commanders.",
+      "significance": "Creates a tense situation where Usopp must use his wit to fool Jonathan, showcasing the strategic battle between the two tacticians.",
+      "characterIds": ["usopp", "jonathan", "drake"],
+      "locationIds": ["g8-fortress"],
+      "quotes": [
+        {
+          "text": "Welcome, Inspector Shepherd. We've been expecting you from headquarters.",
+          "speaker": "Jonathan",
+          "context": "Jonathan greeting who he believes is the real Inspector Shepherd"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep199-event-007",
+      "episodeNumber": 199,
+      "timestamp": "16:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Robin Arrives as the 'Real' Inspector Shepherd",
+      "description": "As Usopp struggles to maintain his disguise as Inspector Shepherd before Jonathan, Nico Robin enters the office dressed as the real Major Shepherd. She perfectly plays the role of the visiting inspector, completely undermining Usopp's cover story and leaving him exposed.",
+      "significance": "This is a pivotal moment that demonstrates Robin's strategic thinking and willingness to sacrifice Usopp's freedom to maintain her own cover. It also shows the crew operating independently with conflicting objectives.",
+      "characterIds": ["robin", "usopp", "jonathan"],
+      "locationIds": ["g8-fortress"],
+      "quotes": [
+        {
+          "text": "I apologize for my delay, Vice Admiral. I am Major Shepherd from Marine Headquarters.",
+          "speaker": "Robin",
+          "context": "Robin arriving and claiming to be the real Inspector Shepherd, exposing Usopp"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [200],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep199-event-008",
+      "episodeNumber": 199,
+      "timestamp": "17:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Usopp Captured and Imprisoned with Zoro",
+      "description": "With his deception exposed by Robin's arrival, Usopp is arrested by the marines and thrown into the brig. He is placed in the same cell as Roronoa Zoro, making him the second Straw Hat to be captured by the G-8 forces.",
+      "significance": "Increases the stakes for the crew's escape as now two members are imprisoned. This also sets up the 'Condoriano' joke that will occur in the next episode.",
+      "characterIds": ["usopp", "zoro"],
+      "locationIds": ["g8-brig"],
+      "quotes": [
+        {
+          "text": "Usopp! What are you doing here? Did you get caught too?",
+          "speaker": "Zoro",
+          "context": "Zoro's reaction when Usopp is thrown into his cell"
+        },
+        {
+          "text": "Robin sold me out! She pretended to be the inspector I was impersonating!",
+          "speaker": "Usopp",
+          "context": "Usopp explaining his capture to Zoro"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [197],
+      "payoffInEpisodes": [200],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep199-event-009",
+      "episodeNumber": 199,
+      "timestamp": "19:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Luffy and Sanji Discovered in the Kitchen",
+      "description": "Luffy and Sanji, who have been masquerading as the famous Marley Brothers chefs, are discovered by Jonathan after a small incident in the kitchen. Their cover is blown, and Jonathan realizes they are members of the Straw Hat crew.",
+      "significance": "Eliminates another disguise strategy and forces Luffy and Sanji to flee, increasing the pressure on the remaining free crew members.",
+      "characterIds": ["luffy", "sanji", "jonathan", "jessica"],
+      "locationIds": ["g8-kitchen"],
+      "quotes": [
+        {
+          "text": "So you're not the Marley Brothers after all. Straw Hat Luffy, I presume?",
+          "speaker": "Jonathan",
+          "context": "Jonathan confronting Luffy and Sanji after discovering their true identities"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [197, 198],
+      "payoffInEpisodes": [200],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep199-event-010",
+      "episodeNumber": 199,
+      "timestamp": "21:00",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "The Going Merry Has Been Moved",
+      "description": "The Straw Hats discover that their ship, the Going Merry, has been relocated to a different location within the fortress. This complicates their escape plans as they must now find the new location while avoiding capture.",
+      "significance": "Adds another obstacle to the crew's escape from G-8 and demonstrates Jonathan's tactical prowess in staying one step ahead of the pirates.",
+      "characterIds": ["robin", "usopp"],
+      "locationIds": ["g8-fortress"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [200, 201],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep199-event-011",
+      "episodeNumber": 199,
+      "timestamp": "22:30",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MINOR",
+      "title": "Jonathan's Strategic Planning",
+      "description": "Vice Admiral Jonathan reviews the situation with his officers, analyzing the Straw Hats' movements and planning his next moves. He demonstrates his chess-like approach to warfare, treating the fortress infiltration as a strategic game.",
+      "significance": "Establishes Jonathan as an intelligent antagonist who relies on tactics rather than brute force, making him a unique challenge for the Straw Hats.",
+      "characterIds": ["jonathan", "drake"],
+      "locationIds": ["g8-fortress"],
+      "quotes": [
+        {
+          "text": "The Straw Hats are scattered throughout the base. Now we just need to close the net carefully, piece by piece.",
+          "speaker": "Jonathan",
+          "context": "Jonathan planning his strategy to capture all the Straw Hats"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [200, 201, 202],
+      "callbacksToEpisodes": [196]
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [200, 201, 202],
+    "payoffFrom": [196, 197, 198],
+    "thematicLinks": [312, 313]
+  },
+  "quotes": [
+    {
+      "text": "You're mistaken! I am Captain Usopp, Special Inspector from Marine Headquarters!",
+      "speaker": "Usopp",
+      "context": "Usopp's desperate attempt to avoid capture",
+      "timestamp": "12:00"
+    },
+    {
+      "text": "I apologize for my delay, Vice Admiral. I am Major Shepherd from Marine Headquarters.",
+      "speaker": "Robin",
+      "context": "Robin arriving and claiming to be the real Inspector Shepherd",
+      "timestamp": "16:30"
+    },
+    {
+      "text": "Robin sold me out! She pretended to be the inspector I was impersonating!",
+      "speaker": "Usopp",
+      "context": "Usopp explaining his capture to Zoro",
+      "timestamp": "17:45"
+    },
+    {
+      "text": "The Straw Hats are scattered throughout the base. Now we just need to close the net carefully, piece by piece.",
+      "speaker": "Jonathan",
+      "context": "Jonathan planning his strategy to capture all the Straw Hats",
+      "timestamp": "22:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Deception and Intelligence",
+      "description": "The episode showcases multiple layers of deception with Usopp and Robin both using disguises, and Jonathan using strategic thinking to outmaneuver them.",
+      "symbolism": "The Inspector Shepherd disguise represents how appearances can be manipulated, with both Usopp and Robin claiming the same false identity for different purposes.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Individual vs. Collective Goals",
+      "description": "Robin's decision to expose Usopp to maintain her own cover demonstrates the challenge of coordinating independent actions toward a common goal.",
+      "symbolism": "The separated crew members operating with conflicting strategies symbolizes the difficulty of teamwork when communication is limited.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Wit Over Strength",
+      "description": "This episode emphasizes intellectual battles over physical ones, with Jonathan, Usopp, and Robin all relying on strategy and deception rather than combat.",
+      "symbolism": "Jonathan's chess hobby directly represents his strategic approach to capturing the Straw Hats.",
+      "culturalReferences": ["Chess as metaphor for tactical warfare"]
+    }
+  ],
+  "emotionalTone": ["Tense", "Strategic", "Comedic", "Suspenseful"],
+  "characterSpotlights": [
+    {
+      "characterId": "usopp",
+      "role": "Comedic infiltrator caught in his own lies",
+      "development": "Usopp demonstrates his quick thinking and ability to improvise, but also shows the consequences when his deception fails. Despite being captured, his resourcefulness keeps him alive.",
+      "keyActions": [
+        "Disguises as marine chore boy to find the Going Merry",
+        "Meets Mekao and learns about the ship's condition",
+        "Impersonates Inspector Shepherd when cornered by Drake",
+        "Maintains the deception before Jonathan",
+        "Exposed by Robin's arrival as the 'real' inspector",
+        "Captured and imprisoned with Zoro"
+      ],
+      "quotes": ["You're mistaken! I am Captain Usopp, Special Inspector from Marine Headquarters!", "Robin sold me out! She pretended to be the inspector I was impersonating!"]
+    },
+    {
+      "characterId": "robin",
+      "role": "Strategic infiltrator",
+      "development": "Robin shows her willingness to make difficult tactical decisions, even if it means sacrificing a crewmate's freedom temporarily for the greater mission of maintaining her cover.",
+      "keyActions": [
+        "Defeats marine officer and takes his uniform",
+        "Assumes identity of Major Shepherd",
+        "Arrives at Jonathan's office as the 'real' inspector",
+        "Exposes Usopp's deception",
+        "Maintains her cover to continue gathering intelligence"
+      ],
+      "quotes": ["I apologize for my delay, Vice Admiral. I am Major Shepherd from Marine Headquarters."]
+    },
+    {
+      "characterId": "jonathan",
+      "role": "Intelligent antagonist",
+      "development": "Jonathan continues to prove himself as a formidable tactical opponent who uses intelligence and strategy rather than brute force to corner the Straw Hats.",
+      "keyActions": [
+        "Welcomes the supposed Inspector Shepherd",
+        "Observes the interactions carefully",
+        "Discovers Luffy and Sanji's true identities",
+        "Plans systematic capture of all crew members",
+        "Demonstrates chess-like strategic thinking"
+      ],
+      "quotes": ["Welcome, Inspector Shepherd. We've been expecting you from headquarters.", "The Straw Hats are scattered throughout the base. Now we just need to close the net carefully, piece by piece."]
+    },
+    {
+      "characterId": "zoro",
+      "role": "Imprisoned crewmate",
+      "development": "Already captured in a previous episode, Zoro now has company in his cell as Usopp joins him in imprisonment.",
+      "keyActions": [
+        "Remains imprisoned in the brig",
+        "Greets Usopp when he arrives",
+        "Learns about Robin's deception"
+      ],
+      "quotes": ["Usopp! What are you doing here? Did you get caught too?"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The entire G-8 Arc is anime-original filler content that does not appear in the manga. The manga goes directly from the end of Skypiea to the Long Ring Long Land Arc.",
+      "episodeTimestamp": "00:00-24:00",
+      "mangaReference": "No manga equivalent - anime original arc",
+      "type": "ANIME_ORIGINAL_ARC"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episode 199 is part of the G-8 Arc, which is widely considered the best filler arc in One Piece anime history due to its high-quality writing, character consistency, and seamless integration with the canonical story.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/G-8_Arc",
+          "title": "G-8 Arc - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The G-8 Arc takes place on Navarone Island, which is named after the 1957 novel 'The Guns of Navarone' by Alistair MacLean, which was later adapted into a 1961 film. Like its namesake, it features a massive, supposedly impenetrable military fortress.",
+      "category": "CULTURAL_REFERENCE",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Navarone_Island",
+          "title": "Navarone Island - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Dreamship by Aiko Ikuta is the only One Piece ending theme to be used exclusively during a filler arc, playing for episodes 196-206 of the G-8 Arc.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Dreamship",
+          "title": "Dreamship - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Vice Admiral Jonathan shares his Japanese voice actor (Nobuo Tanaka) and physical features (muttonchop sideburns) with the canonical character X Drake, though they are completely different characters.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Drake_(Non-Canon)",
+          "title": "Drake (Non-Canon) - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode's eyecatcher features Luffy and Usopp, highlighting their roles in this episode's events.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_199",
+          "title": "Episode 199 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode sets up the famous 'Condoriano' meme that appears in Episode 200, where Usopp convinces marines that the real Inspector Shepherd is actually their crewmate 'Con D. Oriano.'",
+      "category": "FAN_CULTURE",
+      "sources": [
+        {
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/YMMV/OnePieceGEightArc",
+          "title": "One Piece G-8 Arc - TV Tropes",
+          "platform": "TV Tropes",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode aired with a TV rating of 9.9% in Japan, ranking 9th for its timeslot.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_199",
+          "title": "Episode 199 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

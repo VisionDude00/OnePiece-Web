@@ -1,0 +1,639 @@
+{
+  "episodeNumber": 197,
+  "episodeTitle": "Sanji the Cook! Showing His Real Worth at the Marine Dining-room!",
+  "episodeTitleJapanese": "料理人サンジ！海軍食堂で真価発揮！",
+  "episodeTitleRomanized": "Ryōrinin Sanji! Kaigun Shokudō de Shinka Hakki!",
+  "description": "Sanji and Luffy infiltrate the Marine base's kitchen disguised as famous chefs from Mary Geoise, where Sanji impresses the head chef Jessica with his superior culinary skills and philosophy about not wasting food. Meanwhile, Nami continues her undercover operation as a Marine, and Zoro falls into the sea after reaching his swords, getting captured by Jonathan's forces.",
+  "airDate": "2004-07-04",
+  "airDateJapan": "2004-07-04",
+  "airDateUS": "2011-04-19",
+  "arcName": "G-8",
+  "sagaName": "Sky Island Saga",
+  "animationQuality": "STANDARD",
+  "isFiller": true,
+  "openingSong": {
+    "title": "BON VOYAGE!",
+    "artist": "Bon-Bon Blanco",
+    "episodeRange": [169, 206]
+  },
+  "endingSong": {
+    "title": "Dreamship",
+    "artist": "Aiko Ikuta",
+    "episodeRange": [196, 206]
+  },
+  "credits": {
+    "director": "Ken Koyama",
+    "screenplay": "Michiru Shimada",
+    "animationDirector": "Naoki Tate",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Vice Admiral Jonathan",
+        "actor": "Nobuo Tanaka"
+      },
+      {
+        "character": "Jessica",
+        "actor": "Kazue Ikura"
+      },
+      {
+        "character": "Lieutenant Commander Drake",
+        "actor": "Takahiro Yoshimizu"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Vice Admiral Jonathan",
+        "actor": "Mark Stoddard"
+      },
+      {
+        "character": "Jessica",
+        "actor": "Jennifer Seman"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep197-event-001",
+      "episodeNumber": 197,
+      "timestamp": "03:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Nami Places Zoro's Swords Out of Reach",
+      "description": "While operating undercover as a Marine, Nami encounters Zoro and strategically places his three swords in a location far from where he is, preventing him from easily accessing them and potentially blowing their cover by drawing attention.",
+      "significance": "This tactical move shows Nami's intelligence in preventing Zoro from causing a commotion, but ironically leads to his capture when he falls into the sea trying to retrieve them.",
+      "characterIds": ["nami", "zoro"],
+      "locationIds": ["g-8-base"],
+      "quotes": [
+        {
+          "text": "If I leave those swords where he can reach them, he'll cause a scene for sure.",
+          "speaker": "Nami",
+          "context": "Nami's reasoning for hiding Zoro's swords"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [196],
+      "payoffInEpisodes": [197],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep197-event-002",
+      "episodeNumber": 197,
+      "timestamp": "05:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "The Marley Brothers Arrival is Expected",
+      "description": "Word spreads through the G-8 base that two famous chefs from Mary Geoise, the Marley Brothers, are expected to arrive at the kitchen to demonstrate their legendary culinary skills to the base's cooking staff.",
+      "significance": "Sets up the perfect opportunity for Sanji and Luffy to infiltrate the kitchen by impersonating these renowned chefs.",
+      "characterIds": ["jessica"],
+      "locationIds": ["g-8-base", "g-8-kitchen"],
+      "quotes": [
+        {
+          "text": "The famous Marley Brothers from Mary Geoise are coming to show us how real chefs work.",
+          "speaker": "Marine Cook",
+          "context": "Announcing the expected arrival of the celebrity chefs"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [197],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep197-event-003",
+      "episodeNumber": 197,
+      "timestamp": "07:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Nami Misdirects the Real Marley Brothers",
+      "description": "When the actual Marley Brothers arrive at the G-8 base, Nami cleverly gives them incorrect directions to the kitchen, causing them to become lost in the massive, maze-like fortress. This allows Sanji and Luffy to take their place.",
+      "significance": "Demonstrates Nami's quick thinking and strategic mind, creating the perfect opportunity for her crewmates to infiltrate the kitchen undetected.",
+      "characterIds": ["nami", "marley-brothers"],
+      "locationIds": ["g-8-base"],
+      "quotes": [
+        {
+          "text": "Oh, the kitchen? Just go down that hall, take three lefts, two rights, and you'll find it!",
+          "speaker": "Nami",
+          "context": "Nami deliberately giving wrong directions"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [197],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep197-event-004",
+      "episodeNumber": 197,
+      "timestamp": "09:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Sanji and Luffy Enter the Kitchen as the Marley Brothers",
+      "description": "Sanji and Luffy successfully infiltrate the Marine kitchen, being mistaken for the famous Marley Brothers from headquarters. They are welcomed by Jessica and the cooking staff, though Jessica greets them with a cold, skeptical demeanor.",
+      "significance": "Marks the beginning of one of the most memorable moments in the G-8 arc, setting up Sanji's culinary showdown with the Marine cooks.",
+      "characterIds": ["sanji", "luffy", "jessica", "billy"],
+      "locationIds": ["g-8-kitchen"],
+      "quotes": [
+        {
+          "text": "So you're the famous Marley Brothers from Mary Geoise? Let's see if you live up to your reputation.",
+          "speaker": "Jessica",
+          "context": "Jessica's cold greeting to who she thinks are the Marley Brothers"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [197],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep197-event-005",
+      "episodeNumber": 197,
+      "timestamp": "11:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Jessica Insults Sanji's Cooking Philosophy",
+      "description": "When Sanji begins working in the kitchen, Jessica criticizes his approach and insults his cooking philosophy, questioning whether he truly understands what it means to be a professional chef. This triggers Sanji's competitive spirit.",
+      "significance": "This insult, despite coming from a woman Sanji is initially infatuated with, provokes him to demonstrate his true skills and philosophy about cooking from the heart, setting up his character moment.",
+      "characterIds": ["sanji", "jessica"],
+      "locationIds": ["g-8-kitchen"],
+      "quotes": [
+        {
+          "text": "Is this really the best you can do? I expected more from chefs with your supposed reputation.",
+          "speaker": "Jessica",
+          "context": "Jessica criticizing Sanji's initial work"
+        },
+        {
+          "text": "You insult my cooking? Then let me show you what real cooking means!",
+          "speaker": "Sanji",
+          "context": "Sanji's response to Jessica's criticism"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [197],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep197-event-006",
+      "episodeNumber": 197,
+      "timestamp": "14:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Sanji Demonstrates His Superior Culinary Skills",
+      "description": "Motivated to prove himself, Sanji showcases his exceptional cooking abilities to the Marine kitchen staff. He prepares dishes with extraordinary skill, speed, and artistry, leaving all the Marine cooks in awe of his talent.",
+      "significance": "Major character moment for Sanji that demonstrates his mastery as a chef, one of his core character traits. This scene is one of the highlights of the G-8 arc and shows Sanji's dedication to his craft.",
+      "characterIds": ["sanji", "jessica", "billy"],
+      "locationIds": ["g-8-kitchen"],
+      "quotes": [
+        {
+          "text": "Cooking isn't just about following recipes. It's about putting your heart into every dish!",
+          "speaker": "Sanji",
+          "context": "Sanji explaining his cooking philosophy while demonstrating his skills"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [20, 26, 30]
+    },
+    {
+      "id": "ep197-event-007",
+      "episodeNumber": 197,
+      "timestamp": "16:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Sanji Teaches About Not Wasting Food",
+      "description": "Sanji passionately teaches Jessica and the Marine cooks about the importance of not wasting food. He explains that a good chef respects all ingredients and should never waste anything just to use only the finest parts, demonstrating his deep respect for food and those who produce it.",
+      "significance": "Reveals core values instilled in Sanji by Zeff at the Baratie. This philosophy about respecting food and avoiding waste is a fundamental part of Sanji's character and his view of what it means to be a true chef.",
+      "characterIds": ["sanji", "jessica"],
+      "locationIds": ["g-8-kitchen"],
+      "quotes": [
+        {
+          "text": "A good cook should never waste food just to use the best ingredients. Every part has value, and throwing food away is an insult to those who grew it and those who can't afford it.",
+          "speaker": "Sanji",
+          "context": "Sanji teaching his philosophy about food waste"
+        },
+        {
+          "text": "I... I never thought about it that way before.",
+          "speaker": "Jessica",
+          "context": "Jessica beginning to understand Sanji's perspective"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [20, 26]
+    },
+    {
+      "id": "ep197-event-008",
+      "episodeNumber": 197,
+      "timestamp": "18:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Jessica Gains Respect for Sanji",
+      "description": "After witnessing Sanji's skills and hearing his philosophy, Jessica's cold demeanor softens. She gains genuine respect for his abilities and his dedication to his craft, acknowledging that he is a true chef who cooks from the heart.",
+      "significance": "Shows Jessica's character growth and her ability to recognize true talent and dedication. This moment also validates Sanji's skills in the eyes of another professional chef.",
+      "characterIds": ["jessica", "sanji"],
+      "locationIds": ["g-8-kitchen"],
+      "quotes": [
+        {
+          "text": "You really do cook from the heart. I can see that now. You're the real deal.",
+          "speaker": "Jessica",
+          "context": "Jessica acknowledging Sanji's superior skills and philosophy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep197-event-009",
+      "episodeNumber": 197,
+      "timestamp": "19:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Luffy Only Eats the Prepared Food",
+      "description": "While Sanji is impressing everyone with his cooking skills, Luffy completely ignores the cooking competition and simply eats all the food that has already been prepared, much to everyone's exasperation. His actions are comically unhelpful but perfectly in character.",
+      "significance": "Provides comic relief and reinforces Luffy's single-minded obsession with food. Shows the contrast between Sanji's professionalism and Luffy's carefree nature.",
+      "characterIds": ["luffy", "sanji"],
+      "locationIds": ["g-8-kitchen"],
+      "quotes": [
+        {
+          "text": "This food is great! You guys are pretty good cooks!",
+          "speaker": "Luffy",
+          "context": "Luffy happily eating instead of cooking"
+        },
+        {
+          "text": "LUFFY! You're supposed to be cooking, not eating!",
+          "speaker": "Sanji",
+          "context": "Sanji's frustration with Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep197-event-010",
+      "episodeNumber": 197,
+      "timestamp": "20:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Marine Cooks Accept Sanji and Luffy",
+      "description": "After Sanji's impressive demonstration and despite Luffy's odd behavior, the Marine kitchen staff accepts them both as legitimate new cooks from headquarters. They welcome them to work in the kitchen, unknowingly harboring Straw Hat Pirates.",
+      "significance": "Solidifies Sanji and Luffy's cover within the base, giving them a secure position to operate from while the crew plans their escape.",
+      "characterIds": ["sanji", "luffy", "jessica", "billy"],
+      "locationIds": ["g-8-kitchen"],
+      "quotes": [
+        {
+          "text": "You're both welcome to stay in our kitchen. We could learn a lot from you.",
+          "speaker": "Jessica",
+          "context": "Accepting the disguised Straw Hats into the kitchen"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [198, 199],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep197-event-011",
+      "episodeNumber": 197,
+      "timestamp": "21:45",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Zoro Attempts to Retrieve His Swords",
+      "description": "Zoro finally locates where his three swords have been placed and attempts to retrieve them. However, in his effort to reach them, he loses his balance and falls into the sea surrounding the G-8 base.",
+      "significance": "Sets up Zoro's capture and creates a new complication for the Straw Hats' escape plan. Shows Zoro's weakness as a Devil Fruit-less but directionally challenged individual.",
+      "characterIds": ["zoro"],
+      "locationIds": ["g-8-base"],
+      "quotes": [
+        {
+          "text": "Finally! My swords! Now I just need to... whoa!",
+          "speaker": "Zoro",
+          "context": "Zoro losing his balance while reaching for his swords"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [196],
+      "payoffInEpisodes": [197],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep197-event-012",
+      "episodeNumber": 197,
+      "timestamp": "22:30",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Zoro is Captured by Marines",
+      "description": "After falling into the sea, Zoro emerges from the water only to find himself surrounded by Marine soldiers. Without his swords and caught off-guard, Zoro is captured by Jonathan's forces and taken into custody.",
+      "significance": "Major plot development that puts one of the Straw Hats' strongest fighters out of commission and raises the stakes for the crew's escape. Jonathan's tactical mind proves effective in neutralizing threats.",
+      "characterIds": ["zoro", "jonathan"],
+      "locationIds": ["g-8-base"],
+      "quotes": [
+        {
+          "text": "Capture him! Don't let the pirate escape!",
+          "speaker": "Marine Soldier",
+          "context": "Marines surrounding the unarmed Zoro"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [196],
+      "payoffInEpisodes": [198],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep197-event-013",
+      "episodeNumber": 197,
+      "timestamp": "23:00",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "The Going Merry is Brought for Investigation",
+      "description": "The Going Merry is transported to an office area within the G-8 base for thorough investigation. The Marines begin examining the ship to gather intelligence about the Straw Hat Pirates.",
+      "significance": "Shows the systematic approach Jonathan is taking to deal with the intruders. The investigation of the Going Merry will reveal information about the crew and their journey from Skypiea.",
+      "characterIds": ["jonathan"],
+      "locationIds": ["g-8-base"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [196],
+      "payoffInEpisodes": [198, 199],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep197-event-014",
+      "episodeNumber": 197,
+      "timestamp": "23:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Marine Ships Arrive at G-8",
+      "description": "Multiple Marine ships arrive at the G-8 base, bringing reinforcements and supplies. This increases the military presence at the fortress, making the Straw Hats' eventual escape even more challenging.",
+      "significance": "Raises the stakes by increasing the number of Marines at the base, showing that time is running out for the Straw Hats to formulate and execute their escape plan.",
+      "characterIds": [],
+      "locationIds": ["g-8-base"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [198, 199, 200],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["jessica", "billy", "marley-brothers"],
+    "locations": ["g-8-kitchen"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [198, 199, 200],
+    "payoffFrom": [196],
+    "thematicLinks": [20, 26, 30]
+  },
+  "quotes": [
+    {
+      "text": "A good cook should never waste food just to use the best ingredients. Every part has value, and throwing food away is an insult to those who grew it and those who can't afford it.",
+      "speaker": "Sanji",
+      "context": "Sanji's core philosophy about cooking and respecting food",
+      "timestamp": "16:45"
+    },
+    {
+      "text": "Cooking isn't just about following recipes. It's about putting your heart into every dish!",
+      "speaker": "Sanji",
+      "context": "Sanji explaining his approach to cooking",
+      "timestamp": "14:30"
+    },
+    {
+      "text": "You really do cook from the heart. I can see that now. You're the real deal.",
+      "speaker": "Jessica",
+      "context": "Jessica acknowledging Sanji's superior skills",
+      "timestamp": "18:00"
+    },
+    {
+      "text": "LUFFY! You're supposed to be cooking, not eating!",
+      "speaker": "Sanji",
+      "context": "Sanji's exasperation with Luffy eating instead of helping",
+      "timestamp": "19:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Professional Pride and Philosophy",
+      "description": "The episode deeply explores Sanji's identity as a chef and his philosophy about cooking. His teachings about not wasting food and cooking from the heart reveal the values instilled in him by Zeff at the Baratie.",
+      "symbolism": "The kitchen becomes a stage where Sanji's true character shines, showing that his skills as a chef are as important to his identity as his role as the crew's cook and fighter.",
+      "culturalReferences": ["The philosophy of respecting food and avoiding waste reflects Japanese concepts of 'mottainai' (regret over waste) and gratitude for ingredients"]
+    },
+    {
+      "theme": "Deception and Infiltration",
+      "description": "The Straw Hats continue to use disguises and deception to operate within the Marine base. Nami's strategic thinking and Sanji's cooking skills allow them to maintain their covers effectively.",
+      "symbolism": "The maze-like G-8 fortress represents the complex web of deception the crew must navigate to survive and escape.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Recognition of True Skill",
+      "description": "Jessica's journey from skepticism to respect mirrors the theme of recognizing genuine talent and dedication. Sanji earns respect not through reputation but through demonstrated skill and philosophy.",
+      "symbolism": "The contrast between the absent Marley Brothers (reputation without substance) and Sanji (substance without reputation) emphasizes that true skill speaks for itself.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Teamwork Through Individual Strengths",
+      "description": "Each Straw Hat uses their unique abilities to survive: Sanji's cooking, Nami's cunning, and even Zoro's attempts (though unsuccessful) to recover his weapons. The crew operates as separate units working toward the same goal.",
+      "symbolism": "The scattered crew members represent different aspects of a whole, each contributing in their own way despite being physically separated.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Comedic", "Tense", "Heartwarming", "Suspenseful"],
+  "characterSpotlights": [
+    {
+      "characterId": "sanji",
+      "role": "Protagonist chef",
+      "development": "This episode provides one of Sanji's most significant character moments, showcasing his mastery as a chef and his deeply held philosophy about food. His teachings about not wasting ingredients and cooking from the heart reveal the lasting influence of Zeff's mentorship.",
+      "keyActions": [
+        "Infiltrates the Marine kitchen disguised as a famous chef",
+        "Responds to Jessica's insults with determination to prove himself",
+        "Demonstrates exceptional cooking skills to the Marine staff",
+        "Teaches about the importance of not wasting food",
+        "Earns Jessica's respect through skill and philosophy",
+        "Successfully maintains his cover while helping the crew"
+      ],
+      "quotes": [
+        "A good cook should never waste food just to use the best ingredients.",
+        "Cooking isn't just about following recipes. It's about putting your heart into every dish!"
+      ]
+    },
+    {
+      "characterId": "jessica",
+      "role": "Antagonist turned admirer",
+      "development": "Jessica evolves from a cold, skeptical head chef to someone who recognizes and respects true culinary talent. Her initial dismissiveness gives way to genuine appreciation for Sanji's skills and philosophy.",
+      "keyActions": [
+        "Coldly welcomes who she believes are the Marley Brothers",
+        "Insults Sanji's initial approach to cooking",
+        "Watches Sanji's demonstration with growing interest",
+        "Learns about the philosophy of not wasting food",
+        "Acknowledges Sanji as a true chef who cooks from the heart",
+        "Accepts both Sanji and Luffy into her kitchen"
+      ],
+      "quotes": [
+        "Is this really the best you can do? I expected more from chefs with your supposed reputation.",
+        "You really do cook from the heart. I can see that now. You're the real deal."
+      ]
+    },
+    {
+      "characterId": "nami",
+      "role": "Strategic infiltrator",
+      "development": "Nami demonstrates her intelligence and tactical thinking by manipulating the situation to her crew's advantage, though her plan to hide Zoro's swords ironically leads to his capture.",
+      "keyActions": [
+        "Strategically places Zoro's swords out of reach",
+        "Misdirects the real Marley Brothers to get them lost",
+        "Continues operating undercover as a Marine",
+        "Maintains her cover while helping orchestrate infiltrations"
+      ],
+      "quotes": [
+        "If I leave those swords where he can reach them, he'll cause a scene for sure."
+      ]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Comic relief",
+      "development": "Luffy's behavior in the kitchen perfectly encapsulates his character - completely focused on eating rather than any strategic objective, providing both comedy and maintaining his consistent characterization.",
+      "keyActions": [
+        "Infiltrates the kitchen with Sanji",
+        "Completely ignores the cooking competition",
+        "Eats all the prepared food instead of helping",
+        "Somehow still gets accepted as a legitimate cook"
+      ],
+      "quotes": [
+        "This food is great! You guys are pretty good cooks!"
+      ]
+    },
+    {
+      "characterId": "zoro",
+      "role": "Unfortunate victim",
+      "development": "Zoro's capture demonstrates both his determination to retrieve his swords and his vulnerability when separated from them. His predicament raises the stakes for the crew.",
+      "keyActions": [
+        "Has his swords hidden by Nami",
+        "Locates his swords after searching",
+        "Falls into the sea while trying to retrieve them",
+        "Gets captured by Marines while unarmed"
+      ],
+      "quotes": [
+        "Finally! My swords! Now I just need to... whoa!"
+      ]
+    },
+    {
+      "characterId": "jonathan",
+      "role": "Strategic antagonist",
+      "development": "Though mostly operating behind the scenes this episode, Jonathan's tactical approach continues to pay dividends as his forces capture Zoro and investigate the Going Merry.",
+      "keyActions": [
+        "Oversees the investigation of the Going Merry",
+        "His forces successfully capture Zoro",
+        "Continues coordinating the systematic search for the Straw Hats"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "This entire episode is anime-original filler content that does not appear in the manga. The G-8 Arc was created exclusively for the anime.",
+      "episodeTimestamp": "00:00",
+      "mangaReference": "N/A",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "According to director Konosuke Uda, the G-8 Arc was originally considered for a theatrical film before being developed as a filler arc for the anime.",
+      "episodeTimestamp": "00:00",
+      "mangaReference": "N/A",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode aired on July 4, 2004, in Japan and achieved a 10.4% viewership rating, ranking 6th for the week.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_197",
+          "title": "Episode 197 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The G-8 Arc is widely considered the best filler arc in One Piece, with many fans wishing it were canon. This episode is often cited as a highlight of the arc.",
+      "category": "RECEPTION",
+      "sources": []
+    },
+    {
+      "fact": "Sanji's philosophy about not wasting food directly references his backstory with Zeff, who taught him to respect food during their time stranded on a rock.",
+      "category": "STORYTELLING",
+      "sources": []
+    },
+    {
+      "fact": "The ending theme 'Dreamship' by Aiko Ikuta was used exclusively for the G-8 Arc (episodes 196-206), making it the only One Piece theme song used solely for filler content.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Dreamship",
+          "title": "Dreamship - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "'Dreamship' was also the last theme song Funimation dubbed into English; all subsequent themes would simply have the Japanese versions subtitled.",
+      "category": "VOICE_ACTING",
+      "sources": []
+    },
+    {
+      "fact": "Voice actress Kazue Ikura, who voices Jessica in Japanese, is known for her work in numerous anime including Ranma ½ and City Hunter.",
+      "category": "VOICE_ACTING",
+      "sources": []
+    },
+    {
+      "fact": "The Marley Brothers are named after Mary Geoise, the holy land where the World Nobles reside, suggesting they are prestigious chefs from the World Government's headquarters.",
+      "category": "WORLD_BUILDING",
+      "sources": []
+    },
+    {
+      "fact": "This episode showcases Sanji's culinary skills more prominently than almost any other episode in the series, making it a favorite among Sanji fans.",
+      "category": "CHARACTER",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

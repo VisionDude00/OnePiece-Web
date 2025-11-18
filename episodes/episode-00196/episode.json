@@ -1,0 +1,516 @@
+{
+  "episodeNumber": 196,
+  "episodeTitle": "A State of Emergency is Issued! A Notorious Pirate Ship Has Infiltrated!",
+  "description": "The Going Merry crashes inside the heavily fortified G-8 Marine Base after falling from Skypiea. The scattered Straw Hat crew must find each other and escape while Vice Admiral Jonathan strategically investigates the pirate infiltration.",
+  "airDate": "2004-06-20",
+  "airDateJapan": "2004-06-20",
+  "airDateUS": "2010-10-19",
+  "arcName": "G-8 Arc",
+  "sagaName": "Sky Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "BON VOYAGE!",
+    "artist": "Bon-Bon Blanco",
+    "episodeRange": [169, 206]
+  },
+  "endingSong": {
+    "title": "Dreamship",
+    "artist": "Aiko Ikuta",
+    "episodeRange": [196, 206]
+  },
+  "credits": {
+    "animationDirector": "Takahiro Imamura",
+    "screenplay": "Hirohiko Kamisaka",
+    "animation": "Noboru Koizumi",
+    "artDirection": ["Miyuki Sato", "Kunihiro Chida"],
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Ōtani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Jonathan",
+        "actor": "Nobuo Tanaka"
+      },
+      {
+        "character": "Drake",
+        "actor": "Eiji Takemoto"
+      },
+      {
+        "character": "Jessica",
+        "actor": "Kazue Ikura"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Jonathan",
+        "actor": "Mark Stoddard"
+      },
+      {
+        "character": "Drake",
+        "actor": "Bryan Massey"
+      },
+      {
+        "character": "Jessica",
+        "actor": "Jennifer Seman"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep196-event-001",
+      "episodeNumber": 196,
+      "timestamp": "02:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Going Merry Falls from Sky into G-8 Base",
+      "description": "The Going Merry crashes down from Skypiea, falling from the sky directly into the heavily fortified G-8 Marine Base on Navarone Island. Mekao, a Marine carpenter, witnesses the ship's descent and alerts the base.",
+      "significance": "This marks the beginning of the G-8 Arc, setting up the Straw Hats' most strategic escape challenge yet as they're trapped inside an entire Marine fortress.",
+      "characterIds": ["mekao"],
+      "locationIds": ["g-8-marine-base", "navarone-island"],
+      "quotes": [
+        {
+          "text": "In the old days, people used to treat ships with respect... What?! Look at that!",
+          "speaker": "Mekao",
+          "context": "Mekao spots the Going Merry falling from the sky"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [195],
+      "payoffInEpisodes": [206],
+      "callbacksToEpisodes": [195]
+    },
+    {
+      "id": "ep196-event-002",
+      "episodeNumber": 196,
+      "timestamp": "03:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Marines Sound Emergency Alert",
+      "description": "The Marines sound the alarm throughout G-8 Base as they detect the Going Merry crashing inside their fortress. They initially believe they're under attack from the sky and scramble to their battle stations.",
+      "significance": "Establishes the main conflict of the arc - the Straw Hats must escape from inside a fully operational Marine base while outnumbered and separated.",
+      "characterIds": [],
+      "locationIds": ["g-8-marine-base"],
+      "quotes": [
+        {
+          "text": "We are under attack from the sky! All personnel to your stations!",
+          "speaker": "Marine Officer",
+          "context": "Marines responding to the Going Merry's unexpected arrival"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep196-event-003",
+      "episodeNumber": 196,
+      "timestamp": "05:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Vice Admiral Jonathan's Introduction",
+      "description": "Vice Admiral Jonathan, the strategic and laid-back commander of G-8 Base, is introduced as he begins investigating the mysterious arrival of the Going Merry. Unlike typical Marines, he immediately suspects logical explanations rather than supernatural causes.",
+      "significance": "Jonathan becomes the primary antagonist of the G-8 Arc, notable for being one of the most intelligent and tactical opponents the Straw Hats have faced, using strategy over brute force.",
+      "characterIds": ["jonathan"],
+      "locationIds": ["g-8-marine-base"],
+      "quotes": [
+        {
+          "text": "I wonder why the Straw Hats are at our base. I'll just have to wait and see.",
+          "speaker": "Jonathan",
+          "context": "Jonathan contemplating the Straw Hat Pirates' arrival"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [206],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep196-event-004",
+      "episodeNumber": 196,
+      "timestamp": "07:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Lieutenant Commander Drake Reports to Jonathan",
+      "description": "Lieutenant Commander Drake, Jonathan's right-hand officer, reports the situation to the Vice Admiral. Drake is shown as a persistent and easily irritated officer who will lead the pursuit of the Straw Hats.",
+      "significance": "Introduces Drake as Jonathan's primary field officer who will actively hunt the scattered crew members throughout the arc.",
+      "characterIds": ["drake", "jonathan"],
+      "locationIds": ["g-8-marine-base"],
+      "quotes": [
+        {
+          "text": "Sir, pirates have invaded the base. The Going Merry has been confirmed as the Straw Hat Pirates' vessel.",
+          "speaker": "Drake",
+          "context": "Drake reporting to Jonathan about the infiltration"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep196-event-005",
+      "episodeNumber": 196,
+      "timestamp": "09:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Marines Believe Going Merry is a Ghost Ship",
+      "description": "The Marines are initially convinced that the Going Merry is a ghost ship due to its seemingly impossible arrival from the sky. This creates confusion and fear among the lower-ranked Marines.",
+      "significance": "Adds a humorous element to the arc and showcases the Marines' superstitious nature when faced with unexplainable phenomena.",
+      "characterIds": [],
+      "locationIds": ["g-8-marine-base"],
+      "quotes": [
+        {
+          "text": "It must be a ghost ship! How else could it fall from the sky?",
+          "speaker": "Marine Soldier",
+          "context": "Marines trying to explain the Going Merry's arrival"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep196-event-006",
+      "episodeNumber": 196,
+      "timestamp": "12:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Jessica's Introduction",
+      "description": "Jessica, the head chef at G-8 and Jonathan's wife, is introduced. She is shown managing the base's kitchen operations with authority and competence.",
+      "significance": "Jessica becomes an important supporting character in the arc, representing the domestic side of the Marine base and Jonathan's personal life.",
+      "characterIds": ["jessica", "jonathan"],
+      "locationIds": ["g-8-marine-base"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep196-event-007",
+      "episodeNumber": 196,
+      "timestamp": "14:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Marine Support Staff Introduced",
+      "description": "Various support personnel at G-8 are introduced, including Mekao (the mechanic/carpenter), Shinpachi (a chef), and Billy (a cook). These characters establish the functioning ecosystem of the Marine base.",
+      "significance": "Shows that G-8 is not just a military installation but a complete community with various roles and personalities.",
+      "characterIds": ["mekao", "shinpachi", "billy"],
+      "locationIds": ["g-8-marine-base"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep196-event-008",
+      "episodeNumber": 196,
+      "timestamp": "16:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Straw Hats Scattered Throughout Base",
+      "description": "The crew members are shown scattered in different areas of the massive G-8 Base, each trying to avoid detection and find their crewmates. This establishes the primary challenge of the arc.",
+      "significance": "Sets up the episodic structure of the arc where crew members must use their individual skills to survive and reunite.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin"],
+      "locationIds": ["g-8-marine-base"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep196-event-009",
+      "episodeNumber": 196,
+      "timestamp": "18:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Robin Uses Oreja Fleur",
+      "description": "Nico Robin uses her Hana Hana no Mi ability to sprout an ear on a wall, allowing her to eavesdrop on Marine conversations. She employs the technique called 'Oreja Fleur' (Ear Flower) to gather intelligence.",
+      "significance": "Demonstrates Robin's tactical use of her Devil Fruit powers for espionage, showcasing how her abilities are perfect for stealth operations.",
+      "characterIds": ["robin"],
+      "devilFruitIds": ["hana-hana-no-mi"],
+      "locationIds": ["g-8-marine-base"],
+      "quotes": [
+        {
+          "text": "Oreja Fleur.",
+          "speaker": "Robin",
+          "context": "Robin using her ability to sprout an ear for eavesdropping"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep196-event-010",
+      "episodeNumber": 196,
+      "timestamp": "20:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Luffy's Comical Stealth Attempt",
+      "description": "Luffy attempts to sneak through the base by literally copying the movements and poses of a Marine guard in an exaggerated manner. Sanji observes this and thinks about how Luffy never takes things seriously.",
+      "significance": "Provides comic relief and showcases Luffy's unique and often ridiculous approach to problems, which paradoxically sometimes works.",
+      "characterIds": ["luffy", "sanji"],
+      "locationIds": ["g-8-marine-base"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep196-event-011",
+      "episodeNumber": 196,
+      "timestamp": "21:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Jonathan Begins Strategic Hunt",
+      "description": "Rather than immediately launching an all-out assault, Jonathan decides to methodically investigate and set up strategic ambushes for the Straw Hats. He treats the situation like a chess game.",
+      "significance": "Establishes Jonathan as a different type of antagonist who uses intelligence and patience rather than overwhelming force.",
+      "characterIds": ["jonathan", "drake"],
+      "locationIds": ["g-8-marine-base"],
+      "quotes": [
+        {
+          "text": "We'll use strategy, not force. Set up ambushes at key locations.",
+          "speaker": "Jonathan",
+          "context": "Jonathan planning his tactical approach to capturing the Straw Hats"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["jonathan", "drake", "jessica", "mekao", "shinpachi", "billy"],
+    "locations": ["g-8-marine-base", "navarone-island"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["oreja-fleur"]
+  },
+  "episodeRelationships": {
+    "setupFor": [197, 198, 199, 200, 201, 202, 203, 204, 205, 206],
+    "payoffFrom": [195],
+    "thematicLinks": [326, 327]
+  },
+  "quotes": [
+    {
+      "text": "I wonder why the Straw Hats are at our base. I'll just have to wait and see.",
+      "speaker": "Jonathan",
+      "context": "Jonathan's calm and strategic response to the infiltration",
+      "timestamp": "05:00"
+    },
+    {
+      "text": "In the old days, people used to treat ships with respect... What?! Look at that!",
+      "speaker": "Mekao",
+      "context": "Mekao witnessing the Going Merry falling from the sky",
+      "timestamp": "02:15"
+    },
+    {
+      "text": "Oreja Fleur.",
+      "speaker": "Robin",
+      "context": "Robin using her ability to eavesdrop on Marines",
+      "timestamp": "18:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Intelligence vs. Strength",
+      "description": "The episode establishes Jonathan as an antagonist who relies on tactical thinking and strategy rather than brute force, contrasting with typical Marine villains.",
+      "symbolism": "Jonathan's chess-playing hobby symbolizes his methodical and strategic approach to combat.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Adaptation and Survival",
+      "description": "The Straw Hats must adapt to being separated and trapped in enemy territory, showcasing their individual survival skills and resourcefulness.",
+      "symbolism": "The scattered crew represents how each member must stand on their own before reuniting as a team.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Appearances vs. Reality",
+      "description": "The Marines initially believe the Going Merry is a ghost ship, showing how unexplainable phenomena can be rationalized. Jonathan's skepticism contrasts with his subordinates' superstition.",
+      "symbolism": "The ghost ship myth represents how fear can cloud judgment.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Suspenseful", "Comedic", "Strategic"],
+  "characterSpotlights": [
+    {
+      "characterId": "jonathan",
+      "role": "Primary antagonist introduction",
+      "development": "Jonathan is established as an intelligent, laid-back, and strategic Marine Vice Admiral who approaches problems like chess games rather than battles.",
+      "keyActions": [
+        "Analyzes the situation calmly",
+        "Deduces pirate involvement over supernatural causes",
+        "Plans strategic ambushes instead of direct assault"
+      ],
+      "quotes": ["I wonder why the Straw Hats are at our base. I'll just have to wait and see."]
+    },
+    {
+      "characterId": "robin",
+      "role": "Intelligence gatherer",
+      "development": "Robin demonstrates the tactical applications of her Devil Fruit powers for espionage and information gathering.",
+      "keyActions": [
+        "Uses Oreja Fleur to eavesdrop on Marines",
+        "Gathers intelligence about the base",
+        "Maintains composure in enemy territory"
+      ],
+      "quotes": ["Oreja Fleur."]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Comic relief and infiltrator",
+      "development": "Luffy showcases his unique and often humorous approach to stealth, copying a guard's movements in exaggerated fashion.",
+      "keyActions": [
+        "Attempts stealth by mimicking guard poses",
+        "Provides comic relief in tense situation",
+        "Searches for his scattered crew"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The entire G-8 Arc is anime-only filler and does not appear in the manga. The manga goes directly from Skypiea to the Davy Back Fight.",
+      "episodeTimestamp": "00:00",
+      "mangaReference": "N/A - Filler Arc",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This is the first episode of the G-8 Arc, which is widely considered the best filler arc in One Piece. In 2019, series director Konosuke Uda revealed this arc's plot was originally considered for a theatrical film.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/G-8_Arc",
+          "title": "G-8 Arc - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode marks the debut of 'Dreamship' by Aiko Ikuta as the ending theme, which would be used through episode 206.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Dreamship",
+          "title": "Dreamship - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Drake shares his name, sideburns, and Japanese voice actor (Eiji Takemoto) with X Drake, a canonical Worst Generation member, though they are completely different characters.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Drake_(Non-Canon)",
+          "title": "Drake (Non-Canon) - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Drake is the only character to be first introduced in a movie (Movie 4: Dead End Adventure) before making an appearance in the anime.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Drake_(Non-Canon)",
+          "title": "Drake (Non-Canon) - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Jonathan is named after Jonathan Livingston Seagull, a novella about a seagull learning about life and flight.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Jonathan",
+          "title": "Jonathan - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode achieved a 12.2% TV rating in Japan and ranked 3rd in viewership for its time slot.",
+      "category": "VIEWERSHIP",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_196",
+          "title": "Episode 196 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

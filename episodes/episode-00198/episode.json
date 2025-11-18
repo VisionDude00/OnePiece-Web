@@ -1,0 +1,501 @@
+{
+  "episodeNumber": 198,
+  "episodeTitle": "Captured Zoro and Chopper's Emergency Operations!",
+  "description": "At the G-8 Marine Base, Zoro is taken prisoner and interrogated by Lieutenant Commander Drake. Meanwhile, Chopper disguises himself to help the inexperienced Dr. Kobato perform emergency surgery on injured Marines, with Nami assisting as a nurse. In the kitchen, Luffy and Sanji are tasked with cutting hundreds of onions by Jessica.",
+  "airDate": "2004-07-11",
+  "airDateJapan": "2004-07-11",
+  "airDateUS": "2011-04-19",
+  "arcName": "G-8",
+  "sagaName": "Sky Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "BON VOYAGE!",
+    "artist": "BON-BON BLANCO",
+    "episodeRange": [169, 206]
+  },
+  "endingSong": {
+    "title": "Dreamship",
+    "artist": "Aiko Ikuta",
+    "episodeRange": [196, 206]
+  },
+  "credits": {
+    "animationDirector": "Masayuki Takagi",
+    "director": "Hiroyuki Kakudō",
+    "screenplay": "Junki Takegami",
+    "artDirectors": ["Miyuki Sato", "Michiyo Kawasaki"],
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Vice Admiral Jonathan",
+        "actor": "Nobuo Tanaka"
+      },
+      {
+        "character": "Dr. Kobato",
+        "actor": "Akiko Hiramatsu"
+      },
+      {
+        "character": "Jessica",
+        "actor": "Kazue Ikura"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Vice Admiral Jonathan",
+        "actor": "Mark Stoddard"
+      },
+      {
+        "character": "Dr. Kobato",
+        "actor": "Jamie Marchi"
+      },
+      {
+        "character": "Jessica",
+        "actor": "Jennifer Seman"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep198-event-001",
+      "episodeNumber": 198,
+      "timestamp": "03:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Dr. Kobato's Debut",
+      "description": "Dr. Kobato, a pediatrician stationed at G-8 Marine Base, appears for the first time. She is revealed to be unable to handle the sight of blood or suffering, which presents a challenge when injured Marines arrive for emergency treatment.",
+      "significance": "Introduces a key character in the G-8 arc who will help highlight Chopper's medical skills and compassion.",
+      "characterIds": ["dr-kobato"],
+      "locationIds": ["g8-medical-wing"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [199, 200],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep198-event-002",
+      "episodeNumber": 198,
+      "timestamp": "05:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Zoro Taken to Prison",
+      "description": "Zoro is escorted to the prison cells of G-8 Marine Base after being captured. Vice Admiral Jonathan orders Lieutenant Commander Drake to interrogate him about the Straw Hat crew's infiltration methods and crew size.",
+      "significance": "Sets up the interrogation storyline and shows the Marines' attempts to gather intelligence on the Straw Hats.",
+      "characterIds": ["zoro", "jonathan", "drake"],
+      "locationIds": ["g8-prison"],
+      "quotes": [
+        {
+          "text": "Interrogate the prisoner. Find out how many crew members there are and how they infiltrated the stronghold.",
+          "speaker": "Vice Admiral Jonathan",
+          "context": "Jonathan orders Drake to interrogate Zoro"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [196, 197],
+      "payoffInEpisodes": [199],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep198-event-003",
+      "episodeNumber": 198,
+      "timestamp": "07:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Zoro's Truthful but Unbelievable Answer",
+      "description": "During interrogation, Lieutenant Commander Drake demands to know how the Straw Hats infiltrated G-8. Zoro truthfully answers that they came from heaven via an octopus balloon, but Drake refuses to believe him and warns him not to underestimate the Marines.",
+      "significance": "A comedic moment that demonstrates the absurdity of the Straw Hats' Sky Island adventure and how unbelievable their true story sounds to outsiders.",
+      "characterIds": ["zoro", "drake"],
+      "locationIds": ["g8-prison"],
+      "quotes": [
+        {
+          "text": "We came from heaven via an octopus balloon.",
+          "speaker": "Zoro",
+          "context": "Zoro's truthful but unbelievable answer to Drake's interrogation"
+        },
+        {
+          "text": "Don't underestimate the Marines!",
+          "speaker": "Drake",
+          "context": "Drake's response to what he believes is Zoro mocking him"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [195],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [195]
+    },
+    {
+      "id": "ep198-event-004",
+      "episodeNumber": 198,
+      "timestamp": "10:20",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Chopper Smuggled into Medical Wing",
+      "description": "Chopper hides in a box of medical supplies and is unknowingly carried into the medical wing of G-8, where he encounters the overwhelmed Dr. Kobato.",
+      "significance": "Sets up Chopper's opportunity to showcase his medical expertise while in disguise.",
+      "characterIds": ["chopper", "dr-kobato"],
+      "locationIds": ["g8-medical-wing"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [197],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep198-event-005",
+      "episodeNumber": 198,
+      "timestamp": "12:40",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Dr. Kobato Faints at Sight of Blood",
+      "description": "When injured Marines arrive requiring emergency surgery, Dr. Kobato faints at the sight of blood, leaving the wounded men without proper medical care until Chopper intervenes.",
+      "significance": "Establishes Dr. Kobato's weakness and creates the necessity for Chopper to take over the medical operations.",
+      "characterIds": ["dr-kobato", "chopper"],
+      "locationIds": ["g8-medical-wing"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep198-event-006",
+      "episodeNumber": 198,
+      "timestamp": "14:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Chopper Disguises Himself as a Doctor",
+      "description": "Chopper decides to take over the medical operations and disguises himself to direct the treatment of the injured Marines. He uses his medical knowledge to save their lives while maintaining his cover.",
+      "significance": "Showcases Chopper's medical expertise and his compassionate nature, even treating his enemies to save lives.",
+      "characterIds": ["chopper"],
+      "locationIds": ["g8-medical-wing"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep198-event-007",
+      "episodeNumber": 198,
+      "timestamp": "16:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Nami Assigned as Nurse",
+      "description": "Nami is dragged to the infirmary in a nurse uniform to assist with the emergency. She ends up helping Chopper during the surgeries.",
+      "significance": "Brings two Straw Hats together in the same location and shows their teamwork under pressure.",
+      "characterIds": ["nami", "chopper"],
+      "locationIds": ["g8-medical-wing"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [197],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep198-event-008",
+      "episodeNumber": 198,
+      "timestamp": "09:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Luffy and Sanji Cutting Onions",
+      "description": "In the kitchen, Jessica assigns Luffy and Sanji to cut three hundred onions. Sanji is distracted by his attraction to Jessica, while Luffy is fooling around, making the task difficult.",
+      "significance": "A comedic subplot showing the Straw Hats struggling with mundane tasks while trying to maintain their cover.",
+      "characterIds": ["luffy", "sanji", "jessica"],
+      "locationIds": ["g8-kitchen"],
+      "quotes": [
+        {
+          "text": "Are you finished with the onions yet? I want you to cut the next three hundred onions.",
+          "speaker": "Jessica",
+          "context": "Jessica gives Sanji and Luffy more work"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [197],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep198-event-009",
+      "episodeNumber": 198,
+      "timestamp": "18:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Drake Hears About Mysterious Doctor",
+      "description": "Lieutenant Commander Drake is informed that an unidentified doctor is performing surgeries in the medical wing. He suspects it might be one of the Straw Hat Pirates and prepares to investigate.",
+      "significance": "Raises the stakes for Chopper and Nami's situation as the Marines begin to suspect their presence.",
+      "characterIds": ["drake", "chopper"],
+      "locationIds": ["g8-medical-wing"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep198-event-010",
+      "episodeNumber": 198,
+      "timestamp": "20:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Dr. Kobato Protects Chopper",
+      "description": "When Drake arrives at the medical wing to investigate the mysterious doctor, Dr. Kobato forbids him from entering, protecting Chopper and Nami. Drake is forced to leave without questioning them.",
+      "significance": "Shows Dr. Kobato's gratitude to Chopper and her willingness to protect him despite him being a pirate. Demonstrates character growth.",
+      "characterIds": ["dr-kobato", "drake", "chopper", "nami"],
+      "locationIds": ["g8-medical-wing"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep198-event-011",
+      "episodeNumber": 198,
+      "timestamp": "21:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Chopper Completes the Surgeries",
+      "description": "Chopper successfully completes all the emergency operations, saving the wounded Marines. After finishing, he shrinks back down to his usual small size.",
+      "significance": "Demonstrates Chopper's medical competence and compassion, treating even enemies to save lives.",
+      "characterIds": ["chopper"],
+      "locationIds": ["g8-medical-wing"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep198-event-012",
+      "episodeNumber": 198,
+      "timestamp": "19:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Zoro Deduces Chopper's Presence",
+      "description": "When Zoro hears about an unidentified doctor performing surgeries at G-8, he correctly deduces that it must be Chopper, recognizing his crewmate's medical abilities.",
+      "significance": "Shows the crew's knowledge of each other's skills and abilities.",
+      "characterIds": ["zoro", "chopper"],
+      "locationIds": ["g8-prison"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["dr-kobato"],
+    "locations": ["g8-prison", "g8-medical-wing", "g8-kitchen"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [199, 200],
+    "payoffFrom": [196, 197],
+    "thematicLinks": []
+  },
+  "quotes": [
+    {
+      "text": "We came from heaven via an octopus balloon.",
+      "speaker": "Zoro",
+      "context": "Zoro's truthful answer during Drake's interrogation",
+      "timestamp": "07:45"
+    },
+    {
+      "text": "Don't underestimate the Marines!",
+      "speaker": "Drake",
+      "context": "Drake's response to Zoro's answer",
+      "timestamp": "07:45"
+    },
+    {
+      "text": "Are you finished with the onions yet? I want you to cut the next three hundred onions.",
+      "speaker": "Jessica",
+      "context": "Jessica assigns more work to Sanji and Luffy",
+      "timestamp": "09:00"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Compassion and Medical Ethics",
+      "description": "Chopper demonstrates his unwavering commitment to medical ethics by treating injured Marines despite them being enemies, showcasing that a doctor's duty is to save lives regardless of allegiance.",
+      "symbolism": "The medical wing becomes a neutral ground where Chopper's compassion transcends the pirate-Marine conflict.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Teamwork and Adaptation",
+      "description": "The Straw Hats demonstrate their ability to adapt to unexpected situations, using their unique skills (Chopper's medicine, Sanji's cooking) to blend in while separated.",
+      "symbolism": "Each crew member's expertise becomes both their disguise and their contribution to surviving the infiltration.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Comedy in Adversity",
+      "description": "Despite being trapped in a Marine fortress, the episode maintains a lighthearted tone with comedic moments like Zoro's truthful but unbelievable answers and Luffy's antics with onions.",
+      "symbolism": "The G-8 arc's comedy serves as a palate cleanser after the intense Sky Island saga.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Comedic", "Tense", "Lighthearted"],
+  "characterSpotlights": [
+    {
+      "characterId": "chopper",
+      "role": "Medical Hero",
+      "development": "Chopper demonstrates his exceptional medical skills and compassion by saving wounded Marines despite them being enemies. He overcomes the challenge of working undercover while maintaining his medical ethics.",
+      "keyActions": [
+        "Hides in medical supply box to enter the medical wing",
+        "Takes over emergency operations when Dr. Kobato faints",
+        "Successfully performs multiple surgeries on wounded Marines",
+        "Works with Nami to complete the medical procedures",
+        "Maintains his disguise throughout the operations"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "zoro",
+      "role": "Imprisoned Swordsman",
+      "development": "Zoro shows his stubborn honesty even during interrogation, truthfully answering Drake's questions despite knowing he won't be believed. He also demonstrates his knowledge of his crewmates by deducing Chopper's presence.",
+      "keyActions": [
+        "Endures interrogation in the prison cells",
+        "Truthfully tells Drake they came from heaven via octopus balloon",
+        "Deduces that the mysterious doctor is Chopper",
+        "Remains calm and uncooperative during questioning"
+      ],
+      "quotes": ["We came from heaven via an octopus balloon."]
+    },
+    {
+      "characterId": "dr-kobato",
+      "role": "Inexperienced Doctor",
+      "development": "Dr. Kobato is introduced as a pediatrician who cannot handle blood or suffering. Through Chopper's help, she begins to overcome her fears and shows gratitude by protecting him from Drake's investigation.",
+      "keyActions": [
+        "Faints at the sight of blood when Marines need emergency surgery",
+        "Receives help from Chopper during the medical crisis",
+        "Protects Chopper and Nami by forbidding Drake from entering the medical wing",
+        "Shows character growth and gratitude"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The entire G-8 Arc is anime-original filler content and does not appear in the manga. The manga transitions directly from Skypiea to the Davy Back Fight and Water 7.",
+      "episodeTimestamp": "N/A",
+      "mangaReference": "N/A",
+      "type": "ANIME_ORIGINAL_CONTENT"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episode 198 is the third episode of the G-8 Arc, which is considered by many fans to be the best filler arc in One Piece.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/G-8_Arc",
+          "title": "G-8 Arc - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The G-8 Arc is the longest anime-original arc in One Piece, spanning 11 episodes (196-206).",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/G-8_Arc",
+          "title": "G-8 Arc - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode aired in Japan with a TV rating of 11.7%, ranking #4 for its timeslot.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_198",
+          "title": "Episode 198 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The ending song 'Dreamship' by Aiko Ikuta was used exclusively for the G-8 Arc episodes (196-206), making it the only ending theme used exclusively for a filler arc.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Dreamship",
+          "title": "Dreamship - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Dr. Kobato's Japanese voice actress Akiko Hiramatsu is known for voicing strong female characters in anime, making her casting as the timid Dr. Kobato an interesting choice.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://www.imdb.com/title/tt0388629/characters/nm0386235",
+          "title": "One Piece - Akiko Hiramatsu as Dr. Kobato",
+          "platform": "IMDb",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The English dub of this episode aired nearly 7 years after the Japanese broadcast, on April 19, 2011.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_198",
+          "title": "Episode 198 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
