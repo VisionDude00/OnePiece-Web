@@ -1,0 +1,198 @@
+[
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "luffy",
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [112],
+    "members": [
+      {
+        "characterId": "luffy",
+        "role": "Captain",
+        "episodeJoined": 1,
+        "episodeLeft": null,
+        "joinCircumstances": "Founded the crew"
+      },
+      {
+        "characterId": "zoro",
+        "role": "Combatant",
+        "episodeJoined": 2,
+        "episodeLeft": null,
+        "joinCircumstances": "First crew member"
+      },
+      {
+        "characterId": "nami",
+        "role": "Navigator",
+        "episodeJoined": 44,
+        "episodeLeft": null,
+        "joinCircumstances": "Officially joined after Arlong Park"
+      },
+      {
+        "characterId": "usopp",
+        "role": "Sniper",
+        "episodeJoined": 17,
+        "episodeLeft": null,
+        "joinCircumstances": "Joined in Syrup Village"
+      },
+      {
+        "characterId": "sanji",
+        "role": "Cook",
+        "episodeJoined": 30,
+        "episodeLeft": null,
+        "joinCircumstances": "Joined after Baratie"
+      },
+      {
+        "characterId": "chopper",
+        "role": "Doctor",
+        "episodeJoined": 91,
+        "episodeLeft": null,
+        "joinCircumstances": "Joined after Drum Island"
+      },
+      {
+        "characterId": "vivi",
+        "role": "Temporary Member",
+        "episodeJoined": 91,
+        "episodeLeft": 130,
+        "joinCircumstances": "Temporary member during Arabasta Arc"
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 112,
+        "eventId": "ep112-event-001",
+        "momentType": "WORLD_LORE",
+        "title": "X-Mark Identity System Established",
+        "description": "The crew establishes the X-mark beneath bandages as proof of fellowship and to verify identities against Mr. 2's shapeshifting.",
+        "significance": "Creates a visual symbol of trust and camaraderie that becomes iconic in the arc's farewell scene.",
+        "timestamp": "03:15"
+      },
+      {
+        "episodeNumber": 112,
+        "eventId": "ep112-event-003",
+        "momentType": "MAJOR_DECISION",
+        "title": "Super Spot-Billed Duck Quiz Strategy",
+        "description": "The crew executes a clever decoy plan to protect Vivi and split up the Baroque Works agents.",
+        "significance": "Demonstrates the crew's teamwork and strategic planning.",
+        "timestamp": "08:45"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull wearing a straw hat with crossed bones behind it",
+      "episodeFirstSeen": 45,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": ["super-spot-billed-duck-troops"],
+      "enemies": ["baroque-works"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Baroque Works",
+      "japanese": "バロックワークス",
+      "romanized": "Barokku Wākusu"
+    },
+    "crewType": "CRIMINAL_ORGANIZATION",
+    "captainId": "crocodile",
+    "debutEpisode": 62,
+    "debutChapter": 103,
+    "episodeAppearances": [112],
+    "members": [
+      {
+        "characterId": "crocodile",
+        "role": "President/Boss",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Founder and leader"
+      },
+      {
+        "characterId": "mr-1",
+        "role": "Officer Agent",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Officer Agent"
+      },
+      {
+        "characterId": "mr-2-bon-clay",
+        "role": "Officer Agent",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Officer Agent"
+      },
+      {
+        "characterId": "mr-4",
+        "role": "Officer Agent",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Officer Agent"
+      },
+      {
+        "characterId": "miss-doublefinger",
+        "role": "Officer Agent",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Officer Agent"
+      },
+      {
+        "characterId": "miss-merry-christmas",
+        "role": "Officer Agent",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Officer Agent"
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 112,
+        "eventId": "ep112-event-004",
+        "momentType": "BATTLE_START",
+        "title": "Agents Split to Chase Decoys",
+        "description": "The Baroque Works officer agents fall for the Straw Hats' trap and split into three groups to pursue decoys.",
+        "significance": "Their forces are divided, setting up individual battles.",
+        "timestamp": "11:20"
+      },
+      {
+        "episodeNumber": 112,
+        "eventId": "ep112-event-008",
+        "momentType": "WORLD_LORE",
+        "title": "Baroque Works Infiltrator Fires Premature Cannon",
+        "description": "A secret Baroque Works agent posing as a Royal Army guard fires a cannon to start the civil war prematurely.",
+        "significance": "Demonstrates the depth of Baroque Works' infiltration and Crocodile's manipulation.",
+        "timestamp": "17:10"
+      },
+      {
+        "episodeNumber": 112,
+        "eventId": "ep112-event-013",
+        "momentType": "WORLD_LORE",
+        "title": "Baroque Works' Intelligence Network Revealed",
+        "description": "Mr. 2 reveals that Crocodile informed all elite agents about the Straw Hats' arm bandage system.",
+        "significance": "Shows Crocodile's strategic preparation and intelligence gathering.",
+        "timestamp": "23:20"
+      }
+    ],
+    "ships": [],
+    "bases": ["Rain Base"],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A stylized crown with wings",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "#000000",
+    "relationships": {
+      "allies": [],
+      "enemies": ["straw-hat-pirates", "arabasta-kingdom"],
+      "parentOrganization": null
+    }
+  }
+]

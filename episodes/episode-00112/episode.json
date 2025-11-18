@@ -1,0 +1,560 @@
+{
+  "episodeNumber": 112,
+  "episodeTitle": "Rebel Army vs. Royal Army! Showdown at Alubarna!",
+  "description": "The Straw Hat crew executes a plan using Super Spot-Billed Ducks to distract Baroque Works agents, allowing Vivi to reach the rebel army. Vivi attempts to stop the impending battle between rebel and royal forces but is trampled in the chaos. Karoo protects her, but Mr. 2 Bon Clay's deception complicates their mission.",
+  "airDate": "2002-05-19",
+  "airDateJapan": "2002-05-19",
+  "airDateUS": "2010-01-19",
+  "arcName": "Arabasta Arc",
+  "sagaName": "Arabasta Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Believe",
+    "artist": "Folder5",
+    "episodeRange": [48, 115]
+  },
+  "endingSong": {
+    "title": "GLORY -Kimi ga Iru Kara-",
+    "artist": "Takako Uehara",
+    "episodeRange": [107, 118]
+  },
+  "credits": {
+    "director": "Munehisa Sakai",
+    "writer": "Michiru Shimada",
+    "artDirectors": ["Miyuki Sato", "Michiyo Kawasaki"],
+    "keyAnimators": ["Naoki Tate", "Masahiro Shimanuki"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Misa Watanabe"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Mr. 2 Bon Clay (Bentham)",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Pell",
+        "actor": "Kenji Nojima"
+      },
+      {
+        "character": "Koza",
+        "actor": "Takeshi Kusao"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Caitlin Glass"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Mr. 2 Bon Clay (Bentham)",
+        "actor": "Kevin M. Connolly"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep112-event-001",
+      "episodeNumber": 112,
+      "timestamp": "03:15",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "X-Mark Identity System Established",
+      "description": "In a flashback, the Straw Hat Pirates establish their crew mark - an X beneath bandages on their arms - devised by Zoro to verify identities against Mr. 2 Bon Clay's shapeshifting abilities from the Mane Mane no Mi.",
+      "significance": "Demonstrates the crew's strategic thinking and establishes a visual symbol of trust and camaraderie that will be referenced later in the arc's emotional farewell scene.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "vivi"],
+      "locationIds": [],
+      "quotes": [
+        {
+          "text": "This X mark is proof of our fellowship. Mr. 2 won't be able to copy this!",
+          "speaker": "Zoro",
+          "context": "Explaining the safeguard against Mr. 2's Devil Fruit powers"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [130],
+      "callbacksToEpisodes": [110]
+    },
+    {
+      "id": "ep112-event-002",
+      "episodeNumber": 112,
+      "timestamp": "05:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Luffy's Vow to Defeat Crocodile",
+      "description": "Despite being badly injured from his previous encounter with Crocodile, Luffy demands meat from Pell instead of medical treatment. He grabs Pell's clothing and vows to make Crocodile pay for what he did to Vivi and her father Toto.",
+      "significance": "Reinforces Luffy's determination and loyalty to his friends, setting up the eventual final confrontation with Crocodile. Shows Luffy's characteristic belief that eating meat will heal any injury.",
+      "characterIds": ["luffy", "pell"],
+      "locationIds": ["alubarna"],
+      "quotes": [
+        {
+          "text": "I don't need a doctor, I need meat! I'm gonna make Crocodile pay for what he did to Vivi and Toto!",
+          "speaker": "Luffy",
+          "context": "Luffy's determination despite serious injuries from fighting Crocodile"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [110],
+      "payoffInEpisodes": [122],
+      "callbacksToEpisodes": [110]
+    },
+    {
+      "id": "ep112-event-003",
+      "episodeNumber": 112,
+      "timestamp": "08:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Super Spot-Billed Duck Quiz Strategy",
+      "description": "The Straw Hat Pirates execute their decoy plan: all six Super Spot-Billed Duck Troops riders wear identical cloaks, making it impossible for Baroque Works agents to identify which duck carries Vivi. The actual princess stays behind in hiding with Karoo while her crewmates act as decoys.",
+      "significance": "Clever tactical maneuver that showcases the crew's teamwork and strategic planning. Forces Baroque Works officers to split up, setting up individual battles.",
+      "characterIds": ["vivi", "luffy", "zoro", "nami", "usopp", "sanji", "chopper", "karoo"],
+      "locationIds": ["alubarna-outskirts"],
+      "devilFruitIds": [],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [113, 114, 115],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep112-event-004",
+      "episodeNumber": 112,
+      "timestamp": "11:20",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Baroque Works Agents Split to Chase Decoys",
+      "description": "Unable to identify which Super Spot-Billed Duck carries Vivi, the Baroque Works officer agents split into three groups to pursue the decoys. Mr. 4 fires explosive baseballs at the approaching ducks, but they move too quickly. The six ducks then split into three pairs heading south, west, and southwest.",
+      "significance": "The Baroque Works agents fall for the Straw Hats' trap, splitting their forces and setting up the individual matchups for the upcoming battles in Alubarna.",
+      "characterIds": ["mr-1", "miss-doublefinger", "mr-2-bon-clay", "mr-4", "miss-merry-christmas"],
+      "locationIds": ["alubarna-outskirts"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [113, 114, 115],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep112-event-005",
+      "episodeNumber": 112,
+      "timestamp": "13:40",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Zoro and Nami vs. Mr. 1 and Miss Doublefinger",
+      "description": "The first decoy pair is revealed: Zoro and Nami confront Mr. 1 (Daz Bonez) and Miss Doublefinger. This matchup sets up crucial battles where both Straw Hats will face formidable Devil Fruit users.",
+      "significance": "Establishes the first major officer agent battle. Zoro will face his toughest opponent yet in Mr. 1, whose Supa Supa no Mi makes his body as hard as steel.",
+      "characterIds": ["zoro", "nami", "mr-1", "miss-doublefinger"],
+      "locationIds": ["alubarna-south"],
+      "devilFruitIds": ["supa-supa-no-mi", "toge-toge-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [118, 119],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep112-event-006",
+      "episodeNumber": 112,
+      "timestamp": "14:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Sanji and Chopper vs. Mr. 4 and Miss Merry Christmas",
+      "description": "The second decoy pair is revealed: Sanji and Chopper face Mr. 4 and Miss Merry Christmas. Mr. 4 wields a baseball bat and his dog Lassoo (a gun that ate the Inu Inu no Mi), while Miss Merry Christmas has the Mogu Mogu no Mi allowing her to burrow underground.",
+      "significance": "Sets up a battle that will eventually involve Usopp in a crucial character development moment, testing the limits of the Straw Hats' endurance.",
+      "characterIds": ["sanji", "chopper", "mr-4", "miss-merry-christmas"],
+      "locationIds": ["alubarna-west"],
+      "devilFruitIds": ["mogu-mogu-no-mi", "inu-inu-no-mi-model-dachshund"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [116, 117],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep112-event-007",
+      "episodeNumber": 112,
+      "timestamp": "15:45",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Usopp and Matsuge Defeated by Mr. 2",
+      "description": "The third pair, Usopp and Matsuge (one of the Super Spot-Billed Ducks), encounter Mr. 2 Bon Clay. In an off-screen battle, Mr. 2 easily defeats both Usopp and Matsuge, knocking them unconscious.",
+      "significance": "Demonstrates Mr. 2's combat superiority and sets up his infiltration plan using his Mane Mane no Mi powers. This defeat will lead to Mr. 2's deception attempt.",
+      "characterIds": ["usopp", "mr-2-bon-clay", "matsuge"],
+      "locationIds": ["alubarna-southwest"],
+      "devilFruitIds": ["mane-mane-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [113],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep112-event-008",
+      "episodeNumber": 112,
+      "timestamp": "17:10",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Premature Cannon Fire Starts the War",
+      "description": "A premature cannon is fired by a Royal Army guard who is secretly a Baroque Works infiltrator. The cannon shot creates chaos and accelerates the inevitable clash between the rebel army and royal forces, preventing any chance for peaceful resolution.",
+      "significance": "Represents Crocodile's manipulation reaching its peak. The false flag operation ensures the civil war begins regardless of any intervention attempts, showing the depth of Baroque Works' infiltration.",
+      "characterIds": ["koza", "chaka"],
+      "locationIds": ["alubarna"],
+      "crewIds": ["baroque-works"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [108, 109],
+      "payoffInEpisodes": [123],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep112-event-009",
+      "episodeNumber": 112,
+      "timestamp": "18:50",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "CRITICAL",
+      "title": "Vivi's Desperate Plea to Stop the War",
+      "description": "Princess Vivi stands between the rebel and royal armies, desperately screaming for them to stop fighting. She calls out to Koza, using his childhood title 'Leader,' but her voice is drowned out by the chaos of thousands of soldiers and the premature cannon fire. Despite her efforts, she cannot reach him.",
+      "significance": "Heartbreaking moment showing Vivi's powerlessness despite her noble intentions. Emphasizes the tragedy of war and misunderstanding, and the difficulty of stopping violence once it begins.",
+      "characterIds": ["vivi", "koza", "karoo"],
+      "locationIds": ["alubarna-battlefield"],
+      "quotes": [
+        {
+          "text": "Leader! Koza! Please stop! This is all a setup!",
+          "speaker": "Vivi",
+          "context": "Vivi's desperate attempt to reach Koza and stop the civil war"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [108, 109, 110],
+      "payoffInEpisodes": [122, 123],
+      "callbacksToEpisodes": [106]
+    },
+    {
+      "id": "ep112-event-010",
+      "episodeNumber": 112,
+      "timestamp": "20:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Karoo Shields Vivi from Trampling",
+      "description": "As thousands of rebel soldiers charge forward, Vivi is caught in their path. Karoo acts quickly, covering Vivi with his own body and absorbing the trampling impact to protect the princess, suffering severe injuries in the process.",
+      "significance": "Powerful display of Karoo's unwavering loyalty and courage despite being naturally timid. One of the most touching moments showcasing the bond between Vivi and her companion, and his willingness to sacrifice himself for her safety.",
+      "characterIds": ["karoo", "vivi"],
+      "locationIds": ["alubarna-battlefield"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [113],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep112-event-011",
+      "episodeNumber": 112,
+      "timestamp": "21:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Mr. 2 Disguises as Usopp",
+      "description": "After defeating the real Usopp and Matsuge, Mr. 2 Bon Clay uses his Mane Mane no Mi powers to transform into Usopp. He approaches Vivi on horseback, attempting to deceive her and prevent her from stopping the rebel attack.",
+      "significance": "Demonstrates Mr. 2's Devil Fruit ability in a tactical infiltration attempt. Shows the danger of his shape-shifting powers when used for deception.",
+      "characterIds": ["mr-2-bon-clay", "vivi"],
+      "locationIds": ["alubarna-battlefield"],
+      "devilFruitIds": ["mane-mane-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [110],
+      "payoffInEpisodes": [113],
+      "callbacksToEpisodes": [110]
+    },
+    {
+      "id": "ep112-event-012",
+      "episodeNumber": 112,
+      "timestamp": "22:45",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MINOR",
+      "title": "Vivi Discovers Mr. 2's Deception",
+      "description": "Vivi becomes suspicious of the 'Usopp' approaching her when he refers to Karoo as 'that bird' instead of using his name. She asks the impostor to prove his identity by showing the X-mark bandage. When Mr. 2 shows the wrong arm, Vivi immediately recognizes it's not the real Usopp.",
+      "significance": "Shows Vivi's intelligence and attention to detail, as well as the deep bonds she's formed with the Straw Hat crew. Her knowledge of Karoo's relationship with Usopp and the specific arm marking reveals her careful observation of her allies.",
+      "characterIds": ["vivi", "mr-2-bon-clay", "karoo", "usopp"],
+      "locationIds": ["alubarna-battlefield"],
+      "quotes": [
+        {
+          "text": "The real Usopp would never call Karoo 'that bird' after all we've been through!",
+          "speaker": "Vivi",
+          "context": "Vivi recognizing that Mr. 2 is impersonating Usopp"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [110, 111],
+      "payoffInEpisodes": [113],
+      "callbacksToEpisodes": [106, 107, 110]
+    },
+    {
+      "id": "ep112-event-013",
+      "episodeNumber": 112,
+      "timestamp": "23:20",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Mr. 2 Reveals Baroque Works' Knowledge",
+      "description": "After being exposed, Mr. 2 Bon Clay reveals that Crocodile informed all the elite Baroque Works officer agents about the Straw Hat Pirates' arm bandage identification system, showing how Baroque Works has been monitoring and preparing for the crew's tactics.",
+      "significance": "Demonstrates Crocodile's intelligence network and strategic preparation. Shows that the Straw Hats' safeguard has been compromised, raising the stakes.",
+      "characterIds": ["mr-2-bon-clay", "vivi"],
+      "locationIds": ["alubarna-battlefield"],
+      "crewIds": ["baroque-works"],
+      "quotes": [
+        {
+          "text": "Crocodile told all of us elite members that you Straw Hats had bandages on your arms!",
+          "speaker": "Mr. 2 Bon Clay",
+          "context": "Revealing that their identity system has been compromised"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [110],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep112-event-014",
+      "episodeNumber": 112,
+      "timestamp": "23:55",
+      "eventType": "BATTLE_START",
+      "severity": "CRITICAL",
+      "title": "Rebel Army vs. Royal Army Clash Begins",
+      "description": "The rebel forces charge through Alubarna's south gate as the royal infantry mobilizes to meet them. The long-brewing civil war officially begins, with thousands of soldiers from both sides clashing in the streets of the capital city.",
+      "significance": "The culmination of Crocodile's manipulation and the arc's central conflict. This massive battle represents the tragic result of misinformation and manipulation, with innocent people on both sides fighting each other instead of the real enemy.",
+      "characterIds": ["koza", "chaka"],
+      "locationIds": ["alubarna"],
+      "crewIds": ["baroque-works"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [92, 93, 94, 95, 96, 108, 109, 110],
+      "payoffInEpisodes": [122, 123],
+      "callbacksToEpisodes": [92]
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": ["alubarna-battlefield", "alubarna-south", "alubarna-west", "alubarna-southwest", "alubarna-outskirts"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [113, 114, 115, 116, 117, 118, 119, 122, 123],
+    "payoffFrom": [92, 93, 94, 95, 96, 106, 107, 108, 109, 110, 111],
+    "thematicLinks": [130]
+  },
+  "quotes": [
+    {
+      "text": "This X mark is proof of our fellowship. Mr. 2 won't be able to copy this!",
+      "speaker": "Zoro",
+      "context": "Establishing the identity verification system",
+      "timestamp": "03:15"
+    },
+    {
+      "text": "I don't need a doctor, I need meat! I'm gonna make Crocodile pay for what he did to Vivi and Toto!",
+      "speaker": "Luffy",
+      "context": "Luffy's determination despite serious injuries",
+      "timestamp": "05:30"
+    },
+    {
+      "text": "Leader! Koza! Please stop! This is all a setup!",
+      "speaker": "Vivi",
+      "context": "Vivi's desperate attempt to stop the civil war",
+      "timestamp": "18:50"
+    },
+    {
+      "text": "The real Usopp would never call Karoo 'that bird' after all we've been through!",
+      "speaker": "Vivi",
+      "context": "Recognizing Mr. 2's deception",
+      "timestamp": "22:45"
+    },
+    {
+      "text": "Crocodile told all of us elite members that you Straw Hats had bandages on your arms!",
+      "speaker": "Mr. 2 Bon Clay",
+      "context": "Revealing Baroque Works' intelligence",
+      "timestamp": "23:20"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Loyalty and Sacrifice",
+      "description": "The episode powerfully explores loyalty through Karoo's willingness to shield Vivi with his own body, the Straw Hats acting as decoys to protect her, and Luffy's determination to defeat Crocodile despite his injuries.",
+      "symbolism": "Karoo protecting Vivi from trampling symbolizes the unwavering devotion of true companions, even in the face of overwhelming danger.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "War and Tragedy",
+      "description": "The episode depicts the heartbreaking reality of civil war, where good people fight each other due to manipulation and misinformation. Vivi's inability to stop the clash despite her desperate efforts highlights the difficulty of halting violence once it begins.",
+      "symbolism": "The premature cannon fire represents how easily conflict can be ignited through deception, and how quickly situations can spiral beyond control.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Deception and Truth",
+      "description": "Mr. 2's shapeshifting abilities and infiltration tactics contrast with Vivi's ability to see through deception based on her understanding of her friends' true nature.",
+      "symbolism": "The X-mark bandage system represents the bonds of trust that cannot be easily replicated, even by perfect physical imitation.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Strategic Teamwork",
+      "description": "The Super Spot-Billed Duck Quiz demonstrates the crew's ability to work together tactically, using misdirection and sacrifice to protect their friend and accomplish their mission.",
+      "symbolism": "The six identical cloaked riders represent unity and the strength found in working together toward a common goal.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Desperate", "Heroic", "Tragic"],
+  "characterSpotlights": [
+    {
+      "characterId": "vivi",
+      "role": "Protagonist struggling to prevent war",
+      "development": "Vivi demonstrates her intelligence in detecting Mr. 2's deception and her desperate determination to save her country, but faces the harsh reality that even a princess's voice can be drowned out by the chaos of war.",
+      "keyActions": [
+        "Hides with Karoo while crew acts as decoys",
+        "Attempts to stop the armies from clashing",
+        "Detects Mr. 2's impersonation of Usopp",
+        "Calls out to Koza but cannot reach him"
+      ],
+      "quotes": ["Leader! Koza! Please stop! This is all a setup!", "The real Usopp would never call Karoo 'that bird' after all we've been through!"]
+    },
+    {
+      "characterId": "karoo",
+      "role": "Loyal protector",
+      "development": "Despite his naturally timid nature, Karoo demonstrates incredible bravery and loyalty by shielding Vivi from being trampled by thousands of soldiers, suffering severe injuries to protect her.",
+      "keyActions": [
+        "Stays hidden with Vivi during the decoy plan",
+        "Shields Vivi with his body from trampling",
+        "Carries Vivi away despite severe injuries"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "luffy",
+      "role": "Injured but determined captain",
+      "development": "Even while severely injured from fighting Crocodile, Luffy refuses medical treatment in favor of eating meat and vows to make Crocodile pay for hurting his friends.",
+      "keyActions": [
+        "Demands meat instead of medical treatment",
+        "Vows to defeat Crocodile for hurting Vivi and Toto",
+        "Demonstrates characteristic stubbornness and loyalty"
+      ],
+      "quotes": ["I don't need a doctor, I need meat! I'm gonna make Crocodile pay for what he did to Vivi and Toto!"]
+    },
+    {
+      "characterId": "mr-2-bon-clay",
+      "role": "Antagonist and master of deception",
+      "development": "Mr. 2 demonstrates his combat prowess by easily defeating Usopp and Matsuge, then uses his Mane Mane no Mi powers for infiltration. However, his lack of knowledge about the Straw Hats' relationships exposes his deception.",
+      "keyActions": [
+        "Defeats Usopp and Matsuge off-screen",
+        "Disguises himself as Usopp to deceive Vivi",
+        "Reveals Baroque Works' knowledge of the arm bandage system",
+        "Pursues Vivi after being exposed"
+      ],
+      "quotes": ["Crocodile told all of us elite members that you Straw Hats had bandages on your arms!"]
+    },
+    {
+      "characterId": "zoro",
+      "role": "Strategic thinker and decoy",
+      "development": "Zoro demonstrates leadership by devising the X-mark identity system and volunteers to be a decoy, facing Mr. 1 in what will become one of his most challenging battles.",
+      "keyActions": [
+        "Devises the X-mark bandage system",
+        "Acts as decoy with Nami",
+        "Confronts Mr. 1 and Miss Doublefinger"
+      ],
+      "quotes": ["This X mark is proof of our fellowship. Mr. 2 won't be able to copy this!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends the scenes of the rebel army charging and Vivi's desperate attempts to stop them, adding more emotional weight to the moment.",
+      "episodeTimestamp": "18:50",
+      "mangaReference": "Chapter 182",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "The flashback showing the Straw Hats establishing the X-mark system is placed at the beginning of the episode for clarity, while in the manga it appears later.",
+      "episodeTimestamp": "03:15",
+      "mangaReference": "Chapter 183",
+      "type": "SCENE_REORDERING"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode aired on May 19, 2002, and achieved a TV rating of 14.4%, ranking 4th for that broadcast period.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "The episode title 'Rebel Army vs. Royal Army! Showdown at Alubarna!' directly references the central conflict that has been building throughout the entire Arabasta Arc.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "The X-mark identity system established in this episode becomes one of the most iconic and emotional callbacks in One Piece during the farewell scene with Vivi in Episode 130.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "'Believe' by Folder5 is the third longest-running opening theme in One Piece at 68 episodes (48-115), and is a Japanese cover of the Eurobeat song 'Dreamin' Of You' by Lolita.",
+      "category": "MUSIC",
+      "sources": []
+    },
+    {
+      "fact": "This episode covers parts of four manga chapters (180-183), showing the anime's pacing during the Arabasta Arc.",
+      "category": "ADAPTATION",
+      "sources": []
+    },
+    {
+      "fact": "Karoo's act of shielding Vivi from being trampled is one of the most celebrated moments of animal companion loyalty in One Piece, often cited by fans as a tearjerker moment.",
+      "category": "FAN_CULTURE",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
