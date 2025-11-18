@@ -1,0 +1,165 @@
+{
+  "locations": [
+    {
+      "id": "angel-beach",
+      "name": {
+        "english": "Angel Beach",
+        "japanese": "エンジェルビーチ",
+        "romanized": "Enjeru Bīchi"
+      },
+      "locationType": "BEACH",
+      "seaRegion": "SKY",
+      "islandName": "Skypiea",
+      "episodeAppearances": [157],
+      "keyEvents": [
+        {
+          "episodeNumber": 157,
+          "eventId": "ep157-event-001",
+          "eventType": "MAJOR_DECISION",
+          "title": "Crew Debates Fleeing Skypiea",
+          "description": "At Angel Beach, the crew discusses whether to flee after being marked as criminals, with Nami advocating for escape and Luffy insisting on exploring Upper Yard.",
+          "significance": "The location where the crew's fate in Skypiea is decided, leading to their separation.",
+          "timestamp": "02:30"
+        }
+      ],
+      "description": "A peaceful beach area on Skypiea where the Straw Hats initially docked the Going Merry and met the local residents."
+    },
+    {
+      "id": "pagaya-house",
+      "name": {
+        "english": "Pagaya's House",
+        "japanese": "パガヤの家",
+        "romanized": "Pagaya no Ie"
+      },
+      "locationType": "BUILDING",
+      "seaRegion": "SKY",
+      "islandName": "Skypiea",
+      "episodeAppearances": [157],
+      "keyEvents": [
+        {
+          "episodeNumber": 157,
+          "eventId": "ep157-event-003",
+          "eventType": "LOCATION_ARRIVAL",
+          "title": "Straw Hats Gather Supplies",
+          "description": "Luffy, Sanji, and Usopp visit Pagaya's house to gather food and ship repair materials.",
+          "significance": "The location where supplies are gathered and where Pagaya explains the divine trial system.",
+          "timestamp": "07:45"
+        },
+        {
+          "episodeNumber": 157,
+          "eventId": "ep157-event-005",
+          "eventType": "WORLD_LORE",
+          "title": "Pagaya Explains God's Judgment",
+          "description": "Inside his home, Pagaya explains to the Straw Hats the nature of God's judgment and the trial system.",
+          "significance": "Key exposition location that reveals important information about Skypiea's theocratic system.",
+          "timestamp": "12:45"
+        }
+      ],
+      "description": "The home of Pagaya and his daughter Conis on Skypiea, where the Straw Hats receive hospitality and crucial information."
+    },
+    {
+      "id": "upper-yard",
+      "name": {
+        "english": "Upper Yard",
+        "japanese": "アッパーヤード",
+        "romanized": "Appā Yādo"
+      },
+      "locationType": "ISLAND",
+      "seaRegion": "SKY",
+      "islandName": "Upper Yard",
+      "episodeAppearances": [157],
+      "keyEvents": [
+        {
+          "episodeNumber": 157,
+          "eventId": "ep157-event-006",
+          "eventType": "LOCATION_ARRIVAL",
+          "title": "Crew Taken to Upper Yard",
+          "description": "The Super Express Speed Shrimp pulls the Going Merry with half the crew toward Upper Yard.",
+          "significance": "The forbidden holy land that becomes the main setting for the Skypiea arc's battles and exploration.",
+          "timestamp": "14:30"
+        }
+      ],
+      "description": "The forbidden holy land of Skypiea, also known as God's Island, where Enel resides and administers divine judgment through his priests."
+    },
+    {
+      "id": "sacrificial-altar",
+      "name": {
+        "english": "Sacrificial Altar",
+        "japanese": "生贄の祭壇",
+        "romanized": "Ikenie no Saidan"
+      },
+      "locationType": "LANDMARK",
+      "seaRegion": "SKY",
+      "islandName": "Upper Yard",
+      "parentLocation": "upper-yard",
+      "episodeAppearances": [157],
+      "keyEvents": [
+        {
+          "episodeNumber": 157,
+          "eventId": "ep157-event-006",
+          "eventType": "LOCATION_ARRIVAL",
+          "title": "Destination of the Super Express Speed Shrimp",
+          "description": "Pagaya reveals that the captured crew members are being taken to the Sacrificial Altar where they will face God's trials.",
+          "significance": "The location where God's judgment is executed and where the crew will face the divine ordeals.",
+          "timestamp": "14:30"
+        }
+      ],
+      "description": "A location within Upper Yard where those marked as sacrifices are taken to face God's judgment and trials."
+    },
+    {
+      "id": "white-sea",
+      "name": {
+        "english": "White Sea",
+        "japanese": "白々海",
+        "romanized": "Hakuhaku-kai"
+      },
+      "locationType": "SEA",
+      "seaRegion": "SKY",
+      "episodeAppearances": [157],
+      "keyEvents": [
+        {
+          "episodeNumber": 157,
+          "eventId": "ep157-event-004",
+          "eventType": "FIRST_APPEARANCE",
+          "title": "Super Express Speed Shrimp Emerges",
+          "description": "The massive crustacean emerges from beneath the White Sea and captures the Going Merry.",
+          "significance": "The sea surrounding Skypiea where God's servants operate to enforce divine authority.",
+          "timestamp": "10:20"
+        }
+      ],
+      "description": "The sea of clouds at 7,000 meters above the Blue Sea where Skypiea is located."
+    }
+  ],
+  "worldLore": [
+    {
+      "title": "God's Judgment System",
+      "category": "POLITICAL_SYSTEM",
+      "description": "In Skypiea, those who are designated as sacrifices by God Enel face one of two judgments: either direct sacrifice or facing an ordeal administered by one of God's priests. This system enforces absolute theocratic control over the sky island.",
+      "episodeRevealed": 157,
+      "significance": "Establishes the fundamental power structure of Skypiea and explains how Enel maintains control through fear and divine authority.",
+      "relatedCharacters": ["enel", "pagaya"],
+      "relatedLocations": ["upper-yard", "sacrificial-altar"],
+      "severity": "MAJOR"
+    },
+    {
+      "title": "Servants of God",
+      "category": "CREATURES",
+      "description": "God Enel employs various creatures as servants to enforce his will, including the Super Express Speed Shrimp, a massive crustacean that transports criminals to the Sacrificial Altar in Upper Yard.",
+      "episodeRevealed": 157,
+      "significance": "Reveals that Enel's control extends beyond human followers to include specially trained or controlled creatures.",
+      "relatedCharacters": ["enel"],
+      "relatedLocations": ["white-sea", "upper-yard"],
+      "severity": "MINOR"
+    },
+    {
+      "title": "The Divine Trials",
+      "category": "LAW_SYSTEM",
+      "description": "God's ordeals are trials designed by Enel's priests, each with different survival rates. These trials serve as both punishment and entertainment for God.",
+      "episodeRevealed": 157,
+      "significance": "Sets up the challenge structure for the Skypiea arc where the Straw Hats will face various priest trials.",
+      "relatedCharacters": ["enel"],
+      "relatedLocations": ["upper-yard", "sacrificial-altar"],
+      "severity": "MAJOR"
+    }
+  ]
+}

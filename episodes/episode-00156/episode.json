@@ -1,0 +1,512 @@
+{
+  "episodeNumber": 156,
+  "episodeTitle": "Already Criminals?! Skypiea's Upholder of the Law!",
+  "episodeTitleJapanese": "早くも犯罪者！？スカイピアの法の番人",
+  "episodeTitleRomanized": "Hayaku mo Hanzaisha!? Skypiea no Hou no Bannin",
+  "description": "The White Berets, led by Captain McKinley, arrive to arrest the Straw Hat Pirates for illegal entry into Skypiea without paying the entrance fee. When the crew refuses to comply, the situation escalates as multiple actions are classified as crimes. Nami returns from exploring and strikes McKinley with her waver. Luffy easily defeats the White Berets using his new technique, Gomu Gomu no Hanabi, elevating the crew to Class 2 criminal status.",
+  "airDate": "2003-06-08",
+  "airDateJapan": "2003-06-08",
+  "airDateUS": "2007-12-29",
+  "arcName": "Skypiea Arc",
+  "sagaName": "Sky Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Hikari e",
+    "artist": "The Babystars",
+    "episodeRange": [116, 168]
+  },
+  "endingSong": {
+    "title": "Free Will",
+    "artist": "Ruppina",
+    "episodeRange": [133, 156],
+    "notes": "Final episode to use this ending theme"
+  },
+  "credits": {
+    "director": "Junichi Fujise",
+    "screenplay": "Yoshiyuki Suga",
+    "artDirector": "Miyuki Sato, Fumihiro Uchikawa",
+    "animationDirector": "Kenji Yokoyama",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "McKinley",
+        "actor": "Keiichi Sonobe"
+      },
+      {
+        "character": "Conis",
+        "actor": "Masami Suzuki"
+      },
+      {
+        "character": "Pagaya",
+        "actor": "Taro Ishida"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "McKinley",
+        "actor": "Jim Johnson"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep156-event-001",
+      "episodeNumber": 156,
+      "timestamp": "03:45",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "White Berets Arrive at Lovely Street",
+      "description": "Captain McKinley and the White Berets arrive at Lovely Street on Angel Island to confront the Straw Hat Pirates. They inform the crew that they have committed a crime by entering Skypiea without paying the 1 billion extol entrance fee.",
+      "significance": "First direct confrontation between the Straw Hats and Skypiea's law enforcement, establishing the conflict that will escalate throughout the episode.",
+      "characterIds": ["luffy", "zoro", "usopp", "sanji", "chopper", "robin", "mckinley"],
+      "locationIds": ["lovely-street", "angel-island"],
+      "crewIds": ["straw-hat-pirates", "white-berets"],
+      "quotes": [
+        {
+          "text": "You have committed the crime of illegal entry. You must pay the 1 billion extol entrance fee.",
+          "speaker": "McKinley",
+          "context": "McKinley's initial warning to the Straw Hats"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [153, 154, 155],
+      "payoffInEpisodes": [157, 158],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep156-event-002",
+      "episodeNumber": 156,
+      "timestamp": "06:20",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Skypiea's Crime Classification System Explained",
+      "description": "McKinley explains Skypiea's crime classification system to the Straw Hats. Different offenses are categorized into classes, with punishments ranging from fines for minor crimes to judgment by the Priests for Class 2 criminals.",
+      "significance": "Introduces the unique legal and judicial system of Skypiea, which operates under God Enel's rule. This system will become important as the arc progresses.",
+      "characterIds": ["mckinley", "luffy", "usopp"],
+      "locationIds": ["lovely-street"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [157, 158, 160],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep156-event-003",
+      "episodeNumber": 156,
+      "timestamp": "08:15",
+      "eventType": "CULTURAL_MOMENT",
+      "title": "Straw Hats Refuse to Pay the Entry Fee",
+      "description": "When McKinley demands payment of the entrance fee, the Straw Hats collectively refuse, stating they cannot afford such an amount. This refusal escalates the situation from a simple fine to criminal charges.",
+      "significance": "Demonstrates the Straw Hats' stubborn nature and unwillingness to submit to unjust authority, a recurring theme throughout the series.",
+      "characterIds": ["luffy", "usopp", "sanji", "mckinley"],
+      "locationIds": ["lovely-street"],
+      "quotes": [
+        {
+          "text": "We don't have that kind of money!",
+          "speaker": "Usopp",
+          "context": "The crew's response to the exorbitant fee"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep156-event-004",
+      "episodeNumber": 156,
+      "timestamp": "10:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Multiple Crimes Accumulate",
+      "description": "McKinley lists additional crimes committed by the Straw Hats: Usopp using a waver (forbidden for Blue Sea people), hitting the Express Lobster, and other infractions. Each action adds to their criminal status.",
+      "significance": "Shows how the strict laws of Skypiea can quickly turn innocent actions into crimes, highlighting the oppressive nature of Enel's rule.",
+      "characterIds": ["mckinley", "usopp", "luffy"],
+      "locationIds": ["lovely-street"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [155],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [155]
+    },
+    {
+      "id": "ep156-event-005",
+      "episodeNumber": 156,
+      "timestamp": "13:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Nami Returns on the Waver",
+      "description": "Nami returns to Lovely Street riding the waver at high speed after exploring the Forbidden Upper Yard. She is unaware of the confrontation happening between her crewmates and the White Berets.",
+      "significance": "Nami's return sets up the crucial moment that will escalate the Straw Hats to Class 2 criminal status.",
+      "characterIds": ["nami"],
+      "locationIds": ["lovely-street"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [155],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [155]
+    },
+    {
+      "id": "ep156-event-006",
+      "episodeNumber": 156,
+      "timestamp": "14:20",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Nami Assaults McKinley",
+      "description": "Nami accidentally crashes into McKinley with the waver, striking him directly. McKinley classifies this as a Class 5 crime - assaulting an officer of the law. This act significantly escalates the crew's criminal status.",
+      "significance": "This assault elevates the situation from a minor legal dispute to a serious confrontation, making the Straw Hats wanted criminals who must face the Priests.",
+      "characterIds": ["nami", "mckinley"],
+      "locationIds": ["lovely-street"],
+      "quotes": [
+        {
+          "text": "This is a Class 5 crime! Assault on an officer of the White Berets!",
+          "speaker": "McKinley",
+          "context": "McKinley's reaction after being hit by Nami's waver"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep156-event-007",
+      "episodeNumber": 156,
+      "timestamp": "16:00",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "White Berets Attack the Straw Hats",
+      "description": "McKinley orders the White Berets to attack and apprehend the Straw Hat Pirates. The White Berets charge forward with their weapons drawn, attempting to arrest the crew by force.",
+      "significance": "First combat engagement between the Straw Hats and Skypiea's forces, demonstrating the power difference between Blue Sea pirates and regular Sky Island soldiers.",
+      "characterIds": ["mckinley", "luffy", "zoro", "sanji"],
+      "locationIds": ["lovely-street"],
+      "crewIds": ["white-berets", "straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep156-event-008",
+      "episodeNumber": 156,
+      "timestamp": "17:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Gomu Gomu no Hanabi Debut",
+      "description": "Luffy debuts a new technique, Gomu Gomu no Hanabi (Gum-Gum Fireworks). He grabs multiple White Berets soldiers, stretches his arms, and slams them all into the ground simultaneously in a spectacular display.",
+      "significance": "First appearance of this technique in the anime, showcasing Luffy's growing repertoire of Devil Fruit abilities and his overwhelming strength compared to average soldiers.",
+      "characterIds": ["luffy"],
+      "locationIds": ["lovely-street"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [
+        {
+          "text": "Gomu Gomu no... Hanabi!",
+          "speaker": "Luffy",
+          "context": "Luffy calling out his new technique"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep156-event-009",
+      "episodeNumber": 156,
+      "timestamp": "18:15",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "White Berets Defeated",
+      "description": "The White Berets are quickly and easily defeated by Luffy's attack. The soldiers lie scattered on the ground, unable to continue fighting. McKinley watches in shock as his entire unit is taken down in seconds.",
+      "significance": "Demonstrates the vast power gap between the Straw Hats and ordinary Skypiea soldiers, establishing that the crew will need stronger opponents (the Priests) to face real challenges.",
+      "characterIds": ["luffy", "mckinley"],
+      "locationIds": ["lovely-street"],
+      "crewIds": ["white-berets"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep156-event-010",
+      "episodeNumber": 156,
+      "timestamp": "19:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Straw Hats Designated as Class 2 Criminals",
+      "description": "McKinley officially declares the Straw Hat Pirates as Class 2 criminals due to their illegal entry, refusal to pay, possession of forbidden items, assault on officers, and resisting arrest. He announces that they will be judged by the Priests of the Upper Yard.",
+      "significance": "This designation marks a major escalation in the conflict and sets up the upcoming confrontations with Enel's Priests. Class 2 criminals face the deadly 'Ordeals' as punishment.",
+      "characterIds": ["mckinley", "luffy", "nami", "zoro", "sanji", "usopp", "chopper", "robin"],
+      "locationIds": ["lovely-street"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "You are now designated as Class 2 criminals! You will face judgment by the Priests!",
+          "speaker": "McKinley",
+          "context": "McKinley's declaration after the White Berets' defeat"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [157, 158, 160, 163],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep156-event-011",
+      "episodeNumber": 156,
+      "timestamp": "20:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Introduction of the Priests and Ordeals",
+      "description": "McKinley explains that Class 2 criminals must face the judgment of Enel's four Priests, who administer deadly trials called 'Ordeals.' Each Priest controls a different ordeal with extremely low survival rates.",
+      "significance": "Introduces the next major antagonists of the arc and establishes the deadly challenges the Straw Hats will face. This foreshadows the upcoming battles with the Priests.",
+      "characterIds": ["mckinley", "luffy"],
+      "locationIds": ["lovely-street"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [157, 158, 160, 163, 164, 165],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep156-event-012",
+      "episodeNumber": 156,
+      "timestamp": "21:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Conis and Pagaya's Concern",
+      "description": "Conis and Pagaya witness the confrontation and express deep concern for the Straw Hats. They understand the severity of being labeled Class 2 criminals and fear for the pirates' safety.",
+      "significance": "Shows the perspective of ordinary Skypiea citizens who live under Enel's oppressive rule and highlights the fear his system instills in the population.",
+      "characterIds": ["conis", "pagaya"],
+      "locationIds": ["lovely-street"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [154, 155],
+      "payoffInEpisodes": [157],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["mckinley"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": ["white-berets"],
+    "abilities": ["gomu-gomu-no-hanabi"]
+  },
+  "episodeRelationships": {
+    "setupFor": [157, 158, 160],
+    "payoffFrom": [153, 154, 155],
+    "thematicLinks": [50, 98, 236]
+  },
+  "quotes": [
+    {
+      "text": "Gomu Gomu no... Hanabi!",
+      "speaker": "Luffy",
+      "context": "Luffy debuts his new fireworks technique against the White Berets",
+      "timestamp": "17:30"
+    },
+    {
+      "text": "You are now designated as Class 2 criminals! You will face judgment by the Priests!",
+      "speaker": "McKinley",
+      "context": "McKinley's declaration after the crew defeats the White Berets",
+      "timestamp": "19:45"
+    },
+    {
+      "text": "This is a Class 5 crime! Assault on an officer of the White Berets!",
+      "speaker": "McKinley",
+      "context": "McKinley's reaction after being struck by Nami's waver",
+      "timestamp": "14:20"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Justice vs Authority",
+      "description": "The episode explores the conflict between the Straw Hats' sense of justice and Skypiea's oppressive legal system. The crew refuses to submit to what they perceive as unjust laws and excessive authority.",
+      "symbolism": "The White Berets represent blind enforcement of unjust laws under a tyrannical ruler, while the Straw Hats represent freedom and resistance to oppression.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Freedom and Rebellion",
+      "description": "The Straw Hats' refusal to pay the entrance fee and their resistance to arrest exemplify their core value of freedom and their willingness to rebel against systems they view as unfair.",
+      "symbolism": "Luffy's easy defeat of the White Berets symbolizes the triumph of individual freedom over institutional control.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Escalation of Conflict",
+      "description": "Small actions and misunderstandings quickly escalate into major conflicts, showing how oppressive systems can turn innocent people into criminals.",
+      "symbolism": "The accumulation of 'crimes' from simple actions illustrates how authoritarian regimes can criminalize normal behavior.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Comedic", "Adventurous"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist confronting authority",
+      "development": "Luffy demonstrates his growing combat abilities with a new technique and shows his characteristic disregard for unjust authority.",
+      "keyActions": [
+        "Refuses to pay the entrance fee",
+        "Debates with McKinley about the legitimacy of the charges",
+        "Debuts Gomu Gomu no Hanabi technique",
+        "Easily defeats the White Berets"
+      ],
+      "quotes": ["Gomu Gomu no... Hanabi!"]
+    },
+    {
+      "characterId": "nami",
+      "role": "Catalyst for escalation",
+      "development": "Nami's accidental assault on McKinley becomes the tipping point that elevates the crew to Class 2 criminal status.",
+      "keyActions": [
+        "Returns from exploring on the waver",
+        "Accidentally strikes McKinley",
+        "Commits a Class 5 crime"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "mckinley",
+      "role": "Antagonist/Law enforcement",
+      "development": "McKinley is introduced as the captain of the White Berets, enforcing Skypiea's strict laws. He represents the front line of Enel's oppressive system.",
+      "keyActions": [
+        "Confronts the Straw Hats about illegal entry",
+        "Explains Skypiea's crime classification system",
+        "Orders the attack on the Straw Hats",
+        "Designates them as Class 2 criminals",
+        "Introduces the concept of the Priests and Ordeals"
+      ],
+      "quotes": [
+        "You are now designated as Class 2 criminals! You will face judgment by the Priests!",
+        "This is a Class 5 crime! Assault on an officer of the White Berets!"
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended some of the comedic reactions from the Straw Hats during McKinley's explanation of the crimes.",
+      "episodeTimestamp": "08:00",
+      "mangaReference": "Chapter 242",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "Additional animation showing the White Berets preparing for battle was added for dramatic effect.",
+      "episodeTimestamp": "16:00",
+      "mangaReference": "Chapter 242",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This is the final episode to use 'Free Will' by Ruppina as the ending theme. The song was used for episodes 133-156.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Free_Will",
+          "title": "Free Will - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Gomu Gomu no Hanabi (Gum-Gum Fireworks) makes its anime debut in this episode, though it first appeared in manga Chapter 242.",
+      "category": "ABILITIES",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_156",
+          "title": "Episode 156 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "There is an animation error in this episode where a White Beret soldier's foot eclipses Luffy's ankle after the fight scene.",
+      "category": "ANIMATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_156",
+          "title": "Episode 156 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode eyecatcher features Usopp and Nami.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "This episode had a TV rating of 12.8%, ranking 4th in its time slot when it originally aired in Japan.",
+      "category": "RATINGS",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_156",
+          "title": "Episode 156 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
