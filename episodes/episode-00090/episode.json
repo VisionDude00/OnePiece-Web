@@ -1,0 +1,462 @@
+{
+  "episodeNumber": 90,
+  "episodeTitle": "Hiriluk's Cherry Blossoms! Miracle in the Drum Rockies!",
+  "japaneseTitl": "ヒルルクの桜！ドラムロッキーの奇跡",
+  "romanizedTitle": "Hiruruku no Sakura! Doramu Rokkī no Kiseki",
+  "description": "Chopper officially joins the Straw Hat Pirates after Luffy convinces him. Dr. Kureha gives Chopper an emotional farewell by firing cannons filled with Hiriluk's special powder into the sky, turning the snow pink and creating cherry blossoms across Drum Island, fulfilling Hiriluk's lifelong dream.",
+  "airDate": "2001-12-02",
+  "airDateJapan": "2001-12-02",
+  "airDateUS": "2009-09-29",
+  "arcName": "Drum Island",
+  "sagaName": "Alabasta Saga",
+  "animationQuality": "GOOD",
+  "openingSong": {
+    "title": "Believe",
+    "artist": "Folder5",
+    "episodeRange": [48, 115]
+  },
+  "endingSong": {
+    "title": "BEFORE DAWN",
+    "artist": "AI-SACHI",
+    "episodeRange": [82, 94]
+  },
+  "credits": {
+    "director": "Munehisa Sakai",
+    "screenplay": "Michiru Shimada",
+    "animationDirector": "Masayuki Takagi",
+    "artDirector": "Kunihiro Chida",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Ōtani"
+      },
+      {
+        "character": "Dr. Kureha",
+        "actor": "Masako Nozawa"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Misa Watanabe"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Dr. Kureha",
+        "actor": "Julie Mayfield"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Caitlin Glass"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep090-event-001",
+      "episodeNumber": 90,
+      "timestamp": "03:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Chopper Decides to Join the Straw Hats",
+      "description": "After much internal struggle, Tony Tony Chopper makes the life-changing decision to accept Luffy's invitation and join the Straw Hat Pirates as their ship's doctor. He realizes this is his chance to pursue Hiriluk's dream and see the world.",
+      "significance": "Chopper becomes the fifth member of the Straw Hat Pirates and their first official doctor. This marks a major milestone in the crew's formation and fulfills Hiriluk's wish for Chopper to go out to sea.",
+      "characterIds": ["chopper", "luffy"],
+      "locationIds": ["drum-castle"],
+      "quotes": [
+        {
+          "text": "I want to be a pirate!",
+          "speaker": "Chopper",
+          "context": "Chopper finally admits his true desire to join Luffy's crew"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [81, 85, 87, 88, 89],
+      "payoffInEpisodes": [91],
+      "callbacksToEpisodes": [81]
+    },
+    {
+      "id": "ep090-event-002",
+      "episodeNumber": 90,
+      "timestamp": "05:20",
+      "eventType": "CREW_JOIN",
+      "severity": "MAJOR",
+      "title": "Luffy's Direct Recruitment",
+      "description": "When Chopper tries to explain why he can't join (being a reindeer, having a blue nose, being a monster), Luffy interrupts him by shouting to shut up and come with them anyway. This direct, accepting approach moves Chopper to tears.",
+      "significance": "One of the most iconic recruitment moments in One Piece, showcasing Luffy's ability to see past appearances and differences. This moment demonstrates why Luffy is a natural leader who attracts loyal crewmates.",
+      "characterIds": ["luffy", "chopper"],
+      "locationIds": ["drum-castle"],
+      "quotes": [
+        {
+          "text": "Just shut up and come with us!",
+          "speaker": "Luffy",
+          "context": "Luffy's iconic recruitment line that brings Chopper to tears"
+        },
+        {
+          "text": "OK!",
+          "speaker": "Chopper",
+          "context": "Chopper's tearful acceptance, finally finding friends who accept him"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [81, 85, 89],
+      "payoffInEpisodes": [91, 92],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep090-event-003",
+      "episodeNumber": 90,
+      "timestamp": "08:15",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "title": "Chopper Tells Kureha He's Leaving",
+      "description": "Chopper announces to Dr. Kureha that he's leaving to become a pirate and join the Straw Hat crew. Kureha initially objects and chases him, not wanting to accept his decision and worried about him following Hiriluk's 'hopeless dreams.'",
+      "significance": "This confrontation shows the depth of Kureha's care for Chopper despite her gruff exterior. Her objections stem from love and fear of losing another person she cares about.",
+      "severity": "MAJOR",
+      "characterIds": ["chopper", "kureha"],
+      "locationIds": ["drum-castle"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [81, 85],
+      "payoffInEpisodes": [90],
+      "callbacksToEpisodes": [85, 86]
+    },
+    {
+      "id": "ep090-event-004",
+      "episodeNumber": 90,
+      "timestamp": "12:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "CRITICAL",
+      "title": "Hiriluk's Cherry Blossoms - Kureha's Farewell Gift",
+      "description": "Dr. Kureha orders the Drum Island soldiers to fire cannons filled with Hiriluk's special pink powder into the sky. The powder colors the falling snow pink, making the Drum Rockies appear as a gigantic cherry blossom tree with falling petals.",
+      "significance": "This fulfills Dr. Hiriluk's lifelong dream of bringing cherry blossoms to Drum Island. The 'miracle' symbolizes hope, renewal, and the healing of the island's frozen hearts. It's one of the most emotionally powerful and visually stunning moments in One Piece.",
+      "characterIds": ["kureha", "chopper", "hiriluk"],
+      "locationIds": ["drum-island", "drum-castle"],
+      "quotes": [
+        {
+          "text": "This is Hiriluk's dream... cherry blossoms in the snow.",
+          "speaker": "Kureha",
+          "context": "Kureha explains the significance of the pink powder as she prepares the cannons"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [85, 86],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [85, 86]
+    },
+    {
+      "id": "ep090-event-005",
+      "episodeNumber": 90,
+      "timestamp": "14:45",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Hiriluk's Dream Explained",
+      "description": "Through Kureha's actions and explanations, the full significance of Hiriluk's thirty-year research is revealed. He created the powder to cure the 'frozen hearts' of Drum Island's people by showing them the beauty of cherry blossoms, believing that certain emotional experiences have therapeutic power beyond medicine.",
+      "significance": "Reveals the philosophical depth of Hiriluk's character and his belief in healing hearts, not just bodies. This theme of dreams living on after death becomes a recurring motif in One Piece.",
+      "characterIds": ["hiriluk", "kureha", "chopper"],
+      "locationIds": ["drum-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [85, 86],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [85, 86]
+    },
+    {
+      "id": "ep090-event-006",
+      "episodeNumber": 90,
+      "timestamp": "16:20",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Chopper's Tears of Joy and Grief",
+      "description": "Upon witnessing the cherry blossoms covering Drum Island, Chopper bursts into tears. He cries both from joy at seeing his father figure's dream finally realized and from grief that Hiriluk isn't alive to see it himself.",
+      "significance": "An intensely emotional moment that brings closure to Chopper's arc on Drum Island. It shows how Hiriluk's legacy will live on through both the cherry blossoms and through Chopper carrying his will out to sea.",
+      "characterIds": ["chopper", "hiriluk"],
+      "locationIds": ["drum-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [85, 86, 87],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [85, 86]
+    },
+    {
+      "id": "ep090-event-007",
+      "episodeNumber": 90,
+      "timestamp": "17:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Drum Island Citizens Witness the Miracle",
+      "description": "The people of Drum Island witness the cherry blossoms covering their island for the first time. They are moved by the beautiful sight, marking the beginning of healing for the nation that suffered under Wapol's tyrannical rule.",
+      "significance": "Symbolizes the renewal and hope for Drum Island's future. The cherry blossoms represent the end of their suffering and the beginning of a new era under Dalton's leadership.",
+      "characterIds": ["dalton"],
+      "locationIds": ["drum-island", "bighorn"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [78, 79, 85],
+      "payoffInEpisodes": [91],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep090-event-008",
+      "episodeNumber": 90,
+      "timestamp": "19:00",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MINOR",
+      "title": "Preparations to Leave Drum Island",
+      "description": "With Chopper now officially part of the crew and Nami fully recovered, the Straw Hats prepare to depart Drum Island and continue their journey to Alabasta.",
+      "significance": "Marks the end of the Drum Island arc and sets up the continuation of their journey to help Vivi save Alabasta.",
+      "characterIds": ["luffy", "chopper", "nami", "sanji", "zoro", "usopp", "vivi"],
+      "locationIds": ["drum-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [78],
+      "payoffInEpisodes": [91, 92],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep090-event-009",
+      "episodeNumber": 90,
+      "timestamp": "20:15",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Kureha's True Feelings Revealed",
+      "description": "Through her farewell gift of cherry blossoms, Dr. Kureha reveals her deep love for Chopper. Despite her harsh exterior and initial objections, she supports his decision to follow his dreams and go to sea, just as Hiriluk wanted.",
+      "significance": "Shows the depth of Kureha's character and her role as Chopper's surrogate mother. Her acceptance of his departure, while painful, demonstrates true love and selflessness.",
+      "characterIds": ["kureha", "chopper"],
+      "locationIds": ["drum-castle"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [81, 85],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [81, 85]
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [91, 92],
+    "payoffFrom": [78, 81, 85, 86, 87, 88, 89],
+    "thematicLinks": [85, 86, 312, 483]
+  },
+  "quotes": [
+    {
+      "text": "Just shut up and come with us!",
+      "speaker": "Luffy",
+      "context": "Luffy's iconic recruitment of Chopper",
+      "timestamp": "05:20"
+    },
+    {
+      "text": "OK!",
+      "speaker": "Chopper",
+      "context": "Chopper tearfully accepts Luffy's invitation",
+      "timestamp": "05:25"
+    },
+    {
+      "text": "I want to be a pirate!",
+      "speaker": "Chopper",
+      "context": "Chopper finally admits his true desire",
+      "timestamp": "03:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Dreams Living Beyond Death",
+      "description": "Hiriluk's dream of bringing cherry blossoms to Drum Island is fulfilled after his death through Kureha's actions, showing how dreams can transcend mortality.",
+      "symbolism": "The cherry blossoms represent Hiriluk's enduring legacy and the idea that a person truly dies only when they are forgotten.",
+      "culturalReferences": [
+        "Cherry blossoms (sakura) in Japanese culture represent the fleeting nature of life, renewal, and hope"
+      ]
+    },
+    {
+      "theme": "Acceptance and Belonging",
+      "description": "Chopper, who was rejected as a monster by both reindeer and humans, finally finds acceptance with the Straw Hats who see him for who he is.",
+      "symbolism": "Luffy's direct command to 'shut up and come with us' symbolizes unconditional acceptance regardless of appearance or differences.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Healing Hearts, Not Just Bodies",
+      "description": "Hiriluk's philosophy that some ailments require emotional healing rather than medical treatment is validated through the cherry blossoms healing Drum Island's frozen hearts.",
+      "symbolism": "The pink snow represents the warming and healing of hearts that had been frozen by suffering and tyranny.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Power of Sacrifice",
+      "description": "Kureha's sacrifice in letting Chopper go mirrors Hiriluk's earlier sacrifice, showing how love sometimes means letting go.",
+      "symbolism": "The farewell gift of cherry blossoms represents both goodbye and blessing for Chopper's future journey.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Emotional", "Heartwarming", "Bittersweet", "Inspiring", "Tearjerker"],
+  "characterSpotlights": [
+    {
+      "characterId": "chopper",
+      "role": "Protagonist - New Crew Member",
+      "development": "Chopper completes his character arc by accepting himself and choosing to pursue his dreams with the Straw Hats. He transitions from an outcast living in isolation to a valued crew member with a place to belong.",
+      "keyActions": [
+        "Decides to join the Straw Hat Pirates",
+        "Tells Kureha he's leaving",
+        "Witnesses Hiriluk's dream fulfilled",
+        "Accepts his identity and worth"
+      ],
+      "quotes": [
+        "I want to be a pirate!",
+        "OK!"
+      ]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Captain and Recruiter",
+      "development": "Luffy demonstrates his natural leadership and ability to see people's true worth beyond appearances. His direct, honest approach breaks through Chopper's insecurities.",
+      "keyActions": [
+        "Convinces Chopper to join the crew",
+        "Tells Chopper to shut up and come with them",
+        "Shows unconditional acceptance"
+      ],
+      "quotes": [
+        "Just shut up and come with us!"
+      ]
+    },
+    {
+      "characterId": "kureha",
+      "role": "Mentor and Surrogate Mother",
+      "development": "Kureha shows her softer side by ultimately supporting Chopper's decision despite her initial objections. She fulfills Hiriluk's final wish and gives Chopper a beautiful farewell.",
+      "keyActions": [
+        "Initially objects to Chopper leaving",
+        "Prepares Hiriluk's cherry blossom powder",
+        "Orders cannons to be fired",
+        "Gives Chopper her blessing through the farewell gift"
+      ],
+      "quotes": [
+        "This is Hiriluk's dream... cherry blossoms in the snow."
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends the cherry blossom scene with more reaction shots from the Drum Island citizens and lingering views of the pink snow falling across the island.",
+      "episodeTimestamp": "12:30-17:00",
+      "mangaReference": "Chapter 153",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "The anime adds additional dialogue from Kureha explaining Hiriluk's powder and his dream in more detail.",
+      "episodeTimestamp": "13:00",
+      "mangaReference": "Chapter 153",
+      "type": "EXPANDED_DIALOGUE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episode 90 aired on December 2, 2001, in Japan, exactly one month before the end of 2001.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_90",
+          "title": "Episode 90 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode covers Chapter 153 of the manga, titled 'Hiriluk's Sakura,' pages 2-19.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chapter_153",
+          "title": "Chapter 153 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The cherry blossom scene is consistently ranked as one of the most emotional moments in One Piece by fans worldwide.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://www.watchmojo.com/articles/top-20-one-piece-moments-that-will-make-you-cry",
+          "title": "Top 20 One Piece Moments That Will Make You Cry - WatchMojo",
+          "platform": "WatchMojo",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Dr. Kureha is voiced by Masako Nozawa in Japanese, who is most famous for voicing Son Goku in Dragon Ball.",
+      "category": "VOICE_ACTING",
+      "sources": []
+    },
+    {
+      "fact": "The ending song 'BEFORE DAWN' by AI-SACHI was her debut single, released on November 28, 2001, just days before this episode aired.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/BEFORE_DAWN",
+          "title": "BEFORE DAWN - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Chopper is the fifth member to join the Straw Hat Pirates and the first doctor of the crew.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "In the 4Kids dub, this episode was titled 'Doc Rock' and was heavily edited.",
+      "category": "LOCALIZATION",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

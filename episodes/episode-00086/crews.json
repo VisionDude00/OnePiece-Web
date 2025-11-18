@@ -1,0 +1,54 @@
+[
+  {
+    "id": "straw-hat-pirates",
+    "names": {
+      "primary": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi",
+      "aliases": ["Straw Hats"]
+    },
+    "type": "PIRATE_CREW",
+    "debutEpisode": 1,
+    "episodeAppearances": [86],
+    "keyMoments": [
+      {
+        "episodeNumber": 86,
+        "timestamp": "21:30",
+        "description": "The Straw Hat Pirates are staying at Drum Castle when Wapol approaches to reclaim it",
+        "significance": "Sets up the confrontation between the Straw Hats and Wapol",
+        "relatedEventId": "ep086-event-009"
+      }
+    ],
+    "captain": "luffy",
+    "members": [],
+    "ship": "Going Merry",
+    "affiliations": [],
+    "description": "The pirate crew led by Monkey D. Luffy, currently on Drum Island seeking medical help for Nami."
+  },
+  {
+    "id": "wapol-pirates",
+    "names": {
+      "primary": "Wapol Pirates",
+      "japanese": "ワポル海賊団",
+      "romanized": "Waporu Kaizokudan",
+      "aliases": ["Bliking Pirates"]
+    },
+    "type": "PIRATE_CREW",
+    "debutEpisode": 79,
+    "episodeAppearances": [86],
+    "keyMoments": [
+      {
+        "episodeNumber": 86,
+        "timestamp": "21:30",
+        "description": "Wapol and his forces arrive at Drum Castle to reclaim the kingdom",
+        "significance": "Sets up the upcoming battle at Drum Castle",
+        "relatedEventId": "ep086-event-009"
+      }
+    ],
+    "captain": "wapol",
+    "members": ["chess", "kuromarimo"],
+    "ship": "Bliking",
+    "affiliations": [],
+    "description": "The pirate crew formed by the former king Wapol after fleeing Drum Island. They return to reclaim Wapol's throne."
+  }
+]
