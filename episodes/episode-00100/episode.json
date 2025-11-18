@@ -1,0 +1,516 @@
+{
+  "episodeNumber": 100,
+  "episodeTitle": "Rebel Warrior Koza! The Dream Sworn to Vivi!",
+  "description": "As the Straw Hats, Vivi, and Ace journey through the desert toward Yuba, Vivi shares with Nami the story of her childhood friendship with Koza and the Sand-Sand Clan. The emotional flashback reveals the tragic irony that Koza, who once protected Vivi, now leads the rebellion against her father's kingdom.",
+  "airDate": "2002-02-10",
+  "airDateJapan": "2002-02-10",
+  "airDateUS": "2009-12-15",
+  "arcName": "Alabasta Arc",
+  "sagaName": "Alabasta Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Believe",
+    "artist": "Folder5",
+    "episodeRange": [48, 115]
+  },
+  "endingSong": {
+    "title": "fish",
+    "artist": "The Kaleidoscope",
+    "episodeRange": [95, 106]
+  },
+  "credits": {
+    "animationDirector": "Yuji Endo",
+    "screenplayWriter": "Junki Takegami",
+    "artDirection": ["Miyuki Sato", "Fumihiro Uchikawa"],
+    "animation": ["Takeo Ide"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Misa Watanabe"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Portgas D. Ace",
+        "actor": "Toshio Furukawa"
+      },
+      {
+        "character": "Koza (adult)",
+        "actor": "Takeshi Kusao"
+      },
+      {
+        "character": "Koza (young)",
+        "actor": "Naomi Shindō"
+      },
+      {
+        "character": "Toto",
+        "actor": "Masaaki Tsukada"
+      },
+      {
+        "character": "Nefertari Cobra",
+        "actor": "Toshiya Ueda"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Caitlin Glass"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Portgas D. Ace",
+        "actor": "Travis Willingham"
+      },
+      {
+        "character": "Koza",
+        "actor": "Todd Haberkorn"
+      },
+      {
+        "character": "Toto",
+        "actor": "Jerry Russell"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep100-event-001",
+      "episodeNumber": 100,
+      "timestamp": "03:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Journey Through the Desert Continues",
+      "description": "The Straw Hats continue their trek through the Alabasta desert alongside Vivi and Ace, heading toward Yuba Oasis. The group discusses the harsh desert conditions and their mission.",
+      "significance": "Sets the stage for Vivi's emotional flashback and establishes the current party composition traveling together.",
+      "characterIds": ["luffy", "nami", "zoro", "usopp", "sanji", "chopper", "vivi", "ace"],
+      "locationIds": ["alabasta-desert"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [99],
+      "payoffInEpisodes": [101],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep100-event-002",
+      "episodeNumber": 100,
+      "timestamp": "05:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Vivi Begins Telling Her Childhood Story",
+      "description": "Vivi begins to share with Nami the story of her childhood in Alabasta, explaining how she met a boy named Koza. This marks the beginning of an extended flashback sequence.",
+      "significance": "Initiates the crucial backstory that explains Vivi's personal connection to the rebellion and adds emotional depth to the Alabasta conflict.",
+      "characterIds": ["vivi", "nami"],
+      "locationIds": ["alabasta-desert"],
+      "quotes": [
+        {
+          "text": "Let me tell you about when I was a child, and about a boy I knew...",
+          "speaker": "Vivi",
+          "context": "Vivi begins recounting her childhood memories to Nami"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [100],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep100-event-003",
+      "episodeNumber": 100,
+      "timestamp": "06:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Young Koza Confronts King Cobra",
+      "description": "In flashback (11 years prior), a young Koza storms into the palace and confronts King Cobra about the drought affecting his village, demanding the king do something to help. Cobra explains that he has no power over the weather.",
+      "significance": "Introduces Koza as a character who has always been passionate about helping his people, establishing his motivations that would later lead him to rebellion. Shows his early relationship with the royal family.",
+      "characterIds": ["koza", "cobra", "vivi"],
+      "locationIds": ["alubarna-palace"],
+      "quotes": [
+        {
+          "text": "The weather is commanded by God. I have no power over nature.",
+          "speaker": "Cobra",
+          "context": "King Cobra explains to young Koza why he cannot stop the drought"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [110, 125],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep100-event-004",
+      "episodeNumber": 100,
+      "timestamp": "07:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Vivi Calls Koza a Crybaby",
+      "description": "Young Vivi witnesses Koza running from the palace in tears and calls him a crybaby. This establishes their initial antagonistic relationship that would later develop into friendship.",
+      "significance": "Sets up the relationship dynamic between Vivi and Koza, showing how they started as adversaries before becoming close friends.",
+      "characterIds": ["vivi", "koza"],
+      "locationIds": ["alubarna-palace"],
+      "quotes": [
+        {
+          "text": "Crybaby!",
+          "speaker": "Vivi",
+          "context": "Young Vivi taunts Koza as he runs from the palace crying"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [100],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep100-event-005",
+      "episodeNumber": 100,
+      "timestamp": "08:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Introduction of the Sand-Sand Clan",
+      "description": "The Sand-Sand Clan (Suna-Suna Clan) is introduced, a group of children led by Koza. Vivi challenges Koza for the leadership position, showing her competitive spirit and desire to be treated as an equal rather than a princess.",
+      "significance": "Introduces an important childhood group that shaped Vivi's character and established her friendships with commoners. Shows Vivi rejecting special treatment due to her royal status.",
+      "characterIds": ["koza", "vivi", "okame", "kebi", "erik", "natto"],
+      "locationIds": ["alabasta"],
+      "crewIds": ["sand-sand-clan"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [100],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep100-event-006",
+      "episodeNumber": 100,
+      "timestamp": "09:30",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Koza Makes Vivi Assistant Leader",
+      "description": "After their challenge, Koza recognizes Vivi's strength and spirit, making her the assistant leader of the Sand-Sand Clan. This marks the beginning of their true friendship.",
+      "significance": "Establishes the strong bond between Koza and Vivi based on mutual respect. This friendship makes the current rebellion situation more tragic.",
+      "characterIds": ["koza", "vivi"],
+      "locationIds": ["alabasta"],
+      "crewIds": ["sand-sand-clan"],
+      "quotes": [
+        {
+          "text": "From now on, you're the assistant leader of the Sand-Sand Clan!",
+          "speaker": "Koza",
+          "context": "Koza acknowledges Vivi's abilities and makes her second-in-command"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [100, 110],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep100-event-007",
+      "episodeNumber": 100,
+      "timestamp": "11:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Agotogi and Bandits Attempt to Kidnap Vivi",
+      "description": "Agotogi and his gang of bandits attempt to kidnap young Vivi for ransom. The bandits corner Vivi in an alley, planning to use her royal status for financial gain.",
+      "significance": "Creates the dangerous situation that would define Koza's character and leave him with his iconic scar. Shows the real dangers Vivi faced despite her protected status.",
+      "characterIds": ["vivi", "agotogi", "aswa"],
+      "locationIds": ["alabasta"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [100],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep100-event-008",
+      "episodeNumber": 100,
+      "timestamp": "12:15",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Sand-Sand Clan Protects Vivi from Kidnappers",
+      "description": "The Sand-Sand Clan members discover the kidnapping attempt and rush to protect their friend. Despite being children facing armed adults, they bravely attack the bandits to help Vivi escape. Many clan members are injured in the process.",
+      "significance": "Demonstrates the strong bonds of friendship and loyalty within the Sand-Sand Clan. Shows these children's courage and willingness to sacrifice for each other.",
+      "characterIds": ["koza", "vivi", "okame", "kebi", "erik", "natto", "agotogi", "aswa"],
+      "locationIds": ["alabasta"],
+      "crewIds": ["sand-sand-clan"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [100],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep100-event-009",
+      "episodeNumber": 100,
+      "timestamp": "13:45",
+      "eventType": "BATTLE_END",
+      "severity": "CRITICAL",
+      "title": "Koza Defeats Agotogi and Receives His Scar",
+      "description": "Koza catches up to the bandits and fights Agotogi one-on-one to protect Vivi. Despite being a child fighting an adult with a sword, Koza defeats Agotogi by hitting him in the head with a club. However, Agotogi's sword slashes Koza across his left eye, leaving him with the permanent scar he carries into adulthood.",
+      "significance": "This is the defining moment of Koza's character - his willingness to sacrifice himself for his friends. The scar becomes his permanent reminder of this heroic act and his bond with Vivi.",
+      "characterIds": ["koza", "agotogi", "vivi"],
+      "locationIds": ["alabasta"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [110, 125],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep100-event-010",
+      "episodeNumber": 100,
+      "timestamp": "15:00",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "King Cobra Thanks Koza",
+      "description": "King Cobra personally thanks Koza for his noble deed in protecting Vivi. When Cobra praises him for his bravery, Koza humbly responds that he did it for a friend, not for the royal family.",
+      "significance": "Establishes the respect between Cobra and Koza, making the later rebellion even more tragic. Shows Koza's humble character and that his loyalty was to Vivi as a person, not to the monarchy.",
+      "characterIds": ["cobra", "koza", "vivi"],
+      "locationIds": ["alubarna-palace"],
+      "quotes": [
+        {
+          "text": "I did it for a friend.",
+          "speaker": "Koza",
+          "context": "Koza explains his motivation for saving Vivi to King Cobra"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [110, 125],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep100-event-011",
+      "episodeNumber": 100,
+      "timestamp": "16:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Toto's First Appearance",
+      "description": "Toto, Koza's father, appears for the first time. He has accepted the position of representative to help develop Yuba Oasis into a town, as it is the hub of Western Alabasta.",
+      "significance": "Introduces Toto, who will become an important character in the Alabasta arc. Establishes Yuba as a key location and foreshadows its importance in the drought storyline.",
+      "characterIds": ["toto", "koza"],
+      "locationIds": ["yuba"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [103, 104],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep100-event-012",
+      "episodeNumber": 100,
+      "timestamp": "17:15",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MAJOR",
+      "title": "Koza Leaves for Yuba with Toto",
+      "description": "Koza tells Vivi that he is leaving with his father to help build Yuba with his own hands. He encourages Vivi to become a great princess, showing his faith in her.",
+      "significance": "Marks the separation of the childhood friends and the end of the Sand-Sand Clan. This departure sets up Koza's later connection to Yuba and the drought that would fuel the rebellion.",
+      "characterIds": ["koza", "vivi", "toto"],
+      "locationIds": ["alabasta", "yuba"],
+      "quotes": [
+        {
+          "text": "I'm going to help build Yuba with my own two hands. You become a great princess, Vivi!",
+          "speaker": "Koza",
+          "context": "Koza's farewell to Vivi as he leaves for Yuba"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [103, 104, 110],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep100-event-013",
+      "episodeNumber": 100,
+      "timestamp": "18:30",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Vivi Reveals Koza is the Rebel Leader",
+      "description": "In the present day, Vivi reveals to Nami the devastating truth: the childhood friend who once protected her, Koza, is now the leader of the rebel army fighting against her father's kingdom. This emotional revelation brings Vivi to tears.",
+      "significance": "This is the emotional climax of the episode and a crucial plot revelation. It transforms the rebellion from an abstract conflict into a personal tragedy, showing how Crocodile's manipulation has turned childhood friends into enemies.",
+      "characterIds": ["vivi", "nami", "koza"],
+      "locationIds": ["alabasta-desert"],
+      "quotes": [
+        {
+          "text": "That Koza... is now the leader of the rebel army.",
+          "speaker": "Vivi",
+          "context": "Vivi reveals the tragic irony of her situation to Nami"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [110, 125],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep100-event-014",
+      "episodeNumber": 100,
+      "timestamp": "19:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Nami Comforts Vivi",
+      "description": "After hearing Vivi's painful story, Nami offers comfort and support to the princess. This moment deepens the bond between the two women and shows the Straw Hats' commitment to helping Vivi.",
+      "significance": "Reinforces the theme of friendship and demonstrates how the Straw Hats have become emotionally invested in Vivi's cause. Shows Nami's growth as a compassionate friend.",
+      "characterIds": ["nami", "vivi"],
+      "locationIds": ["alabasta-desert"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [130],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["toto", "agotogi", "aswa", "okame", "kebi", "erik", "natto"],
+    "locations": ["yuba"],
+    "devilFruits": [],
+    "crews": ["sand-sand-clan"],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [101, 103, 104, 110, 125],
+    "payoffFrom": [92, 93, 99],
+    "thematicLinks": [110, 125, 130]
+  },
+  "quotes": [
+    {
+      "text": "The weather is commanded by God. I have no power over nature.",
+      "speaker": "Cobra",
+      "context": "Explaining to young Koza about the drought",
+      "timestamp": "06:45"
+    },
+    {
+      "text": "From now on, you're the assistant leader of the Sand-Sand Clan!",
+      "speaker": "Koza",
+      "context": "Making Vivi second-in-command of the childhood group",
+      "timestamp": "09:30"
+    },
+    {
+      "text": "I did it for a friend.",
+      "speaker": "Koza",
+      "context": "Explaining to King Cobra why he saved Vivi",
+      "timestamp": "15:00"
+    },
+    {
+      "text": "I'm going to help build Yuba with my own two hands. You become a great princess, Vivi!",
+      "speaker": "Koza",
+      "context": "Koza's farewell to Vivi",
+      "timestamp": "17:15"
+    },
+    {
+      "text": "That Koza... is now the leader of the rebel army.",
+      "speaker": "Vivi",
+      "context": "Revealing the tragic truth to Nami",
+      "timestamp": "18:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Friendship and Betrayal",
+      "description": "The episode explores the tragic irony of childhood friends becoming enemies due to manipulation and misunderstanding. Koza and Vivi's bond, forged through shared experiences and sacrifice, is now threatened by the rebellion.",
+      "symbolism": "Koza's scar serves as a permanent reminder of his sacrifice for Vivi, making the current conflict even more painful.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Class and Social Barriers",
+      "description": "Despite being a princess, Vivi insisted on being treated as an equal in the Sand-Sand Clan. The episode shows how true friendship can transcend social class, a theme that makes the rebellion's class-based conflict more tragic.",
+      "symbolism": "The Sand-Sand Clan represents a space where royal and common children could be equals.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Sacrifice and Nobility",
+      "description": "Koza's willingness to fight an armed adult to protect Vivi demonstrates true heroism. His humble response that he 'did it for a friend' shows that the greatest acts of courage often come from love rather than duty.",
+      "symbolism": "Koza's scar is both a badge of honor and a symbol of the cost of protecting those we love.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Manipulation and Tragedy",
+      "description": "The episode highlights how Crocodile's manipulation has turned friends into enemies, showing the true evil of his plan - not just political destabilization, but the destruction of personal bonds.",
+      "symbolism": "The contrast between the innocent childhood scenes and the grim present emphasizes how much has been lost.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Nostalgic", "Bittersweet", "Tragic", "Emotional"],
+  "characterSpotlights": [
+    {
+      "characterId": "vivi",
+      "role": "Emotional center of the episode",
+      "development": "Vivi shares her painful past with Nami, revealing the deep personal cost of the rebellion. We see her transformation from a spirited child who rejected her princess status to a young woman burdened by the conflict between her childhood friend and her kingdom.",
+      "keyActions": [
+        "Recounts childhood memories to Nami",
+        "Reveals Koza is the rebel leader",
+        "Shows emotional vulnerability"
+      ],
+      "quotes": [
+        "Let me tell you about when I was a child, and about a boy I knew...",
+        "That Koza... is now the leader of the rebel army."
+      ]
+    },
+    {
+      "characterId": "koza",
+      "role": "Central flashback character",
+      "development": "Through flashbacks, we see Koza's origin as a passionate boy who cared deeply about his people and his friends. His confrontation with Cobra shows his early concern for the drought, while his sacrifice for Vivi demonstrates his noble character.",
+      "keyActions": [
+        "Confronts King Cobra about the drought",
+        "Makes Vivi assistant leader of the Sand-Sand Clan",
+        "Defeats Agotogi to save Vivi and receives his scar",
+        "Leaves for Yuba with his father"
+      ],
+      "quotes": [
+        "I did it for a friend.",
+        "I'm going to help build Yuba with my own two hands. You become a great princess, Vivi!"
+      ]
+    },
+    {
+      "characterId": "nami",
+      "role": "Supportive friend and confidant",
+      "development": "Nami serves as the listener for Vivi's story, providing emotional support and showing how deeply the Straw Hats have come to care for Vivi.",
+      "keyActions": [
+        "Listens to Vivi's story",
+        "Comforts Vivi after the revelation"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime expanded the flashback scenes with additional dialogue and extended emotional moments compared to the manga.",
+      "episodeTimestamp": "06:00-18:00",
+      "mangaReference": "Chapters 163-164",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This is Episode 100, a milestone episode that appropriately focuses on backstory and emotional depth rather than action.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "Koza's scar over his left eye, received in this flashback, remains his most distinctive physical feature throughout the series.",
+      "category": "CHARACTER",
+      "sources": []
+    },
+    {
+      "fact": "The Sand-Sand Clan (Suna-Suna Clan) gets its name from the Japanese word for sand (suna), fitting for Alabasta's desert setting.",
+      "category": "WORLDBUILDING",
+      "sources": []
+    },
+    {
+      "fact": "Toto's character design shows him as a healthy man in the flashback, contrasting sharply with his later appearance as a drought-ravaged figure in Yuba.",
+      "category": "CHARACTER",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
