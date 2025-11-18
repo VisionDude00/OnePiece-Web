@@ -1,0 +1,465 @@
+{
+  "episodeNumber": 222,
+  "episodeTitle": "Get Back Your Memories! Landing on the Island!",
+  "episodeTitleJapanese": "いざ記憶を奪還せよ！海賊団島に上陸",
+  "episodeTitleRomanized": "Iza kioku o Dakkan se yo! Kaizokudan shima ni jōriku",
+  "description": "Usopp, Chopper, and Sanji wake up confused aboard the Going Merry with no memory of their crewmates. After Usopp builds a raft, they reach an island where they reunite with Nami. Meanwhile, the mysterious boy targets Zoro with hypnosis, and Robin deciphers ancient writings revealing the Palace of the Sea God as their destination.",
+  "airDate": "2005-02-20",
+  "airDateJapan": "2005-02-20",
+  "airDateUS": "2012-09-08",
+  "arcName": "Ocean's Dream Arc",
+  "sagaName": "Water 7 Saga",
+  "animationQuality": "STANDARD",
+  "isFiller": true,
+  "openingSong": {
+    "title": "Kokoro no Chizu",
+    "artist": "BOYSTYLE",
+    "episodeRange": [207, 228]
+  },
+  "endingSong": {
+    "title": "Mirai Koukai",
+    "artist": "Tackey & Tsubasa",
+    "episodeRange": [207, 228]
+  },
+  "credits": {
+    "writer": "Yoshiyuki Suga",
+    "assistantWriter": "Hito Koyama",
+    "director": "Ken Koyama",
+    "animationDirector": "Masayuki Takagi",
+    "artDirectors": ["Miyuki Sato", "Michiyo Kawasaki"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Drim",
+        "actor": "Chinami Nishimura"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Drim",
+        "actor": "Mary Morgan"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep222-event-001",
+      "episodeNumber": 222,
+      "timestamp": "03:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Memory-Lost Trio Awakens Confused",
+      "description": "Usopp, Chopper, and Sanji wake up on the Going Merry with no memory of who they are or how they got there. They question each other about their situation and try to piece together what happened to them.",
+      "significance": "Demonstrates the consequences of Noko's memory-stealing abilities on the crew members who were asleep during the attack. Sets up the episode's central conflict of reuniting the crew.",
+      "characterIds": ["usopp", "sanji", "chopper"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "Who are you guys? And what am I doing here?",
+          "speaker": "Usopp",
+          "context": "Usopp questioning the others after waking up with no memories"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [220, 221],
+      "payoffInEpisodes": [223, 224],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep222-event-002",
+      "episodeNumber": 222,
+      "timestamp": "05:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MINOR",
+      "title": "Sanji's Flashback with Zeff",
+      "description": "A flashback is shown depicting Sanji's past with Zeff on the deserted island, highlighting their bond and Sanji's journey to becoming a cook. This memory resurfaces as Sanji struggles with his amnesia.",
+      "significance": "Reminds viewers of Sanji's crucial backstory and emotional connection to Zeff, emphasizing what the crew members have lost with their memories. Part of the arc's emotional core showing how memories define the Straw Hats.",
+      "characterIds": ["sanji", "zeff"],
+      "locationIds": ["baratie-rock"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [20, 26]
+    },
+    {
+      "id": "ep222-event-003",
+      "episodeNumber": 222,
+      "timestamp": "07:00",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MINOR",
+      "title": "Usopp's Flashback with Kaya",
+      "description": "A flashback shows Usopp telling tall tales to Kaya in Syrup Village, depicting their friendship and his role as her storyteller. This memory surfaces as Usopp grapples with his memory loss.",
+      "significance": "Highlights Usopp's defining relationship with Kaya and his identity as a storyteller, showing what core memories have been stolen from him.",
+      "characterIds": ["usopp", "kaya"],
+      "locationIds": ["syrup-village"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [9, 17]
+    },
+    {
+      "id": "ep222-event-004",
+      "episodeNumber": 222,
+      "timestamp": "08:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MINOR",
+      "title": "Chopper's Flashback with Dr. Hiriluk",
+      "description": "A flashback depicts Chopper being taken in and raised by Dr. Hiriluk, showing their father-son relationship and Hiriluk's influence on Chopper's dream to become a doctor who can cure any illness.",
+      "significance": "Emphasizes Chopper's most precious memory and the foundation of his character - his relationship with Dr. Hiriluk and his dream of becoming a great doctor.",
+      "characterIds": ["chopper", "hiriluk"],
+      "locationIds": ["drum-kingdom"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [86, 90]
+    },
+    {
+      "id": "ep222-event-005",
+      "episodeNumber": 222,
+      "timestamp": "11:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Usopp Builds a Raft",
+      "description": "Despite having no memory of his shipwright skills or his time with the crew, Usopp displays his natural talent by constructing a raft for himself, Sanji, and Chopper to reach the nearby island.",
+      "significance": "Demonstrates that even without memories, Usopp's innate abilities and resourcefulness remain intact, foreshadowing his later development as a shipwright.",
+      "characterIds": ["usopp", "sanji", "chopper"],
+      "locationIds": ["going-merry"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep222-event-006",
+      "episodeNumber": 222,
+      "timestamp": "13:45",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Trio Arrives on the Island",
+      "description": "Usopp, Sanji, and Chopper arrive on the island via their makeshift raft, beginning their search for answers about their lost memories.",
+      "significance": "Marks the crew's arrival at the location where they will confront the source of the memory theft and work to recover what was stolen from them.",
+      "characterIds": ["usopp", "sanji", "chopper"],
+      "locationIds": ["ocean-dream-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [223, 224],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep222-event-007",
+      "episodeNumber": 222,
+      "timestamp": "15:20",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Reunion with Nami on the Island",
+      "description": "The trio reunites with Nami on the island. Though they don't remember each other, they begin to work together to understand their situation.",
+      "significance": "Begins the process of reuniting the scattered Straw Hat crew members on the island, moving the plot toward the confrontation with the memory thief.",
+      "characterIds": ["usopp", "sanji", "chopper", "nami"],
+      "locationIds": ["ocean-dream-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [220, 221],
+      "payoffInEpisodes": [223],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep222-event-008",
+      "episodeNumber": 222,
+      "timestamp": "17:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Luffy Finds Nami",
+      "description": "Luffy, having regained his memories in the previous episode, tracks down and catches Nami. He explains to her and the others that he is their captain and they are all part of the Straw Hat Pirates.",
+      "significance": "Luffy takes his role as captain seriously by trying to reunite his crew and restore their memories, demonstrating his leadership even in a crisis.",
+      "characterIds": ["luffy", "nami", "usopp", "sanji", "chopper"],
+      "locationIds": ["ocean-dream-island"],
+      "quotes": [
+        {
+          "text": "I'm your captain! We're the Straw Hat Pirates!",
+          "speaker": "Luffy",
+          "context": "Luffy trying to convince his crewmates of their identities"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [221],
+      "payoffInEpisodes": [223],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep222-event-009",
+      "episodeNumber": 222,
+      "timestamp": "18:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "The Straw Hats Learn About the Memory Thief",
+      "description": "The crew explains to Nami and the others that a mysterious boy has been stealing people's memories, and they must find him to restore what was taken.",
+      "significance": "Provides exposition about the arc's central conflict and antagonist, setting up the confrontation with Drim and Noko.",
+      "characterIds": ["luffy", "nami", "usopp", "sanji", "chopper", "robin"],
+      "locationIds": ["ocean-dream-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [220, 221],
+      "payoffInEpisodes": [223, 224],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep222-event-010",
+      "episodeNumber": 222,
+      "timestamp": "20:00",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Drim Hypnotizes Zoro",
+      "description": "The mysterious boy Drim approaches Zoro in the forest and uses his hypnotic powers to place Zoro under his control. Zoro's eyes glaze over as he falls victim to the spell.",
+      "significance": "Major turning point in the arc as Zoro, one of the crew's strongest fighters, becomes an enemy under Drim's control. This sets up the conflict for the next episode where Luffy must face his own first mate.",
+      "characterIds": ["drim", "zoro", "noko"],
+      "locationIds": ["ocean-dream-forest"],
+      "devilFruitIds": [],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [220, 221],
+      "payoffInEpisodes": [223],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep222-event-011",
+      "episodeNumber": 222,
+      "timestamp": "21:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Robin Discovers Ancient Writings",
+      "description": "Robin comes across ancient stone writings on the island and uses her archaeological expertise to decipher them. The writings reveal crucial information about the true nature of the memory thief.",
+      "significance": "Demonstrates Robin's unique value to the crew with her ability to read ancient texts. The discovery reveals that Drim is not the real culprit, setting up the true antagonist reveal.",
+      "characterIds": ["robin"],
+      "locationIds": ["ocean-dream-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [220, 221],
+      "payoffInEpisodes": [223, 224],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep222-event-012",
+      "episodeNumber": 222,
+      "timestamp": "22:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Heading to the Palace of the Sea God",
+      "description": "Based on Robin's findings from the ancient writings, she directs the Straw Hats to travel to the Palace of the Sea God, where they will find the true source of the memory theft.",
+      "significance": "Sets the destination and goal for the crew's quest to restore their memories. The Palace of the Sea God becomes the climactic location where they will confront the real antagonist.",
+      "characterIds": ["robin", "luffy", "nami", "usopp", "sanji", "chopper"],
+      "locationIds": ["ocean-dream-island", "palace-of-sea-god"],
+      "quotes": [
+        {
+          "text": "Everyone, we need to head to the Palace of the Sea God. That's where we'll find our answers.",
+          "speaker": "Robin",
+          "context": "Robin directing the crew to their destination after deciphering the ancient text"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [220, 221],
+      "payoffInEpisodes": [223, 224],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": ["ocean-dream-forest", "palace-of-sea-god"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [223, 224],
+    "payoffFrom": [220, 221],
+    "thematicLinks": [20, 26, 86, 90]
+  },
+  "quotes": [
+    {
+      "text": "Who are you guys? And what am I doing here?",
+      "speaker": "Usopp",
+      "context": "Usopp questioning the others after waking up with no memories",
+      "timestamp": "03:00"
+    },
+    {
+      "text": "I'm your captain! We're the Straw Hat Pirates!",
+      "speaker": "Luffy",
+      "context": "Luffy trying to convince his crewmates of their identities",
+      "timestamp": "17:00"
+    },
+    {
+      "text": "Everyone, we need to head to the Palace of the Sea God. That's where we'll find our answers.",
+      "speaker": "Robin",
+      "context": "Robin directing the crew to their destination after deciphering the ancient text",
+      "timestamp": "22:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Memory and Identity",
+      "description": "The episode explores how memories shape identity through the crew's struggle with amnesia. The flashbacks to pivotal moments in Sanji, Usopp, and Chopper's pasts emphasize how their experiences define who they are.",
+      "symbolism": "The stolen memories represent the loss of self and connection to others, while the quest to recover them symbolizes the importance of shared experiences in forming bonds.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Bonds of Friendship",
+      "description": "Despite losing their memories, the crew members naturally gravitate toward each other and work together, suggesting their bonds run deeper than conscious memory.",
+      "symbolism": "The crew reuniting on the island represents the strength of their friendships transcending memory loss.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Value of the Past",
+      "description": "The flashbacks to each character's defining moments highlight how past experiences with mentors and loved ones shape present identity and dreams.",
+      "symbolism": "Each flashback represents a foundational memory that makes each character who they are.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Mysterious", "Emotional", "Adventurous", "Suspenseful"],
+  "characterSpotlights": [
+    {
+      "characterId": "robin",
+      "role": "Key Problem Solver",
+      "development": "Robin demonstrates her archaeological expertise and strategic thinking by deciphering ancient writings to discover the true nature of the memory thief and directing the crew to the Palace of the Sea God.",
+      "keyActions": [
+        "Discovers and reads ancient stone writings",
+        "Realizes Drim is not the true culprit",
+        "Directs the crew to the Palace of the Sea God"
+      ],
+      "quotes": ["Everyone, we need to head to the Palace of the Sea God. That's where we'll find our answers."]
+    },
+    {
+      "characterId": "usopp",
+      "role": "Resourceful Crewmate",
+      "development": "Even without his memories, Usopp shows his natural talent and resourcefulness by building a raft to reach the island, demonstrating his inherent capabilities.",
+      "keyActions": [
+        "Wakes up with no memories",
+        "Builds a raft for the group",
+        "Travels to the island"
+      ],
+      "quotes": ["Who are you guys? And what am I doing here?"]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Captain and Leader",
+      "development": "Luffy takes charge as captain, tracking down his scattered crew members and trying to help them understand their true identities and their mission to recover their memories.",
+      "keyActions": [
+        "Finds and catches Nami",
+        "Explains their identities to the memory-lost crew",
+        "Leads the search for the memory thief"
+      ],
+      "quotes": ["I'm your captain! We're the Straw Hat Pirates!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The entire Ocean's Dream Arc including Episode 222 is filler and does not appear in the manga. It was created as a tie-in to the PlayStation game 'One Piece: Ocean's Dream!'",
+      "episodeTimestamp": "N/A",
+      "mangaReference": "N/A",
+      "type": "ANIME_ORIGINAL_ARC"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "The Ocean's Dream Arc is based on the PlayStation game 'One Piece: Ocean's Dream!' released in 2003, making it one of the few anime filler arcs directly adapted from a video game.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Ocean's_Dream_Arc",
+          "title": "Ocean's Dream Arc - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 222 features flashbacks to three major backstory arcs: Sanji's time with Zeff (Baratie Arc), Usopp's friendship with Kaya (Syrup Village Arc), and Chopper's relationship with Dr. Hiriluk (Drum Island Arc).",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_222",
+          "title": "Episode 222 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode's TV rating in Japan was 10.9%, indicating solid viewership despite being a filler arc.",
+      "category": "RATINGS",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_222",
+          "title": "Episode 222 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode marks the midpoint of the Ocean's Dream Arc, transitioning from the mystery of the memory loss to the action-oriented confrontation with the true antagonist.",
+      "category": "STORY",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

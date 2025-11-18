@@ -1,0 +1,185 @@
+[
+  {
+    "name": {
+      "english": "Ocean's Dream Island",
+      "japanese": "海夢の島",
+      "romanized": "Kaimu no Shima"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Ocean's Dream Island",
+    "debutEpisode": 220,
+    "description": "A mysterious island where the Straw Hat Pirates' memories are stolen by a seahorse creature. The island contains ancient ruins with writings about the Palace of the Sea God and the legend of a memory-stealing monster.",
+    "episodeAppearances": [222],
+    "keyEvents": [
+      {
+        "episodeNumber": 222,
+        "eventId": "ep222-event-006",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Trio Arrives on the Island",
+        "description": "Usopp, Sanji, and Chopper arrive on the island via their makeshift raft to search for answers about their lost memories.",
+        "significance": "The crew's arrival at the location where they will confront the source of the memory theft.",
+        "timestamp": "13:45"
+      },
+      {
+        "episodeNumber": 222,
+        "eventId": "ep222-event-007",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Crew Reunion on Island",
+        "description": "The memory-lost crew members reunite with Nami on the island and begin working together.",
+        "significance": "Marks the gathering of the scattered Straw Hats in one location.",
+        "timestamp": "15:20"
+      },
+      {
+        "episodeNumber": 222,
+        "eventId": "ep222-event-011",
+        "eventType": "WORLD_LORE",
+        "title": "Ancient Writings Discovered",
+        "description": "Robin discovers and deciphers ancient stone writings that reveal the true nature of the memory thief.",
+        "significance": "Provides crucial information that advances the plot toward resolution.",
+        "timestamp": "21:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 220,
+        "episodeEnd": 224,
+        "reason": "Island serves as the setting for the Ocean's Dream Arc"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["ocean-dream-forest"],
+    "relatedCharacters": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "drim", "noko"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Ocean's Dream Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Ocean's Dream Forest",
+      "japanese": "海夢の森",
+      "romanized": "Kaimu no Mori"
+    },
+    "locationType": "FOREST",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Ocean's Dream Island",
+    "debutEpisode": 222,
+    "description": "A forest on Ocean's Dream Island where Drim confronts and hypnotizes Zoro, turning him against his crewmates.",
+    "episodeAppearances": [222],
+    "keyEvents": [
+      {
+        "episodeNumber": 222,
+        "eventId": "ep222-event-010",
+        "eventType": "POWER_REVEAL",
+        "title": "Zoro Hypnotized in Forest",
+        "description": "Drim approaches Zoro in the forest and uses hypnotic powers to place him under control.",
+        "significance": "Critical location where Zoro falls under enemy control, creating a major obstacle for the Straw Hats.",
+        "timestamp": "20:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 222,
+        "episodeEnd": 223,
+        "reason": "Forest is the site of Zoro's hypnosis"
+      }
+    ],
+    "parentLocation": "ocean-dream-island",
+    "childLocations": [],
+    "relatedCharacters": ["zoro", "drim", "noko"],
+    "relatedCrews": [],
+    "relatedArcs": ["Ocean's Dream Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Palace of the Sea God",
+      "japanese": "海神の宮殿",
+      "romanized": "Kaijin no Kyūden"
+    },
+    "locationType": "TEMPLE",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Ocean's Dream Island",
+    "debutEpisode": 222,
+    "description": "An ancient palace or temple on Ocean's Dream Island mentioned in ancient writings. According to legend, it houses a monster that feeds on memories to survive. The Straw Hats are directed here by Robin's discovery of ancient texts.",
+    "episodeAppearances": [222],
+    "keyEvents": [
+      {
+        "episodeNumber": 222,
+        "eventId": "ep222-event-012",
+        "eventType": "MAJOR_DECISION",
+        "title": "Crew Directed to Palace",
+        "description": "Robin directs the Straw Hats to travel to the Palace of the Sea God based on her findings from ancient writings.",
+        "significance": "Establishes the Palace as the destination where the crew will confront the true memory thief.",
+        "timestamp": "22:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 222,
+        "episodeEnd": 224,
+        "reason": "Palace is revealed as the location of the final confrontation"
+      }
+    ],
+    "parentLocation": "ocean-dream-island",
+    "childLocations": [],
+    "relatedCharacters": ["noko", "luffy", "robin"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Ocean's Dream Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Going Merry",
+      "japanese": "ゴーイングメリー号",
+      "romanized": "Gōingu Merī-gō"
+    },
+    "locationType": "SHIP",
+    "seaRegion": "GRAND_LINE",
+    "islandName": null,
+    "debutEpisode": 17,
+    "description": "The Straw Hat Pirates' first ship, a caravel gifted by Kaya. In this episode, it serves as the location where the memory-lost crew members wake up confused.",
+    "episodeAppearances": [222],
+    "keyEvents": [
+      {
+        "episodeNumber": 222,
+        "eventId": "ep222-event-001",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Memory-Lost Trio Awakens",
+        "description": "Usopp, Chopper, and Sanji wake up on the Going Merry with no memory of who they are or how they got there.",
+        "significance": "The starting point of the episode's conflict as the affected crew members deal with their amnesia.",
+        "timestamp": "03:00"
+      },
+      {
+        "episodeNumber": 222,
+        "eventId": "ep222-event-005",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Raft Construction",
+        "description": "Usopp builds a raft on the Going Merry to transport himself, Sanji, and Chopper to the island.",
+        "significance": "Demonstrates Usopp's resourcefulness even without his memories.",
+        "timestamp": "11:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 17,
+        "episodeEnd": 312,
+        "reason": "Ship is operational and serving as the Straw Hats' vessel"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": [],
+    "relatedCharacters": ["usopp", "sanji", "chopper"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Ocean's Dream Arc"],
+    "images": []
+  }
+]
