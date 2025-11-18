@@ -1,0 +1,142 @@
+[
+  {
+    "name": {
+      "english": "Cocoyasi Village",
+      "japanese": "ココヤシ村",
+      "romanized": "Kokoyashi Mura"
+    },
+    "debutEpisode": 31,
+    "debutChapter": 69,
+    "episodeAppearances": [34],
+    "keyEvents": [
+      {
+        "episodeNumber": 34,
+        "eventId": "ep034-event-005",
+        "title": "Nami Confronts the Crew",
+        "description": "Nami meets the crew at a paddy field in Cocoyasi Village and tells them to leave.",
+        "timestamp": "10:15"
+      },
+      {
+        "episodeNumber": 34,
+        "eventId": "ep034-event-006",
+        "title": "Luffy's Stubborn Refusal",
+        "description": "Luffy lies down in Cocoyasi Village, refusing to leave without Nami.",
+        "timestamp": "12:45"
+      },
+      {
+        "episodeNumber": 34,
+        "eventId": "ep034-event-008",
+        "title": "Nojiko Begins the Story",
+        "description": "Nojiko begins to tell Nami's backstory at her house in Cocoyasi Village.",
+        "timestamp": "17:45"
+      }
+    ],
+    "locationType": "ISLAND_VILLAGE",
+    "parentLocation": "East Blue",
+    "description": "A peaceful village in the East Blue that has been terrorized by Arlong and his Fish-Man Pirates for eight years. Home to Nami and Nojiko.",
+    "firstMention": 31,
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 31,
+        "description": "Village under Arlong's control"
+      }
+    ],
+    "inhabitants": ["nami", "nojiko", "genzo", "bell-mere"],
+    "controlledBy": "arlong-pirates",
+    "geographicDetails": {
+      "climate": "Temperate",
+      "terrain": "Coastal village with mikan orchards",
+      "notableFeatures": ["Mikan groves", "Paddy fields", "Harbor"]
+    }
+  },
+  {
+    "name": {
+      "english": "Marine 77th Branch Ship",
+      "japanese": "海軍第77支部の船",
+      "romanized": "Kaigun Dai 77 Shibu no Fune"
+    },
+    "debutEpisode": 34,
+    "debutChapter": 75,
+    "episodeAppearances": [34],
+    "keyEvents": [
+      {
+        "episodeNumber": 34,
+        "eventId": "ep034-event-001",
+        "title": "Marine Ship Arrives",
+        "description": "Commodore Pudding Pudding's fleet arrives to rescue Gosa Village survivors and capture Arlong.",
+        "timestamp": "02:15"
+      },
+      {
+        "episodeNumber": 34,
+        "eventId": "ep034-event-003",
+        "title": "Marine Ship Destroyed",
+        "description": "The ship is sunk by Arlong's officers using an artificial maelstrom.",
+        "timestamp": "05:20"
+      }
+    ],
+    "locationType": "SHIP",
+    "parentLocation": "East Blue",
+    "description": "A Marine vessel from the 77th Branch commanded by Commodore Pudding Pudding. The ship was destroyed by Arlong's officers while attempting to rescue Gosa Village survivors.",
+    "firstMention": 34,
+    "status": "DESTROYED",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 34,
+        "description": "Marine ship arrives at Cocoyasi Village"
+      },
+      {
+        "status": "DESTROYED",
+        "episodeStart": 34,
+        "description": "Sunk by Arlong Pirates' officers"
+      }
+    ],
+    "inhabitants": ["pudding-pudding"],
+    "controlledBy": "marines-77th-branch",
+    "geographicDetails": {
+      "climate": null,
+      "terrain": null,
+      "notableFeatures": ["Standard Marine vessel design"]
+    }
+  },
+  {
+    "name": {
+      "english": "Nojiko's House",
+      "japanese": "ノジコの家",
+      "romanized": "Nojiko no Ie"
+    },
+    "debutEpisode": 34,
+    "debutChapter": 76,
+    "episodeAppearances": [34],
+    "keyEvents": [
+      {
+        "episodeNumber": 34,
+        "eventId": "ep034-event-008",
+        "title": "Backstory Revelation Begins",
+        "description": "Nojiko invites the crew to her house and begins explaining Nami's past.",
+        "timestamp": "17:45"
+      }
+    ],
+    "locationType": "BUILDING",
+    "parentLocation": "Cocoyasi Village",
+    "description": "Nojiko's home in Cocoyasi Village where she lives and tends to her mikan orchard. The house serves as the setting for revealing Nami's backstory to the Straw Hat crew.",
+    "firstMention": 34,
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 34,
+        "description": "Nojiko's residence"
+      }
+    ],
+    "inhabitants": ["nojiko"],
+    "controlledBy": null,
+    "geographicDetails": {
+      "climate": null,
+      "terrain": null,
+      "notableFeatures": ["Mikan orchard", "Peaceful setting"]
+    }
+  }
+]

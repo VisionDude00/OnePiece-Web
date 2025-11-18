@@ -1,0 +1,158 @@
+[
+  {
+    "name": {
+      "english": "Arlong Pirates",
+      "japanese": "アーロン一味",
+      "romanized": "Āron Ichimi"
+    },
+    "debutEpisode": 31,
+    "debutChapter": 69,
+    "episodeAppearances": [31],
+    "crewType": "Pirate Crew",
+    "jollyRoger": {
+      "description": "A sawshark skull with a saw-shaped nose, resembling Arlong's distinctive feature",
+      "symbolism": "Represents Arlong's sawshark fish-man heritage and his fearsome reputation"
+    },
+    "ship": {
+      "name": "Shark Superb",
+      "shipType": "Fish-man vessel",
+      "debutEpisode": 31
+    },
+    "captain": {
+      "characterId": "arlong",
+      "name": "Arlong",
+      "episodeStarted": 31,
+      "episodeEnded": null
+    },
+    "members": [
+      {
+        "characterId": "arlong",
+        "role": "Captain",
+        "episodeJoined": 31,
+        "episodeLeft": null,
+        "status": "ACTIVE"
+      },
+      {
+        "characterId": "kuroobi",
+        "role": "Officer",
+        "episodeJoined": 31,
+        "episodeLeft": null,
+        "status": "ACTIVE"
+      },
+      {
+        "characterId": "chew",
+        "role": "Officer",
+        "episodeJoined": 31,
+        "episodeLeft": null,
+        "status": "ACTIVE"
+      },
+      {
+        "characterId": "hatchan",
+        "role": "Officer",
+        "episodeJoined": 31,
+        "episodeLeft": null,
+        "status": "ACTIVE"
+      },
+      {
+        "characterId": "nami",
+        "role": "Officer/Cartographer",
+        "episodeJoined": 31,
+        "episodeLeft": null,
+        "status": "ACTIVE"
+      }
+    ],
+    "totalBounty": 20000000,
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 31,
+        "episodeEnd": null,
+        "reason": "Operating in the Conomi Islands, East Blue"
+      }
+    ],
+    "base": {
+      "locationId": "arlong-park",
+      "locationName": "Arlong Park",
+      "episodeEstablished": 31
+    },
+    "territory": [
+      {
+        "locationId": "conomi-islands",
+        "locationName": "Conomi Islands",
+        "episodeClaimStart": 31,
+        "episodeClaimEnd": null
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 31,
+        "eventId": "ep031-event-005",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Arlong Pirates Introduction",
+        "description": "The Arlong Pirates are revealed as the dominant force in the Conomi Islands, ruling through terror, extortion, and a corrupt alliance with the Marines.",
+        "significance": "Introduction of the primary antagonist crew of the Arlong Park Arc.",
+        "timestamp": "11:45"
+      },
+      {
+        "episodeNumber": 31,
+        "eventId": "ep031-event-006",
+        "momentType": "RELATIONSHIP_REVEAL",
+        "title": "Corrupt Alliance with Marines",
+        "description": "The crew's corrupt relationship with Captain Nezumi is revealed, showing how they maintain power.",
+        "significance": "Demonstrates the systemic nature of their control over the region.",
+        "timestamp": "13:30"
+      }
+    ],
+    "ideology": {
+      "primaryGoal": "Conquer the East Blue and establish fish-man supremacy",
+      "philosophy": "Fish-men are superior to humans and should rule over them",
+      "methods": "Terror, extortion, corruption, and systematic oppression"
+    },
+    "alliances": [
+      {
+        "allyId": "nezumi",
+        "allyType": "CORRUPT_OFFICIAL",
+        "relationshipType": "Bribery arrangement",
+        "episodeEstablished": 31,
+        "episodeEnded": null,
+        "description": "Arlong bribes Captain Nezumi to ensure Marine non-interference"
+      }
+    ],
+    "conflicts": [
+      {
+        "enemyId": "straw-hat-pirates",
+        "conflictType": "IDEOLOGICAL_COMBAT",
+        "episodeStarted": 31,
+        "episodeEnded": null,
+        "description": "Conflict begins when Zoro is captured and Nami's connection is revealed"
+      }
+    ],
+    "reveals": [
+      {
+        "infoType": "OPERATIONS",
+        "information": "Controls the Conomi Islands through monthly tribute system backed by violence",
+        "episodeRevealed": 31,
+        "severity": "MAJOR"
+      },
+      {
+        "infoType": "CORRUPTION",
+        "information": "Maintains power through bribing Marine Captain Nezumi",
+        "episodeRevealed": 31,
+        "severity": "MAJOR"
+      },
+      {
+        "infoType": "COMPOSITION",
+        "information": "All-fish-man crew (except Nami) with members from the Grand Line",
+        "episodeRevealed": 31,
+        "severity": "MAJOR"
+      },
+      {
+        "infoType": "CONNECTION",
+        "information": "Previously connected to Jinbe, one of the Seven Warlords",
+        "episodeRevealed": 31,
+        "severity": "MAJOR"
+      }
+    ]
+  }
+]

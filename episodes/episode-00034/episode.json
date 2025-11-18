@@ -1,0 +1,465 @@
+{
+  "episodeNumber": 34,
+  "episodeTitle": "Reunited! Usopp Tells Nami's True Story",
+  "episodeTitleJapanese": "全員集結！ウソップが語るナミの真実",
+  "episodeTitleRomanized": "Zen'in shūketsu! Usoppu ga kataru Nami no shinjitsu",
+  "description": "Usopp reveals he survived his encounter with Nami, who had stabbed her own hand to spare him. Arlong's officers sink a Marine rescue ship. Luffy refuses to leave the island without Nami, while Nojiko begins explaining Nami's troubled past.",
+  "airDate": "2000-07-26",
+  "airDateJapan": "2000-07-26",
+  "airDateUS": "2005-05-14",
+  "arcName": "Arlong Park Arc",
+  "sagaName": "East Blue Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Are!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [1, 47]
+  },
+  "endingSong": {
+    "title": "RUN! RUN! RUN!",
+    "artist": "Maki Otsuki",
+    "episodeRange": [31, 63]
+  },
+  "credits": {
+    "animationDirector": "Junji Shimizu",
+    "screenplayWriter": "Michiru Shimada",
+    "artDirector": "Tomoko Yoshida",
+    "keyAnimators": ["Kenji Yokoyama"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Arlong",
+        "actor": "Jurouta Kosugi"
+      },
+      {
+        "character": "Nojiko",
+        "actor": "Wakana Yamazaki"
+      },
+      {
+        "character": "Pudding Pudding",
+        "actor": "Tetsu Inada"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Pudding Pudding",
+        "actor": "Barry Yandell"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep034-event-001",
+      "episodeNumber": 34,
+      "timestamp": "02:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Pudding Pudding's Debut",
+      "description": "Marine Commodore Pudding Pudding of the 77th Branch arrives with his fleet to rescue survivors from Gosa Village and capture Arlong. He confidently declares his unit's valor before engaging the Fish-Man Pirates.",
+      "significance": "Introduces a Marine officer attempting to enforce justice against Arlong, demonstrating the Marines' awareness of the threat but also their underestimation of Fish-Man strength.",
+      "characterIds": ["pudding-pudding"],
+      "locationIds": ["cocoyasi-village-waters"],
+      "crewIds": ["arlong-pirates"],
+      "quotes": [
+        {
+          "text": "The 77th Branch is known for its valor!",
+          "speaker": "Pudding Pudding",
+          "context": "Warning the Arlong Pirates before the attack"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [31, 33]
+    },
+    {
+      "id": "ep034-event-002",
+      "episodeNumber": 34,
+      "timestamp": "03:45",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Arlong's Officers Attack the Marine Ship",
+      "description": "Arlong sends his three top officers - Chew, Kuroobi, and Hatchan - to deal with the Marine threat. The three Fish-Men work together to systematically destroy the Marine vessel.",
+      "significance": "Demonstrates the overwhelming power of the Arlong Pirates' officers and the ineffectiveness of standard Marine forces against Fish-Men in naval combat.",
+      "characterIds": ["chew", "kuroobi", "hatchan", "arlong"],
+      "locationIds": ["cocoyasi-village-waters"],
+      "crewIds": ["arlong-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [31],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep034-event-003",
+      "episodeNumber": 34,
+      "timestamp": "05:20",
+      "eventType": "DEATH",
+      "severity": "CRITICAL",
+      "title": "Death of Commodore Pudding Pudding",
+      "description": "As Pudding Pudding attempts to introduce himself, Chew shoots him. Kuroobi tears off the ship's rudder while Hatchan creates an artificial maelstrom, sinking the entire Marine fleet. Pudding Pudding and all his crew perish.",
+      "significance": "Shows the brutality of the Arlong Pirates and establishes the deadly stakes of the conflict. This death also highlights the Marines' inability to protect East Blue from powerful pirates.",
+      "characterIds": ["pudding-pudding", "chew", "kuroobi", "hatchan"],
+      "locationIds": ["cocoyasi-village-waters"],
+      "crewIds": ["arlong-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep034-event-004",
+      "episodeNumber": 34,
+      "timestamp": "07:30",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "title": "Johnny Reports Usopp's 'Death'",
+      "description": "Johnny tearfully reports to the crew that Nami killed Usopp. The crew is shocked and struggles to believe that Nami would betray them so completely.",
+      "significance": "Creates dramatic tension and tests the crew's faith in Nami, though Luffy remains skeptical of the report.",
+      "characterIds": ["johnny", "luffy", "zoro", "sanji", "yosaku", "nami"],
+      "locationIds": ["cocoyasi-village"],
+      "quotes": [
+        {
+          "text": "Nami... she killed Usopp!",
+          "speaker": "Johnny",
+          "context": "Reporting what he believes happened to Usopp"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [33],
+      "payoffInEpisodes": [34],
+      "callbacksToEpisodes": [33]
+    },
+    {
+      "id": "ep034-event-005",
+      "episodeNumber": 34,
+      "timestamp": "10:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Nami Tells the Crew to Leave",
+      "description": "Nami confronts the Straw Hat crew at a paddy field, coldly telling them to leave the island. She claims her allegiance to the Arlong Pirates and insists she was only using them for their money. Despite her harsh words, there are hints of inner conflict.",
+      "significance": "This is a pivotal moment testing the bond between Nami and the crew. Her words are meant to push them away for their own safety, though she cannot fully hide her true feelings.",
+      "characterIds": ["nami", "luffy", "zoro", "sanji", "johnny", "yosaku"],
+      "locationIds": ["cocoyasi-village"],
+      "crewIds": ["straw-hat-pirates", "arlong-pirates"],
+      "quotes": [
+        {
+          "text": "I'm a member of the Arlong Pirates. Leave this island before you're captured.",
+          "speaker": "Nami",
+          "context": "Coldly dismissing the crew to protect them"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [31, 33],
+      "payoffInEpisodes": [37],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep034-event-006",
+      "episodeNumber": 34,
+      "timestamp": "12:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Luffy Refuses to Leave",
+      "description": "Despite Nami's demands for the crew to leave, Luffy stubbornly refuses. He lies down on the ground, declaring his intention to stay on the island until Nami agrees to be his navigator.",
+      "significance": "Demonstrates Luffy's unwavering loyalty and his ability to see through Nami's facade. This moment is crucial in establishing the Straw Hats' commitment to rescuing their crewmate.",
+      "characterIds": ["luffy", "nami"],
+      "locationIds": ["cocoyasi-village"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "I'm not leaving without you as my navigator!",
+          "speaker": "Luffy",
+          "context": "Refusing to abandon Nami despite her rejection"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [37, 39],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep034-event-007",
+      "episodeNumber": 34,
+      "timestamp": "15:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Usopp Reveals He's Alive",
+      "description": "Usopp appears before the crew, revealing that Nami didn't actually kill him. She stabbed the back of her own hand instead, allowing Usopp to escape unharmed while maintaining her cover with the Arlong Pirates.",
+      "significance": "This revelation proves that Nami is still protecting the crew despite her claims of betrayal. It shows her sacrifice and the pain she endures to keep up appearances with Arlong.",
+      "characterIds": ["usopp", "nami", "luffy", "zoro", "sanji"],
+      "locationIds": ["cocoyasi-village"],
+      "quotes": [
+        {
+          "text": "Nami stabbed the back of her own hand! She let me escape!",
+          "speaker": "Usopp",
+          "context": "Revealing the truth about his 'death'"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [33],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [33]
+    },
+    {
+      "id": "ep034-event-008",
+      "episodeNumber": 34,
+      "timestamp": "17:45",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Nojiko Begins to Explain Nami's Past",
+      "description": "Nojiko, Nami's adoptive sister, offers to explain to the crew why Nami is acting the way she is. She begins to tell the story of their childhood, mentioning their adoptive mother Bell-mère and the eight years of suffering Nami has endured.",
+      "significance": "This sets up the emotional core of the Arlong Park Arc - Nami's tragic backstory. Understanding her past will give the crew and viewers the full context of her seemingly cold actions.",
+      "characterIds": ["nojiko", "nami", "luffy", "zoro", "sanji", "usopp"],
+      "locationIds": ["cocoyasi-village", "nojiko-house"],
+      "quotes": [
+        {
+          "text": "Let me tell you about Nami's past... about our mother, Bell-mère.",
+          "speaker": "Nojiko",
+          "context": "Beginning to explain Nami's backstory to the crew"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [32, 33],
+      "payoffInEpisodes": [35, 36, 37],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep034-event-009",
+      "episodeNumber": 34,
+      "timestamp": "19:20",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Bell-mère First Mentioned",
+      "description": "Nojiko mentions Bell-mère, the woman who raised both her and Nami in Cocoyasi Village. This is the first time the crew learns about Nami's adoptive mother.",
+      "significance": "Introduces Bell-mère, whose story and fate will be central to understanding Nami's motivations and her deal with Arlong.",
+      "characterIds": ["nojiko", "bell-mere", "nami"],
+      "locationIds": ["cocoyasi-village"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [35, 36, 37],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep034-event-010",
+      "episodeNumber": 34,
+      "timestamp": "20:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Zoro's Understanding",
+      "description": "Zoro demonstrates his perceptiveness by understanding that there's more to Nami's situation than she's revealing. He recognizes the complexity of her predicament even before hearing the full story.",
+      "significance": "Shows Zoro's growth as a character and his developing emotional intelligence. His faith in Nami mirrors Luffy's, reinforcing the crew's bond.",
+      "characterIds": ["zoro", "nami"],
+      "locationIds": ["cocoyasi-village"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["pudding-pudding"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [35, 36, 37],
+    "payoffFrom": [31, 32, 33],
+    "thematicLinks": [37, 39, 44]
+  },
+  "quotes": [
+    {
+      "text": "I'm not leaving without you as my navigator!",
+      "speaker": "Luffy",
+      "context": "Refusing to abandon Nami despite her rejection",
+      "timestamp": "12:45"
+    },
+    {
+      "text": "Nami stabbed the back of her own hand! She let me escape!",
+      "speaker": "Usopp",
+      "context": "Revealing the truth about his survival",
+      "timestamp": "15:30"
+    },
+    {
+      "text": "Let me tell you about Nami's past... about our mother, Bell-mère.",
+      "speaker": "Nojiko",
+      "context": "Beginning to explain Nami's backstory",
+      "timestamp": "17:45"
+    },
+    {
+      "text": "I'm a member of the Arlong Pirates. Leave this island before you're captured.",
+      "speaker": "Nami",
+      "context": "Coldly dismissing the crew to protect them",
+      "timestamp": "10:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Loyalty and Trust",
+      "description": "The episode explores the deep bonds of loyalty as Luffy refuses to abandon Nami despite her apparent betrayal. The crew's willingness to trust that there's more to her story demonstrates the strength of their friendship.",
+      "symbolism": "Luffy lying down and refusing to move represents his immovable faith in Nami.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Sacrifice and Protection",
+      "description": "Nami's self-inflicted wound to save Usopp and her harsh words to drive the crew away show how she sacrifices her own well-being to protect others.",
+      "symbolism": "The stabbed hand represents the pain Nami endures to maintain her cover and protect those she cares about.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Truth vs. Appearances",
+      "description": "The episode contrasts what appears to be happening (Nami's betrayal) with the underlying truth (her forced servitude to Arlong and her protective actions).",
+      "symbolism": "",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Emotional", "Suspenseful", "Dramatic"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Determined Captain",
+      "development": "Luffy demonstrates his unwavering loyalty to his crew by refusing to leave without Nami, showing that he sees through her facade and trusts his instincts about her true nature.",
+      "keyActions": [
+        "Refuses to believe Nami killed Usopp initially",
+        "Stubbornly lies down and refuses to leave the island",
+        "Declares his intention to make Nami his navigator no matter what"
+      ],
+      "quotes": ["I'm not leaving without you as my navigator!"]
+    },
+    {
+      "characterId": "nami",
+      "role": "Conflicted Ally",
+      "development": "Nami's internal struggle becomes more apparent as she tries to push the crew away while simultaneously protecting them. Her sacrifice in stabbing her own hand reveals her true feelings.",
+      "keyActions": [
+        "Confronts the crew and tells them to leave",
+        "Maintains her cover as an Arlong Pirates member",
+        "Stabbed her own hand to save Usopp (revealed)"
+      ],
+      "quotes": ["I'm a member of the Arlong Pirates. Leave this island before you're captured."]
+    },
+    {
+      "characterId": "usopp",
+      "role": "Truth Revealer",
+      "development": "Usopp's survival and revelation proves Nami's true character to the crew. His testimony becomes crucial evidence of her inner conflict.",
+      "keyActions": [
+        "Reveals he's alive to the shocked crew",
+        "Explains how Nami saved him by stabbing her own hand",
+        "Validates the crew's faith in Nami"
+      ],
+      "quotes": ["Nami stabbed the back of her own hand! She let me escape!"]
+    },
+    {
+      "characterId": "nojiko",
+      "role": "Story Keeper",
+      "development": "Nojiko steps forward to bridge the gap between Nami's actions and the crew's understanding by offering to explain the painful history behind Nami's situation.",
+      "keyActions": [
+        "Observes the crew's determination",
+        "Decides to reveal Nami's past",
+        "Begins the story of Bell-mère and their childhood"
+      ],
+      "quotes": ["Let me tell you about Nami's past... about our mother, Bell-mère."]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime adds extended scenes of the Marine ship being destroyed by the Arlong Pirates' officers, with more detailed animation of the maelstrom technique.",
+      "episodeTimestamp": "03:45",
+      "mangaReference": "Chapter 75",
+      "type": "ANIME_EXPANSION"
+    },
+    {
+      "difference": "Additional dialogue and reactions from Johnny and Yosaku are included in the anime to extend the emotional impact of the revelations.",
+      "episodeTimestamp": "07:30",
+      "mangaReference": "Chapter 75-76",
+      "type": "ANIME_EXPANSION"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Pudding Pudding's name and hairstyle were inspired by Purin Purin-chan from a 1981 puppet show, as confirmed by creator Eiichiro Oda.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Pudding_Pudding",
+          "title": "Pudding Pudding - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode marks the first mention of Bell-mère, though her first full appearance occurs in Episode 35 during the flashback sequences.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Bell-m%C3%A8re",
+          "title": "Bell-mère - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode originally aired in Japan with a 12.7% rating, ranking 5th for the week. The remastered version in 2012 achieved a 5.3% rating.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_34",
+          "title": "Episode 34 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Pudding Pudding is one of the few characters in One Piece who debuts and dies in the same episode.",
+      "category": "STORY",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

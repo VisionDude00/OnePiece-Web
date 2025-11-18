@@ -1,0 +1,117 @@
+[
+  {
+    "name": {
+      "english": "Marines",
+      "japanese": "海軍",
+      "romanized": "Kaigun"
+    },
+    "crewType": "MILITARY",
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [35],
+    "captainId": null,
+    "members": [
+      {
+        "characterId": "bell-mere",
+        "role": "Soldier",
+        "joinedEpisode": null,
+        "leftEpisode": 35,
+        "status": "FORMER"
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 35,
+        "eventId": "ep035-event-002",
+        "momentType": "BACKSTORY_REVEAL",
+        "title": "Marines Fight in Oykot Kingdom",
+        "description": "Flashback shows the Marines, including Bell-mère, fighting pirates in the Oykot Kingdom in a brutal war.",
+        "significance": "Reveals Bell-mère's military background and the war where she found Nami and Nojiko.",
+        "timestamp": "04:15"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [],
+    "baseLocation": null,
+    "enemyCrews": ["arlong-pirates"],
+    "allyCrews": [],
+    "totalBounty": 0,
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Arlong Pirates",
+      "japanese": "アーロン一味",
+      "romanized": "Āron Ichimi"
+    },
+    "crewType": "PIRATE",
+    "debutEpisode": 31,
+    "debutChapter": 69,
+    "episodeAppearances": [35],
+    "captainId": "arlong",
+    "members": [
+      {
+        "characterId": "arlong",
+        "role": "Captain",
+        "joinedEpisode": null,
+        "leftEpisode": null,
+        "status": "ACTIVE"
+      },
+      {
+        "characterId": "hatchan",
+        "role": "Officer",
+        "joinedEpisode": null,
+        "leftEpisode": null,
+        "status": "ACTIVE"
+      },
+      {
+        "characterId": "kuroobi",
+        "role": "Officer",
+        "joinedEpisode": null,
+        "leftEpisode": null,
+        "status": "ACTIVE"
+      },
+      {
+        "characterId": "chew",
+        "role": "Officer",
+        "joinedEpisode": null,
+        "leftEpisode": null,
+        "status": "ACTIVE"
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 35,
+        "eventId": "ep035-event-011",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Arlong Pirates Arrive at Cocoyasi Village (Flashback)",
+        "description": "In flashback, the Arlong Pirates invade Cocoyasi Village and declare it their territory.",
+        "significance": "The beginning of 8 years of tyrannical rule over the Conomi Islands.",
+        "timestamp": "19:30"
+      },
+      {
+        "episodeNumber": 35,
+        "eventId": "ep035-event-012",
+        "momentType": "WORLD_LORE",
+        "title": "Tribute System Established",
+        "description": "Arlong announces the tribute system that will oppress the village: 100,000 berries per adult, 50,000 per child.",
+        "significance": "Establishes the economic oppression that enslaves the entire region.",
+        "timestamp": "20:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 35,
+        "episodeEnd": 44,
+        "reason": "Ruling over Conomi Islands"
+      }
+    ],
+    "baseLocation": "arlong-park",
+    "enemyCrews": ["straw-hat-pirates", "marines"],
+    "allyCrews": [],
+    "totalBounty": 20000000,
+    "images": []
+  }
+]
