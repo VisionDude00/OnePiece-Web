@@ -1,0 +1,599 @@
+{
+  "episodeNumber": 105,
+  "episodeTitle": "The Battlefront of Alabasta! Rainbase, the City of Dreams!",
+  "episodeTitleJapanese": "アラバスタ戦線！夢の町レインベース",
+  "episodeTitleRomanized": "Arabasuta Sensen! Yume no Machi Reinbēsu!",
+  "description": "The Straw Hat Pirates arrive in Rainbase with plans to confront Crocodile, but their cover is blown when Luffy and Usopp accidentally encounter Smoker and Tashigi. Meanwhile, King Cobra receives Vivi's letter revealing Crocodile's treachery and mobilizes his forces toward Rainbase.",
+  "airDate": "2002-03-17",
+  "airDateJapan": "2002-03-17",
+  "airDateUS": "2006-06-24",
+  "airDateUSFunimation": "2010-01-19",
+  "arcName": "Arabasta Arc",
+  "sagaName": "Arabasta Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Believe",
+    "titleJapanese": "Believe",
+    "artist": "Folder5",
+    "composer": "Hidenori Tanaka",
+    "lyricist": "Hidenori Tanaka",
+    "episodeRange": [48, 115]
+  },
+  "endingSong": {
+    "title": "fish",
+    "titleJapanese": "fish",
+    "artist": "The Kaleidoscope",
+    "composer": "Takeshi Aida",
+    "lyricist": "Takeshi Aida",
+    "episodeRange": [95, 106]
+  },
+  "credits": {
+    "director": "Yuji Endo",
+    "screenplay": "Michiru Shimada",
+    "artDirector": "Miyuki Sato",
+    "animationDirector": "Naoki Tate",
+    "keyAnimators": ["Masahiro Shimanuki"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Misa Watanabe"
+      },
+      {
+        "character": "Smoker",
+        "actor": "Mahito Oba"
+      },
+      {
+        "character": "Tashigi",
+        "actor": "Junko Noda"
+      },
+      {
+        "character": "Crocodile",
+        "actor": "Ryuzaburo Otomo"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Nefertari Cobra",
+        "actor": "Iemasa Kayumi"
+      },
+      {
+        "character": "Pell",
+        "actor": "Kenji Nojima"
+      },
+      {
+        "character": "Chaka",
+        "actor": "Kihachiro Uemura"
+      },
+      {
+        "character": "Karoo",
+        "actor": "Kenji Nomura"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Caitlin Glass"
+      },
+      {
+        "character": "Smoker",
+        "actor": "Greg Dulcie"
+      },
+      {
+        "character": "Tashigi",
+        "actor": "Monica Rial"
+      },
+      {
+        "character": "Crocodile",
+        "actor": "John Swasey"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Nefertari Cobra",
+        "actor": "Kyle Hebert"
+      },
+      {
+        "character": "Pell",
+        "actor": "Kevin M. Connolly"
+      },
+      {
+        "character": "Chaka",
+        "actor": "Robert McCollum"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep105-event-001",
+      "episodeNumber": 105,
+      "timestamp": "03:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Vivi Decides to Target Crocodile Directly",
+      "description": "After failing to stop the rebellion in time, Vivi tearfully declares that their plan has changed. Instead of trying to reach the rebels, they will go directly to Rainbase to confront Crocodile and stop his schemes at the source.",
+      "significance": "Marks a crucial strategic shift in the Straw Hats' approach to saving Alabasta. Rather than attempting to prevent the conflict, they decide to eliminate its orchestrator.",
+      "characterIds": ["vivi", "luffy", "nami", "zoro", "sanji", "usopp", "chopper"],
+      "locationIds": ["alabasta-desert"],
+      "quotes": [
+        {
+          "text": "We have to get to Crocodile before the rebels invade Alubarna!",
+          "speaker": "Vivi",
+          "context": "Explaining the new plan to the crew"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [103, 104],
+      "payoffInEpisodes": [106, 107, 108, 110],
+      "callbacksToEpisodes": [92, 101]
+    },
+    {
+      "id": "ep105-event-002",
+      "episodeNumber": 105,
+      "timestamp": "04:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Vivi Reveals Map of Alabasta",
+      "description": "Vivi shows the crew a detailed map of Alabasta, pointing out the locations of Alubarna (the capital where her father is), Katorea (where the rebel army is camped), and Rainbase (where Crocodile resides). She explains it's a day's journey to Rainbase from their current position.",
+      "significance": "Provides geographical context for the arc and establishes the stakes - multiple factions are converging on different locations simultaneously.",
+      "characterIds": ["vivi", "luffy", "nami", "zoro", "sanji", "usopp", "chopper"],
+      "locationIds": ["alabasta-desert", "rainbase", "alubarna", "katorea"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [105, 106],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep105-event-003",
+      "episodeNumber": 105,
+      "timestamp": "05:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Luffy Refuses to Share Toto's Water",
+      "description": "During the journey to Rainbase, Usopp asks Luffy for a sip of water from his container. Luffy refuses, explaining that the old man Toto had to dig all night just to fill this one container, making it too precious to share carelessly.",
+      "significance": "Demonstrates Luffy's respect and gratitude for Toto's sacrifice, showing character development and his understanding of the water crisis in Alabasta.",
+      "characterIds": ["luffy", "usopp"],
+      "locationIds": ["alabasta-desert"],
+      "quotes": [
+        {
+          "text": "No way! The old man had to dig all night to fill this!",
+          "speaker": "Luffy",
+          "context": "Refusing to share water with Usopp"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [104],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [104]
+    },
+    {
+      "id": "ep105-event-004",
+      "episodeNumber": 105,
+      "timestamp": "07:20",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Cobra Receives Vivi's Letter About Crocodile",
+      "description": "At the royal palace, Chaka and Pell are informed that Karoo has returned. King Cobra reads the letter that Vivi sent via Karoo, which reveals that Crocodile is without a doubt the mastermind behind Alabasta's troubles and the orchestrator of the kingdom's destruction.",
+      "significance": "This is the moment when the kingdom's leadership officially learns the truth about Crocodile's betrayal. It shifts the conflict from civil war to a unified front against Baroque Works.",
+      "characterIds": ["nefertari-cobra", "chaka", "pell", "karoo"],
+      "locationIds": ["alubarna-palace"],
+      "quotes": [
+        {
+          "text": "Crocodile is without a doubt the person who is trying to destroy Alabasta Kingdom!",
+          "speaker": "Vivi (via letter)",
+          "context": "The crucial revelation in Vivi's letter to her father"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [103],
+      "payoffInEpisodes": [105, 106, 110],
+      "callbacksToEpisodes": [92, 101]
+    },
+    {
+      "id": "ep105-event-005",
+      "episodeNumber": 105,
+      "timestamp": "09:10",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "King Cobra Orders Attack on Rainbase",
+      "description": "Having learned that Crocodile is the mastermind behind the kingdom's crisis, King Cobra immediately orders his forces to march on Rainbase to take down the Warlord. However, Chaka and Pell advise caution, noting that Crocodile has won the hearts of many citizens and they need to plan the attack carefully.",
+      "significance": "Shows Cobra's decisive leadership and willingness to confront even a Warlord of the Sea to protect his kingdom. Also establishes that Crocodile's influence runs deep among the populace.",
+      "characterIds": ["nefertari-cobra", "chaka", "pell"],
+      "locationIds": ["alubarna-palace"],
+      "quotes": [
+        {
+          "text": "We march on Rainbase immediately!",
+          "speaker": "Nefertari Cobra",
+          "context": "Ordering his forces to confront Crocodile"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [105],
+      "payoffInEpisodes": [106, 107, 108],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep105-event-006",
+      "episodeNumber": 105,
+      "timestamp": "10:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Chaka and Pell Prepare Strategic Response",
+      "description": "As the kingdom's two strongest warriors, Chaka and Pell begin preparations to take down Crocodile. Chaka focuses on readying the war council while Pell volunteers to scout ahead and conduct reconnaissance on Rainbase.",
+      "significance": "Establishes the royal guards' tactical approach and their roles as Alabasta's protectors. Foreshadows their importance in the upcoming conflict.",
+      "characterIds": ["chaka", "pell"],
+      "locationIds": ["alubarna-palace"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [106, 107, 110, 125],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep105-event-007",
+      "episodeNumber": 105,
+      "timestamp": "12:45",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Straw Hats Arrive at Rainbase",
+      "description": "After a day's journey through the desert, the Straw Hat Pirates finally arrive at Rainbase, the luxurious 'City of Dreams' known for its casinos and nightlife. The crew plans to lay low since they assume Crocodile already knows they're in Alabasta.",
+      "significance": "The arrival at Rainbase marks the beginning of the direct confrontation with Crocodile and Baroque Works. The contrast between the thriving casino city and the drought-stricken rest of Alabasta is stark.",
+      "characterIds": ["luffy", "nami", "zoro", "sanji", "usopp", "chopper", "vivi"],
+      "locationIds": ["rainbase"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [104, 105],
+      "payoffInEpisodes": [105, 106],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep105-event-008",
+      "episodeNumber": 105,
+      "timestamp": "14:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Luffy and Usopp Encounter Smoker and Tashigi",
+      "description": "Despite plans to stay inconspicuous, Luffy and Usopp loudly enter a bar in Rainbase and inadvertently sit right next to Captain Smoker and Tashigi, who are also investigating Crocodile. After a tense moment where neither party notices the other, they eventually lock eyes.",
+      "significance": "This chance encounter forces the Straw Hats' hand and eliminates any possibility of a stealthy approach. It also reveals that the Marines are independently investigating Crocodile's suspicious activities.",
+      "characterIds": ["luffy", "usopp", "smoker", "tashigi"],
+      "locationIds": ["rainbase", "rainbase-bar"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [100, 101],
+      "payoffInEpisodes": [105, 106],
+      "callbacksToEpisodes": [48, 53, 61]
+    },
+    {
+      "id": "ep105-event-009",
+      "episodeNumber": 105,
+      "timestamp": "16:40",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Marines Chase the Straw Hats Through Rainbase",
+      "description": "After recognizing each other in the bar, Luffy and Usopp flee with Smoker and Tashigi in hot pursuit. The chase leads them through Rainbase's streets, and they inadvertently expose the rest of the crew's positions (except Chopper who had left for a personal break), forcing everyone to run from the Marines.",
+      "significance": "The plan to stay hidden is completely ruined. This chase scene adds urgency and comedy while raising the stakes - now they must deal with both Marines and Baroque Works.",
+      "characterIds": ["luffy", "usopp", "smoker", "tashigi", "nami", "zoro", "sanji", "vivi"],
+      "locationIds": ["rainbase"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [105],
+      "payoffInEpisodes": [105, 106],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep105-event-010",
+      "episodeNumber": 105,
+      "timestamp": "18:25",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Crew Decides to Regroup at Rain Dinners Casino",
+      "description": "With the Marines chasing them and their cover blown, the Straw Hats decide to split up temporarily and meet at their original destination: Rain Dinners, Crocodile's casino. This tactical decision allows them to evade capture while still pursuing their main objective.",
+      "significance": "Shows the crew's ability to adapt under pressure. Despite the chaos, they maintain focus on their goal of confronting Crocodile.",
+      "characterIds": ["luffy", "nami", "zoro", "sanji", "usopp", "vivi"],
+      "locationIds": ["rainbase"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [105, 106],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep105-event-011",
+      "episodeNumber": 105,
+      "timestamp": "19:45",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "CRITICAL",
+      "title": "Straw Hats Converge on Rain Dinners",
+      "description": "All the Straw Hat Pirates successfully evade the Marines and arrive at Rain Dinners, the massive pyramid-shaped casino with a golden crocodile statue on top. They enter the casino while still being pursued, walking directly into Crocodile's headquarters.",
+      "significance": "The crew has entered the lion's den. This moment sets up the upcoming confrontation with Crocodile and represents a point of no return in the arc.",
+      "characterIds": ["luffy", "nami", "zoro", "sanji", "usopp", "vivi"],
+      "locationIds": ["rain-dinners"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [105],
+      "payoffInEpisodes": [106, 107, 108],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep105-event-012",
+      "episodeNumber": 105,
+      "timestamp": "20:15",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "CRITICAL",
+      "title": "Crocodile Prepares to Welcome the Straw Hats",
+      "description": "Inside Rain Dinners, Crocodile and Miss All Sunday (Nico Robin) are informed of the Straw Hats' arrival. Crocodile, rather than being concerned, is pleased and states they should give the pirates a 'warm welcome,' revealing that this was part of his plan all along.",
+      "significance": "Reveals that the Straw Hats have walked into a trap. Crocodile's confidence and preparation demonstrate his cunning and establish him as a formidable antagonist who is several steps ahead.",
+      "characterIds": ["crocodile", "nico-robin"],
+      "locationIds": ["rain-dinners"],
+      "quotes": [
+        {
+          "text": "Let's give them a warm welcome.",
+          "speaker": "Crocodile",
+          "context": "Preparing to trap the Straw Hats who have entered his casino"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [101, 103],
+      "payoffInEpisodes": [106, 107],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep105-event-013",
+      "episodeNumber": 105,
+      "timestamp": "21:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Pandaman Cameo Appearance",
+      "description": "The recurring easter egg character Pandaman makes a brief cameo appearance in Rainbase around the 21-minute mark, continuing the series tradition of hiding this character in various episodes.",
+      "significance": "A fun easter egg for attentive viewers. Pandaman's appearances throughout the series have become a beloved tradition and game for fans to spot.",
+      "characterIds": ["pandaman"],
+      "locationIds": ["rainbase"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": ["rainbase", "rain-dinners", "rainbase-bar"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [106, 107, 108],
+    "payoffFrom": [103, 104],
+    "thematicLinks": [110, 125]
+  },
+  "quotes": [
+    {
+      "text": "We have to get to Crocodile before the rebels invade Alubarna!",
+      "speaker": "Vivi",
+      "context": "Explaining the new plan to confront Crocodile directly",
+      "timestamp": "03:15"
+    },
+    {
+      "text": "No way! The old man had to dig all night to fill this!",
+      "speaker": "Luffy",
+      "context": "Refusing to share Toto's precious water",
+      "timestamp": "05:45"
+    },
+    {
+      "text": "Crocodile is without a doubt the person who is trying to destroy Alabasta Kingdom!",
+      "speaker": "Vivi (via letter)",
+      "context": "The revelation in Vivi's letter to King Cobra",
+      "timestamp": "07:20"
+    },
+    {
+      "text": "We march on Rainbase immediately!",
+      "speaker": "Nefertari Cobra",
+      "context": "Ordering forces to confront Crocodile after learning the truth",
+      "timestamp": "09:10"
+    },
+    {
+      "text": "Let's give them a warm welcome.",
+      "speaker": "Crocodile",
+      "context": "Preparing to trap the Straw Hats in Rain Dinners",
+      "timestamp": "20:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Truth and Revelation",
+      "description": "The episode centers on the revelation of truth - Vivi's letter finally reveals Crocodile's treachery to King Cobra, shifting the conflict from civil war to a unified fight against the real enemy.",
+      "symbolism": "Karoo's return with the letter symbolizes hope and the power of communication to change dire situations.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Strategic Planning vs. Chaos",
+      "description": "Multiple factions attempt to plan strategic approaches (Vivi's new plan, Cobra's military response, the Straw Hats' plan to stay hidden), but chaos inevitably disrupts these plans, forcing adaptation.",
+      "symbolism": "The contrast between careful planning and comedic chaos (Luffy sitting next to Smoker) highlights the unpredictable nature of their adventure.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Web of Manipulation",
+      "description": "Crocodile's plan is revealed to be several layers deep - he anticipated the Straw Hats' arrival and has prepared a trap, demonstrating his cunning and the extent of his control over Alabasta.",
+      "symbolism": "Rain Dinners as a pyramid with a golden crocodile on top represents Crocodile's god-like position over the city and his predatory nature.",
+      "culturalReferences": ["Egyptian mythology influences in the pyramid design and guardian spirits"]
+    }
+  ],
+  "emotionalTone": ["Tense", "Urgent", "Comedic", "Strategic"],
+  "characterSpotlights": [
+    {
+      "characterId": "vivi",
+      "role": "Emotional catalyst and guide",
+      "development": "Vivi shows growth in her strategic thinking, making the difficult decision to target Crocodile directly rather than trying to stop the rebellion. Her emotional investment in saving her kingdom intensifies.",
+      "keyActions": [
+        "Tearfully declares the plan has changed",
+        "Shows the crew a map of Alabasta",
+        "Explains the strategic situation",
+        "Leads the crew toward Rainbase"
+      ],
+      "quotes": ["We have to get to Crocodile before the rebels invade Alubarna!"]
+    },
+    {
+      "characterId": "nefertari-cobra",
+      "role": "Kingdom's decisive leader",
+      "development": "Upon learning the truth about Crocodile, Cobra immediately takes decisive action despite the personal and political risks of attacking a Warlord of the Sea. Shows his dedication to protecting his people above all else.",
+      "keyActions": [
+        "Reads Vivi's letter revealing Crocodile's treachery",
+        "Orders immediate attack on Rainbase",
+        "Listens to Chaka and Pell's strategic counsel"
+      ],
+      "quotes": ["We march on Rainbase immediately!"]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Protagonist and chaos catalyst",
+      "development": "Shows both maturity (respecting Toto's sacrifice with the water) and his characteristic recklessness (loudly entering a bar and sitting next to Smoker). His inability to stay low-key accelerates the plot.",
+      "keyActions": [
+        "Refuses to share Toto's water",
+        "Accidentally encounters Smoker in the bar",
+        "Leads Marines on a chase through Rainbase",
+        "Arrives at Rain Dinners"
+      ],
+      "quotes": ["No way! The old man had to dig all night to fill this!"]
+    },
+    {
+      "characterId": "crocodile",
+      "role": "Mastermind antagonist",
+      "development": "Reveals his strategic superiority by anticipating the Straw Hats' arrival and preparing a trap. His confidence and planning demonstrate why he's a Warlord of the Sea.",
+      "keyActions": [
+        "Is informed of the Straw Hats' arrival",
+        "Remains calm and pleased rather than concerned",
+        "Prepares to trap them in Rain Dinners"
+      ],
+      "quotes": ["Let's give them a warm welcome."]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended some of the chase sequences through Rainbase with additional comedic moments not present in the manga.",
+      "episodeTimestamp": "16:40",
+      "mangaReference": "Chapter 168",
+      "type": "ANIME_EXTENDED_SCENE"
+    },
+    {
+      "difference": "The palace scenes with Chaka and Pell discussing strategy were expanded in the anime to provide more context for their characters.",
+      "episodeTimestamp": "10:30",
+      "mangaReference": "Chapter 167",
+      "type": "ANIME_EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode covers manga chapters 167-168, titled 'Operation Utopia Commences' and 'Rainbase, Town of Dreams' respectively.",
+      "category": "MANGA_ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_105",
+          "title": "Episode 105 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The ending theme 'fish' by The Kaleidoscope was used for only 12 episodes (95-106), making it one of the shorter-running ending themes in the series.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Fish",
+          "title": "Fish - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Pandaman makes a cameo appearance at around the 21-minute mark, continuing the series-long tradition of hiding this character throughout the anime.",
+      "category": "EASTER_EGG",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_105",
+          "title": "Episode 105 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Rainbase is designed to resemble Las Vegas, with its casino culture and the contrast between luxury and the surrounding desert environment.",
+      "category": "WORLD_BUILDING",
+      "sources": []
+    },
+    {
+      "fact": "This episode marks a significant turning point where King Cobra learns the truth about Crocodile, shifting the Alabasta conflict from civil war to a unified front against Baroque Works.",
+      "category": "PLOT",
+      "sources": []
+    },
+    {
+      "fact": "The episode was written by Michiru Shimada and directed by Yuji Endo, with animation direction by Naoki Tate and Masahiro Shimanuki.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_105",
+          "title": "Episode 105 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

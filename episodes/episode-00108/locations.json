@@ -1,0 +1,229 @@
+[
+  {
+    "name": {
+      "english": "Rain Dinners",
+      "japanese": "レインディナーズ",
+      "romanized": "Rein Dinazu"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Arabasta",
+    "debutEpisode": 105,
+    "debutChapter": 165,
+    "description": "A large pyramid-shaped casino, restaurant, and resort in Rainbase owned by Crocodile. The building serves as the headquarters for Baroque Works and features a golden crocodile statue at the top. The basement contains Crocodile's secret operations center and the VIP chamber where prisoners are held.",
+    "episodeAppearances": [108],
+    "keyEvents": [
+      {
+        "episodeNumber": 108,
+        "eventId": "ep108-event-007",
+        "eventType": "TECHNIQUE_DEBUT",
+        "title": "Mr. Prince Calls Crocodile",
+        "description": "Sanji contacts Crocodile from within Rain Dinners using the 'Mr. Prince' alias.",
+        "significance": "The casino becomes the setting for Sanji's clever rescue operation.",
+        "timestamp": "17:50"
+      },
+      {
+        "episodeNumber": 108,
+        "eventId": "ep108-event-012",
+        "eventType": "MAJOR_DECISION",
+        "title": "Casino Bridge Destroyed",
+        "description": "Sanji destroys the bridge leading to Rain Dinners to prevent Baroque Works interference.",
+        "significance": "The destruction of the bridge isolates the casino, buying time for the rescue operation.",
+        "timestamp": "23:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 105,
+        "episodeEnd": 130,
+        "reason": "Operating as Crocodile's base and casino"
+      }
+    ],
+    "parentLocation": "rainbase",
+    "childLocations": ["rain-dinners-basement"],
+    "relatedCharacters": ["crocodile", "nico-robin", "sanji", "luffy", "zoro", "nami", "usopp", "vivi", "smoker"],
+    "relatedCrews": ["baroque-works", "straw-hat-pirates"],
+    "relatedArcs": ["Arabasta Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Rain Dinners Basement",
+      "japanese": "レインディナーズ地下",
+      "romanized": "Rein Dinazu Chika"
+    },
+    "locationType": "UNDERGROUND",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Arabasta",
+    "debutEpisode": 107,
+    "debutChapter": 173,
+    "description": "The secret basement beneath Rain Dinners where Crocodile conducts his covert operations. It contains a large VIP chamber several stories below the main building, equipped with a seastone cage and a flooding mechanism. The chamber also houses Crocodile's Bananawani in a separate enclosure.",
+    "episodeAppearances": [108],
+    "keyEvents": [
+      {
+        "episodeNumber": 108,
+        "eventId": "ep108-event-004",
+        "eventType": "BATTLE_START",
+        "title": "Flooding Trap Activated",
+        "description": "Crocodile floods the basement VIP chamber with seawater, creating a deadly trap for the imprisoned Straw Hats.",
+        "significance": "The flooding basement becomes a ticking time bomb scenario that drives the urgency of the rescue.",
+        "timestamp": "10:30"
+      },
+      {
+        "episodeNumber": 108,
+        "eventId": "ep108-event-005",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Bananawani Enclosure",
+        "description": "The Bananawani enclosure in the basement is revealed, where one of the creatures has swallowed the key to the prisoners' cage.",
+        "significance": "The enclosure creates a dangerous obstacle for Vivi's rescue attempt.",
+        "timestamp": "12:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 107,
+        "episodeEnd": 109,
+        "reason": "Used as Crocodile's prison and trap for the Straw Hats"
+      }
+    ],
+    "parentLocation": "rain-dinners",
+    "childLocations": [],
+    "relatedCharacters": ["crocodile", "luffy", "zoro", "nami", "usopp", "vivi", "smoker"],
+    "relatedCrews": ["straw-hat-pirates", "baroque-works"],
+    "relatedArcs": ["Arabasta Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Rainbase",
+      "japanese": "レインベース",
+      "romanized": "Reinbēsu"
+    },
+    "locationType": "CITY",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Arabasta",
+    "debutEpisode": 94,
+    "debutChapter": 161,
+    "description": "A major city in the Arabasta Kingdom that serves as Baroque Works' main headquarters. The city is known for its casino district and is home to Rain Dinners, Crocodile's base of operations. Despite the kingdom-wide drought, Rainbase remains relatively prosperous due to the casino's draw.",
+    "episodeAppearances": [108],
+    "keyEvents": [
+      {
+        "episodeNumber": 108,
+        "eventId": "ep108-event-010",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Chopper Lures Crocodile Through the City",
+        "description": "Chopper, disguised as Mr. Prince, leads Crocodile on a chase through Rainbase.",
+        "significance": "The city becomes the stage for the decoy operation that allows Sanji to rescue the crew.",
+        "timestamp": "21:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 94,
+        "episodeEnd": "present",
+        "reason": "Major city in Arabasta"
+      }
+    ],
+    "parentLocation": "arabasta",
+    "childLocations": ["rain-dinners"],
+    "relatedCharacters": ["crocodile", "nico-robin", "chopper"],
+    "relatedCrews": ["baroque-works"],
+    "relatedArcs": ["Arabasta Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Alubarna",
+      "japanese": "アルバーナ",
+      "romanized": "Arubāna"
+    },
+    "locationType": "CITY",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Arabasta",
+    "debutEpisode": 92,
+    "debutChapter": 160,
+    "description": "The capital city of the Arabasta Kingdom, home to the royal palace where King Nefertari Cobra rules. The city is the heart of the kingdom's government and culture, and the destination of both the rebel army and Princess Vivi.",
+    "episodeAppearances": [108],
+    "keyEvents": [
+      {
+        "episodeNumber": 108,
+        "eventId": "ep108-event-001",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Rebels March Toward Alubarna",
+        "description": "Koza leads the rebel army toward Alubarna, planning to attack the capital.",
+        "significance": "The approaching rebel army creates a deadline for preventing the civil war.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 108,
+        "eventId": "ep108-event-002",
+        "eventType": "MAJOR_DECISION",
+        "title": "Royal Guards Prepare for Battle",
+        "description": "Chaka orders the royal guards to intercept the rebel army before they reach Alubarna.",
+        "significance": "Sets up the impending battle between the rebels and royal forces.",
+        "timestamp": "05:20"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 92,
+        "episodeEnd": "present",
+        "reason": "Capital of Arabasta Kingdom"
+      }
+    ],
+    "parentLocation": "arabasta",
+    "childLocations": ["royal-palace"],
+    "relatedCharacters": ["chaka", "koza", "vivi", "cobra"],
+    "relatedCrews": [],
+    "relatedArcs": ["Arabasta Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Katorea",
+      "japanese": "カトレア",
+      "romanized": "Katorea"
+    },
+    "locationType": "CITY",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Arabasta",
+    "debutEpisode": 103,
+    "debutChapter": 168,
+    "description": "A city in Arabasta that serves as the staging ground for the rebel army. The rebels gather here before marching to Alubarna to attack the capital.",
+    "episodeAppearances": [108],
+    "keyEvents": [
+      {
+        "episodeNumber": 108,
+        "eventId": "ep108-event-001",
+        "eventType": "LOCATION_DEPARTURE",
+        "title": "Rebels Depart for Alubarna",
+        "description": "Koza and the rebel army depart from Katorea, heading toward Alubarna.",
+        "significance": "Marks the beginning of the rebels' final march to the capital.",
+        "timestamp": "03:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 103,
+        "episodeEnd": "present",
+        "reason": "Rebel army base"
+      }
+    ],
+    "parentLocation": "arabasta",
+    "childLocations": [],
+    "relatedCharacters": ["koza"],
+    "relatedCrews": [],
+    "relatedArcs": ["Arabasta Arc"],
+    "images": []
+  }
+]

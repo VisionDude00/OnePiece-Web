@@ -1,0 +1,149 @@
+[
+  {
+    "name": {
+      "english": "Rainbase",
+      "japanese": "レインベース",
+      "romanized": "Reinbēsu"
+    },
+    "locationType": "CITY",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Alabasta",
+    "debutEpisode": 76,
+    "debutChapter": 126,
+    "description": "A luxurious city in the Alabasta Kingdom known as the 'City of Dreams' due to its thriving casino and gambling industry. Despite the kingdom-wide drought, Rainbase prospered mysteriously, later revealed to be orchestrated by Crocodile who controlled the city's water supply. The city serves as the headquarters for Baroque Works.",
+    "episodeAppearances": [105],
+    "keyEvents": [
+      {
+        "episodeNumber": 105,
+        "eventId": "ep105-event-007",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Straw Hats Arrive at Rainbase",
+        "description": "The Straw Hat Pirates arrive in Rainbase after a day's journey through the desert, planning to confront Crocodile.",
+        "significance": "The crew enters the city where Crocodile has his base of operations, marking the beginning of the direct confrontation.",
+        "timestamp": "12:45"
+      },
+      {
+        "episodeNumber": 105,
+        "eventId": "ep105-event-008",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Encounter with Smoker in Rainbase Bar",
+        "description": "Luffy and Usopp accidentally encounter Smoker and Tashigi in a bar within Rainbase.",
+        "significance": "This chance encounter ruins the crew's plan to stay hidden and creates additional complications.",
+        "timestamp": "14:20"
+      },
+      {
+        "episodeNumber": 105,
+        "eventId": "ep105-event-009",
+        "eventType": "BATTLE_START",
+        "title": "Marine Chase Through Rainbase",
+        "description": "The Straw Hats are chased by Marines through the streets of Rainbase.",
+        "significance": "Forces the crew to abandon their stealth approach and accelerates their timeline.",
+        "timestamp": "16:40"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 105,
+        "episodeEnd": "present",
+        "reason": "City is thriving during the episode despite the kingdom-wide drought"
+      }
+    ],
+    "parentLocation": "alabasta",
+    "childLocations": ["rain-dinners", "rainbase-bar"],
+    "relatedCharacters": ["crocodile", "nico-robin", "luffy", "smoker", "tashigi"],
+    "relatedCrews": ["straw-hat-pirates", "baroque-works", "marines"],
+    "relatedArcs": ["Arabasta Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Rain Dinners",
+      "japanese": "レインディナーズ",
+      "romanized": "Rein Dināzu"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Alabasta",
+    "debutEpisode": 76,
+    "debutChapter": 126,
+    "description": "A luxury casino, restaurant, and resort in Rainbase owned by Crocodile. The building features a distinctive pyramid design with a golden crocodile statue on top and blue-and-gold patterning. Below the main structure lies a basement several stories deep that serves as Crocodile's secret operational headquarters for Baroque Works.",
+    "episodeAppearances": [105],
+    "keyEvents": [
+      {
+        "episodeNumber": 105,
+        "eventId": "ep105-event-011",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Straw Hats Enter Rain Dinners",
+        "description": "All the Straw Hat Pirates successfully converge on Rain Dinners and enter the casino while being pursued by Marines.",
+        "significance": "The crew enters Crocodile's headquarters, walking into his trap and setting up the major confrontation.",
+        "timestamp": "19:45"
+      },
+      {
+        "episodeNumber": 105,
+        "eventId": "ep105-event-012",
+        "eventType": "PROPHECY_FORESHADOWING",
+        "title": "Crocodile Prepares His Trap",
+        "description": "Inside Rain Dinners, Crocodile and Miss All Sunday prepare to give the Straw Hats a 'warm welcome.'",
+        "significance": "Reveals that the Straw Hats have walked into a carefully prepared trap.",
+        "timestamp": "20:15"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 105,
+        "episodeEnd": 110,
+        "reason": "Operating as Crocodile's casino and secret headquarters"
+      }
+    ],
+    "parentLocation": "rainbase",
+    "childLocations": [],
+    "relatedCharacters": ["crocodile", "nico-robin", "luffy", "nami", "zoro", "sanji", "usopp"],
+    "relatedCrews": ["straw-hat-pirates", "baroque-works"],
+    "relatedArcs": ["Arabasta Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Rainbase Bar",
+      "japanese": "レインベースのバー",
+      "romanized": "Reinbēsu no Bā"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Alabasta",
+    "debutEpisode": 105,
+    "debutChapter": 168,
+    "description": "A bar located in Rainbase where Luffy and Usopp accidentally encountered Smoker and Tashigi, leading to a chaotic chase through the city.",
+    "episodeAppearances": [105],
+    "keyEvents": [
+      {
+        "episodeNumber": 105,
+        "eventId": "ep105-event-008",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Luffy and Usopp Encounter Smoker",
+        "description": "Luffy and Usopp loudly enter a bar and inadvertently sit right next to Smoker and Tashigi.",
+        "significance": "This accidental encounter ruins the Straw Hats' plan to stay hidden in Rainbase.",
+        "timestamp": "14:20"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 105,
+        "episodeEnd": "present",
+        "reason": "Operating bar in Rainbase"
+      }
+    ],
+    "parentLocation": "rainbase",
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "usopp", "smoker", "tashigi"],
+    "relatedCrews": ["straw-hat-pirates", "marines"],
+    "relatedArcs": ["Arabasta Arc"],
+    "images": []
+  }
+]

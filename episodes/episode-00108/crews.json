@@ -1,0 +1,152 @@
+[
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi",
+      "aliases": ["Straw Hat Crew", "Mugiwara Pirates"]
+    },
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [108],
+    "captain": "luffy",
+    "members": [
+      {
+        "characterId": "luffy",
+        "role": "Captain",
+        "episodeJoined": 1,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "zoro",
+        "role": "Swordsman/First Mate",
+        "episodeJoined": 2,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "nami",
+        "role": "Navigator",
+        "episodeJoined": 44,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "usopp",
+        "role": "Sniper",
+        "episodeJoined": 17,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "sanji",
+        "role": "Cook",
+        "episodeJoined": 30,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "chopper",
+        "role": "Doctor",
+        "episodeJoined": 91,
+        "episodeLeft": null
+      }
+    ],
+    "formerMembers": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 108,
+        "eventId": "ep108-event-004",
+        "momentType": "BATTLE_START",
+        "title": "Crew Trapped in Flooding Chamber",
+        "description": "Most of the Straw Hat crew (except Sanji and Chopper) are trapped in Crocodile's flooding chamber, facing death within an hour.",
+        "significance": "Demonstrates the crew's vulnerability when separated and the importance of teamwork. Shows how dire their situation has become in Arabasta.",
+        "timestamp": "10:30"
+      },
+      {
+        "episodeNumber": 108,
+        "eventId": "ep108-event-007",
+        "momentType": "TECHNIQUE_DEBUT",
+        "title": "Sanji's Rescue Operation",
+        "description": "Sanji orchestrates a complex rescue operation using the 'Mr. Prince' alias, while Chopper serves as a decoy.",
+        "significance": "Showcases the crew's ability to work together even when separated. Sanji and Chopper's coordination saves their crewmates.",
+        "timestamp": "17:50"
+      }
+    ],
+    "shipName": "Going Merry",
+    "jollyRoger": "Straw hat over a skull",
+    "totalBounty": 100050000,
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 1,
+        "episodeEnd": "present",
+        "reason": "Active pirate crew"
+      }
+    ],
+    "baseLocation": null,
+    "allies": ["vivi", "karoo"],
+    "enemies": ["crocodile", "baroque-works"],
+    "goals": ["Help Vivi stop the rebellion and save Arabasta", "Continue journey to find One Piece"]
+  },
+  {
+    "name": {
+      "english": "Baroque Works",
+      "japanese": "バロックワークス",
+      "romanized": "Barokku Wākusu",
+      "aliases": ["B.W."]
+    },
+    "debutEpisode": 62,
+    "debutChapter": 103,
+    "episodeAppearances": [108],
+    "captain": "crocodile",
+    "members": [
+      {
+        "characterId": "crocodile",
+        "role": "President (Mr. 0)",
+        "episodeJoined": null,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "nico-robin",
+        "role": "Vice President (Miss All Sunday)",
+        "episodeJoined": null,
+        "episodeLeft": 130
+      }
+    ],
+    "formerMembers": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 108,
+        "eventId": "ep108-event-009",
+        "momentType": "BATTLE_END",
+        "title": "Low-Ranking Members Defeated",
+        "description": "Sanji defeats all of the Baroque Works Billions and Millions stationed at Rain Dinners.",
+        "significance": "Shows the weakness of Baroque Works' lower ranks against even a single Straw Hat crew member.",
+        "timestamp": "20:45"
+      },
+      {
+        "episodeNumber": 108,
+        "eventId": "ep108-event-011",
+        "momentType": "MAJOR_DECISION",
+        "title": "Crocodile Deceived by Mr. Prince",
+        "description": "Crocodile falls for Sanji's 'Mr. Prince' deception and leaves his base vulnerable.",
+        "significance": "Demonstrates that even the organization's leader can be outmaneuvered by clever tactics.",
+        "timestamp": "22:50"
+      }
+    ],
+    "shipName": null,
+    "jollyRoger": null,
+    "totalBounty": null,
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 62,
+        "episodeEnd": 130,
+        "reason": "Criminal organization operating in Arabasta"
+      }
+    ],
+    "baseLocation": "rain-dinners",
+    "allies": [],
+    "enemies": ["straw-hat-pirates", "vivi"],
+    "goals": ["Execute Operation Utopia to take over Arabasta Kingdom"]
+  }
+]
