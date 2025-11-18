@@ -1,0 +1,490 @@
+{
+  "episodeNumber": 270,
+  "episodeTitle": "Give Robin Back! Luffy vs. Blueno!",
+  "episodeTitleJapanese": "ロビンを返せ！ルフィVSブルーノ！",
+  "episodeTitleRomanized": "Robin o Kaese! Rufi tai Burūno!",
+  "description": "Sogeking encounters the giant guards Oimo and Kashii, revealing the truth about their captains Dorry and Brogy still fighting on Little Garden. Meanwhile, Luffy begins his battle against CP9 agent Blueno, demonstrating his improved strength by breaking through Blueno's Tekkai defensive technique.",
+  "airDate": "2006-07-02",
+  "airDateJapan": "2006-07-02",
+  "airDateUS": "2013-07-20",
+  "airDateUSFunimation": "2013-07-23",
+  "arcName": "Enies Lobby",
+  "sagaName": "Water 7 Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Brand New World",
+    "titleJapanese": "ブランニューワールド",
+    "artist": "D-51",
+    "composer": "Naohisa Taniguchi",
+    "lyricist": "Seiji Motoyama",
+    "episodeRange": [264, 278]
+  },
+  "endingSong": {
+    "title": "Adventure World",
+    "titleJapanese": "アドベンチャーワールド",
+    "artist": "Delicatessen",
+    "composer": "Naohisa Taniguchi",
+    "lyricist": "Hyoutan, BA-k, Sir-Yang, Marky",
+    "episodeRange": [264, 278]
+  },
+  "credits": {
+    "director": "Kōnosuke Uda",
+    "screenplay": "Shōji Yonemura",
+    "artDirector": "Miho Shiraishi",
+    "animationDirector": "Kazuya Hisada",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Usopp / Sogeking",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Blueno",
+        "actor": "Taiki Matsuno"
+      },
+      {
+        "character": "Oimo",
+        "actor": "Kenji Nomura"
+      },
+      {
+        "character": "Kashii",
+        "actor": "Mahito Ōba"
+      },
+      {
+        "character": "Dorry",
+        "actor": "Tetsu Inada"
+      },
+      {
+        "character": "Brogy",
+        "actor": "Takeshi Kusao"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Usopp / Sogeking",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Blueno",
+        "actor": "R. Bruce Elliott"
+      },
+      {
+        "character": "Oimo",
+        "actor": "Scott Freeman"
+      },
+      {
+        "character": "Kashii",
+        "actor": "Robert McCollum"
+      },
+      {
+        "character": "Dorry",
+        "actor": "Bob Carter"
+      },
+      {
+        "character": "Brogy",
+        "actor": "Jeremy Inman"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep270-event-001",
+      "episodeNumber": 270,
+      "timestamp": "03:15",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Luffy Challenges Blueno",
+      "description": "Luffy confronts CP9 agent Blueno at Enies Lobby, demanding Robin's return. Blueno explains that Luffy is committing a serious criminal offense against the World Government. Luffy declares he doesn't care about the World Government and launches his first attack to begin the battle.",
+      "significance": "Marks the beginning of Luffy's first direct confrontation with a CP9 member at Enies Lobby. This battle demonstrates Luffy's growth and sets up his determination to rescue Robin regardless of the consequences.",
+      "characterIds": ["luffy", "blueno", "robin"],
+      "locationIds": ["enies-lobby"],
+      "crewIds": ["cp9"],
+      "quotes": [
+        {
+          "text": "Give Robin back!",
+          "speaker": "Luffy",
+          "context": "Luffy's demand to Blueno at the start of their confrontation"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [269],
+      "payoffInEpisodes": [271, 272],
+      "callbacksToEpisodes": [264, 265, 269]
+    },
+    {
+      "id": "ep270-event-002",
+      "episodeNumber": 270,
+      "timestamp": "05:30",
+      "eventType": "POWER_REVEAL",
+      "title": "Luffy Breaks Through Tekkai",
+      "description": "Luffy attacks with Gomu Gomu no Rifle, and Blueno attempts to block it using his Tekkai (Iron Body) defensive technique. To Blueno's shock, Luffy's attack breaks through the Tekkai and sends him flying backward, demonstrating that Luffy has become significantly stronger since their last encounter at Iceburg's house.",
+      "significance": "This is the first clear demonstration that Luffy has grown powerful enough to overcome the Rokushiki techniques of CP9. It establishes that Luffy's training and battles have made him strong enough to challenge the elite agents.",
+      "characterIds": ["luffy", "blueno"],
+      "locationIds": ["enies-lobby"],
+      "crewIds": ["cp9"],
+      "quotes": [
+        {
+          "text": "You've changed since we last met!",
+          "speaker": "Blueno",
+          "context": "Blueno realizes Luffy has become much stronger"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [238, 239],
+      "payoffInEpisodes": [271, 272],
+      "callbacksToEpisodes": [238]
+    },
+    {
+      "id": "ep270-event-003",
+      "episodeNumber": 270,
+      "timestamp": "07:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Luffy Predicts Soru Movement",
+      "description": "When Blueno uses Soru (Shave) to dodge Luffy's Gomu Gomu no Gatling at high speed, Luffy demonstrates he has learned to predict the movement pattern of Soru. He successfully hits Blueno mid-movement, knocking him into a pillar.",
+      "significance": "Shows Luffy's tactical growth and adaptation to the CP9's Rokushiki techniques. His ability to counter Soru demonstrates his improved battle sense and observation skills.",
+      "characterIds": ["luffy", "blueno"],
+      "locationIds": ["enies-lobby"],
+      "quotes": [
+        {
+          "text": "I already know that trick!",
+          "speaker": "Luffy",
+          "context": "Luffy demonstrates he can predict Blueno's Soru movements"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [269],
+      "payoffInEpisodes": [271],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep270-event-004",
+      "episodeNumber": 270,
+      "timestamp": "09:20",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Sodom Takes Heavy Damage from Cannons",
+      "description": "The King Bull Sodom is hit by multiple cannon blasts from the Marines at Enies Lobby. Despite the severe damage, Sodom urges his passengers to escape before he collapses. The Straw Hats and their allies manage to board Gomorrah before Sodom falls.",
+      "significance": "Demonstrates the loyalty and bravery of the King Bulls who are helping the Straw Hats. Sodom's sacrifice creates urgency and shows the dangerous opposition they face at Enies Lobby.",
+      "characterIds": ["paulie", "tilestone", "peepley-lulu", "zambai"],
+      "locationIds": ["enies-lobby"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [269],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [268, 269]
+    },
+    {
+      "id": "ep270-event-005",
+      "episodeNumber": 270,
+      "timestamp": "11:00",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Sogeking Questions Oimo About His Service",
+      "description": "Sogeking engages in conversation with the giant Oimo, asking why he and Kashii chose to become Marines and guard Enies Lobby. Oimo begins to explain the story of how they came to serve at the World Government's judicial island.",
+      "significance": "Sets up the revelation about the World Government's deception. This conversation leads to Oimo and Kashii learning the truth about their captains, which will turn them into allies.",
+      "characterIds": ["usopp", "oimo", "kashii"],
+      "locationIds": ["enies-lobby"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [271],
+      "callbacksToEpisodes": [13, 14, 15]
+    },
+    {
+      "id": "ep270-event-006",
+      "episodeNumber": 270,
+      "timestamp": "12:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Flashback: The Giant Warrior Pirates Disband",
+      "description": "A flashback shows the story of Oimo and Kashii as members of the Giant Warrior Pirates. After their captains Dorry and Brogy became embroiled in their century-long duel on Little Garden, the crew disbanded. Fifty years later, Oimo and Kashii went to sea searching for their captains.",
+      "significance": "Provides crucial backstory connecting the Little Garden arc to the current Enies Lobby arc. Establishes the timeline and context for why the giants are at Enies Lobby.",
+      "characterIds": ["oimo", "kashii", "dorry", "brogy"],
+      "locationIds": ["little-garden", "elbaf"],
+      "crewIds": ["giant-warrior-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [70, 71, 72, 73, 74, 75, 76, 77],
+      "payoffInEpisodes": [271],
+      "callbacksToEpisodes": [70, 71, 72, 73, 74, 75, 76, 77]
+    },
+    {
+      "id": "ep270-event-007",
+      "episodeNumber": 270,
+      "timestamp": "14:45",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "The World Government's Deception Revealed",
+      "description": "The flashback reveals that the World Government captured Oimo and Kashii during their search and lied to them, claiming they had captured Dorry and Brogy. The government offered a deal: if the two giants served as gatekeepers at Enies Lobby for 100 years, they would release their captains.",
+      "significance": "Exposes the World Government's willingness to use deception and manipulation to achieve their goals. This is a significant example of the corruption within the World Government and adds to the moral justification for opposing them.",
+      "characterIds": ["oimo", "kashii", "dorry", "brogy"],
+      "locationIds": ["enies-lobby"],
+      "quotes": [
+        {
+          "text": "If you work as our guards for 100 years, we'll set your captains free.",
+          "speaker": "World Government Official",
+          "context": "The false promise made to Oimo and Kashii"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [271],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep270-event-008",
+      "episodeNumber": 270,
+      "timestamp": "17:15",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Fifty Years of Service at Enies Lobby",
+      "description": "The flashback shows that Oimo and Kashii have been serving as gatekeepers at Enies Lobby for over fifty years, believing they are halfway through their sentence and that their captains will soon be freed. They remain unaware that Dorry and Brogy are still fighting on Little Garden.",
+      "significance": "Highlights the tragic nature of the deception - the giants have wasted half a century of their lives serving the World Government based on a lie. Creates sympathy for Oimo and Kashii.",
+      "characterIds": ["oimo", "kashii"],
+      "locationIds": ["enies-lobby"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [271],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep270-event-009",
+      "episodeNumber": 270,
+      "timestamp": "19:30",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Sogeking Reveals the Truth About Dorry and Brogy",
+      "description": "Sogeking tells Oimo the truth: Dorry and Brogy are not imprisoned by the World Government but are still on Little Garden, continuing their century-long duel. He reveals that he personally met both giants during the Straw Hats' journey, proving they were never captured.",
+      "significance": "This is the moment that shatters the World Government's deception and turns Oimo and Kashii from enemies into potential allies. It's a pivotal turning point that demonstrates the power of truth over manipulation.",
+      "characterIds": ["usopp", "oimo", "kashii", "dorry", "brogy"],
+      "locationIds": ["enies-lobby", "little-garden"],
+      "quotes": [
+        {
+          "text": "Dorry and Brogy are still on Little Garden, fighting their duel. They were never captured!",
+          "speaker": "Sogeking",
+          "context": "Sogeking reveals the truth to Oimo"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [70, 71, 72, 73, 74, 75, 76, 77],
+      "payoffInEpisodes": [271],
+      "callbacksToEpisodes": [70, 71, 72, 73, 74, 75, 76, 77]
+    },
+    {
+      "id": "ep270-event-010",
+      "episodeNumber": 270,
+      "timestamp": "21:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "The Straw Hat Alliance Advances",
+      "description": "After Sodom collapses, the combined forces of the Straw Hats, Franky Family, and Galley-La foremen continue their advance through Enies Lobby on Gomorrah's back. The Marines are unable to stop their momentum as they push toward the Courthouse.",
+      "significance": "Shows the unified effort of all the groups working together to rescue Robin. Demonstrates the scope of the assault on Enies Lobby and the determination of everyone involved.",
+      "characterIds": ["paulie", "tilestone", "peepley-lulu", "zambai", "kiwi", "mozu"],
+      "locationIds": ["enies-lobby"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [268, 269],
+      "payoffInEpisodes": [271, 272],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [271, 272],
+    "payoffFrom": [269, 238, 70, 71, 72, 73, 74, 75, 76, 77],
+    "thematicLinks": [70, 71, 72, 73, 74, 75, 76, 77]
+  },
+  "quotes": [
+    {
+      "text": "Give Robin back!",
+      "speaker": "Luffy",
+      "context": "Luffy's demand to Blueno",
+      "timestamp": "03:15"
+    },
+    {
+      "text": "You've changed since we last met!",
+      "speaker": "Blueno",
+      "context": "Realizing Luffy's increased strength",
+      "timestamp": "05:30"
+    },
+    {
+      "text": "I already know that trick!",
+      "speaker": "Luffy",
+      "context": "Countering Blueno's Soru",
+      "timestamp": "07:45"
+    },
+    {
+      "text": "Dorry and Brogy are still on Little Garden, fighting their duel. They were never captured!",
+      "speaker": "Sogeking",
+      "context": "Revealing the truth to Oimo",
+      "timestamp": "19:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Truth vs. Deception",
+      "description": "The episode contrasts the World Government's lies to Oimo and Kashii with Sogeking's revelation of the truth. The giants have wasted 50 years based on a deception, highlighting the manipulative nature of the World Government.",
+      "symbolism": "The giants serving as gatekeepers symbolize how lies can imprison people just as effectively as physical chains.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Loyalty and Sacrifice",
+      "description": "Both the King Bulls (especially Sodom) and the giants Oimo and Kashii demonstrate extreme loyalty - Sodom to the Franky Family and the Straw Hats, Oimo and Kashii to their captains. Their willingness to sacrifice shows the power of bonds.",
+      "symbolism": "Sodom's collapse after urging his passengers to safety represents selfless sacrifice for the sake of allies.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Growth and Determination",
+      "description": "Luffy's ability to break through Blueno's Tekkai and counter his Soru demonstrates how far he has come. His unwavering determination to save Robin drives him to overcome opponents who were previously untouchable.",
+      "symbolism": "Breaking through Tekkai symbolizes Luffy breaking through the seemingly impenetrable walls of the World Government.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Defying Authority",
+      "description": "Luffy's declaration that he doesn't care about the World Government and his assault on Enies Lobby represent a fundamental challenge to the world's ruling power. The episode emphasizes choosing personal bonds over institutional authority.",
+      "symbolism": "The assault on Enies Lobby's gates represents challenging the gates of justice itself.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Intense", "Revelatory", "Action-packed", "Emotional"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Main protagonist in battle",
+      "development": "Luffy demonstrates significant growth in combat ability, showing he can now break through CP9's Rokushiki techniques. His determination to save Robin overrides any concern for consequences with the World Government.",
+      "keyActions": [
+        "Confronts Blueno demanding Robin's return",
+        "Breaks through Blueno's Tekkai with Gomu Gomu no Rifle",
+        "Counters Blueno's Soru movement",
+        "Declares he doesn't care about the World Government"
+      ],
+      "quotes": [
+        "Give Robin back!",
+        "I already know that trick!"
+      ]
+    },
+    {
+      "characterId": "blueno",
+      "role": "CP9 antagonist",
+      "development": "Blueno serves as the measuring stick for Luffy's growth. His shock at Luffy breaking through his Tekkai shows how much stronger Luffy has become since their last encounter.",
+      "keyActions": [
+        "Attempts to use Tekkai to block Luffy's attack",
+        "Uses Soru to evade attacks",
+        "Realizes Luffy has grown much stronger"
+      ],
+      "quotes": [
+        "You've changed since we last met!"
+      ]
+    },
+    {
+      "characterId": "usopp",
+      "role": "Truth revealer as Sogeking",
+      "development": "As Sogeking, Usopp plays a crucial role in revealing the World Government's deception to Oimo and Kashii. His knowledge from the Little Garden adventure becomes key to turning potential enemies into allies.",
+      "keyActions": [
+        "Questions Oimo about his service at Enies Lobby",
+        "Reveals the truth about Dorry and Brogy still being on Little Garden",
+        "Uses his experience to expose the World Government's lies"
+      ],
+      "quotes": [
+        "Dorry and Brogy are still on Little Garden, fighting their duel. They were never captured!"
+      ]
+    },
+    {
+      "characterId": "oimo",
+      "role": "Deceived giant guard",
+      "development": "Oimo's backstory is revealed, showing he has been serving the World Government for 50 years based on a lie. Learning the truth about his captains sets up his transformation from antagonist to ally.",
+      "keyActions": [
+        "Explains his story to Sogeking",
+        "Learns the truth about Dorry and Brogy"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends the flashback sequence about Oimo and Kashii's backstory with additional visual details and extended scenes showing their life as gatekeepers.",
+      "episodeTimestamp": "12:30",
+      "mangaReference": "Chapter 383",
+      "type": "EXPANDED_SCENE"
+    },
+    {
+      "difference": "The battle between Luffy and Blueno includes additional exchanges and extended combat sequences that are abbreviated in the manga.",
+      "episodeTimestamp": "05:30",
+      "mangaReference": "Chapter 383",
+      "type": "EXPANDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the beginning of Luffy's fight with Blueno, which will lead to the debut of Gear Second in the next episodes, one of the most iconic power-ups in One Piece.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_270",
+          "title": "Episode 270 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Oimo and Kashii's 50 years of service at Enies Lobby means they have been gatekeepers since approximately 1472 in the Sea Circle Calendar (the One Piece timeline).",
+      "category": "TIMELINE",
+      "sources": []
+    },
+    {
+      "fact": "The episode creates a direct callback to the Little Garden arc (Episodes 70-77), which aired approximately 200 episodes earlier, showing One Piece's long-term narrative planning.",
+      "category": "CONTINUITY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_270",
+          "title": "Episode 270 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Brand New World and Adventure World were both used for only 15 episodes each (264-278), making them among the shortest-running opening and ending themes in One Piece history.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Brand_New_World",
+          "title": "Brand New World - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode received an IMDb rating of 8.6/10, reflecting the excitement around Luffy's growth and the emotional revelation about Oimo and Kashii's deception.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://www.imdb.com/title/tt1043766/",
+          "title": "One Piece - Robin o Kaese! Luffy VS Blueno! - IMDb",
+          "platform": "IMDb",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
