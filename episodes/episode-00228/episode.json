@@ -1,0 +1,565 @@
+{
+  "episodeNumber": 228,
+  "episodeTitle": "Duel Between Rubber and Ice! Luffy vs. Aokiji!",
+  "episodeTitleJapanese": "ゴムと氷の一騎打ち！ルフィVS青キジ",
+  "episodeTitleRomanized": "Gomu to Koori no Ikkiuchi! Luffy vs Aokiji",
+  "description": "Luffy challenges Admiral Aokiji to a one-on-one duel to allow his crew time to save the frozen Robin. Despite his determination and use of Gomu Gomu no Storm, Luffy is defeated and frozen by Aokiji's Ice Time. The Admiral spares their lives, citing his debt for Luffy's defeat of Crocodile. After days of recovery, the crew encounters Yokozuna the frog and the Puffing Tom sea train, leading them to Shift Station where they meet Kokoro and learn about Water 7.",
+  "airDate": "2005-03-27",
+  "airDateJapan": "2005-03-27",
+  "airDateUS": "2012-09-29",
+  "arcName": "Long Ring Long Land",
+  "sagaName": "Water 7 Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Kokoro no Chizu",
+    "artist": "BOYSTYLE",
+    "episodeRange": [207, 263]
+  },
+  "endingSong": {
+    "title": "Mirai Kōkai",
+    "artist": "Tackey & Tsubasa",
+    "episodeRange": [221, 245]
+  },
+  "credits": {
+    "director": "Yoko Ikeda",
+    "screenplay": "Hirohiko Kamisaka",
+    "storyboard": "Eisaku Inoue",
+    "artDirector": "Miyuki Sato, Kumiko Fukuzawa",
+    "animationDirector": "Naoki Tate",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Kuzan (Aokiji)",
+        "actor": "Takehito Koyasu"
+      },
+      {
+        "character": "Kokoro",
+        "actor": "Masami Suzuki"
+      },
+      {
+        "character": "Chimney",
+        "actor": "Seira Ryu"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Kuzan (Aokiji)",
+        "actor": "Jason Douglas"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep228-event-001",
+      "episodeNumber": 228,
+      "timestamp": "03:45",
+      "eventType": "BATTLE_START",
+      "severity": "CRITICAL",
+      "title": "Luffy Challenges Aokiji to One-on-One Duel",
+      "description": "After Robin is frozen by Aokiji, Luffy orders his crew to escape with her while he stays behind to face the Admiral alone. Luffy challenges Aokiji to a one-on-one battle, preventing the Admiral from pursuing the rest of the crew.",
+      "significance": "This marks Luffy's first serious confrontation with a Marine Admiral, showcasing both his bravery and the vast power gap between him and the highest-ranking Marine officers. It demonstrates Luffy's willingness to sacrifice himself for his crew.",
+      "characterIds": ["luffy", "aokiji"],
+      "locationIds": ["long-ring-long-land"],
+      "quotes": [
+        {
+          "text": "I'll fight you! Just leave my crew alone!",
+          "speaker": "Luffy",
+          "context": "Challenging Aokiji to protect his crew"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [227],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [227]
+    },
+    {
+      "id": "ep228-event-002",
+      "episodeNumber": 228,
+      "timestamp": "05:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Crew Attempts to Thaw Frozen Robin",
+      "description": "Usopp and Chopper rush the frozen Robin back to the Going Merry and attempt to thaw her using the shower. Chopper is uncertain if he can resuscitate her once thawed, creating a tense life-or-death situation.",
+      "significance": "Demonstrates the crew's desperation and the serious danger Aokiji poses. It shows Chopper's medical skills and the crew's determination to save Robin at all costs.",
+      "characterIds": ["robin", "chopper", "usopp"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "We have to thaw her slowly! If we do it too fast, she might shatter!",
+          "speaker": "Chopper",
+          "context": "Explaining the delicate process of saving Robin"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [227],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [227]
+    },
+    {
+      "id": "ep228-event-003",
+      "episodeNumber": 228,
+      "timestamp": "08:15",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Luffy Uses Gomu Gomu no Storm Against Aokiji",
+      "description": "Luffy kicks Aokiji into the air and unleashes his Gomu Gomu no Storm attack, a barrage of rapid-fire punches. However, Aokiji uses his Logia abilities to break apart and reform around Luffy.",
+      "significance": "Shows one of Luffy's most powerful pre-timeskip techniques being completely ineffective against a Logia user, highlighting the power disparity and the need for Luffy to develop new abilities.",
+      "characterIds": ["luffy", "aokiji"],
+      "locationIds": ["long-ring-long-land"],
+      "devilFruitIds": ["gomu-gomu-no-mi", "hie-hie-no-mi"],
+      "quotes": [
+        {
+          "text": "Gomu Gomu no... Storm!",
+          "speaker": "Luffy",
+          "context": "Unleashing his full power against Aokiji"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep228-event-004",
+      "episodeNumber": 228,
+      "timestamp": "10:45",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Aokiji Freezes Luffy with Ice Time",
+      "description": "Aokiji reforms around Luffy and uses his Ice Time technique, instantly freezing Luffy solid on contact. The frozen Luffy is placed on the ground, completely defeated and helpless.",
+      "significance": "Demonstrates the overwhelming power of a Marine Admiral and the effectiveness of Aokiji's Hie Hie no Mi abilities. This is one of Luffy's most devastating defeats in the series up to this point, showing he still has a long way to go.",
+      "characterIds": ["luffy", "aokiji"],
+      "locationIds": ["long-ring-long-land"],
+      "devilFruitIds": ["hie-hie-no-mi"],
+      "quotes": [
+        {
+          "text": "Ice Time.",
+          "speaker": "Aokiji",
+          "context": "Freezing Luffy with a single touch"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [227],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [227]
+    },
+    {
+      "id": "ep228-event-005",
+      "episodeNumber": 228,
+      "timestamp": "12:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Aokiji Spares the Straw Hats",
+      "description": "Rather than finishing off the defeated Straw Hats, Aokiji decides to spare their lives. He explains that he owes Luffy a favor for defeating Crocodile, one of the Seven Warlords, which helped the Marines. He then departs, leaving the crew to recover.",
+      "significance": "A pivotal moment showing that not all Marines are purely antagonistic. Aokiji's sense of justice allows him to recognize the Straw Hats' actions against Crocodile as beneficial, demonstrating the complexity of morality in One Piece. This mercy allows the crew to continue their journey.",
+      "characterIds": ["aokiji", "luffy"],
+      "locationIds": ["long-ring-long-land"],
+      "quotes": [
+        {
+          "text": "I owe you one for taking down Crocodile. Consider this even.",
+          "speaker": "Aokiji",
+          "context": "Explaining why he's sparing the Straw Hats"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [227],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [127, 130]
+    },
+    {
+      "id": "ep228-event-006",
+      "episodeNumber": 228,
+      "timestamp": "14:00",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Zoro and Sanji Retrieve Frozen Luffy",
+      "description": "After Aokiji departs, Zoro and Sanji carefully retrieve Luffy's frozen body and bring him back to the ship. The crew begins the delicate process of thawing both Luffy and Robin.",
+      "significance": "Shows the crew working together in a crisis and their loyalty to each other. The careful handling demonstrates the danger of the frozen state.",
+      "characterIds": ["zoro", "sanji", "luffy"],
+      "locationIds": ["long-ring-long-land", "going-merry"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [227],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep228-event-007",
+      "episodeNumber": 228,
+      "timestamp": "15:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Robin and Luffy's Hearts Resume Beating",
+      "description": "After careful thawing, Chopper tearfully reports that both Robin and Luffy's hearts have resumed beating. The crew is relieved, though both need time to fully recover from their frozen state.",
+      "significance": "A emotional moment of relief for the crew after facing one of their most dangerous encounters. It shows Chopper's medical skills and the crew's determination to save their nakama.",
+      "characterIds": ["robin", "luffy", "chopper"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "Their hearts... they're beating again!",
+          "speaker": "Chopper",
+          "context": "Announcing that Robin and Luffy will survive"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [227],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep228-event-008",
+      "episodeNumber": 228,
+      "timestamp": "16:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Four Days of Recovery",
+      "description": "The crew remains at Long Ring Long Land for four days while Luffy and Robin recover from being frozen. During this time, the crew tends to their injured members and prepares to continue their journey.",
+      "significance": "Shows the real consequences and recovery time needed after a devastating defeat. It emphasizes that even with their Devil Fruit powers, injuries take time to heal.",
+      "characterIds": ["luffy", "robin", "zoro", "nami", "usopp", "sanji", "chopper"],
+      "locationIds": ["long-ring-long-land"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep228-event-009",
+      "episodeNumber": 228,
+      "timestamp": "17:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Encounter with Yokozuna the Frog",
+      "description": "The Straw Hats encounter a massive frog swimming in the ocean using a crawl stroke. Luffy wants to catch it for food, but they are interrupted by an approaching sea train. The frog attempts to block the train's path in a show of strength.",
+      "significance": "Introduces Yokozuna, who becomes a recurring character in the Water 7 arc. This strange encounter foreshadows the unique characters and technology the crew will find at Water 7.",
+      "characterIds": ["luffy", "yokozuna"],
+      "locationIds": ["open-sea"],
+      "quotes": [
+        {
+          "text": "That frog is huge! Let's catch it!",
+          "speaker": "Luffy",
+          "context": "Seeing Yokozuna for the first time"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [229, 230],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep228-event-010",
+      "episodeNumber": 228,
+      "timestamp": "19:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "First Appearance of the Puffing Tom Sea Train",
+      "description": "The Straw Hats nearly collide with the Puffing Tom, a train traveling across the water on tracks. This is their first encounter with a sea train, a revolutionary technology unique to the One Piece world.",
+      "significance": "Introduces the sea train technology that becomes crucial to the Water 7 and Enies Lobby arcs. The Puffing Tom represents the engineering genius of Tom and sets up the crew's journey to Water 7.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin"],
+      "locationIds": ["open-sea"],
+      "quotes": [
+        {
+          "text": "A train... on the water?!",
+          "speaker": "Usopp",
+          "context": "Seeing the Puffing Tom for the first time"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [229, 235, 236],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep228-event-011",
+      "episodeNumber": 228,
+      "timestamp": "20:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Arrival at Shift Station",
+      "description": "The Straw Hats arrive at Shift Station, a small lighthouse and sea train stop in the middle of the ocean. There they meet Kokoro, an elderly woman who is the stationmaster, her granddaughter Chimney, and Gonbe (a rabbit who thinks he's a cat).",
+      "significance": "Introduces Kokoro, who becomes an important ally and guide for the Straw Hats during the Water 7 and Enies Lobby arcs. Shift Station serves as the gateway to Water 7.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "kokoro", "chimney", "gonbe"],
+      "locationIds": ["shift-station"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [229, 230],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep228-event-012",
+      "episodeNumber": 228,
+      "timestamp": "21:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Kokoro Explains the Puffing Tom and Water 7",
+      "description": "Kokoro explains that the Puffing Tom is a sea train that runs on water tracks, a technology found nowhere else in the world. She tells them about Water 7, describing it as a city with the world's best shipwrights and ship construction. She also explains that Yokozuna habitually tests his strength against the train.",
+      "significance": "Provides crucial information that directs the Straw Hats to Water 7, where they will search for a shipwright and deal with the Going Merry's condition. This exposition sets up the entire Water 7 Saga.",
+      "characterIds": ["kokoro", "luffy", "nami"],
+      "locationIds": ["shift-station"],
+      "quotes": [
+        {
+          "text": "Water 7... It's a city with the world's best ship construction sights.",
+          "speaker": "Kokoro",
+          "context": "Directing the Straw Hats to their next destination"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [229, 230, 231],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep228-event-013",
+      "episodeNumber": 228,
+      "timestamp": "22:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Straw Hats Decide to Recruit a Shipwright at Water 7",
+      "description": "After learning about Water 7's reputation for shipbuilding, Luffy makes the decision that they will go to Water 7 to recruit a shipwright for their crew. This decision is driven by their need for someone to maintain and repair the Going Merry.",
+      "significance": "A major turning point that sets up the entire Water 7 and Enies Lobby arcs. This decision leads to meeting Franky, dealing with the Going Merry's fate, and eventually recruiting the crew's shipwright.",
+      "characterIds": ["luffy", "nami", "zoro", "sanji"],
+      "locationIds": ["shift-station"],
+      "quotes": [
+        {
+          "text": "Alright! We're going to Water 7 to find a shipwright!",
+          "speaker": "Luffy",
+          "context": "Making the decision to head to Water 7"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [229, 230, 231],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["kokoro", "chimney", "gonbe", "yokozuna"],
+    "locations": ["shift-station"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["ice-time"]
+  },
+  "episodeRelationships": {
+    "setupFor": [229, 230, 231],
+    "payoffFrom": [227],
+    "thematicLinks": [227, 229]
+  },
+  "quotes": [
+    {
+      "text": "I'll fight you! Just leave my crew alone!",
+      "speaker": "Luffy",
+      "context": "Challenging Aokiji to protect his crew",
+      "timestamp": "03:45"
+    },
+    {
+      "text": "Ice Time.",
+      "speaker": "Aokiji",
+      "context": "Freezing Luffy with his ultimate technique",
+      "timestamp": "10:45"
+    },
+    {
+      "text": "I owe you one for taking down Crocodile. Consider this even.",
+      "speaker": "Aokiji",
+      "context": "Explaining why he's sparing the Straw Hats",
+      "timestamp": "12:30"
+    },
+    {
+      "text": "Their hearts... they're beating again!",
+      "speaker": "Chopper",
+      "context": "Announcing that Robin and Luffy will survive",
+      "timestamp": "15:45"
+    },
+    {
+      "text": "Water 7... It's a city with the world's best ship construction sights.",
+      "speaker": "Kokoro",
+      "context": "Directing the Straw Hats to their next destination",
+      "timestamp": "21:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Power Gap and Growth",
+      "description": "The episode starkly illustrates the vast power difference between Luffy and a Marine Admiral, showing that despite his victories over pirates like Crocodile, Luffy still has much to learn and grow.",
+      "symbolism": "Luffy's frozen body symbolizes his current limitations and the ceiling he needs to break through to achieve his dreams.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Mercy and Justice",
+      "description": "Aokiji's decision to spare the Straw Hats demonstrates that Marines can have nuanced views of justice, recognizing the good that pirates like Luffy can do despite being outside the law.",
+      "symbolism": "Aokiji's 'lazy justice' contrasts with the absolute justice pursued by other Marines.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Crew Loyalty and Sacrifice",
+      "description": "Luffy's willingness to fight Aokiji alone to protect his crew, and the crew's desperate efforts to save Robin and Luffy, showcase the depth of their bonds as nakama.",
+      "symbolism": "The frozen state represents how vulnerable the crew is when separated, emphasizing their strength comes from unity.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Intense", "Desperate", "Somber", "Hopeful"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist facing overwhelming odds",
+      "development": "Luffy experiences one of his most devastating defeats, learning firsthand the power of a Marine Admiral. His willingness to sacrifice himself for his crew demonstrates his growth as a captain.",
+      "keyActions": [
+        "Challenges Aokiji to one-on-one combat",
+        "Uses Gomu Gomu no Storm",
+        "Gets frozen by Ice Time",
+        "Survives and recovers over four days",
+        "Decides to recruit a shipwright at Water 7"
+      ],
+      "quotes": ["I'll fight you! Just leave my crew alone!"]
+    },
+    {
+      "characterId": "aokiji",
+      "role": "Overwhelming antagonist demonstrating power",
+      "development": "Aokiji shows his combat prowess and his unique sense of justice, choosing mercy over strict adherence to his duty to capture pirates.",
+      "keyActions": [
+        "Accepts Luffy's challenge",
+        "Easily defeats Luffy with Ice Time",
+        "Spares the Straw Hats due to the Crocodile incident",
+        "Departs peacefully"
+      ],
+      "quotes": ["Ice Time.", "I owe you one for taking down Crocodile. Consider this even."]
+    },
+    {
+      "characterId": "chopper",
+      "role": "Doctor racing against time",
+      "development": "Chopper's medical skills are put to the ultimate test as he works to save Robin and Luffy from their frozen state, showing his value to the crew.",
+      "keyActions": [
+        "Directs the thawing of Robin",
+        "Expresses uncertainty about resuscitation",
+        "Successfully saves both Robin and Luffy",
+        "Announces their survival to the crew"
+      ],
+      "quotes": ["We have to thaw her slowly! If we do it too fast, she might shatter!", "Their hearts... they're beating again!"]
+    },
+    {
+      "characterId": "kokoro",
+      "role": "Guide and exposition provider",
+      "development": "Kokoro is introduced as a knowledgeable stationmaster who directs the Straw Hats toward Water 7, setting up the next major arc.",
+      "keyActions": [
+        "Meets the Straw Hats at Shift Station",
+        "Explains the Puffing Tom and sea train technology",
+        "Tells them about Water 7 and its shipwrights",
+        "Explains Yokozuna's behavior"
+      ],
+      "quotes": ["Water 7... It's a city with the world's best ship construction sights."]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended the battle between Luffy and Aokiji with additional animation and reactions from the crew watching the aftermath.",
+      "episodeTimestamp": "08:00-13:00",
+      "mangaReference": "Chapter 321",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "The recovery period and the crew's journey to Shift Station are expanded in the anime with more character interactions.",
+      "episodeTimestamp": "16:00-20:00",
+      "mangaReference": "Chapter 321-322",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the first time Luffy is completely defeated and frozen by an opponent, making it one of his most devastating losses pre-timeskip.",
+      "category": "PLOT",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_228",
+          "title": "Episode 228 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Aokiji's Ice Time technique introduced in this episode becomes one of the most iconic Admiral abilities, capable of freezing opponents in suspended animation.",
+      "category": "ABILITIES",
+      "sources": []
+    },
+    {
+      "fact": "Yokozuna's debut in this episode establishes a running gag of the frog challenging the Puffing Tom to tests of strength, which continues throughout the Water 7 arc.",
+      "category": "CHARACTER",
+      "sources": []
+    },
+    {
+      "fact": "The episode's TV rating was 10.4%, ranking 4th in its timeslot, showing strong viewership for this pivotal episode.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_228",
+          "title": "Episode 228 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode adapts manga chapters 320-322, covering both the conclusion of the Aokiji confrontation and the introduction to Water 7.",
+      "category": "ADAPTATION",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
