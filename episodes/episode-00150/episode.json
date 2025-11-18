@@ -1,0 +1,520 @@
+{
+  "episodeNumber": 150,
+  "episodeTitle": "Dreams Don't Come True!? Bellamy vs. The Saruyama Alliance",
+  "description": "While hunting for a South Bird in Jaya's forest, the Straw Hats successfully capture one. Meanwhile, Bellamy and his crew attack Cricket's house, defeating the Saruyama Alliance and stealing the gold artifacts Cricket collected over years of salvaging. When the Straw Hats return to find their allies beaten, Luffy resolves to confront Bellamy in Mock Town.",
+  "airDate": "2003-04-13",
+  "airDateJapan": "2003-04-13",
+  "airDateUS": "2007-11-10",
+  "arcName": "Jaya Arc",
+  "sagaName": "Sky Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Hikari e",
+    "artist": "The Babystars",
+    "episodeRange": [116, 168]
+  },
+  "endingSong": {
+    "title": "Free Will",
+    "artist": "Ruppina",
+    "episodeRange": [139, 156]
+  },
+  "credits": {
+    "animationDirector": "Konosuke Uda",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Bellamy",
+        "actor": "Wataru Takagi"
+      },
+      {
+        "character": "Mont Blanc Cricket",
+        "actor": "Akio Otsuka"
+      },
+      {
+        "character": "Masira",
+        "actor": "Keiji Hirai"
+      },
+      {
+        "character": "Shoujou",
+        "actor": "Masaya Takatsuka"
+      },
+      {
+        "character": "Sarquiss",
+        "actor": "Masaya Takatsuka"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Bellamy",
+        "actor": "Justin Cook"
+      },
+      {
+        "character": "Mont Blanc Cricket",
+        "actor": "Duncan Brannan"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep150-event-001",
+      "episodeNumber": 150,
+      "timestamp": "03:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Straw Hats Hunt for South Bird",
+      "description": "The Straw Hat crew ventures deep into Jaya's jungle to capture a South Bird, essential for navigating to Sky Island. They encounter various dangerous jungle creatures that seem to be commanded by the elusive bird.",
+      "significance": "This quest is crucial for the crew's journey to Sky Island, as the South Bird is the only reliable way to locate the Knock Up Stream.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin"],
+      "locationIds": ["jaya-forest"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [146, 147, 148],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep150-event-002",
+      "episodeNumber": 150,
+      "timestamp": "05:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "title": "Robin Captures South Bird with Hana Hana no Mi",
+      "description": "After the crew's failed attempts to catch the South Bird, Nico Robin effortlessly captures it using her Hana Hana no Mi powers, sprouting arms to restrain the bird just as Usopp was about to shoot it down.",
+      "significance": "Demonstrates Robin's growing integration with the crew and her Devil Fruit's versatility in non-combat situations.",
+      "characterIds": ["robin", "usopp", "chopper"],
+      "devilFruitIds": ["hana-hana-no-mi"],
+      "quotes": [
+        {
+          "text": "They would never catch him.",
+          "speaker": "South Bird (via Chopper's translation)",
+          "context": "The South Bird's cocky declaration before Robin captures it"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [152],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep150-event-003",
+      "episodeNumber": 150,
+      "timestamp": "08:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Bellamy Pirates Attack Cricket's House",
+      "description": "Bellamy and his crew arrive at Mont Blanc Cricket's residence with the intention of stealing the gold artifacts Cricket has salvaged from the ocean over ten years. The Bellamy Pirates launch a surprise attack on the Saruyama Alliance.",
+      "significance": "This attack represents the clash between those who mock dreams and those who pursue them, establishing Bellamy as a direct antagonist to the Straw Hats' allies and values.",
+      "characterIds": ["bellamy", "sarquiss", "cricket", "masira", "shoujou"],
+      "locationIds": ["cricket-house"],
+      "crewIds": ["bellamy-pirates", "saruyama-alliance"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [146, 147],
+      "payoffInEpisodes": [151],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep150-event-004",
+      "episodeNumber": 150,
+      "timestamp": "11:20",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Bellamy Defeats Saruyama Alliance with Spring Powers",
+      "description": "Bellamy easily defeats Cricket, Masira, and Shoujou using his Bane Bane no Mi (Spring-Spring Fruit) powers. He turns his legs into springs to launch himself at high velocities, overwhelming the Saruyama Alliance with his Spring Snipe technique.",
+      "significance": "First full demonstration of Bellamy's Devil Fruit abilities in combat, showcasing why he has a 55 million berry bounty and is feared in Mock Town.",
+      "characterIds": ["bellamy", "cricket", "masira", "shoujou"],
+      "devilFruitIds": ["bane-bane-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [151],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep150-event-005",
+      "episodeNumber": 150,
+      "timestamp": "13:45",
+      "eventType": "TREASURE_DISCOVERY",
+      "severity": "MAJOR",
+      "title": "Bellamy Steals Cricket's Gold",
+      "description": "After defeating the Saruyama Alliance, Bellamy and his crew steal the gold artifacts that Cricket had painstakingly collected over ten years of dangerous diving. The gold represents Cricket's proof of his ancestor Noland's truthfulness about the City of Gold.",
+      "significance": "The theft of the gold is not just robbery but an attack on Cricket's dream and his quest to vindicate his ancestor, making it deeply personal.",
+      "characterIds": ["bellamy", "sarquiss", "cricket"],
+      "crewIds": ["bellamy-pirates"],
+      "quotes": [
+        {
+          "text": "In the new era, they need to understand that dreams do not come true.",
+          "speaker": "Bellamy",
+          "context": "Bellamy's cynical worldview as he departs with the stolen gold"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [146, 147, 148],
+      "payoffInEpisodes": [151],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep150-event-006",
+      "episodeNumber": 150,
+      "timestamp": "14:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Cricket's Speech on Dreams",
+      "description": "Even while beaten, Cricket tells Bellamy that 'a chick who does not have the guts to fight against something he's never seen shouldn't be telling me about pirates.' This defiant statement embodies the core theme of pursuing dreams despite mockery.",
+      "significance": "Cricket's words reflect the series' central theme about the importance of dreams and the courage to pursue the impossible, directly contrasting with Bellamy's cynicism.",
+      "characterIds": ["cricket", "bellamy"],
+      "quotes": [
+        {
+          "text": "A chick who does not have the guts to fight against something he's never seen shouldn't be telling me about pirates.",
+          "speaker": "Mont Blanc Cricket",
+          "context": "Cricket's defiant response to Bellamy's mockery of dreams"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [147, 148],
+      "payoffInEpisodes": [151, 152],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep150-event-007",
+      "episodeNumber": 150,
+      "timestamp": "16:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Straw Hats Discover the Attack",
+      "description": "The Straw Hat Pirates return to Cricket's house with the South Bird, only to find Cricket, Masira, and Shoujou severely beaten and the gold stolen. Cricket tries to hide what happened and apologizes, saying the Saruyama Alliance has a duty to get the Straw Hats to Sky Island.",
+      "significance": "This discovery tests the Straw Hats' loyalty to their new allies and sets up the confrontation between Luffy and Bellamy.",
+      "characterIds": ["luffy", "nami", "usopp", "cricket", "masira", "shoujou"],
+      "locationIds": ["cricket-house"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [151],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep150-event-008",
+      "episodeNumber": 150,
+      "timestamp": "17:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Zoro Finds Bellamy's Mark on Going Merry",
+      "description": "While the crew discusses the situation, Zoro discovers Bellamy's jolly roger symbol marked on the Going Merry's hull, revealing the identity of the attackers. This evidence solidifies that Bellamy was behind the attack.",
+      "significance": "The vandalism of the Going Merry makes the attack personal to the Straw Hats, not just an attack on their allies but on their own ship.",
+      "characterIds": ["zoro", "luffy"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [151],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep150-event-009",
+      "episodeNumber": 150,
+      "timestamp": "18:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Luffy Resolves to Retrieve the Gold",
+      "description": "Despite Cricket's protests, Luffy decides to go to Mock Town to confront Bellamy and retrieve the stolen gold. When Zoro asks if he needs help, Luffy declines, saying he'll be fine on his own. Luffy promises to be back by dawn.",
+      "significance": "This marks a crucial character moment for Luffy, showing his unwavering loyalty to friends and his determination to right wrongs, even when his allies tell him not to. It sets up the climactic confrontation of the arc.",
+      "characterIds": ["luffy", "zoro", "cricket"],
+      "quotes": [
+        {
+          "text": "I'll be back by dawn.",
+          "speaker": "Luffy",
+          "context": "Luffy's promise before heading to Mock Town"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [146, 147],
+      "payoffInEpisodes": [151],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep150-event-010",
+      "episodeNumber": 150,
+      "timestamp": "19:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Jobo Debuts with Wanted Posters",
+      "description": "A drunk patron named Jobo stumbles into Mock Town's bar with wanted posters showing Luffy's 100 million berry bounty and Zoro's 60 million berry bounty. The revelation shocks the bar patrons and Bellamy, who had previously dismissed and beaten them.",
+      "significance": "The bounty reveal creates dramatic irony as Bellamy realizes he severely underestimated Luffy and Zoro, setting up the reversal of their previous encounter.",
+      "characterIds": ["jobo", "bellamy", "sarquiss"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [144, 145],
+      "payoffInEpisodes": [151],
+      "callbacksToEpisodes": [144, 145]
+    },
+    {
+      "id": "ep150-event-011",
+      "episodeNumber": 150,
+      "timestamp": "20:45",
+      "eventType": "BOUNTY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Luffy's 100 Million Berry Bounty Revealed",
+      "description": "Wanted posters reveal that Luffy's bounty has increased to 100 million berries, making him one of the highest bounty pirates in Paradise. This is a massive jump from his previous 30 million berry bounty after Alabasta.",
+      "significance": "This bounty increase establishes Luffy as a major threat to the World Government and one of the 'super rookies' of his generation. It also demonstrates the serious consequences of the Alabasta incident.",
+      "characterIds": ["luffy"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [130],
+      "payoffInEpisodes": [151],
+      "callbacksToEpisodes": [45, 96]
+    },
+    {
+      "id": "ep150-event-012",
+      "episodeNumber": 150,
+      "timestamp": "21:00",
+      "eventType": "BOUNTY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Zoro's 60 Million Berry Bounty Revealed",
+      "description": "Alongside Luffy's poster, Roronoa Zoro's first bounty is revealed at 60 million berries, making him the second-highest bounty member of the Straw Hat Pirates and recognizing him as a significant threat.",
+      "significance": "This is Zoro's first official bounty, acknowledging his role as Luffy's right-hand man and his strength as a swordsman. The high bounty for a first-time wanted pirate shows the World Government's assessment of his danger level.",
+      "characterIds": ["zoro"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [151],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep150-event-013",
+      "episodeNumber": 150,
+      "timestamp": "22:10",
+      "eventType": "BATTLE_START",
+      "severity": "CRITICAL",
+      "title": "Luffy Arrives at Mock Town",
+      "description": "Luffy arrives at Mock Town's bar and loudly calls out Bellamy's name, demanding his whereabouts. The bar falls silent as the confrontation between Luffy and Bellamy is about to begin, with everyone now aware of Luffy's true power level.",
+      "significance": "This moment sets up the climactic battle where Luffy will prove that dreams are worth fighting for and demonstrate the true meaning of strength.",
+      "characterIds": ["luffy", "bellamy"],
+      "locationIds": ["mock-town"],
+      "quotes": [
+        {
+          "text": "Bellamy!",
+          "speaker": "Luffy",
+          "context": "Luffy's arrival at the bar, calling out for Bellamy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [144, 145, 146],
+      "payoffInEpisodes": [151],
+      "callbacksToEpisodes": [144, 145]
+    }
+  ],
+  "debuts": {
+    "characters": ["jobo"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["spring-snipe"]
+  },
+  "episodeRelationships": {
+    "setupFor": [151, 152],
+    "payoffFrom": [144, 145, 146, 147, 148],
+    "thematicLinks": [147, 148, 151]
+  },
+  "quotes": [
+    {
+      "text": "In the new era, they need to understand that dreams do not come true.",
+      "speaker": "Bellamy",
+      "context": "Bellamy's cynical philosophy after stealing Cricket's gold",
+      "timestamp": "13:45"
+    },
+    {
+      "text": "A chick who does not have the guts to fight against something he's never seen shouldn't be telling me about pirates.",
+      "speaker": "Mont Blanc Cricket",
+      "context": "Cricket's defiant response to Bellamy despite being beaten",
+      "timestamp": "14:30"
+    },
+    {
+      "text": "I'll be back by dawn.",
+      "speaker": "Luffy",
+      "context": "Luffy's promise before heading to confront Bellamy",
+      "timestamp": "18:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Dreams vs. Cynicism",
+      "description": "The episode explores the fundamental conflict between those who pursue impossible dreams and those who have abandoned them. Bellamy represents the cynical 'new age' that mocks dreamers, while Cricket and Luffy embody the courage to chase dreams despite ridicule.",
+      "symbolism": "The stolen gold represents more than treasure - it symbolizes Cricket's dreams and his quest to vindicate his ancestor. Bellamy stealing it represents the attempt to destroy dreams through force.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Loyalty and Honor",
+      "description": "When Cricket and his allies are attacked, Luffy doesn't hesitate to stand up for them, even though Cricket tries to dissuade him. This demonstrates the Straw Hats' code of honoring their debts and protecting their friends.",
+      "symbolism": "The Going Merry being marked by Bellamy makes the attack personal to the crew, symbolizing that an attack on their friends is an attack on them.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The True Meaning of Strength",
+      "description": "The revelation of Luffy and Zoro's bounties contrasts with Bellamy's earlier dismissal of them, setting up the theme that true strength isn't just about power, but about the courage to pursue your beliefs.",
+      "symbolism": "The wanted posters symbolize recognition of true strength and the consequences of one's actions in pursuing their dreams.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Dramatic", "Inspiring", "Confrontational"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist preparing for confrontation",
+      "development": "Luffy demonstrates his unwavering loyalty to friends and his commitment to defending dreams, refusing to let Bellamy's attack on Cricket go unanswered.",
+      "keyActions": [
+        "Successfully captures South Bird with crew",
+        "Discovers Cricket and allies beaten",
+        "Decides to confront Bellamy alone",
+        "Arrives at Mock Town to face Bellamy"
+      ],
+      "quotes": ["I'll be back by dawn."]
+    },
+    {
+      "characterId": "bellamy",
+      "role": "Antagonist",
+      "development": "Bellamy's cynical worldview is fully displayed as he attacks Cricket and mocks the concept of dreams, setting himself up as the antithesis of everything the Straw Hats stand for.",
+      "keyActions": [
+        "Attacks Cricket's house with his crew",
+        "Defeats Saruyama Alliance using Spring powers",
+        "Steals Cricket's gold",
+        "Mocks the concept of dreams"
+      ],
+      "quotes": ["In the new era, they need to understand that dreams do not come true."]
+    },
+    {
+      "characterId": "cricket",
+      "role": "Victim who embodies the spirit of dreams",
+      "development": "Despite being beaten and robbed, Cricket maintains his defiance and his commitment to helping the Straw Hats reach Sky Island, embodying the resilience of dreamers.",
+      "keyActions": [
+        "Fights against Bellamy Pirates",
+        "Refuses to let Bellamy mock his dreams",
+        "Tries to dissuade Luffy from confronting Bellamy",
+        "Maintains commitment to helping Straw Hats"
+      ],
+      "quotes": ["A chick who does not have the guts to fight against something he's never seen shouldn't be telling me about pirates."]
+    },
+    {
+      "characterId": "robin",
+      "role": "Supporting crew member",
+      "development": "Robin continues to demonstrate her seamless integration with the crew, using her abilities to solve problems efficiently.",
+      "keyActions": [
+        "Captures the South Bird with Hana Hana no Mi"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends the South Bird hunt sequence with additional comedic moments and more elaborate creature encounters compared to the manga.",
+      "episodeTimestamp": "03:15",
+      "mangaReference": "Chapter 231",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episode 150 marks a significant milestone as the anime reaches its 150th episode, occurring during the Sky Island Saga which many fans consider pivotal to the series' themes.",
+      "category": "MILESTONE",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_150",
+          "title": "Episode 150 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode adapts portions of Chapters 231 and 232, which were released in May and June 2002, about a year before the episode aired.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chapter_231",
+          "title": "Chapter 231 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode achieved a 13.4% TV rating in Japan, ranking 6th for the week, demonstrating the Jaya Arc's popularity with audiences.",
+      "category": "RATINGS",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_150",
+          "title": "Episode 150 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The opening theme 'Hikari e' by The Babystars was the first One Piece opening to feature both Chopper and Nico Robin, reflecting the crew's expanded roster.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Hikari_e",
+          "title": "Hikari e - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
