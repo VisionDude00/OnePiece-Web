@@ -1,0 +1,118 @@
+[
+  {
+    "name": {
+      "english": "God's Army",
+      "japanese": "神の軍団",
+      "romanized": "Kami no Gundan"
+    },
+    "crewType": "MILITARY_FORCE",
+    "captainId": "enel",
+    "debutEpisode": 153,
+    "debutChapter": 237,
+    "episodeAppearances": [161],
+    "members": [
+      {
+        "characterId": "satori",
+        "role": "Priest - Ordeal of Balls",
+        "episodeJoined": 160,
+        "episodeLeft": null,
+        "joinCircumstances": "One of Enel's four priests responsible for the Ordeal of Balls with 10% survival rate"
+      },
+      {
+        "characterId": "shura",
+        "role": "Priest - Ordeal of String",
+        "episodeJoined": 161,
+        "episodeLeft": null,
+        "joinCircumstances": "Introduced as one of Enel's four priests responsible for the Ordeal of String with 3% survival rate"
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 161,
+        "eventId": "ep161-event-002",
+        "momentType": "BATTLE_START",
+        "title": "Satori Battles Straw Hats",
+        "description": "Priest Satori continues to demonstrate the power of God's Army by overwhelming three Straw Hat Pirates simultaneously using Mantra and Impact Dials.",
+        "significance": "Shows the formidable strength of Enel's priests and why they are feared throughout Skypiea.",
+        "timestamp": "05:20"
+      },
+      {
+        "episodeNumber": 161,
+        "eventId": "ep161-event-008",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Shura Arrives",
+        "description": "Priest Shura arrives at the Going Merry on behalf of God's Army to eliminate sacrifices.",
+        "significance": "Introduces another member of God's Army and expands understanding of their reach and power.",
+        "timestamp": "20:15"
+      }
+    ],
+    "ships": [],
+    "bases": ["upper-yard"],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "Unknown",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": [],
+      "enemies": ["straw-hat-pirates", "shandia-warriors"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "luffy",
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [161],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 161,
+        "eventId": "ep161-event-002",
+        "momentType": "BATTLE_START",
+        "title": "Crew Split Across Trials",
+        "description": "The Straw Hats remain separated across Upper Yard, with Luffy, Sanji, and Usopp fighting Satori while Chopper guards the ship alone.",
+        "significance": "Shows the crew's vulnerability when separated and facing overwhelming odds in unfamiliar territory.",
+        "timestamp": "05:20"
+      },
+      {
+        "episodeNumber": 161,
+        "eventId": "ep161-event-009",
+        "momentType": "MAJOR_DECISION",
+        "title": "Chopper Calls for Outside Help",
+        "description": "Unable to handle Priest Shura alone, Chopper calls Gan Fall for assistance, showing the crew's willingness to accept help when necessary.",
+        "significance": "Demonstrates that the Straw Hats recognize when they need allies, foreshadowing their alliance with Gan Fall.",
+        "timestamp": "21:30"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Going Merry",
+        "episodeAcquired": 17,
+        "episodeLost": null,
+        "description": "The crew's ship, currently anchored in the White Sea and defended by Chopper"
+      }
+    ],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull wearing a straw hat with crossed bones behind it",
+      "episodeFirstSeen": 45,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": ["gan-fall"],
+      "enemies": ["god-army"],
+      "parentOrganization": null
+    }
+  }
+]

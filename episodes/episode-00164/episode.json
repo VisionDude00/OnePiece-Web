@@ -1,0 +1,412 @@
+{
+  "episodeNumber": 164,
+  "episodeTitle": "Light the Fire of Shandora! Wyper the Warrior!",
+  "description": "The Straw Hats discover that Upper Yard was once part of Jaya, confirming Noland's story. Meanwhile, the Shandia warriors, led by Wyper, prepare to launch their attack on Upper Yard after Aisa senses two warriors have fallen.",
+  "airDate": "2003-08-17",
+  "airDateJapan": "2003-08-17",
+  "airDateUS": "2008-02-23",
+  "arcName": "Skypiea Arc",
+  "sagaName": "Sky Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Hikari e",
+    "artist": "The Babystars",
+    "episodeRange": [116, 168]
+  },
+  "endingSong": {
+    "title": "FAITH",
+    "artist": "Ruppina",
+    "episodeRange": [155, 168]
+  },
+  "credits": {
+    "animationDirector": "Kenji Yokoyama",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Wyper",
+        "actor": "Masaki Aizawa"
+      },
+      {
+        "character": "Aisa",
+        "actor": "Masami Suzuki"
+      },
+      {
+        "character": "Gan Fall",
+        "actor": "Joji Yanami"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Wyper",
+        "actor": "J Paul Slavens"
+      },
+      {
+        "character": "Aisa",
+        "actor": "Cherami Leigh"
+      },
+      {
+        "character": "Gan Fall",
+        "actor": "R Bruce Elliott"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep164-event-001",
+      "episodeNumber": 164,
+      "timestamp": "03:45",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Chopper Learns Gan Fall Was the Former God",
+      "description": "After being rescued by giant South Birds, Chopper is shocked to learn that Gan Fall was actually the former God of Skypiea, not just a knight.",
+      "significance": "Reveals Gan Fall's true identity and position in Skypiea's history, adding context to the current conflict with Enel.",
+      "characterIds": ["chopper", "gan-fall", "pierre"],
+      "locationIds": ["upper-yard"],
+      "quotes": [
+        {
+          "text": "That old man was God?!",
+          "speaker": "Chopper",
+          "context": "Chopper's shocked reaction upon learning Gan Fall's true identity"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep164-event-002",
+      "episodeNumber": 164,
+      "timestamp": "08:30",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Discovery: Upper Yard Was Once Part of Jaya",
+      "description": "Nami, Zoro, and Robin discover the truth about Upper Yard's origin - it was once part of the island of Jaya that Mont Blanc Noland visited 400 years ago. This revelation confirms Noland's story and proves he wasn't a liar.",
+      "significance": "This is a pivotal moment that connects the Jaya arc to the Skypiea arc, vindicating Noland's legacy and explaining the mystery of the City of Gold. It also validates Cricket's faith in his ancestor.",
+      "characterIds": ["nami", "zoro", "robin"],
+      "locationIds": ["upper-yard", "jaya"],
+      "quotes": [
+        {
+          "text": "Upper Yard was once a part of Jaya!",
+          "speaker": "Nami",
+          "context": "Nami's realization about the connection between the two islands"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [141, 142, 143, 144, 145, 146, 147, 148],
+      "payoffInEpisodes": [165, 182, 195],
+      "callbacksToEpisodes": [145, 146]
+    },
+    {
+      "id": "ep164-event-003",
+      "episodeNumber": 164,
+      "timestamp": "10:15",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Nami Discovers Noland's House",
+      "description": "Nami runs ahead to confirm her discovery and sees a building that is the other half of Mont Blanc Noland's house, providing physical evidence of the connection between Jaya and Upper Yard.",
+      "significance": "Physical proof that Upper Yard was part of Jaya and that Noland told the truth about what he saw. This discovery provides tangible evidence of the 400-year-old story.",
+      "characterIds": ["nami"],
+      "locationIds": ["upper-yard", "shandora"],
+      "quotes": [
+        {
+          "text": "This is the other half of Noland's house!",
+          "speaker": "Nami",
+          "context": "Nami confirming the physical evidence of the island's connection to Jaya"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [145, 146],
+      "payoffInEpisodes": [165, 182],
+      "callbacksToEpisodes": [145, 146]
+    },
+    {
+      "id": "ep164-event-004",
+      "episodeNumber": 164,
+      "timestamp": "11:00",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Robin Realizes Her Dream Is Near",
+      "description": "Upon discovering that Upper Yard is part of the ancient Jaya, Robin realizes that her lifelong dream of finding historical truths and Poneglyphs is within reach. The ancient city of Shandora likely contains the historical records she seeks.",
+      "significance": "This moment shows Robin's personal investment in the Skypiea arc and foreshadows her discovery of the Poneglyph in Shandora.",
+      "characterIds": ["robin"],
+      "locationIds": ["upper-yard", "shandora"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [67, 130],
+      "payoffInEpisodes": [195],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep164-event-005",
+      "episodeNumber": 164,
+      "timestamp": "13:20",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Flashback: Jaya's Ascension to the Sky",
+      "description": "An anime-original flashback sequence shows how the island of Jaya was shot into the sky 400 years ago by the Knock Up Stream, splitting the island in two.",
+      "significance": "Provides visual context for how Upper Yard came to be in the sky, helping viewers understand the catastrophic event that separated the Shandia from their homeland.",
+      "characterIds": [],
+      "locationIds": ["jaya", "upper-yard"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [152]
+    },
+    {
+      "id": "ep164-event-006",
+      "episodeNumber": 164,
+      "timestamp": "15:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Wyper and Shandia Plan Their Attack",
+      "description": "Wyper discusses strategy with the other Shandia warriors about Gan Fall's entry into Upper Yard. They theorize that Gan Fall didn't come to fight Enel for his position as God, but for another reason.",
+      "significance": "Sets up the Shandia's assault on Upper Yard and shows Wyper's leadership and strategic thinking. This moment drives the conflict forward.",
+      "characterIds": ["wyper", "aisa"],
+      "locationIds": ["upper-yard"],
+      "crewIds": ["shandia-warriors"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [165, 166, 167],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep164-event-007",
+      "episodeNumber": 164,
+      "timestamp": "16:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Aisa Uses Mantra to Sense Fallen Warriors",
+      "description": "Aisa uses her Mantra (Observation Haki) ability to sense that two voices have disappeared from Upper Yard. The Shandia assume that Gan Fall and Shura killed each other, making it the perfect time to attack Enel.",
+      "significance": "Demonstrates Aisa's natural-born Mantra ability and provides crucial intelligence that triggers the Shandia assault. Shows the strategic importance of Observation Haki in battle.",
+      "characterIds": ["aisa", "wyper"],
+      "locationIds": ["upper-yard"],
+      "quotes": [
+        {
+          "text": "Two voices disappeared!",
+          "speaker": "Aisa",
+          "context": "Aisa sensing that two warriors have fallen in Upper Yard"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [165],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep164-event-008",
+      "episodeNumber": 164,
+      "timestamp": "18:00",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Shandia Launch Attack on Upper Yard",
+      "description": "Acting on Aisa's intelligence that two warriors have fallen, Wyper leads the Shandia warriors in launching their assault on Upper Yard to reclaim their ancestral homeland from Enel.",
+      "significance": "Marks the beginning of the Shandia's major offensive in the war for Upper Yard, escalating the conflict and bringing multiple factions into direct combat.",
+      "characterIds": ["wyper"],
+      "locationIds": ["upper-yard"],
+      "crewIds": ["shandia-warriors"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [153, 154, 163],
+      "payoffInEpisodes": [165, 166, 167, 168, 169],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [165, 166, 167],
+    "payoffFrom": [145, 146, 163],
+    "thematicLinks": [182, 195]
+  },
+  "quotes": [
+    {
+      "text": "Upper Yard was once a part of Jaya!",
+      "speaker": "Nami",
+      "context": "Discovering the truth about Upper Yard's origin",
+      "timestamp": "08:30"
+    },
+    {
+      "text": "That old man was God?!",
+      "speaker": "Chopper",
+      "context": "Learning Gan Fall's true identity",
+      "timestamp": "03:45"
+    },
+    {
+      "text": "Two voices disappeared!",
+      "speaker": "Aisa",
+      "context": "Using Mantra to sense fallen warriors",
+      "timestamp": "16:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Truth and Legacy",
+      "description": "The episode explores the theme of truth being revealed after centuries of lies. Noland was branded a liar and executed, but the Straw Hats' discovery proves he told the truth all along.",
+      "symbolism": "Noland's house split between two islands symbolizes how truth can be fragmented and hidden, but never truly destroyed.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "War and Reclamation",
+      "description": "The Shandia's determination to reclaim their ancestral homeland after 400 years demonstrates the enduring power of cultural memory and the fight for justice.",
+      "symbolism": "Wyper lighting the fire of Shandora represents the Shandia's refusal to let their heritage be extinguished.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Dreams and Ambition",
+      "description": "Robin's realization that her dream is within reach shows how the pursuit of knowledge and truth can lead to unexpected discoveries.",
+      "symbolism": "",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Revelatory", "Tense", "Adventurous"],
+  "characterSpotlights": [
+    {
+      "characterId": "wyper",
+      "role": "Featured Warrior",
+      "development": "This episode highlights Wyper's role as the leader of the Shandia warriors. His strategic thinking and determination to reclaim Upper Yard are on full display as he rallies his people for battle.",
+      "keyActions": [
+        "Discusses strategy with Shandia warriors",
+        "Analyzes Gan Fall's motivations",
+        "Leads the Shandia assault on Upper Yard"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "nami",
+      "role": "Discovery Lead",
+      "development": "Nami demonstrates her navigational expertise and quick thinking by piecing together the connection between Jaya and Upper Yard. Her realization about Noland's house shows her attention to detail.",
+      "keyActions": [
+        "Discovers Upper Yard was part of Jaya",
+        "Identifies Noland's house",
+        "Runs ahead to confirm her discovery"
+      ],
+      "quotes": ["Upper Yard was once a part of Jaya!", "This is the other half of Noland's house!"]
+    },
+    {
+      "characterId": "aisa",
+      "role": "Strategic Intelligence",
+      "development": "Aisa's Mantra ability proves crucial in providing intelligence for the Shandia's battle plans. Despite her young age, she plays a vital role in the warriors' strategy.",
+      "keyActions": [
+        "Uses Mantra to sense fallen warriors",
+        "Reports intelligence to Wyper",
+        "Triggers the Shandia assault"
+      ],
+      "quotes": ["Two voices disappeared!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime added a flashback sequence showing how Jaya was shot into the sky by the Knock Up Stream 400 years ago.",
+      "episodeTimestamp": "13:20",
+      "mangaReference": "Chapter 251",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "The anime included a comedic scene of Luffy imitating Sanji that wasn't in the manga.",
+      "episodeTimestamp": "05:00",
+      "mangaReference": "Chapter 251",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode had a TV rating of 12.9% in Japan, ranking 5th for the week.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_164",
+          "title": "Episode 164 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode covers Chapter 251, pages 2-17 of the manga.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_164",
+          "title": "Episode 164 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Aisa is one of the few characters in One Piece who was born with the ability to use Observation Haki (called Mantra in Skypiea).",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Aisa",
+          "title": "Aisa - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The revelation about Upper Yard being part of Jaya is one of the most important plot connections in the entire series, linking two major arcs together.",
+      "category": "STORY",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
