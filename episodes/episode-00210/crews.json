@@ -1,0 +1,150 @@
+[
+  {
+    "name": {
+      "english": "Foxy Pirates",
+      "japanese": "フォクシー海賊団",
+      "romanized": "Fokushī Kaizokudan"
+    },
+    "debutEpisode": 207,
+    "debutChapter": 305,
+    "episodeAppearances": [210],
+    "captain": {
+      "characterId": "foxy",
+      "episodeStart": 207,
+      "episodeEnd": null
+    },
+    "members": [
+      {
+        "characterId": "foxy",
+        "role": "Captain",
+        "episodeJoined": 207,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "porche",
+        "role": "Combatant",
+        "episodeJoined": 207,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "hamburg",
+        "role": "Combatant/Groggy Monsters Leader",
+        "episodeJoined": 210,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "pickles",
+        "role": "Combatant/Groggy Monsters Member",
+        "episodeJoined": 210,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "big-pan",
+        "role": "Combatant/Groggy Monsters Member",
+        "episodeJoined": 210,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "chopper",
+        "role": "Temporary Member",
+        "episodeJoined": 210,
+        "episodeLeft": 214
+      }
+    ],
+    "ship": {
+      "name": "Sexy Foxy",
+      "type": "PIRATE_SHIP",
+      "debutEpisode": 207
+    },
+    "keyMoments": [
+      {
+        "episodeNumber": 210,
+        "eventId": "ep210-event-004",
+        "momentType": "BATTLE_END",
+        "title": "Win Donut Race",
+        "description": "The Foxy Pirates win the first round of the Davy Back Fight through Foxy's use of his Devil Fruit powers.",
+        "significance": "First victory in the Davy Back Fight against the Straw Hats.",
+        "timestamp": "14:00"
+      },
+      {
+        "episodeNumber": 210,
+        "eventId": "ep210-event-005",
+        "momentType": "CREW_GAIN",
+        "title": "Gain Chopper as Member",
+        "description": "Porche selects Tony Tony Chopper to join the Foxy Pirates as the prize for winning the race.",
+        "significance": "Temporarily gains the Straw Hats' doctor as a crew member.",
+        "timestamp": "16:00"
+      },
+      {
+        "episodeNumber": 210,
+        "eventId": "ep210-event-007",
+        "momentType": "INTRODUCTION",
+        "title": "Groggy Monsters Introduced",
+        "description": "The elite combat unit of the Foxy Pirates, the Groggy Monsters (Hamburg, Pickles, and Big Pan), are introduced.",
+        "significance": "Reveals the crew's strongest fighters for the Groggy Ring event.",
+        "timestamp": "19:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 207,
+        "episodeEnd": "present"
+      }
+    ],
+    "totalBounty": 24000000,
+    "territories": [],
+    "allies": [],
+    "enemies": ["straw-hat-pirates"],
+    "jollyRoger": "A fox skull with crossbones"
+  },
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [210],
+    "captain": {
+      "characterId": "luffy",
+      "episodeStart": 1,
+      "episodeEnd": null
+    },
+    "members": [],
+    "ship": {
+      "name": "Going Merry",
+      "type": "CARAVEL",
+      "debutEpisode": 17
+    },
+    "keyMoments": [
+      {
+        "episodeNumber": 210,
+        "eventId": "ep210-event-004",
+        "momentType": "BATTLE_END",
+        "title": "Lose Donut Race",
+        "description": "The Straw Hat Pirates lose the first round of the Davy Back Fight due to Foxy's interference.",
+        "significance": "First loss in the Davy Back Fight.",
+        "timestamp": "14:00"
+      },
+      {
+        "episodeNumber": 210,
+        "eventId": "ep210-event-005",
+        "momentType": "CREW_LOSS",
+        "title": "Lose Chopper",
+        "description": "Tony Tony Chopper is taken by the Foxy Pirates as the prize for losing the race.",
+        "significance": "Temporarily loses their doctor, raising the stakes for the remaining events.",
+        "timestamp": "16:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [],
+    "totalBounty": 0,
+    "territories": [],
+    "allies": [],
+    "enemies": ["foxy-pirates"],
+    "jollyRoger": "A skull wearing a straw hat with crossbones"
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "name": {
+      "english": "Long Ring Long Land Roller Track",
+      "japanese": "ロングリングロングランド・ローラートラック",
+      "romanized": "Rongu Ringu Rongu Rando Rōrā Torakku"
+    },
+    "locationType": "TRACK",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Long Ring Long Land",
+    "debutEpisode": 213,
+    "debutChapter": null,
+    "description": "A circular roller skating track on Long Ring Long Land island used for the Roller Race competition during the Davy Back Fight. The track is anime-original and features various obstacles and kiwi trees along the route.",
+    "episodeAppearances": [214],
+    "keyEvents": [
+      {
+        "episodeNumber": 214,
+        "eventId": "ep214-event-001",
+        "eventType": "BATTLE_START",
+        "title": "Final Round of Roller Race Begins",
+        "description": "The final round of the Roller Race competition takes place on this circular track, with the Straw Hats facing the Foxy Pirates.",
+        "significance": "The location where the decisive Davy Back Fight competition for Chopper's fate occurs.",
+        "timestamp": "04:30"
+      },
+      {
+        "episodeNumber": 214,
+        "eventId": "ep214-event-010",
+        "eventType": "BATTLE_END",
+        "title": "Straw Hats Win the Roller Race",
+        "description": "The Straw Hat Pirates successfully complete the race and defeat the Foxy Pirates on this track.",
+        "significance": "Victory location that allows the Straw Hats to reclaim Chopper from the Foxy Pirates.",
+        "timestamp": "22:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 213,
+        "episodeEnd": 214,
+        "reason": "Track used for Roller Race competition"
+      }
+    ],
+    "parentLocation": "Long Ring Long Land",
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "nami", "usopp", "zoro", "sanji", "robin", "chopper", "foxy", "porche", "hamburg", "chiqicheetah", "jube"],
+    "relatedCrews": ["straw-hat-pirates", "foxy-pirates"],
+    "relatedArcs": ["Long Ring Long Land"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Long Ring Long Land",
+      "japanese": "ロングリングロングランド",
+      "romanized": "Rongu Ringu Rongu Rando"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "GRAND_LINE",
+    "islandName": null,
+    "debutEpisode": 207,
+    "debutChapter": 303,
+    "description": "A unique island in the Grand Line characterized by its extremely elongated terrain features. The island is where the Straw Hat Pirates encounter the Foxy Pirates and participate in the Davy Back Fight.",
+    "episodeAppearances": [214],
+    "keyEvents": [
+      {
+        "episodeNumber": 214,
+        "eventId": "ep214-event-001",
+        "eventType": "BATTLE_START",
+        "title": "Roller Race Competition",
+        "description": "The island serves as the location for the Davy Back Fight competitions including the Roller Race.",
+        "significance": "The island where the Straw Hats must compete to win back Chopper.",
+        "timestamp": "04:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [],
+    "parentLocation": null,
+    "childLocations": ["Long Ring Long Land Roller Track"],
+    "relatedCharacters": ["luffy", "nami", "usopp", "zoro", "sanji", "robin", "chopper", "foxy", "tonjit"],
+    "relatedCrews": ["straw-hat-pirates", "foxy-pirates"],
+    "relatedArcs": ["Long Ring Long Land"],
+    "images": []
+  }
+]
