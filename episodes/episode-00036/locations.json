@@ -1,0 +1,195 @@
+[
+  {
+    "name": {
+      "english": "Cocoyasi Village",
+      "japanese": "ココヤシ村",
+      "romanized": "Kokoyashi Mura"
+    },
+    "locationType": "VILLAGE",
+    "seaRegion": "EAST_BLUE",
+    "islandName": "Conomi Islands",
+    "debutEpisode": 31,
+    "debutChapter": 69,
+    "description": "A peaceful village in the Conomi Islands that has been under Arlong's control for eight years. Home to Nami, Nojiko, and the late Bellemère.",
+    "episodeAppearances": [36],
+    "keyEvents": [
+      {
+        "episodeNumber": 36,
+        "eventId": "ep036-event-002",
+        "eventType": "INVASION",
+        "title": "Arlong Pirates Arrive",
+        "description": "Eight years ago, the Arlong Pirates arrived demanding tribute from all residents.",
+        "significance": "The event that changed the village's fate and placed it under Arlong's tyranny.",
+        "timestamp": "07:20"
+      },
+      {
+        "episodeNumber": 36,
+        "eventId": "ep036-event-008",
+        "eventType": "CORRUPTION",
+        "title": "Nezumi Arrives to Steal Nami's Treasure",
+        "description": "Corrupt Marine Captain Nezumi comes to the village to confiscate Nami's savings.",
+        "significance": "Shows the village is trapped between Arlong's tyranny and Marine corruption.",
+        "timestamp": "20:30"
+      }
+    ],
+    "status": "OCCUPIED",
+    "statusHistory": [
+      {
+        "status": "PEACEFUL",
+        "episodeStart": 36,
+        "episodeEnd": 36,
+        "reason": "Shown in flashback as peaceful before Arlong's arrival"
+      },
+      {
+        "status": "OCCUPIED",
+        "episodeStart": 36,
+        "episodeEnd": "present",
+        "reason": "Under Arlong's control and tribute system for eight years"
+      }
+    ],
+    "parentLocation": "Conomi Islands",
+    "childLocations": ["bellemere-house", "bellemere-tangerine-grove"],
+    "relatedCharacters": ["nami", "nojiko", "bellemere", "genzo", "arlong"],
+    "relatedCrews": ["arlong-pirates"],
+    "relatedArcs": ["Arlong Park"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Bellemère's House",
+      "japanese": "ベルメールの家",
+      "romanized": "Berumēru no Ie"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "EAST_BLUE",
+    "islandName": "Conomi Islands",
+    "debutEpisode": 36,
+    "debutChapter": 77,
+    "description": "The home where Bellemère raised Nami and Nojiko in Cocoyasi Village. A modest house adjacent to the tangerine grove.",
+    "episodeAppearances": [36],
+    "keyEvents": [
+      {
+        "episodeNumber": 36,
+        "eventId": "ep036-event-003",
+        "eventType": "MAJOR_DECISION",
+        "title": "Bellemère's Choice",
+        "description": "The location where Bellemère chose to pay tribute for her daughters instead of herself.",
+        "significance": "The site of one of the most important decisions in Nami's backstory.",
+        "timestamp": "10:15"
+      },
+      {
+        "episodeNumber": 36,
+        "eventId": "ep036-event-005",
+        "eventType": "DEATH",
+        "title": "Bellemère's Murder",
+        "description": "Arlong murders Bellemère in front of her daughters at their home.",
+        "significance": "The tragic event that occurs at what should have been a safe family home.",
+        "timestamp": "16:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 36,
+        "episodeEnd": "present",
+        "reason": "Still standing and inhabited by Nojiko after Bellemère's death"
+      }
+    ],
+    "parentLocation": "Cocoyasi Village",
+    "childLocations": [],
+    "relatedCharacters": ["bellemere", "nami", "nojiko"],
+    "relatedCrews": [],
+    "relatedArcs": ["Arlong Park"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Bellemère's Tangerine Grove",
+      "japanese": "ベルメールのみかん畑",
+      "romanized": "Berumēru no Mikan Batake"
+    },
+    "locationType": "LANDMARK",
+    "seaRegion": "EAST_BLUE",
+    "islandName": "Conomi Islands",
+    "debutEpisode": 36,
+    "debutChapter": 77,
+    "description": "The tangerine grove cultivated by Bellemère where she worked to support her family. After her death, the grove is maintained by Nojiko and represents Bellemère's legacy.",
+    "episodeAppearances": [36],
+    "keyEvents": [
+      {
+        "episodeNumber": 36,
+        "eventId": "ep036-event-001",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Introduction to the Tangerine Grove",
+        "description": "Shown as the peaceful place where Bellemère raised her daughters and made a living.",
+        "significance": "Represents the family home and Bellemère's hard work to provide for Nami and Nojiko.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 36,
+        "eventId": "ep036-event-010",
+        "eventType": "TREASURE_DISCOVERY",
+        "title": "Nami's Hidden Treasure Found",
+        "description": "Nezumi discovers Nami's treasure buried in the tangerine grove and confiscates it.",
+        "significance": "The place where Nami hid eight years of savings, now violated by corrupt Marines.",
+        "timestamp": "22:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 36,
+        "episodeEnd": "present",
+        "reason": "Maintained by Nojiko as Bellemère's legacy"
+      }
+    ],
+    "parentLocation": "Cocoyasi Village",
+    "childLocations": [],
+    "relatedCharacters": ["bellemere", "nami", "nojiko", "nezumi"],
+    "relatedCrews": [],
+    "relatedArcs": ["Arlong Park"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Arlong Park",
+      "japanese": "アーロンパーク",
+      "romanized": "Āron Pāku"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "EAST_BLUE",
+    "islandName": "Conomi Islands",
+    "debutEpisode": 31,
+    "debutChapter": 69,
+    "description": "The headquarters of the Arlong Pirates in the Conomi Islands. A fortress-like structure where Arlong rules over the region and where Nami is forced to work.",
+    "episodeAppearances": [36],
+    "keyEvents": [
+      {
+        "episodeNumber": 36,
+        "eventId": "ep036-event-007",
+        "eventType": "BACKSTORY_REVEAL",
+        "title": "Nami's Eight Years at Arlong Park",
+        "description": "Revealed that Nami has been imprisoned here for eight years, forced to draw maps for Arlong.",
+        "significance": "The prison where Nami has spent her adolescence in servitude.",
+        "timestamp": "19:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 31,
+        "episodeEnd": "present",
+        "reason": "Headquarters of Arlong Pirates"
+      }
+    ],
+    "parentLocation": "Conomi Islands",
+    "childLocations": [],
+    "relatedCharacters": ["arlong", "nami", "kuroobi", "choo", "hatchan"],
+    "relatedCrews": ["arlong-pirates"],
+    "relatedArcs": ["Arlong Park"],
+    "images": []
+  }
+]

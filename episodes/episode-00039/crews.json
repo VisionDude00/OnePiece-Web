@@ -1,0 +1,116 @@
+[
+  {
+    "id": "straw-hat-pirates",
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [39],
+    "captain": "luffy",
+    "members": [
+      {
+        "characterId": "luffy",
+        "role": "Captain",
+        "episodeJoined": 1,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "zoro",
+        "role": "Combatant/Swordsman",
+        "episodeJoined": 2,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "nami",
+        "role": "Navigator",
+        "episodeJoined": 44,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "usopp",
+        "role": "Sniper",
+        "episodeJoined": 17,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "sanji",
+        "role": "Cook",
+        "episodeJoined": 30,
+        "episodeLeft": null
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 39,
+        "eventId": "ep039-event-006",
+        "title": "First Major Victory at Arlong Park",
+        "description": "The Straw Hats achieve their first major victory when Zoro defeats Hatchan, one of Arlong's top officers.",
+        "significance": "Demonstrates the crew's growing strength and their ability to defeat powerful enemies even when at a disadvantage.",
+        "timestamp": "15:45"
+      },
+      {
+        "episodeNumber": 39,
+        "eventId": "ep039-event-007",
+        "title": "Crew Bonds Tested",
+        "description": "Sanji sacrifices his advantageous position to save Luffy, while villagers risk their lives to help the crew.",
+        "significance": "Shows the crew's loyalty to each other and their ability to inspire others to help them.",
+        "timestamp": "16:50"
+      }
+    ],
+    "status": "ACTIVE",
+    "totalBounty": 30000000
+  },
+  {
+    "id": "arlong-pirates",
+    "name": {
+      "english": "Arlong Pirates",
+      "japanese": "アーロン一味",
+      "romanized": "Āron Ichimi"
+    },
+    "debutEpisode": 31,
+    "debutChapter": 69,
+    "episodeAppearances": [39],
+    "captain": "arlong",
+    "members": [
+      {
+        "characterId": "arlong",
+        "role": "Captain",
+        "episodeJoined": null,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "hatchan",
+        "role": "Officer",
+        "episodeJoined": null,
+        "episodeLeft": 39
+      },
+      {
+        "characterId": "kuroobi",
+        "role": "Officer",
+        "episodeJoined": null,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "chew",
+        "role": "Officer",
+        "episodeJoined": null,
+        "episodeLeft": null
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 39,
+        "eventId": "ep039-event-006",
+        "title": "Loss of Hatchan",
+        "description": "Hatchan becomes the first of Arlong's officers to be defeated, weakening the crew's fighting force.",
+        "significance": "Marks the beginning of the Arlong Pirates' downfall as their officers are systematically defeated.",
+        "timestamp": "15:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "totalBounty": 20000000
+  }
+]

@@ -1,0 +1,512 @@
+{
+  "episodeNumber": 37,
+  "episodeTitle": "Luffy Stands Up! End of a Broken Promise!",
+  "description": "After discovering that Arlong orchestrated the theft of her life savings through the corrupt Marine Captain Nezumi, Nami reaches her breaking point and finally asks Luffy for help. In one of the series' most iconic moments, Luffy places his straw hat on Nami's head and marches with his crew toward Arlong Park.",
+  "airDate": "2000-08-16",
+  "airDateJapan": "2000-08-16",
+  "airDateUS": "2009-01-20",
+  "arcName": "Arlong Park",
+  "sagaName": "East Blue Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Are!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [1, 47]
+  },
+  "endingSong": {
+    "title": "RUN! RUN! RUN!",
+    "artist": "Maki Otsuki",
+    "episodeRange": [31, 63]
+  },
+  "credits": {
+    "animationDirector": "Hideaki Naniwa",
+    "director": "Junichi Fujise",
+    "artDirector": "Miyuki Sato",
+    "screenplay": "Michiru Shimada",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Arlong",
+        "actor": "Jurota Kosugi"
+      },
+      {
+        "character": "Nojiko",
+        "actor": "Wakana Yamazaki"
+      },
+      {
+        "character": "Genzo",
+        "actor": "Kenichi Ono"
+      },
+      {
+        "character": "Nezumi",
+        "actor": "Toshiyuki Morikawa"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Arlong",
+        "actor": "Chris Rager"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep037-event-001",
+      "episodeNumber": 37,
+      "timestamp": "03:45",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Nezumi Arrives at Cocoyasi Village",
+      "description": "Marine Captain Nezumi and his troops arrive at Cocoyasi Village under the pretense of investigating pirates. However, his true purpose is to confiscate Nami's accumulated treasure on Arlong's orders.",
+      "significance": "Reveals the corruption within the Marines and their collaboration with Arlong, demonstrating that Nami's struggle extends beyond just the Arlong Pirates.",
+      "characterIds": ["nezumi", "nami", "nojiko", "genzo"],
+      "locationIds": ["cocoyasi-village"],
+      "quotes": [
+        {
+          "text": "We're here to confiscate the stolen treasure hidden by the pirate Nami!",
+          "speaker": "Nezumi",
+          "context": "Nezumi falsely accuses Nami of being a pirate to justify stealing her money"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [31, 33],
+      "payoffInEpisodes": [44],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep037-event-002",
+      "episodeNumber": 37,
+      "timestamp": "06:20",
+      "eventType": "TREASURE_DISCOVERY",
+      "severity": "MAJOR",
+      "title": "Nami's Treasure Discovered and Seized",
+      "description": "Nezumi's Marines find Nami's hidden treasure buried in Bellemere's tangerine orchard - 93 million berries that she spent eight years collecting to buy the village's freedom. Nezumi confiscates all of it, claiming it as evidence of piracy.",
+      "significance": "The theft of Nami's life savings shatters her last hope of buying the village's freedom through Arlong's promise, revealing that Arlong never intended to honor their agreement.",
+      "characterIds": ["nezumi", "nami", "nojiko"],
+      "locationIds": ["cocoyasi-village", "bellemere-tangerine-orchard"],
+      "quotes": [
+        {
+          "text": "Ninety-three million berries! This is quite a haul!",
+          "speaker": "Nezumi",
+          "context": "Nezumi counts the money Nami spent eight years collecting"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [33, 34, 35],
+      "payoffInEpisodes": [44],
+      "callbacksToEpisodes": [33]
+    },
+    {
+      "id": "ep037-event-003",
+      "episodeNumber": 37,
+      "timestamp": "08:15",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Nojiko Shot by Nezumi",
+      "description": "When Nojiko attempts to physically stop Nezumi from taking the treasure, he callously shoots her in the back. Genzo and the villagers are forced to watch helplessly as the Marines steal everything Nami worked for.",
+      "significance": "This violent act against Nojiko demonstrates the depth of corruption and cruelty Nami has been fighting against, and further emphasizes her helplessness in this situation.",
+      "characterIds": ["nojiko", "nezumi", "genzo", "nami"],
+      "locationIds": ["bellemere-tangerine-orchard"],
+      "quotes": [
+        {
+          "text": "You're in the way!",
+          "speaker": "Nezumi",
+          "context": "Nezumi shoots Nojiko without hesitation"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [44],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep037-event-004",
+      "episodeNumber": 37,
+      "timestamp": "11:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Arlong's Betrayal Revealed",
+      "description": "Nami confronts Arlong at Arlong Park, where he smugly reveals that he orchestrated the theft through Nezumi. Arlong argues that technically he didn't break his promise - he never agreed to stop Nezumi from taking the money. This reveals that Arlong never intended to let Nami buy the village's freedom.",
+      "significance": "This moment exposes Arlong's true nature and the futility of Nami's eight-year struggle. It demonstrates that Arlong has been manipulating and exploiting Nami all along, with no intention of honoring their deal.",
+      "characterIds": ["nami", "arlong"],
+      "locationIds": ["arlong-park"],
+      "quotes": [
+        {
+          "text": "I never said I'd stop Nezumi from taking your money. Our deal still stands - bring me 100 million berries and I'll sell you the village.",
+          "speaker": "Arlong",
+          "context": "Arlong reveals his betrayal while technically claiming to honor their agreement"
+        },
+        {
+          "text": "You're a clever girl, Nami. Surely you understand that a deal is a deal.",
+          "speaker": "Arlong",
+          "context": "Arlong mockingly praises Nami while crushing her hopes"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [31, 33, 34],
+      "payoffInEpisodes": [39, 44],
+      "callbacksToEpisodes": [34]
+    },
+    {
+      "id": "ep037-event-005",
+      "episodeNumber": 37,
+      "timestamp": "14:22",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Nami Stabs Her Arlong Pirates Tattoo",
+      "description": "Driven to her absolute breaking point by rage, grief, and despair, Nami returns to the village and begins repeatedly stabbing the Arlong Pirates tattoo on her left shoulder with a dagger while screaming Arlong's name through tears. This self-destructive act represents her desperate attempt to remove the symbol of her forced servitude and the last eight years of suffering.",
+      "significance": "This is one of the most emotionally powerful moments in One Piece, visualizing Nami's complete psychological breakdown after years of suppressing her pain. The act of trying to literally cut away the Arlong Pirates mark symbolizes her desire to be free from her trauma, even at the cost of harming herself.",
+      "characterIds": ["nami", "luffy", "nojiko", "genzo"],
+      "locationIds": ["cocoyasi-village"],
+      "quotes": [
+        {
+          "text": "Arlong... Arlong... ARLONG!",
+          "speaker": "Nami",
+          "context": "Nami screams Arlong's name repeatedly while stabbing her tattoo in anguish"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [31, 33, 34, 35],
+      "payoffInEpisodes": [45],
+      "callbacksToEpisodes": [33]
+    },
+    {
+      "id": "ep037-event-006",
+      "episodeNumber": 37,
+      "timestamp": "15:10",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Nami Finally Asks Luffy for Help",
+      "description": "Luffy stops Nami from continuing to harm herself by grabbing her wrist. For the first time, Nami breaks down completely, turns to face Luffy with tears streaming down her face, and utters the words she's been unable to say for eight years: 'Luffy... help me.' This marks the moment Nami finally allows herself to rely on someone else and truly joins the Straw Hat crew.",
+      "significance": "This is THE defining moment of the Arlong Park arc and one of the most iconic scenes in all of One Piece. It represents Nami's complete transformation from someone who trusted no one and worked alone to someone who can finally accept help from friends. It solidifies the bond between Luffy and Nami and establishes the core principle of the Straw Hat crew: they protect their nakama no matter what.",
+      "characterIds": ["nami", "luffy"],
+      "locationIds": ["cocoyasi-village"],
+      "quotes": [
+        {
+          "text": "Luffy... help me.",
+          "speaker": "Nami",
+          "context": "Nami's tearful plea to Luffy, finally asking for help after eight years of suffering alone"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [1, 31, 33, 34, 35, 36],
+      "payoffInEpisodes": [39, 44, 45],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep037-event-007",
+      "episodeNumber": 37,
+      "timestamp": "16:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "CRITICAL",
+      "title": "Luffy Places His Straw Hat on Nami's Head",
+      "description": "In response to Nami's plea, Luffy doesn't speak. Instead, he silently removes his precious straw hat - the treasure given to him by Shanks and his most important possession - and places it on Nami's head. This wordless gesture conveys absolute trust, protection, and the promise that he will handle everything.",
+      "significance": "The straw hat is the most important object in the entire series, representing Luffy's promise to Shanks and his dream. By entrusting it to Nami, Luffy is showing the ultimate sign of faith and declaring that her pain is now his responsibility. This scene has become one of the most iconic images in anime history and perfectly encapsulates what the Straw Hat crew represents.",
+      "characterIds": ["luffy", "nami"],
+      "locationIds": ["cocoyasi-village"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [4],
+      "payoffInEpisodes": [45],
+      "callbacksToEpisodes": [4]
+    },
+    {
+      "id": "ep037-event-008",
+      "episodeNumber": 37,
+      "timestamp": "17:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Luffy's Declaration and March to Arlong Park",
+      "description": "After placing his hat on Nami's head, Luffy stands up and begins walking toward Arlong Park. He shouts out loud 'OF COURSE I WILL!' - his answer to Nami's request for help. Zoro, Sanji, and Usopp immediately follow him without question, with the entire Straw Hat crew marching in unison toward the enemy stronghold.",
+      "significance": "This moment establishes the Straw Hats' unwavering loyalty to their nakama. Without needing explanation or strategy, the entire crew immediately commits to fighting Arlong. The powerful imagery of the crew's synchronized march to battle has become one of the most memorable scenes in the series.",
+      "characterIds": ["luffy", "zoro", "sanji", "usopp", "nami"],
+      "locationIds": ["cocoyasi-village"],
+      "quotes": [
+        {
+          "text": "OF COURSE I WILL!",
+          "speaker": "Luffy",
+          "context": "Luffy's loud declaration in response to Nami's request, shouted as he walks toward Arlong Park"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [36],
+      "payoffInEpisodes": [38, 39],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep037-event-009",
+      "episodeNumber": 37,
+      "timestamp": "19:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Cocoyasi Village Residents Prepare for Battle",
+      "description": "Inspired by the Straw Hats' determination, Genzo and the villagers of Cocoyasi Village decide they can no longer stand by. They arm themselves with whatever weapons they can find, preparing to join the fight against the Arlong Pirates despite knowing they're outmatched.",
+      "significance": "After years of suffering in silence, the villagers are finally ready to fight back. This shows how Luffy's actions inspire others and demonstrates that the fight against Arlong has become about more than just revenge - it's about reclaiming dignity and freedom.",
+      "characterIds": ["genzo", "nojiko"],
+      "locationIds": ["cocoyasi-village"],
+      "quotes": [
+        {
+          "text": "We can't let those kids fight alone! Even if we die, we're going to fight!",
+          "speaker": "Genzo",
+          "context": "Genzo rallies the villagers to join the battle against Arlong"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [34, 35],
+      "payoffInEpisodes": [38],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep037-event-010",
+      "episodeNumber": 37,
+      "timestamp": "20:45",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "The Straw Hats Arrive at Arlong Park",
+      "description": "The episode ends with Luffy, Zoro, Sanji, and Usopp arriving at the gates of Arlong Park, ready to face the Arlong Pirates. The crew stands united, prepared for the battle ahead.",
+      "significance": "This arrival marks the beginning of the climactic battle of the Arlong Park arc. The Straw Hats have officially committed to destroying Arlong and everything he represents.",
+      "characterIds": ["luffy", "zoro", "sanji", "usopp"],
+      "locationIds": ["arlong-park"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [31, 36],
+      "payoffInEpisodes": [38, 39],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": ["bellemere-tangerine-orchard"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [38, 39, 44, 45],
+    "payoffFrom": [31, 33, 34, 35, 36],
+    "thematicLinks": [4, 44, 45, 228, 312, 405, 877]
+  },
+  "quotes": [
+    {
+      "text": "Luffy... help me.",
+      "speaker": "Nami",
+      "context": "The most iconic line of the episode - Nami's tearful plea for help",
+      "timestamp": "15:10"
+    },
+    {
+      "text": "OF COURSE I WILL!",
+      "speaker": "Luffy",
+      "context": "Luffy's emphatic response to Nami's request",
+      "timestamp": "17:30"
+    },
+    {
+      "text": "I never said I'd stop Nezumi from taking your money. Our deal still stands - bring me 100 million berries and I'll sell you the village.",
+      "speaker": "Arlong",
+      "context": "Arlong reveals his betrayal while claiming to honor their agreement",
+      "timestamp": "11:30"
+    },
+    {
+      "text": "We can't let those kids fight alone! Even if we die, we're going to fight!",
+      "speaker": "Genzo",
+      "context": "Genzo rallies the villagers to join the battle",
+      "timestamp": "19:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Trust and Vulnerability",
+      "description": "The episode's central theme is Nami's journey from complete self-reliance born of trauma to finally allowing herself to be vulnerable and trust others. Her plea to Luffy represents the breaking down of eight years of emotional walls.",
+      "symbolism": "Nami stabbing her tattoo symbolizes her desperate attempt to cut away her trauma and forced identity as a member of Arlong's crew.",
+      "culturalReferences": ["The concept of nakama (仲間) - bonds deeper than friendship that define the Straw Hat crew"]
+    },
+    {
+      "theme": "The Power of Friendship",
+      "description": "Luffy's wordless response to Nami demonstrates that true friendship doesn't require lengthy explanations or conditions. The crew's immediate commitment to fight for Nami shows their unconditional loyalty.",
+      "symbolism": "The straw hat represents trust, protection, and the passing of will between generations. Luffy placing it on Nami shows he trusts her with his most precious possession.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Corruption and Betrayal",
+      "description": "The episode exposes the corruption within both the pirate world and the Marines, showing how Arlong and Nezumi work together to exploit and control the innocent.",
+      "symbolism": "Arlong's semantic argument about 'technically' keeping his promise represents how those in power manipulate language and rules to maintain control.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Standing Up to Oppression",
+      "description": "After years of submission, both Nami and the villagers finally choose to fight back against their oppressors, even knowing the risks. This represents the moment when dignity becomes more important than safety.",
+      "symbolism": "The villagers arming themselves with simple weapons represents ordinary people finding courage to resist tyranny.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Heartbreaking", "Cathartic", "Empowering", "Intense"],
+  "characterSpotlights": [
+    {
+      "characterId": "nami",
+      "role": "Emotional center of the episode",
+      "development": "Nami reaches her absolute breaking point and finally overcomes her pride and fear to ask for help. This marks her true acceptance of the Straw Hat crew and her transformation from a solitary survivor to someone who can trust others.",
+      "keyActions": [
+        "Watches helplessly as Nezumi steals her life savings",
+        "Confronts Arlong about breaking his promise",
+        "Stabs her Arlong Pirates tattoo repeatedly in desperation",
+        "Finally asks Luffy for help with the words 'Luffy... help me'",
+        "Receives Luffy's straw hat as a symbol of his promise"
+      ],
+      "quotes": ["Luffy... help me.", "Arlong... Arlong... ARLONG!"]
+    },
+    {
+      "characterId": "luffy",
+      "role": "The unwavering protector",
+      "development": "Luffy demonstrates the core of his character - absolute loyalty to his nakama. His wordless response to Nami's pain shows a deep emotional intelligence and understanding that transcends words.",
+      "keyActions": [
+        "Stops Nami from continuing to harm herself",
+        "Places his straw hat on Nami's head without speaking",
+        "Shouts his declaration to help and marches toward Arlong Park",
+        "Leads the crew into battle without hesitation or strategy discussion"
+      ],
+      "quotes": ["OF COURSE I WILL!"]
+    },
+    {
+      "characterId": "arlong",
+      "role": "The revealed villain",
+      "development": "Arlong's true nature is fully exposed. His smug betrayal and semantic arguments show him to be not just cruel, but manipulative and calculating in his oppression.",
+      "keyActions": [
+        "Orchestrates the theft of Nami's treasure through Nezumi",
+        "Smugly explains that he technically didn't break his promise",
+        "Continues to mock Nami even as she confronts him"
+      ],
+      "quotes": ["I never said I'd stop Nezumi from taking your money. Our deal still stands - bring me 100 million berries and I'll sell you the village.", "You're a clever girl, Nami. Surely you understand that a deal is a deal."]
+    },
+    {
+      "characterId": "genzo",
+      "role": "Voice of the oppressed villagers",
+      "development": "Genzo transforms from someone resigned to suffering to a leader willing to fight back, inspired by the Straw Hats' courage.",
+      "keyActions": [
+        "Witnesses Nojiko being shot and the treasure being stolen",
+        "Rallies the villagers to arm themselves and join the fight",
+        "Prepares to fight despite knowing they're outmatched"
+      ],
+      "quotes": ["We can't let those kids fight alone! Even if we die, we're going to fight!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "In the manga, the scene where Marines find and comment on Nami's bloody treasure occurs on their ship after leaving the village. In the anime, this scene is shown immediately when they discover it in the orchard.",
+      "episodeTimestamp": "06:20",
+      "mangaReference": "Chapter 80-81",
+      "type": "SCENE_PLACEMENT"
+    },
+    {
+      "difference": "The anime extends the emotional weight of Nami stabbing her tattoo with additional animation frames and more emphatic voice acting, making the scene more viscerally painful than the manga panels.",
+      "episodeTimestamp": "14:22",
+      "mangaReference": "Chapter 81, page 10-11",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episode 37 is frequently cited by One Piece fans as the episode that transformed them from casual viewers into devoted fans of the series.",
+      "category": "CULTURAL_IMPACT",
+      "sources": [
+        {
+          "url": "https://www.cbr.com/one-piece-season-1-episode-37-casual-viewers-became-lifelong-fans/",
+          "title": "One Piece, Season 1, Episode 37: The Episode That Changed Casual Viewers Into Lifelong Fans",
+          "platform": "CBR",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The scene where Luffy places his hat on Nami has been recreated and referenced in countless other anime, manga, and fan works, becoming one of the most iconic images in anime history.",
+      "category": "CULTURAL_IMPACT",
+      "sources": []
+    },
+    {
+      "fact": "This episode achieved an 11.4% rating when it first aired in Japan, ranking #5 for that week. The remaster in 2012 achieved 5.3% rating, ranking #7.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_37",
+          "title": "Episode 37 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The 4Kids English dub changed the episode title to 'You Dirty Rat!' which significantly downplays the emotional weight of the original title.",
+      "category": "LOCALIZATION",
+      "sources": []
+    },
+    {
+      "fact": "This episode adapts manga chapters 80 and 81, specifically from chapter 80 page 10 through the end of chapter 81.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_37",
+          "title": "Episode 37 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Akemi Okamura's voice acting as Nami during the tattoo-stabbing scene is considered one of her most powerful performances in the entire series.",
+      "category": "VOICE_ACTING",
+      "sources": []
+    },
+    {
+      "fact": "The Netflix live-action adaptation of One Piece recreated the iconic hat scene in Season 1, Episode 8, with actress Emily Rudd confirming that bringing this moment to life was one of the most important aspects of the adaptation.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://thedirect.com/article/netflix-one-piece-reboot-nami-scene-actress",
+          "title": "Netflix's One Piece Reboot Includes THAT Tragic Nami Scene, Confirms Actress",
+          "platform": "The Direct",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

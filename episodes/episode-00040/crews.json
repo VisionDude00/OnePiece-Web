@@ -1,0 +1,105 @@
+[
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "luffy",
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [40],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 40,
+        "eventId": "ep040-event-005",
+        "momentType": "BATTLE_END",
+        "title": "Sanji Defeats Kuroobi",
+        "description": "Crew cook Sanji defeats one of Arlong's three officers, demonstrating the strength of the Straw Hat Pirates.",
+        "significance": "Shows that the Straw Hats can defeat the Arlong Pirates' strongest members.",
+        "timestamp": "14:10"
+      },
+      {
+        "episodeNumber": 40,
+        "eventId": "ep040-event-013",
+        "momentType": "BATTLE_END",
+        "title": "Usopp Defeats Chew",
+        "description": "Crew sniper Usopp defeats another of Arlong's officers through clever tactics and bravery.",
+        "significance": "Proves that every member of the Straw Hats contributes to the crew's success.",
+        "timestamp": "21:15"
+      },
+      {
+        "episodeNumber": 40,
+        "eventId": "ep040-event-015",
+        "momentType": "MAJOR_DECISION",
+        "title": "Nami Commits to the Crew",
+        "description": "Nami openly defies Arlong and commits to fighting alongside the Straw Hats.",
+        "significance": "Represents Nami's full emotional commitment to joining the Straw Hat Pirates.",
+        "timestamp": "23:10"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull wearing a straw hat with crossed bones behind it",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": [],
+      "enemies": ["arlong-pirates"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Arlong Pirates",
+      "japanese": "アーロン一味",
+      "romanized": "Āron Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "arlong",
+    "debutEpisode": 31,
+    "debutChapter": 69,
+    "episodeAppearances": [40],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 40,
+        "eventId": "ep040-event-006",
+        "momentType": "BATTLE_END",
+        "title": "Kuroobi Defeated",
+        "description": "One of the three officers of the Arlong Pirates is defeated by Sanji, weakening the crew significantly.",
+        "significance": "Marks the beginning of the Arlong Pirates' downfall.",
+        "timestamp": "15:45"
+      },
+      {
+        "episodeNumber": 40,
+        "eventId": "ep040-event-013",
+        "momentType": "BATTLE_END",
+        "title": "Chew Defeated",
+        "description": "Another officer of the Arlong Pirates is defeated by Usopp, further diminishing the crew's strength.",
+        "significance": "Leaves only Arlong himself as the remaining major threat.",
+        "timestamp": "21:15"
+      }
+    ],
+    "ships": [],
+    "bases": ["arlong-park"],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A saw-shark face with a crown-like fin on top",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "#4169E1",
+    "relationships": {
+      "allies": [],
+      "enemies": ["straw-hat-pirates"],
+      "parentOrganization": null
+    }
+  }
+]
