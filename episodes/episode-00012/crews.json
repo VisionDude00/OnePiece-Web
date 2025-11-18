@@ -1,0 +1,136 @@
+[
+  {
+    "name": {
+      "english": "Black Cat Pirates",
+      "japanese": "クロネコ海賊団",
+      "romanized": "Kuroneko Kaizoku-dan"
+    },
+    "crewType": "PIRATE_CREW",
+    "debutEpisode": 9,
+    "debutChapter": 23,
+    "episodeAppearances": [12],
+    "captain": {
+      "characterId": "kuro",
+      "episodeStart": 9,
+      "episodeEnd": null
+    },
+    "members": [
+      {
+        "characterId": "kuro",
+        "role": "Captain",
+        "episodeJoined": null,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "jango",
+        "role": "First Mate/Hypnotist",
+        "episodeJoined": null,
+        "episodeLeft": null
+      }
+    ],
+    "formerMembers": [],
+    "ship": {
+      "shipName": "Bezan Black",
+      "debutEpisode": 12,
+      "description": "The ship of the Black Cat Pirates, featuring a black cat figurehead"
+    },
+    "jollyRoger": "A cat skull with a top hat",
+    "totalBounty": 16000000,
+    "status": "ACTIVE",
+    "statusHistory": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 12,
+        "eventId": "ep012-event-007",
+        "momentType": "LOCATION_ARRIVAL",
+        "title": "Black Cat Pirates Arrive at Northern Coast",
+        "description": "The Black Cat Pirates arrive at Syrup Village's northern coast to begin their invasion as part of Kuro's master plan.",
+        "significance": "The crew's invasion force lands and begins their assault on the village.",
+        "timestamp": "11:30"
+      },
+      {
+        "episodeNumber": 12,
+        "eventId": "ep012-event-013",
+        "momentType": "BATTLE_START",
+        "title": "Battle Against Straw Hat Pirates Begins",
+        "description": "The Black Cat Pirates engage in full combat with the Straw Hat Pirates on the northern slope of Syrup Village.",
+        "significance": "Major battle engagement that will determine the fate of Syrup Village and Kaya.",
+        "timestamp": "20:30"
+      }
+    ],
+    "goals": ["Execute Kuro's plan to steal Kaya's fortune", "Eliminate witnesses", "Allow Kuro to retire peacefully"],
+    "territories": [],
+    "allies": [],
+    "enemies": ["straw-hat-pirates"],
+    "disbandedEpisode": null,
+    "description": "A pirate crew led by Captain Kuro, known for their strategic planning and ruthlessness. After Kuro faked his death, the crew has been operating under his three-year plan to steal Kaya's fortune through deception and murder."
+  },
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [12],
+    "captain": {
+      "characterId": "luffy",
+      "episodeStart": 1,
+      "episodeEnd": null
+    },
+    "members": [
+      {
+        "characterId": "luffy",
+        "role": "Captain",
+        "episodeJoined": 1,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "zoro",
+        "role": "Swordsman",
+        "episodeJoined": 3,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "nami",
+        "role": "Navigator",
+        "episodeJoined": 1,
+        "episodeLeft": null
+      }
+    ],
+    "formerMembers": [],
+    "ship": null,
+    "jollyRoger": "A skull wearing a straw hat",
+    "totalBounty": 0,
+    "status": "ACTIVE",
+    "statusHistory": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 12,
+        "eventId": "ep012-event-003",
+        "momentType": "MAJOR_DECISION",
+        "title": "Discovery of Strategic Error",
+        "description": "The Straw Hat Pirates realize they defended the wrong beach and must race to the northern coast to intercept the Black Cat Pirates.",
+        "significance": "Forces the crew to adapt quickly and shows the importance of accurate intelligence in battle.",
+        "timestamp": "06:45"
+      },
+      {
+        "episodeNumber": 12,
+        "eventId": "ep012-event-012",
+        "momentType": "LOCATION_ARRIVAL",
+        "title": "Arrival at Northern Beach",
+        "description": "Luffy and Zoro arrive at the northern coast to support Usopp in defending against the Black Cat Pirates' invasion.",
+        "significance": "The crew unites at the correct battlefield to mount their defense.",
+        "timestamp": "19:15"
+      }
+    ],
+    "goals": ["Protect Syrup Village from the Black Cat Pirates", "Help Usopp defend his village"],
+    "territories": [],
+    "allies": ["usopp"],
+    "enemies": ["black-cat-pirates"],
+    "disbandedEpisode": null,
+    "description": "The pirate crew led by Monkey D. Luffy, currently in its early formation with three members. They've allied with Usopp to defend Syrup Village from Captain Kuro's invasion."
+  }
+]

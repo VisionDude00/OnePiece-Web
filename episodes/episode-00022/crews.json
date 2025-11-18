@@ -1,0 +1,111 @@
+[
+  {
+    "name": {
+      "english": "Krieg Pirates",
+      "japanese": "クリーク海賊団",
+      "romanized": "Kurīku Kaizokudan"
+    },
+    "alternateNames": ["Pirate Armada", "Don Krieg's Fleet"],
+    "debutEpisode": 22,
+    "debutChapter": 45,
+    "episodeAppearances": [22],
+    "captain": {
+      "characterId": "don-krieg",
+      "episodeAppointed": 22
+    },
+    "members": [
+      {
+        "characterId": "don-krieg",
+        "role": "Admiral/Captain",
+        "episodeJoined": 22,
+        "episodeLeft": null,
+        "status": "ACTIVE"
+      },
+      {
+        "characterId": "gin",
+        "role": "Combat Commander",
+        "episodeJoined": 22,
+        "episodeLeft": null,
+        "status": "ACTIVE"
+      }
+    ],
+    "totalMembers": {
+      "original": 5000,
+      "current": 100,
+      "episodeCount": 22,
+      "notes": "Originally commanded 5,000 pirates across 50 ships. Decimated by Mihawk in the Grand Line, leaving approximately 100 survivors."
+    },
+    "ships": [
+      {
+        "shipName": "Dreadnaught Sabre",
+        "shipType": "Flagship",
+        "episodeFirstAppearance": 22,
+        "status": "ACTIVE",
+        "description": "Don Krieg's flagship, the only surviving ship from his fleet after the encounter with Mihawk."
+      }
+    ],
+    "jollyRoger": {
+      "description": "A skull and crossbones with sideburns matching Don Krieg's appearance, flanked by two hourglasses on each side symbolizing a death threat to enemies.",
+      "symbolism": "The hourglasses represent that time is running out for their enemies."
+    },
+    "territories": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 22,
+        "eventId": "ep022-event-003",
+        "momentType": "LOCATION_ARRIVAL",
+        "title": "Krieg Pirates Arrive at Baratie",
+        "description": "The damaged flagship of the Krieg Pirates emerges from the fog near the Baratie, causing panic among the restaurant patrons.",
+        "significance": "First appearance of the crew, establishing them as a major threat despite their weakened state.",
+        "timestamp": "06:45"
+      },
+      {
+        "episodeNumber": 22,
+        "eventId": "ep022-event-009",
+        "momentType": "BATTLE_START",
+        "title": "Assault on the Baratie",
+        "description": "Don Krieg launches an attack on the Baratie after his betrayal, beginning the crew's attempt to seize the restaurant ship.",
+        "significance": "Initiates the major conflict of the Baratie Arc.",
+        "timestamp": "18:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 22,
+        "episodeEnd": "present",
+        "description": "Operating in weakened state after Grand Line defeat"
+      }
+    ],
+    "totalBounty": 29000000,
+    "reveals": [
+      {
+        "infoType": "CREW_SIZE",
+        "information": "Originally the largest pirate fleet in East Blue with 5,000 members across 50 ships",
+        "episodeRevealed": 22,
+        "severity": "MAJOR"
+      },
+      {
+        "infoType": "BACKSTORY",
+        "information": "Fleet was decimated by Dracule Mihawk in the Grand Line, reducing them to about 100 survivors",
+        "episodeRevealed": 22,
+        "severity": "MAJOR"
+      },
+      {
+        "infoType": "REPUTATION",
+        "information": "Known as the most powerful and feared pirate fleet in East Blue before their Grand Line expedition",
+        "episodeRevealed": 22,
+        "severity": "MAJOR"
+      },
+      {
+        "infoType": "TACTICS",
+        "information": "Crew relies on overwhelming numbers, superior weaponry, and deceptive tactics rather than individual strength",
+        "episodeRevealed": 22,
+        "severity": "MINOR"
+      }
+    ],
+    "allies": [],
+    "enemies": []
+  }
+]

@@ -1,0 +1,549 @@
+{
+  "episodeNumber": 14,
+  "episodeTitle": "Luffy's Revival! Miss Kaya's Desperate Resistance!",
+  "episodeTitleJapanese": "Rufi fukkatsu! Kaya ojō-sama no kesshi no teikō",
+  "episodeTitleKanji": "ルフィ復活！カヤお嬢様の決死の抵抗",
+  "description": "As the battle against the Black Cat Pirates intensifies, Kuro arrives and delivers a five-minute ultimatum. Zoro defeats the Nyaban Brothers with a powerful new technique while Luffy recovers from his injuries. Kaya confronts Kuro after learning the truth about his identity and makes a desperate offer to save her village.",
+  "airDate": "2000-02-16",
+  "airDateJapan": "2000-02-16",
+  "airDateUS": "2008-09-16",
+  "arcName": "Syrup Village Arc",
+  "sagaName": "East Blue Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Are!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [1, 47]
+  },
+  "endingSong": {
+    "title": "Memories",
+    "artist": "Maki Otsuki",
+    "episodeRange": [1, 30]
+  },
+  "credits": {
+    "animationDirector": "Eisaku Inoue",
+    "episodeDirector": "Yukio Kaizawa",
+    "screenplayWriter": "Junki Takegami",
+    "artDirector": "Miyuki Sato",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Kuro",
+        "actor": "Kōichi Hashimoto"
+      },
+      {
+        "character": "Kaya",
+        "actor": "Mariko Kouda"
+      },
+      {
+        "character": "Jango",
+        "actor": "Kazuki Yao"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher R. Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep014-event-001",
+      "episodeNumber": 14,
+      "timestamp": "03:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Captain Kuro Arrives at the Battlefield",
+      "description": "Captain Kuro makes his entrance to the battlefield and expresses disappointment at his crew's poor performance against the Straw Hat Pirates. He delivers an ultimatum that he will kill everyone present if the Straw Hat Pirates are not defeated within five minutes.",
+      "significance": "Kuro's arrival escalates the conflict dramatically and establishes him as a formidable threat. His willingness to kill his own crew demonstrates his ruthlessness and strategic mindset.",
+      "characterIds": ["kuro"],
+      "locationIds": ["syrup-village-coast"],
+      "crewIds": ["black-cat-pirates"],
+      "quotes": [
+        {
+          "text": "I will kill everyone present if the Straw Hat Pirates are not dead in five minutes.",
+          "speaker": "Kuro",
+          "context": "Kuro's ultimatum to his crew"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [9, 10, 11, 12, 13],
+      "payoffInEpisodes": [15],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep014-event-002",
+      "episodeNumber": 14,
+      "timestamp": "05:20",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Nyaban Brothers Attack Zoro",
+      "description": "Sham and Buchi, the Nyaban Brothers, launch their attack on Zoro. They initially appear weak and cowardly but quickly reveal their true combat capabilities using deceptive tactics and coordinated attacks.",
+      "significance": "This establishes the Nyaban Brothers as formidable opponents and showcases their fighting style of deception and teamwork.",
+      "characterIds": ["zoro", "sham", "buchi"],
+      "locationIds": ["syrup-village-coast"],
+      "crewIds": ["black-cat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [12, 13],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep014-event-003",
+      "episodeNumber": 14,
+      "timestamp": "07:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Nami Retrieves Zoro's Swords",
+      "description": "After the Nyaban Brothers steal Zoro's swords during combat, Nami bravely retrieves all three blades and returns them to Zoro, allowing him to fight at full strength.",
+      "significance": "This moment shows Nami's growing trust and cooperation with the crew, as well as her willingness to support her allies in battle despite her cautious nature.",
+      "characterIds": ["nami", "zoro"],
+      "locationIds": ["syrup-village-coast"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep014-event-004",
+      "episodeNumber": 14,
+      "timestamp": "08:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Zoro Debuts Tora Gari (Tiger Trap)",
+      "description": "With all three swords in hand, Zoro unleashes his Tora Gari technique for the first time, cutting straight through both Sham and Buchi in a single devastating attack. The brothers charge at him with their signature combination attack, but Zoro defeats them decisively.",
+      "significance": "This is the first appearance of Zoro's Tora Gari technique, demonstrating his mastery of the Three-Sword Style and establishing it as one of his signature moves. The technique showcases his ability to defeat multiple opponents simultaneously.",
+      "characterIds": ["zoro", "sham", "buchi"],
+      "locationIds": ["syrup-village-coast"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep014-event-005",
+      "episodeNumber": 14,
+      "timestamp": "10:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Kuro Demonstrates Nukiashi",
+      "description": "Kuro displays his incredible speed and stealth technique called Nukiashi, which allows him to move silently and swiftly. He easily evades attacks from Sham and Buchi, demonstrating his superiority over his own crew members.",
+      "significance": "The debut of Nukiashi establishes Kuro as a master combatant and introduces one of his signature techniques. The silent, cat-like movement perfectly embodies his cat theme and strategic approach to combat.",
+      "characterIds": ["kuro", "sham", "buchi"],
+      "locationIds": ["syrup-village-coast"],
+      "devilFruitIds": [],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [15],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep014-event-006",
+      "episodeNumber": 14,
+      "timestamp": "11:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Kuro's Cat Claws Revealed",
+      "description": "Jango explains that Kuro possesses special weapons called Cat Claws that allow him to move silently and attack with devastating slashing power. These weapons are integrated into his fighting style.",
+      "significance": "This reveals Kuro's signature weapons and explains the mechanics behind his silent movement ability, adding depth to his character design and combat capabilities.",
+      "characterIds": ["kuro", "jango"],
+      "locationIds": ["syrup-village-coast"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [15],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep014-event-007",
+      "episodeNumber": 14,
+      "timestamp": "13:00",
+      "eventType": "POWER_REVEAL",
+      "severity": "MINOR",
+      "title": "Jango Hypnotizes Buchi",
+      "description": "After Buchi is defeated by Zoro, he requests hypnosis from Jango to continue fighting. Jango uses his hypnotic abilities to enhance Buchi's strength dramatically, allowing him to engage Zoro in renewed combat with increased power.",
+      "significance": "This demonstrates another application of Jango's hypnotic powers beyond putting people to sleep, showing he can also enhance physical abilities by accessing subconscious reserves of strength.",
+      "characterIds": ["jango", "buchi", "zoro"],
+      "locationIds": ["syrup-village-coast"],
+      "quotes": [
+        {
+          "text": "One, Two, Jango!",
+          "speaker": "Jango",
+          "context": "Jango's hypnotic command phrase"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [9, 13],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep014-event-008",
+      "episodeNumber": 14,
+      "timestamp": "15:20",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Nami Attempts to Wake Luffy",
+      "description": "Recognizing the dire situation with Kuro's arrival and Zoro's injuries, Nami attempts to wake the unconscious Luffy. However, Jango throws a chakram at her to prevent her from succeeding.",
+      "significance": "This shows Nami's tactical awareness and her understanding that Luffy is crucial to their victory. It also demonstrates the Black Cat Pirates' recognition of Luffy as a major threat.",
+      "characterIds": ["nami", "luffy", "jango"],
+      "locationIds": ["syrup-village-coast"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [13],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep014-event-009",
+      "episodeNumber": 14,
+      "timestamp": "16:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Luffy's Unexpected Awakening",
+      "description": "Luffy awakens from unconsciousness when Nami accidentally steps on his face during the chaos. A chakram ring from Jango pierces the back of his head, but he casually removes it, shocking the Black Cat Pirates who realize they cannot defeat him within their five-minute deadline.",
+      "significance": "Luffy's awakening marks a turning point in the battle. His casual reaction to being injured demonstrates his incredible resilience and fighting spirit, while terrifying the enemy pirates.",
+      "characterIds": ["luffy", "nami", "jango"],
+      "locationIds": ["syrup-village-coast"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [13],
+      "payoffInEpisodes": [15],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep014-event-010",
+      "episodeNumber": 14,
+      "timestamp": "18:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Kaya Arrives at the Battlefield",
+      "description": "Kaya appears at the battlefield despite her poor health and the dangerous situation. She has learned the truth about Klahadore's real identity as Captain Kuro from Merry's revelation and comes to confront him directly.",
+      "significance": "Kaya's arrival represents a pivotal moment in her character development. Despite being portrayed as weak and sheltered, she shows courage by confronting her would-be murderer. This moment sets up the emotional climax of the arc.",
+      "characterIds": ["kaya", "kuro"],
+      "locationIds": ["syrup-village-coast"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [9, 10, 11],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep014-event-011",
+      "episodeNumber": 14,
+      "timestamp": "19:15",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Kaya Learns Klahadore's True Identity",
+      "description": "Through Merry's revelation, Kaya learns that her trusted butler Klahadore is actually Captain Kuro, the pirate who has been planning to kill her and steal her fortune. This devastating truth shatters her trust and forces her to confront the reality of her situation.",
+      "significance": "This revelation is the emotional core of the Syrup Village arc. It represents the betrayal of trust and the loss of innocence for Kaya, who must come to terms with the fact that someone she cared for deeply was plotting her murder all along.",
+      "characterIds": ["kaya", "kuro", "merry"],
+      "locationIds": ["syrup-village-coast"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [9, 10, 11, 12],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep014-event-012",
+      "episodeNumber": 14,
+      "timestamp": "20:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Kaya Apologizes to Usopp",
+      "description": "After learning the truth, Kaya apologizes to Usopp for not believing him when he tried to warn her about Kuro's true identity. She acknowledges that he was trying to protect her all along.",
+      "significance": "This moment validates Usopp's efforts and repairs their relationship. It shows Kaya's growth in character as she admits her mistake and recognizes Usopp's bravery, strengthening the bond between them.",
+      "characterIds": ["kaya", "usopp"],
+      "locationIds": ["syrup-village-coast"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [11, 12],
+      "payoffInEpisodes": [15],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep014-event-013",
+      "episodeNumber": 14,
+      "timestamp": "20:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Kaya Offers Her Fortune to Kuro",
+      "description": "In a desperate attempt to save Syrup Village and the people she cares about, Kaya offers to give Kuro her entire fortune if he agrees to leave the village peacefully. She is willing to sacrifice everything she owns to prevent bloodshed.",
+      "significance": "This selfless act demonstrates Kaya's nobility and compassion. Despite being betrayed, she still seeks a peaceful resolution and shows she values human life over material wealth. This establishes her character as fundamentally good-hearted.",
+      "characterIds": ["kaya", "kuro"],
+      "locationIds": ["syrup-village-coast"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep014-event-014",
+      "episodeNumber": 14,
+      "timestamp": "21:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Kuro Reveals His True Hatred and Plan",
+      "description": "Kuro rejects Kaya's offer and reveals the full extent of his deception. He confesses that his three years of infiltrating the village, building relationships, and appearing as a faithful servant were all part of an elaborate scheme. He describes their shared experiences as 'stupid things' and reveals he seeks both treasure and peace through anonymity, which requires eliminating all witnesses.",
+      "significance": "This is the most devastating moment of the arc, revealing the depth of Kuro's cruelty and calculating nature. His admission that every moment of kindness was a lie demonstrates his complete lack of empathy. This revelation cements Kuro as one of the most psychologically cruel villains in early One Piece.",
+      "characterIds": ["kuro", "kaya"],
+      "locationIds": ["syrup-village-coast"],
+      "quotes": [
+        {
+          "text": "Those three years were wasted time. All those stupid things we shared meant nothing.",
+          "speaker": "Kuro",
+          "context": "Kuro revealing his true feelings about his time as Klahadore"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [9, 10, 11],
+      "payoffInEpisodes": [15],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep014-event-015",
+      "episodeNumber": 14,
+      "timestamp": "23:00",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Luffy Intervenes and Punches Kuro",
+      "description": "When Usopp attempts to attack Kuro in anger over his treatment of Kaya, Luffy intervenes. He punches Kuro and declares that the villain will have a bad day for making him angry. This marks the beginning of the final confrontation between Luffy and Kuro.",
+      "significance": "This moment establishes Luffy as Kaya's true protector and sets up the climactic battle. Luffy's anger is not just about the physical threat, but about Kuro's emotional cruelty towards Kaya. It shows Luffy's strong sense of justice and his intolerance for those who hurt others.",
+      "characterIds": ["luffy", "kuro", "usopp"],
+      "locationIds": ["syrup-village-coast"],
+      "quotes": [
+        {
+          "text": "You're going to have a bad day for making me angry!",
+          "speaker": "Luffy",
+          "context": "Luffy declaring his intention to fight Kuro"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [13],
+      "payoffInEpisodes": [15],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["nukiashi", "tora-gari"]
+  },
+  "episodeRelationships": {
+    "setupFor": [15],
+    "payoffFrom": [9, 10, 11, 12, 13],
+    "thematicLinks": []
+  },
+  "quotes": [
+    {
+      "text": "I will kill everyone present if the Straw Hat Pirates are not dead in five minutes.",
+      "speaker": "Kuro",
+      "context": "Kuro's ultimatum to his crew upon arriving at the battlefield",
+      "timestamp": "03:45"
+    },
+    {
+      "text": "One, Two, Jango!",
+      "speaker": "Jango",
+      "context": "Jango's hypnotic command phrase used to enhance Buchi's strength",
+      "timestamp": "13:00"
+    },
+    {
+      "text": "Those three years were wasted time. All those stupid things we shared meant nothing.",
+      "speaker": "Kuro",
+      "context": "Kuro revealing his true feelings about his time as Klahadore to Kaya",
+      "timestamp": "21:30"
+    },
+    {
+      "text": "You're going to have a bad day for making me angry!",
+      "speaker": "Luffy",
+      "context": "Luffy declaring his intention to fight Kuro after witnessing his cruelty",
+      "timestamp": "23:00"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Betrayal and Trust",
+      "description": "The episode explores the devastating impact of betrayal through Kuro's revelation of his three-year deception. Kaya must confront the painful truth that someone she trusted completely was plotting her murder.",
+      "symbolism": "Kuro's dual identity as the gentle butler Klahadore and the ruthless pirate captain symbolizes the deceptive nature of appearances and the fragility of trust.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Courage in the Face of Despair",
+      "description": "Despite learning the horrifying truth about Kuro's betrayal, Kaya demonstrates remarkable courage by confronting him at the battlefield and attempting to negotiate for her village's safety.",
+      "symbolism": "Kaya's arrival at the battlefield despite her physical weakness represents the strength that comes from moral conviction and the desire to protect others.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Price of Ambition",
+      "description": "Kuro's elaborate three-year plan reveals the lengths to which he will go for wealth and anonymity, including deceiving and planning to murder an innocent girl. His ambition has completely stripped him of humanity.",
+      "symbolism": "The five-minute deadline Kuro imposes represents his cold, calculating nature and his view of people as mere obstacles to be eliminated efficiently.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Justice and Protection",
+      "description": "Luffy's intervention on Kaya's behalf demonstrates the core One Piece theme of protecting those who cannot protect themselves and standing up against cruelty and injustice.",
+      "symbolism": "Luffy's punch against Kuro symbolizes the triumph of genuine emotion and justice over cold calculation and cruelty.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Dramatic", "Heartbreaking", "Intense"],
+  "characterSpotlights": [
+    {
+      "characterId": "kaya",
+      "role": "Emotional center of the episode",
+      "development": "Kaya undergoes tremendous character growth, transforming from a sheltered, trusting girl into someone who must confront harsh reality. She learns that Klahadore, her trusted butler, is actually Captain Kuro plotting to kill her. Despite this devastating betrayal, she shows remarkable courage and selflessness.",
+      "keyActions": [
+        "Arrives at the battlefield despite her poor health",
+        "Learns the truth about Kuro from Merry's revelation",
+        "Apologizes to Usopp for not believing him",
+        "Offers her entire fortune to Kuro to save the village",
+        "Witnesses Kuro's complete rejection and cruel confession"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "kuro",
+      "role": "Primary antagonist",
+      "development": "Kuro's true nature is fully revealed in this episode. His arrival at the battlefield and subsequent confession to Kaya showcase his ruthlessness, strategic brilliance, and complete lack of empathy. The episode peels back the gentle butler facade to reveal the calculating pirate beneath.",
+      "keyActions": [
+        "Arrives at battlefield and gives five-minute ultimatum",
+        "Demonstrates Nukiashi technique showing his combat prowess",
+        "Rejects Kaya's offer of her fortune",
+        "Confesses that three years as her butler were all a deception",
+        "Reveals his plan requires both treasure and eliminating all witnesses"
+      ],
+      "quotes": ["I will kill everyone present if the Straw Hat Pirates are not dead in five minutes.", "Those three years were wasted time. All those stupid things we shared meant nothing."]
+    },
+    {
+      "characterId": "zoro",
+      "role": "Combat specialist",
+      "development": "Despite being injured, Zoro demonstrates his growth as a swordsman by debuting the Tora Gari technique. He shows tactical awareness by recovering his swords and decisively defeating the Nyaban Brothers.",
+      "keyActions": [
+        "Receives his three swords back from Nami",
+        "Debuts Tora Gari technique",
+        "Defeats both Sham and Buchi with one strike",
+        "Continues fighting despite injuries"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "luffy",
+      "role": "Hero awakening",
+      "development": "Luffy awakens at the critical moment and immediately grasps the situation. His anger at Kuro's treatment of Kaya shows his strong sense of justice and establishes him as her protector.",
+      "keyActions": [
+        "Awakens when Nami steps on his face",
+        "Casually removes Jango's chakram from his head",
+        "Witnesses Kuro's cruel confession to Kaya",
+        "Punches Kuro and declares he will have a bad day",
+        "Establishes himself as Kaya's defender"
+      ],
+      "quotes": ["You're going to have a bad day for making me angry!"]
+    },
+    {
+      "characterId": "nami",
+      "role": "Tactical support",
+      "development": "Nami shows her growing loyalty to the crew by retrieving Zoro's swords and attempting to wake Luffy. Her actions demonstrate increasing trust and cooperation with her allies.",
+      "keyActions": [
+        "Retrieves Zoro's three swords from the Nyaban Brothers",
+        "Attempts to wake Luffy",
+        "Accidentally steps on Luffy's face, waking him up"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime may have extended some battle sequences and reactions for pacing compared to the manga chapters 33-34.",
+      "episodeTimestamp": "Various",
+      "mangaReference": "Chapters 33-34",
+      "type": "PACING_CHANGE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode adapts manga chapters 33-34, titled 'The Man Who Makes No Sound' and 'Butler Klahadore' respectively.",
+      "category": "MANGA_ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_14",
+          "title": "Episode 14 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Tora Gari (Tiger Trap) is one of Zoro's signature Three-Sword Style techniques and makes its debut in this episode. The name combines the Japanese words for tiger (tora) and hunt (gari).",
+      "category": "TECHNIQUE",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_14",
+          "title": "Episode 14 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Nukiashi is a real Japanese martial arts term referring to a silent walking technique, perfectly fitting Kuro's cat-themed motif and stealth-based fighting style.",
+      "category": "CULTURAL_REFERENCE",
+      "sources": []
+    },
+    {
+      "fact": "The episode's screenplay was written by Junki Takegami, who wrote many early One Piece episodes and contributed significantly to adapting the East Blue Saga.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_14",
+          "title": "Episode 14 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Kuro's character represents one of the earliest explorations of psychological villainy in One Piece, with his three-year deception being notably cruel compared to more straightforward villains like Alvida or Buggy.",
+      "category": "CHARACTER",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
