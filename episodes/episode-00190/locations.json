@@ -1,0 +1,120 @@
+[
+  {
+    "name": {
+      "english": "Angel Island",
+      "japanese": "エンジェル島",
+      "romanized": "Enjeru-tou"
+    },
+    "type": "ISLAND",
+    "debutEpisode": 153,
+    "episodeAppearances": [190],
+    "keyEvents": [
+      {
+        "episodeNumber": 190,
+        "eventId": "ep190-event-003",
+        "eventType": "LOCATION_DEPARTURE",
+        "title": "Complete Destruction of Angel Island",
+        "description": "Angel Island is completely obliterated by Enel's Raigo attack, leaving only a massive crater in the clouds. The entire city and countless lives are lost in seconds.",
+        "significance": "Marks the end of Angel Island as a populated location and serves as one of the darkest moments in the series, demonstrating the catastrophic consequences of Enel's power.",
+        "timestamp": "12:20"
+      }
+    ],
+    "status": "DESTROYED",
+    "statusHistory": [
+      {
+        "status": "INHABITED",
+        "episodeStart": 153,
+        "episodeEnd": 189
+      },
+      {
+        "status": "DESTROYED",
+        "episodeStart": 190,
+        "episodeEnd": null
+      }
+    ],
+    "geography": {
+      "region": "White Sea, Skypiea",
+      "description": "Angel Island was the main inhabited island in the White Sea of Skypiea, home to the Skypiean people. It featured the settlement of Angel Beach and the city of Lovely Street before its destruction."
+    },
+    "population": "Skypiean citizens (hundreds to thousands killed)",
+    "reveals": [
+      {
+        "infoType": "STATUS_CHANGE",
+        "information": "Angel Island is completely destroyed by Enel's Raigo",
+        "episodeRevealed": 190,
+        "severity": "CRITICAL"
+      }
+    ]
+  },
+  {
+    "name": {
+      "english": "Skypiea",
+      "japanese": "スカイピア",
+      "romanized": "Sukaipia"
+    },
+    "type": "SKY_ISLAND",
+    "debutEpisode": 144,
+    "episodeAppearances": [190],
+    "keyEvents": [
+      {
+        "episodeNumber": 190,
+        "eventId": "ep190-event-007",
+        "eventType": "PROPHECY_FORESHADOWING",
+        "title": "Threatened with Total Destruction",
+        "description": "Enel reveals his plan to create an even larger Raigo to destroy all of Skypiea once he obtains the Golden Bell.",
+        "significance": "Escalates the threat from one island to the entire sky nation, establishing the urgent need to stop Enel.",
+        "timestamp": "10:15"
+      },
+      {
+        "episodeNumber": 190,
+        "eventId": "ep190-event-004",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Unity Through Shared Tragedy",
+        "description": "Skypieans and Shandians grieve together over their mutual losses, beginning to bridge the 400-year divide between the two peoples.",
+        "significance": "First significant moment of unity between the warring factions, showing how shared suffering can heal old wounds.",
+        "timestamp": "14:50"
+      }
+    ],
+    "status": "ACTIVE",
+    "geography": {
+      "region": "White Sea, 10,000 meters above the Blue Sea",
+      "description": "Skypiea is a sky island nation located in the White Sea at 10,000 meters above sea level. It consists of several islands connected by clouds, including Angel Island (now destroyed), Upper Yard, and various other cloud formations."
+    },
+    "population": "Thousands of Skypiean citizens and Shandian warriors",
+    "reveals": []
+  },
+  {
+    "name": {
+      "english": "Giant Jack",
+      "japanese": "ジャイアント・ジャック",
+      "romanized": "Jaianto Jakku"
+    },
+    "type": "NATURAL_LANDMARK",
+    "debutEpisode": 173,
+    "episodeAppearances": [190],
+    "keyEvents": [
+      {
+        "episodeNumber": 190,
+        "eventId": "ep190-event-001",
+        "eventType": "WORLD_LORE",
+        "title": "Revealed as Location of Golden Bell",
+        "description": "Robin reveals to Wyper that the Golden Bell sits atop Giant Jack, the massive beanstalk that connects Upper Yard to the sky above.",
+        "significance": "Provides the first concrete evidence of the Golden Bell's location after 400 years of searching, validating Noland's historical account and giving hope to Cricket and the Shandians.",
+        "timestamp": "05:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "geography": {
+      "region": "Upper Yard, Skypiea",
+      "description": "Giant Jack is an enormous beanstalk that extends from Upper Yard high into the sky. At its summit sits the city of gold Shandora, including the legendary Golden Bell that Noland and Kalgara once rang together."
+    },
+    "reveals": [
+      {
+        "infoType": "LOCATION",
+        "information": "The Golden Bell is located at the top of Giant Jack",
+        "episodeRevealed": 190,
+        "severity": "MAJOR"
+      }
+    ]
+  }
+]

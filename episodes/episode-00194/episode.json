@@ -1,0 +1,566 @@
+{
+  "episodeNumber": 194,
+  "episodeTitle": "I Made it Here! The Yarn the Poneglyphs Spin!",
+  "episodeTitleJapanese": "我ここに至る！歴史の本文（ポーネグリフ）が紡ぐもの",
+  "episodeTitleRomanized": "Ware koko ni Itaru! Pōnegurifu ga Tsumugu Mono",
+  "description": "Robin successfully deciphers the ancient Poneglyphs at the Golden Bell's base and discovers a profound message left by Gol D. Roger. Gan Fall reveals that the Pirate King visited Skypiea over twenty years ago. The Shandia, grateful for the crew's help, offer a golden pillar fragment as thanks, but the Straw Hats mistake it for a weapon and flee in panic.",
+  "airDate": "2004-06-06",
+  "airDateJapan": "2004-06-06",
+  "airDateUS": "2009-01-06",
+  "airDateUSFunimation": "2009-01-06",
+  "arcName": "Skypiea",
+  "sagaName": "Sky Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "BON VOYAGE!",
+    "titleJapanese": "BON VOYAGE!",
+    "artist": "Bon-Bon Blanco",
+    "composer": "Bon-Bon Blanco",
+    "lyricist": "Bon-Bon Blanco",
+    "episodeRange": [169, 206]
+  },
+  "endingSong": {
+    "title": "Tsuki to Taiyo",
+    "titleJapanese": "月と太陽",
+    "artist": "shela",
+    "composer": "shela",
+    "lyricist": "shela",
+    "episodeRange": [182, 195]
+  },
+  "credits": {
+    "director": "Junichi Fujise",
+    "screenplay": "Hirohiko Kamisaka",
+    "artDirector": "Miyuki Sato, Kumiko Fukuzawa",
+    "animationDirector": "Kenji Yokoyama",
+    "storyboard": "Junichi Fujise",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Gan Fall",
+        "actor": "Masaharu Sato"
+      },
+      {
+        "character": "Wyper",
+        "actor": "Masaki Aizawa"
+      },
+      {
+        "character": "Aisa",
+        "actor": "Rieko Takahashi"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Gan Fall",
+        "actor": "R. Bruce Elliott"
+      },
+      {
+        "character": "Wyper",
+        "actor": "Andrew Love"
+      },
+      {
+        "character": "Aisa",
+        "actor": "Jad Saxton"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep194-event-001",
+      "episodeNumber": 194,
+      "timestamp": "04:15",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Robin Deciphers the Shandorian Poneglyph",
+      "description": "Robin reads the ancient text inscribed on the Poneglyph at the base of the Golden Bell. She reveals to the Shandians that it contains information about Poseidon, one of the Ancient Weapons, and provides its location. However, this is not the information Robin was seeking.",
+      "significance": "First reveal of Poseidon as one of the Ancient Weapons in the series. This Poneglyph is crucial to the overarching mystery of One Piece and the True History. Robin's ability to read Poneglyphs makes her uniquely valuable and dangerous to the World Government.",
+      "characterIds": ["robin", "wyper", "gan-fall"],
+      "locationIds": ["golden-bell", "shandora"],
+      "itemIds": ["shandorian-poneglyph"],
+      "quotes": [
+        {
+          "text": "This Poneglyph tells of the location of Poseidon, one of the Ancient Weapons.",
+          "speaker": "Robin",
+          "context": "Robin reveals what the Poneglyph contains to the Shandians"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [174, 188, 193],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [125, 126]
+    },
+    {
+      "id": "ep194-event-002",
+      "episodeNumber": 194,
+      "timestamp": "06:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "CRITICAL",
+      "title": "Discovery of Gol D. Roger's Message",
+      "description": "As Robin begins to leave, a Shandian warrior points out ancient writing carved into the Golden Bell itself that she had missed. Robin reads the inscription and is shocked to see it is signed by 'Gol D. Roger' - the Pirate King himself left a message here over twenty years ago.",
+      "significance": "Monumental revelation that connects the Pirate King to Skypiea and the Poneglyphs. This is the first direct evidence in the series that Roger reached Skypiea and understood something about the True History. It establishes a parallel between Luffy's journey and Roger's path to becoming Pirate King.",
+      "characterIds": ["robin"],
+      "locationIds": ["golden-bell"],
+      "quotes": [
+        {
+          "text": "Gol D. Roger...? The Pirate King was here?!",
+          "speaker": "Robin",
+          "context": "Robin's shocked reaction upon reading Roger's signature"
+        },
+        {
+          "text": "I made it here and I will guide this passage all the way to the farthest ends of the earth. The stormiest seas will not stop me. - Pirate Gol D. Roger",
+          "speaker": "Robin",
+          "context": "Robin reads Roger's message carved on the Golden Bell"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep194-event-003",
+      "episodeNumber": 194,
+      "timestamp": "08:45",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Gan Fall Reveals Roger's Visit to Skypiea",
+      "description": "Gan Fall tells Robin that he personally met Gol D. Roger when the Pirate King visited Sky Island over twenty years ago. He explains that Roger possessed the ability to 'hear the voice of all things' but could not actually read or write the ancient language of the Poneglyphs.",
+      "significance": "Critical world-building moment that reveals Roger's unique ability and establishes that someone helped him understand the Poneglyphs despite not being able to read them. This foreshadows the later revelation about Kozuki Oden traveling with Roger. Gan Fall's testimony as a witness to Roger's journey adds legitimacy to the legend.",
+      "characterIds": ["gan-fall", "robin"],
+      "locationIds": ["shandora"],
+      "quotes": [
+        {
+          "text": "I met Roger when he came to this island over twenty years ago. He could hear the voice of all things, but he could not read the ancient writing.",
+          "speaker": "Gan Fall",
+          "context": "Gan Fall shares his memories of Roger's visit"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep194-event-004",
+      "episodeNumber": 194,
+      "timestamp": "10:20",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Robin Realizes the Connection to Rio Poneglyph",
+      "description": "Robin deduces from Roger's message that the Poneglyphs are meant to be connected and guide readers to a final destination. She realizes that Roger took the information from this Poneglyph and continued his journey, likely finding the Rio Poneglyph - the true Poneglyph that reveals the complete True History.",
+      "significance": "Major advancement in understanding how the Poneglyphs work as a system. Robin's deduction that there is a 'Rio Poneglyph' (the true Poneglyph) at the end of the journey is crucial to understanding the series' endgame. This explains why Roger reached Laugh Tale and what Robin is ultimately searching for.",
+      "characterIds": ["robin", "wyper"],
+      "locationIds": ["shandora"],
+      "itemIds": ["shandorian-poneglyph"],
+      "quotes": [
+        {
+          "text": "The Poneglyphs are meant to be connected... Roger must have taken this information to where the Rio Poneglyph is located.",
+          "speaker": "Robin",
+          "context": "Robin's realization about how the Poneglyphs function as a system"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [174],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [125, 126]
+    },
+    {
+      "id": "ep194-event-005",
+      "episodeNumber": 194,
+      "timestamp": "12:00",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Robin Tells Wyper the Shandians' Duty is Fulfilled",
+      "description": "Robin explains to Wyper, the Shandian warrior, that their ancestors' 400-year duty to protect the Poneglyph has been fulfilled. Roger already took the information from this Poneglyph to its intended destination, meaning the Shandians' sacred mission has been completed.",
+      "significance": "Provides closure to the Shandian storyline and their centuries-long conflict. The revelation that their ancestors' duty has been fulfilled gives meaning to their 400-year war. Shows Robin's empathy and understanding of history's importance.",
+      "characterIds": ["robin", "wyper"],
+      "locationIds": ["shandora"],
+      "itemIds": ["shandorian-poneglyph"],
+      "quotes": [
+        {
+          "text": "Your ancestors' duty to protect this Poneglyph has been fulfilled. Roger brought its message to where it needed to go.",
+          "speaker": "Robin",
+          "context": "Robin provides closure to the Shandians"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [188, 191],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [188]
+    },
+    {
+      "id": "ep194-event-006",
+      "episodeNumber": 194,
+      "timestamp": "14:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "The Shandia Offer a Golden Pillar as Thanks",
+      "description": "The grateful Shandia, led by their warriors, present the Straw Hat Pirates with a broken golden pillar from the Golden Belfry as a token of appreciation for helping end the 400-year war and defeat Enel. The massive golden column is carefully wrapped for transport.",
+      "significance": "Demonstrates the bond formed between the Straw Hats and the Shandians. The golden pillar represents both the treasure of Skypiea and the friendship earned through their actions. This gift will help fund the crew's future adventures.",
+      "characterIds": ["wyper", "aisa", "luffy", "nami", "zoro", "sanji", "usopp", "chopper", "robin"],
+      "locationIds": ["shandora"],
+      "quotes": [
+        {
+          "text": "Please accept this as a token of our gratitude. You've ended our 400-year war.",
+          "speaker": "Wyper",
+          "context": "Wyper presenting the golden pillar to the Straw Hats"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [191, 192, 193],
+      "payoffInEpisodes": [195],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep194-event-007",
+      "episodeNumber": 194,
+      "timestamp": "16:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "The Straw Hats Mistake the Golden Pillar for a Cannon",
+      "description": "When Robin approaches the Straw Hat Pirates with the wrapped golden pillar, the crew sees the large cylindrical object and immediately panic, thinking it's a massive cannon being aimed at them. They scatter in terror before Robin can explain, leading to a comedic chase scene.",
+      "significance": "Classic One Piece comedic moment that provides levity after the serious revelations. Shows the crew's paranoid mindset after their battles in Skypiea. Demonstrates the communication gap that often occurs in the crew's chaotic dynamics.",
+      "characterIds": ["luffy", "nami", "zoro", "sanji", "usopp", "chopper", "robin"],
+      "locationIds": ["shandora"],
+      "quotes": [
+        {
+          "text": "IT'S A GIANT CANNON! RUN!!!",
+          "speaker": "Usopp",
+          "context": "Usopp's panicked misinterpretation of the wrapped golden pillar"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [195],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep194-event-008",
+      "episodeNumber": 194,
+      "timestamp": "03:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Robin Reflects on Her Journey",
+      "description": "As Robin approaches the Golden Bell, she reflects on her long journey searching for the True History and her hope that the Poneglyphs will reveal the answers she seeks about the Void Century and her mother's research.",
+      "significance": "Provides insight into Robin's motivations and emotional state. Her quest to find the True History is deeply personal, connected to her mother's legacy and her own survival. This moment humanizes Robin's scholarly pursuit.",
+      "characterIds": ["robin"],
+      "locationIds": ["shandora", "golden-bell"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [67, 125, 126],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [67, 125]
+    },
+    {
+      "id": "ep194-event-009",
+      "episodeNumber": 194,
+      "timestamp": "18:00",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MAJOR",
+      "title": "Robin Contemplates Roger's Journey to Laugh Tale",
+      "description": "After learning about Roger's message and journey, Robin stands quietly contemplating the path ahead. She realizes that the Straw Hats are following in Roger's footsteps, and wonders if Luffy will reach the same destination that made the Pirate King laugh.",
+      "significance": "Foreshadows the parallel between Luffy's journey and Roger's legendary adventure. Plants the seeds for the eventual revelation of Laugh Tale and what Roger discovered there. Shows Robin beginning to see the significance of traveling with Luffy.",
+      "characterIds": ["robin"],
+      "locationIds": ["shandora"],
+      "quotes": [
+        {
+          "text": "Are we following the same path Roger took? Will we reach the same place he did?",
+          "speaker": "Robin",
+          "context": "Robin's internal monologue about Roger's journey"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": [],
+    "items": []
+  },
+  "episodeRelationships": {
+    "setupFor": [195, 967],
+    "payoffFrom": [174, 188, 191, 192, 193],
+    "thematicLinks": [125, 126, 301, 400, 966, 967]
+  },
+  "quotes": [
+    {
+      "text": "This Poneglyph tells of the location of Poseidon, one of the Ancient Weapons.",
+      "speaker": "Robin",
+      "context": "Robin reveals what the Poneglyph contains",
+      "timestamp": "04:15"
+    },
+    {
+      "text": "I made it here and I will guide this passage all the way to the farthest ends of the earth. The stormiest seas will not stop me. - Pirate Gol D. Roger",
+      "speaker": "Robin",
+      "context": "Reading Roger's message on the Golden Bell",
+      "timestamp": "06:30"
+    },
+    {
+      "text": "I met Roger when he came to this island over twenty years ago. He could hear the voice of all things, but he could not read the ancient writing.",
+      "speaker": "Gan Fall",
+      "context": "Gan Fall shares memories of Roger's visit",
+      "timestamp": "08:45"
+    },
+    {
+      "text": "Your ancestors' duty to protect this Poneglyph has been fulfilled. Roger brought its message to where it needed to go.",
+      "speaker": "Robin",
+      "context": "Robin provides closure to the Shandians",
+      "timestamp": "12:00"
+    },
+    {
+      "text": "IT'S A GIANT CANNON! RUN!!!",
+      "speaker": "Usopp",
+      "context": "Misinterpreting the wrapped golden pillar",
+      "timestamp": "16:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Legacy and History",
+      "description": "The episode explores how the past shapes the present and future. Roger's message from 20 years ago provides crucial guidance for the current generation. The Shandians' 400-year duty has been fulfilled, giving meaning to their ancestors' sacrifices.",
+      "symbolism": "The Poneglyph represents forbidden knowledge passed down through ages. Roger's carved message symbolizes leaving a mark on history for future generations to find. The Golden Bell serves as a bridge between past and present.",
+      "culturalReferences": ["Time capsule messages", "Archaeological discoveries", "Ancestral duties and obligations"]
+    },
+    {
+      "theme": "Inherited Will",
+      "description": "Roger's journey foreshadows Luffy's path. The parallel between the Pirate King's adventure and the Straw Hats' journey suggests that certain wills are passed down through generations. Robin follows her mother's research, continuing her legacy.",
+      "symbolism": "Roger's message acts as a torch being passed to the next generation of pirates. The Poneglyph's information being carried forward represents knowledge being inherited and preserved.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Weight of Knowledge",
+      "description": "Robin's ability to read Poneglyphs is both a gift and a burden. The revelation of Poseidon's location demonstrates the dangerous nature of ancient knowledge. Understanding the True History comes with responsibility and risk.",
+      "symbolism": "The ancient language represents forbidden knowledge that the World Government fears. Robin carrying this knowledge makes her both valuable and endangered.",
+      "culturalReferences": ["Forbidden knowledge in mythology", "The burden of truth"]
+    },
+    {
+      "theme": "Fulfillment and Purpose",
+      "description": "The Shandians learn their ancestors' mission has been completed, providing closure and purpose to their 400-year war. Robin gains insight into her own quest for the True History, understanding the path ahead more clearly.",
+      "symbolism": "The completed duty of protecting the Poneglyph symbolizes a generational mission fulfilled. The golden pillar gift represents gratitude and the end of an era.",
+      "culturalReferences": ["Generational duties", "Ancestral missions"]
+    }
+  ],
+  "emotionalTone": ["Mysterious", "Revelatory", "Contemplative", "Comedic", "Profound"],
+  "characterSpotlights": [
+    {
+      "characterId": "robin",
+      "role": "Episode protagonist",
+      "development": "Robin experiences a pivotal moment in her quest for the True History. She deciphers the Shandorian Poneglyph, discovers Roger's message, and gains crucial understanding of how the Poneglyphs connect to the Rio Poneglyph. Her conversation with Gan Fall provides new insight into Roger's journey, drawing parallels to her own path with the Straw Hats.",
+      "keyActions": [
+        "Deciphers the Shandorian Poneglyph revealing Poseidon's location",
+        "Discovers Gol D. Roger's message on the Golden Bell",
+        "Learns from Gan Fall about Roger's visit to Skypiea",
+        "Deduces the connection between Poneglyphs and the Rio Poneglyph",
+        "Tells the Shandians their ancestral duty is fulfilled",
+        "Contemplates following Roger's path with the Straw Hats"
+      ],
+      "quotes": [
+        "This Poneglyph tells of the location of Poseidon, one of the Ancient Weapons.",
+        "Gol D. Roger...? The Pirate King was here?!",
+        "I made it here and I will guide this passage all the way to the farthest ends of the earth. The stormiest seas will not stop me. - Pirate Gol D. Roger",
+        "Your ancestors' duty to protect this Poneglyph has been fulfilled. Roger brought its message to where it needed to go.",
+        "Are we following the same path Roger took? Will we reach the same place he did?"
+      ]
+    },
+    {
+      "characterId": "gan-fall",
+      "role": "Supporting character - Historical witness",
+      "development": "Gan Fall serves as a living connection to Roger's era, providing crucial testimony about the Pirate King's visit to Skypiea. His memories help contextualize Roger's abilities and journey, bridging the past and present.",
+      "keyActions": [
+        "Reveals he met Gol D. Roger 20+ years ago",
+        "Explains Roger's ability to hear the voice of all things",
+        "Clarifies that Roger could not read the ancient writing"
+      ],
+      "quotes": [
+        "I met Roger when he came to this island over twenty years ago. He could hear the voice of all things, but he could not read the ancient writing."
+      ]
+    },
+    {
+      "characterId": "wyper",
+      "role": "Supporting character - Shandian representative",
+      "development": "Wyper learns that his people's 400-year mission has been fulfilled, providing closure and peace. He represents the Shandians in expressing gratitude to the Straw Hats.",
+      "keyActions": [
+        "Listens to Robin's explanation about the Poneglyph",
+        "Learns the Shandians' ancestral duty is complete",
+        "Presents the golden pillar as thanks to the Straw Hats"
+      ],
+      "quotes": [
+        "Please accept this as a token of our gratitude. You've ended our 400-year war."
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime expands Roger's message compared to the manga. The manga has a shorter version: 'We came here, found the text, and followed its guidance.' The anime adds more poetic language about guiding the passage to the farthest ends of the earth.",
+      "episodeTimestamp": "06:30",
+      "mangaReference": "Chapter 301",
+      "type": "DIALOGUE_CHANGE"
+    },
+    {
+      "difference": "The comedic scene where the Straw Hats mistake the golden pillar for a cannon is extended in the anime for comedic effect, with more reaction shots and chase sequences.",
+      "episodeTimestamp": "16:45",
+      "mangaReference": "Chapter 301",
+      "type": "EXPANDED_SCENE"
+    },
+    {
+      "difference": "The anime includes additional flashback imagery when Gan Fall mentions Roger, though Roger's face remains obscured in these flashbacks to maintain mystery.",
+      "episodeTimestamp": "08:45",
+      "mangaReference": "Chapter 301",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the first time in the series that Gol D. Roger is directly connected to the Poneglyphs, establishing that he successfully navigated the system to reach Laugh Tale.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_194",
+          "title": "Episode 194 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The revelation that Roger could 'hear the voice of all things' is the first mention of this ability in the anime, which later becomes important for understanding how Roger navigated to Laugh Tale despite not being able to read Poneglyphs.",
+      "category": "WORLDBUILDING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_194",
+          "title": "Episode 194 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode covers Chapter 301 of the manga (pages 2-19), which is considered one of the most important chapters in the Skypiea arc for advancing the overarching plot.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chapter_301",
+          "title": "Chapter 301 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 194 achieved an 11.7% TV rating in Japan and ranked 4th in viewership for its timeslot, reflecting strong audience interest in this pivotal episode.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_194",
+          "title": "Episode 194 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This is the second-to-last episode to feature 'Tsuki to Taiyo' by shela as the ending theme. The song would be replaced starting with Episode 196.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Tsuki_to_Taiyo",
+          "title": "Tsuki to Taiyo - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The eyecatcher for this episode features Luffy and Robin together, symbolically representing the connection between Luffy's inherited will from Roger and Robin's quest to uncover the True History.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_194",
+          "title": "Episode 194 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The true author of Roger's message is later revealed to be Kozuki Oden, who traveled with Roger and could both read and write the ancient language. This is revealed much later in the series during the Wano arc.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://anime.stackexchange.com/questions/21108/who-wrote-the-passage-on-the-poneglyph-at-skypiea",
+          "title": "Who wrote the passage on the Poneglyph at Skypiea? - Anime & Manga Stack Exchange",
+          "platform": "Stack Exchange",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Poseidon, mentioned in this episode as one of the Ancient Weapons, is later revealed to be Princess Shirahoshi of Fish-Man Island, connecting this Skypiea revelation to future arcs.",
+      "category": "STORY",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
