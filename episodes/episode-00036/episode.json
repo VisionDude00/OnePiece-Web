@@ -1,0 +1,468 @@
+{
+  "episodeNumber": 36,
+  "episodeTitle": "Survive! The Mother Bellemère and Nami's Family!",
+  "episodeTitleJapanese": "生き抜け！母ベルメールとナミの絆！",
+  "episodeTitleRomanized": "Ikinuke! Haha Berumēru to Nami no kizuna!",
+  "description": "Nami's tragic past is revealed through flashback. Eight years ago, the Arlong Pirates arrived at Cocoyasi Village demanding tribute. Bellemère, Nami and Nojiko's adoptive mother, could only afford to pay for her daughters. Rather than deny their existence as her family, she paid for them and sacrificed herself. Arlong killed Bellemère and forced young Nami to become his cartographer. In the present, Nami's eight years of savings to buy back her village are seized by corrupt Marine Captain Nezumi.",
+  "airDate": "2000-08-09",
+  "airDateJapan": "2000-08-09",
+  "airDateUS": "2005-04-13",
+  "arcName": "Arlong Park",
+  "sagaName": "East Blue Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Are!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [1, 47]
+  },
+  "endingSong": {
+    "title": "RUN! RUN! RUN!",
+    "artist": "Maki Otsuki",
+    "episodeRange": [31, 63]
+  },
+  "credits": {
+    "animationDirector": "Kazuya Hisada",
+    "director": "Kōnosuke Uda",
+    "screenplay": "Michiru Shimada",
+    "artDirector": "Yuri Sanami",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Bellemère",
+        "actor": "Noriko Hidaka"
+      },
+      {
+        "character": "Nojiko",
+        "actor": "Wakana Yamazaki"
+      },
+      {
+        "character": "Arlong",
+        "actor": "Jūrōta Kosugi"
+      },
+      {
+        "character": "Genzo",
+        "actor": "Kōzō Shioya"
+      },
+      {
+        "character": "Nezumi",
+        "actor": "Tomomichi Nishimura"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Bella Hudson (4Kids)"
+      },
+      {
+        "character": "Nami",
+        "actor": "Kerry Williams (4Kids)"
+      },
+      {
+        "character": "Bellemère",
+        "actor": "Veronica Taylor (4Kids)"
+      },
+      {
+        "character": "Nojiko",
+        "actor": "Tiffany Grant (4Kids)"
+      },
+      {
+        "character": "Arlong",
+        "actor": "David Wills (4Kids)"
+      },
+      {
+        "character": "Genzo",
+        "actor": "Marc Diraison (4Kids)"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep036-event-001",
+      "episodeNumber": 36,
+      "timestamp": "03:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Bellemère's First Appearance",
+      "description": "Through flashback, we see Bellemère, Nami and Nojiko's adoptive mother, living peacefully with them in Cocoyasi Village eight years before the present. She is shown as a caring mother running a tangerine grove.",
+      "significance": "Introduces one of the most beloved parental figures in One Piece, whose sacrifice becomes a defining moment for Nami's character.",
+      "characterIds": ["bellemere", "nami", "nojiko"],
+      "locationIds": ["cocoyasi-village", "bellemere-tangerine-grove"],
+      "quotes": [
+        {
+          "text": "You two are my treasure.",
+          "speaker": "Bellemère",
+          "context": "Bellemère expressing her love for Nami and Nojiko"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [35],
+      "payoffInEpisodes": [37],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep036-event-002",
+      "episodeNumber": 36,
+      "timestamp": "07:20",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "CRITICAL",
+      "title": "Arlong Pirates Arrive at Cocoyasi Village",
+      "description": "Eight years ago, the Arlong Pirates arrive at Cocoyasi Village for the first time, demanding tribute from every resident - 100,000 berries for adults and 50,000 berries for children.",
+      "significance": "The arrival that changes the village's fate forever and sets in motion the tragic events that define Nami's backstory.",
+      "characterIds": ["arlong", "kuroobi", "choo", "hatchan"],
+      "locationIds": ["cocoyasi-village"],
+      "crewIds": ["arlong-pirates"],
+      "quotes": [
+        {
+          "text": "100,000 berries per adult, 50,000 per child. Those who cannot pay will die.",
+          "speaker": "Arlong",
+          "context": "Arlong's cruel tribute system"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [31, 35],
+      "payoffInEpisodes": [37, 39, 44],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep036-event-003",
+      "episodeNumber": 36,
+      "timestamp": "10:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Bellemère's Impossible Choice",
+      "description": "Bellemère only has 100,000 berries saved, enough for either herself or her two daughters. She must choose between saving herself by denying Nami and Nojiko are her children, or sacrificing herself to protect them.",
+      "significance": "The pivotal moral choice that defines Bellemère's character and demonstrates the power of familial love over blood relation.",
+      "characterIds": ["bellemere", "nami", "nojiko", "arlong", "genzo"],
+      "locationIds": ["bellemere-house"],
+      "quotes": [
+        {
+          "text": "I can't do that. I can't pretend they're not my daughters.",
+          "speaker": "Bellemère",
+          "context": "Genzo suggesting she hide Nami and Nojiko to save money"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [37],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep036-event-004",
+      "episodeNumber": 36,
+      "timestamp": "13:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "How Bellemère Found Nami and Nojiko",
+      "description": "Bellemère recalls finding infant Nami and young Nojiko as orphans in a war-torn battlefield years earlier. Despite being wounded herself, she adopted them and brought them to Cocoyasi Village.",
+      "significance": "Reveals that Nami and Nojiko are not Bellemère's biological children, making her sacrifice even more meaningful as pure, unconditional love.",
+      "characterIds": ["bellemere", "nami", "nojiko"],
+      "locationIds": [],
+      "quotes": [
+        {
+          "text": "The second I saw you two crying there, I knew. You gave me a reason to survive.",
+          "speaker": "Bellemère",
+          "context": "Bellemère's memory of finding the girls"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep036-event-005",
+      "episodeNumber": 36,
+      "timestamp": "16:45",
+      "eventType": "DEATH",
+      "severity": "CRITICAL",
+      "title": "Bellemère's Death",
+      "description": "Bellemère pays the 100,000 berries for Nami and Nojiko, declaring them as her daughters. With no money left for herself, Arlong shoots and kills her in front of her daughters. Her last words are 'I love you' to Nami and Nojiko.",
+      "significance": "One of the most emotionally devastating deaths in One Piece, this moment cements Nami's motivation and trauma. It showcases the cruelty of Arlong and the depth of a mother's love.",
+      "characterIds": ["bellemere", "arlong", "nami", "nojiko", "genzo"],
+      "locationIds": ["bellemere-house"],
+      "crewIds": ["arlong-pirates"],
+      "quotes": [
+        {
+          "text": "Nami... Nojiko... I love you.",
+          "speaker": "Bellemère",
+          "context": "Bellemère's final words before being killed"
+        },
+        {
+          "text": "You don't have enough money for yourself. That means you die.",
+          "speaker": "Arlong",
+          "context": "Arlong before executing Bellemère"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [35],
+      "payoffInEpisodes": [37, 38, 39],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep036-event-006",
+      "episodeNumber": 36,
+      "timestamp": "18:20",
+      "eventType": "CREW_JOIN",
+      "severity": "MAJOR",
+      "title": "Arlong Forces Nami to Join His Crew",
+      "description": "After killing Bellemère, Arlong recognizes young Nami's talent for cartography. He forces her to join the Arlong Pirates as their navigator and map maker, promising she can buy back the village's freedom for 100 million berries.",
+      "significance": "Establishes the cruel arrangement that has defined Nami's life for eight years and explains why she initially betrays the Straw Hats.",
+      "characterIds": ["arlong", "nami"],
+      "crewIds": ["arlong-pirates"],
+      "quotes": [
+        {
+          "text": "Your talent for maps is extraordinary. You will draw maps for me. When you bring me 100 million berries, I'll sell you this village back.",
+          "speaker": "Arlong",
+          "context": "Arlong's 'deal' with young Nami"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [31, 33],
+      "payoffInEpisodes": [37, 39],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep036-event-007",
+      "episodeNumber": 36,
+      "timestamp": "19:45",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Nami's Eight Years of Servitude",
+      "description": "The episode reveals that Nami has spent eight years working for Arlong, stealing treasure and drawing maps, all to accumulate 100 million berries to buy back her village's freedom.",
+      "significance": "Explains Nami's actions throughout the arc and builds sympathy for her desperate situation.",
+      "characterIds": ["nami", "arlong"],
+      "locationIds": ["arlong-park"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [31, 33, 35],
+      "payoffInEpisodes": [37],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep036-event-008",
+      "episodeNumber": 36,
+      "timestamp": "20:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Captain Nezumi's First Appearance",
+      "description": "In the present day, corrupt Marine Captain Nezumi arrives at Cocoyasi Village on a tip from Arlong to confiscate Nami's hidden treasure.",
+      "significance": "Introduces a corrupt Marine officer who represents the failure of justice in the East Blue, adding another layer to Nami's hopeless situation.",
+      "characterIds": ["nezumi"],
+      "locationIds": ["cocoyasi-village"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [37, 45],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep036-event-009",
+      "episodeNumber": 36,
+      "timestamp": "21:15",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Nezumi and Arlong's Corruption Revealed",
+      "description": "It is revealed that Captain Nezumi has been in Arlong's pocket, receiving bribes to ignore Arlong's activities and help him maintain control over the region.",
+      "significance": "Shows the depth of corruption preventing justice, demonstrating that even the Marines cannot be trusted to help the villagers.",
+      "characterIds": ["nezumi", "arlong"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [37, 45],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep036-event-010",
+      "episodeNumber": 36,
+      "timestamp": "22:30",
+      "eventType": "TREASURE_DISCOVERY",
+      "severity": "CRITICAL",
+      "title": "Nezumi Seizes Nami's Treasure",
+      "description": "Nezumi and his Marines discover and confiscate all of Nami's savings - nearly 100 million berries she spent eight years accumulating - claiming it as stolen government property. Nojiko is shot trying to protect Nami.",
+      "significance": "The final betrayal that breaks Nami's spirit and forces her to finally ask Luffy for help. This is the catalyst for Luffy's assault on Arlong Park.",
+      "characterIds": ["nezumi", "nami", "nojiko", "genzo"],
+      "locationIds": ["bellemere-tangerine-grove"],
+      "quotes": [
+        {
+          "text": "This money is stolen government property. We're confiscating it all.",
+          "speaker": "Nezumi",
+          "context": "Nezumi taking Nami's life savings"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [35],
+      "payoffInEpisodes": [37],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["bellemere", "nezumi"],
+    "locations": ["bellemere-house", "bellemere-tangerine-grove"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [37],
+    "payoffFrom": [31, 33, 35],
+    "thematicLinks": [1, 45, 77]
+  },
+  "quotes": [
+    {
+      "text": "Nami... Nojiko... I love you.",
+      "speaker": "Bellemère",
+      "context": "Final words before death",
+      "timestamp": "16:45"
+    },
+    {
+      "text": "I can't do that. I can't pretend they're not my daughters.",
+      "speaker": "Bellemère",
+      "context": "Refusing to deny her family",
+      "timestamp": "10:15"
+    },
+    {
+      "text": "You don't have enough money for yourself. That means you die.",
+      "speaker": "Arlong",
+      "context": "Before executing Bellemère",
+      "timestamp": "16:30"
+    },
+    {
+      "text": "Your talent for maps is extraordinary. You will draw maps for me.",
+      "speaker": "Arlong",
+      "context": "Forcing Nami to join his crew",
+      "timestamp": "18:20"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Family Beyond Blood",
+      "description": "The episode powerfully demonstrates that family is defined by love and choice, not biology. Bellemère's sacrifice for her adopted daughters shows that true family bonds transcend blood relation.",
+      "symbolism": "The tangerine grove represents the home and family that Bellemère built despite not being biologically related to her daughters.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Sacrifice and Maternal Love",
+      "description": "Bellemère's choice to die rather than deny her daughters showcases the ultimate maternal sacrifice and unconditional love.",
+      "symbolism": "Bellemère paying for her daughters instead of herself symbolizes putting family before self-preservation.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Corruption and Failed Justice",
+      "description": "The revelation of Nezumi's corruption shows how systemic failure enables tyranny. The Marines, who should protect citizens, instead enable Arlong's cruelty.",
+      "symbolism": "Nezumi represents the broken justice system that forces people like Nami into impossible situations.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Hope and Despair",
+      "description": "The episode juxtaposes Nami's eight years of hope (saving money to free her village) with crushing despair (having it all stolen), setting up her eventual cry for help.",
+      "symbolism": "The stolen treasure represents the futility of trying to work within Arlong's corrupt system.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tragic", "Heartbreaking", "Dark", "Emotional"],
+  "characterSpotlights": [
+    {
+      "characterId": "bellemere",
+      "role": "Central figure in flashback",
+      "development": "Bellemère is revealed as Nami's adoptive mother who found her and Nojiko as orphans. She chooses death over denying her daughters, establishing her as one of the most noble parental figures in the series.",
+      "keyActions": [
+        "Raises Nami and Nojiko in her tangerine grove",
+        "Faces Arlong's tribute demand with only 100,000 berries",
+        "Chooses to pay for her daughters instead of herself",
+        "Dies declaring her love for her family"
+      ],
+      "quotes": [
+        "I can't pretend they're not my daughters",
+        "Nami... Nojiko... I love you"
+      ]
+    },
+    {
+      "characterId": "nami",
+      "role": "Protagonist of backstory",
+      "development": "Nami's entire backstory is revealed, explaining her connection to Arlong, her talent for cartography, and her desperate eight-year mission to save her village. The episode shows her transformation from innocent child to traumatized survivor.",
+      "keyActions": [
+        "Lives happily with Bellemère and Nojiko as a child",
+        "Witnesses Bellemère's murder",
+        "Is forced to join Arlong Pirates",
+        "Spends eight years collecting 100 million berries",
+        "Has her savings stolen by Nezumi"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "arlong",
+      "role": "Primary antagonist",
+      "development": "Arlong's cruelty is fully displayed as he callously murders Bellemère and manipulates young Nami into servitude. His racism against humans and his corrupt dealings with Marines are revealed.",
+      "keyActions": [
+        "Demands tribute from Cocoyasi Village",
+        "Kills Bellemère without hesitation",
+        "Forces Nami to become his cartographer",
+        "Makes a false promise about selling back the village",
+        "Collaborates with Nezumi to steal Nami's savings"
+      ],
+      "quotes": [
+        "You don't have enough money for yourself. That means you die",
+        "Your talent for maps is extraordinary"
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "In the manga, Arlong shoots Bellemère in the head. The anime censored this to show her being shot in the chest instead.",
+      "episodeTimestamp": "16:45",
+      "mangaReference": "Chapter 78",
+      "type": "CENSORSHIP"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episode 36 is considered one of the most emotionally impactful episodes in the entire series, with an IMDb rating of 9.0/10.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://www.imdb.com/title/tt0965144/",
+          "title": "One Piece Episode 36 - IMDb",
+          "platform": "IMDb",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Bellemère's death scene was censored in the anime adaptation. In the manga, she was shot in the head, but the anime changed it to being shot in the chest.",
+      "category": "ADAPTATION",
+      "sources": []
+    },
+    {
+      "fact": "The episode covers manga chapters 78, 79, and 80, with chapter 78 being titled 'Bellemère' after the character.",
+      "category": "MANGA_ADAPTATION",
+      "sources": []
+    },
+    {
+      "fact": "This episode features one of the few times in early One Piece where a named character with significant screen time is killed on-screen.",
+      "category": "STORY",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

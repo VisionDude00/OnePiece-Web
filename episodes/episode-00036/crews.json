@@ -1,0 +1,87 @@
+[
+  {
+    "name": {
+      "english": "Arlong Pirates",
+      "japanese": "アーロン一味",
+      "romanized": "Āron Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "arlong",
+    "debutEpisode": 31,
+    "debutChapter": 69,
+    "episodeAppearances": [36],
+    "members": [
+      {
+        "characterId": "arlong",
+        "role": "Captain",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Founded the crew"
+      },
+      {
+        "characterId": "nami",
+        "role": "Navigator/Cartographer (forced)",
+        "episodeJoined": 36,
+        "episodeLeft": null,
+        "joinCircumstances": "Forced to join at age 10 after Arlong murdered her adoptive mother Bellemère. Promised she could buy back her village for 100 million berries."
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 36,
+        "eventId": "ep036-event-002",
+        "momentType": "ARRIVAL",
+        "title": "Arlong Pirates Arrive at Cocoyasi Village",
+        "description": "Eight years before the present, the Arlong Pirates arrived at Cocoyasi Village and established their tribute system.",
+        "significance": "The beginning of the crew's tyrannical rule over the Conomi Islands.",
+        "timestamp": "07:20"
+      },
+      {
+        "episodeNumber": 36,
+        "eventId": "ep036-event-005",
+        "momentType": "MURDER",
+        "title": "Arlong Murders Bellemère",
+        "description": "Arlong executes Bellemère for being unable to pay tribute, demonstrating the crew's ruthlessness.",
+        "significance": "Establishes the Arlong Pirates as cruel villains willing to murder innocent people.",
+        "timestamp": "16:45"
+      },
+      {
+        "episodeNumber": 36,
+        "eventId": "ep036-event-006",
+        "momentType": "RECRUITMENT",
+        "title": "Nami Forced to Join",
+        "description": "Arlong forces young Nami to become the crew's cartographer after recognizing her talent.",
+        "significance": "Gains a skilled navigator through coercion and manipulation.",
+        "timestamp": "18:20"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Unknown",
+        "episodeAcquired": null,
+        "episodeLost": null,
+        "description": "The Arlong Pirates possess at least one ship for their operations."
+      }
+    ],
+    "bases": [
+      {
+        "locationId": "arlong-park",
+        "role": "Headquarters",
+        "episodeEstablished": 31,
+        "episodeAbandoned": null
+      }
+    ],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A sawshark skull with a saw-toothed nose",
+      "episodeFirstSeen": 31,
+      "imageUrl": ""
+    },
+    "mainColor": "#4169E1",
+    "relationships": {
+      "allies": ["nezumi"],
+      "enemies": ["straw-hat-pirates", "cocoyasi-village-residents"],
+      "parentOrganization": null
+    }
+  }
+]
