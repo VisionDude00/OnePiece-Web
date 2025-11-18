@@ -1,0 +1,558 @@
+{
+  "episodeNumber": 64,
+  "episodeTitle": "A Town that Welcomes Pirates! Setting Foot on Whisky Peak!",
+  "description": "The Straw Hat Pirates arrive at their first island in the Grand Line, Whisky Peak, where they are greeted with an enthusiastic welcome party. While the crew enjoys a lavish feast, Zoro remains suspicious and discovers the town's dark secret.",
+  "airDate": "2001-04-15",
+  "airDateJapan": "2001-04-15",
+  "airDateUS": "2005-07-30",
+  "arcName": "Whisky Peak Arc",
+  "sagaName": "Arabasta Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Believe",
+    "artist": "Folder5",
+    "episodeRange": [48, 115]
+  },
+  "endingSong": {
+    "title": "Watashi ga Iru Yo",
+    "artist": "TOMATO CUBE",
+    "episodeRange": [64, 73]
+  },
+  "credits": {
+    "animationDirector": "Yoko Ikeda",
+    "storyboard": "Kenji Yokoyama",
+    "screenplay": "Michiru Shimada",
+    "artDirection": "Miyuki Sato",
+    "keyAnimators": ["Kazuo Takigawa"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Igaram",
+        "actor": "Keiichi Sonobe"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Misa Watanabe"
+      },
+      {
+        "character": "Mr. 9",
+        "actor": "Yasuhiro Takato"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Igaram",
+        "actor": "Kent Williams"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Caitlin Glass"
+      },
+      {
+        "character": "Mr. 9",
+        "actor": "Chris Patton"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep064-event-001",
+      "episodeNumber": 64,
+      "timestamp": "03:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Arrival at the First Grand Line Island",
+      "description": "The Straw Hat Pirates successfully navigate the unpredictable Grand Line weather conditions with Nami's guidance and arrive at their first island destination. The Going Merry approaches Whisky Peak on Cactus Island, marking a major milestone in their journey.",
+      "significance": "This marks the crew's first landfall in the Grand Line and demonstrates Nami's essential role as navigator. The unpredictable weather patterns of the Grand Line are showcased, establishing the increased danger level of this sea.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji"],
+      "locationIds": ["cactus-island", "whisky-peak"],
+      "quotes": [
+        {
+          "text": "The weather on the Grand Line changes randomly and drastically!",
+          "speaker": "Nami",
+          "context": "Nami warns the crew about navigating the Grand Line's unpredictable conditions"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [61, 62, 63],
+      "payoffInEpisodes": [65, 66, 67],
+      "callbacksToEpisodes": [63]
+    },
+    {
+      "id": "ep064-event-002",
+      "episodeNumber": 64,
+      "timestamp": "05:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Introduction of Whisky Peak Town",
+      "description": "The Straw Hats dock at Whisky Peak and are greeted by what appears to be an entire town of pirate-loving citizens led by Mayor Igaram (secretly Mr. 8). The townspeople welcome them with open arms and enthusiastic cheers.",
+      "significance": "The seemingly friendly welcome sets up the major twist that the entire town is actually a Baroque Works operation designed to capture pirates for bounties.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "igaram", "miss-monday"],
+      "locationIds": ["whisky-peak"],
+      "organizationIds": ["baroque-works"],
+      "quotes": [
+        {
+          "text": "Welcome to our town, brave pirates of the Grand Line!",
+          "speaker": "Igaram",
+          "context": "Igaram as mayor welcomes the Straw Hats to Whisky Peak"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [65],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep064-event-003",
+      "episodeNumber": 64,
+      "timestamp": "06:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Igaram's Debut as Mayor",
+      "description": "Igaram introduces himself as the mayor of Whisky Peak, maintaining his cover identity. His distinctive appearance with powdered wig-style blonde hair and the number 8 on his collar hints at his true identity as Mr. 8 of Baroque Works.",
+      "significance": "Introduces a key character who will later be revealed as one of Vivi's most loyal protectors and captain of Arabasta's royal guard.",
+      "characterIds": ["igaram"],
+      "locationIds": ["whisky-peak"],
+      "organizationIds": ["baroque-works"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [65, 66, 67],
+      "callbacksToEpisodes": [62]
+    },
+    {
+      "id": "ep064-event-004",
+      "episodeNumber": 64,
+      "timestamp": "07:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Miss Monday's Debut",
+      "description": "Miss Monday appears disguised as a nun, participating in the welcome festivities. Her muscular build is concealed beneath her religious garments as she prepares to face the Straw Hats.",
+      "significance": "Introduces Miss Monday as a Baroque Works frontier agent who will later demonstrate her physical strength and loyalty to her partners.",
+      "characterIds": ["miss-monday"],
+      "locationIds": ["whisky-peak"],
+      "organizationIds": ["baroque-works"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [65],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep064-event-005",
+      "episodeNumber": 64,
+      "timestamp": "08:00",
+      "eventType": "CULTURAL_MOMENT",
+      "title": "The Welcome Feast Begins",
+      "description": "The townspeople of Whisky Peak host an elaborate banquet for the Straw Hat Pirates, with abundant food, drinks, and entertainment. Each crew member indulges in their particular interest - Luffy gorges on food, Sanji socializes with women, Usopp tells exaggerated tales, and Nami enters a drinking contest.",
+      "significance": "This scene showcases each Straw Hat's personality traits while setting up the deception. The lavish hospitality creates a false sense of security that makes the later betrayal more impactful.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji"],
+      "locationIds": ["whisky-peak"],
+      "quotes": [
+        {
+          "text": "This is awesome! So much meat!",
+          "speaker": "Luffy",
+          "context": "Luffy's excitement at the feast"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [65],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep064-event-006",
+      "episodeNumber": 64,
+      "timestamp": "11:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Nami and Zoro's Drinking Contest",
+      "description": "Nami and Zoro engage in a drinking contest, with Nami competing to win money and Zoro drinking alongside the townspeople. Miss Monday, disguised as a nun, secretly drinks barley tea instead of alcohol while Nami consumes real liquor.",
+      "significance": "This moment demonstrates Nami's confidence and competitive nature. It also sets up the reveal that Zoro was never actually drunk, showcasing his discipline and awareness as a swordsman.",
+      "characterIds": ["nami", "zoro", "miss-monday"],
+      "locationIds": ["whisky-peak"],
+      "quotes": [
+        {
+          "text": "A true swordsman never allows alcohol to take control of himself.",
+          "speaker": "Zoro",
+          "context": "Zoro's later explanation of why he was only pretending to be drunk"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [65],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep064-event-007",
+      "episodeNumber": 64,
+      "timestamp": "13:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Usopp's Tall Tales",
+      "description": "Usopp regales the townspeople with exaggerated stories of his adventures, claiming to be a great warrior with thousands of followers. The citizens of Whisky Peak pretend to be impressed and hang on his every word.",
+      "significance": "Demonstrates Usopp's need for validation and his storytelling nature, while also showing how the bounty hunters are manipulating the crew's weaknesses to lower their guard.",
+      "characterIds": ["usopp"],
+      "locationIds": ["whisky-peak"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep064-event-008",
+      "episodeNumber": 64,
+      "timestamp": "14:20",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Sanji's Ladies' Man Moment",
+      "description": "Sanji is surrounded by numerous beautiful women who shower him with attention. He revels in their company, completely distracted from any potential danger.",
+      "significance": "Highlights Sanji's biggest weakness - his inability to resist beautiful women - which the bounty hunters exploit to keep him from noticing their true intentions.",
+      "characterIds": ["sanji"],
+      "locationIds": ["whisky-peak"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep064-event-009",
+      "episodeNumber": 64,
+      "timestamp": "16:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Luffy's Eating Frenzy",
+      "description": "Luffy consumes enormous quantities of meat and food, eating with his characteristic enthusiasm and lack of restraint. The townspeople continuously bring more food to keep him satisfied and distracted.",
+      "significance": "Showcases Luffy's simple nature and love of food, which makes him an easy target for distraction. His gluttony is used against him by the bounty hunters.",
+      "characterIds": ["luffy"],
+      "locationIds": ["whisky-peak"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep064-event-010",
+      "episodeNumber": 64,
+      "timestamp": "18:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Zoro Remains Alert",
+      "description": "While the other Straw Hats indulge in the festivities and eventually fall asleep, Roronoa Zoro remains vigilant. He pretends to pass out from drinking but actually stays fully conscious and aware of his surroundings.",
+      "significance": "This moment establishes Zoro as the crew's protector and demonstrates his warrior discipline. His decision to stay alert saves the crew from being captured and sets up the major confrontation to come.",
+      "characterIds": ["zoro"],
+      "locationIds": ["whisky-peak"],
+      "quotes": [
+        {
+          "text": "A true swordsman never allows alcohol to take control of himself.",
+          "speaker": "Zoro",
+          "context": "Zoro's philosophy that allows him to remain alert"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [65],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep064-event-011",
+      "episodeNumber": 64,
+      "timestamp": "19:45",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Baroque Works Agents Reveal Their True Nature",
+      "description": "After the Straw Hats have fallen asleep, the townspeople drop their friendly facade and reveal themselves to be bounty hunters working for the criminal organization Baroque Works. They discuss their plan to capture the pirates alive for the full bounty reward.",
+      "significance": "This is the first major reveal of Baroque Works' network and methodology. It establishes the organization as a significant threat and shows their widespread influence in the Grand Line.",
+      "characterIds": ["igaram", "miss-monday"],
+      "locationIds": ["whisky-peak"],
+      "organizationIds": ["baroque-works"],
+      "quotes": [
+        {
+          "text": "We'll take them alive for the full bounty!",
+          "speaker": "Bounty Hunter",
+          "context": "The townspeople discussing their plan to capture the Straw Hats"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [62],
+      "payoffInEpisodes": [65],
+      "callbacksToEpisodes": [62, 63]
+    },
+    {
+      "id": "ep064-event-012",
+      "episodeNumber": 64,
+      "timestamp": "20:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Luffy's Bounty Mentioned",
+      "description": "The Baroque Works agents discuss Monkey D. Luffy's 30,000,000 berry bounty, identifying him as a valuable target. They plan to capture him and his crew for the rewards.",
+      "significance": "References Luffy's bounty established in Arlong Park and shows how it makes the Straw Hats targets in the Grand Line. This connects back to earlier arcs and demonstrates the consequences of their growing notoriety.",
+      "characterIds": ["luffy"],
+      "locationIds": ["whisky-peak"],
+      "organizationIds": ["baroque-works"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [45],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [45]
+    },
+    {
+      "id": "ep064-event-013",
+      "episodeNumber": 64,
+      "timestamp": "21:15",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MAJOR",
+      "title": "Zoro Confronts the Bounty Hunters",
+      "description": "Roronoa Zoro emerges from the shadows, revealing that he was never drunk and was aware of the trap all along. He stands ready to face the approximately 100 bounty hunters who surround him in the moonlit graveyard.",
+      "significance": "This sets up one of Zoro's most iconic early battles and demonstrates his role as the crew's guardian. The moonlit graveyard setting creates a legendary atmosphere for the confrontation to come in the next episode.",
+      "characterIds": ["zoro", "igaram", "miss-monday"],
+      "locationIds": ["whisky-peak", "cactus-island-graveyard"],
+      "organizationIds": ["baroque-works"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [65],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep064-event-014",
+      "episodeNumber": 64,
+      "timestamp": "22:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Vivi and Mr. 9 at Whisky Peak",
+      "description": "Miss Wednesday (Nefertari Vivi) and Mr. 9 are shown to have returned to Whisky Peak and are present among the Baroque Works agents. They observe the situation with the Straw Hats.",
+      "significance": "Shows that Vivi and Mr. 9 have completed their mission from Reverse Mountain and returned to their base. This sets up their involvement in the coming arc events.",
+      "characterIds": ["vivi", "mr-9"],
+      "locationIds": ["whisky-peak"],
+      "organizationIds": ["baroque-works"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [62, 63],
+      "payoffInEpisodes": [65, 66, 67],
+      "callbacksToEpisodes": [62, 63]
+    }
+  ],
+  "debuts": {
+    "characters": ["igaram", "miss-monday"],
+    "locations": ["cactus-island", "whisky-peak", "cactus-island-graveyard"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": [],
+    "organizations": []
+  },
+  "episodeRelationships": {
+    "setupFor": [65, 66, 67],
+    "payoffFrom": [61, 62, 63],
+    "thematicLinks": [65, 66, 67]
+  },
+  "quotes": [
+    {
+      "text": "The weather on the Grand Line changes randomly and drastically!",
+      "speaker": "Nami",
+      "context": "Explaining the dangerous navigation conditions",
+      "timestamp": "03:15"
+    },
+    {
+      "text": "Welcome to our town, brave pirates of the Grand Line!",
+      "speaker": "Igaram",
+      "context": "Greeting the Straw Hats as mayor",
+      "timestamp": "05:30"
+    },
+    {
+      "text": "This is awesome! So much meat!",
+      "speaker": "Luffy",
+      "context": "Enjoying the feast",
+      "timestamp": "08:00"
+    },
+    {
+      "text": "A true swordsman never allows alcohol to take control of himself.",
+      "speaker": "Zoro",
+      "context": "Explaining why he remained alert during the drinking",
+      "timestamp": "21:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Deception and Trust",
+      "description": "The episode explores the theme of deception as the seemingly friendly townspeople are revealed to be bounty hunters. It shows how trust can be exploited and the importance of remaining vigilant.",
+      "symbolism": "The welcoming feast represents false hospitality, while the moonlit graveyard symbolizes the revelation of truth in darkness.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Vigilance and Protection",
+      "description": "Zoro's decision to remain alert while his crewmates enjoy themselves demonstrates the theme of protection and the need for at least one person to stay vigilant even in seemingly safe situations.",
+      "symbolism": "Zoro standing alone in the moonlight represents the solitary burden of the protector.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Grand Line's Dangers",
+      "description": "The episode emphasizes that the Grand Line is not only dangerous because of its weather and sea conditions, but also because of the cunning and organized criminals who operate there.",
+      "symbolism": "The unpredictable weather mirrors the unpredictable nature of trust and safety in the Grand Line.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Adventurous", "Suspenseful", "Deceptive", "Tense"],
+  "characterSpotlights": [
+    {
+      "characterId": "zoro",
+      "role": "Crew Protector",
+      "development": "Zoro demonstrates his role as the crew's guardian by remaining vigilant when others let their guard down. His discipline as a swordsman and his protective instincts are highlighted.",
+      "keyActions": [
+        "Pretends to be drunk while staying fully alert",
+        "Remains suspicious of the townspeople's hospitality",
+        "Prepares to face 100 bounty hunters alone",
+        "Positions himself to protect the sleeping crew"
+      ],
+      "quotes": ["A true swordsman never allows alcohol to take control of himself."]
+    },
+    {
+      "characterId": "nami",
+      "role": "Navigator",
+      "development": "Nami's essential role as navigator is showcased as she guides the crew through the Grand Line's unpredictable weather. Her competitive nature is also displayed in the drinking contest.",
+      "keyActions": [
+        "Successfully navigates the Grand Line's chaotic weather",
+        "Corrects the ship's course to reach Whisky Peak",
+        "Participates in drinking contest to win money"
+      ],
+      "quotes": ["The weather on the Grand Line changes randomly and drastically!"]
+    },
+    {
+      "characterId": "igaram",
+      "role": "Undercover Agent/Mayor",
+      "development": "Introduced as the seemingly friendly mayor of Whisky Peak, Igaram maintains his cover as Mr. 8 of Baroque Works while secretly working as Vivi's protector.",
+      "keyActions": [
+        "Welcomes the Straw Hats to Whisky Peak",
+        "Organizes the welcome feast",
+        "Coordinates with other Baroque Works agents"
+      ],
+      "quotes": ["Welcome to our town, brave pirates of the Grand Line!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "Episodes 64 and 65 were broadcast together as a television special, which may have resulted in slightly different pacing than the manga chapters 106-107.",
+      "episodeTimestamp": "00:00",
+      "mangaReference": "Chapters 106-107",
+      "type": "PACING"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episode 64 was the first episode of One Piece to be broadcast on Sunday evenings, marking a timeslot change from the previous Saturday evening slot.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_64",
+          "title": "Episode 64 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode marks the debut of the ending theme 'Watashi ga Iru Yo' by TOMATO CUBE, which would be used for episodes 64-73.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Watashi_ga_Iru_Yo",
+          "title": "Watashi ga Iru Yo - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Episodes 64 and 65 aired together as a television special on April 15, 2001.",
+      "category": "BROADCAST",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_64",
+          "title": "Episode 64 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "In the 4Kids dub, this episode was combined with episodes 61 and 62 to create their episode 44, significantly altering the pacing and story structure.",
+      "category": "LOCALIZATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_64",
+          "title": "Episode 64 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode covers manga chapters 106 (pages 2-19) and 107 (pages 3-13), making it a relatively faithful adaptation with minimal filler content.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_64",
+          "title": "Episode 64 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Cactus Island is the first island the Straw Hat Pirates visit in the Grand Line, making this a significant milestone in their journey.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Cactus_Island",
+          "title": "Cactus Island - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
