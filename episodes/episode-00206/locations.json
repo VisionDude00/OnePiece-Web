@@ -1,0 +1,109 @@
+[
+  {
+    "name": {
+      "english": "G-8 Marine Base",
+      "japanese": "G-8支部",
+      "romanized": "Jī Eito Shibu"
+    },
+    "locationType": "MILITARY_BASE",
+    "seaRegion": "PARADISE",
+    "islandName": "Navarone",
+    "debutEpisode": 196,
+    "debutChapter": null,
+    "description": "A heavily fortified Marine base occupying Navarone Island. Known as one of the most well-defended Marine installations, featuring 108 cannons and strategic positioning. Despite its formidable defenses, it's described as 'peace crazy' due to seeing little actual combat. Commanded by Vice Admiral Jonathan.",
+    "episodeAppearances": [206],
+    "keyEvents": [
+      {
+        "episodeNumber": 206,
+        "eventId": "ep206-event-001",
+        "eventType": "BATTLE_START",
+        "title": "Jonathan's 9 O'Clock Trap Activated",
+        "description": "Vice Admiral Jonathan implements his '9 o'clock trap' using the base's tidal patterns to strand the Going Merry in the harbor.",
+        "significance": "Demonstrates the strategic advantages of the G-8 base's location and Jonathan's deep knowledge of its capabilities.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 206,
+        "eventId": "ep206-event-009",
+        "eventType": "LOCATION_DEPARTURE",
+        "title": "Straw Hats Successfully Escape G-8",
+        "description": "The Straw Hat Pirates successfully escape from G-8 using the Octopus Balloon, concluding the G-8 Arc.",
+        "significance": "Marks the end of the crew's time at the fortress and the conclusion of the longest filler arc in One Piece anime history.",
+        "timestamp": "20:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 196,
+        "episodeEnd": "present",
+        "reason": "Marine base remains operational"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["g-8-harbor"],
+    "relatedCharacters": ["jonathan", "jessica", "shepherd"],
+    "relatedCrews": ["marines", "straw-hat-pirates"],
+    "relatedArcs": ["G-8"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "G-8 Harbor",
+      "japanese": "G-8の港",
+      "romanized": "Jī Eito no Minato"
+    },
+    "locationType": "HARBOR",
+    "seaRegion": "PARADISE",
+    "islandName": "Navarone",
+    "debutEpisode": 196,
+    "debutChapter": null,
+    "description": "The enclosed harbor of G-8 Marine Base. Features a unique design that allows the base to control ship entry and exit through a large gate. The harbor experiences predictable tidal patterns that can be exploited strategically, as demonstrated by Jonathan's '9 o'clock trap' where low tide grounds ships on the harbor floor.",
+    "episodeAppearances": [206],
+    "keyEvents": [
+      {
+        "episodeNumber": 206,
+        "eventId": "ep206-event-001",
+        "eventType": "BATTLE_START",
+        "title": "Going Merry Grounded by Low Tide",
+        "description": "The Going Merry becomes grounded on the harbor floor during low tide as part of Jonathan's strategic trap.",
+        "significance": "The harbor's tidal mechanics become the central obstacle the Straw Hats must overcome to escape.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 206,
+        "eventId": "ep206-event-002",
+        "eventType": "TECHNIQUE_DEBUT",
+        "title": "Impact Dial Launches Going Merry",
+        "description": "The Straw Hats use an Impact Dial to launch the Going Merry upward from the grounded harbor floor.",
+        "significance": "Shows the crew using Skypiean technology to overcome the harbor's natural constraints.",
+        "timestamp": "08:20"
+      },
+      {
+        "episodeNumber": 206,
+        "eventId": "ep206-event-003",
+        "eventType": "TECHNIQUE_DEBUT",
+        "title": "Octopus Balloon Escape",
+        "description": "The crew reinflates the Octopus Balloon using Breath and Flame Dials, allowing the Going Merry to float above the harbor.",
+        "significance": "The harbor becomes the launch point for the crew's creative aerial escape.",
+        "timestamp": "11:15"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 196,
+        "episodeEnd": "present",
+        "reason": "Harbor remains operational"
+      }
+    ],
+    "parentLocation": "g-8",
+    "childLocations": [],
+    "relatedCharacters": ["jonathan", "luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin"],
+    "relatedCrews": ["marines", "straw-hat-pirates"],
+    "relatedArcs": ["G-8"],
+    "images": []
+  }
+]
