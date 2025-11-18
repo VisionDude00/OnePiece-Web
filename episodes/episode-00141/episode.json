@@ -1,0 +1,567 @@
+{
+  "episodeNumber": 141,
+  "episodeTitle": "Thoughts of Home! The Pirate Graveyard of No Escape!",
+  "episodeTitleJapanese": "故郷への想い！脱出不能の海賊墓場！",
+  "episodeTitleRomanized": "Kokyū e no omoi! Dasshutsu funō no kaizoku hakaba!",
+  "description": "Inside the Rainbow Mist, Henzo and the Straw Hats struggle to find a way out of the mysterious ship graveyard. Henzo tries to reconnect with his childhood friends, the Pumpkin Pirates, while the crew discovers that space itself is distorted in this strange dimension.",
+  "airDate": "2003-01-19",
+  "airDateJapan": "2003-01-19",
+  "airDateUS": "2007-09-01",
+  "airDateUSFunimation": null,
+  "arcName": "Ruluka Island",
+  "sagaName": "Sky Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Hikari e",
+    "titleJapanese": "ヒカリへ",
+    "artist": "The Babystars",
+    "composer": "Takeshi Aida",
+    "lyricist": "Shoko Fujibayashi",
+    "episodeRange": [116, 168]
+  },
+  "endingSong": {
+    "title": "Free Will",
+    "titleJapanese": "フリーウィル",
+    "artist": "Ruppina",
+    "composer": "Ruppina",
+    "lyricist": "Ruppina",
+    "episodeRange": [133, 156]
+  },
+  "credits": {
+    "director": "Ken Koyama",
+    "screenplay": "Ryōta Yamaguchi",
+    "artDirector": "Miyuki Sato, Fumihiro Uchikawa",
+    "animationDirector": "Naoki Tate",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Ōtani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Henzo",
+        "actor": "Masaharu Satō"
+      },
+      {
+        "character": "Rapanui Pasqua (child)",
+        "actor": "Yukiko Hirotsu"
+      },
+      {
+        "character": "Wetton",
+        "actor": "Ryūzaburō Ōtomo"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Bella Hudson"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Marc Diraison"
+      },
+      {
+        "character": "Nami",
+        "actor": "Kerry Williams"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Jason Griffith"
+      },
+      {
+        "character": "Sanji",
+        "actor": "David Wills"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Lisa Ortiz"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Veronica Taylor"
+      },
+      {
+        "character": "Henzo",
+        "actor": "R. Bruce Elliott"
+      },
+      {
+        "character": "Rapanui Pasqua",
+        "actor": "Jason Griffith"
+      },
+      {
+        "character": "Wetton",
+        "actor": "Vic Mignogna"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep141-event-001",
+      "episodeNumber": 141,
+      "timestamp": "02:15",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MINOR",
+      "title": "Henzo's Dream of the Pumpkin Pirates",
+      "description": "Henzo dreams about his childhood with the Pumpkin Pirates, swimming together as children. In the dream, Rapanui tells them treasure is at the top of a rock. When Henzo is left behind, Rapanui shouts that he can't join because he's an adult, causing Henzo's body to transform to his present elderly appearance before he wakes up.",
+      "significance": "Reveals Henzo's internal struggle with the age gap between himself and his friends who remained children in the Rainbow Mist. Shows his longing to reconnect with his past and the psychological weight of the 50-year separation.",
+      "characterIds": ["henzo", "rapanui-pasqua", "pukau"],
+      "locationIds": ["rainbow-mist"],
+      "quotes": [
+        {
+          "text": "You can't join us, Henzo. You're an adult now!",
+          "speaker": "Rapanui Pasqua (in dream)",
+          "context": "Henzo's nightmare reflecting his fear of being rejected by his childhood friends"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [139, 140],
+      "payoffInEpisodes": [142, 143],
+      "callbacksToEpisodes": [139]
+    },
+    {
+      "id": "ep141-event-002",
+      "episodeNumber": 141,
+      "timestamp": "04:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Marine Ship Buzzer Rings",
+      "description": "Inside the Rainbow Mist, a Marine ship's buzzer rings. Rapanui sees Pukau on what appears to be a pirate ship and immediately assumes his friend is being held hostage by dangerous pirates.",
+      "significance": "Sets up the misunderstanding that leads to Rapanui's confrontation with the Straw Hats. Shows the Pumpkin Pirates' protective nature toward each other.",
+      "characterIds": ["rapanui-pasqua", "pukau"],
+      "locationIds": ["apes-concert"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [140],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep141-event-003",
+      "episodeNumber": 141,
+      "timestamp": "06:45",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Rapanui Threatens the Straw Hats",
+      "description": "Rapanui rushes to what he believes is a rescue mission for Pukau. He boards the Going Merry and threatens Luffy's crew with his sword, demanding they release his friend. Zoro quickly disarms him with ease, revealing that Rapanui is not a real threat.",
+      "significance": "Demonstrates the skill gap between the seasoned Straw Hat crew and the inexperienced Pumpkin Pirates. Also shows Rapanui's courage despite being outmatched.",
+      "characterIds": ["rapanui-pasqua", "luffy", "zoro", "pukau"],
+      "locationIds": ["going-merry", "apes-concert"],
+      "quotes": [
+        {
+          "text": "Let go of Pukau! I won't let you hurt my friend!",
+          "speaker": "Rapanui Pasqua",
+          "context": "Rapanui's brave but misguided attempt to rescue Pukau from the Straw Hats"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep141-event-004",
+      "episodeNumber": 141,
+      "timestamp": "08:20",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MINOR",
+      "title": "Pukau Explains the Misunderstanding",
+      "description": "Pukau explains to Rapanui that he wasn't being held hostage - the Straw Hats simply asked him about the Pumpkin Pirates' hideout. The misunderstanding is cleared up, but Rapanui remains wary of the adult strangers.",
+      "significance": "Resolves the immediate conflict and establishes that the Straw Hats are allies, not enemies. Shows the communication barrier caused by the unusual circumstances.",
+      "characterIds": ["pukau", "rapanui-pasqua", "luffy"],
+      "locationIds": ["going-merry"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep141-event-005",
+      "episodeNumber": 141,
+      "timestamp": "11:00",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Henzo Attempts Reconciliation with Rapanui",
+      "description": "Henzo tries to offer food to Rapanui, but the boy refuses to accept it. Rapanui doesn't believe that this old man is the same Henzo he knew, and struggles to accept that adults who suddenly appear can be trusted. Henzo pleads for forgiveness, explaining that he worked hard to find them despite their age difference.",
+      "significance": "The emotional core of the episode - Henzo's desperate attempt to reconnect with friends who don't recognize him. Explores the tragedy of time displacement and the difficulty of maintaining relationships across such a gap.",
+      "characterIds": ["henzo", "rapanui-pasqua"],
+      "locationIds": ["apes-concert"],
+      "quotes": [
+        {
+          "text": "Please, Rapanui... I know I've changed, but I've spent 50 years searching for you. I never stopped thinking about my home and my friends.",
+          "speaker": "Henzo",
+          "context": "Henzo's heartfelt plea to his childhood friend to accept him despite the decades that separate them"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [139, 140],
+      "payoffInEpisodes": [142, 143],
+      "callbacksToEpisodes": [139]
+    },
+    {
+      "id": "ep141-event-006",
+      "episodeNumber": 141,
+      "timestamp": "13:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Den Den Mushi Communication Established",
+      "description": "Henzo's Den Den Mushi rings, and Luffy grabs it to answer. Wetton's voice comes through from the outside world. Sanji grabs the phone from Wetton and asks if it's Luffy on the other end. When they confirm they can talk to each other, Henzo realizes that the Rainbow Mist and the outside world are connected through the Den Den Mushi.",
+      "significance": "Establishes that communication is possible between the Rainbow Mist dimension and the real world. This discovery becomes crucial for coordinating their escape and understanding the nature of the mist.",
+      "characterIds": ["henzo", "luffy", "sanji", "wetton", "nami", "chopper"],
+      "locationIds": ["apes-concert", "ruluka-island"],
+      "quotes": [
+        {
+          "text": "The Rainbow Mist and the outside world... they're connected!",
+          "speaker": "Henzo",
+          "context": "Henzo's realization upon hearing Wetton's voice through the Den Den Mushi"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [140],
+      "payoffInEpisodes": [142, 143],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep141-event-007",
+      "episodeNumber": 141,
+      "timestamp": "15:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Rapanui Rejects Henzo Over Wetton Connection",
+      "description": "When Rapanui hears Wetton's name through the Den Den Mushi, he angrily tells Henzo that he's not the true Henzo they knew. Rapanui declares that true Pumpkin Pirates would never work for Wetton, the pirate who attacked their village 50 years ago.",
+      "significance": "Deepens the conflict between Henzo and his former friends. Reveals that Henzo's association with Wetton has damaged his credibility, adding another layer to his tragedy.",
+      "characterIds": ["rapanui-pasqua", "henzo", "wetton"],
+      "locationIds": ["apes-concert"],
+      "quotes": [
+        {
+          "text": "The real Henzo would never work for Wetton! A true Pumpkin Pirate would never betray our village!",
+          "speaker": "Rapanui Pasqua",
+          "context": "Rapanui's rejection of Henzo based on his perceived alliance with their old enemy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [139, 140],
+      "payoffInEpisodes": [142, 143],
+      "callbacksToEpisodes": [139]
+    },
+    {
+      "id": "ep141-event-008",
+      "episodeNumber": 141,
+      "timestamp": "17:00",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Wetton Demands Payment for Rainbow Mist Entry",
+      "description": "Outside the Rainbow Mist, when Nami, Chopper, and Sanji decide to enter to find their crewmates, Wetton forbids it and demands 10,000,000 Beli for permission. He threatens them with hard labor in the Rainbow Tower until death if they don't pay.",
+      "significance": "Demonstrates Wetton's greed and tyrannical nature. Shows the lengths he'll go to exploit the Rainbow Mist phenomenon for profit.",
+      "characterIds": ["wetton", "nami", "sanji", "chopper"],
+      "locationIds": ["ruluka-island"],
+      "quotes": [
+        {
+          "text": "10,000,000 Beli! That's the price for entering my Rainbow Mist!",
+          "speaker": "Wetton",
+          "context": "Wetton's extortionate demand to allow the Straw Hats to enter the mist"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [139, 140],
+      "payoffInEpisodes": [142, 143],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep141-event-009",
+      "episodeNumber": 141,
+      "timestamp": "18:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Nami Tricks Lake for the Safety Device",
+      "description": "Refusing to pay Wetton's extortionate fee, Nami uses her cunning to trick Lake into giving up the safety device needed to enter the Rainbow Mist. The three Straw Hats then flee before Wetton can stop them.",
+      "significance": "Showcases Nami's intelligence and resourcefulness. Advances the plot by allowing the separated crew members to reunite.",
+      "characterIds": ["nami", "lake", "wetton", "sanji", "chopper"],
+      "locationIds": ["ruluka-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [142],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep141-event-010",
+      "episodeNumber": 141,
+      "timestamp": "19:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Discovery of Spatial Distortion in Rainbow Mist",
+      "description": "Inside the Rainbow Mist, Luffy's group discovers they're traveling in circles when they pass the same statue multiple times. After shooting a cannon to test their theory, they confirm that space itself is distorted within the mist - creating a closed loop that returns everything to its starting point.",
+      "significance": "Reveals the true danger of the Rainbow Mist - it's not just a different dimension, but one where escape is nearly impossible due to spatial distortion. Explains why ships become trapped in Ape's Concert as a graveyard.",
+      "characterIds": ["luffy", "zoro", "usopp", "robin", "henzo"],
+      "locationIds": ["apes-concert"],
+      "quotes": [
+        {
+          "text": "The space is distorted! No matter which direction we go, we end up back where we started!",
+          "speaker": "Nico Robin",
+          "context": "Robin's analysis of the spatial anomaly within the Rainbow Mist"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [140],
+      "payoffInEpisodes": [142, 143],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep141-event-011",
+      "episodeNumber": 141,
+      "timestamp": "21:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Luffy Tests the Spatial Distortion",
+      "description": "To test the spatial distortion, Luffy uses his Gomu Gomu powers to fly forward. Instead of moving forward, he falls back behind the ship, demonstrating the bizarre physics of the Rainbow Mist. Luffy calls it a 'Mystery Mist' without fully understanding the implications.",
+      "significance": "Provides comic relief while demonstrating the danger through Luffy's characteristic approach of testing things physically. Shows that even Devil Fruit powers can't overcome the dimensional barriers.",
+      "characterIds": ["luffy"],
+      "locationIds": ["apes-concert"],
+      "quotes": [
+        {
+          "text": "Whoa! It's a Mystery Mist!",
+          "speaker": "Luffy",
+          "context": "Luffy's simple assessment after experiencing the spatial distortion firsthand"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep141-event-012",
+      "episodeNumber": 141,
+      "timestamp": "22:15",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Rapanui Fights a Sea King",
+      "description": "The Pumpkin Pirates encounter a Sea King in the ship graveyard. Ian throws Rongo at the creature, prompting Rapanui to rush to save his friend. Despite being a child, Rapanui bravely fights the massive Sea King to protect his companions.",
+      "significance": "Demonstrates the Pumpkin Pirates' bravery and their bond as a crew. Shows that even children trapped in the Rainbow Mist have learned to fight for survival.",
+      "characterIds": ["rapanui-pasqua", "ian", "rongo"],
+      "locationIds": ["apes-concert"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep141-event-013",
+      "episodeNumber": 141,
+      "timestamp": "23:45",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MINOR",
+      "title": "Sea King Appears Before Nami and Sanji",
+      "description": "The episode ends with a cliffhanger as a massive Sea King suddenly appears before Nami and Sanji, who are attempting to enter the Rainbow Mist to reunite with their crewmates.",
+      "significance": "Creates tension and sets up the danger that awaits in the next episode. The Sea King represents the many perils of the Rainbow Mist dimension.",
+      "characterIds": ["nami", "sanji"],
+      "locationIds": ["rainbow-mist"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [142],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [142, 143],
+    "payoffFrom": [139, 140],
+    "thematicLinks": []
+  },
+  "quotes": [
+    {
+      "text": "Please, Rapanui... I know I've changed, but I've spent 50 years searching for you. I never stopped thinking about my home and my friends.",
+      "speaker": "Henzo",
+      "context": "Henzo's emotional plea to reconnect with his childhood friend",
+      "timestamp": "11:00"
+    },
+    {
+      "text": "The real Henzo would never work for Wetton! A true Pumpkin Pirate would never betray our village!",
+      "speaker": "Rapanui Pasqua",
+      "context": "Rapanui's rejection of Henzo based on his perceived alliance with Wetton",
+      "timestamp": "15:45"
+    },
+    {
+      "text": "The space is distorted! No matter which direction we go, we end up back where we started!",
+      "speaker": "Nico Robin",
+      "context": "Robin's analysis of the spatial anomaly within the Rainbow Mist",
+      "timestamp": "19:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Time and Loss",
+      "description": "The episode explores the tragedy of time displacement through Henzo's struggle to reconnect with friends who haven't aged while he spent 50 years searching for them. The emotional weight of lost time and changed relationships forms the core of the narrative.",
+      "symbolism": "The spatial distortion of the Rainbow Mist mirrors the temporal distortion that separates Henzo from his friends - both create barriers that seem impossible to overcome.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Identity and Recognition",
+      "description": "Henzo faces the painful reality that his physical appearance has changed so much that his closest friends no longer recognize him. The episode questions whether identity is tied to physical form or to the bonds we share with others.",
+      "symbolism": "Henzo's elderly appearance versus his youthful memories in dreams represents the disconnect between internal identity and external perception.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Trust and Betrayal",
+      "description": "Rapanui's refusal to trust Henzo due to his association with Wetton explores how past betrayals can poison present relationships. The episode shows how difficult it is to rebuild trust once it's been damaged.",
+      "symbolism": "The Den Den Mushi connection represents the fragile bridge of communication that can either rebuild or further damage relationships.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Melancholic", "Mysterious", "Adventurous", "Emotional"],
+  "characterSpotlights": [
+    {
+      "characterId": "henzo",
+      "role": "Emotional center",
+      "development": "Henzo's internal struggle with the age gap between himself and his friends reaches its peak. His dream sequence reveals his deep-seated fear of rejection, while his attempts to reconnect show his determination despite the pain.",
+      "keyActions": [
+        "Dreams about being rejected by the Pumpkin Pirates",
+        "Tries to offer food to Rapanui",
+        "Pleads for forgiveness and understanding",
+        "Realizes the Rainbow Mist connects to the outside world",
+        "Faces rejection from Rapanui over Wetton connection"
+      ],
+      "quotes": [
+        "Please, Rapanui... I know I've changed, but I've spent 50 years searching for you."
+      ]
+    },
+    {
+      "characterId": "rapanui-pasqua",
+      "role": "Conflicted friend",
+      "development": "Rapanui displays his protective nature and bravery, but also his inability to accept the aged Henzo as his childhood friend. His moral rigidity about working with Wetton creates conflict.",
+      "keyActions": [
+        "Attempts to rescue Pukau from perceived danger",
+        "Confronts the Straw Hats with his sword",
+        "Refuses Henzo's offered food",
+        "Rejects Henzo over his association with Wetton",
+        "Fights a Sea King to protect his friends"
+      ],
+      "quotes": [
+        "The real Henzo would never work for Wetton! A true Pumpkin Pirate would never betray our village!"
+      ]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Observer and problem-solver",
+      "development": "Luffy provides comic relief while also helping to investigate the mysteries of the Rainbow Mist. His straightforward approach to testing the spatial distortion demonstrates his hands-on problem-solving style.",
+      "keyActions": [
+        "Answers the Den Den Mushi",
+        "Tests the spatial distortion with his body",
+        "Observes the conflict between Henzo and Rapanui"
+      ],
+      "quotes": [
+        "Whoa! It's a Mystery Mist!"
+      ]
+    },
+    {
+      "characterId": "nami",
+      "role": "Outside perspective",
+      "development": "Nami shows her cleverness and determination by tricking Lake to obtain the safety device, refusing to be stopped by Wetton's extortion.",
+      "keyActions": [
+        "Decides to enter the Rainbow Mist to find her crew",
+        "Outsmarts Lake to obtain the safety device",
+        "Flees from Wetton with Sanji and Chopper",
+        "Encounters a Sea King at episode's end"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The entire Ruluka Island Arc is anime-original filler content and does not appear in the manga at all. Episode 141 and the surrounding episodes (139-143) were created by Toei Animation to give Oda time to stay ahead in the manga.",
+      "episodeTimestamp": "00:00",
+      "mangaReference": "N/A - No corresponding manga chapter",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode is part of the Ruluka Island Arc (episodes 139-143), which was the last filler arc dubbed by 4Kids Entertainment before they lost the One Piece license.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Ruluka_Island_Arc",
+          "title": "Ruluka Island Arc - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-01-18"
+        }
+      ]
+    },
+    {
+      "fact": "The animation director for this episode, Naoki Tate, is known for his distinctive expressive character designs and fluid action sequences, heavily influenced by Mamoru Hosoda's work on One Piece Movie 6.",
+      "category": "ANIMATION",
+      "sources": [
+        {
+          "url": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=18990",
+          "title": "Naoki Tate - Anime News Network",
+          "platform": "Anime News Network",
+          "accessedAt": "2025-01-18"
+        }
+      ]
+    },
+    {
+      "fact": "The concept of time moving differently in the Rainbow Mist creates a temporal paradox where the Pumpkin Pirates eventually become the Marines who chase the Straw Hats to Ruluka Island in episode 139.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_141",
+          "title": "Episode 141 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-01-18"
+        }
+      ]
+    },
+    {
+      "fact": "The Rainbow Mist's spatial distortion mechanic is similar to various science fiction concepts like closed timelike curves and pocket dimensions, showing the anime's willingness to incorporate sci-fi elements into its fantasy world.",
+      "category": "WORLDBUILDING",
+      "sources": []
+    },
+    {
+      "fact": "This episode aired between the Arabasta Arc and the Jaya Arc, serving as a buffer between two major canon storylines and giving manga readers time to build up more source material.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_141",
+          "title": "Episode 141 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-01-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

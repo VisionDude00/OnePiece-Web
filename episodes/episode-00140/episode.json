@@ -1,0 +1,546 @@
+{
+  "episodeNumber": 140,
+  "episodeTitle": "Residents of the Land of Eternity! The Pumpkin Pirates!",
+  "description": "Inside the Rainbow Mist, Luffy and his crew discover Ape's Concert, a mysterious ship graveyard filled with treasure. They encounter five children calling themselves the Pumpkin Pirates, who Henzo recognizes as his childhood friends who vanished fifty years ago.",
+  "airDate": "2003-01-12",
+  "airDateJapan": "2003-01-12",
+  "airDateUS": "2007-08-25",
+  "arcName": "Ruluka Island Arc",
+  "sagaName": "Filler",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Hikari e",
+    "artist": "The Babystars",
+    "episodeRange": [116, 168]
+  },
+  "endingSong": {
+    "title": "Free Will",
+    "artist": "Ruppina",
+    "episodeRange": [133, 156]
+  },
+  "credits": {
+    "animationDirector": "Hideaki Naniwa",
+    "director": "Munehisa Sakai",
+    "writer": "Ryōta Yamaguchi",
+    "artDirection": ["Miyuki Sato", "Michiyo Kawasaki"],
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Henzo",
+        "actor": "Chō"
+      },
+      {
+        "character": "Rapanui Pasqua (young)",
+        "actor": "Unknown"
+      },
+      {
+        "character": "Isoka (young)",
+        "actor": "Ryō Hirohashi"
+      },
+      {
+        "character": "Wetton",
+        "actor": "Jouji Nakata"
+      },
+      {
+        "character": "Ian",
+        "actor": "Masaya Takatsuka"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Henzo (adult)",
+        "actor": "R. Bruce Elliott"
+      },
+      {
+        "character": "Henzo (young)",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Isoka (young)",
+        "actor": "Laura Bailey"
+      },
+      {
+        "character": "Wetton",
+        "actor": "Vic Mignogna"
+      },
+      {
+        "character": "Ian",
+        "actor": "Ian Sinclair"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep140-event-001",
+      "episodeNumber": 140,
+      "timestamp": "03:00",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Entering Ape's Concert",
+      "description": "Luffy, Zoro, Usopp, Robin, and Henzo arrive in Ape's Concert, a ship graveyard within the Rainbow Mist. The area is filled with wrecked ships from different eras.",
+      "significance": "First entry into the mysterious dimension within the Rainbow Mist, setting up the episode's main events and revealing the eternal nature of this location.",
+      "characterIds": ["luffy", "zoro", "usopp", "robin", "henzo"],
+      "locationIds": ["apes-concert", "rainbow-mist"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [139],
+      "payoffInEpisodes": [141, 142, 143],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep140-event-002",
+      "episodeNumber": 140,
+      "timestamp": "05:30",
+      "eventType": "TREASURE_DISCOVERY",
+      "severity": "MINOR",
+      "title": "Luffy Discovers Treasure in Shipwrecks",
+      "description": "Luffy salvages a chest filled with gold and jewels from one of the wrecked ships in the graveyard. However, a mysterious voice warns him to return the treasure and leave the mist.",
+      "significance": "Establishes the treasure-filled nature of Ape's Concert and hints at the presence of guardians protecting it.",
+      "characterIds": ["luffy"],
+      "locationIds": ["apes-concert"],
+      "quotes": [
+        {
+          "text": "Return the treasure and leave the mist!",
+          "speaker": "Mysterious Voice",
+          "context": "Warning to Luffy after he finds treasure"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep140-event-003",
+      "episodeNumber": 140,
+      "timestamp": "08:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "The Pumpkin Pirates Reveal Themselves",
+      "description": "After attempting to scare the Straw Hats away disguised as ghosts, five children reveal themselves. They introduce themselves as the Pumpkin Pirates and demand the intruders leave or face their bomb.",
+      "significance": "First appearance of the Pumpkin Pirates as children, establishing them as the guardians of Ape's Concert and setting up the mystery of their presence.",
+      "characterIds": ["rapanui-pasqua", "isoka", "akibi", "rongo", "pukau", "luffy", "zoro", "usopp", "robin"],
+      "locationIds": ["apes-concert"],
+      "crewIds": ["pumpkin-pirates"],
+      "quotes": [
+        {
+          "text": "We are the Pumpkin Pirates! Leave now or we'll set off this bomb!",
+          "speaker": "Rapanui Pasqua",
+          "context": "The children's introduction to the Straw Hats"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [141, 142],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep140-event-004",
+      "episodeNumber": 140,
+      "timestamp": "10:30",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Henzo Recognizes His Childhood Friends",
+      "description": "Henzo is shocked when he recognizes the five children as his old friends who disappeared fifty years ago. Despite five decades passing in the outside world, they haven't aged at all within the Rainbow Mist.",
+      "significance": "Major revelation that explains Henzo's motivation for researching the Rainbow Mist and establishes the time distortion properties of Ape's Concert.",
+      "characterIds": ["henzo", "rapanui-pasqua", "isoka", "akibi", "rongo", "pukau"],
+      "locationIds": ["apes-concert"],
+      "quotes": [
+        {
+          "text": "It can't be... Rapanui? Isoka? Is it really you?",
+          "speaker": "Henzo",
+          "context": "Henzo recognizing his childhood friends after fifty years"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [139],
+      "payoffInEpisodes": [141, 142, 143],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep140-event-005",
+      "episodeNumber": 140,
+      "timestamp": "13:00",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Flashback: The Pumpkin Pirates' Formation",
+      "description": "Henzo recounts how the Pumpkin Pirates were formed when they were children living on Ruluka Island. They dreamed of becoming real pirates and protecting their town.",
+      "significance": "Provides crucial backstory for the Pumpkin Pirates and establishes their relationship with Henzo, explaining the emotional weight of their reunion.",
+      "characterIds": ["henzo", "rapanui-pasqua", "isoka", "akibi", "rongo", "pukau"],
+      "locationIds": ["ruluka-island"],
+      "crewIds": ["pumpkin-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [141, 142],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep140-event-006",
+      "episodeNumber": 140,
+      "timestamp": "15:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Flashback: Wetton's Attack on Ruluka",
+      "description": "The flashback reveals how the pirate captain Wetton and his crew attacked and burned down the town of Ruluka. The children fled by stealing the pirates' ship and sailing into the Rainbow Mist.",
+      "significance": "Establishes Wetton as the antagonist and explains how the Pumpkin Pirates became trapped in the Rainbow Mist, setting up the arc's central conflict.",
+      "characterIds": ["wetton", "ian", "rapanui-pasqua", "isoka", "akibi", "rongo", "pukau", "henzo"],
+      "locationIds": ["ruluka-island", "rainbow-mist"],
+      "crewIds": ["wetton-pirates", "pumpkin-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [141, 142, 143],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep140-event-007",
+      "episodeNumber": 140,
+      "timestamp": "17:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Ian's Debut",
+      "description": "Ian, the Raiding Captain of the Wetton Pirates, is shown in the flashback chasing the children alongside Wetton. He was also trapped in the Rainbow Mist fifty years ago.",
+      "significance": "Introduces Ian as a secondary antagonist who has been imprisoned in Ape's Concert for decades.",
+      "characterIds": ["ian", "wetton"],
+      "locationIds": ["rainbow-mist", "apes-concert"],
+      "crewIds": ["wetton-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [141, 142],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep140-event-008",
+      "episodeNumber": 140,
+      "timestamp": "18:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Henzo Falls Overboard",
+      "description": "During the escape from Wetton's pursuit, Henzo fell into the ocean while his friends sailed into the Rainbow Mist. This separated him from the Pumpkin Pirates, leaving him to age normally while they remained trapped.",
+      "significance": "Explains why Henzo is elderly while his friends are still children, and establishes his fifty-year quest to rescue them.",
+      "characterIds": ["henzo", "rapanui-pasqua", "isoka", "akibi", "rongo", "pukau"],
+      "locationIds": ["ocean", "rainbow-mist"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [139],
+      "payoffInEpisodes": [141, 142, 143],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep140-event-009",
+      "episodeNumber": 140,
+      "timestamp": "20:00",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Time Distortion in the Rainbow Mist Explained",
+      "description": "It's revealed that time passes differently within the Rainbow Mist. The children have been trapped for fifty years from the outside world's perspective but have only experienced a short time within Ape's Concert.",
+      "significance": "Establishes the unique temporal properties of the Rainbow Mist, explaining the central mystery of the arc and the ontological paradox involving the Pumpkin Pirates.",
+      "characterIds": ["henzo", "robin"],
+      "locationIds": ["apes-concert", "rainbow-mist"],
+      "quotes": [
+        {
+          "text": "Time doesn't flow the same way inside the Rainbow Mist. They've been trapped here for fifty years, but for them, it's only been a short while.",
+          "speaker": "Robin",
+          "context": "Explaining the time distortion effect to the crew"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [139],
+      "payoffInEpisodes": [141, 142, 143],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep140-event-010",
+      "episodeNumber": 140,
+      "timestamp": "22:00",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Lake Finds Nami, Sanji, and Chopper",
+      "description": "On Ruluka Island, Lake (Wetton's grandson) locates Nami, Sanji, and Chopper who are searching for their missing crewmates and ship.",
+      "significance": "Parallel storyline on Ruluka Island showing the divided crew and setting up the reunion plot.",
+      "characterIds": ["lake", "nami", "sanji", "chopper"],
+      "locationIds": ["ruluka-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [139],
+      "payoffInEpisodes": [141],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep140-event-011",
+      "episodeNumber": 140,
+      "timestamp": "23:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Misunderstanding with Commander Rapanui's Coin",
+      "description": "Commander Rapanui (adult version) shoots a coin at a robot, but Lake mistakenly believes Sanji threw it. This misunderstanding leads to the three Straw Hats being accepted on the island.",
+      "significance": "Comedic moment that advances the parallel plot and hints at Rapanui's unique fighting style using coins.",
+      "characterIds": ["rapanui-pasqua", "sanji", "lake", "nami", "chopper"],
+      "locationIds": ["ruluka-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep140-event-012",
+      "episodeNumber": 140,
+      "timestamp": "24:30",
+      "eventType": "TREASURE_DISCOVERY",
+      "severity": "MINOR",
+      "title": "Nami Learns About Rainbow Mist Treasure",
+      "description": "Nami learns that the Going Merry entered the Rainbow Mist, which is supposedly filled with treasure. Despite Mayor Wetton's opposition, she becomes eager to enter the mist.",
+      "significance": "Establishes Nami's motivation to enter the Rainbow Mist and creates conflict with Wetton's plans.",
+      "characterIds": ["nami", "wetton", "lake"],
+      "locationIds": ["ruluka-island", "rainbow-mist"],
+      "quotes": [
+        {
+          "text": "Treasure?! Our ship is in a place filled with treasure?!",
+          "speaker": "Nami",
+          "context": "Nami's excitement upon learning about the Rainbow Mist"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [139],
+      "payoffInEpisodes": [141],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["ian"],
+    "locations": ["apes-concert"],
+    "devilFruits": [],
+    "crews": ["pumpkin-pirates"],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [141, 142, 143],
+    "payoffFrom": [139],
+    "thematicLinks": []
+  },
+  "quotes": [
+    {
+      "text": "We are the Pumpkin Pirates! Leave now or we'll set off this bomb!",
+      "speaker": "Rapanui Pasqua",
+      "context": "The children's introduction to the Straw Hats",
+      "timestamp": "08:00"
+    },
+    {
+      "text": "It can't be... Rapanui? Isoka? Is it really you?",
+      "speaker": "Henzo",
+      "context": "Henzo recognizing his childhood friends after fifty years",
+      "timestamp": "10:30"
+    },
+    {
+      "text": "Time doesn't flow the same way inside the Rainbow Mist. They've been trapped here for fifty years, but for them, it's only been a short while.",
+      "speaker": "Robin",
+      "context": "Explaining the time distortion effect to the crew",
+      "timestamp": "20:00"
+    },
+    {
+      "text": "Treasure?! Our ship is in a place filled with treasure?!",
+      "speaker": "Nami",
+      "context": "Nami's excitement upon learning about the Rainbow Mist",
+      "timestamp": "24:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Time and Aging",
+      "description": "The episode explores the effects of time distortion, with Henzo aging fifty years while his friends remained children in the Rainbow Mist.",
+      "symbolism": "The Rainbow Mist represents a pocket dimension where normal rules don't apply, symbolizing how different experiences of time can separate loved ones.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Friendship and Loyalty",
+      "description": "Henzo's fifty-year quest to rescue his friends demonstrates unwavering loyalty and the enduring power of childhood bonds.",
+      "symbolism": "The Pumpkin Pirates' unchanged appearance symbolizes how true friendship remains constant despite the passage of time.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Dreams and Ambition",
+      "description": "The Pumpkin Pirates' childhood dream of becoming pirates mirrors the Straw Hats' own journey, creating a parallel between the two crews.",
+      "symbolism": "Their pirate ship and costumes represent the innocent dreams of childhood that can persist against all odds.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Mystery", "Emotional", "Adventurous", "Nostalgic"],
+  "characterSpotlights": [
+    {
+      "characterId": "henzo",
+      "role": "Emotional center of the episode",
+      "development": "Henzo's backstory is revealed, showing his dedication to rescuing his childhood friends and explaining his fifty years of research into the Rainbow Mist.",
+      "keyActions": [
+        "Enters Ape's Concert with the Straw Hats",
+        "Recognizes the Pumpkin Pirates as his childhood friends",
+        "Recounts the flashback of their escape from Wetton"
+      ],
+      "quotes": ["It can't be... Rapanui? Isoka? Is it really you?"]
+    },
+    {
+      "characterId": "rapanui-pasqua",
+      "role": "Leader of the Pumpkin Pirates",
+      "development": "Introduced as a child guarding Ape's Concert, later revealed to be Henzo's childhood friend who has been trapped for fifty years.",
+      "keyActions": [
+        "Attempts to scare the Straw Hats as a ghost",
+        "Reveals himself as leader of the Pumpkin Pirates",
+        "Threatens intruders with a bomb"
+      ],
+      "quotes": ["We are the Pumpkin Pirates! Leave now or we'll set off this bomb!"]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Curious explorer",
+      "development": "Luffy discovers the treasure-filled nature of Ape's Concert and helps uncover the mystery of the Pumpkin Pirates.",
+      "keyActions": [
+        "Explores the ship graveyard",
+        "Discovers treasure in the shipwrecks",
+        "Encounters the Pumpkin Pirates"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The entire Ruluka Island Arc is anime-only filler and does not appear in the manga. This episode and the entire arc (episodes 139-143) have no manga counterpart.",
+      "episodeTimestamp": "N/A",
+      "mangaReference": "N/A",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode features a voice acting error in the English dub where Sanji's voice is mistakenly heard during Usopp's line asking 'what is that?!'",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_140",
+          "title": "Episode 140 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The name 'Rapanui Pasqua' references Easter Island - 'Rapa Nui' is the native name for Easter Island, and 'Pasqua' is Spanish for Easter.",
+      "category": "CHARACTER_NAMES",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Rapanui_Pasqua",
+          "title": "Rapanui Pasqua - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Ape's Concert (エイプスコンサート) is likely a pun on the Sargasso Sea. In Japanese, 'Sargasso' (サルガッソ) sounds similar to 'saru gassō' (猿合奏), meaning 'monkey/ape concert'.",
+      "category": "LOCATION_NAMES",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Rainbow_Mist",
+          "title": "Rainbow Mist - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The Ruluka Island Arc was the last arc dubbed by 4Kids Entertainment before they lost the One Piece license. It aired on Cartoon Network in the United States on August 25, 2007.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Ruluka_Island_Arc",
+          "title": "Ruluka Island Arc - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The Pumpkin Pirates are the only known pirate crew in One Piece to eventually join the Marines, creating an ontological paradox where they become the same Marines who chased the Straw Hats to Ruluka Island.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Pumpkin_Pirates",
+          "title": "Pumpkin Pirates - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This arc features time travel elements, which creates a continuity issue since the Straw Hats are surprised by time travel in the canonical Wano Country Arc, despite experiencing it in this filler arc.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Recap/OnePieceRainbowMistArc",
+          "title": "One Piece - Rainbow Mist Arc Recap - TV Tropes",
+          "platform": "TV Tropes",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

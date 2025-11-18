@@ -1,0 +1,444 @@
+{
+  "episodeNumber": 144,
+  "episodeTitle": "The Log is Taken! Salvage King, Masira!",
+  "titleJapanese": "奪われたログ！サルベージ王マシラ！",
+  "titleRomanized": "Ubawareta Rogu! Sarubēji-ō Mashira!",
+  "description": "The Straw Hats witness a massive ship fall from the sky near the Going Merry. Upon investigation, they discover it's the St. Briss, a 200-year-old vessel from the South Blue containing a map to Skypiea. While exploring the wreck underwater, they encounter Masira, a salvager who claims ownership of all shipwrecks in the area. The episode ends when a giant sea turtle swallows the entire ship with everyone inside.",
+  "airDate": "2003-02-09",
+  "airDateJapan": "2003-02-09",
+  "airDateUS": "2007-09-29",
+  "airDateFunimationTV": "2007-09-29",
+  "airDateFunimationDVD": "2010-07-06",
+  "arcName": "Jaya Arc",
+  "sagaName": "Sky Island Saga",
+  "mangaChapters": [218, 219],
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Hikari e",
+    "artist": "The Babystars",
+    "episodeRange": [116, 168]
+  },
+  "endingSong": {
+    "title": "Free Will",
+    "artist": "Ruppina",
+    "episodeRange": [144, 156]
+  },
+  "credits": {
+    "director": "Hidehiko Kadota",
+    "writer": "Yoshiyuki Suga",
+    "animationDirector": "Takeo Ide",
+    "artDirectors": ["Miyuki Sato", "Michiyo Kawasaki"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Masira",
+        "actor": "Aruno Tahara"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Masira",
+        "actor": "Jeremy Inman"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep144-event-001",
+      "episodeNumber": 144,
+      "timestamp": "02:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Log Pose Points to the Sky",
+      "description": "Nami discovers that her Log Pose is pointing straight up into the sky instead of horizontally to the next island. The crew is baffled by this impossible phenomenon, as Log Poses should only point to islands on the sea. This mysterious occurrence hints at the existence of islands in the sky.",
+      "significance": "First concrete evidence that Sky Islands might exist, setting up the entire Sky Island Saga. This unusual Log Pose behavior becomes a central mystery driving the Jaya Arc narrative.",
+      "characterIds": ["nami", "luffy", "usopp", "sanji", "zoro", "chopper", "robin"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "The Log Pose... it's pointing up at the sky!",
+          "speaker": "Nami",
+          "context": "Nami's shocked discovery that challenges everything she knows about navigation"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [145, 146, 147, 148, 149, 150, 151, 152, 153],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep144-event-002",
+      "episodeNumber": 144,
+      "timestamp": "04:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "St. Briss Falls from the Sky",
+      "description": "A massive galleon ship, later identified as the St. Briss, plummets from the sky and crashes into the ocean near the Going Merry, creating enormous waves. The crew is stunned to witness a large vessel literally falling from above, seemingly confirming the possibility of Sky Islands.",
+      "significance": "Physical proof that ships can reach the sky and fall back down. This event validates the Log Pose's unusual behavior and provides the crew with their first tangible evidence of Sky Islands. The St. Briss becomes crucial to understanding how to reach Skypiea.",
+      "characterIds": ["luffy", "nami", "usopp", "sanji", "zoro", "chopper", "robin"],
+      "locationIds": ["going-merry", "st-briss"],
+      "quotes": [
+        {
+          "text": "A ship just fell out of the sky!",
+          "speaker": "Usopp",
+          "context": "The crew's astonished reaction to the impossible sight"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [145, 146, 147],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep144-event-003",
+      "episodeNumber": 144,
+      "timestamp": "06:45",
+      "eventType": "TREASURE_DISCOVERY",
+      "severity": "MAJOR",
+      "title": "Discovery of the Skypiea Map",
+      "description": "While exploring the sunken St. Briss wreckage, Luffy discovers an old map labeled 'Skypiea.' This map becomes the crew's first concrete clue about the location and existence of the legendary Sky Island, though it doesn't show how to actually reach it.",
+      "significance": "Provides the name 'Skypiea' and confirms that Sky Islands are real destinations that can be mapped. This discovery motivates the crew to learn more about reaching Sky Islands and sets them on the path to their next great adventure.",
+      "characterIds": ["luffy", "nami", "robin"],
+      "locationIds": ["st-briss"],
+      "quotes": [
+        {
+          "text": "I found a map! It says Skypiea on it!",
+          "speaker": "Luffy",
+          "context": "Luffy's excited announcement after being rescued from drowning in the wreck"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [145, 146, 147, 148, 149, 150, 151, 152, 153],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep144-event-004",
+      "episodeNumber": 144,
+      "timestamp": "08:20",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Robin Identifies Ancient Medical Procedure",
+      "description": "Nico Robin examines a skull from the St. Briss and identifies evidence of craterization, an ancient medical procedure. Based on this analysis, she deduces that the person died at least 200 years ago, establishing the ship's age and origin from the South Blue's Briss Kingdom.",
+      "significance": "Demonstrates Robin's archaeological expertise and establishes the historical significance of the St. Briss. This detail proves that the ship has been gone for over two centuries, adding mystery to how it ended up in the sky and fell back down.",
+      "characterIds": ["robin", "nami", "chopper"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "This is craterization... this person must have been dead for at least 200 years.",
+          "speaker": "Robin",
+          "context": "Robin's archaeological analysis of the skull from the St. Briss"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep144-event-005",
+      "episodeNumber": 144,
+      "timestamp": "10:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Masira's Debut",
+      "description": "Masira, captain of the Masira Pirates, arrives with his crew aboard their salvage ship. He introduces himself as the 'Salvage King' and declares that all shipwrecks in this area belong to him. His crew begins preparing to salvage the St. Briss, viewing the Straw Hats as potential thieves.",
+      "significance": "Introduction of Masira, who becomes an important ally in the Jaya Arc. His salvage operation and knowledge of the area prove crucial to the Straw Hats' journey. This marks the beginning of the relationship with the Saruyama Alliance.",
+      "characterIds": ["masira", "luffy", "nami", "usopp", "zoro", "sanji"],
+      "locationIds": ["masira-pirate-ship", "st-briss"],
+      "crewIds": ["masira-pirates"],
+      "quotes": [
+        {
+          "text": "I am Masira, captain of the Masira Pirates and the Salvage King! This wreck is now my property!",
+          "speaker": "Masira",
+          "context": "Masira's bold introduction as he claims the St. Briss"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [145, 146, 147, 148, 149, 150, 151, 152],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep144-event-006",
+      "episodeNumber": 144,
+      "timestamp": "13:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Underwater Exploration with Breathing Barrels",
+      "description": "Luffy, Zoro, and Sanji dive underwater to explore the St. Briss wreckage using special breathing barrels designed by Usopp. These barrels allow them to breathe while underwater, though Luffy still struggles due to his Devil Fruit weakness making him unable to swim properly.",
+      "significance": "Showcases Usopp's ingenuity in creating tools for the crew's adventures. Also demonstrates the ongoing challenge of Luffy's Devil Fruit weakness around water, requiring creative solutions and teamwork.",
+      "characterIds": ["luffy", "zoro", "sanji", "usopp"],
+      "locationIds": ["st-briss"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep144-event-007",
+      "episodeNumber": 144,
+      "timestamp": "15:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Luffy Compliments Masira's Monkey Appearance",
+      "description": "When Masira swims down to confront Luffy, Zoro, and Sanji inside the wreck, Luffy innocently comments that Masira looks like a monkey. Rather than taking offense, Masira is flattered by the comparison and loses his aggression toward the trio, becoming friendly.",
+      "significance": "A humorous character moment that establishes Masira's personality and sets up his eventual alliance with the Straw Hats. Shows Luffy's straightforward nature creating unexpected positive outcomes.",
+      "characterIds": ["luffy", "masira", "zoro", "sanji"],
+      "locationIds": ["st-briss"],
+      "quotes": [
+        {
+          "text": "You look like a monkey!",
+          "speaker": "Luffy",
+          "context": "Luffy's blunt observation that unexpectedly pleases Masira"
+        },
+        {
+          "text": "Ukikikiki! You really think so? Thank you!",
+          "speaker": "Masira",
+          "context": "Masira's delighted response to Luffy's comment"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [145, 146],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep144-event-008",
+      "episodeNumber": 144,
+      "timestamp": "19:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Giant Sea Turtle Swallows the Ship",
+      "description": "As Masira's crew works to raise the St. Briss and the Straw Hats continue exploring it, a colossal sea turtle suddenly emerges from the depths and swallows the entire shipwreck with Luffy, Zoro, Sanji, and Masira still inside. The episode ends on this cliffhanger with everyone trapped.",
+      "significance": "Creates immediate danger and a cliffhanger ending. Introduces the Grand Line's unpredictable and dangerous sea creatures. Forces the Straw Hats and Masira to work together for survival.",
+      "characterIds": ["luffy", "zoro", "sanji", "masira", "nami", "usopp", "chopper"],
+      "locationIds": ["st-briss"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [145],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["masira"],
+    "locations": ["st-briss", "masira-pirate-ship"],
+    "devilFruits": [],
+    "crews": ["masira-pirates"],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [145, 146, 147, 148, 149, 150, 151, 152, 153],
+    "payoffFrom": [143],
+    "thematicLinks": [153, 154, 155, 156, 157]
+  },
+  "quotes": [
+    {
+      "text": "The Log Pose... it's pointing up at the sky!",
+      "speaker": "Nami",
+      "context": "Discovering the impossible phenomenon",
+      "timestamp": "02:30"
+    },
+    {
+      "text": "I found a map! It says Skypiea on it!",
+      "speaker": "Luffy",
+      "context": "Finding crucial evidence of Sky Islands",
+      "timestamp": "06:45"
+    },
+    {
+      "text": "I am Masira, captain of the Masira Pirates and the Salvage King!",
+      "speaker": "Masira",
+      "context": "Masira's introduction",
+      "timestamp": "10:00"
+    },
+    {
+      "text": "You look like a monkey!",
+      "speaker": "Luffy",
+      "context": "Luffy's blunt but endearing comment to Masira",
+      "timestamp": "15:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Dreams and Impossible Goals",
+      "description": "The episode introduces the concept of Sky Islands, which seems impossible but proves to be real through concrete evidence. This reinforces One Piece's central theme that seemingly impossible dreams can be achieved.",
+      "symbolism": "The Log Pose pointing upward symbolizes reaching for the seemingly impossible, while the falling ship proves that these impossible goals are achievable.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Mystery and Discovery",
+      "description": "The St. Briss falling from the sky and the discovery of the Skypiea map create intrigue and mystery, driving the crew's curiosity and determination to explore the unknown.",
+      "symbolism": "The 200-year-old ship represents forgotten history and lost knowledge that the crew must uncover to progress on their journey.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Cooperation Through Understanding",
+      "description": "Luffy's innocent comment about Masira looking like a monkey defuses tension and leads to cooperation, showing how honest communication can bridge potential conflicts.",
+      "symbolism": "Masira's positive reaction to what could have been an insult demonstrates that perspective and attitude matter more than words themselves.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Mysterious", "Adventurous", "Comedic", "Intriguing"],
+  "characterSpotlights": [
+    {
+      "characterId": "nami",
+      "role": "Navigator dealing with impossible navigation phenomenon",
+      "development": "Nami's expertise as a navigator is challenged by the Log Pose pointing to the sky, forcing her to accept that the Grand Line contains mysteries beyond conventional navigation.",
+      "keyActions": [
+        "Discovers the Log Pose pointing to the sky",
+        "Analyzes the Skypiea map with Robin",
+        "Questions the possibility of Sky Islands"
+      ],
+      "quotes": ["The Log Pose... it's pointing up at the sky!"]
+    },
+    {
+      "characterId": "robin",
+      "role": "Archaeologist providing historical context",
+      "development": "Robin's archaeological knowledge proves valuable in identifying the St. Briss's age and origin, establishing her role as the crew's historian and analyst.",
+      "keyActions": [
+        "Examines skull from St. Briss",
+        "Identifies craterization technique",
+        "Deduces the ship is 200 years old from South Blue"
+      ],
+      "quotes": ["This is craterization... this person must have been dead for at least 200 years."]
+    },
+    {
+      "characterId": "masira",
+      "role": "New character introduction and potential ally",
+      "development": "Masira debuts as a salvage expert with comedic personality traits. His positive reaction to Luffy establishes him as a friendly character rather than antagonist.",
+      "keyActions": [
+        "Introduces himself as the Salvage King",
+        "Claims ownership of the St. Briss wreck",
+        "Befriends Luffy after being called a monkey",
+        "Gets trapped in the sea turtle with the Straw Hats"
+      ],
+      "quotes": ["I am Masira, captain of the Masira Pirates and the Salvage King!", "Ukikikiki! You really think so? Thank you!"]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Captain driving the adventure forward",
+      "development": "Luffy's excitement about the impossible (Sky Islands) and his innocent directness (calling Masira a monkey) both create opportunities for the crew's journey.",
+      "keyActions": [
+        "Discovers the Skypiea map in the wreck",
+        "Befriends Masira with honest comment",
+        "Explores the St. Briss underwater"
+      ],
+      "quotes": ["I found a map! It says Skypiea on it!", "You look like a monkey!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended some reaction scenes and added more detailed animation of the St. Briss falling from the sky compared to the manga's more compressed presentation.",
+      "episodeTimestamp": "04:15",
+      "mangaReference": "Chapter 218",
+      "type": "EXPANDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the first episode of the Jaya Arc and the beginning of the Sky Island Saga, one of the most important story arcs in One Piece.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_144",
+          "title": "Episode 144 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The ending theme 'Free Will' by Ruppina debuts in this episode and focuses on Nico Robin, showing glimpses of her past before her backstory is revealed.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Free_Will",
+          "title": "Free Will - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Masira's character design and personality are based on the Japanese macaque monkey, with his name literally meaning 'monkey' in Japanese.",
+      "category": "CHARACTER_DESIGN",
+      "sources": []
+    },
+    {
+      "fact": "The St. Briss is named after the Briss Kingdom in the South Blue, foreshadowing the importance of the Four Blues' histories in the overall story.",
+      "category": "WORLDBUILDING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/St._Briss",
+          "title": "St. Briss - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 144 achieved a TV rating of 13.9% in Japan, ranking 4th in viewership for its timeslot.",
+      "category": "PRODUCTION",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
