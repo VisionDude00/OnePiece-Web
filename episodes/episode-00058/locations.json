@@ -1,0 +1,146 @@
+[
+  {
+    "name": {
+      "english": "Lost Island Underground Ruins",
+      "japanese": "ロストアイランドの地下遺跡",
+      "romanized": "Rosuto Airando no Chika Iseki"
+    },
+    "locationType": "RUINS",
+    "seaRegion": "EAST_BLUE",
+    "islandName": "Lost Island",
+    "debutEpisode": 58,
+    "debutChapter": null,
+    "description": "Ancient underground ruins discovered beneath the dome-shaped building on Lost Island. The ruins contain ceiling paintings depicting Sennenryu dragons and evidence of an ancient royal court. The ground collapsed, revealing this hidden archaeological site.",
+    "episodeAppearances": [58],
+    "keyEvents": [
+      {
+        "episodeNumber": 58,
+        "eventId": "ep058-event-001",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Discovery of Underground Ruins",
+        "description": "The Straw Hat Pirates fall into the underground ruins when the ground collapses beneath them, revealing this ancient site.",
+        "significance": "This location contains the key to solving the mystery of the Dragon's Nest location.",
+        "timestamp": "03:00"
+      },
+      {
+        "episodeNumber": 58,
+        "eventId": "ep058-event-002",
+        "eventType": "WORLD_LORE",
+        "title": "Ancient Sennenryu Paintings Discovered",
+        "description": "The ruins contain ancient ceiling paintings depicting Sennenryu dragons, providing historical evidence of their existence.",
+        "significance": "These paintings help the crew deduce the true location of the Dragon's Nest.",
+        "timestamp": "05:30"
+      },
+      {
+        "episodeNumber": 58,
+        "eventId": "ep058-event-006",
+        "eventType": "BATTLE_START",
+        "title": "Zoro vs Eric Battle",
+        "description": "Zoro confronts and battles Eric in the underground ruins to protect the crew and buy them time to escape.",
+        "significance": "The ruins serve as the battleground for this important confrontation.",
+        "timestamp": "12:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "HIDDEN",
+        "episodeStart": 1,
+        "episodeEnd": 57,
+        "reason": "The ruins were hidden underground and undiscovered"
+      },
+      {
+        "status": "ACTIVE",
+        "episodeStart": 58,
+        "episodeEnd": "present",
+        "reason": "Ruins revealed when the ground collapsed"
+      }
+    ],
+    "parentLocation": "lost-island",
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "zoro", "nami", "usopp", "sanji", "apis", "eric"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Warship Island"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Lost Island",
+      "japanese": "ロストアイランド",
+      "romanized": "Rosuto Airando"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "EAST_BLUE",
+    "islandName": "Lost Island",
+    "debutEpisode": 57,
+    "debutChapter": null,
+    "description": "An island in the East Blue initially believed to be the location of the Dragon's Nest. The Straw Hats discover it was actually the site of an ancient royal court mentioned in historical stories. The island features a mountain with a dome-shaped building at its peak.",
+    "episodeAppearances": [58],
+    "keyEvents": [
+      {
+        "episodeNumber": 58,
+        "eventId": "ep058-event-004",
+        "eventType": "WORLD_LORE",
+        "title": "Identified as Ancient Royal Court",
+        "description": "The crew realizes Lost Island was the ancient royal court from Bokuden's stories, not the Dragon's Nest.",
+        "significance": "This revelation corrects their understanding of the island's historical significance.",
+        "timestamp": "09:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 57,
+        "episodeEnd": "present",
+        "reason": "Island is accessible and explored by the crew"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["lost-island-ruins"],
+    "relatedCharacters": ["luffy", "zoro", "nami", "usopp", "sanji", "apis", "ryu", "eric"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Warship Island"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Warship Island",
+      "japanese": "軍艦島",
+      "romanized": "Gunkan-jima"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "EAST_BLUE",
+    "islandName": "Warship Island",
+    "debutEpisode": 54,
+    "debutChapter": null,
+    "description": "An island in the East Blue that is home to Apis and her grandfather. This island is revealed to be the true location of the Dragon's Nest, which has since sunk beneath the ocean. The island rises from the sea approximately once every 1,000 years.",
+    "episodeAppearances": [58],
+    "keyEvents": [
+      {
+        "episodeNumber": 58,
+        "eventId": "ep058-event-003",
+        "eventType": "WORLD_LORE",
+        "title": "Revealed as True Dragon's Nest Location",
+        "description": "Nami deduces that Warship Island was the actual location of the Dragon's Nest, though it has now sunk beneath the sea.",
+        "significance": "This is the major revelation of the episode that solves the central mystery of the arc and sets up the journey back to Warship Island.",
+        "timestamp": "07:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 54,
+        "episodeEnd": "present",
+        "reason": "Island is inhabited and accessible"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": [],
+    "relatedCharacters": ["apis", "luffy", "zoro", "nami", "usopp", "sanji", "ryu"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Warship Island"],
+    "images": []
+  }
+]

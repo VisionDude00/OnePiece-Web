@@ -1,0 +1,104 @@
+[
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "luffy",
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [60],
+    "members": [
+      {
+        "characterId": "luffy",
+        "role": "Captain",
+        "episodeJoined": 1,
+        "episodeLeft": null,
+        "joinCircumstances": "Founded the crew"
+      },
+      {
+        "characterId": "zoro",
+        "role": "Swordsman",
+        "episodeJoined": 2,
+        "episodeLeft": null,
+        "joinCircumstances": "First crew member to join"
+      },
+      {
+        "characterId": "nami",
+        "role": "Navigator",
+        "episodeJoined": 44,
+        "episodeLeft": null,
+        "joinCircumstances": "Officially joined after Arlong Park arc"
+      },
+      {
+        "characterId": "usopp",
+        "role": "Sniper",
+        "episodeJoined": 17,
+        "episodeLeft": null,
+        "joinCircumstances": "Joined in Syrup Village"
+      },
+      {
+        "characterId": "sanji",
+        "role": "Cook",
+        "episodeJoined": 30,
+        "episodeLeft": null,
+        "joinCircumstances": "Joined after Baratie arc"
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 60,
+        "eventId": "ep060-event-006",
+        "momentType": "BATTLE_END",
+        "title": "Straw Hats Defeat Nelson's Marines",
+        "description": "The Straw Hat Pirates successfully defeat Commodore Nelson Royal's Marine fleet, with Luffy destroying the flagship and the crew protecting Apis and Ryu.",
+        "significance": "Demonstrates the crew's growing strength and their willingness to fight against corrupt Marines to protect innocent people and creatures. Shows them as a cohesive fighting unit.",
+        "timestamp": "12:30"
+      },
+      {
+        "episodeNumber": 60,
+        "eventId": "ep060-event-007",
+        "momentType": "LOCATION_ARRIVAL",
+        "title": "Straw Hats Witness Lost Island's Emergence",
+        "description": "The entire crew witnesses the legendary Lost Island resurface from the ocean, fulfilling Ryu's dream and completing their mission.",
+        "significance": "Marks the successful completion of their promise to help Apis and Ryu. The crew experiences a miraculous moment that reinforces the wonder and mystery of their world.",
+        "timestamp": "14:00"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Going Merry",
+        "episodeAcquired": 17,
+        "episodeLost": null,
+        "description": "The Straw Hats' caravel ship gifted by Kaya"
+      }
+    ],
+    "bases": [],
+    "totalBountyProgression": [
+      {
+        "totalBounty": 76000000,
+        "episodeNumber": 60,
+        "memberBounties": {
+          "luffy": 30000000,
+          "zoro": 9000000,
+          "nami": 16000000,
+          "usopp": 30000000,
+          "sanji": 1000000
+        }
+      }
+    ],
+    "jollyRoger": {
+      "description": "A skull wearing a straw hat with crossed bones behind it",
+      "episodeFirstSeen": 45,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": ["apis", "bokuden"],
+      "enemies": ["nelson-royal", "eric"],
+      "parentOrganization": null
+    }
+  }
+]
