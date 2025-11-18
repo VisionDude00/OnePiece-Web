@@ -1,0 +1,84 @@
+[
+  {
+    "name": {
+      "english": "Rain Dinners",
+      "japanese": "レインディナーズ",
+      "romanized": "Rein Dināzu"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Alabasta",
+    "debutEpisode": 106,
+    "debutChapter": 169,
+    "description": "A large, luxurious casino in Rainbase, Alabasta, owned and operated by Crocodile as his secret base of operations for Baroque Works. The casino serves as a front for his criminal activities and contains hidden chambers including a prison with Seastone cages.",
+    "episodeAppearances": [106],
+    "keyEvents": [
+      {
+        "episodeNumber": 106,
+        "eventId": "ep106-event-001",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Rain Dinners Debut - The Trap",
+        "description": "The Straw Hat Pirates infiltrate Rain Dinners casino to confront Crocodile, but fall into his elaborate trap and are imprisoned in a Seastone cage.",
+        "significance": "Introduces Crocodile's main base of operations and the location where Operation Utopia is revealed.",
+        "timestamp": "05:00"
+      },
+      {
+        "episodeNumber": 106,
+        "eventId": "ep106-event-008",
+        "eventType": "WORLD_LORE",
+        "title": "Operation Utopia Revealed at Rain Dinners",
+        "description": "Crocodile reveals his master plan, Operation Utopia, to destroy the Alabasta Kingdom from his base at Rain Dinners.",
+        "significance": "Rain Dinners serves as the location where the true extent of Crocodile's conspiracy is unveiled.",
+        "timestamp": "20:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 106,
+        "episodeEnd": null,
+        "reason": "Casino is operational as Crocodile's base"
+      }
+    ],
+    "parentLocation": "Rainbase",
+    "childLocations": ["Rain Dinners Prison", "Rain Dinners VIP Room"],
+    "relatedCharacters": ["crocodile", "nico-robin", "luffy", "zoro", "nami", "usopp", "smoker", "vivi"],
+    "relatedCrews": ["baroque-works", "straw-hat-pirates", "marines"],
+    "relatedArcs": ["Alabasta Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Rainbase",
+      "japanese": "レインベース",
+      "romanized": "Reinbēsu"
+    },
+    "locationType": "CITY",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Alabasta",
+    "debutEpisode": 103,
+    "debutChapter": 166,
+    "description": "A city in Alabasta Kingdom known for its casino district. Despite its name, Rainbase is located in a desert region and rarely receives rain. It houses the famous Rain Dinners casino owned by Crocodile.",
+    "episodeAppearances": [106],
+    "keyEvents": [
+      {
+        "episodeNumber": 106,
+        "eventId": "ep106-event-001",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Confrontation at Rainbase",
+        "description": "The Straw Hats arrive in Rainbase to confront Crocodile at his Rain Dinners casino.",
+        "significance": "The city serves as the setting for the confrontation between the Straw Hats and Crocodile.",
+        "timestamp": "05:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [],
+    "parentLocation": "Alabasta",
+    "childLocations": ["Rain Dinners"],
+    "relatedCharacters": ["crocodile", "luffy", "vivi"],
+    "relatedCrews": ["baroque-works", "straw-hat-pirates"],
+    "relatedArcs": ["Alabasta Arc"],
+    "images": []
+  }
+]

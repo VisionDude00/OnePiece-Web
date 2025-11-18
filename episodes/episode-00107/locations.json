@@ -1,0 +1,164 @@
+[
+  {
+    "name": {
+      "english": "Nanohana",
+      "japanese": "ナノハナ",
+      "romanized": "Nanohana"
+    },
+    "locationType": "TOWN",
+    "seaRegion": "PARADISE",
+    "islandName": "Arabasta",
+    "debutEpisode": 92,
+    "description": "A port town in Arabasta Kingdom where the Dance Powder evidence was planted. In this episode, it becomes the site of Mr. 2's impersonation of King Cobra and the armory ship attack by Mr. 1 and Miss Doublefinger.",
+    "episodeAppearances": [107],
+    "keyEvents": [
+      {
+        "episodeNumber": 107,
+        "eventId": "ep107-event-004",
+        "eventType": "POWER_REVEAL",
+        "title": "Fake King Appears in Nanohana",
+        "description": "Mr. 2 Bon Clay, disguised as King Cobra, appears in the streets of Nanohana and makes a public confession about using Dance Powder.",
+        "significance": "The public confession in Nanohana serves as the catalyst that pushes the rebellion to march on Alubarna.",
+        "timestamp": "11:30"
+      },
+      {
+        "episodeNumber": 107,
+        "eventId": "ep107-event-005",
+        "eventType": "BATTLE_START",
+        "title": "Koza Confronts Fake King in Nanohana",
+        "description": "Rebel leader Koza confronts the figure he believes to be King Cobra in the streets of Nanohana.",
+        "significance": "This confrontation in the public square represents the breakdown of trust between rebels and royalty.",
+        "timestamp": "13:45"
+      },
+      {
+        "episodeNumber": 107,
+        "eventId": "ep107-event-007",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Armory Ship Crashes into Nanohana Harbor",
+        "description": "Mr. 1 and Miss Doublefinger crash a massive armory ship into Nanohana's harbor, destroying parts of the city.",
+        "significance": "The attack provides cover for the deception and arms the rebel forces.",
+        "timestamp": "16:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "UNDER_ATTACK",
+        "episodeStart": 107,
+        "episodeEnd": 107,
+        "reason": "Armory ship crashed into harbor and fires rage through the city"
+      }
+    ],
+    "parentLocation": "Arabasta Kingdom",
+    "relatedCharacters": ["koza", "mr-2-bon-clay", "mr-1", "miss-doublefinger", "kappa"],
+    "relatedCrews": ["baroque-works"],
+    "relatedArcs": ["Arabasta Arc"]
+  },
+  {
+    "name": {
+      "english": "Rain Dinners Casino",
+      "japanese": "レインディナーズ",
+      "romanized": "Rein Dināzu",
+      "aliases": ["Rain Dinners"]
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "PARADISE",
+    "islandName": "Arabasta",
+    "debutEpisode": 103,
+    "description": "Crocodile's casino headquarters in Rainbase where he explains Operation Utopia to the imprisoned Vivi and Straw Hat Pirates. The casino contains secret chambers including a cage room with Bananawani pits.",
+    "episodeAppearances": [107],
+    "keyEvents": [
+      {
+        "episodeNumber": 107,
+        "eventId": "ep107-event-001",
+        "eventType": "WORLD_LORE",
+        "title": "Operation Utopia Revealed at Rain Dinners",
+        "description": "At his casino headquarters, Crocodile explains the full details of Operation Utopia to the imprisoned prisoners.",
+        "significance": "The revelation of the master plan at Crocodile's base of operations.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 107,
+        "eventId": "ep107-event-012",
+        "eventType": "MAJOR_DECISION",
+        "title": "Crocodile Throws Key to Bananawani",
+        "description": "In the secret chambers of Rain Dinners, Crocodile cruelly shows the cage key before throwing it into a pit of Bananawani.",
+        "significance": "Demonstrates Crocodile's sadistic confidence in his victory.",
+        "timestamp": "21:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "parentLocation": "Rainbase",
+    "childLocations": ["Secret Underground Chambers", "Bananawani Pit"],
+    "relatedCharacters": ["crocodile", "vivi", "luffy", "zoro", "nami", "usopp", "sanji", "smoker", "robin"],
+    "relatedCrews": ["baroque-works", "straw-hat-pirates"],
+    "relatedArcs": ["Arabasta Arc"]
+  },
+  {
+    "name": {
+      "english": "Rainbase",
+      "japanese": "レインベース",
+      "romanized": "Reinbēsu"
+    },
+    "locationType": "TOWN",
+    "seaRegion": "PARADISE",
+    "islandName": "Arabasta",
+    "debutEpisode": 103,
+    "description": "A town in Arabasta and the location of Crocodile's Rain Dinners casino. The town serves as Baroque Works' base of operations during Operation Utopia.",
+    "episodeAppearances": [107],
+    "keyEvents": [
+      {
+        "episodeNumber": 107,
+        "eventId": "ep107-event-001",
+        "eventType": "WORLD_LORE",
+        "title": "Operation Utopia Explained in Rainbase",
+        "description": "At his Rainbase headquarters, Crocodile reveals his full plan.",
+        "significance": "Rainbase serves as the villain's stronghold where he can openly discuss his schemes.",
+        "timestamp": "03:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "parentLocation": "Arabasta Kingdom",
+    "childLocations": ["Rain Dinners Casino"],
+    "relatedCharacters": ["crocodile", "robin"],
+    "relatedCrews": ["baroque-works"],
+    "relatedArcs": ["Arabasta Arc"]
+  },
+  {
+    "name": {
+      "english": "Alubarna",
+      "japanese": "アルバーナ",
+      "romanized": "Arubāna"
+    },
+    "locationType": "CAPITAL",
+    "seaRegion": "PARADISE",
+    "islandName": "Arabasta",
+    "debutEpisode": 92,
+    "description": "The capital city of Arabasta Kingdom and home to the royal palace. In this episode, it is mentioned as the destination for the rebel army's march.",
+    "episodeAppearances": [107],
+    "keyEvents": [
+      {
+        "episodeNumber": 107,
+        "eventId": "ep107-event-011",
+        "eventType": "MAJOR_DECISION",
+        "title": "Rebels March on Alubarna",
+        "description": "Koza orders the rebel army to begin their march toward the capital city of Alubarna.",
+        "significance": "Alubarna becomes the target and future battleground of the civil war.",
+        "timestamp": "20:15"
+      }
+    ],
+    "status": "THREATENED",
+    "statusHistory": [
+      {
+        "status": "THREATENED",
+        "episodeStart": 107,
+        "episodeEnd": 110,
+        "reason": "Rebel army marching on the capital for assault"
+      }
+    ],
+    "parentLocation": "Arabasta Kingdom",
+    "relatedCharacters": ["nefertari-cobra", "koza"],
+    "relatedCrews": [],
+    "relatedArcs": ["Arabasta Arc"]
+  }
+]
