@@ -1,0 +1,140 @@
+[
+  {
+    "name": {
+      "english": "Mock Town",
+      "japanese": "モックタウン",
+      "romanized": "Mokku Taun"
+    },
+    "locationType": "TOWN",
+    "seaRegion": "PARADISE",
+    "islandName": "Jaya",
+    "debutEpisode": 146,
+    "debutChapter": 222,
+    "description": "A lawless pirate town on Jaya island, filled with rough criminals and pirates. Mock Town is notorious for its violent atmosphere where dreaming is mocked and strength rules. The town features various bars, hotels, and establishments catering to pirates.",
+    "episodeAppearances": [146],
+    "keyEvents": [
+      {
+        "episodeNumber": 146,
+        "eventId": "ep146-event-001",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Straw Hats Arrive at Mock Town",
+        "description": "The Straw Hat Pirates arrive at Mock Town seeking information about Sky Island, marking their first encounter with this dangerous pirate haven.",
+        "significance": "Mock Town serves as the setting for crucial encounters with both Bellamy and Blackbeard.",
+        "timestamp": "03:15"
+      },
+      {
+        "episodeNumber": 146,
+        "eventId": "ep146-event-006",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Luffy Meets Blackbeard",
+        "description": "At a bar in Mock Town, Luffy has his first encounter with Marshall D. Teach (Blackbeard), debating about cherry pie.",
+        "significance": "The historic first meeting between Luffy and one of his greatest future adversaries.",
+        "timestamp": "11:45"
+      },
+      {
+        "episodeNumber": 146,
+        "eventId": "ep146-event-008",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Bellamy's Attack on Luffy",
+        "description": "Bellamy violently attacks Luffy in a Mock Town bar, mocking his dreams of finding Sky Island.",
+        "significance": "Establishes Mock Town's culture of cynicism and violence against dreamers.",
+        "timestamp": "15:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 146,
+        "episodeEnd": "present",
+        "reason": "Mock Town continues to operate as a pirate haven"
+      }
+    ],
+    "parentLocation": "jaya",
+    "childLocations": ["tropical-hotel"],
+    "relatedCharacters": ["luffy", "zoro", "nami", "bellamy", "blackbeard", "doc-q", "van-augur", "jesus-burgess", "sarquiss"],
+    "relatedCrews": ["straw-hat-pirates", "bellamy-pirates", "blackbeard-pirates"],
+    "relatedArcs": ["Jaya Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Jaya",
+      "japanese": "ジャヤ",
+      "romanized": "Jaya"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "PARADISE",
+    "islandName": "Jaya",
+    "debutEpisode": 146,
+    "debutChapter": 222,
+    "description": "An island in Paradise (the first half of the Grand Line) known for its pirate population and connection to the legend of Sky Island. Jaya is home to Mock Town and serves as a waypoint for pirates seeking information about the Knock Up Stream.",
+    "episodeAppearances": [146],
+    "keyEvents": [
+      {
+        "episodeNumber": 146,
+        "eventId": "ep146-event-001",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Arrival at Jaya",
+        "description": "The Straw Hats arrive at Jaya island, beginning their quest for information about Sky Island.",
+        "significance": "Jaya becomes the setting for important encounters and the setup for the Skypiea adventure.",
+        "timestamp": "03:15"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 146,
+        "episodeEnd": "present",
+        "reason": "Jaya remains inhabited"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["mock-town"],
+    "relatedCharacters": ["luffy", "zoro", "nami", "bellamy", "blackbeard"],
+    "relatedCrews": ["straw-hat-pirates", "bellamy-pirates", "blackbeard-pirates"],
+    "relatedArcs": ["Jaya Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Tropical Hotel",
+      "japanese": "トロピカルホテル",
+      "romanized": "Toropikaru Hoteru"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "PARADISE",
+    "islandName": "Jaya",
+    "debutEpisode": 146,
+    "debutChapter": 222,
+    "description": "A hotel in Mock Town where Luffy, Zoro, and Nami have an encounter with Sarquiss of the Bellamy Pirates.",
+    "episodeAppearances": [146],
+    "keyEvents": [
+      {
+        "episodeNumber": 146,
+        "eventId": "ep146-event-005",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Sarquiss Insults the Straw Hats",
+        "description": "Outside the Tropical Hotel, Sarquiss encounters the Straw Hats and insults them.",
+        "significance": "First confrontation with a member of the Bellamy Pirates.",
+        "timestamp": "09:20"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 146,
+        "episodeEnd": "present",
+        "reason": "Operating hotel in Mock Town"
+      }
+    ],
+    "parentLocation": "mock-town",
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "zoro", "nami", "sarquiss"],
+    "relatedCrews": ["straw-hat-pirates", "bellamy-pirates"],
+    "relatedArcs": ["Jaya Arc"],
+    "images": []
+  }
+]
