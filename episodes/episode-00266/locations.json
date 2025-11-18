@@ -1,0 +1,111 @@
+[
+  {
+    "id": "enies-lobby-main-gate",
+    "name": {
+      "english": "Enies Lobby Main Gate",
+      "japanese": "エニエス・ロビー正門",
+      "romanized": "Eniesu Robī Seimon"
+    },
+    "locationType": "GATE",
+    "seaRegion": "PARADISE",
+    "islandName": "Enies Lobby",
+    "debutEpisode": 265,
+    "debutChapter": 377,
+    "description": "The main entrance gate to Enies Lobby, guarded by two giants, Kashii and Oimo. This is the first major obstacle for anyone attempting to breach the World Government's judicial island.",
+    "episodeAppearances": [266],
+    "keyEvents": [
+      {
+        "episodeNumber": 266,
+        "eventId": "ep266-event-001",
+        "eventType": "BATTLE_START",
+        "title": "Franky Family and Galley-La Attack Kashii",
+        "description": "The Franky Family and Galley-La Company launch a coordinated attack against the giant guard Kashii at the main gate.",
+        "significance": "The beginning of the breach of Enies Lobby's defenses.",
+        "timestamp": "03:15"
+      },
+      {
+        "episodeNumber": 266,
+        "eventId": "ep266-event-005",
+        "eventType": "BATTLE_END",
+        "title": "Kashii Defeated",
+        "description": "Through combined efforts, the allied forces defeat the giant guard Kashii.",
+        "significance": "The first major victory in breaching Enies Lobby's defenses.",
+        "timestamp": "07:15"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 265,
+        "episodeEnd": "present",
+        "reason": "Main gate of Enies Lobby remains operational"
+      }
+    ],
+    "parentLocation": "enies-lobby",
+    "childLocations": [],
+    "relatedCharacters": ["kashii", "oimo", "zambai", "mozu", "kiwi", "paulie", "peepley-lulu", "tilestone"],
+    "relatedCrews": ["franky-family", "galley-la-company"],
+    "relatedArcs": ["Enies Lobby"],
+    "images": []
+  },
+  {
+    "id": "enies-lobby-tower-of-justice",
+    "name": {
+      "english": "Tower of Justice",
+      "japanese": "司法の塔",
+      "romanized": "Shihō no Tō"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "PARADISE",
+    "islandName": "Enies Lobby",
+    "debutEpisode": 264,
+    "debutChapter": 375,
+    "description": "The central tower of Enies Lobby where the CP9 agents gather and where prisoners are judged before being sent through the Gates of Justice. This is where Spandam's office is located and where CP9 holds their meetings.",
+    "episodeAppearances": [266],
+    "keyEvents": [
+      {
+        "episodeNumber": 266,
+        "eventId": "ep266-event-007",
+        "eventType": "WORLD_LORE",
+        "title": "CP9 First Reunion in Five Years",
+        "description": "The CP9 agents gather together for the first time in five years at the Tower of Justice.",
+        "significance": "Important reunion establishing CP9's dynamics and relationships.",
+        "timestamp": "10:30"
+      },
+      {
+        "episodeNumber": 266,
+        "eventId": "ep266-event-009",
+        "eventType": "TECHNIQUE_DEBUT",
+        "title": "Fukurou's Te-awase Debut",
+        "description": "Fukurou demonstrates his Te-awase technique to measure doriki levels.",
+        "significance": "Introduction of the doriki measurement system.",
+        "timestamp": "13:30"
+      },
+      {
+        "episodeNumber": 266,
+        "eventId": "ep266-event-017",
+        "eventType": "POWER_REVEAL",
+        "title": "Rob Lucci's Doriki: 4000",
+        "description": "Rob Lucci is revealed to have 4000 doriki, the highest of all CP9 agents.",
+        "significance": "Establishes Lucci as the strongest CP9 member and primary antagonist.",
+        "timestamp": "16:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 264,
+        "episodeEnd": "present",
+        "reason": "Tower remains operational as CP9 headquarters"
+      }
+    ],
+    "parentLocation": "enies-lobby",
+    "childLocations": [],
+    "relatedCharacters": ["spandam", "rob-lucci", "kaku", "kalifa", "jabra", "blueno", "kumadori", "fukurou", "nico-robin", "franky"],
+    "relatedCrews": ["cp9"],
+    "relatedArcs": ["Enies Lobby"],
+    "images": []
+  }
+]
