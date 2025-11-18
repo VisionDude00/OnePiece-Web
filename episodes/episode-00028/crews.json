@@ -1,0 +1,80 @@
+[
+  {
+    "name": {
+      "english": "Krieg Pirates",
+      "japanese": "クリーク海賊艦隊",
+      "romanized": "Kurīku Kaizoku Kantai"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "don-krieg",
+    "debutEpisode": 23,
+    "debutChapter": 46,
+    "episodeAppearances": [28],
+    "members": [
+      {
+        "characterId": "don-krieg",
+        "role": "Admiral",
+        "episodeJoined": 23,
+        "episodeLeft": null,
+        "joinCircumstances": "Captain and founder of the Krieg Pirates."
+      },
+      {
+        "characterId": "gin",
+        "role": "Combat Commander",
+        "episodeJoined": 21,
+        "episodeLeft": null,
+        "joinCircumstances": "Serves as Krieg's Combat Commander and second-in-command."
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 28,
+        "eventId": "ep028-event-001",
+        "momentType": "BETRAYAL",
+        "title": "Gin Defies Krieg to Save Luffy",
+        "description": "Gin, Krieg's Combat Commander, defies his captain by saving Luffy from the MH5 poison gas, showing a fracture in the crew's loyalty.",
+        "significance": "Demonstrates that Krieg's ruthless leadership and willingness to harm his own crew members causes cracks in crew loyalty.",
+        "timestamp": "05:30"
+      },
+      {
+        "episodeNumber": 28,
+        "eventId": "ep028-event-004",
+        "momentType": "POWER_REVEAL",
+        "title": "Krieg Deploys Ultimate Weapon",
+        "description": "Don Krieg reveals his ultimate weapon, the Daisenso, in his battle against Luffy.",
+        "significance": "Shows the full extent of Krieg's arsenal and his philosophy of overwhelming firepower.",
+        "timestamp": "12:30"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Dreadnaught Sabre (flagship, destroyed)",
+        "episodeAcquired": null,
+        "episodeLost": 23,
+        "description": "Krieg's flagship was destroyed before arriving at the Baratie."
+      }
+    ],
+    "bases": [],
+    "totalBountyProgression": [
+      {
+        "totalBounty": 29000000,
+        "episodeNumber": 28,
+        "memberBounties": {
+          "don-krieg": 17000000,
+          "gin": 12000000
+        }
+      }
+    ],
+    "jollyRoger": {
+      "description": "An hourglass symbol representing Krieg's fleet",
+      "episodeFirstSeen": 23,
+      "imageUrl": ""
+    },
+    "mainColor": "#4B0082",
+    "relationships": {
+      "allies": [],
+      "enemies": ["straw-hat-pirates", "baratie"],
+      "parentOrganization": null
+    }
+  }
+]

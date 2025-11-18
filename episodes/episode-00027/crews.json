@@ -1,0 +1,96 @@
+[
+  {
+    "name": {
+      "english": "Krieg Pirates",
+      "japanese": "クリーク海賊団",
+      "romanized": "Kurīku Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "don-krieg",
+    "debutEpisode": 21,
+    "debutChapter": 42,
+    "episodeAppearances": [27],
+    "members": [
+      {
+        "characterId": "don-krieg",
+        "role": "Admiral/Captain",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Founder and leader of the Krieg Pirates"
+      },
+      {
+        "characterId": "gin",
+        "role": "Combat Commander",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Second-in-command and most loyal subordinate of Don Krieg"
+      },
+      {
+        "characterId": "pearl",
+        "role": "Second Unit Commander",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Shield defender and commander in the Krieg Pirates"
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 27,
+        "eventId": "ep027-event-007",
+        "momentType": "RELATIONSHIP_REVEAL",
+        "title": "Internal Conflict in Krieg Pirates",
+        "description": "Gin defies Don Krieg's direct order for the first time, revealing cracks in the crew's unity.",
+        "significance": "Shows that even the most disciplined crews can fracture when loyalty conflicts with honor.",
+        "timestamp": "18:30"
+      },
+      {
+        "episodeNumber": 27,
+        "eventId": "ep027-event-008",
+        "momentType": "POWER_REVEAL",
+        "title": "Krieg Deploys MH5 Against Everyone",
+        "description": "Don Krieg uses the MH5 poison gas, willing to sacrifice his own crew members in pursuit of victory.",
+        "significance": "Demonstrates Krieg's ruthless leadership philosophy and lack of care for his subordinates.",
+        "timestamp": "20:15"
+      },
+      {
+        "episodeNumber": 27,
+        "eventId": "ep027-event-009",
+        "momentType": "MAJOR_DECISION",
+        "title": "Krieg Betrays Gin",
+        "description": "Krieg forces Gin to discard his gas mask, effectively sentencing his most loyal subordinate to death.",
+        "significance": "The ultimate betrayal that shows Krieg values obedience over loyalty and will kill anyone who disobeys.",
+        "timestamp": "21:30"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Dreadnaught Sabre (flagship)",
+        "episodeAcquired": null,
+        "episodeLost": null,
+        "description": "Don Krieg's flagship, though heavily damaged after encounter with Mihawk"
+      }
+    ],
+    "bases": [],
+    "totalBountyProgression": [
+      {
+        "totalBounty": 29000000,
+        "episodeNumber": 27,
+        "memberBounties": {
+          "don-krieg": 17000000,
+          "gin": 12000000
+        }
+      }
+    ],
+    "jollyRoger": {
+      "description": "An hourglass symbol representing the fleeting nature of life for Krieg's enemies",
+      "episodeFirstSeen": 21,
+      "imageUrl": ""
+    },
+    "mainColor": "#8B4513",
+    "relationships": {
+      "allies": [],
+      "enemies": ["straw-hat-pirates", "baratie-staff"],
+      "parentOrganization": null
+    }
+  }
+]

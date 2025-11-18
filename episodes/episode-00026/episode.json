@@ -1,0 +1,488 @@
+{
+  "episodeNumber": 26,
+  "episodeTitle": "Zeff and Sanji's Dream! The Illusionary All Blue!",
+  "description": "Sanji's tragic backstory is revealed through flashbacks showing how he met Zeff and survived being stranded on a rocky island. In the present, Sanji battles Pearl while Gin holds Zeff hostage, and Luffy destroys part of the Baratie in rage.",
+  "airDate": "2000-05-24",
+  "airDateJapan": "2000-05-24",
+  "airDateUS": "2005-03-19",
+  "arcName": "Baratie",
+  "sagaName": "East Blue Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Are!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [1, 47]
+  },
+  "endingSong": {
+    "title": "Memories",
+    "artist": "Maki Otsuki",
+    "episodeRange": [1, 30]
+  },
+  "credits": {
+    "animationDirector": "Eisaku Inoue",
+    "director": "Munehisa Sakai",
+    "screenplay": "Michiru Shimada",
+    "artDirector": "Tomoko Yoshida",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Zeff",
+        "actor": "Koji Yada"
+      },
+      {
+        "character": "Gin",
+        "actor": "Kenichi Ono"
+      },
+      {
+        "character": "Pearl",
+        "actor": "Hiroyuki Kawamoto"
+      },
+      {
+        "character": "Patty",
+        "actor": "Tetsu Inada"
+      },
+      {
+        "character": "Carne",
+        "actor": "Shinobu Satouchi"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Zeff",
+        "actor": "Grant James"
+      },
+      {
+        "character": "Gin",
+        "actor": "Illich Guardiola"
+      },
+      {
+        "character": "Pearl",
+        "actor": "J. Michael Tatum"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep026-event-001",
+      "episodeNumber": 26,
+      "timestamp": "03:15",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Sanji vs Pearl Battle Begins",
+      "description": "Pearl confronts Sanji on the deck of the Baratie. Despite being held back by Gin's threat to shoot Zeff, Sanji prepares to fight Pearl to protect the restaurant.",
+      "significance": "Sets up the main conflict of the episode and demonstrates Sanji's dedication to protecting the Baratie despite personal danger.",
+      "characterIds": ["sanji", "pearl", "gin", "zeff"],
+      "locationIds": ["baratie"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [25],
+      "payoffInEpisodes": [27],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep026-event-002",
+      "episodeNumber": 26,
+      "timestamp": "05:20",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Young Sanji's Ship Attacked by Cook Pirates",
+      "description": "Flashback shows young Sanji working as a cook aboard a cruise ship when it is suddenly attacked by Zeff's crew, the Cook Pirates. The pirates plunder the ship and beat Sanji.",
+      "significance": "Beginning of Sanji's backstory, establishing how he first met Zeff under hostile circumstances.",
+      "characterIds": ["sanji", "zeff"],
+      "locationIds": ["cruise-ship-sanji-childhood"],
+      "devilFruitIds": [],
+      "crewIds": ["cook-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep026-event-003",
+      "episodeNumber": 26,
+      "timestamp": "06:45",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Young Sanji Declares Dream of Finding All Blue",
+      "description": "During the pirate attack, young Sanji declares his dream of finding the legendary All Blue, a sea where all the oceans meet and fish from all seas can be found.",
+      "significance": "First revelation of Sanji's lifelong dream and core motivation, establishing the All Blue as a major element of his character.",
+      "characterIds": ["sanji", "zeff"],
+      "locationIds": ["cruise-ship-sanji-childhood"],
+      "quotes": [
+        {
+          "text": "I'm going to find the All Blue!",
+          "speaker": "Young Sanji",
+          "context": "Declaring his dream to Zeff during the pirate attack"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep026-event-004",
+      "episodeNumber": 26,
+      "timestamp": "07:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Storm Hits and Sanji Falls Overboard",
+      "description": "A massive storm suddenly strikes both ships. A powerful wave sweeps young Sanji overboard into the raging sea, putting his life in immediate danger.",
+      "significance": "Critical moment that changes both Sanji's and Zeff's lives forever, setting up Zeff's sacrifice.",
+      "characterIds": ["sanji"],
+      "locationIds": ["east-blue"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep026-event-005",
+      "episodeNumber": 26,
+      "timestamp": "08:45",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Zeff Saves Sanji and Loses His Leg",
+      "description": "Zeff dives into the stormy sea to rescue the drowning Sanji. His leg becomes caught in the ship's wreckage, and he is forced to cut off his own leg with a chain to free himself and save Sanji.",
+      "significance": "Defining moment that establishes the deep bond between Zeff and Sanji. Zeff's sacrifice of his leg demonstrates his recognition of Sanji's dream and potential.",
+      "characterIds": ["zeff", "sanji"],
+      "locationIds": ["east-blue"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep026-event-006",
+      "episodeNumber": 26,
+      "timestamp": "10:20",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Stranded on Rocky Island",
+      "description": "Zeff and young Sanji wash up on a small, desolate rocky island with no vegetation or animals. They divide their meager food supplies and go to opposite ends of the island to watch for passing ships.",
+      "significance": "Establishes the dire survival situation that will test both characters and reveal Zeff's true character.",
+      "characterIds": ["zeff", "sanji"],
+      "locationIds": ["rocky-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep026-event-007",
+      "episodeNumber": 26,
+      "timestamp": "12:40",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Sanji Discovers Zeff's Sacrifice",
+      "description": "After his food runs out, starving Sanji confronts Zeff about his larger bag of supplies. He cuts it open and discovers it contains only treasure - Zeff had given all the food to Sanji and kept none for himself.",
+      "significance": "Heart-wrenching revelation that shows the depth of Zeff's sacrifice. This moment profoundly impacts Sanji and explains his unwavering loyalty to Zeff.",
+      "characterIds": ["sanji", "zeff"],
+      "locationIds": ["rocky-island"],
+      "quotes": [
+        {
+          "text": "This... this is just treasure!",
+          "speaker": "Young Sanji",
+          "context": "Realizing Zeff gave him all the food"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep026-event-008",
+      "episodeNumber": 26,
+      "timestamp": "14:15",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Zeff Reveals Shared Dream of All Blue",
+      "description": "Zeff explains to Sanji that he also dreams of finding the All Blue, which is why he sacrificed everything to save Sanji - so that Sanji could pursue their shared dream.",
+      "significance": "Establishes the deep connection between Zeff and Sanji based on their shared dream. This explains why Zeff saved Sanji and why Sanji feels such profound debt to him.",
+      "characterIds": ["zeff", "sanji"],
+      "locationIds": ["rocky-island"],
+      "quotes": [
+        {
+          "text": "I share your dream, kid. That's why I saved you - so you could find the All Blue.",
+          "speaker": "Zeff",
+          "context": "Explaining his sacrifice to young Sanji"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep026-event-009",
+      "episodeNumber": 26,
+      "timestamp": "15:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Rescue and Founding of Baratie",
+      "description": "After 47 days on the rocky island, Sanji and Zeff are finally rescued by a passing ship. They eventually establish the Baratie restaurant together, fulfilling their dream in a different way.",
+      "significance": "Concludes the backstory and explains the origin of the Baratie restaurant and the father-son relationship between Zeff and Sanji.",
+      "characterIds": ["zeff", "sanji"],
+      "locationIds": ["rocky-island", "baratie"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep026-event-010",
+      "episodeNumber": 26,
+      "timestamp": "17:05",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Pearl's Techniques Debut",
+      "description": "Pearl demonstrates his fighting techniques including Pearl Present (shield punch) and Pearl Close (crushing opponent's head between two shields), battering Sanji who cannot dodge due to Gin's threat.",
+      "significance": "Introduces Pearl's fighting style and establishes him as a formidable opponent. Shows Sanji's helpless position.",
+      "characterIds": ["pearl", "sanji"],
+      "locationIds": ["baratie"],
+      "devilFruitIds": [],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep026-event-011",
+      "episodeNumber": 26,
+      "timestamp": "19:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Gomu Gomu no Ono Debut",
+      "description": "Enraged by the Krieg Pirates' actions and the threat to Zeff, Luffy unleashes Gomu Gomu no Ono (Gum-Gum Axe), stretching his leg high into the air and bringing it crashing down with devastating force, completely destroying the entire port-side fin of the Baratie.",
+      "significance": "First appearance of one of Luffy's signature techniques. Demonstrates his growing arsenal of Devil Fruit abilities and his protective nature toward his friends.",
+      "characterIds": ["luffy"],
+      "locationIds": ["baratie"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep026-event-012",
+      "episodeNumber": 26,
+      "timestamp": "20:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Sanji Stands Up Despite Injuries",
+      "description": "Despite being badly beaten by Pearl and remembering his debt to Zeff, Sanji stands back up and prepares to continue fighting to protect the Baratie, showing his unwavering resolve.",
+      "significance": "Demonstrates Sanji's determination and loyalty to Zeff. This moment parallels his backstory and shows how far he's willing to go to protect what Zeff built.",
+      "characterIds": ["sanji"],
+      "locationIds": ["baratie"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [27],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": ["cruise-ship-sanji-childhood", "rocky-island"],
+    "devilFruits": [],
+    "crews": ["cook-pirates"],
+    "abilities": ["pearl-present", "pearl-close", "gomu-gomu-no-ono"]
+  },
+  "episodeRelationships": {
+    "setupFor": [27, 28],
+    "payoffFrom": [25],
+    "thematicLinks": [30, 803]
+  },
+  "quotes": [
+    {
+      "text": "I'm going to find the All Blue!",
+      "speaker": "Young Sanji",
+      "context": "Declaring his dream during the pirate attack",
+      "timestamp": "06:45"
+    },
+    {
+      "text": "This... this is just treasure!",
+      "speaker": "Young Sanji",
+      "context": "Discovering Zeff gave him all the food",
+      "timestamp": "12:40"
+    },
+    {
+      "text": "I share your dream, kid. That's why I saved you - so you could find the All Blue.",
+      "speaker": "Zeff",
+      "context": "Explaining his sacrifice to young Sanji",
+      "timestamp": "14:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Sacrifice and Debt",
+      "description": "The episode explores the profound sacrifice Zeff made for Sanji, giving up his leg and all his food so that Sanji could survive and pursue his dream. This establishes the deep debt of gratitude Sanji feels toward Zeff.",
+      "symbolism": "Zeff's missing leg serves as a constant reminder of his sacrifice and the bond between him and Sanji.",
+      "culturalReferences": ["The concept of 'on' (恩) in Japanese culture - a debt of gratitude that must be repaid"]
+    },
+    {
+      "theme": "Shared Dreams",
+      "description": "Both Sanji and Zeff share the dream of finding the All Blue, creating a deep connection between them that transcends their pirate-cook relationship.",
+      "symbolism": "The All Blue represents the ultimate culinary paradise and an impossible dream worth pursuing.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Survival and Resilience",
+      "description": "The harsh conditions on the rocky island test both characters' will to survive, with Zeff's selflessness ensuring Sanji's survival at great personal cost.",
+      "symbolism": "The barren rocky island represents the harshest circumstances that reveal true character.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Found Family",
+      "description": "The episode shows how Zeff became a father figure to Sanji, establishing a family bond not through blood but through shared dreams and sacrifice.",
+      "symbolism": "The Baratie restaurant represents the home they built together.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tragic", "Emotional", "Intense", "Heartbreaking", "Inspirational"],
+  "characterSpotlights": [
+    {
+      "characterId": "sanji",
+      "role": "Protagonist of backstory and present conflict",
+      "development": "We learn about Sanji's childhood dream, his relationship with Zeff, and the debt of gratitude that drives his loyalty to the Baratie. This backstory adds emotional depth to his current struggle against Pearl.",
+      "keyActions": [
+        "Declares dream of finding All Blue as a child",
+        "Survives being stranded on rocky island",
+        "Discovers Zeff's sacrifice",
+        "Battles Pearl despite being at a disadvantage",
+        "Stands up despite injuries to protect the Baratie"
+      ],
+      "quotes": [
+        "I'm going to find the All Blue!",
+        "This... this is just treasure!"
+      ]
+    },
+    {
+      "characterId": "zeff",
+      "role": "Mentor and father figure revealed through backstory",
+      "development": "Zeff's character is fully revealed through his backstory, showing his transformation from pirate captain to selfless father figure who sacrificed everything for a boy's dream.",
+      "keyActions": [
+        "Attacks Sanji's ship as pirate captain",
+        "Recognizes Sanji's dream of All Blue",
+        "Dives into storm to save Sanji",
+        "Cuts off own leg to rescue Sanji",
+        "Gives all food to Sanji while starving",
+        "Reveals shared dream of All Blue",
+        "Founds Baratie with Sanji after rescue"
+      ],
+      "quotes": [
+        "I share your dream, kid. That's why I saved you - so you could find the All Blue."
+      ]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Supporting character escalating conflict",
+      "development": "Luffy's rage at the Krieg Pirates' actions leads him to destroy part of the Baratie, showing his protective nature and growing frustration with the situation.",
+      "keyActions": [
+        "Destroys port-side fin with Gomu Gomu no Ono"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "In the anime, Zeff loses his leg when it becomes caught in ship wreckage during the rescue and he cuts it off with a chain. In the manga (Chapters 56-58), Zeff makes it to the island with both legs intact and later eats his own leg to survive the 85 days of starvation.",
+      "episodeTimestamp": "08:45",
+      "mangaReference": "Chapter 58",
+      "type": "CONTENT_CHANGE"
+    },
+    {
+      "difference": "The anime shows them stranded for 47 days, while the manga depicts 85 days before rescue.",
+      "episodeTimestamp": "15:30",
+      "mangaReference": "Chapter 58",
+      "type": "CONTENT_CHANGE"
+    },
+    {
+      "difference": "In the anime, the conversation about survival happens on the last day. In the manga, it occurs on the 70th day.",
+      "episodeTimestamp": "14:15",
+      "mangaReference": "Chapter 58",
+      "type": "CONTENT_CHANGE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode is rated 8.7/10 on IMDb, making it one of the highest-rated episodes of the Baratie arc.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://www.imdb.com/title/tt0961582/",
+          "title": "Episode 26 - IMDb",
+          "platform": "IMDb",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The change from Zeff eating his own leg (manga) to cutting it off during the rescue (anime) was made for censorship reasons, as confirmed by creator Eiichiro Oda in SBS Volume 15.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_26",
+          "title": "Episode 26 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode adapts manga chapters 56-59, covering a significant portion of Sanji's backstory in a single episode.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_26",
+          "title": "Episode 26 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode achieved a 13.1% viewership rating in Japan on its original broadcast, ranking 7th for that week.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_26",
+          "title": "Episode 26 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Gomu Gomu no Ono, which debuts in this episode, becomes one of Luffy's most frequently used techniques throughout the series, later evolving into Gear 2 and Gear 3 variants.",
+      "category": "ABILITIES",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

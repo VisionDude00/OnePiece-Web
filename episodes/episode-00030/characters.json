@@ -1,0 +1,130 @@
+[
+  {
+    "name": {
+      "english": "Sanji",
+      "japanese": "サンジ",
+      "romanized": "Sanji"
+    },
+    "debutEpisode": 20,
+    "debutChapter": 43,
+    "episodeAppearances": [30],
+    "keyMoments": [
+      {
+        "episodeNumber": 30,
+        "eventId": "ep030-event-001",
+        "momentType": "CREW_JOIN",
+        "title": "Luffy Invites Sanji to Join",
+        "description": "Luffy officially invites Sanji to become the cook of the Straw Hat Pirates after the defeat of Don Krieg. Sanji initially refuses due to his obligation to the Baratie.",
+        "significance": "The beginning of Sanji's recruitment arc, setting up his emotional departure from the Baratie.",
+        "timestamp": "02:30",
+        "quote": "I can't. I have a debt to this restaurant and to the old man."
+      },
+      {
+        "episodeNumber": 30,
+        "eventId": "ep030-event-002",
+        "momentType": "BACKSTORY_REVEAL",
+        "title": "Sanji Reveals His Dream of the All Blue",
+        "description": "Sanji shares his lifelong dream with Luffy: to find the All Blue, a legendary ocean where all four seas meet.",
+        "significance": "Establishes Sanji's core motivation and dream that will drive him throughout the series.",
+        "timestamp": "04:15",
+        "quote": "The All Blue... a chef's paradise where all four seas meet. That's my dream."
+      },
+      {
+        "episodeNumber": 30,
+        "eventId": "ep030-event-007",
+        "momentType": "CREW_JOIN",
+        "title": "Sanji Officially Joins the Straw Hat Pirates",
+        "description": "After understanding Zeff's true intentions, Sanji accepts Luffy's invitation and officially becomes the cook of the Straw Hat Pirates.",
+        "significance": "Marks Sanji becoming the fourth official member of the crew and their first specialized non-combat role.",
+        "timestamp": "13:45",
+        "quote": "Alright, Luffy. I'll be your cook."
+      },
+      {
+        "episodeNumber": 30,
+        "eventId": "ep030-event-009",
+        "momentType": "CULTURAL_MOMENT",
+        "title": "Sanji's Tearful Farewell to Zeff",
+        "description": "Sanji kneels on the deck and tearfully thanks Zeff for everything, bowing deeply in respect and gratitude to his mentor and father figure.",
+        "significance": "One of the most iconic emotional scenes in early One Piece, crystallizing the father-son relationship between Sanji and Zeff.",
+        "timestamp": "17:45",
+        "quote": "Owner Zeff! I owe you a debt I can never repay! All this time, for all these years... I truly appreciate it! Thank you for everything!"
+      }
+    ],
+    "status": "ALIVE",
+    "statusHistory": [
+      {
+        "status": "ALIVE",
+        "episodeStart": 20,
+        "episodeEnd": "present"
+      }
+    ],
+    "occupations": ["Pirate", "Cook"],
+    "affiliations": [
+      {
+        "crewId": "straw-hat-pirates",
+        "role": "Cook",
+        "episodeJoined": 30,
+        "episodeLeft": null
+      }
+    ],
+    "birthday": "March 2",
+    "age": 19,
+    "height": "177 cm",
+    "bloodType": "S (RH-)",
+    "bounties": [
+      {
+        "amount": 0,
+        "episodeRevealed": 30,
+        "reason": "Not yet a wanted pirate"
+      }
+    ],
+    "devilFruitProgression": null,
+    "abilities": [],
+    "relationships": [
+      {
+        "targetCharacterId": "zeff",
+        "relationshipType": "MENTOR_STUDENT",
+        "description": "Zeff is Sanji's mentor and father figure who raised him at the Baratie and taught him everything about cooking. Their relationship is defined by tough love and mutual respect.",
+        "episodeEstablished": 20,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 30,
+            "description": "Zeff orchestrates a fake criticism of Sanji's cooking to free him from obligation and encourage him to pursue his dream. Sanji delivers a tearful farewell, acknowledging the debt he owes Zeff.",
+            "newRelationshipType": "MENTOR_STUDENT"
+          }
+        ]
+      },
+      {
+        "targetCharacterId": "luffy",
+        "relationshipType": "CREWMATE",
+        "description": "Sanji accepts Luffy's invitation to join the Straw Hat Pirates as their cook, forming a bond of trust and shared adventure.",
+        "episodeEstablished": 30,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 30,
+            "description": "Sanji officially joins Luffy's crew after being freed from his sense of obligation to the Baratie.",
+            "newRelationshipType": "CREWMATE"
+          }
+        ]
+      }
+    ],
+    "reveals": [
+      {
+        "infoType": "DREAM",
+        "information": "Wants to find the All Blue, a chef's paradise where all four seas meet",
+        "episodeRevealed": 30,
+        "severity": "MAJOR"
+      },
+      {
+        "infoType": "AFFILIATION",
+        "information": "Officially joins the Straw Hat Pirates as their cook",
+        "episodeRevealed": 30,
+        "severity": "CRITICAL"
+      }
+    ],
+    "voiceActors": {
+      "japanese": "Hiroaki Hirata",
+      "english": "Eric Vale"
+    }
+  }
+]
