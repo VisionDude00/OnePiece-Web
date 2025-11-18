@@ -1,0 +1,659 @@
+{
+  "episodeNumber": 236,
+  "episodeTitle": "Luffy vs. Usopp! Collision of Two Men's Pride!",
+  "description": "Usopp challenges Luffy to a duel at 10 PM to decide who keeps the Going Merry. Despite being injured and outmatched, Usopp fights with unprecedented determination using creative tactics and weapons from Skypiea. Though Luffy ultimately wins, the victory is bittersweet as he must leave his friend behind with the ship.",
+  "airDate": "2005-06-19",
+  "airDateJapan": "2005-06-19",
+  "airDateUS": "2012-10-27",
+  "arcName": "Water 7",
+  "sagaName": "Water 7 Saga",
+  "animationQuality": "HIGH",
+  "openingSong": {
+    "title": "Kokoro no Chizu",
+    "artist": "BOYSTYLE",
+    "episodeRange": [207, 263]
+  },
+  "endingSong": {
+    "title": "Eternal Pose",
+    "artist": "Asia Engineer",
+    "episodeRange": [231, 245]
+  },
+  "credits": {
+    "director": "Munehisa Sakai",
+    "animationDirector": "Takeo Ide",
+    "screenplay": "Hirohiko Kamisaka",
+    "artDirectors": ["Miyuki Sato", "Michiyo Kawasaki"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep236-event-001",
+      "episodeNumber": 236,
+      "timestamp": "02:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Usopp Returns to Scrap Island for the Duel",
+      "description": "Usopp arrives at Scrap Island at 10 PM as agreed, finding Luffy already waiting in front of the Going Merry. Both men prepare themselves mentally for the confrontation that will decide the ship's fate.",
+      "significance": "Marks the formal beginning of one of the series' most emotionally devastating confrontations between crewmates.",
+      "characterIds": ["luffy", "usopp"],
+      "locationIds": ["scrap-island-water-7"],
+      "quotes": [
+        {
+          "text": "Don't have any regrets, no matter what happens.",
+          "speaker": "Luffy",
+          "context": "Luffy's warning to Usopp before their duel begins"
+        },
+        {
+          "text": "Unlike the enemies I've fought before, I know exactly what you're capable of. And I'm going to defeat you!",
+          "speaker": "Usopp",
+          "context": "Usopp's declaration before the fight"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [235],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep236-event-002",
+      "episodeNumber": 236,
+      "timestamp": "05:15",
+      "eventType": "BATTLE_START",
+      "severity": "CRITICAL",
+      "title": "The Duel Begins: Luffy vs. Usopp",
+      "description": "The fight for the Going Merry officially begins. Luffy charges at Usopp with a Gomu Gomu no Pistol, but Usopp is prepared with tactical defenses and knowledge of all Luffy's abilities.",
+      "significance": "The start of the first serious physical fight between Straw Hat crew members, representing the breaking point of their conflict over the Going Merry.",
+      "characterIds": ["luffy", "usopp"],
+      "locationIds": ["scrap-island-water-7"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [235],
+      "payoffInEpisodes": [237, 238, 323],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep236-event-003",
+      "episodeNumber": 236,
+      "timestamp": "06:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Hissatsu Ketchup Boshi Debut",
+      "description": "Usopp uses Hissatsu Ketchup Boshi, splattering himself with ketchup to fake being severely injured and coughing up blood. This tactical deception stops Luffy in his tracks out of concern for his friend.",
+      "significance": "Demonstrates Usopp's willingness to use psychological warfare even against his captain, showing how far their conflict has escalated.",
+      "characterIds": ["usopp", "luffy"],
+      "locationIds": ["scrap-island-water-7"],
+      "quotes": [
+        {
+          "text": "You showed pity to your enemy! That's your biggest mistake!",
+          "speaker": "Usopp",
+          "context": "Usopp mocking Luffy for falling for his trick"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep236-event-004",
+      "episodeNumber": 236,
+      "timestamp": "07:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Flash Dial Combat Usage",
+      "description": "Usopp uses a Flash Dial obtained from Skypiea to blind Luffy with an intense burst of light, creating an opening for his next attack.",
+      "significance": "Shows Usopp's resourcefulness in applying the dials from Skypiea to combat situations.",
+      "characterIds": ["usopp", "luffy"],
+      "locationIds": ["scrap-island-water-7"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [195, 196, 197],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [195, 196, 197]
+    },
+    {
+      "id": "ep236-event-005",
+      "episodeNumber": 236,
+      "timestamp": "08:00",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Hissatsu Tamago Boshi Debut",
+      "description": "While Luffy is blinded, Usopp pelts him with Hissatsu Tamago Boshi - rotten eggs that both disorient and humiliate his opponent.",
+      "significance": "Illustrates Usopp's creative combat style that prioritizes strategy and misdirection over raw power.",
+      "characterIds": ["usopp", "luffy"],
+      "locationIds": ["scrap-island-water-7"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep236-event-006",
+      "episodeNumber": 236,
+      "timestamp": "10:20",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Shuriken Ryuuseigun Debut",
+      "description": "Usopp fires multiple strings of throwing stars at Luffy in a barrage attack called Shuriken Ryuuseigun (Shuriken Meteor Shower).",
+      "significance": "Another example of Usopp's expanding arsenal during the Water 7 arc.",
+      "characterIds": ["usopp", "luffy"],
+      "locationIds": ["scrap-island-water-7"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep236-event-007",
+      "episodeNumber": 236,
+      "timestamp": "12:15",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Breath Dial Trap and Explosion",
+      "description": "Usopp reveals his most elaborate trap: he had hidden a Breath Dial on the battlefield, disguising it with the smell of rotten eggs. The dial had been storing flammable gas, which Usopp ignites with a Kayaku Boshi, creating a massive explosion that exploits Luffy's vulnerability to fire.",
+      "significance": "Demonstrates Usopp's tactical genius and long-term planning, showing he can seriously threaten even a much stronger opponent with preparation.",
+      "characterIds": ["usopp", "luffy"],
+      "locationIds": ["scrap-island-water-7"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [195, 196, 197],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [195, 196, 197]
+    },
+    {
+      "id": "ep236-event-008",
+      "episodeNumber": 236,
+      "timestamp": "14:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Sakuretsu Saboteso Boshi Debut",
+      "description": "Usopp fires Sakuretsu Saboteso Boshi (Exploding Caltrop Star), which detonates on Luffy's fist and peppers him with sharp caltrops.",
+      "significance": "Part of Usopp's continuous assault showing his full arsenal of weapons.",
+      "characterIds": ["usopp", "luffy"],
+      "locationIds": ["scrap-island-water-7"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep236-event-009",
+      "episodeNumber": 236,
+      "timestamp": "16:00",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Luffy's Memories of Friendship with Usopp",
+      "description": "As the fight continues, Luffy remembers all the good times he shared with Usopp - their adventures together, their laughter, and their bond as nakama. These flashbacks show various moments from their journey sailing on the Going Merry.",
+      "significance": "Highlights the emotional weight of this fight for Luffy, emphasizing that he's not fighting an enemy but a friend he deeply cares about.",
+      "characterIds": ["luffy", "usopp"],
+      "locationIds": ["scrap-island-water-7"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [17, 18, 19, 20],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [17, 18, 19, 20, 21, 30, 37, 44, 52, 61]
+    },
+    {
+      "id": "ep236-event-010",
+      "episodeNumber": 236,
+      "timestamp": "18:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Luffy Decides to Get Serious",
+      "description": "After being momentarily overwhelmed by Usopp's tactics, Luffy realizes he must end the fight decisively. Despite his emotional pain, he commits to defeating Usopp to uphold his decision as captain.",
+      "significance": "Marks the moment Luffy fully embraces the weight of captaincy, understanding that being a captain sometimes means making painful decisions.",
+      "characterIds": ["luffy", "usopp"],
+      "locationIds": ["scrap-island-water-7"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [235],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep236-event-011",
+      "episodeNumber": 236,
+      "timestamp": "19:45",
+      "eventType": "BATTLE_END",
+      "severity": "CRITICAL",
+      "title": "Luffy Defeats Usopp",
+      "description": "Luffy lands a decisive blow that defeats Usopp, ending the duel. Despite taking a harsh beating and fighting harder than he ever has before, Usopp collapses, unable to continue.",
+      "significance": "Concludes one of the most emotionally devastating fights in One Piece, with Luffy forced to defeat his own friend and crewmate.",
+      "characterIds": ["luffy", "usopp"],
+      "locationIds": ["scrap-island-water-7"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [235],
+      "payoffInEpisodes": [237, 238],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep236-event-012",
+      "episodeNumber": 236,
+      "timestamp": "20:15",
+      "eventType": "CREW_DEPARTURE",
+      "severity": "CRITICAL",
+      "title": "Luffy Leaves Usopp the Going Merry",
+      "description": "Luffy walks toward the ship and tells the defeated Usopp that the Going Merry is his - they will get a new ship. This is Luffy's way of honoring the duel's stakes while maintaining his decision as captain.",
+      "significance": "Represents Luffy finding a middle ground that respects both his authority as captain and his compassion for his friend.",
+      "characterIds": ["luffy", "usopp"],
+      "locationIds": ["scrap-island-water-7"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "See ya, Usopp. It's been fun.",
+          "speaker": "Luffy",
+          "context": "Luffy's parting words to Usopp after the duel"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [235],
+      "payoffInEpisodes": [323],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep236-event-013",
+      "episodeNumber": 236,
+      "timestamp": "21:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Chopper's Medicine and Sanji's Intervention",
+      "description": "Chopper desperately wants to treat Usopp's wounds, but Sanji stops him. Sanji explains that being pitied after losing a duel is more painful than the physical wounds, and they must respect Usopp's pride as a man.",
+      "significance": "Demonstrates the crew's understanding of masculine honor and the importance of respecting someone's pride even in defeat.",
+      "characterIds": ["chopper", "sanji", "usopp"],
+      "locationIds": ["scrap-island-water-7"],
+      "quotes": [
+        {
+          "text": "Being pitied after losing a fight is more painful than any wound.",
+          "speaker": "Sanji",
+          "context": "Sanji stopping Chopper from treating Usopp"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep236-event-014",
+      "episodeNumber": 236,
+      "timestamp": "21:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Chopper's Care Package",
+      "description": "Despite Sanji's words, Chopper leaves medical supplies near Usopp before departing. This gesture shows the crew still cares for their former member even as they must leave him behind.",
+      "significance": "Balances the harsh reality of the duel with the crew's continued compassion, showing they haven't abandoned Usopp emotionally even if they must physically part ways.",
+      "characterIds": ["chopper", "usopp"],
+      "locationIds": ["scrap-island-water-7"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep236-event-015",
+      "episodeNumber": 236,
+      "timestamp": "22:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "CRITICAL",
+      "title": "The Crew's Emotional Departure",
+      "description": "The Straw Hat Pirates prepare to leave the Going Merry forever. Everyone except Zoro and Sanji is openly crying. They gather their belongings in painful silence, knowing they can never return to their beloved ship.",
+      "significance": "Marks the emotional climax of the episode, showing the crew grieving not just for Usopp but for the Going Merry itself.",
+      "characterIds": ["luffy", "nami", "zoro", "sanji", "chopper"],
+      "locationIds": ["scrap-island-water-7", "going-merry"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [234, 235],
+      "payoffInEpisodes": [312],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep236-event-016",
+      "episodeNumber": 236,
+      "timestamp": "22:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Luffy Feels the Weight of Command",
+      "description": "After returning to the crew, Nami is crying and notices Luffy's strained expression. Luffy says simply, 'It's heavy...' referring to the burden of making such a difficult decision as captain. Zoro reminds him that this is the weight a captain must bear.",
+      "significance": "One of the defining moments of Luffy's growth as a captain, showing his understanding that leadership sometimes requires painful sacrifices and difficult choices.",
+      "characterIds": ["luffy", "nami", "zoro"],
+      "locationIds": ["scrap-island-water-7"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "It's heavy...",
+          "speaker": "Luffy",
+          "context": "Luffy expressing the emotional weight of his decision"
+        },
+        {
+          "text": "This is the burden a captain must carry.",
+          "speaker": "Zoro",
+          "context": "Zoro acknowledging Luffy's difficult position"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [235],
+      "payoffInEpisodes": [278, 312, 377],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep236-event-017",
+      "episodeNumber": 236,
+      "timestamp": "23:30",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "title": "The Going Merry Appears to Cry",
+      "description": "As the crew prepares to leave, the Going Merry is shown with water running down its hull, giving the impression that the ship itself is crying at being left behind.",
+      "severity": "MAJOR",
+      "significance": "Foreshadows the later revelation that the Going Merry has developed a spirit/klabautermann, adding supernatural weight to this departure.",
+      "characterIds": [],
+      "locationIds": ["scrap-island-water-7", "going-merry"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [312],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": [
+      "hissatsu-ketchup-boshi",
+      "hissatsu-tamago-boshi",
+      "shuriken-ryuuseigun",
+      "sakuretsu-saboteso-boshi"
+    ]
+  },
+  "episodeRelationships": {
+    "setupFor": [237, 238, 312, 323],
+    "payoffFrom": [234, 235],
+    "thematicLinks": [17, 18, 19, 20, 312, 377]
+  },
+  "quotes": [
+    {
+      "text": "Don't have any regrets, no matter what happens.",
+      "speaker": "Luffy",
+      "context": "Luffy's warning to Usopp before their duel",
+      "timestamp": "02:30"
+    },
+    {
+      "text": "Unlike the enemies I've fought before, I know exactly what you're capable of. And I'm going to defeat you!",
+      "speaker": "Usopp",
+      "context": "Usopp's declaration of his determination",
+      "timestamp": "02:45"
+    },
+    {
+      "text": "You showed pity to your enemy! That's your biggest mistake!",
+      "speaker": "Usopp",
+      "context": "After tricking Luffy with Ketchup Boshi",
+      "timestamp": "06:50"
+    },
+    {
+      "text": "See ya, Usopp. It's been fun.",
+      "speaker": "Luffy",
+      "context": "Luffy's heartbreaking farewell after the duel",
+      "timestamp": "20:20"
+    },
+    {
+      "text": "Being pitied after losing a fight is more painful than any wound.",
+      "speaker": "Sanji",
+      "context": "Explaining to Chopper why they can't help Usopp",
+      "timestamp": "21:00"
+    },
+    {
+      "text": "It's heavy...",
+      "speaker": "Luffy",
+      "context": "Luffy expressing the weight of his decision as captain",
+      "timestamp": "22:45"
+    },
+    {
+      "text": "This is the burden a captain must carry.",
+      "speaker": "Zoro",
+      "context": "Acknowledging Luffy's difficult position as captain",
+      "timestamp": "22:50"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "The Weight of Leadership",
+      "description": "The episode explores the difficult decisions a leader must make, even when they cause personal pain. Luffy must choose between his affection for a crewmate and his responsibility as captain.",
+      "symbolism": "Luffy's statement 'It's heavy...' perfectly encapsulates the emotional burden of command.",
+      "culturalReferences": ["The concept of giri (duty) vs ninjo (human compassion) in Japanese culture"]
+    },
+    {
+      "theme": "Pride and Masculine Honor",
+      "description": "Both Luffy and Usopp fight to preserve their pride - Luffy as captain who must maintain his authority, and Usopp as a man who refuses to abandon the Going Merry.",
+      "symbolism": "The duel itself represents a formal settling of differences in a way that respects both men's honor.",
+      "culturalReferences": ["Traditional concepts of masculine honor in Japanese culture"]
+    },
+    {
+      "theme": "The Pain of Separation",
+      "description": "The episode deals with the heartbreak of parting from both a crewmate and a beloved ship, showing that growth sometimes requires painful goodbyes.",
+      "symbolism": "The Going Merry appearing to cry mirrors the crew's emotions.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Brain vs. Brawn",
+      "description": "Usopp's tactical genius and preparation nearly overcome Luffy's overwhelming physical advantage, showing that intelligence and strategy have value beyond raw strength.",
+      "symbolism": "Usopp's use of Skypiea dials represents his growth and resourcefulness.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Heartbreaking", "Tense", "Melancholic", "Dramatic"],
+  "characterSpotlights": [
+    {
+      "characterId": "usopp",
+      "role": "Deuteragonist - The warrior fighting for his ship",
+      "development": "Usopp shows unprecedented determination and tactical brilliance, willing to fight his captain to defend the Going Merry. His defeat marks a low point but also demonstrates his growth as a fighter.",
+      "keyActions": [
+        "Challenges Luffy to a formal duel",
+        "Uses multiple new techniques and Skypiea dials",
+        "Creates an elaborate trap with the Breath Dial",
+        "Fights harder than ever before despite being outmatched",
+        "Accepts defeat but keeps the Going Merry"
+      ],
+      "quotes": [
+        "Unlike the enemies I've fought before, I know exactly what you're capable of. And I'm going to defeat you!",
+        "You showed pity to your enemy! That's your biggest mistake!"
+      ]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Protagonist - The captain making an impossible choice",
+      "development": "Luffy learns what it truly means to be a captain, understanding that leadership sometimes requires hurting those you care about for the greater good. This is one of his most significant moments of maturity.",
+      "keyActions": [
+        "Accepts Usopp's challenge despite not wanting to fight",
+        "Initially holds back against his friend",
+        "Makes the difficult decision to fight seriously",
+        "Defeats Usopp but allows him to keep the Going Merry",
+        "Bears the emotional weight of his decision as captain"
+      ],
+      "quotes": [
+        "Don't have any regrets, no matter what happens.",
+        "See ya, Usopp. It's been fun.",
+        "It's heavy..."
+      ]
+    },
+    {
+      "characterId": "zoro",
+      "role": "Supporting - The voice of harsh reality",
+      "development": "Zoro reinforces his role as the crew's conscience regarding matters of honor and leadership, reminding Luffy of his responsibilities.",
+      "keyActions": [
+        "Remains stoic during the emotional departure",
+        "Reminds Luffy that this is the burden of captaincy"
+      ],
+      "quotes": [
+        "This is the burden a captain must carry."
+      ]
+    },
+    {
+      "characterId": "sanji",
+      "role": "Supporting - The one who understands pride",
+      "development": "Sanji shows his understanding of masculine pride and honor, knowing when compassion must give way to respect.",
+      "keyActions": [
+        "Stops Chopper from treating Usopp",
+        "Explains the importance of respecting someone's pride after defeat",
+        "Remains composed during the departure"
+      ],
+      "quotes": [
+        "Being pitied after losing a fight is more painful than any wound."
+      ]
+    },
+    {
+      "characterId": "chopper",
+      "role": "Supporting - The heart of compassion",
+      "development": "Chopper represents the crew's emotional response, wanting to help but learning to respect the situation's complexity.",
+      "keyActions": [
+        "Desperately wants to treat Usopp's wounds",
+        "Learns from Sanji about pride and respect",
+        "Leaves medical supplies for Usopp anyway",
+        "Cries openly during the departure"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "nami",
+      "role": "Supporting - The emotional anchor",
+      "development": "Nami serves as the emotional barometer of the crew, openly expressing the grief everyone feels.",
+      "keyActions": [
+        "Cries during the crew's departure from the Going Merry",
+        "Notices Luffy's emotional strain"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended several fight sequences and added more detailed animation of Usopp's various attacks.",
+      "episodeTimestamp": "06:00-16:00",
+      "mangaReference": "Chapters 332-333",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "The anime added more flashback scenes of Luffy and Usopp's friendship throughout the fight.",
+      "episodeTimestamp": "16:00",
+      "mangaReference": "Chapter 333",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "The Going Merry crying scene was given more visual emphasis in the anime.",
+      "episodeTimestamp": "23:30",
+      "mangaReference": "Chapter 333",
+      "type": "EXPANDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode has a 9.6/10 rating on IMDb, making it one of the highest-rated episodes in the entire series.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://www.imdb.com/title/tt1023407/",
+          "title": "One Piece Episode 236 - IMDb",
+          "platform": "IMDb",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Kappei Yamaguchi (Usopp's voice actor) originally auditioned for the role of Luffy but was cast as Usopp instead.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://www.behindthevoiceactors.com/characters/One-Piece/Usopp/",
+          "title": "Usopp Voice Actors - Behind The Voice Actors",
+          "platform": "Behind The Voice Actors",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode adapts manga chapters 332-333, titled 'Luffy vs. Usopp' and its continuation.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_236",
+          "title": "Episode 236 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The Water 7 arc, which includes this episode, is often cited by fans as one of the darkest and most emotionally mature arcs in One Piece.",
+      "category": "CULTURAL_IMPACT",
+      "sources": []
+    },
+    {
+      "fact": "This marks the first and only time (until their reunion) that Luffy and Usopp fight seriously against each other.",
+      "category": "MILESTONE",
+      "sources": []
+    },
+    {
+      "fact": "Several of the techniques Usopp debuts in this episode utilize dials from Skypiea, showing continuity from the previous arc.",
+      "category": "CONTINUITY",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

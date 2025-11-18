@@ -1,0 +1,462 @@
+{
+  "episodeNumber": 235,
+  "episodeTitle": "Big Fight Under the Moon! The Pirate Flag Flutters With Sorrow!",
+  "description": "After Usopp is beaten by the Franky Family and the crew learns the Going Merry cannot be repaired, tensions reach a breaking point. When Luffy decides to get a new ship, Usopp takes it as a betrayal of their beloved vessel and announces he's leaving the crew, challenging Luffy to a duel for ownership of the Going Merry.",
+  "airDate": "2005-06-12",
+  "airDateJapan": "2005-06-12",
+  "airDateUS": "2012-10-20",
+  "arcName": "Water 7",
+  "sagaName": "Water 7 Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Kokoro no Chizu",
+    "artist": "BOYSTYLE",
+    "episodeRange": [207, 263]
+  },
+  "endingSong": {
+    "title": "Eternal Pose",
+    "artist": "Asia Engineer",
+    "episodeRange": [231, 245]
+  },
+  "credits": {
+    "animationDirector": "Masayuki Takagi",
+    "director": "Katsumi Tokoro",
+    "screenplay": "Hirohiko Kamisaka",
+    "artDirection": ["Miyuki Sato", "Kumiko Fukuzawa"],
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep235-event-001",
+      "episodeNumber": 235,
+      "timestamp": "03:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Usopp Regains Consciousness",
+      "description": "Usopp wakes up after being severely beaten by the Franky Family, still traumatized from the attack and the loss of the crew's money. He struggles with the guilt of failing to protect their funds.",
+      "significance": "This sets up Usopp's emotional state and feelings of inadequacy that will fuel the upcoming conflict with Luffy.",
+      "characterIds": ["usopp"],
+      "locationIds": ["water-7"],
+      "quotes": [
+        {
+          "text": "I'm sorry... I couldn't protect the money...",
+          "speaker": "Usopp",
+          "context": "Usopp apologizing as he regains consciousness"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [234],
+      "payoffInEpisodes": [235, 236],
+      "callbacksToEpisodes": [234]
+    },
+    {
+      "id": "ep235-event-002",
+      "episodeNumber": 235,
+      "timestamp": "08:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Crew Decides to Get a New Ship",
+      "description": "After hearing from Galley-La shipwrights that the Going Merry is damaged beyond repair, the crew makes the difficult decision to abandon their beloved ship and purchase a new one instead of attempting impossible repairs.",
+      "significance": "This decision directly triggers the major conflict between Luffy and Usopp, leading to one of the most emotional moments in the series.",
+      "characterIds": ["luffy", "nami", "zoro", "sanji", "chopper"],
+      "locationIds": ["water-7"],
+      "quotes": [
+        {
+          "text": "We need to get a new ship. The Going Merry can't be fixed.",
+          "speaker": "Luffy",
+          "context": "Luffy making the difficult decision about their ship"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [233, 234],
+      "payoffInEpisodes": [236, 312],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep235-event-003",
+      "episodeNumber": 235,
+      "timestamp": "11:45",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Going Merry's Terminal Condition Revealed",
+      "description": "Luffy explains to Usopp that the Going Merry's keel is broken beyond repair. The ship has reached the end of its life, and no amount of money or skilled shipwrights can save it. This revelation is devastating to the entire crew.",
+      "significance": "This is a crucial moment that establishes the harsh reality that even beloved things must sometimes be let go, a major theme in One Piece about accepting loss and moving forward.",
+      "characterIds": ["luffy", "usopp"],
+      "locationIds": ["going-merry", "water-7"],
+      "quotes": [
+        {
+          "text": "The Going Merry... is going to die.",
+          "speaker": "Luffy",
+          "context": "Luffy delivering the heartbreaking news to Usopp"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [233, 234],
+      "payoffInEpisodes": [312],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep235-event-004",
+      "episodeNumber": 235,
+      "timestamp": "14:20",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Argument Between Luffy and Usopp Escalates",
+      "description": "The tension between Luffy and Usopp reaches a boiling point as they argue about the fate of the Going Merry. Usopp accuses Luffy of abandoning the ship's honor and dignity, while Luffy tries to make Usopp understand the harsh reality of their situation.",
+      "significance": "This marks the first major internal conflict within the Straw Hat crew, showing that even the closest bonds can be tested by difficult decisions.",
+      "characterIds": ["luffy", "usopp", "zoro", "nami", "sanji", "chopper"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "You're just going to throw away the Going Merry like it's nothing?! Like it's just some piece of junk?!",
+          "speaker": "Usopp",
+          "context": "Usopp's anger at Luffy's decision"
+        },
+        {
+          "text": "I don't want to abandon her either! But we have no choice!",
+          "speaker": "Luffy",
+          "context": "Luffy's emotional response to Usopp"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [234],
+      "payoffInEpisodes": [236, 323],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep235-event-005",
+      "episodeNumber": 235,
+      "timestamp": "17:05",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Usopp's Deep Connection to Going Merry Revealed",
+      "description": "Usopp reveals the profound emotional significance of the Going Merry to him - it was a gift from Kaya, his childhood friend and the girl he cares deeply about. The ship represents his connection to his home village and the beginning of his adventure.",
+      "significance": "This deepens our understanding of why Usopp is so passionate about saving the ship - it's not just stubbornness, but a genuine emotional attachment to his past and his promise to return as a brave warrior of the sea.",
+      "characterIds": ["usopp"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "The Going Merry was a gift from Kaya! I can't just throw it away!",
+          "speaker": "Usopp",
+          "context": "Usopp explaining his emotional connection to the ship"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [17],
+      "payoffInEpisodes": [236],
+      "callbacksToEpisodes": [17]
+    },
+    {
+      "id": "ep235-event-006",
+      "episodeNumber": 235,
+      "timestamp": "18:30",
+      "eventType": "CREW_DEPARTURE",
+      "severity": "CRITICAL",
+      "title": "Usopp Leaves the Straw Hat Pirates",
+      "description": "In a shocking and emotional moment, Usopp announces that he is leaving the Straw Hat Pirates. He feels that if the crew can't trust him with their money and won't fight to save the Going Merry, then he has no place among them.",
+      "significance": "This is the first time a crew member has voluntarily left the Straw Hats since they formed, marking one of the darkest moments in the series and testing the crew's bonds.",
+      "characterIds": ["usopp", "luffy", "nami", "zoro", "sanji", "chopper"],
+      "crewIds": ["straw-hat-pirates"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "I quit! I'm leaving the Straw Hat Pirates!",
+          "speaker": "Usopp",
+          "context": "Usopp's declaration as he leaves the crew"
+        },
+        {
+          "text": "No, I'm serious. I've been thinking about this for a while now. You can't even trust me with your money. There's no point in keeping me around if all I do is cause you trouble.",
+          "speaker": "Usopp",
+          "context": "Usopp explaining his decision to leave"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [234, 235],
+      "payoffInEpisodes": [236, 323],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep235-event-007",
+      "episodeNumber": 235,
+      "timestamp": "20:15",
+      "eventType": "BATTLE_START",
+      "severity": "CRITICAL",
+      "title": "Usopp Challenges Luffy to a Duel",
+      "description": "After leaving the crew, Usopp issues a formal challenge to Luffy for ownership of the Going Merry. He demands a duel at 10 PM, stating that if he wins, he gets to keep the ship. This sets up one of the most emotional battles in One Piece history.",
+      "significance": "This unprecedented duel between crew members represents the culmination of Usopp's insecurities and his desperate attempt to hold onto something precious, while also forcing Luffy to make an incredibly difficult decision as captain.",
+      "characterIds": ["usopp", "luffy"],
+      "locationIds": ["going-merry", "water-7"],
+      "quotes": [
+        {
+          "text": "Luffy! I challenge you to a duel! The Going Merry will be the prize. If I win, I keep the ship!",
+          "speaker": "Usopp",
+          "context": "Usopp challenging Luffy to their duel"
+        },
+        {
+          "text": "Luffy, I still believe that you'll be King of the Pirates one day.",
+          "speaker": "Usopp",
+          "context": "Usopp acknowledging Luffy's dream even as he leaves"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [235],
+      "payoffInEpisodes": [236],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep235-event-008",
+      "episodeNumber": 235,
+      "timestamp": "21:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "The Crew's Somber Reaction",
+      "description": "The remaining crew members are left devastated by Usopp's departure and the upcoming duel. Each member processes the situation differently - Nami is in tears, Chopper is confused and scared, Zoro remains stoic, and Sanji is visibly troubled. Luffy stands alone, bearing the weight of his decision as captain.",
+      "significance": "This moment showcases the emotional depth of One Piece and the reality that being a captain means making painful decisions that hurt those you care about. It also demonstrates how conflict can tear apart even the strongest bonds.",
+      "characterIds": ["luffy", "nami", "zoro", "sanji", "chopper"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "Luffy... what are we going to do?",
+          "speaker": "Nami",
+          "context": "Nami asking Luffy about the situation with tears in her eyes"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [235],
+      "payoffInEpisodes": [236],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [236, 237],
+    "payoffFrom": [233, 234],
+    "thematicLinks": [17, 312, 323]
+  },
+  "quotes": [
+    {
+      "text": "The Going Merry... is going to die.",
+      "speaker": "Luffy",
+      "context": "Luffy telling Usopp the harsh truth about their ship",
+      "timestamp": "11:45"
+    },
+    {
+      "text": "You're just going to throw away the Going Merry like it's nothing?! Like it's just some piece of junk?!",
+      "speaker": "Usopp",
+      "context": "Usopp's anger at Luffy's decision to get a new ship",
+      "timestamp": "14:20"
+    },
+    {
+      "text": "I quit! I'm leaving the Straw Hat Pirates!",
+      "speaker": "Usopp",
+      "context": "Usopp's shocking declaration as he leaves the crew",
+      "timestamp": "18:30"
+    },
+    {
+      "text": "Luffy! I challenge you to a duel! The Going Merry will be the prize. If I win, I keep the ship!",
+      "speaker": "Usopp",
+      "context": "Usopp challenging Luffy to their fateful duel",
+      "timestamp": "20:15"
+    },
+    {
+      "text": "Luffy, I still believe that you'll be King of the Pirates one day.",
+      "speaker": "Usopp",
+      "context": "Usopp acknowledging Luffy's dream even as he challenges him",
+      "timestamp": "20:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Loss and Acceptance",
+      "description": "The episode deals with the difficult theme of accepting loss and letting go of beloved things, even when it hurts. The Going Merry represents not just a ship but cherished memories and bonds.",
+      "symbolism": "The Going Merry symbolizes the crew's journey together and their shared dreams. Its impending demise represents the reality that not everything can last forever, no matter how much we wish it could.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Leadership and Responsibility",
+      "description": "Luffy faces one of his hardest decisions as captain - choosing between sentiment and the crew's safety. This episode explores what it means to be a leader and make unpopular but necessary decisions.",
+      "symbolism": "Luffy standing alone represents the isolation that comes with leadership and the burden of making difficult choices.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Insecurity and Self-Worth",
+      "description": "Usopp's reaction stems from his deep-seated insecurities about his weakness and value to the crew. Losing the money was the final straw that made him feel he didn't belong.",
+      "symbolism": "The Going Merry represents Usopp's place in the crew - if the ship can be discarded, so can he.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Friendship Under Strain",
+      "description": "The episode shows that even the strongest friendships can be tested by disagreements and difficult circumstances. The crew's bonds are strained to their breaking point.",
+      "symbolism": "The moonlight setting emphasizes the darkness and sadness of the conflict between friends.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tragic", "Tense", "Heartbreaking", "Dramatic"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist facing difficult leadership decision",
+      "development": "Luffy shows maturity as a captain by making a painful but necessary decision. Despite his emotional attachment to the Going Merry, he prioritizes the crew's safety over sentimentality.",
+      "keyActions": [
+        "Tells Usopp the Going Merry cannot be repaired",
+        "Stands firm on decision to get new ship despite Usopp's anger",
+        "Accepts Usopp's challenge to a duel",
+        "Bears the weight of his decision as captain"
+      ],
+      "quotes": [
+        "The Going Merry... is going to die.",
+        "I don't want to abandon her either! But we have no choice!"
+      ]
+    },
+    {
+      "characterId": "usopp",
+      "role": "Crew member in crisis",
+      "development": "Usopp's insecurities about his weakness and value to the crew come to a head. His attachment to the Going Merry is deeply personal, representing his connection to Kaya and his home, as well as his place in the crew.",
+      "keyActions": [
+        "Regains consciousness after Franky Family attack",
+        "Argues passionately against abandoning Going Merry",
+        "Reveals emotional connection to ship as Kaya's gift",
+        "Quits the Straw Hat Pirates",
+        "Challenges Luffy to a duel for the ship"
+      ],
+      "quotes": [
+        "You're just going to throw away the Going Merry like it's nothing?!",
+        "I quit! I'm leaving the Straw Hat Pirates!",
+        "Luffy! I challenge you to a duel!"
+      ]
+    },
+    {
+      "characterId": "zoro",
+      "role": "Stoic voice of reason",
+      "development": "Zoro maintains his composed demeanor but is clearly troubled by the situation. He understands the necessity of Luffy's decision and doesn't interfere.",
+      "keyActions": [
+        "Tries to warn Luffy and Usopp before their argument escalates",
+        "Accepts the situation with his usual stoicism"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "nami",
+      "role": "Emotional heart of the crew",
+      "development": "Nami is devastated by the conflict and Usopp's departure. Her tears show how deeply the crew's separation affects her.",
+      "keyActions": [
+        "Watches helplessly as Luffy and Usopp argue",
+        "Cries when Usopp leaves the crew"
+      ],
+      "quotes": [
+        "Luffy... what are we going to do?"
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended several emotional scenes and added more reaction shots from crew members to emphasize the dramatic weight of Usopp leaving.",
+      "episodeTimestamp": "18:30",
+      "mangaReference": "Chapter 331, pages 4-19; Chapter 332, pages 2-8",
+      "type": "PACING_CHANGE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode has one of the highest IMDB ratings for One Piece episodes at 9.4/10, reflecting its powerful emotional impact on viewers.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://www.imdb.com/title/tt1021873/",
+          "title": "One Piece Episode 235 - IMDB",
+          "platform": "IMDB",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 235 marks the first time a Straw Hat crew member has voluntarily left the crew, making it a unique moment in the series' history.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "The episode achieved a TV rating of 12.0% in Japan, ranking #2 in its time slot, demonstrating strong viewership interest in this emotional storyline.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_235",
+          "title": "Episode 235 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode is considered one of the most underrated episodes in One Piece, with many fans and critics noting it builds the Luffy-Usopp conflict better than the actual duel episode that follows.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://www.sportskeeda.com/anime/one-piece-episode-235-iconic-gets-credit-for",
+          "title": "One Piece Episode 235 is more iconic that it gets credit for",
+          "platform": "Sportskeeda",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
