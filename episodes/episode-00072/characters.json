@@ -1,0 +1,321 @@
+[
+  {
+    "id": "luffy",
+    "name": {
+      "english": "Monkey D. Luffy",
+      "japanese": "モンキー・D・ルフィ",
+      "romanized": "Monkī Dī Rufi"
+    },
+    "episodeAppearances": [72],
+    "keyMoments": [
+      {
+        "episodeNumber": 72,
+        "eventId": "ep072-event-005",
+        "momentType": "BATTLE_START",
+        "title": "Luffy Fights Dorry to Defend His Crew's Honor",
+        "description": "When Dorry suspects the Straw Hats of sabotaging his rum, Luffy is forced to fight the injured giant to prove his crew's innocence and honor.",
+        "significance": "Demonstrates Luffy's unwavering trust in his crew and his refusal to accept false accusations, even when facing a giant.",
+        "timestamp": "14:20",
+        "quote": "I know Brogy would never do something so cowardly, and neither would any of my crew!"
+      },
+      {
+        "episodeNumber": 72,
+        "eventId": "ep072-event-006",
+        "momentType": "BATTLE_END",
+        "title": "Luffy Defeats the Weakened Dorry",
+        "description": "Luffy successfully knocks out Dorry, though the victory is hollow given the giant's severe injuries from the explosive rum.",
+        "significance": "Shows Luffy's combat prowess while highlighting that this isn't a fair or honorable victory.",
+        "timestamp": "17:45",
+        "quote": ""
+      },
+      {
+        "episodeNumber": 72,
+        "eventId": "ep072-event-007",
+        "momentType": "MAJOR_DECISION",
+        "title": "Luffy's Rage at the Violation of Sacred Combat",
+        "description": "Luffy becomes furious upon realizing that someone has violated the giants' sacred duel with underhanded tactics, deducing that a third party must be on the island.",
+        "significance": "Showcases Luffy's core values regarding honor in combat and his respect for warriors who fight fairly.",
+        "timestamp": "19:30",
+        "quote": "Someone else is on this island! Someone who doesn't respect the giants' sacred fight!"
+      }
+    ],
+    "status": "ALIVE",
+    "reveals": [],
+    "relationships": [
+      {
+        "targetCharacterId": "dorry",
+        "relationshipType": "RESPECT",
+        "description": "Despite being forced to fight Dorry, Luffy trusts that the giant would never use dirty tactics and becomes angry on his behalf when the sacred duel is violated.",
+        "episodeEstablished": 72,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 72,
+            "description": "Luffy defends Dorry's honor by refusing to believe he sabotaged the rum, even while fighting him.",
+            "newRelationshipType": "RESPECT"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dorry",
+    "name": {
+      "english": "Dorry",
+      "japanese": "ドリー",
+      "romanized": "Dorī",
+      "epithet": "Dorry the Blue Ogre"
+    },
+    "episodeAppearances": [72],
+    "keyMoments": [
+      {
+        "episodeNumber": 72,
+        "eventId": "ep072-event-003",
+        "momentType": "MAJOR_DECISION",
+        "title": "Dorry Drinks Explosive Rum",
+        "description": "Dorry drinks rum that was sabotaged by Mr. 3 with explosives, causing it to detonate inside him and inflict severe internal injuries.",
+        "significance": "This is the central incident that drives the episode's conflict and reveals the underhanded tactics of Baroque Works.",
+        "timestamp": "09:45",
+        "quote": ""
+      },
+      {
+        "episodeNumber": 72,
+        "eventId": "ep072-event-004",
+        "momentType": "RELATIONSHIP_REVEAL",
+        "title": "Dorry Suspects the Straw Hat Pirates",
+        "description": "After the explosion, Dorry confronts Luffy and Vivi, believing they are responsible for sabotaging the rum since he trusts that Brogy would never do such a thing.",
+        "significance": "Creates a conflict between Dorry and the Straw Hats based on a misunderstanding orchestrated by Mr. 3.",
+        "timestamp": "11:30",
+        "quote": "You are the only ones who could have done this!"
+      },
+      {
+        "episodeNumber": 72,
+        "eventId": "ep072-event-006",
+        "momentType": "BATTLE_END",
+        "title": "Dorry Defeated by Luffy",
+        "description": "Despite his immense size and strength, Dorry is defeated by Luffy due to his severe injuries from the explosive rum.",
+        "significance": "Demonstrates how Mr. 3's sabotage successfully weakened one of the island's most powerful warriors.",
+        "timestamp": "17:45",
+        "quote": ""
+      }
+    ],
+    "status": "ALIVE",
+    "reveals": [],
+    "relationships": [
+      {
+        "targetCharacterId": "brogy",
+        "relationshipType": "RIVAL",
+        "description": "Dorry and Brogy have been locked in a century-long sacred duel, but maintain deep respect for each other's honor as warriors.",
+        "episodeEstablished": 70,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 72,
+            "description": "Dorry refuses to believe Brogy would sabotage their duel, showing his trust in his rival's honor.",
+            "newRelationshipType": "RIVAL"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "brogy",
+    "name": {
+      "english": "Brogy",
+      "japanese": "ブロギー",
+      "romanized": "Burogī",
+      "epithet": "Brogy the Red Ogre"
+    },
+    "episodeAppearances": [72],
+    "keyMoments": [
+      {
+        "episodeNumber": 72,
+        "eventId": "ep072-event-001",
+        "momentType": "BATTLE_END",
+        "title": "Latest Duel with Dorry Ends in Draw",
+        "description": "Brogy and Dorry's latest battle ends in another draw, continuing their century-long stalemate.",
+        "significance": "Establishes the ongoing nature of their sacred duel before it is disrupted by Mr. 3's sabotage.",
+        "timestamp": "05:30",
+        "quote": ""
+      },
+      {
+        "episodeNumber": 72,
+        "eventId": "ep072-event-002",
+        "momentType": "WORLD_LORE",
+        "title": "Usopp Calls Brogy 'Master'",
+        "description": "Usopp shows deep respect for Brogy's warrior spirit and begins referring to him as 'Master', inspired by the giant's honor and strength.",
+        "significance": "Marks the beginning of Usopp's admiration for the warriors of Elbaf and his dream to visit the giants' homeland.",
+        "timestamp": "07:15",
+        "quote": ""
+      }
+    ],
+    "status": "ALIVE",
+    "reveals": [],
+    "relationships": [
+      {
+        "targetCharacterId": "usopp",
+        "relationshipType": "MENTOR",
+        "description": "Brogy becomes an inspiration and mentor figure to Usopp, teaching him about warrior's pride and honor.",
+        "episodeEstablished": 72,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 72,
+            "description": "Usopp begins calling Brogy 'Master' and shows deep admiration for his warrior spirit.",
+            "newRelationshipType": "MENTOR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "usopp",
+    "name": {
+      "english": "Usopp",
+      "japanese": "ウソップ",
+      "romanized": "Usoppu"
+    },
+    "episodeAppearances": [72],
+    "keyMoments": [
+      {
+        "episodeNumber": 72,
+        "eventId": "ep072-event-002",
+        "momentType": "WORLD_LORE",
+        "title": "Usopp Expresses Interest in Visiting Elbaf",
+        "description": "Inspired by Brogy's warrior spirit, Usopp expresses fascination with the giants and their homeland of Elbaf, planting the seeds of a long-term dream.",
+        "significance": "This is the origin of Usopp's dream to visit Elbaf, which becomes a recurring goal throughout the entire series and is fulfilled over 1000 episodes later.",
+        "timestamp": "07:15",
+        "quote": "Master Brogy!"
+      }
+    ],
+    "status": "ALIVE",
+    "reveals": [
+      {
+        "infoType": "DREAM",
+        "information": "Usopp expresses his desire to visit Elbaf and learn from the warriors there",
+        "episodeRevealed": 72,
+        "severity": "MAJOR"
+      }
+    ],
+    "relationships": [
+      {
+        "targetCharacterId": "brogy",
+        "relationshipType": "STUDENT",
+        "description": "Usopp looks up to Brogy as a master warrior and role model, inspired by his honor and fighting spirit.",
+        "episodeEstablished": 72,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 72,
+            "description": "Usopp begins calling Brogy 'Master' and expresses his dream to visit Elbaf.",
+            "newRelationshipType": "STUDENT"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mr-3",
+    "name": {
+      "english": "Mr. 3",
+      "japanese": "Mr. 3(ミスター・スリー)",
+      "romanized": "Misutā Surī",
+      "realName": "Galdino"
+    },
+    "episodeAppearances": [72],
+    "keyMoments": [
+      {
+        "episodeNumber": 72,
+        "eventId": "ep072-event-003",
+        "momentType": "MAJOR_DECISION",
+        "title": "Mr. 3 Sabotages Dorry's Rum with Explosives",
+        "description": "Mr. 3 orchestrates a scheme to eliminate the giants by sabotaging rum barrels with explosives, causing one to detonate inside Dorry when he drinks it.",
+        "significance": "Demonstrates Mr. 3's cunning and strategic approach, using deception rather than direct confrontation to defeat powerful enemies.",
+        "timestamp": "09:45",
+        "quote": ""
+      },
+      {
+        "episodeNumber": 72,
+        "eventId": "ep072-event-008",
+        "momentType": "PROPHECY_FORESHADOWING",
+        "title": "Mr. 3's Scheme Revealed to Viewers",
+        "description": "The audience learns that Mr. 3 was responsible for the explosive rum, revealing his plan to eliminate both the giants and the Straw Hat Pirates through underhanded tactics.",
+        "significance": "Establishes Mr. 3 as a cunning antagonist and sets up the upcoming confrontation with the Straw Hats.",
+        "timestamp": "21:00",
+        "quote": ""
+      }
+    ],
+    "status": "ALIVE",
+    "reveals": [],
+    "relationships": []
+  },
+  {
+    "id": "vivi",
+    "name": {
+      "english": "Nefertari Vivi",
+      "japanese": "ネフェルタリ・ビビ",
+      "romanized": "Neferutari Bibi"
+    },
+    "episodeAppearances": [72],
+    "keyMoments": [
+      {
+        "episodeNumber": 72,
+        "eventId": "ep072-event-004",
+        "momentType": "RELATIONSHIP_REVEAL",
+        "title": "Vivi Confronted by Dorry",
+        "description": "Vivi is present when Dorry confronts the Straw Hats about the sabotaged rum, witnessing the breakdown of trust between the giant and the crew.",
+        "significance": "Places Vivi in a tense situation where she must stand with her allies despite being accused by a powerful giant.",
+        "timestamp": "11:30",
+        "quote": ""
+      }
+    ],
+    "status": "ALIVE",
+    "reveals": [],
+    "relationships": []
+  },
+  {
+    "id": "nami",
+    "name": {
+      "english": "Nami",
+      "japanese": "ナミ",
+      "romanized": "Nami"
+    },
+    "episodeAppearances": [72],
+    "keyMoments": [
+      {
+        "episodeNumber": 72,
+        "eventId": "ep072-event-003",
+        "momentType": "MAJOR_DECISION",
+        "title": "Nami Provides Rum to Brogy",
+        "description": "Nami (along with Usopp) provides rum barrels to Brogy as a gesture of hospitality, unknowingly giving him the sabotaged barrels that will be used to injure Dorry.",
+        "significance": "Shows how Mr. 3 manipulated the Straw Hats' kindness to execute his scheme.",
+        "timestamp": "09:45",
+        "quote": ""
+      }
+    ],
+    "status": "ALIVE",
+    "reveals": [],
+    "relationships": []
+  },
+  {
+    "id": "miss-goldenweek",
+    "name": {
+      "english": "Miss Goldenweek",
+      "japanese": "ミス・ゴールデンウィーク",
+      "romanized": "Misu Gōruden Wīku",
+      "realName": "Marianne"
+    },
+    "episodeAppearances": [72],
+    "keyMoments": [
+      {
+        "episodeNumber": 72,
+        "eventId": "ep072-event-008",
+        "momentType": "PROPHECY_FORESHADOWING",
+        "title": "Miss Goldenweek Assists Mr. 3's Scheme",
+        "description": "Miss Goldenweek is present with Mr. 3 as his scheme to sabotage the giants' duel unfolds.",
+        "significance": "Establishes her role as Mr. 3's partner in the Baroque Works operation on Little Garden.",
+        "timestamp": "21:00",
+        "quote": ""
+      }
+    ],
+    "status": "ALIVE",
+    "reveals": [],
+    "relationships": []
+  }
+]
