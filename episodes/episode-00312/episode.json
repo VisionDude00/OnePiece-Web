@@ -1,0 +1,519 @@
+{
+  "episodeNumber": 312,
+  "episodeTitle": "Thank You, Merry! Snow Falls over the Parting Sea!",
+  "episodeTitleJapanese": "ありがとうメリー！雪に煙る別れの海",
+  "episodeTitleRomanized": "Arigatō Merī! Yuki ni kemuru wakare no umi",
+  "description": "The Straw Hat Pirates return from Enies Lobby aboard the damaged Going Merry. When Iceburg reveals the ship's keel is irreparably broken, the crew holds a Viking funeral to honor their beloved first vessel. As snow falls and memories flash by, the Merry's spirit speaks one final time.",
+  "airDate": "2007-06-03",
+  "airDateJapan": "2007-06-03",
+  "airDateUS": "2013-12-03",
+  "airDateUSFunimation": "2015-08-08",
+  "arcName": "Enies Lobby",
+  "sagaName": "Water 7 Saga",
+  "animationQuality": "EXCELLENT",
+  "openingSong": {
+    "title": "Crazy Rainbow",
+    "titleJapanese": "クレイジーレインボー",
+    "artist": "Tackey & Tsubasa",
+    "composer": "Kosuke Morimoto",
+    "lyricist": "TAKESHI",
+    "episodeRange": [284, 325]
+  },
+  "endingSong": {
+    "title": "Dear friends",
+    "titleJapanese": "Dear friends",
+    "artist": "TRIPLANE",
+    "composer": "TRIPLANE",
+    "lyricist": "TRIPLANE",
+    "episodeRange": [246, 255]
+  },
+  "credits": {
+    "director": "Munehisa Sakai",
+    "screenplay": "Yoshiyuki Suga",
+    "artDirector": "Miho Shiraishi",
+    "animationDirector": "Unknown",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Iceburg",
+        "actor": "Izō Oikawa"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Chris Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Iceburg",
+        "actor": "Philip Weber"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep312-event-001",
+      "episodeNumber": 312,
+      "timestamp": "02:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Straw Hats Return from Enies Lobby",
+      "description": "The Straw Hat Pirates sail back from Enies Lobby aboard the Going Merry, triumphant but exhausted from their battle with CP9. They are greeted by ships from the Galley-La Company sailing out to meet them.",
+      "significance": "Marks the successful conclusion of the Enies Lobby rescue mission and sets up the emotional farewell to the Going Merry.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky"],
+      "locationIds": ["going-merry"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [309, 310, 311],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep312-event-002",
+      "episodeNumber": 312,
+      "timestamp": "04:30",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MINOR",
+      "title": "Luffy Searches for Usopp",
+      "description": "Luffy looks around for Usopp, not realizing that Sogeking is actually Usopp in disguise. Zoro and Robin both recognize the truth but say nothing, respecting Usopp's choice to maintain his persona.",
+      "significance": "Demonstrates the crew's understanding and respect for Usopp's pride, even as they prepare for an emotional moment together.",
+      "characterIds": ["luffy", "usopp", "zoro", "robin"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [258, 259],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [258]
+    },
+    {
+      "id": "ep312-event-003",
+      "episodeNumber": 312,
+      "timestamp": "06:45",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Iceburg Reveals Hearing Merry's Voice",
+      "description": "Iceburg explains that after the Going Merry was abandoned on Scrap Island, he heard banging and a voice saying 'I want to sail one more time.' Moved by the ship's determination, he repaired the Merry as best he could, allowing her to sail out on the Aqua Laguna to reach the Straw Hats at Enies Lobby.",
+      "significance": "Reveals the miraculous nature of the Going Merry's final journey and establishes that the ship had developed a sentient spirit - the Klabautermann. This moment explains how the ship arrived at Enies Lobby despite being deemed unsalvageable.",
+      "characterIds": ["iceburg"],
+      "locationIds": ["going-merry", "water-7"],
+      "quotes": [
+        {
+          "text": "I want to sail one more time.",
+          "speaker": "Going Merry (spirit)",
+          "context": "The ship's voice heard by Iceburg on Scrap Island"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [309, 310],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [236, 237]
+    },
+    {
+      "id": "ep312-event-004",
+      "episodeNumber": 312,
+      "timestamp": "09:15",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Franky Explains the Klabautermann",
+      "description": "Franky explains the legend of the Klabautermann, a ship spirit that manifests when a vessel has been truly loved and cared for by its crew. He confirms that what Usopp saw in Skypiea and what Iceburg heard in Water 7 was the Going Merry's Klabautermann.",
+      "significance": "Provides the mythological framework for understanding the Going Merry's sentience and introduces an important piece of One Piece world-building about the relationship between ships and their crews.",
+      "characterIds": ["franky", "usopp"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "A Klabautermann is a legendary manifestation of a ship's spirit that appears when a ship has been loved and cared for deeply by its crew.",
+          "speaker": "Franky",
+          "context": "Explaining the ship spirit concept to the crew"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [167],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [167, 168]
+    },
+    {
+      "id": "ep312-event-005",
+      "episodeNumber": 312,
+      "timestamp": "11:00",
+      "eventType": "DEATH",
+      "severity": "CRITICAL",
+      "title": "Going Merry's Keel Snaps",
+      "description": "The Going Merry's keel, already critically damaged, finally breaks completely. The ship lurches in the water and begins to split down the middle, her bow end folding toward the sea. Iceburg confirms that the damage is irreparable and the ship cannot be saved.",
+      "significance": "This is the moment the crew realizes they must say goodbye to their beloved ship. The physical breaking of the keel symbolizes the end of the Merry's journey and forces the crew to face the inevitable farewell.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky", "iceburg"],
+      "locationIds": ["going-merry"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [236, 237],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [236, 237]
+    },
+    {
+      "id": "ep312-event-006",
+      "episodeNumber": 312,
+      "timestamp": "13:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Luffy Decides on a Viking Funeral",
+      "description": "Rather than let the Going Merry sink alone to the dark ocean floor, Luffy decides to give the ship a proper Viking funeral. The crew will set the Merry ablaze and watch over her until the end, ensuring she doesn't have to face the loneliness of the deep sea.",
+      "significance": "Shows Luffy's growth as a captain and his deep love for the Going Merry. This decision demonstrates the crew's respect for their ship and provides a dignified end to their first vessel's journey.",
+      "characterIds": ["luffy"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "The seabed is dark and lonely. So we'll watch you to the end.",
+          "speaker": "Luffy",
+          "context": "Explaining why they'll give Merry a Viking funeral"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep312-event-007",
+      "episodeNumber": 312,
+      "timestamp": "15:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Flashback Montage of Merry's Journey",
+      "description": "As snow begins to fall, a montage shows the crew's most important moments aboard the Going Merry: entering the Grand Line at Reverse Mountain, sailing to Skypiea, and countless adventures together. The crew reminisces about all the memories they've shared on the ship.",
+      "significance": "This emotional montage reinforces the bond between the crew and their ship, showing how the Going Merry was present for all their most significant moments. The falling snow creates a solemn, beautiful atmosphere for the farewell.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin"],
+      "locationIds": ["going-merry"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [63, 153, 192],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [63, 64, 153, 154, 192, 193]
+    },
+    {
+      "id": "ep312-event-008",
+      "episodeNumber": 312,
+      "timestamp": "17:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "CRITICAL",
+      "title": "Luffy Apologizes to the Going Merry",
+      "description": "With tears in his eyes, Luffy apologizes to the Going Merry for how roughly they treated the ship and for not being able to fix her. He expresses deep regret and gratitude for all the adventures they shared together.",
+      "significance": "This rare moment of vulnerability from Luffy shows his emotional depth and his genuine love for the Going Merry. It's one of the few times in the series where Luffy openly cries, demonstrating the profound impact of this loss.",
+      "characterIds": ["luffy"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "I'm sorry we were such bad owners. I'm sorry we couldn't fix you.",
+          "speaker": "Luffy",
+          "context": "Luffy's tearful apology to the Going Merry"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep312-event-009",
+      "episodeNumber": 312,
+      "timestamp": "19:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "CRITICAL",
+      "title": "Going Merry's Final Words",
+      "description": "As the ship burns, the crew hears the Going Merry's voice one final time. The Klabautermann speaks to them, apologizing for not being able to carry them any further and thanking them for treasuring her and taking such good care of her for so long. The Merry expresses that she was happy.",
+      "significance": "This is the emotional climax of the episode and one of the most beloved moments in One Piece history. The Going Merry's final words provide closure for both the crew and the audience, transforming the ship from an object into a true member of the crew whose loss is deeply mourned.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin"],
+      "locationIds": ["going-merry"],
+      "quotes": [
+        {
+          "text": "I'm sorry I couldn't carry you any further. I wanted to go on more adventures with you. But I was happy. Thank you for treasuring me for so long.",
+          "speaker": "Going Merry (Klabautermann)",
+          "context": "The ship's final words to the crew as she burns"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep312-event-010",
+      "episodeNumber": 312,
+      "timestamp": "20:30",
+      "eventType": "DEATH",
+      "severity": "CRITICAL",
+      "title": "Going Merry Burns and Sinks",
+      "description": "The Going Merry, engulfed in flames, slowly sinks beneath the waves as the crew watches in tears. The ending song 'Dear Friends' by TRIPLANE plays during this final farewell. Snow continues to fall as the ship disappears beneath the ocean surface.",
+      "significance": "The final moments of the Going Merry mark the end of an era for the Straw Hat Pirates. This death scene was voted the most beloved moment in One Piece in a worldwide poll for the anime's 25th anniversary, surpassing even major character deaths.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky"],
+      "locationIds": ["going-merry"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [313, 314, 315],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [313, 314, 315],
+    "payoffFrom": [236, 237, 309, 310],
+    "thematicLinks": [167, 236, 245, 309]
+  },
+  "quotes": [
+    {
+      "text": "I want to sail one more time.",
+      "speaker": "Going Merry (spirit)",
+      "context": "The ship's voice heard by Iceburg on Scrap Island",
+      "timestamp": "06:45"
+    },
+    {
+      "text": "A Klabautermann is a legendary manifestation of a ship's spirit that appears when a ship has been loved and cared for deeply by its crew.",
+      "speaker": "Franky",
+      "context": "Explaining the ship spirit concept to the crew",
+      "timestamp": "09:15"
+    },
+    {
+      "text": "The seabed is dark and lonely. So we'll watch you to the end.",
+      "speaker": "Luffy",
+      "context": "Explaining why they'll give Merry a Viking funeral",
+      "timestamp": "13:30"
+    },
+    {
+      "text": "I'm sorry we were such bad owners. I'm sorry we couldn't fix you.",
+      "speaker": "Luffy",
+      "context": "Luffy's tearful apology to the Going Merry",
+      "timestamp": "17:45"
+    },
+    {
+      "text": "I'm sorry I couldn't carry you any further. I wanted to go on more adventures with you. But I was happy. Thank you for treasuring me for so long.",
+      "speaker": "Going Merry (Klabautermann)",
+      "context": "The ship's final words to the crew as she burns",
+      "timestamp": "19:00"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Loss and Grief",
+      "description": "The episode explores the profound grief of losing a cherished companion. The Going Merry is treated not as an object but as a crew member, and her death is mourned with the same intensity as a human loss.",
+      "symbolism": "The falling snow represents both purity and sadness, creating a solemn atmosphere for the funeral. The Viking funeral symbolizes a warrior's send-off, honoring the ship's brave service.",
+      "culturalReferences": ["Viking funeral traditions", "Klabautermann (Germanic ship spirit folklore)"]
+    },
+    {
+      "theme": "Gratitude and Appreciation",
+      "description": "Both the crew and the ship express deep gratitude to each other. The Going Merry thanks the crew for taking care of her, while Luffy apologizes for not being a better owner, showing mutual appreciation and love.",
+      "symbolism": "The title 'Thank You, Merry' encapsulates this theme of gratitude and farewell.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Memories and Legacy",
+      "description": "The flashback montage emphasizes how the Going Merry was present for all the crew's most important moments. Even though the ship is gone, the memories and legacy remain.",
+      "symbolism": "The montage of past adventures shows that while physical things may pass, memories endure forever.",
+      "culturalReferences": ["Dr. Hiriluk's philosophy: 'A man never dies until he is forgotten'"]
+    },
+    {
+      "theme": "Acceptance and Moving Forward",
+      "description": "The crew must accept that the Going Merry can no longer continue with them and make the difficult decision to let go. This represents growing up and accepting that some things cannot last forever.",
+      "symbolism": "The broken keel represents the irreversible nature of some damage - some things cannot be fixed, only honored and remembered.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Melancholic", "Heartbreaking", "Bittersweet", "Reverent", "Cathartic"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Emotional core",
+      "development": "Luffy shows rare vulnerability and tears as he apologizes to the Going Merry. This demonstrates his emotional depth and his capacity for grief, showing a more mature side of his character.",
+      "keyActions": [
+        "Decides to give the Going Merry a Viking funeral",
+        "Tearfully apologizes to the ship",
+        "Watches over the ship until the very end"
+      ],
+      "quotes": [
+        "The seabed is dark and lonely. So we'll watch you to the end.",
+        "I'm sorry we were such bad owners. I'm sorry we couldn't fix you."
+      ]
+    },
+    {
+      "characterId": "usopp",
+      "role": "Silent mourner",
+      "development": "Usopp remains in his Sogeking disguise but is clearly devastated. As the crew member who cared most for the ship and first saw the Klabautermann, this loss hits him especially hard.",
+      "keyActions": [
+        "Maintains Sogeking persona despite emotional pain",
+        "Witnesses the fulfillment of what he saw in Skypiea"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "going-merry",
+      "role": "Departing companion",
+      "development": "The Going Merry is revealed to have a spirit (Klabautermann) and speaks her final words to the crew, thanking them and apologizing. The ship is treated as a true character with agency and emotions.",
+      "keyActions": [
+        "Speaks to Iceburg requesting one last voyage",
+        "Carries the crew from Enies Lobby despite broken keel",
+        "Says final goodbye to the crew"
+      ],
+      "quotes": [
+        "I want to sail one more time.",
+        "I'm sorry I couldn't carry you any further. I wanted to go on more adventures with you. But I was happy. Thank you for treasuring me for so long."
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "During the flashback montage, Nami says that the entrance to the Grand Line is a mountain, and Usopp responds. In the original anime version of this scene in Episode 61, it was Luffy who responded. Episode 312 corrects this to match the manga.",
+      "episodeTimestamp": "15:30",
+      "mangaReference": "Chapter 430",
+      "type": "CORRECTION_TO_MANGA"
+    },
+    {
+      "difference": "The ending song 'Dear Friends' by TRIPLANE plays during the Going Merry's funeral scene instead of the regular ending, creating a more emotional atmosphere.",
+      "episodeTimestamp": "20:30",
+      "mangaReference": "Chapter 430",
+      "type": "ANIME_ENHANCEMENT"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "In a worldwide poll conducted for the One Piece anime's 25th anniversary, the Going Merry's farewell scene was voted the most beloved moment in One Piece, surpassing even Ace's death and other major moments.",
+      "category": "CULTURAL_IMPACT",
+      "sources": [
+        {
+          "url": "https://comicbook.com/anime/news/one-piece-going-merry-farewell-episode/",
+          "title": "It's Been 18 Years Since One Piece Fans Said Farewell to the Best Ship",
+          "platform": "ComicBook.com",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 312 aired on June 3, 2007, marking exactly 18 years since the Going Merry's farewell as of 2025.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_312",
+          "title": "Episode 312 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "fact": "This episode has an IMDb rating of 9.6, making it one of the highest-rated episodes in the entire One Piece anime series.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://www.imdb.com/title/tt1055053/",
+          "title": "One Piece Episode 312 IMDb Page",
+          "platform": "IMDb",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "fact": "The Going Merry was with the Straw Hat Pirates for 296 anime episodes before her farewell in Episode 312.",
+      "category": "CONTINUITY",
+      "sources": []
+    },
+    {
+      "fact": "This is the final episode of the Enies Lobby Arc and marks a major transition point in the Water 7 Saga.",
+      "category": "STORY_STRUCTURE",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_312",
+          "title": "Episode 312 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "fact": "The animation quality in this episode was noted to be some of the best the series had seen up to this point, with breathtaking emotional scenes.",
+      "category": "ANIMATION",
+      "sources": []
+    },
+    {
+      "fact": "The Klabautermann concept introduced in this episode is based on Germanic folklore about ship spirits that protect vessels and their crews.",
+      "category": "CULTURAL_REFERENCE",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Klabautermann",
+          "title": "Klabautermann - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "fact": "After this episode, the Straw Hats would be without a ship for 8 episodes until they acquire the Thousand Sunny.",
+      "category": "CONTINUITY",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

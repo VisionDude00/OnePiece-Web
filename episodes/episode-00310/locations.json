@@ -1,0 +1,109 @@
+[
+  {
+    "name": {
+      "english": "Enies Lobby",
+      "japanese": "エニエス・ロビー",
+      "romanized": "Eniesu Robī"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "PARADISE",
+    "islandName": "Enies Lobby",
+    "debutEpisode": 263,
+    "debutChapter": 375,
+    "description": "A judicial island of the World Government, currently under assault by the Buster Call. The Straw Hats are trapped on the Bridge of Hesitation, surrounded by Marine battleships.",
+    "episodeAppearances": [310],
+    "keyEvents": [
+      {
+        "episodeNumber": 310,
+        "eventId": "ep310-event-003",
+        "eventType": "DESTRUCTION",
+        "title": "Escape Ship Destroyed",
+        "description": "The Buster Call destroys the ship meant to carry the Straw Hats to safety.",
+        "significance": "Eliminates the crew's primary escape route, creating a desperate situation.",
+        "timestamp": "07:20"
+      },
+      {
+        "episodeNumber": 310,
+        "eventId": "ep310-event-006",
+        "eventType": "BATTLE_PREPARATION",
+        "title": "Straw Hats Cornered by Five Battleships",
+        "description": "The crew is trapped on a platform with five Marine battleships surrounding them, cannons aimed and ready to fire.",
+        "significance": "Creates the darkest moment of the Enies Lobby escape before the Going Merry's rescue.",
+        "timestamp": "14:00"
+      },
+      {
+        "episodeNumber": 310,
+        "eventId": "ep310-event-013",
+        "eventType": "RESCUE",
+        "title": "Going Merry Arrives at Enies Lobby",
+        "description": "The Going Merry appears at Enies Lobby, having sailed from Water 7 completely autonomously to rescue the Straw Hats.",
+        "significance": "One of the most emotional moments in the series - the ship's miraculous arrival saves the crew from certain death.",
+        "timestamp": "20:45"
+      }
+    ],
+    "status": "UNDER_ATTACK",
+    "statusHistory": [
+      {
+        "status": "UNDER_ATTACK",
+        "episodeStart": 301,
+        "episodeEnd": 312,
+        "reason": "Buster Call bombardment destroying the island"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["bridge-of-hesitation"],
+    "relatedCharacters": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Enies Lobby"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Bridge of Hesitation",
+      "japanese": "ためらいの橋",
+      "romanized": "Tamerainoha shi"
+    },
+    "locationType": "STRUCTURE",
+    "seaRegion": "PARADISE",
+    "islandName": "Enies Lobby",
+    "debutEpisode": 293,
+    "debutChapter": null,
+    "description": "The bridge connecting the main courthouse to the Gate of Justice at Enies Lobby. This is where the Straw Hats make their final stand against the Buster Call forces before being rescued by the Going Merry.",
+    "episodeAppearances": [310],
+    "keyEvents": [
+      {
+        "episodeNumber": 310,
+        "eventId": "ep310-event-007",
+        "eventType": "BATTLE",
+        "title": "Sharinguru Attacks Franky",
+        "description": "Marine Captain Sharinguru engages Franky in combat on the bridge.",
+        "significance": "Brief battle showcasing Franky's strength against Marine officers.",
+        "timestamp": "15:45"
+      },
+      {
+        "episodeNumber": 310,
+        "eventId": "ep310-event-009",
+        "eventType": "COUNTDOWN",
+        "title": "Marines Begin Countdown to Fire",
+        "description": "Marines on five battleships begin a coordinated five-second countdown before firing all cannons at the trapped Straw Hats.",
+        "significance": "Peak of dramatic tension before the Going Merry's miraculous rescue.",
+        "timestamp": "17:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 293,
+        "episodeEnd": "present",
+        "reason": "Bridge remains functional during Buster Call"
+      }
+    ],
+    "parentLocation": "enies-lobby",
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky", "sharinguru"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Enies Lobby"],
+    "images": []
+  }
+]

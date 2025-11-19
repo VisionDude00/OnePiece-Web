@@ -1,0 +1,119 @@
+[
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "luffy",
+    "debutEpisode": 1,
+    "episodeAppearances": [311],
+    "keyMoments": [
+      {
+        "episodeNumber": 311,
+        "eventId": "ep311-event-001",
+        "momentType": "LOCATION_ARRIVAL",
+        "title": "Rescued by Going Merry",
+        "description": "The crew is rescued by their ship, the Going Merry, which miraculously arrives at Enies Lobby on its own.",
+        "significance": "Demonstrates the bond between ship and crew, setting up the emotional farewell to come.",
+        "timestamp": "03:15"
+      },
+      {
+        "episodeNumber": 311,
+        "eventId": "ep311-event-012",
+        "momentType": "LOCATION_DEPARTURE",
+        "title": "Successful Escape from Enies Lobby",
+        "description": "The Straw Hat crew successfully escapes Enies Lobby, evading the Buster Call and leaving the World Government's judicial island in ruins.",
+        "significance": "Marks a major victory against the World Government and establishes the crew as a serious threat to the world order.",
+        "timestamp": "21:15"
+      }
+    ],
+    "relationships": {
+      "allies": ["franky-family", "galley-la"],
+      "enemies": ["cp9", "marines"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "CP9",
+      "japanese": "CP9",
+      "romanized": "Shīpī Nain"
+    },
+    "crewType": "GOVERNMENT_ORGANIZATION",
+    "captainId": "spandam",
+    "debutEpisode": 264,
+    "episodeAppearances": [311],
+    "keyMoments": [
+      {
+        "episodeNumber": 311,
+        "eventId": "ep311-event-006",
+        "momentType": "DEFEAT",
+        "title": "Spandam Defeated by Robin",
+        "description": "CP9 director Spandam has his spine broken by Nico Robin, completely incapacitating him.",
+        "significance": "Marks the complete defeat of CP9's leadership and the end of their mission to transport Robin.",
+        "timestamp": "13:25"
+      }
+    ],
+    "relationships": {
+      "allies": ["marines"],
+      "enemies": ["straw-hat-pirates"],
+      "parentOrganization": "world-government"
+    }
+  },
+  {
+    "name": {
+      "english": "Franky Family",
+      "japanese": "フランキー一家",
+      "romanized": "Furankī Ikka"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "franky",
+    "debutEpisode": 233,
+    "episodeAppearances": [311],
+    "keyMoments": [
+      {
+        "episodeNumber": 311,
+        "eventId": "ep311-event-013",
+        "momentType": "LOCATION_DEPARTURE",
+        "title": "Escape on Puffing Tom",
+        "description": "The Franky Family successfully evacuates Enies Lobby aboard the Puffing Tom sea train.",
+        "significance": "Ensures the allies who helped assault Enies Lobby make it out safely.",
+        "timestamp": "22:00"
+      }
+    ],
+    "relationships": {
+      "allies": ["straw-hat-pirates", "galley-la"],
+      "enemies": ["cp9"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Galley-La Company",
+      "japanese": "ガレーラカンパニー",
+      "romanized": "Garēra Kanpanī"
+    },
+    "crewType": "COMPANY",
+    "captainId": "iceburg",
+    "debutEpisode": 229,
+    "episodeAppearances": [311],
+    "keyMoments": [
+      {
+        "episodeNumber": 311,
+        "eventId": "ep311-event-013",
+        "momentType": "LOCATION_DEPARTURE",
+        "title": "Foremen Escape on Puffing Tom",
+        "description": "The Galley-La foremen successfully evacuate Enies Lobby aboard the Puffing Tom.",
+        "significance": "The shipwrights who helped assault Enies Lobby make it back safely to Water 7.",
+        "timestamp": "22:00"
+      }
+    ],
+    "relationships": {
+      "allies": ["straw-hat-pirates", "franky-family"],
+      "enemies": ["cp9"],
+      "parentOrganization": null
+    }
+  }
+]
