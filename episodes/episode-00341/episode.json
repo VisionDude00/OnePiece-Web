@@ -1,0 +1,598 @@
+{
+  "episodeNumber": 341,
+  "episodeTitle": "Nami's in a Major Pinch! The Zombie Mansion and the Invisible Man!",
+  "description": "Nami faces a terrifying assault from an invisible attacker while bathing. Meanwhile, Luffy's group encounters bizarre creatures on Thriller Bark, and the trio trapped in the mansion must face off against an army of Surprise Zombies.",
+  "airDate": "2008-02-03",
+  "airDateJapan": "2008-02-03",
+  "airDateUS": "2016-04-09",
+  "arcName": "Thriller Bark",
+  "sagaName": "Thriller Bark Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Jungle P",
+    "artist": "5050",
+    "episodeRange": [326, 372]
+  },
+  "endingSong": {
+    "title": "Adventure World",
+    "artist": "Delicatessen",
+    "episodeRange": [326, 372]
+  },
+  "credits": {
+    "animationDirector": "Naoki Murakami",
+    "director": "Tetsuya Endō",
+    "screenplay": "Isao Murayama",
+    "artDirection": ["Miho Shiraishi", "Michiyo Kawasaki"],
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Dr. Hogback",
+        "actor": "Hideyuki Hori"
+      },
+      {
+        "character": "Absalom",
+        "actor": "Hiroaki Miura"
+      },
+      {
+        "character": "Perona",
+        "actor": "Kumiko Nishihara"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Absalom",
+        "actor": "Andrew Chandler"
+      },
+      {
+        "character": "Perona",
+        "actor": "Felecia Angelle"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep341-event-001",
+      "episodeNumber": 341,
+      "timestamp": "03:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Nami Prepares to Bathe in Hogback's Mansion",
+      "description": "After exploring Dr. Hogback's mansion, Nami decides to take a bath and asks Usopp and Chopper to stand guard outside. Despite the creepy surroundings, she attempts to relax.",
+      "significance": "Sets up the vulnerable situation that leads to Absalom's attack, establishing the horror atmosphere of Thriller Bark.",
+      "characterIds": ["nami", "usopp", "chopper"],
+      "locationIds": ["hogback-mansion"],
+      "quotes": [
+        {
+          "text": "You two stand guard outside while I take a bath.",
+          "speaker": "Nami",
+          "context": "Nami asks Usopp and Chopper to protect her while she bathes"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [340],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep341-event-002",
+      "episodeNumber": 341,
+      "timestamp": "04:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Absalom Attacks Nami in the Bathroom",
+      "description": "An invisible man, later revealed to be Absalom, uses his Suke Suke no Mi powers to attack Nami while she's bathing. He restrains her and declares his intention to make her his bride, creating one of the arc's most controversial scenes.",
+      "significance": "Establishes Absalom as a threatening antagonist and sets up his obsession with Nami, which becomes a key plot point in the Thriller Bark arc. This event also demonstrates the dark and predatory nature of some of Moria's commanders.",
+      "characterIds": ["nami", "absalom"],
+      "locationIds": ["hogback-mansion"],
+      "devilFruitIds": ["suke-suke-no-mi"],
+      "quotes": [
+        {
+          "text": "You'll make a lovely bride.",
+          "speaker": "Absalom",
+          "context": "Absalom's disturbing declaration while attacking Nami"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [362, 366],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep341-event-003",
+      "episodeNumber": 341,
+      "timestamp": "06:00",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Usopp and Chopper Defend Nami",
+      "description": "Hearing Nami's screams, Usopp and Chopper rush into the bathroom to defend her. They manage to drive off the invisible attacker, though they cannot see him and struggle to land effective hits.",
+      "significance": "Shows the crew's loyalty to protect each other even against invisible enemies. Demonstrates Usopp and Chopper's bravery despite their usual cowardice.",
+      "characterIds": ["nami", "usopp", "chopper", "absalom"],
+      "locationIds": ["hogback-mansion"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep341-event-004",
+      "episodeNumber": 341,
+      "timestamp": "07:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "The Trio Realizes Their Escape Plan Was Overheard",
+      "description": "Nami, Usopp, and Chopper realize that the invisible man heard their plans to escape the mansion and signal the others. They understand they're now in greater danger as their strategy is compromised.",
+      "significance": "Raises the stakes for the mansion trio and increases tension as they realize they're being monitored.",
+      "characterIds": ["nami", "usopp", "chopper"],
+      "locationIds": ["hogback-mansion"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep341-event-005",
+      "episodeNumber": 341,
+      "timestamp": "08:20",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Usopp Fires an Exploding Star",
+      "description": "To alert the other Straw Hats of danger, Usopp fires an Exploding Star that creates a loud explosion. However, this also alerts Dr. Hogback to their activities.",
+      "significance": "Demonstrates Usopp's quick thinking but also shows how their actions have consequences, alerting their enemies.",
+      "characterIds": ["usopp", "hogback"],
+      "locationIds": ["hogback-mansion"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep341-event-006",
+      "episodeNumber": 341,
+      "timestamp": "09:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Absalom Escapes Through the Window",
+      "description": "After being driven off by Usopp and Chopper, Absalom flees through the window while still invisible, returning to report to Hogback and plan his next move.",
+      "significance": "Shows that Absalom remains a threat and will continue pursuing Nami.",
+      "characterIds": ["absalom"],
+      "locationIds": ["hogback-mansion"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep341-event-007",
+      "episodeNumber": 341,
+      "timestamp": "11:00",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Luffy's Group Lands on Thriller Bark Island",
+      "description": "Luffy, Zoro, Sanji, Robin, and Franky finally set foot on the main island of Thriller Bark, beginning their exploration of the mysterious and spooky territory.",
+      "significance": "Marks the main crew's entry into Thriller Bark proper, setting up their encounters with the island's various zombie inhabitants.",
+      "characterIds": ["luffy", "zoro", "sanji", "robin", "franky"],
+      "locationIds": ["thriller-bark"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [337, 338, 339, 340],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep341-event-008",
+      "episodeNumber": 341,
+      "timestamp": "12:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Encounter with Cerberus",
+      "description": "Luffy's group encounters Cerberus, the massive three-headed dog zombie guarding Thriller Bark. Luffy immediately tries to pet it, showing his typical fearless and friendly nature.",
+      "significance": "Introduces one of Thriller Bark's guardian creatures and demonstrates the bizarre zombie animals created on the island.",
+      "characterIds": ["luffy", "zoro", "sanji", "robin", "franky"],
+      "locationIds": ["thriller-bark"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep341-event-009",
+      "episodeNumber": 341,
+      "timestamp": "13:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Luffy Uses Gomu Gomu no Mushitoriami",
+      "description": "When Cerberus bites him, Luffy retaliates by using Gomu Gomu no Mushitoriami (Bug-Catching Net), an anime-original technique, to punch the three-headed beast.",
+      "significance": "Debuts a new anime-original variation of Luffy's Gomu Gomu abilities, showing his adaptability in combat.",
+      "characterIds": ["luffy"],
+      "locationIds": ["thriller-bark"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep341-event-010",
+      "episodeNumber": 341,
+      "timestamp": "14:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Luffy Captures a Unicorn and Tree Zombie",
+      "description": "Luffy encounters and captures a zombie unicorn and a sentient tree zombie. True to his nature, he excitedly asks them to join his crew, much to the annoyance of Zoro and Sanji.",
+      "significance": "Provides comic relief and showcases Luffy's tendency to recruit unusual creatures, continuing a running gag from earlier arcs.",
+      "characterIds": ["luffy", "zoro", "sanji"],
+      "locationIds": ["thriller-bark"],
+      "quotes": [
+        {
+          "text": "Join my crew!",
+          "speaker": "Luffy",
+          "context": "Luffy's typical recruitment attempt with the zombie creatures"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [91, 162]
+    },
+    {
+      "id": "ep341-event-011",
+      "episodeNumber": 341,
+      "timestamp": "16:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Hogback Meets with Absalom and Perona",
+      "description": "Dr. Hogback convenes a meeting with Absalom and Perona to discuss what to do about the Straw Hat Pirates invading Thriller Bark. The three Mysterious Four members strategize on how to handle the intruders.",
+      "significance": "Establishes the coordination between Moria's top commanders and sets up future confrontations. Shows the organizational structure of the Thriller Bark Pirates.",
+      "characterIds": ["hogback", "absalom", "perona"],
+      "locationIds": ["hogback-mansion"],
+      "crewIds": ["thriller-bark-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [338, 339, 340],
+      "payoffInEpisodes": [342, 343],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep341-event-012",
+      "episodeNumber": 341,
+      "timestamp": "17:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "The Surprise Zombies Appear",
+      "description": "Nami, Usopp, and Chopper encounter the Surprise Zombies - undead creatures that emerge from paintings, mounted animal heads, and even the floor. These zombies surround and trap the trio in the mansion.",
+      "significance": "Introduces the Surprise Zombies as a unique category of Thriller Bark's undead forces, showcasing the creative horror elements of the arc.",
+      "characterIds": ["nami", "usopp", "chopper"],
+      "locationIds": ["hogback-mansion"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep341-event-013",
+      "episodeNumber": 341,
+      "timestamp": "18:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Buhichuck Attacks the Trio",
+      "description": "Buhichuck (also known as Oinkchuck), the pig-headed zombie leader of the Surprise Zombies, attacks Nami, Usopp, and Chopper. He throws swords at them using his concealed hands while mounted on the wall.",
+      "significance": "Introduces a specific named antagonist among the Surprise Zombies and demonstrates the variety of combat styles the mansion zombies possess.",
+      "characterIds": ["nami", "usopp", "chopper", "buhichuck"],
+      "locationIds": ["hogback-mansion"],
+      "quotes": [
+        {
+          "text": "Buhi buhi buhi!",
+          "speaker": "Buhichuck",
+          "context": "Buhichuck's distinctive laughter while attacking"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep341-event-014",
+      "episodeNumber": 341,
+      "timestamp": "19:45",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Usopp Uses Fire Against the Zombies",
+      "description": "Discovering that the zombies fear fire, Usopp uses candlelight as a weapon to defend against the Surprise Zombies. In the process, he accidentally sets parts of the room ablaze.",
+      "significance": "Reveals a key weakness of the Thriller Bark zombies and demonstrates Usopp's resourcefulness in combat situations.",
+      "characterIds": ["usopp", "nami", "chopper"],
+      "locationIds": ["hogback-mansion"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [342, 343],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep341-event-015",
+      "episodeNumber": 341,
+      "timestamp": "21:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "The Trio Becomes Trapped by Zombies",
+      "description": "As the episode concludes, Nami, Usopp, and Chopper find themselves completely surrounded and trapped by the pursuing Surprise Zombies, setting up a cliffhanger for the next episode.",
+      "significance": "Creates tension and a cliffhanger ending, raising stakes for the mansion trio's survival.",
+      "characterIds": ["nami", "usopp", "chopper"],
+      "locationIds": ["hogback-mansion"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [342],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["buhichuck"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["gomu-gomu-no-mushitoriami"]
+  },
+  "episodeRelationships": {
+    "setupFor": [342, 343],
+    "payoffFrom": [338, 339, 340],
+    "thematicLinks": [337, 344, 362, 366]
+  },
+  "quotes": [
+    {
+      "text": "You'll make a lovely bride.",
+      "speaker": "Absalom",
+      "context": "Absalom's disturbing declaration while attacking Nami",
+      "timestamp": "04:30"
+    },
+    {
+      "text": "You two stand guard outside while I take a bath.",
+      "speaker": "Nami",
+      "context": "Nami asks Usopp and Chopper to protect her",
+      "timestamp": "03:15"
+    },
+    {
+      "text": "Join my crew!",
+      "speaker": "Luffy",
+      "context": "Luffy's typical recruitment attempt with zombie creatures",
+      "timestamp": "14:45"
+    },
+    {
+      "text": "Buhi buhi buhi!",
+      "speaker": "Buhichuck",
+      "context": "Buhichuck's distinctive laughter",
+      "timestamp": "18:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Vulnerability and Protection",
+      "description": "The episode explores themes of vulnerability through Nami's attack and the protective instincts of her crewmates who rush to defend her.",
+      "symbolism": "The bathroom scene symbolizes vulnerability in its most literal form, while Usopp and Chopper's response demonstrates the crew's bond.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Horror and Comedy Balance",
+      "description": "Thriller Bark continues to blend horror elements (invisible attackers, zombie ambushes) with One Piece's trademark comedy (Luffy trying to recruit zombies).",
+      "symbolism": "The contrasting tones between the mansion group's horror experience and Luffy's group's comedic adventure showcase One Piece's tonal versatility.",
+      "culturalReferences": ["Classic horror mansion tropes", "Gothic horror aesthetics"]
+    },
+    {
+      "theme": "Resourcefulness Under Pressure",
+      "description": "Usopp demonstrates quick thinking by using fire against the zombies and signaling for help, showing how the weaker Straw Hats survive through cleverness.",
+      "symbolism": "Fire represents hope and survival against the darkness of Thriller Bark.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Suspenseful", "Disturbing", "Comedic", "Adventurous"],
+  "characterSpotlights": [
+    {
+      "characterId": "nami",
+      "role": "Victim of assault and damsel in distress",
+      "development": "Nami experiences one of her most vulnerable moments in the series, being attacked by Absalom while bathing. This establishes her as Absalom's target throughout the arc.",
+      "keyActions": [
+        "Takes a bath in Hogback's mansion",
+        "Defends herself by kicking the invisible attacker",
+        "Battles Surprise Zombies with Usopp and Chopper"
+      ],
+      "quotes": ["You two stand guard outside while I take a bath."]
+    },
+    {
+      "characterId": "usopp",
+      "role": "Defender and strategist",
+      "development": "Despite his usual cowardice, Usopp shows bravery by rushing to protect Nami and cleverly uses fire as a weapon against the zombies.",
+      "keyActions": [
+        "Defends Nami from Absalom's attack",
+        "Fires an Exploding Star to alert others",
+        "Discovers zombies' weakness to fire",
+        "Uses candlelight as a weapon"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "chopper",
+      "role": "Defender and support",
+      "development": "Chopper demonstrates loyalty by helping defend Nami despite the frightening circumstances.",
+      "keyActions": [
+        "Guards Nami while she bathes",
+        "Rushes to defend Nami from attack",
+        "Fights alongside Usopp against Surprise Zombies"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "luffy",
+      "role": "Comic relief and adventurer",
+      "development": "Luffy provides a stark contrast to the mansion's horror by treating Thriller Bark as an exciting adventure, befriending and fighting creatures with enthusiasm.",
+      "keyActions": [
+        "Lands on Thriller Bark island",
+        "Pets then punches Cerberus",
+        "Uses Gomu Gomu no Mushitoriami",
+        "Captures zombie unicorn and tree",
+        "Tries to recruit zombie creatures"
+      ],
+      "quotes": ["Join my crew!"]
+    },
+    {
+      "characterId": "absalom",
+      "role": "Antagonist and predator",
+      "development": "Absalom is established as a disturbing villain who uses his invisibility to prey on Nami, declaring his intention to make her his bride.",
+      "keyActions": [
+        "Attacks Nami while invisible",
+        "Declares intention to make Nami his bride",
+        "Escapes after being driven off",
+        "Meets with Hogback and Perona to strategize"
+      ],
+      "quotes": ["You'll make a lovely bride."]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The Gomu Gomu no Mushitoriami technique used by Luffy against Cerberus is anime-original and does not appear in the manga.",
+      "episodeTimestamp": "13:30",
+      "mangaReference": "Chapter 447",
+      "type": "ANIME_ORIGINAL_TECHNIQUE"
+    },
+    {
+      "difference": "The bathroom assault scene is extended in the anime compared to the manga, with more detailed reactions from Nami, Usopp, and Chopper.",
+      "episodeTimestamp": "04:30",
+      "mangaReference": "Chapter 446",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episode 341 is one of the most controversial episodes in One Piece due to the Absalom bathroom assault scene, with many fans and critics discussing the problematic nature of sexual harassment being used as a plot device.",
+      "category": "CONTROVERSY",
+      "sources": [
+        {
+          "url": "https://www.cbr.com/one-piece-controversial-scenes-rewatch/",
+          "title": "10 Problematic One Piece Scenes That Don't Hold Up on a Rewatch",
+          "platform": "CBR",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "fact": "According to a blog recap, Episode 341 became their 'MOST READ ARTICLE', suggesting significant viewer interest and discussion around this episode.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://theadultswimsquad.wordpress.com/2016/04/10/one-piece-episode-341-recap/",
+          "title": "One Piece Episode 341 Recap",
+          "platform": "Swim Squad Blog",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "fact": "Buhichuck's name is sometimes translated as 'Oinkchuck' in English, as 'Buhi' is the Japanese equivalent of 'oink' for pig sounds.",
+      "category": "TRANSLATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Buhichuck",
+          "title": "Buhichuck - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "fact": "This episode adapts Chapter 446 (pages 12-19) and Chapter 447 (pages 2-16) of the manga.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_341",
+          "title": "Episode 341 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "fact": "The opening theme 'Jungle P' by 5050 has a funky, playful vibe with reggae and hip-hop influences, contrasting with the horror atmosphere of Thriller Bark.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Jungle_P",
+          "title": "Jungle P - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

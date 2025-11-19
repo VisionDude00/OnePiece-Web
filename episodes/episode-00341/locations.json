@@ -1,0 +1,129 @@
+[
+  {
+    "id": "hogback-mansion",
+    "name": {
+      "english": "Hogback's Mansion",
+      "japanese": "ホグバックの屋敷",
+      "romanized": "Hogubakku no Yashiki"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "PARADISE",
+    "islandName": "Thriller Bark",
+    "debutEpisode": 340,
+    "debutChapter": 446,
+    "description": "A large, gothic mansion located on Thriller Bark where Dr. Hogback conducts his experiments. The mansion is filled with paintings, mounted animal heads, and other decorations that serve as hiding places for Surprise Zombies.",
+    "episodeAppearances": [341],
+    "keyEvents": [
+      {
+        "episodeNumber": 341,
+        "eventId": "ep341-event-001",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Nami Prepares to Bathe",
+        "description": "Nami decides to take a bath in the mansion's bathroom, setting up the subsequent attack.",
+        "significance": "The mansion's bathroom becomes the site of one of the arc's most controversial scenes.",
+        "timestamp": "03:15"
+      },
+      {
+        "episodeNumber": 341,
+        "eventId": "ep341-event-002",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Absalom's Bathroom Attack",
+        "description": "Absalom attacks Nami while invisible in the mansion's bathroom, declaring his intention to make her his bride.",
+        "significance": "Establishes the mansion as a dangerous location where the Mysterious Four can attack at will.",
+        "timestamp": "04:30"
+      },
+      {
+        "episodeNumber": 341,
+        "eventId": "ep341-event-011",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Strategic Meeting of the Mysterious Four",
+        "description": "Hogback convenes a meeting with Absalom and Perona in the mansion to discuss the Straw Hat threat.",
+        "significance": "Shows the mansion serves as a command center for Thriller Bark's leadership.",
+        "timestamp": "16:30"
+      },
+      {
+        "episodeNumber": 341,
+        "eventId": "ep341-event-012",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Surprise Zombies Attack",
+        "description": "The Surprise Zombies emerge from paintings, mounted heads, and floor rugs throughout the mansion to attack Nami, Usopp, and Chopper.",
+        "significance": "Reveals the mansion's true nature as a death trap filled with hidden zombie soldiers.",
+        "timestamp": "17:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 340,
+        "episodeEnd": "present",
+        "reason": "The mansion is operational and serves as Hogback's residence and laboratory"
+      }
+    ],
+    "parentLocation": "thriller-bark",
+    "childLocations": [],
+    "relatedCharacters": ["hogback", "absalom", "perona", "nami", "usopp", "chopper", "buhichuck"],
+    "relatedCrews": ["thriller-bark-pirates"],
+    "relatedArcs": ["Thriller Bark"],
+    "images": []
+  },
+  {
+    "id": "thriller-bark",
+    "name": {
+      "english": "Thriller Bark",
+      "japanese": "スリラーバーク",
+      "romanized": "Surirā Bāku"
+    },
+    "locationType": "SHIP",
+    "seaRegion": "PARADISE",
+    "islandName": null,
+    "debutEpisode": 337,
+    "debutChapter": 442,
+    "description": "A massive island-sized ship in the Florian Triangle, serving as the base of operations for Gecko Moria and his zombie army. The ship is designed to look like a spooky island with forests, graveyards, and gothic architecture.",
+    "episodeAppearances": [341],
+    "keyEvents": [
+      {
+        "episodeNumber": 341,
+        "eventId": "ep341-event-007",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Luffy's Group Lands on Thriller Bark",
+        "description": "Luffy, Zoro, Sanji, Robin, and Franky finally set foot on the main Thriller Bark island, beginning their exploration.",
+        "significance": "Marks the main crew's entry into the heart of Thriller Bark territory.",
+        "timestamp": "11:00"
+      },
+      {
+        "episodeNumber": 341,
+        "eventId": "ep341-event-008",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Encounter with Cerberus",
+        "description": "Luffy's group encounters the three-headed dog zombie Cerberus, one of Thriller Bark's guardians.",
+        "significance": "Introduces the bizarre zombie creatures that inhabit Thriller Bark.",
+        "timestamp": "12:15"
+      },
+      {
+        "episodeNumber": 341,
+        "eventId": "ep341-event-010",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Luffy Captures Zombie Creatures",
+        "description": "Luffy captures a unicorn zombie and sentient tree zombie while exploring Thriller Bark.",
+        "significance": "Showcases the variety of undead creatures on the island.",
+        "timestamp": "14:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 337,
+        "episodeEnd": "present",
+        "reason": "Thriller Bark is operational as Gecko Moria's floating fortress"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["hogback-mansion"],
+    "relatedCharacters": ["luffy", "zoro", "sanji", "robin", "franky", "nami", "usopp", "chopper", "gecko-moria", "absalom", "perona", "hogback"],
+    "relatedCrews": ["thriller-bark-pirates", "straw-hat-pirates"],
+    "relatedArcs": ["Thriller Bark"],
+    "images": []
+  }
+]

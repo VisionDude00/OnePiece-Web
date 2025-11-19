@@ -1,0 +1,158 @@
+[
+  {
+    "name": {
+      "english": "Hogback's Laboratory",
+      "japanese": "ホグバックの研究室",
+      "romanized": "Hogubacku no Kenkyūshitsu"
+    },
+    "locationType": "BUILDING_INTERIOR",
+    "seaRegion": "FLORIAN_TRIANGLE",
+    "islandName": "Thriller Bark",
+    "debutEpisode": 343,
+    "debutChapter": 449,
+    "description": "Dr. Hogback's secret laboratory where he performs surgical procedures to prepare corpses for zombie creation. The lab contains medical equipment, operating tables, and evidence of his unethical experiments.",
+    "episodeAppearances": [344],
+    "keyEvents": [
+      {
+        "episodeNumber": 344,
+        "eventId": "ep344-event-001",
+        "eventType": "CONFRONTATION",
+        "title": "Nami Confronts Hogback",
+        "description": "Nami confronts Hogback in his laboratory after discovering evidence of his zombie creation experiments.",
+        "significance": "The laboratory becomes the site where Hogback's true nature is exposed to the Straw Hats.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 344,
+        "eventId": "ep344-event-004",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Ryuma Enters Laboratory",
+        "description": "General Zombie Ryuma makes his first appearance by walking into Hogback's laboratory to attack the intruders.",
+        "significance": "The laboratory serves as the battleground for Ryuma's debut fight.",
+        "timestamp": "06:30"
+      },
+      {
+        "episodeNumber": 344,
+        "eventId": "ep344-event-006",
+        "eventType": "BATTLE_END",
+        "title": "Straw Hats Defeated in Laboratory",
+        "description": "Ryuma defeats Nami, Usopp, and Chopper in the laboratory using his delayed-strike technique.",
+        "significance": "The laboratory witnesses the first major defeat of Straw Hat members on Thriller Bark.",
+        "timestamp": "08:15"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 343,
+        "episodeEnd": "present",
+        "reason": "Laboratory is operational and being used for zombie creation"
+      }
+    ],
+    "parentLocation": "hogbacks-mansion",
+    "childLocations": [],
+    "relatedCharacters": ["hogback", "cindry", "ryuma-zombie", "nami", "usopp", "chopper"],
+    "relatedCrews": ["thriller-bark-pirates", "straw-hat-pirates"],
+    "relatedArcs": ["Thriller Bark"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Hogback's Mansion",
+      "japanese": "ホグバックの屋敷",
+      "romanized": "Hogubacku no Yashiki"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "FLORIAN_TRIANGLE",
+    "islandName": "Thriller Bark",
+    "debutEpisode": 340,
+    "debutChapter": 446,
+    "description": "A large, spooky mansion on Thriller Bark that serves as Dr. Hogback's residence and base of operations. The mansion is filled with Surprise Zombies hidden in various rooms and contains Hogback's secret laboratory.",
+    "episodeAppearances": [344],
+    "keyEvents": [
+      {
+        "episodeNumber": 344,
+        "eventId": "ep344-event-007",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Luffy's Group Infiltrates Mansion",
+        "description": "Luffy, Zoro, Robin, and Franky break into Hogback's mansion to pursue Gecko Moria.",
+        "significance": "Marks the beginning of the second group's exploration of the mansion's dangers.",
+        "timestamp": "10:20"
+      },
+      {
+        "episodeNumber": 344,
+        "eventId": "ep344-event-008",
+        "eventType": "BATTLE_END",
+        "title": "Surprise Zombies Defeated",
+        "description": "Luffy's team easily defeats the Surprise Zombies hidden throughout the mansion's rooms.",
+        "significance": "Demonstrates that while the mansion's basic defenses are weak, stronger threats lie ahead.",
+        "timestamp": "11:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 340,
+        "episodeEnd": "present",
+        "reason": "Mansion is occupied and functioning as Hogback's base"
+      }
+    ],
+    "parentLocation": "thriller-bark",
+    "childLocations": ["hogbacks-lab"],
+    "relatedCharacters": ["hogback", "luffy", "zoro", "robin", "franky", "buhichuck"],
+    "relatedCrews": ["thriller-bark-pirates", "straw-hat-pirates"],
+    "relatedArcs": ["Thriller Bark"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Thriller Bark",
+      "japanese": "スリラーバーク",
+      "romanized": "Surirā Bāku"
+    },
+    "locationType": "ISLAND_SHIP",
+    "seaRegion": "FLORIAN_TRIANGLE",
+    "islandName": null,
+    "debutEpisode": 337,
+    "debutChapter": 442,
+    "description": "The world's largest pirate ship, resembling a massive island. Ruled by Gecko Moria, it serves as the base for his zombie army and is perpetually shrouded in fog within the Florian Triangle.",
+    "episodeAppearances": [344],
+    "keyEvents": [
+      {
+        "episodeNumber": 344,
+        "eventId": "ep344-event-011",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Night Raid Celebration",
+        "description": "The zombies of Thriller Bark gather for a massive celebration with disco ball and synchronized dancing to mark the beginning of the Night Raid.",
+        "significance": "Establishes the coordinated nature of Moria's zombie army and the festive yet eerie atmosphere of the island.",
+        "timestamp": "16:30"
+      },
+      {
+        "episodeNumber": 344,
+        "eventId": "ep344-event-012",
+        "eventType": "POWER_REVEAL",
+        "title": "General Zombies Awakened",
+        "description": "Absalom awakens the General Zombies from their resting places across Thriller Bark to combat the Straw Hat invasion.",
+        "significance": "Mobilizes Thriller Bark's elite forces, escalating the threat level for the intruders.",
+        "timestamp": "17:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 337,
+        "episodeEnd": "present",
+        "reason": "Operating as Gecko Moria's mobile fortress"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["hogbacks-mansion", "hogbacks-lab"],
+    "relatedCharacters": ["gecko-moria", "absalom", "hogback", "perona"],
+    "relatedCrews": ["thriller-bark-pirates", "straw-hat-pirates"],
+    "relatedArcs": ["Thriller Bark"],
+    "images": []
+  }
+]

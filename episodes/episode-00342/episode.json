@@ -1,0 +1,392 @@
+{
+  "episodeNumber": 342,
+  "episodeTitle": "The Zombie's Secret! Hogback's Nightmarish Laboratory!",
+  "episodeTitleJapanese": "ゾンビの謎！悪夢のホグバック研究所",
+  "episodeTitleRomanized": "Zonbi no Nazo! Akumu no Hogubakku Kenkyūjo",
+  "description": "Nami, Chopper, and Usopp discover the shocking truth about Victoria Cindry's past while exploring Hogback's mansion, learning she died ten years ago and is now a zombie. Meanwhile, Luffy's group battles depression-inducing ghosts and defeats zombies in the graveyard.",
+  "airDate": "2008-02-10",
+  "airDateJapan": "2008-02-10",
+  "airDateUS": "2014-09-30",
+  "arcName": "Thriller Bark",
+  "sagaName": "Thriller Bark Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Jungle P",
+    "artist": "5050",
+    "episodeRange": [326, 372]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Katsumi Ishizuka",
+    "director": "Hiroshi Matsuzaka",
+    "screenplay": "Tsuyoshi Sakurai",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Dr. Hogback",
+        "actor": "Hideyuki Hori"
+      },
+      {
+        "character": "Victoria Cindry",
+        "actor": "Kimiko Saito"
+      },
+      {
+        "character": "Ryuma",
+        "actor": "Cho"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep342-event-001",
+      "episodeNumber": 342,
+      "timestamp": "03:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Escape Through Secret Passages",
+      "description": "Nami, Usopp, and Chopper flee from zombies through Hogback's mansion, discovering hidden passages. An ice bear zombie rug accidentally helps them by breaking down a locked door.",
+      "significance": "The coward trio begins their exploration of the mansion's secrets, setting up the major discoveries to come.",
+      "characterIds": ["nami", "usopp", "chopper"],
+      "locationIds": ["hogback-mansion"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [340, 341],
+      "payoffInEpisodes": [343, 344],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep342-event-002",
+      "episodeNumber": 342,
+      "timestamp": "07:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Victoria Cindry's True Identity Revealed",
+      "description": "Nami, Chopper, and Usopp discover a room filled with photographs and newspaper clippings about Victoria Cindry. They learn she was a famous stage actress from a wealthy noble family who died ten years ago in an accident on stage.",
+      "significance": "This reveals the horrifying truth that Cindry is a reanimated corpse, confirming the crew's suspicions about the nature of the zombies on Thriller Bark and Hogback's dark experiments.",
+      "characterIds": ["nami", "usopp", "chopper", "victoria-cindry"],
+      "locationIds": ["hogback-mansion"],
+      "quotes": [
+        {
+          "text": "Cindry died 10 years ago in an accident on stage.",
+          "speaker": "Nami",
+          "context": "Reading the newspaper article about Cindry's death"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [340, 341],
+      "payoffInEpisodes": [343, 362],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep342-event-003",
+      "episodeNumber": 342,
+      "timestamp": "10:45",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Discovery of Hogback's Laboratory",
+      "description": "The trio discovers Dr. Hogback's secret laboratory where he creates zombies. They witness him working on a heavily stitched corpse on an operating table, confirming his direct involvement in creating the undead.",
+      "significance": "This discovery exposes Hogback as not just complicit but central to the zombie creation process, shattering any remaining doubts about his evil nature.",
+      "characterIds": ["nami", "usopp", "chopper", "hogback", "victoria-cindry"],
+      "locationIds": ["hogback-laboratory"],
+      "devilFruitIds": [],
+      "crewIds": [],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [340, 341],
+      "payoffInEpisodes": [343, 362],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep342-event-004",
+      "episodeNumber": 342,
+      "timestamp": "14:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Ryuma's First Appearance",
+      "description": "A mysterious samurai zombie approaches Nami, Chopper, and Usopp. He speaks with Brook's distinctive laugh and mannerisms, even asking Nami to show him her panties. This zombie is later revealed to be Ryuma, a legendary swordsman from Wano whose corpse was reanimated with Brook's shadow.",
+      "significance": "Introduces Ryuma, one of the strongest zombies on Thriller Bark, and provides the first direct evidence that Brook's shadow has been implanted into another body. This sets up the eventual confrontation between Zoro and Ryuma.",
+      "characterIds": ["ryuma", "nami", "usopp", "chopper"],
+      "locationIds": ["hogback-mansion"],
+      "quotes": [
+        {
+          "text": "YO-HOHOHOHOOOOOOOOO!!!",
+          "speaker": "Ryuma",
+          "context": "Ryuma's distinctive Brook-like laugh upon appearing"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [339, 340],
+      "payoffInEpisodes": [362],
+      "callbacksToEpisodes": [50]
+    },
+    {
+      "id": "ep342-event-005",
+      "episodeNumber": 342,
+      "timestamp": "17:00",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Negative Hollows Attack Luffy's Group",
+      "description": "Luffy, Zoro, Sanji, Robin, and Franky are attacked by mysterious ghost-like creatures that pass through their bodies. When touched by these Negative Hollows, the crew members become severely depressed and pessimistic, with Franky wishing to become a ceiling fan and Luffy expressing deep negativity.",
+      "significance": "Introduces Perona's Negative Hollow ability, one of the most unique and powerful techniques in Thriller Bark. This demonstrates that even strong-willed characters like Luffy and Zoro are vulnerable to certain types of attacks.",
+      "characterIds": ["luffy", "zoro", "sanji", "robin", "franky", "perona"],
+      "locationIds": ["thriller-bark-island"],
+      "devilFruitIds": ["horo-horo-no-mi"],
+      "quotes": [
+        {
+          "text": "I want to be reincarnated as a ceiling fan.",
+          "speaker": "Franky",
+          "context": "After being hit by a Negative Hollow"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [343, 344, 345],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep342-event-006",
+      "episodeNumber": 342,
+      "timestamp": "19:30",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "Luffy's Group Defeats Graveyard Zombies",
+      "description": "After recovering from the Negative Hollows' effects, Luffy's group coordinates their attacks to defeat a platoon of zombies in the graveyard. They use teamwork and their combined abilities to overwhelm the undead enemies.",
+      "significance": "Demonstrates that while the Straw Hats can handle regular zombies easily, they face new and more challenging opponents in the form of Perona's abilities.",
+      "characterIds": ["luffy", "zoro", "sanji", "robin", "franky"],
+      "locationIds": ["thriller-bark-graveyard"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep342-event-007",
+      "episodeNumber": 342,
+      "timestamp": "12:00",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Hogback's Obsession with Cindry Exposed",
+      "description": "Through the photographs and documents, it becomes clear that Dr. Hogback was obsessed with Victoria Cindry when she was alive. After her death, he stole her corpse and turned her into a zombie to keep her by his side forever.",
+      "significance": "Reveals the twisted nature of Hogback's love and his willingness to desecrate the dead for his own selfish desires. This adds depth to his character as a villain motivated by unrequited love rather than pure evil.",
+      "characterIds": ["hogback", "victoria-cindry"],
+      "locationIds": ["hogback-mansion"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [340, 341],
+      "payoffInEpisodes": [362],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["ryuma"],
+    "locations": ["hogback-laboratory"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["negative-hollow"]
+  },
+  "episodeRelationships": {
+    "setupFor": [343, 344, 345, 362],
+    "payoffFrom": [339, 340, 341],
+    "thematicLinks": [340, 341, 362]
+  },
+  "quotes": [
+    {
+      "text": "Cindry died 10 years ago in an accident on stage.",
+      "speaker": "Nami",
+      "context": "Reading the newspaper clipping about Victoria Cindry's death",
+      "timestamp": "07:30"
+    },
+    {
+      "text": "YO-HOHOHOHOOOOOOOOO!!!",
+      "speaker": "Ryuma",
+      "context": "Ryuma's Brook-like laugh as he appears before the trio",
+      "timestamp": "14:20"
+    },
+    {
+      "text": "I want to be reincarnated as a ceiling fan.",
+      "speaker": "Franky",
+      "context": "After being affected by a Negative Hollow",
+      "timestamp": "17:00"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Fear and Horror",
+      "description": "The episode focuses on the coward trio (Nami, Usopp, Chopper) as they navigate through the terrifying mansion, creating genuine suspense and fear.",
+      "symbolism": "The mansion's secret passages and hidden rooms represent the dark secrets that lurk beneath civilized society.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Ethics of Resurrection",
+      "description": "Hogback's zombie experiments raise questions about the morality of bringing back the dead and violating the sanctity of death.",
+      "symbolism": "Cindry's zombie form represents the corruption of love into obsession and the violation of human dignity.",
+      "culturalReferences": ["Frankenstein's monster parallels"]
+    },
+    {
+      "theme": "Identity and the Soul",
+      "description": "The revelation that zombies contain other people's shadows explores questions about what makes someone who they are - their body or their spirit.",
+      "symbolism": "Ryuma having Brook's shadow but a different body raises philosophical questions about the nature of identity.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Horror", "Mystery", "Suspenseful", "Dark Comedy"],
+  "characterSpotlights": [
+    {
+      "characterId": "nami",
+      "role": "Co-protagonist",
+      "development": "Nami shows bravery despite her fear as she investigates the mansion's mysteries and uncovers crucial information about Cindry and Hogback.",
+      "keyActions": [
+        "Discovers Victoria Cindry's room and history",
+        "Reads the newspaper articles about Cindry's death",
+        "Navigates through secret passages while evading zombies",
+        "Encounters Ryuma"
+      ],
+      "quotes": ["Cindry died 10 years ago in an accident on stage."]
+    },
+    {
+      "characterId": "usopp",
+      "role": "Co-protagonist",
+      "development": "Despite his cowardice, Usopp continues to investigate alongside Nami and Chopper, contributing to the team's survival.",
+      "keyActions": [
+        "Escapes from zombies through the mansion",
+        "Helps discover Hogback's laboratory",
+        "Witnesses Hogback creating zombies"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "chopper",
+      "role": "Co-protagonist",
+      "development": "Chopper's medical knowledge makes the discovery of Hogback's experiments particularly disturbing for him, as he sees a doctor violating his oath.",
+      "keyActions": [
+        "Investigates the mansion with Nami and Usopp",
+        "Discovers the truth about Cindry",
+        "Witnesses Hogback's unethical experiments"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "ryuma",
+      "role": "Antagonist introduction",
+      "development": "Ryuma is introduced as a mysterious samurai zombie who possesses Brook's shadow and personality traits, setting him up as a future opponent.",
+      "keyActions": [
+        "First appearance confronting Nami, Usopp, and Chopper",
+        "Displays Brook's laugh and mannerisms",
+        "Asks Nami to show her panties (Brook's signature behavior)"
+      ],
+      "quotes": ["YO-HOHOHOHOOOOOOOOO!!!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended some of the chase sequences through the mansion for pacing.",
+      "episodeTimestamp": "03:15",
+      "mangaReference": "Chapter 447",
+      "type": "ANIME_EXPANSION"
+    },
+    {
+      "difference": "The Negative Hollow scenes with Luffy's group were expanded with more comedic moments showing each character's depression.",
+      "episodeTimestamp": "17:00",
+      "mangaReference": "Chapter 448",
+      "type": "ANIME_EXPANSION"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode adapts chapters 447-449 of the manga.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_342",
+          "title": "Episode 342 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "fact": "Ryuma was voiced by Cho in Japanese, who is known for voicing Brook. This was intentional since Ryuma has Brook's shadow and exhibits his personality traits.",
+      "category": "VOICE_ACTING",
+      "sources": []
+    },
+    {
+      "fact": "The Negative Hollows are created by Perona's Horo Horo no Mi Devil Fruit ability, though Perona herself doesn't appear in this episode.",
+      "category": "ABILITIES",
+      "sources": []
+    },
+    {
+      "fact": "Victoria Cindry died approximately 10 years before the Thriller Bark arc (12 years before the current timeline), making her death occur around the time of Gol D. Roger's execution.",
+      "category": "TIMELINE",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

@@ -1,0 +1,131 @@
+[
+  {
+    "name": {
+      "english": "Thriller Bark",
+      "japanese": "スリラーバーク",
+      "romanized": "Surirā Bāku"
+    },
+    "locationType": "SHIP",
+    "seaRegion": "PARADISE",
+    "islandName": null,
+    "debutEpisode": 337,
+    "debutChapter": 442,
+    "description": "The world's largest pirate ship, originally an island from the West Blue that was converted into a massive vessel by Gecko Moria. It serves as the base of operations for the Thriller Bark Pirates and contains forests, a mansion, and an army of zombies.",
+    "episodeAppearances": [343],
+    "keyEvents": [
+      {
+        "episodeNumber": 343,
+        "eventId": "ep343-event-008",
+        "eventType": "LOCATION_REVEAL",
+        "title": "Thriller Bark Revealed as a Ship",
+        "description": "The Straw Hats discover that Thriller Bark is not an island but the world's largest pirate ship, originally an island from the West Blue.",
+        "significance": "Major revelation that recontextualizes the entire setting and emphasizes Moria's power and ambition.",
+        "timestamp": "18:30"
+      },
+      {
+        "episodeNumber": 343,
+        "eventId": "ep343-event-010",
+        "eventType": "BATTLE_START",
+        "title": "Night Hunt Begins on Thriller Bark",
+        "description": "As midnight strikes, the Night Hunt officially begins with the Straw Hats entering the mansion while Moria's forces prepare to attack.",
+        "significance": "Marks the beginning of the main conflict on Thriller Bark.",
+        "timestamp": "20:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 337,
+        "episodeEnd": "present",
+        "reason": "Thriller Bark is operational and sailing through the Florian Triangle"
+      }
+    ],
+    "parentLocation": "Florian Triangle",
+    "childLocations": ["Thriller Bark Mansion", "Thriller Bark Forest", "Perona's Wonder Garden"],
+    "relatedCharacters": ["gecko-moria", "absalom", "perona", "dr-hogback", "luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky", "brook"],
+    "relatedCrews": ["thriller-bark-pirates", "straw-hat-pirates"],
+    "relatedArcs": ["Thriller Bark"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Thriller Bark Mansion",
+      "japanese": "スリラーバーク邸",
+      "romanized": "Surirā Bāku-tei"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "PARADISE",
+    "islandName": null,
+    "debutEpisode": 342,
+    "debutChapter": 448,
+    "description": "A large gothic mansion in the center of Thriller Bark where Gecko Moria resides. It serves as the main headquarters for the Thriller Bark Pirates.",
+    "episodeAppearances": [343],
+    "keyEvents": [
+      {
+        "episodeNumber": 343,
+        "eventId": "ep343-event-010",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Straw Hats Enter the Mansion",
+        "description": "The Straw Hat Pirates enter Thriller Bark's central mansion as the Night Hunt begins.",
+        "significance": "The crew moves into the heart of enemy territory.",
+        "timestamp": "20:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 342,
+        "episodeEnd": "present",
+        "reason": "Mansion is operational and serves as Moria's headquarters"
+      }
+    ],
+    "parentLocation": "Thriller Bark",
+    "childLocations": ["Moria's Chamber"],
+    "relatedCharacters": ["gecko-moria", "absalom", "perona", "dr-hogback"],
+    "relatedCrews": ["thriller-bark-pirates"],
+    "relatedArcs": ["Thriller Bark"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Perona's Wonder Garden",
+      "japanese": "ペローナのワンダーガーデン",
+      "romanized": "Perōna no Wandā Gāden"
+    },
+    "locationType": "GARDEN",
+    "seaRegion": "PARADISE",
+    "islandName": null,
+    "debutEpisode": 341,
+    "debutChapter": 447,
+    "description": "A gothic-style garden on Thriller Bark filled with stuffed animals and Wild Zombies, serving as Perona's personal domain.",
+    "episodeAppearances": [343],
+    "keyEvents": [
+      {
+        "episodeNumber": 343,
+        "eventId": "ep343-event-006",
+        "eventType": "PREPARATION",
+        "title": "Perona Prepares in Her Garden",
+        "description": "Perona gathers with her Wild Zombies including Kumashi and Hippo Gentleman in her wonder garden to prepare for the Night Attack.",
+        "significance": "Shows Perona's domain and her forces preparing for battle.",
+        "timestamp": "15:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 341,
+        "episodeEnd": "present",
+        "reason": "Garden is active and serves as Perona's base"
+      }
+    ],
+    "parentLocation": "Thriller Bark",
+    "childLocations": [],
+    "relatedCharacters": ["perona", "kumashi", "hippo-gentleman"],
+    "relatedCrews": ["thriller-bark-pirates"],
+    "relatedArcs": ["Thriller Bark"],
+    "images": []
+  }
+]

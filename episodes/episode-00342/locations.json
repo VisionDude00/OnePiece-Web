@@ -1,0 +1,134 @@
+[
+  {
+    "id": "hogback-laboratory",
+    "name": {
+      "english": "Hogback's Laboratory",
+      "japanese": "ホグバックの研究所",
+      "romanized": "Hogubakku no Kenkyūjo"
+    },
+    "locationType": "ROOM",
+    "seaRegion": "FLORIAN_TRIANGLE",
+    "islandName": "Thriller Bark",
+    "debutEpisode": 342,
+    "debutChapter": 448,
+    "description": "Dr. Hogback's secret laboratory hidden within his mansion on Thriller Bark, where he conducts his zombie creation experiments. The lab contains operating tables, surgical equipment, and partially assembled corpses.",
+    "episodeAppearances": [342],
+    "keyEvents": [
+      {
+        "episodeNumber": 342,
+        "eventId": "ep342-event-003",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Discovery of Hogback's Laboratory",
+        "description": "Nami, Usopp, and Chopper discover Hogback's secret laboratory where he is actively working on creating zombies.",
+        "significance": "The discovery of this laboratory confirms Hogback's direct involvement in creating the undead army on Thriller Bark.",
+        "timestamp": "10:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 342,
+        "episodeEnd": 362,
+        "reason": "Laboratory is operational during the Thriller Bark arc"
+      }
+    ],
+    "parentLocation": "hogback-mansion",
+    "childLocations": [],
+    "relatedCharacters": ["hogback", "victoria-cindry", "nami", "usopp", "chopper"],
+    "relatedCrews": ["thriller-bark-pirates"],
+    "relatedArcs": ["Thriller Bark"],
+    "images": []
+  },
+  {
+    "id": "hogback-mansion",
+    "name": {
+      "english": "Hogback's Mansion",
+      "japanese": "ホグバックの屋敷",
+      "romanized": "Hogubakku no Yashiki"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "FLORIAN_TRIANGLE",
+    "islandName": "Thriller Bark",
+    "debutEpisode": 340,
+    "debutChapter": 446,
+    "description": "A large, gothic mansion on Thriller Bark where Dr. Hogback lives. It contains secret passages, hidden rooms, and Victoria Cindry's personal quarters filled with her memorabilia.",
+    "episodeAppearances": [342],
+    "keyEvents": [
+      {
+        "episodeNumber": 342,
+        "eventId": "ep342-event-001",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Escape Through Secret Passages",
+        "description": "Nami, Usopp, and Chopper flee through the mansion's hidden passages while being chased by zombies.",
+        "significance": "The mansion's layout and secret passages create suspense and lead to important discoveries.",
+        "timestamp": "03:15"
+      },
+      {
+        "episodeNumber": 342,
+        "eventId": "ep342-event-002",
+        "eventType": "BACKSTORY_REVEAL",
+        "title": "Cindry's Room Discovery",
+        "description": "The trio discovers a room filled with photographs and newspaper clippings about Victoria Cindry's past.",
+        "significance": "This room reveals crucial information about Cindry's death and Hogback's obsession.",
+        "timestamp": "07:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 340,
+        "episodeEnd": 381,
+        "reason": "Mansion is operational during the Thriller Bark arc"
+      }
+    ],
+    "parentLocation": "thriller-bark-island",
+    "childLocations": ["hogback-laboratory"],
+    "relatedCharacters": ["hogback", "victoria-cindry", "nami", "usopp", "chopper"],
+    "relatedCrews": ["thriller-bark-pirates", "straw-hat-pirates"],
+    "relatedArcs": ["Thriller Bark"],
+    "images": []
+  },
+  {
+    "id": "thriller-bark-graveyard",
+    "name": {
+      "english": "Thriller Bark Graveyard",
+      "japanese": "スリラーバークの墓地",
+      "romanized": "Surirā Bāku no Bochi"
+    },
+    "locationType": "GRAVEYARD",
+    "seaRegion": "FLORIAN_TRIANGLE",
+    "islandName": "Thriller Bark",
+    "debutEpisode": 337,
+    "debutChapter": 443,
+    "description": "A large graveyard on Thriller Bark where zombies emerge and roam. It serves as one of the main battlegrounds for the Straw Hat Pirates.",
+    "episodeAppearances": [342],
+    "keyEvents": [
+      {
+        "episodeNumber": 342,
+        "eventId": "ep342-event-006",
+        "eventType": "BATTLE_END",
+        "title": "Luffy's Group Defeats Graveyard Zombies",
+        "description": "After recovering from the Negative Hollows, Luffy's group defeats a platoon of zombies in the graveyard using coordinated attacks.",
+        "significance": "Demonstrates the Straw Hats' ability to handle regular zombies despite new challenges from Perona's powers.",
+        "timestamp": "19:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 337,
+        "episodeEnd": 381,
+        "reason": "Active location during the Thriller Bark arc"
+      }
+    ],
+    "parentLocation": "thriller-bark-island",
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "zoro", "sanji", "robin", "franky"],
+    "relatedCrews": ["straw-hat-pirates", "thriller-bark-pirates"],
+    "relatedArcs": ["Thriller Bark"],
+    "images": []
+  }
+]
