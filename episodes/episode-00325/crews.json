@@ -1,0 +1,139 @@
+[
+  {
+    "name": {
+      "english": "Blackbeard Pirates",
+      "japanese": "黒ひげ海賊団",
+      "romanized": "Kurohige Kaizokudan"
+    },
+    "debutEpisode": 146,
+    "debutChapter": 234,
+    "episodeAppearances": [325],
+    "captain": "marshall-d-teach",
+    "members": [
+      {
+        "characterId": "marshall-d-teach",
+        "role": "Captain",
+        "episodeJoined": 146,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "van-augur",
+        "role": "Sniper",
+        "episodeJoined": 146,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "jesus-burgess",
+        "role": "Helmsman",
+        "episodeJoined": 146,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "doc-q",
+        "role": "Doctor",
+        "episodeJoined": 146,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "laffitte",
+        "role": "Navigator",
+        "episodeJoined": 151,
+        "episodeLeft": null
+      }
+    ],
+    "formerMembers": [],
+    "ships": ["Saber of Xebec"],
+    "keyMoments": [
+      {
+        "episodeNumber": 325,
+        "eventId": "ep325-event-003",
+        "momentType": "MAJOR_DECISION",
+        "title": "Blackbeard Attempts to Recruit Ace",
+        "description": "Blackbeard tries to recruit Ace into his crew, revealing his ambition to rule the world.",
+        "significance": "Shows Blackbeard's growing ambition and his belief that he can challenge the old order."
+      },
+      {
+        "episodeNumber": 325,
+        "eventId": "ep325-event-006",
+        "momentType": "BATTLE_START",
+        "title": "Blackbeard Pirates Battle Ace",
+        "description": "The Blackbeard Pirates engage Portgas D. Ace in the Duel on Banaro Island.",
+        "significance": "This battle will lead to Ace's capture and trigger the Summit War of Marineford."
+      }
+    ],
+    "status": "ACTIVE",
+    "jollyRoger": "Three skulls with crossbones",
+    "totalBounty": null,
+    "territories": [],
+    "alliances": [],
+    "rivals": ["whitebeard-pirates"],
+    "goals": [
+      {
+        "goal": "Become Pirate King",
+        "episodeStated": 325,
+        "status": "IN_PROGRESS"
+      }
+    ]
+  },
+  {
+    "name": {
+      "english": "Whitebeard Pirates",
+      "japanese": "白ひげ海賊団",
+      "romanized": "Shirohige Kaizokudan"
+    },
+    "debutEpisode": 95,
+    "debutChapter": 154,
+    "episodeAppearances": [325],
+    "captain": "edward-newgate",
+    "members": [
+      {
+        "characterId": "portgas-d-ace",
+        "role": "2nd Division Commander",
+        "episodeJoined": null,
+        "episodeLeft": null
+      }
+    ],
+    "formerMembers": [
+      {
+        "characterId": "marshall-d-teach",
+        "role": "Former Member",
+        "episodeJoined": null,
+        "episodeLeft": 325,
+        "reason": "Betrayed the crew by murdering Thatch and stealing the Yami Yami no Mi"
+      },
+      {
+        "characterId": "thatch",
+        "role": "4th Division Commander",
+        "episodeJoined": null,
+        "episodeLeft": 325,
+        "reason": "Murdered by Blackbeard"
+      }
+    ],
+    "ships": ["Moby Dick"],
+    "keyMoments": [
+      {
+        "episodeNumber": 325,
+        "eventId": "ep325-event-002",
+        "momentType": "RELATIONSHIP_REVEAL",
+        "title": "Thatch's Murder Revealed",
+        "description": "It is revealed that Blackbeard murdered 4th Division Commander Thatch to steal the Yami Yami no Mi, violating the crew's code.",
+        "significance": "This betrayal sets in motion the events that will lead to the Summit War of Marineford."
+      },
+      {
+        "episodeNumber": 325,
+        "eventId": "ep325-event-015",
+        "momentType": "MAJOR_DECISION",
+        "title": "Ace's Loyalty to Whitebeard",
+        "description": "Ace declares his unwavering loyalty to Whitebeard, refusing to join Blackbeard even when facing death.",
+        "significance": "Demonstrates the strong bonds within the Whitebeard Pirates and Ace's devotion to his captain."
+      }
+    ],
+    "status": "ACTIVE",
+    "jollyRoger": "Skull with white mustache and crossbones",
+    "totalBounty": null,
+    "territories": [],
+    "alliances": [],
+    "rivals": ["blackbeard-pirates"],
+    "goals": []
+  }
+]
