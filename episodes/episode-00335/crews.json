@@ -1,0 +1,167 @@
+[
+  {
+    "name": {
+      "english": "Phoenix Pirates",
+      "japanese": "フェニックス海賊団",
+      "romanized": "Fenikkusu Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "puzzle",
+    "episodeAppearances": [335],
+    "members": [
+      {
+        "characterId": "puzzle",
+        "role": "Captain",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Founded and leads the Phoenix Pirates."
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 335,
+        "eventId": "ep335-event-013",
+        "momentType": "BATTLE",
+        "title": "Battle Against Accino Family",
+        "description": "The Phoenix Pirates engage in battle with Campacino and the remaining Accino Family members to reclaim their honor.",
+        "significance": "The Phoenix Pirates fight for their independence and honor after being captured by the Accino Family.",
+        "timestamp": "24:00"
+      },
+      {
+        "episodeNumber": 335,
+        "eventId": "ep335-event-014",
+        "momentType": "DECLARATION",
+        "title": "Promise to Sail to the New World",
+        "description": "Puzzle promises to meet the Straw Hats again in the New World, declaring the Phoenix Pirates will continue their journey.",
+        "significance": "Establishes the Phoenix Pirates' goal to reach the New World and reunite with the Straw Hats.",
+        "timestamp": "24:45"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Phoenix Pirates Ship",
+        "episodeAcquired": null,
+        "episodeLost": null,
+        "description": "The ship of the Phoenix Pirates, which had its Jolly Roger stolen by the Accino Family but recovered with help from the Straw Hats."
+      }
+    ],
+    "bases": [],
+    "totalBountyProgression": [
+      {
+        "totalBounty": 100000000,
+        "episodeNumber": 335,
+        "memberBounties": {
+          "puzzle": 100000000
+        }
+      }
+    ],
+    "jollyRoger": {
+      "description": "A pirate flag featuring a phoenix design",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "",
+    "relationships": {
+      "allies": ["straw-hat-pirates"],
+      "enemies": ["accino-family"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Accino Family",
+      "japanese": "アッチーノファミリー",
+      "romanized": "Acchīno Famirī"
+    },
+    "crewType": "BOUNTY_HUNTER",
+    "captainId": "don-accino",
+    "episodeAppearances": [335],
+    "members": [
+      {
+        "characterId": "don-accino",
+        "role": "Patriarch",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Leader and patriarch of the Accino Family."
+      },
+      {
+        "characterId": "campacino",
+        "role": "First Son",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Born into the Accino Family as the eldest son."
+      },
+      {
+        "characterId": "arbell",
+        "role": "Eldest Daughter",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Born into the Accino Family as the eldest daughter."
+      },
+      {
+        "characterId": "lil",
+        "role": "Youngest Daughter",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Born into the Accino Family as the youngest daughter."
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 335,
+        "eventId": "ep335-event-008",
+        "momentType": "DEFEAT",
+        "title": "Defeat of Don Accino",
+        "description": "Don Accino is defeated by Luffy, marking the end of the Accino Family's dominance over the Ice Hunter region.",
+        "significance": "The defeat of their patriarch ends the Accino Family's antagonist role in the arc.",
+        "timestamp": "19:30"
+      },
+      {
+        "episodeNumber": 335,
+        "eventId": "ep335-event-011",
+        "momentType": "RECONCILIATION",
+        "title": "Arbell and Lil's Reconciliation",
+        "description": "The Accino sisters Arbell and Lil reconcile their relationship, showing a softer side to the bounty hunter family.",
+        "significance": "Humanizes the Accino Family and shows they value family bonds despite their antagonist role.",
+        "timestamp": "22:30"
+      },
+      {
+        "episodeNumber": 335,
+        "eventId": "ep335-event-012",
+        "momentType": "CELEBRATION",
+        "title": "Belated Birthday Celebration",
+        "description": "The defeated Accino Family sails away and celebrates a belated birthday together, showing they've moved past their loss.",
+        "significance": "Provides a lighthearted conclusion to the antagonists' story.",
+        "timestamp": "23:15"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Accino Family Ship",
+        "episodeAcquired": null,
+        "episodeLost": null,
+        "description": "The ship used by the Accino Family for their bounty hunting operations."
+      }
+    ],
+    "bases": [
+      {
+        "locationId": "lovely-land",
+        "episodeEstablished": null,
+        "episodeAbandoned": 335,
+        "description": "The Accino Family's ice castle headquarters in Hyokaido, destroyed in Episode 335."
+      }
+    ],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "The Accino Family does not use a traditional Jolly Roger as they are bounty hunters, not pirates.",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "",
+    "relationships": {
+      "allies": [],
+      "enemies": ["straw-hat-pirates", "phoenix-pirates"],
+      "parentOrganization": null
+    }
+  }
+]
