@@ -1,0 +1,347 @@
+[
+  {
+    "id": "sanji",
+    "name": "Sanji",
+    "japaneseName": "サンジ",
+    "episodeAppearances": [287],
+    "keyMoments": [
+      {
+        "episodeNumber": 287,
+        "timestamp": "16:00",
+        "description": "Confronts Kalifa to retrieve the key needed to free Robin",
+        "significance": "Begins one of Sanji's most defining and controversial character moments",
+        "category": "BATTLE"
+      },
+      {
+        "episodeNumber": 287,
+        "timestamp": "17:30",
+        "description": "Explains that his code of chivalry was beaten into him as a child and that he will never kick a woman, even if it costs him his life",
+        "significance": "Reveals the deep-rooted origin of Sanji's unwavering adherence to his chivalrous code",
+        "category": "CHARACTER_DEVELOPMENT"
+      },
+      {
+        "episodeNumber": 287,
+        "timestamp": "20:30",
+        "description": "Suffers complete defeat at Kalifa's hands, unable to defend himself due to his code preventing him from fighting women",
+        "significance": "Demonstrates the severe practical limitations of Sanji's principles, even when his crew's mission is at stake",
+        "category": "BATTLE"
+      }
+    ],
+    "relationships": [
+      {
+        "characterId": "kalifa",
+        "relationType": "ENEMY",
+        "description": "Kalifa is Sanji's opponent, but his code of chivalry prevents him from fighting her",
+        "establishedInEpisode": 287
+      },
+      {
+        "characterId": "nami",
+        "relationType": "CREW",
+        "description": "Nami steps in to fight Kalifa after witnessing Sanji's defeat",
+        "establishedInEpisode": 287
+      }
+    ]
+  },
+  {
+    "id": "kalifa",
+    "name": "Kalifa",
+    "japaneseName": "カリファ",
+    "episodeAppearances": [287],
+    "keyMoments": [
+      {
+        "episodeNumber": 287,
+        "timestamp": "19:00",
+        "description": "Uses her Awa Awa no Mi powers to drain Sanji's strength, rendering him completely helpless",
+        "significance": "Demonstrates the devastating effectiveness of her Devil Fruit ability against defenseless opponents",
+        "category": "BATTLE"
+      },
+      {
+        "episodeNumber": 287,
+        "timestamp": "20:30",
+        "description": "Defeats Sanji brutally, kicking him through the ceiling",
+        "significance": "Establishes Kalifa as a formidable opponent and sets up her battle with Nami",
+        "category": "BATTLE"
+      }
+    ],
+    "abilities": [
+      {
+        "abilityId": "golden-hour",
+        "description": "Kalifa spreads soap bubbles on Sanji's body, draining his physical strength",
+        "firstUsedInEpisode": 287
+      }
+    ],
+    "relationships": [
+      {
+        "characterId": "sanji",
+        "relationType": "ENEMY",
+        "description": "Exploits Sanji's code of chivalry to defeat him without resistance",
+        "establishedInEpisode": 287
+      },
+      {
+        "characterId": "nami",
+        "relationType": "ENEMY",
+        "description": "Nami vows to fight Kalifa after she defeats Sanji",
+        "establishedInEpisode": 287
+      }
+    ]
+  },
+  {
+    "id": "nami",
+    "name": "Nami",
+    "japaneseName": "ナミ",
+    "episodeAppearances": [287],
+    "keyMoments": [
+      {
+        "episodeNumber": 287,
+        "timestamp": "09:30",
+        "description": "Successfully escapes from Kumadori and steals his key",
+        "significance": "Acquires one of the CP9 keys needed to free Robin, showing her resourcefulness",
+        "category": "BATTLE"
+      },
+      {
+        "episodeNumber": 287,
+        "timestamp": "21:15",
+        "description": "Witnesses Sanji's defeated body falling through the ceiling and vows to fight Kalifa herself",
+        "significance": "Demonstrates Nami's growth as a fighter and her loyalty to her crewmates",
+        "category": "CHARACTER_DEVELOPMENT"
+      }
+    ],
+    "relationships": [
+      {
+        "characterId": "kumadori",
+        "relationType": "ENEMY",
+        "description": "Escapes from Kumadori's attacks and steals his key",
+        "establishedInEpisode": 287
+      },
+      {
+        "characterId": "kalifa",
+        "relationType": "ENEMY",
+        "description": "Vows to fight Kalifa after seeing what she did to Sanji",
+        "establishedInEpisode": 287
+      },
+      {
+        "characterId": "sanji",
+        "relationType": "CREW",
+        "description": "Nami is determined to avenge Sanji's defeat",
+        "establishedInEpisode": 287
+      }
+    ]
+  },
+  {
+    "id": "kaku",
+    "name": "Kaku",
+    "japaneseName": "カク",
+    "episodeAppearances": [287],
+    "keyMoments": [
+      {
+        "episodeNumber": 287,
+        "timestamp": "05:45",
+        "description": "Loses his temper after being mocked for his giraffe form and bisects the entire Tower of Justice with Rankyaku: Amane Dachi",
+        "significance": "Demonstrates the devastating power of combining Zoan Devil Fruit abilities with CP9 techniques",
+        "category": "BATTLE"
+      }
+    ],
+    "abilities": [
+      {
+        "abilityId": "rankyaku-amane-dachi",
+        "description": "Kaku spins his elongated giraffe neck to create a devastating cutting attack that slices the Tower of Justice in half",
+        "firstUsedInEpisode": 287
+      }
+    ],
+    "relationships": [
+      {
+        "characterId": "zoro",
+        "relationType": "ENEMY",
+        "description": "Fighting Zoro at the Tower of Justice",
+        "establishedInEpisode": 287
+      },
+      {
+        "characterId": "sogeking",
+        "relationType": "ENEMY",
+        "description": "Fighting alongside Jabra against Zoro and Sogeking",
+        "establishedInEpisode": 287
+      }
+    ]
+  },
+  {
+    "id": "zoro",
+    "name": "Roronoa Zoro",
+    "japaneseName": "ロロノア・ゾロ",
+    "episodeAppearances": [287],
+    "keyMoments": [
+      {
+        "episodeNumber": 287,
+        "timestamp": "06:15",
+        "description": "Gets accidentally handcuffed to Sogeking with seastone handcuffs, forcing them to fight together while bound",
+        "significance": "Creates a challenging handicap that forces improvisation in combat",
+        "category": "BATTLE"
+      }
+    ],
+    "relationships": [
+      {
+        "characterId": "sogeking",
+        "relationType": "ALLY",
+        "description": "Forced to fight while physically handcuffed together",
+        "establishedInEpisode": 287
+      },
+      {
+        "characterId": "kaku",
+        "relationType": "ENEMY",
+        "description": "Fighting Kaku while handcuffed to Sogeking",
+        "establishedInEpisode": 287
+      }
+    ]
+  },
+  {
+    "id": "sogeking",
+    "name": "Sogeking",
+    "japaneseName": "そげキング",
+    "episodeAppearances": [287],
+    "keyMoments": [
+      {
+        "episodeNumber": 287,
+        "timestamp": "06:15",
+        "description": "Accidentally handcuffs himself to Zoro while trying to use seastone handcuffs on the CP9 agents",
+        "significance": "Creates a comedic yet difficult situation that handicaps both fighters",
+        "category": "BATTLE"
+      }
+    ],
+    "relationships": [
+      {
+        "characterId": "zoro",
+        "relationType": "ALLY",
+        "description": "Accidentally handcuffed together, forcing cooperation in battle",
+        "establishedInEpisode": 287
+      }
+    ]
+  },
+  {
+    "id": "kumadori",
+    "name": "Kumadori",
+    "japaneseName": "クマドリ",
+    "episodeAppearances": [287],
+    "keyMoments": [
+      {
+        "episodeNumber": 287,
+        "timestamp": "10:45",
+        "description": "Demonstrates his mastery of Seimei Kikan, controlling his hair and body with supernatural precision",
+        "significance": "Reveals the advanced CP9 technique that goes beyond standard Rokushiki",
+        "category": "BATTLE"
+      },
+      {
+        "episodeNumber": 287,
+        "timestamp": "09:30",
+        "description": "Loses his key to Nami as she escapes from him",
+        "significance": "Nami acquires one of the CP9 keys needed for the rescue mission",
+        "category": "BATTLE"
+      }
+    ],
+    "abilities": [
+      {
+        "abilityId": "seimei-kikan",
+        "description": "Grants complete control over all body parts, including hair manipulation",
+        "firstUsedInEpisode": 287
+      },
+      {
+        "abilityId": "kami-shibari",
+        "description": "Uses Seimei Kikan to control his hair like tentacles to grab opponents",
+        "firstUsedInEpisode": 287
+      },
+      {
+        "abilityId": "haru-gin-jo",
+        "description": "Uses Seimei Kikan to control digestion and body form",
+        "firstUsedInEpisode": 287
+      }
+    ],
+    "relationships": [
+      {
+        "characterId": "nami",
+        "relationType": "ENEMY",
+        "description": "Nami escapes from Kumadori and steals his key",
+        "establishedInEpisode": 287
+      }
+    ]
+  },
+  {
+    "id": "franky",
+    "name": "Franky",
+    "japaneseName": "フランキー",
+    "episodeAppearances": [287],
+    "keyMoments": [
+      {
+        "episodeNumber": 287,
+        "timestamp": "13:20",
+        "description": "Uses Franky Boxing against Fukurou, combining standard boxing with his cyborg strength",
+        "significance": "Showcases Franky's hand-to-hand combat style enhanced by his mechanical body",
+        "category": "BATTLE"
+      }
+    ],
+    "abilities": [
+      {
+        "abilityId": "franky-boxing",
+        "description": "Standard boxing maneuvers made devastating by Franky's steel fists and cyborg strength",
+        "firstUsedInEpisode": 287
+      }
+    ],
+    "relationships": [
+      {
+        "characterId": "fukurou",
+        "relationType": "ENEMY",
+        "description": "Fighting Fukurou at the Tower of Justice",
+        "establishedInEpisode": 287
+      }
+    ]
+  },
+  {
+    "id": "fukurou",
+    "name": "Fukurou",
+    "japaneseName": "フクロウ",
+    "episodeAppearances": [287],
+    "keyMoments": [
+      {
+        "episodeNumber": 287,
+        "timestamp": "13:20",
+        "description": "Battles against Franky's boxing techniques",
+        "significance": "Continues his ongoing battle with Franky",
+        "category": "BATTLE"
+      }
+    ],
+    "relationships": [
+      {
+        "characterId": "franky",
+        "relationType": "ENEMY",
+        "description": "Fighting against Franky at the Tower of Justice",
+        "establishedInEpisode": 287
+      }
+    ]
+  },
+  {
+    "id": "jabra",
+    "name": "Jabra",
+    "japaneseName": "ジャブラ",
+    "episodeAppearances": [287],
+    "keyMoments": [
+      {
+        "episodeNumber": 287,
+        "timestamp": "06:15",
+        "description": "Fights alongside Kaku against the handcuffed Zoro and Sogeking",
+        "significance": "Two CP9 agents team up against the handicapped Straw Hats",
+        "category": "BATTLE"
+      }
+    ],
+    "relationships": [
+      {
+        "characterId": "kaku",
+        "relationType": "ALLY",
+        "description": "Fighting together against Zoro and Sogeking",
+        "establishedInEpisode": 287
+      },
+      {
+        "characterId": "zoro",
+        "relationType": "ENEMY",
+        "description": "Battling against Zoro and Sogeking",
+        "establishedInEpisode": 287
+      }
+    ]
+  }
+]
