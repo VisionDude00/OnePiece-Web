@@ -1,0 +1,501 @@
+{
+  "episodeNumber": 304,
+  "episodeTitle": "I Can't Protect Anyone Unless I Win! Third Gear Activated!",
+  "description": "Luffy faces off against Rob Lucci in the flooding Tower of Justice. As the Buster Call decimates Enies Lobby and Robin recalls the horror of Ohara's destruction, Luffy unveils his ultimate technique - Gear Third - inflating his bones to giant proportions and unleashing the devastating Gomu Gomu no Gigant Pistol.",
+  "airDate": "2007-04-08",
+  "airDateJapan": "2007-04-08",
+  "airDateUS": "2013-11-16",
+  "arcName": "Enies Lobby",
+  "sagaName": "Water 7 Saga",
+  "animationQuality": "ENHANCED",
+  "openingSong": {
+    "title": "Crazy Rainbow",
+    "artist": "Tackey & Tsubasa",
+    "episodeRange": [284, 325]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Naoki Tate",
+    "director": "Makoto Sonoda",
+    "screenplay": "Yoshiyuki Suga",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Rob Lucci",
+        "actor": "Tomokazu Seki"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Usopp/Sogeking",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Spandam",
+        "actor": "Masaya Onosaka"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Rob Lucci",
+        "actor": "Jason Liebrecht"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Usopp/Sogeking",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Spandam",
+        "actor": "Kent Williams"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep304-event-001",
+      "episodeNumber": 304,
+      "timestamp": "02:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Sogeking Lands Safely at Tower Base",
+      "description": "Following the Buster Call's bombardment of the Tower of Justice, Sogeking falls from the struck section but safely lands at the base of the tower where Zoro and Sanji are located, avoiding falling into the abyss.",
+      "significance": "Reunites Sogeking with Zoro and Sanji, keeping the escape team together and setting up their journey through the underground tunnels.",
+      "characterIds": ["usopp", "zoro", "sanji"],
+      "locationIds": ["tower-of-justice"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [302, 303],
+      "payoffInEpisodes": [305],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep304-event-002",
+      "episodeNumber": 304,
+      "timestamp": "04:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Buster Call Devastates Enies Lobby",
+      "description": "The Buster Call's ten battleships continue their merciless bombardment of Enies Lobby's main island, reducing the Judicial island to rubble. The sheer destructive power of the World Government's ultimate military operation is on full display.",
+      "significance": "Demonstrates the terrifying power of the Buster Call and the lengths the World Government will go to eliminate threats, creating urgency for the Straw Hats' escape.",
+      "characterIds": [],
+      "locationIds": ["enies-lobby"],
+      "crewIds": [],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [303],
+      "payoffInEpisodes": [305, 306, 307],
+      "callbacksToEpisodes": [278]
+    },
+    {
+      "id": "ep304-event-003",
+      "episodeNumber": 304,
+      "timestamp": "05:45",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Robin Recalls Ohara's Destruction",
+      "description": "As Robin witnesses the Buster Call decimating Enies Lobby, she falls to her knees in shock and recalls the traumatic destruction of her homeland, Ohara, by the same devastating military operation twenty years ago. The parallel between past and present triggers her PTSD.",
+      "significance": "Deepens Robin's trauma and shows how the Buster Call has haunted her entire life. This moment reinforces why Robin feared bringing this danger to the Straw Hats and highlights the emotional weight of the crew's decision to save her.",
+      "characterIds": ["robin"],
+      "locationIds": ["bridge-of-hesitation", "enies-lobby"],
+      "quotes": [
+        {
+          "text": "This is just like that day... when Ohara was destroyed...",
+          "speaker": "Robin",
+          "context": "Robin's traumatic memory of witnessing the Buster Call destroy her home as a child"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [275, 278],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [275, 278]
+    },
+    {
+      "id": "ep304-event-004",
+      "episodeNumber": 304,
+      "timestamp": "07:20",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Franky and Robin Prepare to Fight Through Marines",
+      "description": "On the Bridge of Hesitation, Franky and Nico Robin (now freed from her Sea Prism Stone handcuffs) steel themselves to fight their way past Spandam and the battalion of Marines blocking their path to the escape ships.",
+      "significance": "Sets up Franky and Robin's escape attempt and shows Robin's renewed determination to fight for her freedom alongside the Straw Hats.",
+      "characterIds": ["franky", "robin", "spandam"],
+      "locationIds": ["bridge-of-hesitation"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [303],
+      "payoffInEpisodes": [305, 306],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep304-event-005",
+      "episodeNumber": 304,
+      "timestamp": "09:45",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Lucci Floods Column with Seawater",
+      "description": "Rob Lucci uses his Rankyaku technique to rupture the wall of the column, causing seawater to flood the Tower of Justice's underground tunnel and forcing the combatants to move to higher ground. This tactical move threatens both Luffy and the escaping crew members in the tunnels below.",
+      "significance": "Lucci's strategic thinking adds urgency to the battle as Devil Fruit user Luffy must avoid the rising water while the crew below races against time to escape.",
+      "characterIds": ["lucci", "luffy"],
+      "locationIds": ["tower-of-justice"],
+      "devilFruitIds": [],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [305],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep304-event-006",
+      "episodeNumber": 304,
+      "timestamp": "11:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Luffy's Faith in His Crew",
+      "description": "Despite Lucci's taunts about the fate of his crew and friends, Luffy declares his unwavering faith in them, believing they will all survive and escape together. This resolve strengthens Luffy's determination to defeat Lucci.",
+      "significance": "Demonstrates the core theme of trust and bonds between the Straw Hat crew, showing that Luffy's strength comes not just from his abilities but from his faith in his nakama.",
+      "characterIds": ["luffy", "lucci"],
+      "locationIds": ["tower-of-justice"],
+      "quotes": [
+        {
+          "text": "I believe in them! They'll all make it out alive!",
+          "speaker": "Luffy",
+          "context": "Luffy's response to Lucci's taunts about the crew's survival"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [307, 308, 309],
+      "callbacksToEpisodes": [278, 309]
+    },
+    {
+      "id": "ep304-event-007",
+      "episodeNumber": 304,
+      "timestamp": "14:20",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Luffy Activates Gear Third",
+      "description": "Declaring 'If I can't win, I can't protect anyone!', Luffy bites into his thumb and activates Gear Third for the first time in the series. He inflates his bones with air using the Bone Balloon (Hone Fusen) technique, explaining the mechanism to a shocked Lucci.",
+      "significance": "Marks the full debut of one of Luffy's most iconic power-ups. Gear Third represents Luffy's growth as a fighter and his willingness to push his body to its limits to protect his crew. This technique trades speed for tremendous destructive power.",
+      "characterIds": ["luffy"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "locationIds": ["tower-of-justice"],
+      "quotes": [
+        {
+          "text": "If I can't win, I can't protect anyone! Gear... Third!",
+          "speaker": "Luffy",
+          "context": "Luffy's declaration as he activates his new technique for the first time"
+        },
+        {
+          "text": "I blow air into my bones!",
+          "speaker": "Luffy",
+          "context": "Luffy explaining the Gear Third mechanism to Lucci"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [302],
+      "payoffInEpisodes": [305, 306],
+      "callbacksToEpisodes": [302]
+    },
+    {
+      "id": "ep304-event-008",
+      "episodeNumber": 304,
+      "timestamp": "16:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "CRITICAL",
+      "title": "Gomu Gomu no Gigant Pistol Debut",
+      "description": "Luffy transfers the air through his skeleton to inflate his left arm to gigantic proportions, then unleashes his first Gear Third attack: Gomu Gomu no Gigant Pistol. The massive punch overwhelms Lucci's Iron Body (Tekkai) defense, blows a massive hole through the Tower of Justice's first column, and sends Lucci flying across the Bridge of Hesitation all the way to a Buster Call battleship.",
+      "significance": "The first use of Gear Third in combat demonstrates its devastating power, showing that Luffy can now produce attacks with the strength of a giant. The technique proves effective against even Lucci's masterful Rokushiki techniques, marking a turning point in their battle.",
+      "characterIds": ["luffy", "lucci"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "locationIds": ["tower-of-justice", "bridge-of-hesitation"],
+      "quotes": [
+        {
+          "text": "Gomu Gomu no... Gigant Pistol!",
+          "speaker": "Luffy",
+          "context": "Luffy's first Gear Third attack, launching the giant-sized punch at Lucci"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [302],
+      "payoffInEpisodes": [305, 306],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep304-event-009",
+      "episodeNumber": 304,
+      "timestamp": "18:50",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Lucci Sent Flying to Battleship",
+      "description": "The impact of Gigant Pistol sends Rob Lucci hurtling through the air from the Tower of Justice, across the entire Bridge of Hesitation, and crashes him into one of the Buster Call's Marine battleships in the distance, demonstrating the incredible power and range of Gear Third.",
+      "significance": "Shows the overwhelming force of Gear Third attacks and temporarily separates the combatants. The visual of Lucci being sent flying such an enormous distance cements Gear Third as a game-changing technique in Luffy's arsenal.",
+      "characterIds": ["lucci", "luffy"],
+      "locationIds": ["tower-of-justice", "bridge-of-hesitation"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [305],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep304-event-010",
+      "episodeNumber": 304,
+      "timestamp": "03:30",
+      "eventType": "CULTURAL_MOMENT",
+      "title": "Chimney Recounts Gear Third",
+      "description": "The young girl Chimney explains to others how she witnessed Luffy use Gear Third earlier to break through the heavy steel door, though she notes the strange side effect where Luffy shrank into a tiny form afterward.",
+      "severity": "MINOR",
+      "significance": "Provides foreshadowing of Gear Third's drawback and builds anticipation for the full reveal of the technique later in the episode.",
+      "characterIds": ["chimney"],
+      "locationIds": ["tower-of-justice"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [302],
+      "payoffInEpisodes": [305],
+      "callbacksToEpisodes": [302]
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["gear-third", "bone-balloon", "gigant-pistol"]
+  },
+  "episodeRelationships": {
+    "setupFor": [305, 306, 307],
+    "payoffFrom": [302, 303],
+    "thematicLinks": [278, 302, 309]
+  },
+  "quotes": [
+    {
+      "text": "If I can't win, I can't protect anyone! Gear... Third!",
+      "speaker": "Luffy",
+      "context": "Luffy's declaration as he activates Gear Third for the first time",
+      "timestamp": "14:20"
+    },
+    {
+      "text": "I blow air into my bones!",
+      "speaker": "Luffy",
+      "context": "Luffy explaining the Gear Third mechanism",
+      "timestamp": "14:35"
+    },
+    {
+      "text": "Gomu Gomu no... Gigant Pistol!",
+      "speaker": "Luffy",
+      "context": "First use of Gear Third's signature attack",
+      "timestamp": "16:45"
+    },
+    {
+      "text": "I believe in them! They'll all make it out alive!",
+      "speaker": "Luffy",
+      "context": "Luffy's faith in his crew despite Lucci's taunts",
+      "timestamp": "11:30"
+    },
+    {
+      "text": "This is just like that day... when Ohara was destroyed...",
+      "speaker": "Robin",
+      "context": "Robin's traumatic flashback witnessing the Buster Call",
+      "timestamp": "05:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Protection and Sacrifice",
+      "description": "The episode's title and central conflict revolve around Luffy's realization that protecting his loved ones requires victory. His willingness to push his body beyond its limits with Gear Third demonstrates his commitment to protecting his crew.",
+      "symbolism": "Gear Third's giant form represents the enormous lengths Luffy will go to protect his nakama, literally making himself larger and stronger to bear the burden of their safety.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Trauma and Resilience",
+      "description": "Robin's flashback to Ohara's destruction parallels the current Buster Call, showing how past trauma resurfaces but also highlighting her growth - she's no longer running alone but fighting alongside her crew.",
+      "symbolism": "The Buster Call serves as a visual representation of Robin's past haunting her, yet her presence with Franky on the bridge shows she's chosen to face her fears rather than flee.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Faith and Trust",
+      "description": "Despite being unable to see or help his crew, Luffy maintains absolute faith in their abilities to survive. This trust strengthens his resolve and allows him to focus entirely on his own battle.",
+      "symbolism": "The separated locations of the crew (underground tunnels, bridge, tower) represent individual challenges, but their spiritual connection through mutual trust keeps them united.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Innovation Through Necessity",
+      "description": "Luffy reveals Gear Third as a response to Lucci's overwhelming Rokushiki mastery, showing how adversity drives innovation and growth in combat.",
+      "symbolism": "Gear Third represents Luffy's evolution as a fighter, adapting his Devil Fruit abilities in creative ways to overcome seemingly insurmountable obstacles.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Intense", "Dramatic", "Triumphant", "Traumatic"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist demonstrating new power",
+      "development": "Luffy pushes his abilities to a new level with Gear Third, showing his growth as a fighter and his unwavering determination to protect his crew. His declaration that he can't protect anyone unless he wins demonstrates maturity in understanding that kindness alone isn't enough - strength is necessary to protect those you love.",
+      "keyActions": [
+        "Declares faith in his crew's survival",
+        "Activates Gear Third for the first time",
+        "Inflates his bones using Bone Balloon technique",
+        "Unleashes Gomu Gomu no Gigant Pistol",
+        "Sends Lucci flying to a battleship"
+      ],
+      "quotes": [
+        "If I can't win, I can't protect anyone!",
+        "I blow air into my bones!",
+        "Gomu Gomu no... Gigant Pistol!"
+      ]
+    },
+    {
+      "characterId": "robin",
+      "role": "Traumatized survivor facing her past",
+      "development": "Robin confronts her deepest trauma as she witnesses another Buster Call, but instead of fleeing alone as she did as a child, she stands with Franky preparing to fight. This shows her growth in accepting the Straw Hats' protection and choosing to fight for her freedom.",
+      "keyActions": [
+        "Witnesses the Buster Call's devastation",
+        "Recalls Ohara's destruction",
+        "Prepares to fight alongside Franky",
+        "Chooses to move forward despite trauma"
+      ],
+      "quotes": [
+        "This is just like that day... when Ohara was destroyed..."
+      ]
+    },
+    {
+      "characterId": "lucci",
+      "role": "Antagonist forcing Luffy's evolution",
+      "development": "Lucci's tactical brilliance and overwhelming power push Luffy to reveal his trump card. His strategic flooding of the column and psychological taunts demonstrate his ruthless efficiency as both a fighter and assassin.",
+      "keyActions": [
+        "Floods the column with seawater using Rankyaku",
+        "Taunts Luffy about his crew's fate",
+        "Witnesses Gear Third's power",
+        "Gets overwhelmed by Gigant Pistol despite Tekkai"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended the Buster Call bombardment scenes with additional destruction shots of Enies Lobby's main island for dramatic effect.",
+      "episodeTimestamp": "04:30",
+      "mangaReference": "Chapter 421",
+      "type": "ANIME_EXPANSION"
+    },
+    {
+      "difference": "Robin's flashback to Ohara is more visually detailed in the anime, with extended shots of the burning island and young Robin's perspective.",
+      "episodeTimestamp": "05:45",
+      "mangaReference": "Chapter 421",
+      "type": "ANIME_EXPANSION"
+    },
+    {
+      "difference": "The anime added reaction shots from Marines on the Buster Call ships witnessing Lucci being sent flying.",
+      "episodeTimestamp": "18:50",
+      "mangaReference": "Chapter 421",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episode 304 aired on April 8, 2007, and is adapted from Chapter 421 of the manga, titled 'Gear 3'.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_304",
+          "title": "Episode 304 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode marks the first full visual appearance of Gear Third in the anime, though it was previously hinted at in Episode 302 when Luffy broke through the steel door off-screen.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_304",
+          "title": "Episode 304 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The animation director for this episode, Naoki Tate, is known for his dynamic action sequences and has directed many of One Piece's most memorable fight scenes.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "Gear Third's bone inflation mechanism was inspired by the concept of giants in One Piece, with Luffy explicitly stating his attacks have the power of the giant race.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://www.cbr.com/one-piece-gear-third-facts/",
+          "title": "One Piece: 10 Facts Everyone Should Know About Gear Third",
+          "platform": "CBR",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "The episode has an IMDB rating of 9.0/10, making it one of the highest-rated episodes in the Enies Lobby arc.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://www.imdb.com/title/tt1054348/",
+          "title": "One Piece Episode 304 - IMDB",
+          "platform": "IMDB",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    },
+    {
+      "fact": "One Piece stopped having ending themes starting from episode 279, so Episode 304 only features the opening theme 'Crazy Rainbow' with no ending song.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://anime.stackexchange.com/questions/175/why-did-the-anime-stop-having-ending-songs-since-episode-279",
+          "title": "Why did the anime stop having ending songs since episode 279?",
+          "platform": "Stack Exchange",
+          "accessedAt": "2025-11-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
