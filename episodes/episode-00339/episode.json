@@ -1,0 +1,433 @@
+{
+  "episodeNumber": 339,
+  "episodeTitle": "One Phenomenon After Another! Disembarking at Thriller Bark",
+  "description": "The Straw Hats arrive at the mysterious Thriller Bark island. Brook departs by running across the ocean. Nami, Usopp, and Chopper explore the island using the newly revealed Mini Merry II and encounter strange phenomena including a three-headed Cerberus and a vampire-like creature named Hildon.",
+  "airDate": "2008-01-20",
+  "airDateJapan": "2008-01-20",
+  "airDateUS": "2014-09-30",
+  "arcName": "Thriller Bark",
+  "sagaName": "Thriller Bark Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Jungle P",
+    "artist": "5050",
+    "episodeRange": [326, 372]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Sumio Watanabe",
+    "writer": "Takuya Masumoto",
+    "artDirectors": ["Miyuki Sato", "Shouji Tokiwa"],
+    "keyAnimators": ["Masayuki Fujita"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Brook",
+        "actor": "Cho"
+      },
+      {
+        "character": "Absalom",
+        "actor": "Hiroaki Miura"
+      },
+      {
+        "character": "Hildon",
+        "actor": "Taiki Matsuno"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Brook",
+        "actor": "Ian Sinclair"
+      },
+      {
+        "character": "Absalom",
+        "actor": "Andrew Chandler"
+      },
+      {
+        "character": "Hildon",
+        "actor": "Jerry Jewell"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep339-event-001",
+      "episodeNumber": 339,
+      "timestamp": "03:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Arrival at Thriller Bark",
+      "description": "The Straw Hat Pirates arrive at the mysterious Thriller Bark island, which is shrouded in thick fog. Brook reveals that this is the island he has been waiting for, the one where his shadow was stolen.",
+      "significance": "Marks the beginning of the Thriller Bark arc proper, where the crew will face Gecko Moria and his zombie army. The island's arrival is what Brook has been waiting for to reclaim his shadow.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky", "brook"],
+      "locationIds": ["thriller-bark"],
+      "quotes": [
+        {
+          "text": "This island... it drifted from West Blue.",
+          "speaker": "Brook",
+          "context": "Brook explains the origin of Thriller Bark island"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [337, 338],
+      "payoffInEpisodes": [340, 341, 342],
+      "callbacksToEpisodes": [337]
+    },
+    {
+      "id": "ep339-event-002",
+      "episodeNumber": 339,
+      "timestamp": "05:30",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MINOR",
+      "title": "Brook Departs to Reclaim His Shadow",
+      "description": "Brook bids farewell to the Straw Hats and leaps overboard, running across the ocean's surface using his lightweight skeleton body. He heads toward Thriller Bark to confront whoever stole his shadow.",
+      "significance": "Demonstrates Brook's unique skeletal ability to run on water and shows his determination to reclaim his shadow so he can reunite with Laboon. This separates Brook from the crew temporarily.",
+      "characterIds": ["brook", "luffy", "nami", "usopp"],
+      "locationIds": ["thriller-bark"],
+      "quotes": [
+        {
+          "text": "I must go now. I have to reclaim my shadow!",
+          "speaker": "Brook",
+          "context": "Brook's departure from the crew"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [338],
+      "payoffInEpisodes": [362, 377],
+      "callbacksToEpisodes": [338]
+    },
+    {
+      "id": "ep339-event-003",
+      "episodeNumber": 339,
+      "timestamp": "08:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Mini Merry II Debut",
+      "description": "Franky unveils the Mini Merry II from the Soldier Dock System Channel 2 of the Thousand Sunny. This small four-person paddle boat is designed as a tribute to the Going Merry, featuring a steam engine and paddle wheels.",
+      "significance": "First appearance of the Mini Merry II, which Franky created to honor the crew's former ship. This vessel becomes important for exploration and escape throughout the series.",
+      "characterIds": ["franky", "nami", "usopp", "chopper"],
+      "locationIds": ["thousand-sunny"],
+      "devilFruitIds": [],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "This is Channel 2 - the Mini Merry II! A present from me to you guys!",
+          "speaker": "Franky",
+          "context": "Franky reveals his creation to honor the Going Merry"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [340, 574, 653],
+      "callbacksToEpisodes": [312]
+    },
+    {
+      "id": "ep339-event-004",
+      "episodeNumber": 339,
+      "timestamp": "11:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Absalom's Invisible Attack",
+      "description": "An invisible entity attacks the crew members remaining on the Thousand Sunny, manipulating objects and touching Robin inappropriately. This is the first appearance of Absalom using his Suke Suke no Mi powers, though his identity remains unknown to the crew.",
+      "significance": "First demonstration of Absalom's Clear-Clear Fruit powers and introduction of one of the Mysterious Four. This event foreshadows the danger posed by Thriller Bark's inhabitants.",
+      "characterIds": ["absalom", "robin", "luffy", "zoro", "sanji"],
+      "locationIds": ["thousand-sunny"],
+      "devilFruitIds": ["suke-suke-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [359, 360],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep339-event-005",
+      "episodeNumber": 339,
+      "timestamp": "13:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Encounter with Cerberus",
+      "description": "Nami, Usopp, and Chopper encounter a three-headed dog zombie while exploring the island. However, one of its heads is actually a fox, which seems to anger the creature. The trio flees in terror from this strange zombie guardian.",
+      "significance": "First encounter with one of Thriller Bark's zombie creatures, introducing the horror element of the arc and demonstrating the bizarre nature of Gecko Moria's zombie creations.",
+      "characterIds": ["nami", "usopp", "chopper", "cerberus"],
+      "locationIds": ["thriller-bark"],
+      "quotes": [
+        {
+          "text": "This must be Cerberus, the guard dog of hell!",
+          "speaker": "Chopper",
+          "context": "Chopper identifies the three-headed creature"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [340],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep339-event-006",
+      "episodeNumber": 339,
+      "timestamp": "17:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Hildon's Introduction",
+      "description": "After fleeing from Cerberus, Nami, Usopp, and Chopper encounter Hildon, a bat-like vampire zombie. He politely introduces himself and offers to take them to Dr. Hogback's mansion in his carriage, claiming the doctor lives on the island.",
+      "significance": "Introduction of Hildon, one of the Thriller Bark zombies, and the first mention of Dr. Hogback being on the island. This sets up the reunion with Hogback and reveals the arc's connection to Chopper's idol.",
+      "characterIds": ["hildon", "nami", "usopp", "chopper"],
+      "locationIds": ["thriller-bark"],
+      "quotes": [
+        {
+          "text": "Please allow me to escort you to the mansion of the great Dr. Hogback!",
+          "speaker": "Hildon",
+          "context": "Hildon offers to guide the trio"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [340, 341],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep339-event-007",
+      "episodeNumber": 339,
+      "timestamp": "19:15",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Chopper's Excitement About Dr. Hogback",
+      "description": "When Hildon mentions Dr. Hogback's name, Chopper becomes extremely excited and explains to Nami and Usopp that Hogback is a legendary genius surgeon who won many medical awards before mysteriously disappearing from the medical community. Chopper idolized him.",
+      "significance": "Reveals Chopper's deep admiration for Dr. Hogback and sets up the emotional conflict that will occur when Chopper discovers Hogback's true nature and unethical practices with zombies.",
+      "characterIds": ["chopper", "nami", "usopp"],
+      "locationIds": ["thriller-bark"],
+      "quotes": [
+        {
+          "text": "Dr. Hogback is a genius! His operations were miraculous!",
+          "speaker": "Chopper",
+          "context": "Chopper explains why he admires Hogback"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [343, 344, 363],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep339-event-008",
+      "episodeNumber": 339,
+      "timestamp": "20:45",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Thriller Bark's Origin Revealed",
+      "description": "Brook explains that Thriller Bark is not a natural island but an island ship that drifted from the West Blue. It has been lurking in the Florian Triangle for years, and it's the world's largest ship.",
+      "significance": "Provides important world-building information about Thriller Bark's nature as a mobile island ship and its connection to the West Blue, foreshadowing its connection to Gecko Moria's past.",
+      "characterIds": ["brook", "luffy", "nami"],
+      "locationIds": ["thriller-bark", "florian-triangle"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [337],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["absalom", "hildon", "cerberus"],
+    "locations": ["thriller-bark"],
+    "devilFruits": ["suke-suke-no-mi"],
+    "crews": [],
+    "abilities": [],
+    "items": ["mini-merry-ii"]
+  },
+  "episodeRelationships": {
+    "setupFor": [340, 341, 342, 343],
+    "payoffFrom": [337, 338],
+    "thematicLinks": [312]
+  },
+  "quotes": [
+    {
+      "text": "This island... it drifted from West Blue.",
+      "speaker": "Brook",
+      "context": "Explaining the origin of Thriller Bark",
+      "timestamp": "03:15"
+    },
+    {
+      "text": "This is Channel 2 - the Mini Merry II! A present from me to you guys!",
+      "speaker": "Franky",
+      "context": "Revealing the Mini Merry II",
+      "timestamp": "08:45"
+    },
+    {
+      "text": "This must be Cerberus, the guard dog of hell!",
+      "speaker": "Chopper",
+      "context": "Identifying the three-headed zombie dog",
+      "timestamp": "13:45"
+    },
+    {
+      "text": "Dr. Hogback is a genius! His operations were miraculous!",
+      "speaker": "Chopper",
+      "context": "Explaining his admiration for Dr. Hogback",
+      "timestamp": "19:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Mystery and Horror",
+      "description": "The episode establishes the eerie atmosphere of Thriller Bark with fog, zombies, and unexplained phenomena that create tension and mystery.",
+      "symbolism": "The thick fog surrounding Thriller Bark represents the unknown dangers and secrets hidden within the island.",
+      "culturalReferences": ["Greek mythology (Cerberus)", "Gothic horror (vampires, zombies)"]
+    },
+    {
+      "theme": "Remembrance and Honor",
+      "description": "Franky's creation of the Mini Merry II demonstrates his understanding of the crew's emotional attachment to the Going Merry and his desire to honor their lost ship.",
+      "symbolism": "The Mini Merry II symbolizes the crew's continuing connection to their past and the memory of their beloved first ship.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Idolization and Disillusionment",
+      "description": "Chopper's excitement about meeting his idol Dr. Hogback sets up the theme of hero worship and the potential for disappointment when meeting one's heroes.",
+      "symbolism": "Chopper's innocent admiration foreshadows the painful lesson he will learn about his idol's true nature.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Mysterious", "Comedic", "Ominous", "Adventurous"],
+  "characterSpotlights": [
+    {
+      "characterId": "brook",
+      "role": "Catalyst for arc",
+      "development": "Brook demonstrates his determination to reclaim his shadow and shows his unique ability to run on water due to his lightweight skeleton.",
+      "keyActions": [
+        "Explains Thriller Bark's origin from West Blue",
+        "Departs from the crew to pursue his shadow",
+        "Runs across the ocean surface"
+      ],
+      "quotes": ["This island... it drifted from West Blue.", "I must go now. I have to reclaim my shadow!"]
+    },
+    {
+      "characterId": "franky",
+      "role": "Ship mechanic and innovator",
+      "development": "Shows his sentimental side and understanding of the crew's emotions by creating the Mini Merry II as a tribute to their former ship.",
+      "keyActions": [
+        "Unveils the Mini Merry II from Soldier Dock Channel 2",
+        "Explains the boat's features and purpose",
+        "Sends Nami, Usopp, and Chopper on its maiden voyage"
+      ],
+      "quotes": ["This is Channel 2 - the Mini Merry II! A present from me to you guys!"]
+    },
+    {
+      "characterId": "chopper",
+      "role": "Medical expert facing his idol",
+      "development": "Reveals his deep admiration for Dr. Hogback, setting up emotional stakes for the arc. His medical knowledge makes him respect Hogback's legendary reputation.",
+      "keyActions": [
+        "Identifies Cerberus as a three-headed creature",
+        "Becomes excited upon hearing Dr. Hogback's name",
+        "Explains Hogback's legendary medical achievements"
+      ],
+      "quotes": ["This must be Cerberus, the guard dog of hell!", "Dr. Hogback is a genius! His operations were miraculous!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended the scene of the invisible attack on the Thousand Sunny with more comedic reactions from the crew.",
+      "episodeTimestamp": "11:20",
+      "mangaReference": "Chapter 444",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the first time the Mini Merry II is shown, which becomes a recurring vessel throughout the series for island exploration.",
+      "category": "DEBUT",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Mini_Merry_II",
+          "title": "Mini Merry II - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "fact": "The Cerberus zombie has one fox head among its three heads instead of being three identical dog heads, which is a unique twist on the mythological Cerberus.",
+      "category": "CHARACTER_DESIGN",
+      "sources": []
+    },
+    {
+      "fact": "Episode 339 adapts Chapter 444 of the manga, titled 'Adventure on Ghost Island'.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chapter_444",
+          "title": "Chapter 444 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "fact": "Absalom's Suke Suke no Mi (Clear-Clear Fruit) makes its first appearance in this episode, though Absalom himself is not visually revealed yet.",
+      "category": "DEVIL_FRUIT",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

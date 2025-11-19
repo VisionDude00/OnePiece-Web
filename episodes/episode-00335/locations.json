@@ -1,0 +1,111 @@
+[
+  {
+    "name": {
+      "english": "Lovely Land",
+      "japanese": "ラブリーランド",
+      "romanized": "Raburī Rando"
+    },
+    "locationType": "FORTRESS",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Hyokaido",
+    "description": "The Accino Family's ice castle headquarters located in the frozen region of Hyokaido. A massive fortress made of ice that serves as both the family's home and base of operations for their bounty hunting activities.",
+    "episodeAppearances": [335],
+    "keyEvents": [
+      {
+        "episodeNumber": 335,
+        "eventId": "ep335-event-001",
+        "eventType": "BATTLE_START",
+        "title": "Luffy vs Don Accino Final Battle",
+        "description": "The climactic battle between Luffy and Don Accino takes place within Lovely Land as the environment becomes increasingly unstable.",
+        "significance": "The location of the Ice Hunter Arc's final battle.",
+        "timestamp": "05:00"
+      },
+      {
+        "episodeNumber": 335,
+        "eventId": "ep335-event-007",
+        "eventType": "TECHNIQUE_DEBUT",
+        "title": "Gomu Gomu no Hyakuman-do Bazooka Destroys Lovely Land",
+        "description": "The impact of Luffy's finishing attack triggers the destruction of Lovely Land.",
+        "significance": "Marks the end of the Accino Family's base of operations.",
+        "timestamp": "18:15"
+      },
+      {
+        "episodeNumber": 335,
+        "eventId": "ep335-event-009",
+        "eventType": "LOCATION_DEPARTURE",
+        "title": "Destruction of Lovely Land",
+        "description": "Lovely Land collapses and is destroyed following Luffy's victory, forcing everyone to evacuate.",
+        "significance": "The permanent destruction of the location symbolizes the end of the Ice Hunter Arc.",
+        "timestamp": "20:00"
+      }
+    ],
+    "status": "DESTROYED",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": null,
+        "episodeEnd": 334,
+        "reason": "Accino Family headquarters"
+      },
+      {
+        "status": "DESTROYED",
+        "episodeStart": 335,
+        "episodeEnd": "present",
+        "reason": "Destroyed by the impact of Luffy's Hyakuman-do Bazooka and subsequent collapse"
+      }
+    ],
+    "parentLocation": "Hyokaido",
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "don-accino", "arbell", "lil", "campacino"],
+    "relatedCrews": ["straw-hat-pirates", "accino-family"],
+    "relatedArcs": ["Ice Hunter Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Hyokaido",
+      "japanese": "ヒョウカイドウ",
+      "romanized": "Hyōkaidō"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Hyokaido",
+    "description": "A winter island region in the Grand Line characterized by frozen waters and icebergs. The domain of the Accino Family bounty hunters and location of their fortress Lovely Land.",
+    "episodeAppearances": [335],
+    "keyEvents": [
+      {
+        "episodeNumber": 335,
+        "eventId": "ep335-event-013",
+        "eventType": "BATTLE_START",
+        "title": "Phoenix Pirates vs Accino Family",
+        "description": "The Phoenix Pirates engage in battle with Campacino and remaining Accino Family members in the Hyokaido region.",
+        "significance": "The Phoenix Pirates reclaim their honor by fighting their former captors.",
+        "timestamp": "24:00"
+      },
+      {
+        "episodeNumber": 335,
+        "eventId": "ep335-event-014",
+        "eventType": "PROPHECY_FORESHADOWING",
+        "title": "Farewell from Hyokaido",
+        "description": "Puzzle and the Phoenix Pirates bid farewell to the Straw Hats from Hyokaido, promising to meet again in the New World.",
+        "significance": "The departure from Hyokaido marks the end of the Ice Hunter Arc.",
+        "timestamp": "24:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": null,
+        "episodeEnd": "present",
+        "reason": "Winter island in the Grand Line"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["Lovely Land"],
+    "relatedCharacters": ["don-accino", "puzzle", "luffy"],
+    "relatedCrews": ["accino-family", "phoenix-pirates", "straw-hat-pirates"],
+    "relatedArcs": ["Ice Hunter Arc"],
+    "images": []
+  }
+]
