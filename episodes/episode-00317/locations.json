@@ -1,0 +1,107 @@
+[
+  {
+    "id": "water-7-underground",
+    "name": {
+      "english": "Water 7 Underground Tunnels",
+      "japanese": "ウォーターセブン地下",
+      "romanized": "Wōtā Sebun Chika"
+    },
+    "locationType": "UNDERGROUND_PASSAGE",
+    "seaRegion": "PARADISE",
+    "islandName": "Water 7",
+    "debutEpisode": 317,
+    "debutChapter": null,
+    "description": "A network of underground tunnels beneath Water 7 that contain the ruins of old buildings. These tunnels exist because Water 7 builds new structures over old ones after each Aqua Laguna flood.",
+    "episodeAppearances": [317],
+    "keyEvents": [
+      {
+        "episodeNumber": 317,
+        "eventId": "ep317-event-006",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Discovery of Underground Tunnels",
+        "description": "Luffy, Chopper, and Abi enter the underground tunnels after finding shreds of Aobire's scarf.",
+        "significance": "Leads the group closer to discovering Aobire's fate.",
+        "timestamp": "13:25"
+      },
+      {
+        "episodeNumber": 317,
+        "eventId": "ep317-event-007",
+        "eventType": "WORLD_LORE",
+        "title": "Revelation of Water 7's Underground City",
+        "description": "Abi explains that Water 7 builds new buildings over old ones due to recurring Aqua Laguna floods.",
+        "significance": "Provides world-building information about Water 7's architecture.",
+        "timestamp": "15:10"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 317,
+        "episodeEnd": "present",
+        "reason": "The underground tunnels exist as ruins beneath Water 7"
+      }
+    ],
+    "parentLocation": "water-7",
+    "childLocations": ["tsui-village"],
+    "relatedCharacters": ["luffy", "chopper", "abi", "aobire"],
+    "relatedCrews": [],
+    "relatedArcs": ["Post-Enies Lobby Arc"],
+    "images": []
+  },
+  {
+    "id": "tsui-village",
+    "name": {
+      "english": "Tsui Village",
+      "japanese": "ツイ村",
+      "romanized": "Tsui Mura"
+    },
+    "locationType": "MYSTICAL_LOCATION",
+    "seaRegion": "PARADISE",
+    "islandName": "Water 7",
+    "debutEpisode": 317,
+    "debutChapter": null,
+    "description": "A mystical underground location beneath Water 7 where Yagara Bulls go to die. It is a peaceful, otherworldly place with spiritual significance for the Yagara species.",
+    "episodeAppearances": [317],
+    "keyEvents": [
+      {
+        "episodeNumber": 317,
+        "eventId": "ep317-event-008",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Arrival at Tsui Village",
+        "description": "Luffy, Chopper, and Abi arrive at Tsui Village, a mystical location where Yagara Bulls go to die.",
+        "significance": "Introduces the concept of Tsui Village as a sacred resting place for Yagara Bulls.",
+        "timestamp": "16:45"
+      },
+      {
+        "episodeNumber": 317,
+        "eventId": "ep317-event-009",
+        "eventType": "DEATH",
+        "title": "Aobire's Spirit Appears",
+        "description": "Aobire's spirit appears in Tsui Village to give Abi closure about his death.",
+        "significance": "The emotional climax revealing Aobire's heroic sacrifice and final resting place.",
+        "timestamp": "17:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 317,
+        "episodeEnd": "present",
+        "reason": "Tsui Village exists as a sacred resting place for Yagara Bulls"
+      }
+    ],
+    "parentLocation": "water-7-underground",
+    "childLocations": [],
+    "relatedCharacters": ["aobire", "abi", "luffy", "chopper"],
+    "relatedCrews": [],
+    "relatedArcs": ["Post-Enies Lobby Arc"],
+    "images": [],
+    "culturalSignificance": "Tsui Village serves as a sacred resting place where Yagara Bulls go to die, similar to elephant graveyards in folklore. It has spiritual significance and demonstrates the mystical connection between Yagara Bulls.",
+    "mythology": {
+      "description": "A mystical location where the spirits of deceased Yagara Bulls can appear to give closure to those they left behind.",
+      "beliefs": ["Yagara Bulls are drawn to Tsui Village when their time comes", "Spirits can manifest briefly in this location", "All Yagara Bulls throughout Water 7 can sense when one of their kind passes in Tsui Village"]
+    }
+  }
+]

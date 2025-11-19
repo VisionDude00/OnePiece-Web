@@ -1,0 +1,370 @@
+{
+  "episodeNumber": 319,
+  "episodeTitle": "Sanji's Shock! Mysterious Old Man And His Super Yummy Cooking!",
+  "description": "While shopping with Chimney, Sanji visits an old chef named Banban who operates a floating restaurant. Sanji discovers the secret ingredient behind Banban's exceptional cooking: special salt created by the Aqua Laguna that contains minerals from seas around the world.",
+  "airDate": "2007-07-22",
+  "airDateJapan": "2007-07-22",
+  "airDateUS": "2014-01-14",
+  "arcName": "Post-Enies Lobby Arc",
+  "sagaName": "Water 7 Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Crazy Rainbow",
+    "artist": "Tackey & Tsubasa",
+    "episodeRange": [284, 325]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Naoki Tate",
+    "director": "Makoto Sonoda",
+    "writer": "Yoshiyuki Suga",
+    "artDirector": ["Miyuki Sato", "Kumiko Fukuzawa"],
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Chimney",
+        "actor": "Takahiro Sakurai"
+      },
+      {
+        "character": "Banban",
+        "actor": "Mahito Tsujimura"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Banban",
+        "actor": "Charles C. Campbell"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep319-event-001",
+      "episodeNumber": 319,
+      "timestamp": "03:00",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Sanji Goes Shopping with Chimney",
+      "description": "Sanji is out shopping in Water 7 when he encounters Chimney and Gonbe. Chimney convinces Sanji to visit a special cook she knows.",
+      "significance": "Sets up the episode's main plot as Chimney leads Sanji to discover Banban's restaurant and the secret of Aqua Laguna salt.",
+      "characterIds": ["sanji", "chimney", "gonbe"],
+      "locationIds": ["water-7"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep319-event-002",
+      "episodeNumber": 319,
+      "timestamp": "05:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Banban's First Appearance",
+      "description": "Sanji arrives at a small floating restaurant operated by an elderly, seemingly drunk chef named Banban. Despite his disheveled appearance, Banban is revealed to be an exceptional cook.",
+      "significance": "Introduces Banban, a non-canon character who will teach Sanji about the special Aqua Laguna salt and reveal a connection to Sanji's mentor Zeff.",
+      "characterIds": ["sanji", "banban", "chimney", "gonbe"],
+      "locationIds": ["banban-floating-restaurant"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep319-event-003",
+      "episodeNumber": 319,
+      "timestamp": "08:00",
+      "eventType": "CULTURAL_MOMENT",
+      "title": "Sanji Tastes Banban's Cooking",
+      "description": "Sanji samples Banban's fried rice and is astounded by its incredible flavor. The dish's exceptional taste immediately captures Sanji's attention, making him obsessed with discovering the secret ingredient.",
+      "significance": "This moment drives the episode's plot as Sanji becomes determined to uncover what makes Banban's cooking so special, temporarily distracting him from his usual romantic pursuits.",
+      "characterIds": ["sanji", "banban"],
+      "locationIds": ["banban-floating-restaurant"],
+      "quotes": [
+        {
+          "text": "This taste... it's incredible! What's the secret?",
+          "speaker": "Sanji",
+          "context": "Sanji's reaction to tasting Banban's cooking for the first time"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep319-event-004",
+      "episodeNumber": 319,
+      "timestamp": "11:30",
+      "eventType": "CULTURAL_MOMENT",
+      "title": "Sanji's Investigation Begins",
+      "description": "Unable to identify the secret ingredient, Sanji begins investigating around Water 7, asking locals and examining ingredients to discover what makes Banban's food taste so exceptional.",
+      "significance": "Shows Sanji's dedication to his craft as a chef and his determination to improve his culinary skills.",
+      "characterIds": ["sanji"],
+      "locationIds": ["water-7"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep319-event-005",
+      "episodeNumber": 319,
+      "timestamp": "14:00",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Discovery of Aqua Laguna Salt",
+      "description": "Sanji learns that the secret ingredient is a special salt created when the Aqua Laguna's seawater floods the lower parts of Water 7 and evaporates on rooftops in sunny days. This salt contains minerals from waters all around the world.",
+      "significance": "Reveals unique world-building about Water 7's Aqua Laguna phenomenon and introduces the concept of salt that potentially comes from all the world's seas, connecting to the All Blue legend.",
+      "characterIds": ["sanji"],
+      "locationIds": ["water-7"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [113, 227],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [113, 227]
+    },
+    {
+      "id": "ep319-event-006",
+      "episodeNumber": 319,
+      "timestamp": "16:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Banban's Connection to Zeff Revealed",
+      "description": "Banban shows Sanji a photograph revealing that he and Zeff were friends in their younger years. Both men shared the dream of finding the All Blue, the legendary sea where all the oceans meet.",
+      "significance": "Creates a meaningful connection between Sanji's mentor and this new character, reinforcing the importance of the All Blue dream that both Zeff and Sanji share.",
+      "characterIds": ["banban", "sanji", "zeff"],
+      "locationIds": ["banban-floating-restaurant"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [20, 26, 30],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [20, 26, 30]
+    },
+    {
+      "id": "ep319-event-007",
+      "episodeNumber": 319,
+      "timestamp": "18:00",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "The All Blue Salt Theory",
+      "description": "Banban explains that the Aqua Laguna carries water from all the world's seas, and the resulting salt may come from the All Blue itself. This unique salt vastly improves any dish, suggesting a fundamental difference from regular salt.",
+      "significance": "Reinforces Sanji's belief in the All Blue and provides tangible evidence that the legendary sea might exist. The salt becomes a symbol of the All Blue dream.",
+      "characterIds": ["banban", "sanji"],
+      "locationIds": ["banban-floating-restaurant"],
+      "devilFruitIds": [],
+      "crewIds": [],
+      "quotes": [
+        {
+          "text": "This salt comes from the Aqua Laguna, which carries water from all the world's seas. Perhaps it comes from the All Blue itself.",
+          "speaker": "Banban",
+          "context": "Banban explaining the origin and significance of the special salt"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [20, 26, 30],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [20, 26, 30]
+    },
+    {
+      "id": "ep319-event-008",
+      "episodeNumber": 319,
+      "timestamp": "20:00",
+      "eventType": "CULTURAL_MOMENT",
+      "title": "Banban's True Reason for Staying",
+      "description": "Banban reveals with a laugh that while he claims to stay in Water 7 for the special salt, he also has a fondness for the city's women, showing his lecherous personality.",
+      "significance": "Adds humor to the episode and shows Banban as a more well-rounded character with personality quirks similar to Sanji himself.",
+      "characterIds": ["banban", "sanji"],
+      "locationIds": ["water-7"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep319-event-009",
+      "episodeNumber": 319,
+      "timestamp": "21:30",
+      "eventType": "TREASURE_DISCOVERY",
+      "severity": "MINOR",
+      "title": "Sanji Collects Aqua Laguna Salt",
+      "description": "Inspired by Banban's explanation and renewed in his belief in the All Blue, Sanji collects a significant supply of the special Aqua Laguna salt to use in cooking for the Straw Hat crew.",
+      "significance": "Concludes the episode with Sanji gaining both a practical ingredient for his cooking and renewed inspiration for his dream of finding the All Blue.",
+      "characterIds": ["sanji"],
+      "locationIds": ["water-7"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["banban"],
+    "locations": ["banban-floating-restaurant"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [],
+    "payoffFrom": [20, 26, 30, 113, 227],
+    "thematicLinks": [20, 26, 30]
+  },
+  "quotes": [
+    {
+      "text": "This taste... it's incredible! What's the secret?",
+      "speaker": "Sanji",
+      "context": "Sanji's reaction to tasting Banban's cooking",
+      "timestamp": "08:00"
+    },
+    {
+      "text": "This salt comes from the Aqua Laguna, which carries water from all the world's seas. Perhaps it comes from the All Blue itself.",
+      "speaker": "Banban",
+      "context": "Banban explaining the special salt's origin",
+      "timestamp": "18:00"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Dreams and Dedication",
+      "description": "The episode reinforces the importance of dreams through Banban's connection to Zeff and their shared pursuit of the All Blue. Sanji's dedication to improving his craft as a chef is highlighted.",
+      "symbolism": "The Aqua Laguna salt represents a tangible connection to the All Blue dream, serving as proof that the legendary sea might exist.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Mentorship and Legacy",
+      "description": "Banban's connection to Zeff shows how dreams and knowledge are passed down between generations of cooks, similar to how Zeff passed his dream to Sanji.",
+      "symbolism": "The photograph of young Banban and Zeff represents the continuity of dreams across time and the bonds formed through shared aspirations.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Lighthearted", "Inspirational", "Comedic"],
+  "characterSpotlights": [
+    {
+      "characterId": "sanji",
+      "role": "Episode protagonist",
+      "development": "Sanji's belief in the All Blue is renewed through his encounter with Banban and the discovery of the special salt. His dedication to his craft as a chef is reinforced.",
+      "keyActions": [
+        "Goes shopping with Chimney and Gonbe",
+        "Visits Banban's floating restaurant",
+        "Investigates the secret ingredient throughout Water 7",
+        "Learns about Aqua Laguna salt",
+        "Discovers Banban's connection to Zeff",
+        "Collects salt for the crew"
+      ],
+      "quotes": [
+        "This taste... it's incredible! What's the secret?"
+      ]
+    },
+    {
+      "characterId": "banban",
+      "role": "Guest character - mentor figure",
+      "development": "Introduced as a skilled elderly chef with a connection to Zeff. Reveals knowledge about special ingredients and shares the All Blue dream.",
+      "keyActions": [
+        "Cooks exceptional fried rice for Sanji",
+        "Teaches Sanji about Aqua Laguna salt",
+        "Reveals friendship with Zeff",
+        "Discusses the All Blue"
+      ],
+      "quotes": [
+        "This salt comes from the Aqua Laguna, which carries water from all the world's seas. Perhaps it comes from the All Blue itself."
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "This entire episode is anime-original filler content. The episode is loosely based on a brief moment in Chapter 435 (pages 7-9) but significantly expands on it.",
+      "episodeTimestamp": "00:00",
+      "mangaReference": "Chapter 435, pages 7-9",
+      "type": "ANIME_ORIGINAL_EXPANSION"
+    },
+    {
+      "difference": "Banban as a character and his entire backstory with Zeff are anime-original creations not present in the manga.",
+      "episodeTimestamp": "05:30",
+      "mangaReference": null,
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "The detailed explanation about Aqua Laguna salt and its connection to the All Blue is anime-original content.",
+      "episodeTimestamp": "14:00",
+      "mangaReference": null,
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode is part of a three-episode filler arc (Episodes 317-319) that takes place during the Post-Enies Lobby period in Water 7.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_319",
+          "title": "Episode 319 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 319 is considered non-canon filler and is often recommended as skippable by fans, though it provides character development for Sanji.",
+      "category": "FILLER",
+      "sources": [
+        {
+          "url": "https://theadultswimsquad.wordpress.com/2015/10/11/one-piece-episode-319-recap/",
+          "title": "One Piece Episode 319 Recap",
+          "platform": "WordPress Blog",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "fact": "The opening 'Crazy Rainbow' by Tackey & Tsubasa was featured in a special April Fool's episode (303) where the duo was animated into the opening itself.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Crazy_Rainbow",
+          "title": "Crazy Rainbow - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "fact": "This episode aired during a period when One Piece had stopped using ending themes (after episode 279), so it only features the opening song.",
+      "category": "MUSIC",
+      "sources": []
+    },
+    {
+      "fact": "The concept of cooking with special ingredients connects thematically to later arcs, particularly the culinary elements in Whole Cake Island arc.",
+      "category": "THEMATIC",
+      "sources": []
+    },
+    {
+      "fact": "Banban's character design and personality (elderly, lecherous, skilled cook) mirror certain traits seen in both Zeff and Sanji himself.",
+      "category": "CHARACTER_DESIGN",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
