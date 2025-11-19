@@ -1,0 +1,548 @@
+{
+  "episodeNumber": 311,
+  "episodeTitle": "Everyone Makes a Great Escape! The Road to Victory is for the Pirates!",
+  "description": "The Going Merry miraculously arrives at Enies Lobby to rescue the Straw Hats. With Sanji closing the Gates of Justice and creating massive whirlpools, the crew successfully escapes from the Buster Call. Robin gets her revenge on Spandam, and Franky uses Coup de Vent to launch them to safety.",
+  "airDate": "2007-05-27",
+  "airDateJapan": "2007-05-27",
+  "airDateUS": "2013-12-03",
+  "arcName": "Enies Lobby",
+  "sagaName": "Water 7 Saga",
+  "animationQuality": "HIGH",
+  "openingSong": {
+    "title": "Crazy Rainbow",
+    "artist": "Tackey & Tsubasa",
+    "episodeRange": [284, 325]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Naoki Tate",
+    "director": "Hiroyuki Satō",
+    "storyboard": "Eisaku Inoue",
+    "screenplay": "Koga Naoki",
+    "artDirector": ["Miyuki Sato", "Hiromitsu Shiozaki"],
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Spandam",
+        "actor": "Masaya Onosaka"
+      },
+      {
+        "character": "Aokiji",
+        "actor": "Takehito Koyasu"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Spandam",
+        "actor": "Kent Williams"
+      },
+      {
+        "character": "Aokiji",
+        "actor": "Jason Douglas"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep311-event-001",
+      "episodeNumber": 311,
+      "timestamp": "03:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Going Merry's Miraculous Arrival",
+      "description": "The Going Merry, thought to be beyond repair, miraculously sails itself from Water 7 to Enies Lobby to rescue the Straw Hat crew. The ship manages to slip past the Marine warships undetected, appearing just in time to save the crew from the Buster Call.",
+      "significance": "This marks the ship's final act of devotion to the crew, sailing itself despite being critically damaged. It demonstrates the ship's 'spirit' and sets up the emotional farewell that will come in the next episode.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky"],
+      "locationIds": ["going-merry", "enies-lobby"],
+      "quotes": [
+        {
+          "text": "Merry! You came to save us!",
+          "speaker": "Luffy",
+          "context": "Luffy's joyful reaction upon seeing the Going Merry arrive"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [310],
+      "payoffInEpisodes": [312],
+      "callbacksToEpisodes": [229, 274]
+    },
+    {
+      "id": "ep311-event-002",
+      "episodeNumber": 311,
+      "timestamp": "05:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Crew Boards the Going Merry",
+      "description": "Kokoro tosses Luffy, Robin, and Chopper onto the Going Merry's deck while the rest of the crew prepares for their escape. The entire Straw Hat crew reunites aboard their beloved ship for what will be its final voyage.",
+      "significance": "This is the final time the entire crew will be together on the Going Merry, making it a bittersweet reunion.",
+      "characterIds": ["luffy", "robin", "chopper", "kokoro", "zoro", "nami", "usopp", "sanji"],
+      "locationIds": ["going-merry"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep311-event-003",
+      "episodeNumber": 311,
+      "timestamp": "07:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Sanji Closes the Gates of Justice",
+      "description": "Sanji successfully pulls the lever to close the Gates of Justice, causing massive whirlpools to form behind the Tower of Justice. This strategic move disrupts the ocean currents and throws off the Marines' aim, making it impossible for them to accurately target the Going Merry.",
+      "significance": "This critical tactical decision is essential to the crew's successful escape. It demonstrates Sanji's quick thinking and willingness to take decisive action to protect his crew.",
+      "characterIds": ["sanji"],
+      "locationIds": ["enies-lobby", "gates-of-justice"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep311-event-004",
+      "episodeNumber": 311,
+      "timestamp": "09:20",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Evading the Buster Call Fleet",
+      "description": "The Straw Hats engage in desperate defensive maneuvers as the Buster Call warships fire volleys of cannonballs at the Going Merry. The whirlpools created by the closing Gates of Justice cause the Marine ships to crash into each other and miss their shots.",
+      "significance": "This battle showcases the crew's teamwork and resourcefulness as they fight for survival against overwhelming military force.",
+      "characterIds": ["luffy", "zoro", "sanji", "nami", "usopp"],
+      "locationIds": ["going-merry", "enies-lobby"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [308, 309, 310],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep311-event-005",
+      "episodeNumber": 311,
+      "timestamp": "11:10",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Zoro and Sanji's Cannonball Defense",
+      "description": "Zoro and Sanji work together to catch incoming cannonballs in Luffy's stretched rubber body and launch them back at the pursuing Marine vessels, turning the enemy's attacks against them.",
+      "significance": "This creative use of Luffy's rubber powers demonstrates the crew's combat synergy and ability to improvise under pressure.",
+      "characterIds": ["luffy", "zoro", "sanji"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep311-event-006",
+      "episodeNumber": 311,
+      "timestamp": "13:25",
+      "eventType": "REVENGE",
+      "severity": "CRITICAL",
+      "title": "Robin Breaks Spandam's Spine",
+      "description": "Nico Robin spots Spandam and uses her Clutch technique to break his spine, getting revenge for all the physical and mental abuse he inflicted upon her during her captivity. Spandam's spine snaps and he collapses, completely incapacitated.",
+      "significance": "This is a cathartic moment for Robin, allowing her to literally break free from her tormentor. It marks her complete liberation from CP9 and represents her reclaiming her agency and power.",
+      "characterIds": ["robin", "spandam"],
+      "quotes": [
+        {
+          "text": "Clutch!",
+          "speaker": "Robin",
+          "context": "Robin's final attack on Spandam"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [269, 273, 274, 278],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep311-event-007",
+      "episodeNumber": 311,
+      "timestamp": "14:50",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Robin Uses Cien Fleur: Defense",
+      "description": "Robin demonstrates a new application of her Devil Fruit powers by using Cien Fleur: Defense to protect the crew from incoming attacks.",
+      "significance": "Shows Robin's growing mastery of her Hana Hana no Mi abilities and her commitment to protecting her newfound family.",
+      "characterIds": ["robin"],
+      "devilFruitIds": ["hana-hana-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep311-event-008",
+      "episodeNumber": 311,
+      "timestamp": "16:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Usopp's Cho Kemuri Boshi",
+      "description": "Usopp deploys his Cho Kemuri Boshi (Super Smoke Star) to create a massive smokescreen, providing cover for the Going Merry's escape from the Buster Call warships.",
+      "significance": "Demonstrates Usopp's tactical value to the crew and his evolution as a sniper/support specialist.",
+      "characterIds": ["usopp"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep311-event-009",
+      "episodeNumber": 311,
+      "timestamp": "18:15",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Franky's Coup de Vent Launch",
+      "description": "Franky uses his Coup de Vent technique to fire a massive blast of compressed air, launching the Going Merry clear of the whirlpools, the Buster Call fleet, and Enies Lobby altogether. The powerful gust propels the ship to safety.",
+      "significance": "This technique proves essential to the crew's escape and showcases Franky's incredible engineering and cyborg abilities. It foreshadows his value to the crew.",
+      "characterIds": ["franky"],
+      "quotes": [
+        {
+          "text": "Coup de Vent!",
+          "speaker": "Franky",
+          "context": "Franky launches the Going Merry to safety"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [239]
+    },
+    {
+      "id": "ep311-event-010",
+      "episodeNumber": 311,
+      "timestamp": "19:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Aokiji Arrives at Enies Lobby",
+      "description": "Admiral Aokiji arrives at the ruins of Enies Lobby and observes the destruction caused by the Buster Call and the Straw Hats' escape. He surveys the scene with his typical lazy demeanor.",
+      "significance": "Aokiji's presence adds tension and represents the World Government's acknowledgment of this massive defeat.",
+      "characterIds": ["aokiji"],
+      "locationIds": ["enies-lobby"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [225, 226, 227, 228]
+    },
+    {
+      "id": "ep311-event-011",
+      "episodeNumber": 311,
+      "timestamp": "20:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Aokiji Declares Complete Defeat",
+      "description": "Admiral Aokiji orders the Marines to stand down, acknowledging that with Enies Lobby in ruins and the Straw Hats escaped, there is no way to depict this as anything other than a complete defeat for the World Government.",
+      "significance": "This marks the first time the World Government has suffered such a humiliating and total defeat. It establishes the Straw Hats as a serious threat to the world order and will have major repercussions.",
+      "characterIds": ["aokiji", "doberman", "onigumo"],
+      "locationIds": ["enies-lobby"],
+      "quotes": [
+        {
+          "text": "There's no way we can depict this as anything but a complete defeat.",
+          "speaker": "Aokiji",
+          "context": "Aokiji's assessment of the World Government's loss"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [320, 321],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep311-event-012",
+      "episodeNumber": 311,
+      "timestamp": "21:15",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MAJOR",
+      "title": "Successful Escape from Enies Lobby",
+      "description": "The Straw Hat crew successfully escapes Enies Lobby aboard the Going Merry, leaving the ruined island and the failed Buster Call behind. They sail away into the mist, free from CP9 and the World Government forces.",
+      "significance": "This marks the successful completion of their mission to rescue Robin and represents a major victory against the World Government. However, it also sets up the bittersweet farewell to the Going Merry that follows.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky"],
+      "locationIds": ["enies-lobby", "going-merry"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [312],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep311-event-013",
+      "episodeNumber": 311,
+      "timestamp": "22:00",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MINOR",
+      "title": "Allies Escape on Puffing Tom",
+      "description": "The Franky Family, Galley-La foremen, and the giants Oimo and Kashii successfully evacuate Enies Lobby aboard the Puffing Tom sea train, returning to Water 7.",
+      "significance": "Ensures that all the allies who helped in the assault on Enies Lobby make it out safely.",
+      "characterIds": ["paulie", "tilestone", "lulu", "zambai", "oimo", "kashii"],
+      "locationIds": ["enies-lobby", "puffing-tom"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep311-event-014",
+      "episodeNumber": 311,
+      "timestamp": "08:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Robin Thanks the Crew",
+      "description": "Robin stands up and thanks everyone for saving her, even when she felt she wasn't worth saving. Luffy tries to speak but Robin covers his mouth with a sprouted hand and smiles warmly, showing her gratitude and affection for her crew.",
+      "significance": "This is Robin's emotional acknowledgment of the crew's sacrifice and love for her. It marks her full acceptance of being saved and her commitment to the Straw Hat Pirates.",
+      "characterIds": ["robin", "luffy", "zoro", "nami", "usopp", "sanji", "chopper"],
+      "quotes": [
+        {
+          "text": "Thank you... for saving me.",
+          "speaker": "Robin",
+          "context": "Robin's heartfelt gratitude to the crew"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [273, 274, 278],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["cien-fleur-defense", "cho-kemuri-boshi"]
+  },
+  "episodeRelationships": {
+    "setupFor": [312, 320, 321],
+    "payoffFrom": [269, 273, 274, 278, 308, 309, 310],
+    "thematicLinks": [229, 274, 312]
+  },
+  "quotes": [
+    {
+      "text": "Merry! You came to save us!",
+      "speaker": "Luffy",
+      "context": "Luffy's joyful reaction upon seeing the Going Merry arrive",
+      "timestamp": "03:15"
+    },
+    {
+      "text": "Thank you... for saving me.",
+      "speaker": "Robin",
+      "context": "Robin's heartfelt gratitude to the crew",
+      "timestamp": "08:30"
+    },
+    {
+      "text": "Clutch!",
+      "speaker": "Robin",
+      "context": "Robin's final attack on Spandam",
+      "timestamp": "13:25"
+    },
+    {
+      "text": "Coup de Vent!",
+      "speaker": "Franky",
+      "context": "Franky launches the Going Merry to safety",
+      "timestamp": "18:15"
+    },
+    {
+      "text": "There's no way we can depict this as anything but a complete defeat.",
+      "speaker": "Aokiji",
+      "context": "Aokiji's assessment of the World Government's loss",
+      "timestamp": "20:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Liberation and Freedom",
+      "description": "The episode focuses on the crew's successful escape from Enies Lobby and Robin's liberation from both CP9 and her emotional chains. Robin breaking Spandam's spine symbolizes her breaking free from those who tried to control her.",
+      "symbolism": "The Going Merry's arrival represents salvation and the power of bonds between ship and crew.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Sacrifice and Devotion",
+      "description": "The Going Merry's final act of sailing itself to rescue the crew despite being beyond repair demonstrates ultimate devotion and foreshadows the upcoming emotional farewell.",
+      "symbolism": "The damaged ship choosing to save its crew one last time embodies the theme of selfless love.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Defying Authority",
+      "description": "The Straw Hats' successful escape from the World Government's Buster Call represents a direct challenge to the world's most powerful authority, marking them as genuine threats to the established order.",
+      "symbolism": "Enies Lobby's destruction symbolizes the crumbling of absolute government power.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Teamwork and Trust",
+      "description": "The crew's coordinated efforts to escape - from Sanji closing the gates to Franky launching them to safety - demonstrates their perfect synchronization and trust in each other.",
+      "symbolism": "Each member plays a crucial role in the escape, showing that they function as a unified whole.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Triumphant", "Intense", "Emotional", "Bittersweet"],
+  "characterSpotlights": [
+    {
+      "characterId": "robin",
+      "role": "Emotional center of liberation",
+      "development": "Robin completes her emotional journey by accepting she's worth saving, thanking the crew, and getting revenge on Spandam. She fully embraces her place with the Straw Hats.",
+      "keyActions": [
+        "Thanks the crew for saving her",
+        "Breaks Spandam's spine with Clutch",
+        "Uses Cien Fleur: Defense to protect the crew"
+      ],
+      "quotes": ["Thank you... for saving me.", "Clutch!"]
+    },
+    {
+      "characterId": "sanji",
+      "role": "Strategic tactician",
+      "development": "Sanji's decision to close the Gates of Justice demonstrates his tactical thinking and willingness to take decisive action.",
+      "keyActions": [
+        "Closes the Gates of Justice",
+        "Catches and returns cannonballs with Zoro"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "franky",
+      "role": "Key to escape",
+      "development": "Franky proves his worth to the crew by using Coup de Vent to launch them to safety, foreshadowing his eventual joining.",
+      "keyActions": [
+        "Uses Coup de Vent to launch the Going Merry to safety"
+      ],
+      "quotes": ["Coup de Vent!"]
+    },
+    {
+      "characterId": "aokiji",
+      "role": "Voice of the World Government's defeat",
+      "development": "Aokiji acknowledges the complete defeat of the World Government, showing his pragmatic and somewhat rebellious nature.",
+      "keyActions": [
+        "Arrives at Enies Lobby",
+        "Orders Marines to stand down",
+        "Declares the defeat complete"
+      ],
+      "quotes": ["There's no way we can depict this as anything but a complete defeat."]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends several action sequences, particularly the cannonball defense and the whirlpool navigation scenes, which are shorter in the manga.",
+      "episodeTimestamp": "09:20-12:00",
+      "mangaReference": "Chapter 429",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "Additional shots of the Going Merry sailing through the mist and waves are added for dramatic effect.",
+      "episodeTimestamp": "21:15",
+      "mangaReference": "Chapter 429",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode adapts Chapter 429 of the manga, titled 'Utter Defeat.'",
+      "category": "MANGA_ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_311",
+          "title": "Episode 311 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "fact": "The episode aired with a 9.3% TV rating in Japan, ranking 5th for the week.",
+      "category": "RATINGS",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_311",
+          "title": "Episode 311 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "fact": "Starting from episode 279, One Piece stopped using ending themes and extended the opening sequences to nearly 3 minutes instead of the usual 1:30.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "Robin's attack on Spandam (breaking his spine) was one of the most brutal and satisfying revenge moments in the series, marking a rare instance of explicit serious injury shown on-screen.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "The Going Merry sailing itself to Enies Lobby was later explained as the manifestation of the ship's Klabautermann (ship spirit), a concept rooted in real nautical folklore.",
+      "category": "WORLDBUILDING",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

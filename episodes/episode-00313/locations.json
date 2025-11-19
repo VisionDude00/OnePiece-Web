@@ -1,0 +1,100 @@
+[
+  {
+    "name": {
+      "english": "Water 7",
+      "japanese": "ウォーターセブン",
+      "romanized": "Wōtā Sebun"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "PARADISE",
+    "islandName": "Water 7",
+    "debutEpisode": 229,
+    "debutChapter": 323,
+    "description": "A water city known for its skilled shipwrights and unique architecture built on canals. Home to the Galley-La Company and site of the Straw Hats' ship construction.",
+    "episodeAppearances": [313],
+    "keyEvents": [
+      {
+        "episodeNumber": 313,
+        "eventId": "ep313-event-001",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Straw Hats Rest at Water 7",
+        "description": "The Straw Hat crew rests in Water 7 after the Enies Lobby arc, recovering while their new ship is built.",
+        "significance": "Water 7 serves as a safe haven for the crew's recovery and preparation.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 313,
+        "eventId": "ep313-event-007",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Garp Arrives at Water 7",
+        "description": "Marine Vice-Admiral Garp arrives at Water 7 with his fleet, disrupting the crew's peace.",
+        "significance": "Garp's arrival brings tension and sets up major revelations.",
+        "timestamp": "13:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 313,
+        "episodeEnd": "present",
+        "reason": "Water 7 is rebuilding after Aqua Laguna with help from Oimo and Kashii"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["galley-la-headquarters"],
+    "relatedCharacters": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky", "iceburg", "kokoro", "chimney", "garp"],
+    "relatedCrews": ["straw-hat-pirates", "marines", "galley-la-company"],
+    "relatedArcs": ["Post-Enies Lobby Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Galley-La Headquarters",
+      "japanese": "ガレーラカンパニー本社",
+      "romanized": "Garēra Kanpanī Honsha"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "PARADISE",
+    "islandName": "Water 7",
+    "debutEpisode": 233,
+    "debutChapter": 329,
+    "description": "The main headquarters of the Galley-La Company, Water 7's premier shipbuilding company. Led by Iceburg, mayor of Water 7.",
+    "episodeAppearances": [313],
+    "keyEvents": [
+      {
+        "episodeNumber": 313,
+        "eventId": "ep313-event-001",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Crew Rests at Galley-La Headquarters",
+        "description": "The Straw Hats recover in special quarters at Galley-La headquarters provided by Iceburg.",
+        "significance": "The headquarters serves as a safe haven for the crew's recovery.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 313,
+        "eventId": "ep313-event-009",
+        "eventType": "POWER_REVEAL",
+        "title": "Garp Punches Through Wall",
+        "description": "Garp demonstrates his immense strength by punching through the headquarters' wall to reach Luffy.",
+        "significance": "Shows Garp's overwhelming power and casual disregard for property.",
+        "timestamp": "18:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 313,
+        "episodeEnd": "present",
+        "reason": "Building is operational, housing the Straw Hats during ship construction"
+      }
+    ],
+    "parentLocation": "water-7",
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky", "iceburg", "garp"],
+    "relatedCrews": ["straw-hat-pirates", "galley-la-company"],
+    "relatedArcs": ["Post-Enies Lobby Arc"],
+    "images": []
+  }
+]
