@@ -1,0 +1,390 @@
+[
+  {
+    "id": "puzzle",
+    "name": {
+      "english": "Puzzle",
+      "japanese": "パズール",
+      "romanized": "Pazūru"
+    },
+    "debutEpisode": 328,
+    "debutChapter": null,
+    "episodeAppearances": [328],
+    "keyMoments": [
+      {
+        "episodeNumber": 328,
+        "eventId": "ep328-event-003",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Puzzle Awakens from Fever",
+        "description": "Puzzle regains consciousness after being treated by Chopper, with his crew hopeful he will lead them back to the New World.",
+        "significance": "First appearance of Puzzle, establishing his character and current defeated state.",
+        "timestamp": "08:00",
+        "quote": "We aren't going back to the New World. We aren't pirates anymore. Our pride is gone."
+      },
+      {
+        "episodeNumber": 328,
+        "eventId": "ep328-event-006",
+        "momentType": "MAJOR_DECISION",
+        "title": "Declares They Are No Longer Pirates",
+        "description": "Puzzle devastates his crew by declaring they will not return to the New World and are no longer pirates.",
+        "significance": "Defines Puzzle's broken spirit and sets up his character arc of redemption.",
+        "timestamp": "14:45",
+        "quote": "We aren't going back to the New World. We aren't pirates anymore. Our pride is gone."
+      }
+    ],
+    "status": "ALIVE",
+    "statusHistory": [
+      {
+        "status": "ALIVE",
+        "episodeStart": 328,
+        "episodeEnd": "present"
+      }
+    ],
+    "occupations": ["Pirate", "Captain"],
+    "affiliations": [
+      {
+        "crewId": "phoenix-pirates",
+        "role": "Captain",
+        "episodeJoined": 328,
+        "episodeLeft": null
+      }
+    ],
+    "birthday": null,
+    "age": null,
+    "height": null,
+    "bloodType": null,
+    "bounties": [
+      {
+        "amount": 100000000,
+        "episodeRevealed": 328,
+        "reason": "Captain of the Phoenix Pirates"
+      }
+    ],
+    "devilFruitProgression": null,
+    "abilities": [],
+    "relationships": [
+      {
+        "targetCharacterId": "vigaro",
+        "relationshipType": "CREW_MEMBER",
+        "description": "Vigaro was Puzzle's first mate and vice-captain who sacrificed himself to save the crew in the New World.",
+        "episodeEstablished": 328,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 328,
+            "description": "Vigaro's death in the New World is revealed through flashback, showing his sacrifice to save Puzzle and the crew.",
+            "newRelationshipType": "DECEASED_COMRADE"
+          }
+        ]
+      },
+      {
+        "targetCharacterId": "jiro",
+        "relationshipType": "CREW_MEMBER",
+        "description": "Jiro is a young member of Puzzle's crew who deeply admires and believes in his captain.",
+        "episodeEstablished": 328,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 328,
+            "description": "Jiro cares for the unconscious Puzzle and is devastated when Puzzle declares they are no longer pirates.",
+            "newRelationshipType": "CREW_MEMBER"
+          }
+        ]
+      }
+    ],
+    "reveals": [
+      {
+        "infoType": "BACKSTORY",
+        "information": "Led his crew into the New World where they were defeated and his first mate Vigaro was killed",
+        "episodeRevealed": 328,
+        "severity": "MAJOR"
+      },
+      {
+        "infoType": "PERSONALITY",
+        "information": "Has lost his will to be a pirate due to guilt over Vigaro's death",
+        "episodeRevealed": 328,
+        "severity": "MAJOR"
+      },
+      {
+        "infoType": "BOUNTY",
+        "information": "Has a bounty of 100,000,000 Beli",
+        "episodeRevealed": 328,
+        "severity": "MINOR"
+      },
+      {
+        "infoType": "PHYSICAL_FEATURE",
+        "information": "Has a phoenix-shaped birthmark on his forehead (hidden under bandages in this episode)",
+        "episodeRevealed": 328,
+        "severity": "MINOR"
+      }
+    ],
+    "voiceActors": {
+      "japanese": "Unknown",
+      "english": "Unknown"
+    }
+  },
+  {
+    "id": "vigaro",
+    "name": {
+      "english": "Vigaro",
+      "japanese": "ビガロ",
+      "romanized": "Bigaro"
+    },
+    "debutEpisode": 328,
+    "debutChapter": null,
+    "episodeAppearances": [328],
+    "keyMoments": [
+      {
+        "episodeNumber": 328,
+        "eventId": "ep328-event-005",
+        "momentType": "DEATH",
+        "title": "Vigaro's Sacrifice",
+        "description": "Vigaro sacrifices himself to disable the enemy ship's rudder, allowing Puzzle and the Phoenix Pirates to escape from their attackers in the New World.",
+        "significance": "His death is the traumatic event that breaks Puzzle's spirit and leads to the Phoenix Pirates giving up their dreams.",
+        "timestamp": "12:30",
+        "quote": "I trust you completely, Captain. I'll make sure you escape safely!"
+      }
+    ],
+    "status": "DECEASED",
+    "statusHistory": [
+      {
+        "status": "DECEASED",
+        "episodeStart": 328,
+        "episodeEnd": 328,
+        "causeOfDeath": "Killed while sacrificing himself to save his crew from attackers in the New World"
+      }
+    ],
+    "occupations": ["Pirate", "First Mate"],
+    "affiliations": [
+      {
+        "crewId": "phoenix-pirates",
+        "role": "First Mate/Vice-Captain",
+        "episodeJoined": null,
+        "episodeLeft": 328
+      }
+    ],
+    "birthday": null,
+    "age": null,
+    "height": null,
+    "bloodType": null,
+    "bounties": [],
+    "devilFruitProgression": null,
+    "abilities": [],
+    "relationships": [
+      {
+        "targetCharacterId": "puzzle",
+        "relationshipType": "CREW_MEMBER",
+        "description": "Vigaro was Puzzle's loyal first mate who trusted him completely and gave his life to ensure Puzzle's escape.",
+        "episodeEstablished": 328,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 328,
+            "description": "Vigaro dies protecting Puzzle and the crew, demonstrating his absolute loyalty to his captain.",
+            "newRelationshipType": "DECEASED_COMRADE"
+          }
+        ]
+      }
+    ],
+    "reveals": [
+      {
+        "infoType": "DEATH",
+        "information": "Died in the New World sacrificing himself to save the Phoenix Pirates",
+        "episodeRevealed": 328,
+        "severity": "CRITICAL"
+      },
+      {
+        "infoType": "PERSONALITY",
+        "information": "Completely trusted Puzzle and was willing to sacrifice his life for his captain and crew",
+        "episodeRevealed": 328,
+        "severity": "MAJOR"
+      },
+      {
+        "infoType": "ROLE",
+        "information": "Was the first mate and vice-captain of the Phoenix Pirates",
+        "episodeRevealed": 328,
+        "severity": "MINOR"
+      }
+    ],
+    "voiceActors": {
+      "japanese": "Unknown",
+      "english": "Unknown"
+    }
+  },
+  {
+    "id": "jiro",
+    "name": {
+      "english": "Jiro",
+      "japanese": "ジロウ",
+      "romanized": "Jirō"
+    },
+    "debutEpisode": 326,
+    "debutChapter": null,
+    "episodeAppearances": [328],
+    "keyMoments": [
+      {
+        "episodeNumber": 328,
+        "eventId": "ep328-event-003",
+        "momentType": "BACKSTORY_REVEAL",
+        "title": "Jiro Recounts the New World Defeat",
+        "description": "Jiro tells Puzzle about how Vigaro sacrificed himself during their defeat in the New World.",
+        "significance": "Shows Jiro's role as a witness to the traumatic events and his loyalty to his captain.",
+        "timestamp": "08:00",
+        "quote": "Captain! You're awake!"
+      }
+    ],
+    "status": "ALIVE",
+    "statusHistory": [
+      {
+        "status": "ALIVE",
+        "episodeStart": 326,
+        "episodeEnd": "present"
+      }
+    ],
+    "occupations": ["Pirate"],
+    "affiliations": [
+      {
+        "crewId": "phoenix-pirates",
+        "role": "Crew Member",
+        "episodeJoined": null,
+        "episodeLeft": null
+      }
+    ],
+    "birthday": null,
+    "age": 11,
+    "height": null,
+    "bloodType": null,
+    "bounties": [],
+    "devilFruitProgression": null,
+    "abilities": [
+      {
+        "abilityName": "Chain Weapon Proficiency",
+        "abilityType": "PHYSICAL",
+        "episodeFirstUsed": null,
+        "description": "Jiro wields a large chain as his weapon."
+      }
+    ],
+    "relationships": [
+      {
+        "targetCharacterId": "puzzle",
+        "relationshipType": "CREW_MEMBER",
+        "description": "Jiro deeply admires Puzzle and believes in him as captain, showing unwavering loyalty.",
+        "episodeEstablished": 328,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 328,
+            "description": "Jiro cares for Puzzle during his illness and is devastated by his decision to give up being a pirate.",
+            "newRelationshipType": "CREW_MEMBER"
+          }
+        ]
+      },
+      {
+        "targetCharacterId": "chopper",
+        "relationshipType": "ALLY",
+        "description": "Jiro works with Chopper to treat Puzzle's injuries.",
+        "episodeEstablished": 328,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 328,
+            "description": "Jiro helps Chopper care for the unconscious Puzzle.",
+            "newRelationshipType": "ALLY"
+          }
+        ]
+      }
+    ],
+    "reveals": [
+      {
+        "infoType": "AGE",
+        "information": "Is 11 years old, making him the youngest member of the Phoenix Pirates",
+        "episodeRevealed": 328,
+        "severity": "MINOR"
+      },
+      {
+        "infoType": "PERSONALITY",
+        "information": "Deeply loyal and believes strongly in his captain despite Puzzle's despair",
+        "episodeRevealed": 328,
+        "severity": "MINOR"
+      }
+    ],
+    "voiceActors": {
+      "japanese": "Miyu Irino",
+      "english": "Leah Clark"
+    }
+  },
+  {
+    "id": "stansen",
+    "name": {
+      "english": "Stansen",
+      "japanese": "スタンセン",
+      "romanized": "Sutansen"
+    },
+    "debutEpisode": 326,
+    "debutChapter": null,
+    "episodeAppearances": [328],
+    "keyMoments": [
+      {
+        "episodeNumber": 328,
+        "eventId": "ep328-event-006",
+        "momentType": "MAJOR_DECISION",
+        "title": "Stansen's Decision Validated",
+        "description": "Puzzle acknowledges that Stansen was right to make the decision to work for the Accino Family while Puzzle was unconscious.",
+        "significance": "Reveals that Stansen made the difficult choice to submit to the Accino Family to protect the crew.",
+        "timestamp": "14:45",
+        "quote": null
+      }
+    ],
+    "status": "ALIVE",
+    "statusHistory": [
+      {
+        "status": "ALIVE",
+        "episodeStart": 326,
+        "episodeEnd": "present"
+      }
+    ],
+    "occupations": ["Pirate"],
+    "affiliations": [
+      {
+        "crewId": "phoenix-pirates",
+        "role": "Crew Member (Acting Leader)",
+        "episodeJoined": null,
+        "episodeLeft": null
+      }
+    ],
+    "birthday": null,
+    "age": null,
+    "height": null,
+    "bloodType": null,
+    "bounties": [],
+    "devilFruitProgression": null,
+    "abilities": [],
+    "relationships": [
+      {
+        "targetCharacterId": "puzzle",
+        "relationshipType": "CREW_MEMBER",
+        "description": "Stansen temporarily led the crew when Puzzle was incapacitated and made the decision to work for the Accino Family.",
+        "episodeEstablished": 328,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 328,
+            "description": "Puzzle validates Stansen's decision to submit to the Accino Family as the right choice.",
+            "newRelationshipType": "CREW_MEMBER"
+          }
+        ]
+      }
+    ],
+    "reveals": [
+      {
+        "infoType": "DECISION",
+        "information": "Made the decision to work for the Accino Family while Puzzle was unconscious",
+        "episodeRevealed": 328,
+        "severity": "MAJOR"
+      },
+      {
+        "infoType": "ROLE",
+        "information": "Temporarily acted as leader of the Phoenix Pirates when Puzzle was incapacitated",
+        "episodeRevealed": 328,
+        "severity": "MINOR"
+      }
+    ],
+    "voiceActors": {
+      "japanese": "Unknown",
+      "english": "Unknown"
+    }
+  }
+]

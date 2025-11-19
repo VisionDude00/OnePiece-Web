@@ -1,0 +1,577 @@
+{
+  "episodeNumber": 327,
+  "episodeTitle": "Sunny in a Pinch! Roar, Secret Superspeed Mecha!",
+  "description": "The Straw Hats find themselves surrounded by what appears to be a fleet of Marine ships in a trap called 'Trap Seagull.' Franky activates the Thousand Sunny's Soldier Dock System Channel 0, using the Cola Powered Paddle System to escape at high speed. Chopper stays aboard the Phoenix Pirates' ship to treat their injured captain Puzzle, while Jiro reveals their tragic past. The Accino Family pledges to collect the Straw Hats' combined bounty of 600 million berries.",
+  "airDate": "2007-10-21",
+  "airDateJapan": "2007-10-21",
+  "airDateUS": "2016-01-02",
+  "arcName": "Ice Hunter",
+  "sagaName": "Thriller Bark Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Jungle P",
+    "artist": "5050",
+    "episodeRange": [326, 372]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Hiroaki Miyamoto",
+    "screenplay": "Yoshiyuki Suga",
+    "artDirection": ["Miyuki Sato", "Hiromitsu Shiozaki"],
+    "animation": "Kenji Yokoyama",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Puzzle",
+        "actor": "Kisho Taniyama"
+      },
+      {
+        "character": "Jiro",
+        "actor": "Tomoko Kawakami"
+      },
+      {
+        "character": "Don Accino",
+        "actor": "Tomomichi Nishimura"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Puzzle",
+        "actor": "David Matranga"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep327-event-001",
+      "episodeNumber": 327,
+      "timestamp": "03:00",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Straw Hats Prepare to Battle Phoenix Pirates",
+      "description": "Robin, Franky, and Sanji prepare to fight the mysterious crew who poisoned them. The Phoenix Pirates deny being pirates and claim to be fishermen, but the Straw Hats don't believe them. Stansen, the crew's leader, tries to stop the confrontation and explain their situation.",
+      "significance": "Sets up the initial conflict that leads to understanding the Phoenix Pirates' true circumstances and their connection to the Accino Family.",
+      "characterIds": ["robin", "franky", "sanji", "stansen"],
+      "locationIds": ["thousand-sunny"],
+      "crewIds": ["straw-hat-pirates", "phoenix-pirates"],
+      "quotes": [
+        {
+          "text": "We're not pirates! We're just fishermen!",
+          "speaker": "Phoenix Pirates crew member",
+          "context": "The Phoenix Pirates trying to avoid conflict with the Straw Hats"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [326],
+      "payoffInEpisodes": [328],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep327-event-002",
+      "episodeNumber": 327,
+      "timestamp": "04:30",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MINOR",
+      "title": "Phoenix Pirates Retreat Into the Sea",
+      "description": "The Phoenix Pirates crew retreats from the Thousand Sunny, diving back into the ocean. The Straw Hats discover that Chopper is missing from their ship, suspecting he may have been kidnapped by the mysterious crew.",
+      "significance": "Creates tension and urgency as the crew realizes Chopper is gone, setting up his role in learning about the Phoenix Pirates' backstory.",
+      "characterIds": ["chopper"],
+      "locationIds": ["thousand-sunny"],
+      "crewIds": ["straw-hat-pirates", "phoenix-pirates"],
+      "quotes": [
+        {
+          "text": "Chopper! Where's Chopper?!",
+          "speaker": "Straw Hats",
+          "context": "The crew realizing Chopper is missing"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [326],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep327-event-003",
+      "episodeNumber": 327,
+      "timestamp": "06:15",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Trap Seagull Activated",
+      "description": "Nami senses an incoming storm and suddenly mysterious music fills the air around the Thousand Sunny. This is revealed to be 'Trap Seagull' (Trap Kamome), a deceptive tactic created by Salchow of the Accino Family. Naval ships appear to surround the Straw Hats, followed by explosions and hundreds more ships materializing.",
+      "significance": "Introduces the Accino Family's hunting tactics and demonstrates their cunning approach to capturing pirates. The trap forces the Straw Hats to use the Sunny's special systems.",
+      "characterIds": ["nami", "salchow"],
+      "locationIds": ["florian-triangle"],
+      "crewIds": ["straw-hat-pirates", "accino-family"],
+      "quotes": [
+        {
+          "text": "This is bad... a storm is coming!",
+          "speaker": "Nami",
+          "context": "Nami sensing the approaching danger"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [328],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep327-event-004",
+      "episodeNumber": 327,
+      "timestamp": "08:45",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Trap Seagull Revealed as Illusion",
+      "description": "The hundreds of Marine ships surrounding the Straw Hats are revealed to be an elaborate illusion created by the Accino Family. They're simply sails on rafts with glowing, hologram-like lights designed to drive the Straw Hats into a field of icebergs. The fake Marine fleet is part of a sophisticated hunting strategy.",
+      "significance": "This is the first appearance of the Soldier Dock System Channel 0 in the anime, showcasing one of the Thousand Sunny's special features that Franky built into the ship. It demonstrates the ship's advanced capabilities.",
+      "characterIds": ["salchow"],
+      "locationIds": ["florian-triangle"],
+      "crewIds": ["accino-family"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep327-event-005",
+      "episodeNumber": 327,
+      "timestamp": "10:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Soldier Dock System Channel 0 First Use",
+      "description": "As the wind and fake Marine ships threaten the Thousand Sunny, Franky takes control and activates Channel 0 of the Soldier Dock System - the Cola Powered Paddle System. Two parallel compartments containing paddle wheels deploy from the ship's hull, transforming the Sunny into 'Paddle-Wheel Sunny.' The cola-powered system allows the ship to maneuver independently and achieve high speeds.",
+      "significance": "This is the first appearance of the Soldier Dock System Channel 0 in the anime, showcasing one of the Thousand Sunny's special features that Franky built into the ship. It demonstrates the ship's advanced capabilities and saves the crew from the Accino Family's trap.",
+      "characterIds": ["franky"],
+      "locationIds": ["thousand-sunny", "florian-triangle"],
+      "crewIds": ["straw-hat-pirates"],
+      "abilityIds": ["soldier-dock-system-channel-0"],
+      "quotes": [
+        {
+          "text": "Channel 0... Cola Powered Paddle System!",
+          "speaker": "Franky",
+          "context": "Franky activating the Thousand Sunny's special propulsion system"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep327-event-006",
+      "episodeNumber": 327,
+      "timestamp": "12:00",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Thousand Sunny Escapes at High Speed",
+      "description": "Using the Soldier Dock System's paddle wheels, the Thousand Sunny escapes through the trap at remarkable speed, towing the Phoenix Pirates' tattered ship behind them. The crew successfully navigates through the fake Marine blockade and iceberg field.",
+      "significance": "Demonstrates the effectiveness of Franky's ship design and the crew's ability to adapt to dangerous situations using their ship's special features.",
+      "characterIds": ["franky", "luffy", "nami"],
+      "locationIds": ["thousand-sunny", "florian-triangle"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep327-event-007",
+      "episodeNumber": 327,
+      "timestamp": "13:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Luffy Boards Phoenix Pirates' Ship",
+      "description": "Luffy uses his stretching abilities to board the Phoenix Pirates' damaged vessel to retrieve Chopper. He finds Chopper treating injured crew members and learns that Chopper stayed voluntarily as their doctor to help the wounded.",
+      "significance": "Establishes Chopper's compassionate nature and his commitment to his medical duties, even with potential enemies. Sets up the revelation of the Phoenix Pirates' backstory.",
+      "characterIds": ["luffy", "chopper", "jiro"],
+      "locationIds": ["phoenix-pirates-ship"],
+      "crewIds": ["straw-hat-pirates", "phoenix-pirates"],
+      "quotes": [
+        {
+          "text": "Chopper! Are you okay?",
+          "speaker": "Luffy",
+          "context": "Luffy finding Chopper aboard the Phoenix Pirates' ship"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [326],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep327-event-008",
+      "episodeNumber": 327,
+      "timestamp": "15:00",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Jiro Reveals the Phoenix Pirates' Past",
+      "description": "Jiro, the youngest member of the Phoenix Pirates, tells Chopper about their crew's tragic history. The Phoenix Pirates were once a proud crew led by Captain Puzzle who sailed successfully across the Grand Line. However, when they entered the New World, they encountered a powerful enemy crew that devastated them.",
+      "significance": "Provides important context about the dangers of the New World and establishes the Phoenix Pirates' fall from grace. This backstory explains why they've become servants of the Accino Family and foreshadows the difficulties the Straw Hats will face in the New World.",
+      "characterIds": ["jiro", "chopper", "puzzle"],
+      "locationIds": ["phoenix-pirates-ship"],
+      "crewIds": ["phoenix-pirates"],
+      "quotes": [
+        {
+          "text": "We were once a proud pirate crew... until we reached the New World.",
+          "speaker": "Jiro",
+          "context": "Jiro beginning to explain the Phoenix Pirates' tragic past"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [328, 329],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep327-event-009",
+      "episodeNumber": 327,
+      "timestamp": "16:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Vigaro's Sacrifice Revealed",
+      "description": "Jiro reveals that during the devastating battle in the New World, Vice-Captain Vigaro sacrificed himself to save Captain Puzzle and allow him to escape. Puzzle was critically injured and fell into a coma from his wounds. While Puzzle was unconscious and recovering, the rest of the crew fell under the control of the Accino Family, losing their Jolly Roger flag.",
+      "significance": "This is a pivotal moment that explains the Phoenix Pirates' current servitude and Puzzle's guilt and despair. Vigaro's death weighs heavily on the crew and particularly on Puzzle, who blames himself. This sets up Puzzle's character arc and his eventual decision to fight alongside the Straw Hats.",
+      "characterIds": ["vigaro", "puzzle", "jiro"],
+      "locationIds": ["new-world"],
+      "crewIds": ["phoenix-pirates"],
+      "quotes": [
+        {
+          "text": "Vigaro... he gave his life so Captain Puzzle could escape. But the Captain has never forgiven himself.",
+          "speaker": "Jiro",
+          "context": "Jiro explaining Vigaro's heroic sacrifice"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [328, 329, 330],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep327-event-010",
+      "episodeNumber": 327,
+      "timestamp": "18:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Chopper Meets Captain Puzzle",
+      "description": "Following Jiro's request, Chopper is led to see Captain Puzzle, who is still heavily bandaged and recovering from his New World injuries. Puzzle lies in the ship's quarters, traumatized and demoralized by the loss of Vigaro and the defeat of his crew.",
+      "significance": "First introduction of Puzzle as a character, establishing his injured state and broken spirit that will need to be restored throughout the arc.",
+      "characterIds": ["chopper", "puzzle", "jiro"],
+      "locationIds": ["phoenix-pirates-ship"],
+      "crewIds": ["phoenix-pirates", "straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "Please... can you check on our Captain?",
+          "speaker": "Jiro",
+          "context": "Jiro asking Chopper to examine Puzzle"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [328],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep327-event-011",
+      "episodeNumber": 327,
+      "timestamp": "19:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Accino Family Celebrates Their Trap",
+      "description": "The scene shifts to the Accino Family's location where the bounty hunter who set the trap reports to his family. Surrounded by his wife Arbell, brothers Campacino and Brindo, sister Lil, brother Hockera, and their patriarch Don Accino, the family celebrates their plan. The Accino Family is revealed as a powerful bounty hunting organization.",
+      "significance": "Formal introduction of the Accino Family as the arc's antagonists. Establishes their family dynamic, their operation as bounty hunters, and their confidence in capturing the Straw Hats.",
+      "characterIds": ["don-accino", "arbell", "salchow", "campacino", "brindo", "hockera", "lil"],
+      "locationIds": ["lovely-land"],
+      "crewIds": ["accino-family"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [328, 329],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep327-event-012",
+      "episodeNumber": 327,
+      "timestamp": "21:00",
+      "eventType": "BOUNTY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Accino Family Pledges to Collect 600 Million Bounty",
+      "description": "The Accino Family discusses their plan to capture the Straw Hat Pirates and collect their combined bounty of 600,000,000 berries as a gift for their patriarch, Don Accino (referred to as 'Papa'). They view the Straw Hats as valuable prey and are confident in their ability to capture them using their hunting tactics and powers.",
+      "significance": "Establishes the stakes for the arc and confirms the Straw Hats' total bounty at this point in the story (after Enies Lobby). Shows the Accino Family's motivation and their dangerous capabilities as experienced bounty hunters who have captured thousands of pirates.",
+      "characterIds": ["don-accino", "accino-family"],
+      "locationIds": ["lovely-land"],
+      "crewIds": ["accino-family", "straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "Six hundred million berries... what a perfect gift for Papa!",
+          "speaker": "Accino Family member",
+          "context": "The family discussing the Straw Hats' total bounty"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [320],
+      "payoffInEpisodes": [328, 329, 330],
+      "callbacksToEpisodes": [320]
+    }
+  ],
+  "debuts": {
+    "characters": ["puzzle", "jiro", "don-accino", "campacino", "brindo", "arbell", "salchow", "hockera", "lil"],
+    "locations": ["lovely-land"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["soldier-dock-system-channel-0"]
+  },
+  "episodeRelationships": {
+    "setupFor": [328, 329, 330],
+    "payoffFrom": [320, 326],
+    "thematicLinks": []
+  },
+  "quotes": [
+    {
+      "text": "Channel 0... Cola Powered Paddle System!",
+      "speaker": "Franky",
+      "context": "Franky activating the Thousand Sunny's special propulsion system for the first time",
+      "timestamp": "10:30"
+    },
+    {
+      "text": "We were once a proud pirate crew... until we reached the New World.",
+      "speaker": "Jiro",
+      "context": "Jiro explaining the Phoenix Pirates' tragic history to Chopper",
+      "timestamp": "15:00"
+    },
+    {
+      "text": "Vigaro... he gave his life so Captain Puzzle could escape. But the Captain has never forgiven himself.",
+      "speaker": "Jiro",
+      "context": "Jiro revealing Vigaro's heroic sacrifice",
+      "timestamp": "16:30"
+    },
+    {
+      "text": "Six hundred million berries... what a perfect gift for Papa!",
+      "speaker": "Accino Family member",
+      "context": "The Accino Family discussing their plan to capture the Straw Hats",
+      "timestamp": "21:00"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "The Dangers of the New World",
+      "description": "The episode emphasizes the terrifying nature of the New World through the Phoenix Pirates' tragic backstory. Even a crew that successfully navigated the Grand Line was devastated by the New World's challenges, foreshadowing the difficulties the Straw Hats will eventually face.",
+      "symbolism": "The Phoenix Pirates' broken ship and injured captain represent the shattered dreams of pirates who underestimated the New World. Their fall from proud crew to servants shows how the New World can break even determined pirates.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Sacrifice and Guilt",
+      "description": "Vigaro's sacrifice to save Puzzle creates a burden of guilt that Puzzle carries. The episode explores how survivor's guilt can be as devastating as physical wounds, with Puzzle unable to forgive himself for living while his vice-captain died.",
+      "symbolism": "Puzzle's bandages represent both his physical injuries and his emotional wounds that haven't healed. His inability to stand represents his loss of will and purpose after failing to protect his crew.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Innovation and Adaptability",
+      "description": "The Thousand Sunny's Soldier Dock System represents Franky's genius and the crew's ability to overcome challenges through innovation. The ship's special features allow them to escape seemingly impossible situations.",
+      "symbolism": "The Soldier Dock System activating symbolizes the crew's growth and their increasing preparedness for the challenges ahead. Unlike the Going Merry, the Sunny is built with advanced systems for the New World.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Compassion Despite Conflict",
+      "description": "Chopper's decision to stay and treat the Phoenix Pirates despite the potential danger demonstrates the Straw Hats' compassionate nature. Even when facing possible enemies, Chopper prioritizes his duty as a doctor.",
+      "symbolism": "Chopper treating the Phoenix Pirates represents the bridge between the two crews and the beginning of their alliance.",
+      "culturalReferences": ["Hippocratic Oath - medical duty above all"]
+    }
+  ],
+  "emotionalTone": ["Tense", "Mysterious", "Tragic", "Adventurous"],
+  "characterSpotlights": [
+    {
+      "characterId": "franky",
+      "role": "Ship's engineer showcasing the Sunny's capabilities",
+      "development": "Franky demonstrates his engineering genius by unveiling the Soldier Dock System Channel 0, showing his dedication to building a ship that can handle any challenge. His pride in the Thousand Sunny's features shines through.",
+      "keyActions": [
+        "Activates the Soldier Dock System Channel 0",
+        "Pilots the Thousand Sunny using the paddle wheel system",
+        "Successfully navigates through the Accino Family's trap",
+        "Tows the Phoenix Pirates' ship to safety"
+      ],
+      "quotes": [
+        "Channel 0... Cola Powered Paddle System!"
+      ]
+    },
+    {
+      "characterId": "chopper",
+      "role": "Doctor and emotional bridge to Phoenix Pirates",
+      "development": "Chopper's commitment to his medical duties takes priority over personal safety. He voluntarily stays with the Phoenix Pirates to treat their wounds, demonstrating the Straw Hats' compassionate nature and setting up the crew's alliance with Puzzle.",
+      "keyActions": [
+        "Treats injured Phoenix Pirates crew members",
+        "Listens to Jiro's story about their past",
+        "Examines Captain Puzzle",
+        "Becomes the emotional connection between the two crews"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "jiro",
+      "role": "Narrator of Phoenix Pirates' tragic history",
+      "development": "Jiro serves as the exposition character who reveals the Phoenix Pirates' backstory. His loyalty to Captain Puzzle and admiration for Vigaro's sacrifice establish him as the crew's emotional core and youngest member.",
+      "keyActions": [
+        "Requests Chopper's help for the crew",
+        "Reveals the Phoenix Pirates' history",
+        "Explains Vigaro's sacrifice",
+        "Leads Chopper to Captain Puzzle"
+      ],
+      "quotes": [
+        "We were once a proud pirate crew... until we reached the New World.",
+        "Vigaro... he gave his life so Captain Puzzle could escape."
+      ]
+    },
+    {
+      "characterId": "puzzle",
+      "role": "Broken captain introduction",
+      "development": "Puzzle is introduced as a severely injured and emotionally broken captain. His introduction establishes him as a tragic figure who lost everything in the New World - his vice-captain, his crew's freedom, and his will to continue.",
+      "keyActions": [
+        "Lies injured in the ship's quarters",
+        "Is examined by Chopper",
+        "Represents the consequences of New World battles"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The entire Ice Hunter Arc is anime-only filler and does not appear in the manga. Episode 327 and the events within it are completely original to the anime.",
+      "episodeTimestamp": "00:00-24:00",
+      "mangaReference": "N/A - Filler Arc",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the first appearance of the Soldier Dock System Channel 0 in the anime, showcasing the Cola Powered Paddle System that would later be replaced by the Rabbit Screw after the timeskip.",
+      "category": "TECHNIQUE",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Thousand_Sunny",
+          "title": "Thousand Sunny - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "fact": "The Ice Hunter Arc is the eighth filler arc in One Piece and spans 10 episodes (326-335), making it the second-longest anime-original arc after the G-8 Arc.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Ice_Hunter_Arc",
+          "title": "Ice Hunter Arc - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 327 aired in Japan on October 21, 2007, during the period between the Water 7 Saga and Thriller Bark arc in the manga, providing anime-original content while the manga built up more material.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_327",
+          "title": "Episode 327 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "fact": "The Straw Hats' combined bounty of 600 million berries referenced in this episode was established in Episode 320, following the Enies Lobby arc. The breakdown includes Luffy (300M), Zoro (120M), Sanji (77M), Robin (80M), Usopp as Sogeking (30M), Nami (16M), Chopper (50), and Franky (44M).",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Bounties/List",
+          "title": "List of Bounties - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "fact": "This episode has a 6.3/10 rating on IMDb, reflecting the generally mixed reception of the Ice Hunter filler arc among fans.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://www.imdb.com/title/tt1130438/",
+          "title": "One Piece Episode 327 - IMDb",
+          "platform": "IMDb",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "fact": "The Ice Hunter Arc was placed between the crew leaving Water 7 and arriving at Thriller Bark, taking advantage of the travel time shown in the manga to insert anime-original content.",
+      "category": "MANGA_ADAPTATION",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

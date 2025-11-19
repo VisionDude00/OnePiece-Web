@@ -1,0 +1,162 @@
+[
+  {
+    "name": {
+      "english": "Accino Family",
+      "japanese": "アッチーノファミリー",
+      "romanized": "Acchīno Famirī"
+    },
+    "crewType": "BOUNTY_HUNTER_GROUP",
+    "captainId": "don-accino",
+    "debutEpisode": 326,
+    "debutChapter": null,
+    "episodeAppearances": [329],
+    "members": [
+      {
+        "characterId": "don-accino",
+        "role": "Patriarch/Leader",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Family head and founder"
+      },
+      {
+        "characterId": "hockera",
+        "role": "Third Son",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Born into the family"
+      },
+      {
+        "characterId": "campacino",
+        "role": "Son (Twin)",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Born into the family"
+      },
+      {
+        "characterId": "brindo",
+        "role": "Son (Twin)",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Born into the family"
+      },
+      {
+        "characterId": "arbell",
+        "role": "Eldest Daughter",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Born into the family"
+      },
+      {
+        "characterId": "lil",
+        "role": "Second Daughter (Youngest)",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Born into the family"
+      },
+      {
+        "characterId": "salchow",
+        "role": "Member (Arbell's Husband)",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Married into the family"
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 329,
+        "eventId": "ep329-event-014",
+        "momentType": "BATTLE_START",
+        "title": "Full-Scale Battle Against Straw Hats",
+        "description": "The Accino Family engages in simultaneous battles with the separated Straw Hat crew members across Hyokaido.",
+        "significance": "Demonstrates the family's coordinated bounty hunting strategy and combat capabilities.",
+        "timestamp": "22:00"
+      }
+    ],
+    "ships": [],
+    "bases": [
+      {
+        "locationId": "lovely-land",
+        "episodeEstablished": 329,
+        "description": "Golden castle headquarters with tropical environment created by Don Accino's powers"
+      }
+    ],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "The Accino Family's symbol featuring their family crest",
+      "episodeFirstSeen": 326,
+      "imageUrl": ""
+    },
+    "mainColor": "",
+    "relationships": {
+      "allies": [],
+      "enemies": ["straw-hat-pirates", "phoenix-pirates"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Phoenix Pirates",
+      "japanese": "フェニックス海賊団",
+      "romanized": "Fenikkusu Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "puzzle",
+    "debutEpisode": 326,
+    "debutChapter": null,
+    "episodeAppearances": [329],
+    "members": [
+      {
+        "characterId": "puzzle",
+        "role": "Captain",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Founded and leads the crew"
+      },
+      {
+        "characterId": "jiro",
+        "role": "Crew Member",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Joined as crew member"
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 329,
+        "eventId": "ep329-event-008",
+        "momentType": "ALLIANCE",
+        "title": "Fighting Alongside Straw Hats",
+        "description": "Phoenix Pirates fight alongside Luffy and Chopper against Brindo, demonstrating their temporary alliance against the Accino Family.",
+        "significance": "Shows the crew working together with the Straw Hats toward a common goal of defeating the Accino Family and reclaiming their flags.",
+        "timestamp": "14:30"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Phoenix Pirates' Ship",
+        "episodeAcquired": null,
+        "episodeLost": null,
+        "description": "A ship with a red phoenix figurehead and a Jolly Roger featuring purple wings, claws, and fire emblem."
+      }
+    ],
+    "bases": [],
+    "totalBountyProgression": [
+      {
+        "totalBounty": 100000000,
+        "episodeNumber": 326,
+        "memberBounties": {}
+      }
+    ],
+    "jollyRoger": {
+      "description": "A skull and crossbones with purple wings, claws, and a fire emblem symbolizing a phoenix",
+      "episodeFirstSeen": 326,
+      "imageUrl": ""
+    },
+    "mainColor": "#8B008B",
+    "relationships": {
+      "allies": ["straw-hat-pirates"],
+      "enemies": ["accino-family"],
+      "parentOrganization": null
+    }
+  }
+]

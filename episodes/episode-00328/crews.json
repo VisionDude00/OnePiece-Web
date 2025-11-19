@@ -1,0 +1,213 @@
+[
+  {
+    "id": "phoenix-pirates",
+    "name": {
+      "english": "Phoenix Pirates",
+      "japanese": "フェニックス海賊団",
+      "romanized": "Fenikkusu Kaizokudan"
+    },
+    "debutEpisode": 326,
+    "debutChapter": null,
+    "episodeAppearances": [328],
+    "crewType": "PIRATE_CREW",
+    "captainId": "puzzle",
+    "members": [
+      {
+        "characterId": "puzzle",
+        "role": "Captain",
+        "joinedEpisode": null,
+        "leftEpisode": null,
+        "status": "ACTIVE"
+      },
+      {
+        "characterId": "vigaro",
+        "role": "First Mate/Vice-Captain",
+        "joinedEpisode": null,
+        "leftEpisode": 328,
+        "status": "DECEASED"
+      },
+      {
+        "characterId": "jiro",
+        "role": "Crew Member",
+        "joinedEpisode": null,
+        "leftEpisode": null,
+        "status": "ACTIVE"
+      },
+      {
+        "characterId": "stansen",
+        "role": "Crew Member",
+        "joinedEpisode": null,
+        "leftEpisode": null,
+        "status": "ACTIVE"
+      }
+    ],
+    "flagDescription": "A Jolly Roger featuring a phoenix design, stolen by the Accino Family",
+    "shipName": "Phoenix Pirates' Ship",
+    "totalBounty": 100000000,
+    "status": "ACTIVE",
+    "territory": null,
+    "keyMoments": [
+      {
+        "episodeNumber": 328,
+        "eventId": "ep328-event-004",
+        "momentType": "BACKSTORY_REVEAL",
+        "title": "Phoenix Pirates' Defeat in the New World",
+        "description": "Through flashback, the crew's devastating defeat in the New World is revealed, showing how they were attacked by a powerful enemy and forced to flee.",
+        "significance": "Establishes the traumatic event that broke the crew's spirit and led to them working for the Accino Family.",
+        "timestamp": "10:00"
+      },
+      {
+        "episodeNumber": 328,
+        "eventId": "ep328-event-005",
+        "momentType": "DEATH",
+        "title": "Loss of First Mate Vigaro",
+        "description": "Vigaro sacrifices himself to save the crew during their escape from the New World, dying to disable the enemy ship's rudder.",
+        "significance": "Vigaro's death is the core traumatic event that destroys Puzzle's confidence and will to continue as pirates.",
+        "timestamp": "12:30"
+      },
+      {
+        "episodeNumber": 328,
+        "eventId": "ep328-event-006",
+        "momentType": "MAJOR_DECISION",
+        "title": "Puzzle Declares They Are No Longer Pirates",
+        "description": "Captain Puzzle announces to his crew that they will no longer pursue their pirate dreams and will continue working for the Accino Family.",
+        "significance": "Represents the lowest point for the crew, having lost their identity and purpose as pirates.",
+        "timestamp": "14:45"
+      }
+    ],
+    "alliances": [],
+    "rivalries": [
+      {
+        "targetCrewId": "accino-family",
+        "relationshipType": "SUBORDINATE",
+        "description": "The Phoenix Pirates were defeated by the Accino Family and forced to work for them as subordinates.",
+        "episodeEstablished": 328,
+        "status": "ACTIVE"
+      }
+    ],
+    "goals": [
+      {
+        "goal": "Reach the New World and find the One Piece",
+        "status": "ABANDONED",
+        "establishedEpisode": 328,
+        "achievedEpisode": null,
+        "abandonedEpisode": 328
+      }
+    ],
+    "jollyRogerStolen": true,
+    "stolenByCrewId": "accino-family",
+    "reveals": [
+      {
+        "infoType": "BACKSTORY",
+        "information": "Attempted to sail in the New World but were defeated by a powerful enemy",
+        "episodeRevealed": 328,
+        "severity": "MAJOR"
+      },
+      {
+        "infoType": "STATUS",
+        "information": "Currently working as subordinates to the Accino Family bounty hunters",
+        "episodeRevealed": 328,
+        "severity": "MAJOR"
+      },
+      {
+        "infoType": "LOSS",
+        "information": "Lost their first mate Vigaro during their defeat in the New World",
+        "episodeRevealed": 328,
+        "severity": "CRITICAL"
+      },
+      {
+        "infoType": "CAPTAIN_DECISION",
+        "information": "Captain Puzzle has declared they are no longer pirates",
+        "episodeRevealed": 328,
+        "severity": "MAJOR"
+      }
+    ]
+  },
+  {
+    "id": "accino-family",
+    "name": {
+      "english": "Accino Family",
+      "japanese": "アッチーノファミリー",
+      "romanized": "Acchīno Famirī"
+    },
+    "debutEpisode": 326,
+    "debutChapter": null,
+    "episodeAppearances": [328],
+    "crewType": "BOUNTY_HUNTER_ORGANIZATION",
+    "captainId": "don-accino",
+    "members": [],
+    "flagDescription": null,
+    "shipName": null,
+    "totalBounty": null,
+    "status": "ACTIVE",
+    "territory": "Hyokaido (Lovely Land)",
+    "keyMoments": [
+      {
+        "episodeNumber": 328,
+        "eventId": "ep328-event-013",
+        "momentType": "TREASURE_DISCOVERY",
+        "title": "Steals Straw Hat Jolly Roger",
+        "description": "The Accino Family successfully steals the Straw Hat Pirates' flag using a little girl on a flying fish.",
+        "significance": "Sets up the main conflict of the arc as the Straw Hats must recover their stolen flag.",
+        "timestamp": "23:30"
+      },
+      {
+        "episodeNumber": 328,
+        "eventId": "ep328-event-014",
+        "momentType": "WORLD_LORE",
+        "title": "Pursues Phoenix Pirates and Straw Hats",
+        "description": "The Accino Family learns Puzzle has survived and begins pursuing both pirate crews for their bounties.",
+        "significance": "Establishes the Accino Family as active threats to both crews.",
+        "timestamp": "24:00"
+      }
+    ],
+    "alliances": [],
+    "rivalries": [
+      {
+        "targetCrewId": "straw-hat-pirates",
+        "relationshipType": "ENEMY",
+        "description": "The Accino Family is hunting the Straw Hat Pirates and has stolen their flag.",
+        "episodeEstablished": 328,
+        "status": "ACTIVE"
+      },
+      {
+        "targetCrewId": "phoenix-pirates",
+        "relationshipType": "MASTER",
+        "description": "The Accino Family controls the Phoenix Pirates as subordinates after defeating them.",
+        "episodeEstablished": 328,
+        "status": "ACTIVE"
+      }
+    ],
+    "goals": [
+      {
+        "goal": "Capture pirates and collect their flags as trophies",
+        "status": "ACTIVE",
+        "establishedEpisode": 328,
+        "achievedEpisode": null,
+        "abandonedEpisode": null
+      }
+    ],
+    "jollyRogerStolen": false,
+    "stolenByCrewId": null,
+    "reveals": [
+      {
+        "infoType": "OPERATION",
+        "information": "Uses controlled icebergs to trap ships and steal pirate flags",
+        "episodeRevealed": 328,
+        "severity": "MINOR"
+      },
+      {
+        "infoType": "TERRITORY",
+        "information": "Controls an area filled with moving icebergs leading to their base",
+        "episodeRevealed": 328,
+        "severity": "MINOR"
+      },
+      {
+        "infoType": "GOAL",
+        "information": "Seeking to capture both the Straw Hat Pirates and Phoenix Pirates for bounties",
+        "episodeRevealed": 328,
+        "severity": "MINOR"
+      }
+    ]
+  }
+]
