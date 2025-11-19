@@ -1,0 +1,153 @@
+[
+  {
+    "name": {
+      "english": "Water 7",
+      "japanese": "ウォーターセブン",
+      "romanized": "Wōtā Sebun"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "PARADISE",
+    "islandName": "Water 7",
+    "debutEpisode": 229,
+    "debutChapter": 323,
+    "description": "A city built on water known for its shipbuilding industry and home to the legendary Galley-La Company. The Straw Hats depart from this island in episode 323.",
+    "episodeAppearances": [323],
+    "keyEvents": [
+      {
+        "episodeNumber": 323,
+        "eventId": "ep323-event-001",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Garp Arrives at Water 7",
+        "description": "Vice Admiral Garp arrives at Water 7's coast with Marine forces to capture the Straw Hat Pirates.",
+        "significance": "Forces the Straw Hats' hasty departure from the island.",
+        "timestamp": "03:15"
+      },
+      {
+        "episodeNumber": 323,
+        "eventId": "ep323-event-002",
+        "eventType": "LOCATION_DEPARTURE",
+        "title": "Straw Hats Depart Water 7",
+        "description": "The Straw Hat Pirates officially depart from Water 7 aboard the Thousand Sunny, marking the end of the Water 7 saga.",
+        "significance": "Concludes one of the most significant arcs in One Piece, with the crew leaving with a new ship and a new shipwright.",
+        "timestamp": "05:30"
+      },
+      {
+        "episodeNumber": 323,
+        "eventId": "ep323-event-014",
+        "eventType": "LOCATION_DEPARTURE",
+        "title": "Final Departure from Water 7",
+        "description": "The Thousand Sunny successfully escapes from Garp's bombardment and sails away from Water 7.",
+        "significance": "The definitive end of the Water 7 saga.",
+        "timestamp": "23:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [],
+    "parentLocation": null,
+    "childLocations": ["scrap-island"],
+    "relatedCharacters": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky", "garp", "aokiji", "iceburg"],
+    "relatedCrews": ["straw-hat-pirates", "marines", "galley-la-company", "franky-family"],
+    "relatedArcs": ["Post-Enies Lobby"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Scrap Island",
+      "japanese": "スクラップ島",
+      "romanized": "Sukurappu Tō"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "PARADISE",
+    "islandName": "Scrap Island",
+    "debutEpisode": 233,
+    "debutChapter": null,
+    "description": "An island near Water 7 where Franky's hideout was located. Usopp runs along this island's shore while desperately trying to catch up with the departing Thousand Sunny.",
+    "episodeAppearances": [323],
+    "keyEvents": [
+      {
+        "episodeNumber": 323,
+        "eventId": "ep323-event-008",
+        "eventType": "CHARACTER_DEVELOPMENT",
+        "title": "Usopp's Desperate Run",
+        "description": "Usopp runs desperately along Scrap Island's shore, chasing the Thousand Sunny and struggling with his pride.",
+        "significance": "The location of Usopp's internal transformation from prideful to humble.",
+        "timestamp": "16:20"
+      },
+      {
+        "episodeNumber": 323,
+        "eventId": "ep323-event-009",
+        "eventType": "CREW_JOIN",
+        "title": "Usopp's Apology from Scrap Island",
+        "description": "Usopp drops to his knees on Scrap Island and screams his heartfelt apology across the water to the Thousand Sunny.",
+        "significance": "The location of one of the most emotional moments in One Piece.",
+        "timestamp": "18:15"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [],
+    "parentLocation": "water-7",
+    "childLocations": [],
+    "relatedCharacters": ["usopp", "franky"],
+    "relatedCrews": ["straw-hat-pirates", "franky-family"],
+    "relatedArcs": ["Post-Enies Lobby"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Thousand Sunny",
+      "japanese": "サウザンドサニー号",
+      "romanized": "Sauzando Sanī-gō"
+    },
+    "locationType": "SHIP",
+    "seaRegion": "PARADISE",
+    "islandName": null,
+    "debutEpisode": 321,
+    "debutChapter": 436,
+    "description": "The Straw Hat Pirates' second ship, built by Franky and the Galley-La Company from Adam Wood. This episode marks its first voyage with the complete crew.",
+    "episodeAppearances": [323],
+    "keyEvents": [
+      {
+        "episodeNumber": 323,
+        "eventId": "ep323-event-002",
+        "eventType": "LOCATION_DEPARTURE",
+        "title": "Thousand Sunny's Departure",
+        "description": "The Thousand Sunny begins its journey from Water 7 with the Straw Hat crew (minus Usopp initially).",
+        "significance": "The ship's first major voyage after being christened.",
+        "timestamp": "05:30"
+      },
+      {
+        "episodeNumber": 323,
+        "eventId": "ep323-event-010",
+        "eventType": "CREW_JOIN",
+        "title": "Usopp Pulled Aboard",
+        "description": "Luffy stretches his arm from the Thousand Sunny to pull Usopp aboard, completing the crew.",
+        "significance": "The first time all post-Enies Lobby crew members are together on the Thousand Sunny.",
+        "timestamp": "19:30"
+      },
+      {
+        "episodeNumber": 323,
+        "eventId": "ep323-event-012",
+        "eventType": "BATTLE_ONGOING",
+        "title": "Defense Against Garp",
+        "description": "The crew defends the Thousand Sunny from Garp's Genkotsu Meteor bombardment.",
+        "significance": "The ship's first battle and test of its durability.",
+        "timestamp": "21:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 321,
+        "episodeEnd": "present",
+        "reason": "Ship completed and currently in use"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Post-Enies Lobby"],
+    "images": []
+  }
+]

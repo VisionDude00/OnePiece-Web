@@ -1,0 +1,581 @@
+{
+  "episodeNumber": 323,
+  "episodeTitle": "Departing the City of Water! Usopp Mans Up and Brings Closure to the Duel!",
+  "description": "The Straw Hat Pirates prepare to depart Water 7 on their new ship when Vice Admiral Garp arrives to attack them. Meanwhile, Usopp must confront his pride and apologize to rejoin the crew after his duel with Luffy.",
+  "airDate": "2007-09-09",
+  "airDateJapan": "2007-09-09",
+  "airDateUS": "2015-11-14",
+  "arcName": "Post-Enies Lobby",
+  "sagaName": "Water 7 Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Crazy Rainbow",
+    "artist": "Tackey & Tsubasa",
+    "episodeRange": [284, 325]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Katsumi Tokoro",
+    "director": "Katsumi Tokoro",
+    "writer": "Yoshiyuki Suga",
+    "animationSupervisor": "Masahiro Shimanuki",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Monkey D. Garp",
+        "actor": "Hiroshi Naka"
+      },
+      {
+        "character": "Kuzan (Aokiji)",
+        "actor": "Takehito Koyasu"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Monkey D. Garp",
+        "actor": "R Bruce Elliott"
+      },
+      {
+        "character": "Kuzan (Aokiji)",
+        "actor": "Jason Douglas"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep323-event-001",
+      "episodeNumber": 323,
+      "timestamp": "03:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Garp Arrives at Water 7",
+      "description": "Vice Admiral Garp arrives at Water 7's coast with his Marine forces to capture the Straw Hat Pirates, despite having promised not to pursue them. Admiral Aokiji observes from a distance.",
+      "significance": "Forces the Straw Hats to hasten their departure and sets up the dramatic chase sequence that serves as the backdrop for Usopp's return.",
+      "characterIds": ["garp", "aokiji"],
+      "locationIds": ["water-7"],
+      "crewIds": ["marines"],
+      "quotes": [
+        {
+          "text": "I'm here to capture the Straw Hats!",
+          "speaker": "Garp",
+          "context": "Garp announces his intention despite his earlier promise"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [313, 314],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [313]
+    },
+    {
+      "id": "ep323-event-002",
+      "episodeNumber": 323,
+      "timestamp": "05:30",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MAJOR",
+      "title": "Thousand Sunny Begins Departure from Water 7",
+      "description": "The Straw Hat Pirates begin their departure from Water 7 aboard their newly built ship, the Thousand Sunny, saying farewell to the Franky Family, Iceburg, and the shipwrights of Galley-La Company.",
+      "significance": "Marks the official end of the Water 7 arc and the beginning of the crew's journey with their new ship.",
+      "characterIds": ["luffy", "zoro", "nami", "sanji", "chopper", "robin", "franky", "iceburg"],
+      "locationIds": ["water-7", "thousand-sunny"],
+      "crewIds": ["straw-hat-pirates", "franky-family", "galley-la-company"],
+      "quotes": [
+        {
+          "text": "Thank you for everything! We'll never forget you!",
+          "speaker": "Luffy",
+          "context": "Luffy's farewell to the people of Water 7"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [321, 322],
+      "payoffInEpisodes": [324],
+      "callbacksToEpisodes": [229, 321]
+    },
+    {
+      "id": "ep323-event-003",
+      "episodeNumber": 323,
+      "timestamp": "07:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Garp Uses Genkotsu Meteor",
+      "description": "Vice Admiral Garp demonstrates his superhuman strength by hurling cannonballs at the Thousand Sunny with his bare hands, creating an attack more powerful than actual cannon fire that he calls 'Genkotsu Meteor' (Fist Meteor).",
+      "significance": "First demonstration of Garp's incredible physical power and establishes him as a formidable threat even in his old age.",
+      "characterIds": ["garp"],
+      "locationIds": ["water-7"],
+      "devilFruitIds": [],
+      "quotes": [
+        {
+          "text": "Genkotsu Meteor!",
+          "speaker": "Garp",
+          "context": "Garp announces his attack while throwing cannonballs"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep323-event-004",
+      "episodeNumber": 323,
+      "timestamp": "08:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Garp's Superhuman Strength Displayed",
+      "description": "Garp demonstrates that he can throw cannonballs with greater force than a cannon can fire them, using his bare hands. The cannonballs travel at incredible speed and impact the Thousand Sunny with devastating force.",
+      "significance": "Establishes Garp's legendary status and physical capabilities that earned him the title 'Garp the Fist' and explains how he could corner Gol D. Roger.",
+      "characterIds": ["garp"],
+      "locationIds": ["water-7"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [313]
+    },
+    {
+      "id": "ep323-event-005",
+      "episodeNumber": 323,
+      "timestamp": "10:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Usopp Arrives at the Shore",
+      "description": "Usopp arrives at the shore of Water 7, seeing the Thousand Sunny departing. He realizes he's being left behind and begins to run after the ship.",
+      "significance": "The beginning of Usopp's emotional journey to rejoin the crew and resolve his conflict with Luffy.",
+      "characterIds": ["usopp"],
+      "locationIds": ["water-7"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [236, 237, 309],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [236, 237]
+    },
+    {
+      "id": "ep323-event-006",
+      "episodeNumber": 323,
+      "timestamp": "11:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Flashback to Zoro's Ultimatum",
+      "description": "A flashback reveals that Zoro had insisted to the crew that Usopp could only rejoin if he properly apologized for his actions during their duel and when he left the crew. Zoro threatened to leave himself if they accepted Usopp back without an apology.",
+      "significance": "Establishes the conditions for Usopp's return and shows Zoro's principles about respecting the captain's authority and maintaining crew discipline.",
+      "characterIds": ["zoro", "luffy", "nami", "sanji", "chopper", "robin"],
+      "locationIds": ["water-7"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "If we let him back without an apology, I'll leave the crew. We can't let someone disrespect our captain like that and just come back like nothing happened.",
+          "speaker": "Zoro",
+          "context": "Zoro's ultimatum about Usopp's return"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [236, 237],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [236, 237]
+    },
+    {
+      "id": "ep323-event-007",
+      "episodeNumber": 323,
+      "timestamp": "13:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Crew Ignores Usopp's Initial Attempts",
+      "description": "Usopp calls out to the crew, making excuses and trying to act casual about returning, but the crew deliberately ignores him per Zoro's instructions. Luffy and Zoro pretend not to hear him at all.",
+      "significance": "Shows the crew's solidarity in enforcing the conditions for Usopp's return and forces Usopp to confront his pride.",
+      "characterIds": ["usopp", "luffy", "zoro", "nami", "sanji", "chopper", "robin", "franky"],
+      "locationIds": ["water-7", "thousand-sunny"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "Hey guys! I was just kidding about that whole duel thing! We're still friends, right?",
+          "speaker": "Usopp",
+          "context": "Usopp's initial attempt to rejoin without apologizing"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep323-event-008",
+      "episodeNumber": 323,
+      "timestamp": "16:20",
+      "eventType": "CHARACTER_DEVELOPMENT",
+      "severity": "MAJOR",
+      "title": "Usopp's Internal Struggle",
+      "description": "As the ship continues to sail away, Usopp runs along Scrap Island desperately trying to catch up. He struggles internally with his pride versus his desire to return to his friends.",
+      "significance": "Represents Usopp's character growth as he realizes that his pride is less important than his bonds with the crew.",
+      "characterIds": ["usopp"],
+      "locationIds": ["scrap-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [236],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [236, 237]
+    },
+    {
+      "id": "ep323-event-009",
+      "episodeNumber": 323,
+      "timestamp": "18:15",
+      "eventType": "CREW_JOIN",
+      "severity": "CRITICAL",
+      "title": "Usopp's Heartfelt Apology",
+      "description": "With tears streaming down his face, Usopp drops to his knees and screams his apology to the ship. He admits he was selfish and stubborn, wishes he could take back what he said, and begs to be allowed back into the crew.",
+      "significance": "One of the most emotional moments in the series. Usopp overcomes his pride and ego to genuinely apologize, showing true character growth. This resolves the major conflict from the Water 7 arc.",
+      "characterIds": ["usopp", "luffy", "zoro", "nami", "sanji", "chopper", "robin", "franky"],
+      "locationIds": ["scrap-island", "thousand-sunny"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "I'M SORRY! I was wrong! I was selfish and stubborn! I wish I could take back everything I said when I left! Please... let me come back! I want to be with you guys again!",
+          "speaker": "Usopp",
+          "context": "Usopp's tearful apology to the crew"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [236, 237, 309],
+      "payoffInEpisodes": [324],
+      "callbacksToEpisodes": [236, 237]
+    },
+    {
+      "id": "ep323-event-010",
+      "episodeNumber": 323,
+      "timestamp": "19:30",
+      "eventType": "CREW_JOIN",
+      "severity": "CRITICAL",
+      "title": "Luffy Accepts Usopp Back",
+      "description": "After hearing Usopp's genuine apology, Luffy stops the ship and stretches his rubber arm across the water to the shore. He screams for Usopp to grab on, pulling him back onto the Thousand Sunny as both cry tears of joy.",
+      "significance": "The emotional reunion of the crew after the Water 7 conflict. All crew members are overcome with emotion as their family is complete again.",
+      "characterIds": ["luffy", "usopp", "zoro", "nami", "sanji", "chopper", "robin", "franky"],
+      "locationIds": ["thousand-sunny", "scrap-island"],
+      "crewIds": ["straw-hat-pirates"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [
+        {
+          "text": "USOPP! GRAB ON!",
+          "speaker": "Luffy",
+          "context": "Luffy reaching out to bring Usopp back"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [236, 237, 309],
+      "payoffInEpisodes": [324],
+      "callbacksToEpisodes": [1, 17, 236, 237]
+    },
+    {
+      "id": "ep323-event-011",
+      "episodeNumber": 323,
+      "timestamp": "20:45",
+      "eventType": "EMOTIONAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Crew's Emotional Reaction to Reunion",
+      "description": "The entire crew reacts emotionally to Usopp's return. Chopper, Robin, and Nami are shown with tears of joy, while even Zoro shows a slight smile of approval. The crew celebrates being complete again.",
+      "significance": "Demonstrates the deep bonds between the Straw Hat crew members and resolves one of the most emotionally heavy arcs in the series.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky"],
+      "locationIds": ["thousand-sunny"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep323-event-012",
+      "episodeNumber": 323,
+      "timestamp": "21:30",
+      "eventType": "BATTLE_ONGOING",
+      "severity": "MAJOR",
+      "title": "Continuing Defense Against Garp's Attack",
+      "description": "While celebrating Usopp's return, the crew must continue defending the Thousand Sunny from Garp's relentless cannonball barrage. They work together to evade and deflect the attacks.",
+      "significance": "Shows the crew working together as a complete unit for the first time with both Franky and the returned Usopp.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky", "garp"],
+      "locationIds": ["thousand-sunny", "water-7"],
+      "crewIds": ["straw-hat-pirates", "marines"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [324],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep323-event-013",
+      "episodeNumber": 323,
+      "timestamp": "22:15",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Aokiji Observes Garp",
+      "description": "Admiral Aokiji is shown observing Garp's pursuit of the Straw Hats from a distance, ensuring that Garp doesn't go too far in his attack on his grandson's crew.",
+      "significance": "Hints at the complex relationship between Garp and the Marines, and foreshadows future conflicts of interest.",
+      "characterIds": ["aokiji", "garp"],
+      "locationIds": ["water-7"],
+      "crewIds": ["marines"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [227, 228, 313],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [227, 228, 313]
+    },
+    {
+      "id": "ep323-event-014",
+      "episodeNumber": 323,
+      "timestamp": "23:00",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MAJOR",
+      "title": "Straw Hats Successfully Escape",
+      "description": "The Thousand Sunny successfully escapes from Garp's bombardment and sails away from Water 7. The crew stands together on deck as they leave the island behind.",
+      "significance": "Marks the definitive end of the Water 7 saga and the beginning of the crew's next adventure with all members united.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky"],
+      "locationIds": ["thousand-sunny", "water-7"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [324],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["genkotsu-meteor"]
+  },
+  "episodeRelationships": {
+    "setupFor": [324, 325],
+    "payoffFrom": [236, 237, 309, 313, 321, 322],
+    "thematicLinks": [236, 237, 309]
+  },
+  "quotes": [
+    {
+      "text": "If we let him back without an apology, I'll leave the crew. We can't let someone disrespect our captain like that and just come back like nothing happened.",
+      "speaker": "Zoro",
+      "context": "Zoro's ultimatum about respecting Luffy's authority",
+      "timestamp": "11:30"
+    },
+    {
+      "text": "I'M SORRY! I was wrong! I was selfish and stubborn! I wish I could take back everything I said when I left! Please... let me come back! I want to be with you guys again!",
+      "speaker": "Usopp",
+      "context": "Usopp's tearful apology to rejoin the crew",
+      "timestamp": "18:15"
+    },
+    {
+      "text": "USOPP! GRAB ON!",
+      "speaker": "Luffy",
+      "context": "Luffy reaching out to bring Usopp back to the crew",
+      "timestamp": "19:30"
+    },
+    {
+      "text": "Genkotsu Meteor!",
+      "speaker": "Garp",
+      "context": "Garp's signature cannonball throwing attack",
+      "timestamp": "07:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Pride vs. Humility",
+      "description": "The episode explores how Usopp must overcome his pride and ego to genuinely apologize and rejoin his friends. His journey from making excuses to dropping to his knees in genuine contrition represents significant character growth.",
+      "symbolism": "Usopp running along the shore represents his desperate attempt to catch up with his crew both literally and emotionally.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Family and Forgiveness",
+      "description": "The Straw Hat crew's decision to enforce an apology shows that true family relationships require accountability, but also demonstrates their capacity for forgiveness and unconditional love once genuine remorse is shown.",
+      "symbolism": "Luffy's rubber arm stretching across the water to pull Usopp back symbolizes the crew's willingness to reach out and bring back those who sincerely want to return.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Leadership and Respect",
+      "description": "Zoro's insistence on an apology before Usopp's return demonstrates the importance of respecting the captain's authority and maintaining discipline within a crew structure.",
+      "symbolism": "",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Loyalty and Brotherhood",
+      "description": "Despite their pain at ignoring Usopp initially, the crew's adherence to Zoro's conditions shows their loyalty to each other and their understanding that true reconciliation requires genuine accountability.",
+      "symbolism": "The completed crew standing together on the Thousand Sunny represents their unity and strength as a family.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Emotional", "Triumphant", "Bittersweet", "Heartwarming", "Tense"],
+  "characterSpotlights": [
+    {
+      "characterId": "usopp",
+      "role": "Central protagonist of the episode",
+      "development": "Usopp undergoes significant character development, learning to swallow his pride and genuinely apologize for his actions. This represents his growth from an insecure person who uses bravado to mask his feelings to someone who can be vulnerable and honest with his emotions.",
+      "keyActions": [
+        "Arrives at the shore and sees the ship leaving",
+        "Initially tries to rejoin without apologizing",
+        "Runs desperately along Scrap Island",
+        "Drops to his knees and gives a heartfelt apology",
+        "Is pulled back onto the ship by Luffy",
+        "Rejoins the Straw Hat Pirates"
+      ],
+      "quotes": ["I'M SORRY! I was wrong! I was selfish and stubborn! I wish I could take back everything I said when I left! Please... let me come back!"]
+    },
+    {
+      "characterId": "zoro",
+      "role": "Enforcer of crew discipline",
+      "development": "Zoro demonstrates his role as the crew's moral compass and enforcer of discipline. His insistence on an apology shows his deep respect for Luffy's position as captain and his understanding of what it takes to maintain a functional crew.",
+      "keyActions": [
+        "Sets the conditions for Usopp's return (flashback)",
+        "Threatens to leave if Usopp is accepted back without apology",
+        "Deliberately ignores Usopp's initial attempts to return",
+        "Shows subtle approval when Usopp genuinely apologizes"
+      ],
+      "quotes": ["If we let him back without an apology, I'll leave the crew. We can't let someone disrespect our captain like that and just come back like nothing happened."]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Captain and friend",
+      "development": "Luffy shows maturity in following Zoro's advice and enforcing discipline, but also shows his compassion by immediately accepting Usopp once he hears a genuine apology.",
+      "keyActions": [
+        "Ignores Usopp's initial attempts per Zoro's instructions",
+        "Stops the ship when Usopp genuinely apologizes",
+        "Stretches his arm to pull Usopp back",
+        "Welcomes Usopp back with tears of joy"
+      ],
+      "quotes": ["USOPP! GRAB ON!"]
+    },
+    {
+      "characterId": "garp",
+      "role": "Antagonistic force and plot catalyst",
+      "development": "Garp demonstrates his incredible power while showing the internal conflict of pursuing his grandson. His attack forces the departure that serves as the backdrop for Usopp's return.",
+      "keyActions": [
+        "Arrives at Water 7 despite his promise",
+        "Demonstrates his superhuman strength",
+        "Uses Genkotsu Meteor to bombard the Thousand Sunny",
+        "Provides the urgency for the crew's departure"
+      ],
+      "quotes": ["Genkotsu Meteor!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends the chase sequence with Garp and adds additional moments of the crew defending against his cannonballs.",
+      "episodeTimestamp": "07:00-22:00",
+      "mangaReference": "Chapter 438",
+      "type": "ANIME_EXTENDED_SCENE"
+    },
+    {
+      "difference": "The anime adds more emotional reaction shots from each crew member during Usopp's apology and return.",
+      "episodeTimestamp": "18:15-20:45",
+      "mangaReference": "Chapter 438",
+      "type": "ANIME_EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode is considered one of the most emotional in the entire series, with Usopp's apology scene being frequently cited as a tearjerker moment by fans.",
+      "category": "FAN_RECEPTION",
+      "sources": [
+        {
+          "url": "https://theadultswimsquad.wordpress.com/2015/11/15/one-piece-episode-323-recap/",
+          "title": "One Piece Episode 323 Recap",
+          "platform": "Blog",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "fact": "Zoro's speech about not accepting Usopp back without an apology is one of his most memorable character moments and demonstrates his role as the crew's vice-captain figure.",
+      "category": "CHARACTER",
+      "sources": []
+    },
+    {
+      "fact": "The episode title in Japanese uses the word 'Kejime' (ケジメ) which means 'settling accounts' or 'taking responsibility', emphasizing the theme of Usopp taking responsibility for his actions.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "Garp's Genkotsu Meteor attack is first shown in this episode and becomes one of his signature techniques.",
+      "category": "ABILITIES",
+      "sources": []
+    },
+    {
+      "fact": "This episode marks the first time the entire post-Enies Lobby crew (including Franky and the returned Usopp) work together aboard the Thousand Sunny.",
+      "category": "CREW",
+      "sources": []
+    },
+    {
+      "fact": "The episode aired on September 9, 2007, in Japan, nearly 8 years before its Toonami broadcast in the United States on November 14, 2015.",
+      "category": "BROADCAST",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_323",
+          "title": "Episode 323",
+          "platform": "One Piece Wiki",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
