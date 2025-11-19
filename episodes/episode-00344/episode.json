@@ -1,0 +1,631 @@
+{
+  "episodeNumber": 344,
+  "episodeTitle": "Feast of the Zombie Song! The Bell of the Night Raid is a Sound of Darkness",
+  "description": "The Straw Hats split up to explore Hogback's mansion. Nami confronts Hogback about his zombie experiments, leading to a fierce attack by General Zombie Ryuma. Meanwhile, Luffy's group battles through the mansion's defenses as the zombies of Thriller Bark prepare for their grand Night Raid celebration.",
+  "airDate": "2008-02-24",
+  "airDateJapan": "2008-02-24",
+  "airDateUS": "2014-09-30",
+  "arcName": "Thriller Bark",
+  "sagaName": "Thriller Bark Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Jungle P",
+    "artist": "5050",
+    "episodeRange": [326, 372]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Takeo Ide",
+    "director": "Hiroyuki Satō",
+    "storyboard": "Naotoshi Shida",
+    "screenplay": "Hirohiko Kamisaka",
+    "artDirection": ["Miho Shiraishi", "Hiromitsu Shiozaki"],
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Dr. Hogback",
+        "actor": "Hideyuki Hori"
+      },
+      {
+        "character": "Victoria Cindry",
+        "actor": "Rumi Kasahara"
+      },
+      {
+        "character": "Ryuma (Zombie)",
+        "actor": "Cho"
+      },
+      {
+        "character": "Absalom",
+        "actor": "Hiroaki Miura"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep344-event-001",
+      "episodeNumber": 344,
+      "timestamp": "03:45",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Nami Confronts Hogback About Zombie Creation",
+      "description": "Nami reveals to Hogback that she and her companions have discovered evidence of his zombie experiments in Cindry's private quarters. She confronts him about the truth behind his work with the undead.",
+      "significance": "This moment reveals to the Straw Hats the full extent of Hogback's betrayal of medical ethics and his cooperation with Gecko Moria in creating zombies.",
+      "characterIds": ["nami", "hogback", "usopp", "chopper"],
+      "locationIds": ["hogbacks-lab"],
+      "quotes": [
+        {
+          "text": "We found evidence in Cindry's quarters. You're creating zombies!",
+          "speaker": "Nami",
+          "context": "Nami confronting Hogback about his unethical experiments"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [340, 341, 342, 343],
+      "payoffInEpisodes": [345, 346],
+      "callbacksToEpisodes": [340]
+    },
+    {
+      "id": "ep344-event-002",
+      "episodeNumber": 344,
+      "timestamp": "04:20",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Cindry's Death Revealed",
+      "description": "It is revealed that Victoria Cindry, the famous stage actress, died approximately 10-12 years ago after falling off stage. Hogback had proposed to her while she was alive, but she rejected him because she had a fiancé.",
+      "significance": "This backstory explains Hogback's obsession with Cindry and his motivation for joining Gecko Moria—to resurrect the woman he loved, even if only as a zombie.",
+      "characterIds": ["cindry", "hogback", "nami"],
+      "locationIds": ["hogbacks-lab"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [340],
+      "payoffInEpisodes": [362],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep344-event-003",
+      "episodeNumber": 344,
+      "timestamp": "05:15",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Hogback Orders Attack on Straw Hats",
+      "description": "Enraged that his secret laboratory and Cindry's quarters have been discovered, Hogback orders his bodyguard Ryuma and servant Cindry to kill Nami, Usopp, and Chopper.",
+      "significance": "This marks the beginning of combat between the Straw Hats and Hogback's zombie forces, escalating the Thriller Bark conflict.",
+      "characterIds": ["hogback", "ryuma-zombie", "cindry", "nami", "usopp", "chopper"],
+      "locationIds": ["hogbacks-lab"],
+      "quotes": [
+        {
+          "text": "It doesn't matter what you saw! The Night Attack is about to begin. Cindry! Ryuma! Kill them!",
+          "speaker": "Hogback",
+          "context": "Hogback ordering his zombies to eliminate the intruders"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [343],
+      "payoffInEpisodes": [345, 362],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep344-event-004",
+      "episodeNumber": 344,
+      "timestamp": "06:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "General Zombie Ryuma Enters the Lab",
+      "description": "Ryuma, a General Zombie samurai wielding the legendary blade Shusui, walks into Hogback's laboratory. He laughs like Brook and makes perverted comments about Nami despite having no eyes, revealing he possesses Brook's shadow.",
+      "significance": "Introduces one of the most powerful zombies on Thriller Bark, whose body belongs to the legendary Wano Country samurai who once slayed a dragon. This is the first time viewers see Brook's shadow in action through another body.",
+      "characterIds": ["ryuma-zombie", "nami", "usopp", "chopper", "hogback"],
+      "locationIds": ["hogbacks-lab"],
+      "quotes": [
+        {
+          "text": "What a beautiful lady! Even without eyes, I can appreciate such beauty!",
+          "speaker": "Ryuma",
+          "context": "Ryuma displaying Brook's personality traits despite being a different person"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [345, 348, 362],
+      "callbacksToEpisodes": [337, 338]
+    },
+    {
+      "id": "ep344-event-005",
+      "episodeNumber": 344,
+      "timestamp": "07:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Ryuma Uses Hanauta Sancho: Yahazu Giri",
+      "description": "Ryuma demonstrates the delayed-effect sword technique 'Hanauta Sancho: Yahazu Giri' (Three-Verse Humming: Arrow Notch Slash), originally Brook's signature move. The attack strikes with such speed that victims don't realize they've been hit until several seconds later, after taking a few steps.",
+      "significance": "First demonstration of this powerful technique in the anime, showcasing the full potential of Brook's swordsmanship when used by a stronger body. This technique becomes important in establishing Ryuma as a formidable opponent.",
+      "characterIds": ["ryuma-zombie", "nami", "usopp", "chopper"],
+      "locationIds": ["hogbacks-lab"],
+      "devilFruitIds": [],
+      "quotes": [
+        {
+          "text": "Hanauta Sancho: Yahazu Giri!",
+          "speaker": "Ryuma",
+          "context": "Ryuma executing Brook's signature delayed-strike technique"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [362],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep344-event-006",
+      "episodeNumber": 344,
+      "timestamp": "08:15",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Usopp, Nami, and Chopper Defeated by Ryuma",
+      "description": "The delayed effect of Ryuma's Yahazu Giri technique activates, striking all three Straw Hats simultaneously with the blunt edge of Shusui. They are knocked unconscious and subsequently locked inside a coffin by the zombies.",
+      "significance": "This defeat removes three Straw Hat members from action and demonstrates the overwhelming power gap between the crew and the General Zombies, raising the stakes for the Thriller Bark arc.",
+      "characterIds": ["ryuma-zombie", "nami", "usopp", "chopper"],
+      "locationIds": ["hogbacks-lab"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [345, 362],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep344-event-007",
+      "episodeNumber": 344,
+      "timestamp": "10:20",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Luffy's Group Enters Hogback's Mansion",
+      "description": "Luffy, Zoro, Robin, and Franky break into Hogback's mansion, declaring their intention to defeat Gecko Moria. Luffy enthusiastically engages with the mansion's animated defenses.",
+      "significance": "The second Straw Hat team begins their infiltration of the mansion, setting up parallel storylines that will converge later in the arc.",
+      "characterIds": ["luffy", "zoro", "robin", "franky"],
+      "locationIds": ["hogbacks-mansion"],
+      "quotes": [
+        {
+          "text": "I'm gonna kick Moria's ass so hard I'll split this island!",
+          "speaker": "Luffy",
+          "context": "Luffy's declaration upon entering the mansion"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [343],
+      "payoffInEpisodes": [345, 346],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep344-event-008",
+      "episodeNumber": 344,
+      "timestamp": "11:45",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "Defeat of the Surprise Zombies",
+      "description": "Luffy and his team easily defeat the Surprise Zombies hidden throughout the mansion's rooms, including animated paintings and an Ice Bear Zombie Rug. The zombies prove to be no match for the Straw Hats.",
+      "significance": "Establishes that while regular zombies are weak against the Straw Hats, more powerful threats await them deeper in the mansion.",
+      "characterIds": ["luffy", "zoro", "robin", "franky"],
+      "locationIds": ["hogbacks-mansion"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep344-event-009",
+      "episodeNumber": 344,
+      "timestamp": "13:05",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Sanji Goes Missing",
+      "description": "During the battle with the Surprise Zombies, Sanji mysteriously disappears from Luffy's group. He has been captured by the zombie horde without the others immediately noticing.",
+      "significance": "Sanji's capture sets up a subplot involving Absalom and foreshadows upcoming revelations about the Suke Suke no Mi invisibility powers.",
+      "characterIds": ["sanji", "luffy", "zoro", "robin", "franky"],
+      "locationIds": ["hogbacks-mansion"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [345, 355],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep344-event-010",
+      "episodeNumber": 344,
+      "timestamp": "14:20",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Buhichuck Forced to Be Guide",
+      "description": "After defeating the Surprise Zombies, Luffy's group captures Buhichuck, the pig-headed zombie who leads the dining room zombies. They force him to guide them through the mansion, though he remains loyal to Moria.",
+      "significance": "Provides the Straw Hats with a reluctant guide through the dangerous mansion, though Buhichuck will later betray them by leading them into a trap.",
+      "characterIds": ["buhichuck", "luffy", "zoro", "robin", "franky"],
+      "locationIds": ["hogbacks-mansion"],
+      "quotes": [
+        {
+          "text": "You'd better show us around, pig!",
+          "speaker": "Luffy",
+          "context": "Forcing Buhichuck to be their guide through the mansion"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [345],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep344-event-011",
+      "episodeNumber": 344,
+      "timestamp": "16:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Zombies Celebrate the Night Raid",
+      "description": "The zombies of Thriller Bark gather for a massive celebration to mark the beginning of the Night Raid. They bring out a disco ball and perform a coordinated song and dance, creating a festive yet eerie atmosphere.",
+      "significance": "Establishes the zombies' coordinated attack strategy and creates the iconic 'zombie party' atmosphere that defines this section of the Thriller Bark arc.",
+      "characterIds": [],
+      "locationIds": ["thriller-bark"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [345, 346],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep344-event-012",
+      "episodeNumber": 344,
+      "timestamp": "17:45",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Absalom Awakens the General Zombies",
+      "description": "Absalom arrives at the General Zombies' resting place and awakens them from their coffins and underground graves. The powerful zombies include the Risky Brothers, the four-armed Gill Bastar, the drunken Captain John, and the imposing Ganzui.",
+      "significance": "Introduces the General Zombies as the elite fighting force of Thriller Bark, escalating the threat level for the Straw Hats and setting up future battles.",
+      "characterIds": ["absalom", "risky-brothers-zombies", "gill-bastar", "john-zombie", "ganzui"],
+      "locationIds": ["thriller-bark"],
+      "quotes": [
+        {
+          "text": "General Zombies, awaken! We have intruders to deal with!",
+          "speaker": "Absalom",
+          "context": "Absalom summoning the elite zombie forces"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [345, 346, 347],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep344-event-013",
+      "episodeNumber": 344,
+      "timestamp": "18:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Risky Brothers Zombies Debut",
+      "description": "The zombie Risky Brothers, a pair of squirrel zombies serving Perona, are awakened by Absalom. These small but cunning zombies possess the shadows of two pirates from the Rolling Pirates.",
+      "significance": "Introduces supporting antagonists who will play a role in capturing and transporting defeated Straw Hats to Gecko Moria.",
+      "characterIds": ["risky-brothers-zombies", "absalom"],
+      "locationIds": ["thriller-bark"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [345, 374],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep344-event-014",
+      "episodeNumber": 344,
+      "timestamp": "18:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Gill Bastar Zombie Debut",
+      "description": "Gill Bastar, a four-armed General Zombie, is revealed among the awakened elite forces. The zombie's body is later confirmed to be that of Gill Bastar, the protagonist from Oda's one-shot manga 'Wanted.'",
+      "significance": "Represents an Easter egg connection to Oda's earlier work and adds to the roster of powerful zombie warriors.",
+      "characterIds": ["gill-bastar", "absalom"],
+      "locationIds": ["thriller-bark"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [345],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep344-event-015",
+      "episodeNumber": 344,
+      "timestamp": "18:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Captain John Zombie Debut",
+      "description": "Captain John, the legendary former Rocks Pirate known for his treasure, appears as a drunk General Zombie. His body was discovered by Moria and Hogback after his crew murdered him for refusing to share his treasure.",
+      "significance": "Introduces a character with connections to the legendary Rocks Pirates and sets up the future treasure map subplot involving Buggy the Clown.",
+      "characterIds": ["john-zombie", "absalom"],
+      "locationIds": ["thriller-bark"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [345, 349],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep344-event-016",
+      "episodeNumber": 344,
+      "timestamp": "19:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Ganzui Zombie Debut",
+      "description": "Ganzui, a large and imposing General Zombie, is awakened along with the other elite zombies. He represents one of the physically powerful members of the General Zombie force.",
+      "significance": "Adds to the roster of General Zombies and contributes to the threat facing the Straw Hat crew.",
+      "characterIds": ["ganzui", "absalom"],
+      "locationIds": ["thriller-bark"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [345],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["ryuma-zombie", "risky-brothers-zombies", "gill-bastar", "john-zombie", "ganzui"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["hanauta-sancho-yahazu-giri"]
+  },
+  "episodeRelationships": {
+    "setupFor": [345, 346, 347, 362],
+    "payoffFrom": [340, 341, 342, 343],
+    "thematicLinks": [337, 338, 362]
+  },
+  "quotes": [
+    {
+      "text": "We found evidence in Cindry's quarters. You're creating zombies!",
+      "speaker": "Nami",
+      "context": "Confronting Hogback",
+      "timestamp": "03:45"
+    },
+    {
+      "text": "It doesn't matter what you saw! The Night Attack is about to begin. Cindry! Ryuma! Kill them!",
+      "speaker": "Hogback",
+      "context": "Ordering his zombies to attack",
+      "timestamp": "05:15"
+    },
+    {
+      "text": "What a beautiful lady! Even without eyes, I can appreciate such beauty!",
+      "speaker": "Ryuma",
+      "context": "First words in the laboratory",
+      "timestamp": "06:30"
+    },
+    {
+      "text": "Hanauta Sancho: Yahazu Giri!",
+      "speaker": "Ryuma",
+      "context": "Using Brook's signature technique",
+      "timestamp": "07:45"
+    },
+    {
+      "text": "I'm gonna kick Moria's ass so hard I'll split this island!",
+      "speaker": "Luffy",
+      "context": "Entering the mansion",
+      "timestamp": "10:20"
+    },
+    {
+      "text": "General Zombies, awaken! We have intruders to deal with!",
+      "speaker": "Absalom",
+      "context": "Awakening the elite zombies",
+      "timestamp": "17:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Corruption of Science and Medicine",
+      "description": "The episode explores how Dr. Hogback has perverted his genius surgical skills to serve selfish desires rather than healing, creating zombies from corpses and treating human life with contempt.",
+      "symbolism": "Hogback's laboratory represents the dark side of medical advancement when divorced from ethics and compassion, contrasting sharply with Chopper's philosophy.",
+      "culturalReferences": ["Frankenstein", "Mad Scientist archetype"]
+    },
+    {
+      "theme": "Obsessive Love and Possession",
+      "description": "Hogback's obsession with Cindry leads him to reanimate her corpse, caring only for her physical appearance rather than respecting her memory or autonomy.",
+      "symbolism": "Zombie Cindry represents the impossibility of recapturing the past and the grotesque nature of trying to possess what cannot be owned.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Comedy in Horror",
+      "description": "The episode balances horror elements (zombies, dark laboratories, captivity) with comedic moments (disco ball celebration, Luffy's enthusiasm, perverted zombie behavior).",
+      "symbolism": "The zombie party with disco ball symbolizes One Piece's unique ability to make even dark scenarios entertaining and lighthearted.",
+      "culturalReferences": ["Thriller dance", "Gothic horror"]
+    }
+  ],
+  "emotionalTone": ["Suspenseful", "Comedic", "Dark", "Action-packed"],
+  "characterSpotlights": [
+    {
+      "characterId": "ryuma-zombie",
+      "role": "Primary antagonist introduction",
+      "development": "Ryuma is introduced as a fearsome General Zombie who possesses Brook's shadow but uses it with the legendary samurai's superior physical abilities, making him far more dangerous than Brook alone.",
+      "keyActions": [
+        "Enters Hogback's laboratory with Brook's mannerisms",
+        "Demonstrates Hanauta Sancho: Yahazu Giri technique",
+        "Defeats Nami, Usopp, and Chopper effortlessly"
+      ],
+      "quotes": ["What a beautiful lady! Even without eyes, I can appreciate such beauty!", "Hanauta Sancho: Yahazu Giri!"]
+    },
+    {
+      "characterId": "nami",
+      "role": "Truth-seeker and victim",
+      "development": "Nami takes the lead in confronting Hogback about his unethical experiments, demonstrating her courage despite facing supernatural threats. Her defeat shows the limits of the weaker Straw Hats against elite opponents.",
+      "keyActions": [
+        "Confronts Hogback with evidence of his zombie creation",
+        "Learns about Cindry's tragic death",
+        "Gets defeated by Ryuma's technique"
+      ],
+      "quotes": ["We found evidence in Cindry's quarters. You're creating zombies!"]
+    },
+    {
+      "characterId": "hogback",
+      "role": "Villain exposed",
+      "development": "Hogback's true nature is fully revealed as he drops his gentlemanly facade and orders the deaths of the Straw Hats, showing his complete lack of medical ethics.",
+      "keyActions": [
+        "Gets confronted about zombie experiments",
+        "Reveals Cindry's backstory",
+        "Orders Ryuma and Cindry to kill the intruders"
+      ],
+      "quotes": ["It doesn't matter what you saw! The Night Attack is about to begin. Cindry! Ryuma! Kill them!"]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Determined infiltrator",
+      "development": "Luffy shows his typical fearless enthusiasm while entering enemy territory, treating the mansion's defenses as entertainment while maintaining focus on his goal to defeat Moria.",
+      "keyActions": [
+        "Breaks into Hogback's mansion",
+        "Defeats Surprise Zombies easily",
+        "Declares his intention to defeat Moria"
+      ],
+      "quotes": ["I'm gonna kick Moria's ass so hard I'll split this island!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended the zombie celebration sequence with additional animation of the disco ball and zombie dancing that wasn't shown in as much detail in the manga.",
+      "episodeTimestamp": "16:30",
+      "mangaReference": "Chapter 450",
+      "type": "EXPANDED_SCENE"
+    },
+    {
+      "difference": "Some dialogue was added to expand on Hogback's motivations and Cindry's backstory for clarity in the anime.",
+      "episodeTimestamp": "04:20",
+      "mangaReference": "Chapter 450",
+      "type": "DIALOGUE_ADDITION"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "The four-armed zombie Gill Bastar's identity was confirmed in SBS Volume 112 to be the main protagonist from Oda's one-shot manga 'Wanted,' which he created before One Piece.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Gill_Bastar",
+          "title": "Gill Bastar - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "fact": "This episode marks the first time in the anime that ending themes were confirmed to be omitted. Starting from episode 279, One Piece stopped using ending songs to allow for longer opening sequences (150 seconds instead of 110 seconds). Endings would not return until episode 1071, after 17 years.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/One_Piece_Music",
+          "title": "One Piece Music - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "fact": "Ryuma's technique 'Hanauta Sancho: Yahazu Giri' has a delayed effect where victims don't realize they've been struck until several seconds later. This is Brook's signature move, but Ryuma can use it with greater power due to his superior physical body.",
+      "category": "ABILITY",
+      "sources": []
+    },
+    {
+      "fact": "Captain John, who debuts as a zombie in this episode, was later revealed to have been a member of the legendary Rocks Pirates, making him connected to major One Piece lore involving Whitebeard, Big Mom, and Kaido.",
+      "category": "CHARACTER",
+      "sources": []
+    },
+    {
+      "fact": "The name 'Risky Brothers' is a pun in Japanese, as 'risky' (リスキー, risukī) contains 'risu' (りす), the Japanese word for 'squirrel.'",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Risky_Brothers",
+          "title": "Risky Brothers - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "fact": "This episode adapts Chapter 450 of the manga, titled 'General Zombie Night,' covering pages 2-19.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chapter_450",
+          "title": "Chapter 450 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "fact": "An animation error occurs at approximately 13:20 where a character's sword is drawn with incorrect design details.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_344",
+          "title": "Episode 344 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

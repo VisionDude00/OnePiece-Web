@@ -1,0 +1,518 @@
+{
+  "episodeNumber": 343,
+  "episodeTitle": "His Name is Moria! Trap of the Great Shadow-Stealing Pirate",
+  "episodeTitleJapanese": "その名はモリア！影を握る大海賊の罠",
+  "episodeTitleRomanized": "Sono Na wa Moria! Kage o Nigiru Daikaizoku no Wana",
+  "description": "The Straw Hat Pirates discover that the mysterious island of Thriller Bark is actually a massive ship controlled by Gecko Moria, one of the Seven Warlords of the Sea. As night falls, Moria awakens from his slumber and prepares his zombie army for a coordinated Night Attack against the crew.",
+  "airDate": "2008-02-17",
+  "airDateJapan": "2008-02-17",
+  "airDateUS": "2016-04-23",
+  "arcName": "Thriller Bark",
+  "sagaName": "Thriller Bark Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Jungle P",
+    "artist": "5050",
+    "episodeRange": [326, 372]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Yoshihiro Ueda",
+    "screenwriter": "Koga Naoki",
+    "artDirector": ["Miyuki Sato", "Shouji Tokiwa"],
+    "keyAnimators": ["Kenji Yokoyama"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Gecko Moria",
+        "actor": "Katsuhisa Hoki"
+      },
+      {
+        "character": "Perona",
+        "actor": "Kumiko Nishihara"
+      },
+      {
+        "character": "Absalom",
+        "actor": "Hiroaki Miura"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Gecko Moria",
+        "actor": "Chris Guerrero"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep343-event-001",
+      "episodeNumber": 343,
+      "timestamp": "04:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Old Man Reveals Moria's Shadow-Stealing Powers",
+      "description": "An elderly victim explains to the Straw Hats that Gecko Moria has been stealing the shadows of people on Thriller Bark, preventing them from going into sunlight. The old man desperately wants to feel the sun once more before he dies.",
+      "significance": "First direct explanation of Moria's Devil Fruit powers and the fate of Thriller Bark's victims, establishing the stakes for the arc.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky"],
+      "locationIds": ["thriller-bark"],
+      "devilFruitIds": ["kage-kage-no-mi"],
+      "quotes": [
+        {
+          "text": "He can't take it anymore, not going into the sun with no shadow at all. He just wants to feel the sun once more before he dies.",
+          "speaker": "Old Man",
+          "context": "Explaining his desperate situation to the Straw Hats"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [338, 339, 340, 341, 342],
+      "payoffInEpisodes": [362, 372, 377],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep343-event-002",
+      "episodeNumber": 343,
+      "timestamp": "06:15",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Moria Revealed as a Warlord of the Sea",
+      "description": "The Straw Hats learn that Gecko Moria is one of the Seven Warlords of the Sea, a government-sanctioned pirate with a bounty exceeding Luffy's current bounty. This revelation raises the stakes significantly.",
+      "significance": "Establishes Moria as a major threat on par with Crocodile, the previous Warlord the crew faced. Shows the crew is now facing opponents at the highest levels of the pirate world.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky", "gecko-moria"],
+      "locationIds": ["thriller-bark"],
+      "quotes": [
+        {
+          "text": "Gecko Moria... one of the Seven Warlords of the Sea!",
+          "speaker": "Robin",
+          "context": "Revealing Moria's position to the shocked crew"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [362, 372],
+      "callbacksToEpisodes": [71, 72, 73, 130]
+    },
+    {
+      "id": "ep343-event-003",
+      "episodeNumber": 343,
+      "timestamp": "08:00",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Straw Hats Interrogate Zombies",
+      "description": "Luffy forces the zombies to confess that they attacked Usopp and Chopper. The crew defeats the zombies in a brief battle, demonstrating their strength against the undead forces.",
+      "significance": "Shows the Straw Hats taking the offensive and gathering information about their enemies.",
+      "characterIds": ["luffy", "zoro", "sanji", "franky"],
+      "locationIds": ["thriller-bark"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [342],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep343-event-004",
+      "episodeNumber": 343,
+      "timestamp": "12:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Absalom's Face Fully Revealed",
+      "description": "Absalom, the invisible man, is shown with his full appearance revealed - a grotesque combination of human and animal parts including lion features. The zombies mockingly chant 'Pervert! Pervert!' at him due to his reputation for spying on women.",
+      "significance": "Fully introduces one of the Mysterious Four of Thriller Bark and establishes his character as both threatening and comedic.",
+      "characterIds": ["absalom"],
+      "locationIds": ["thriller-bark"],
+      "devilFruitIds": ["suke-suke-no-mi"],
+      "quotes": [
+        {
+          "text": "Pervert! Pervert!",
+          "speaker": "Zombies",
+          "context": "Zombies chanting at Absalom about his peeping habits"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [339, 340],
+      "payoffInEpisodes": [355, 356],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep343-event-005",
+      "episodeNumber": 343,
+      "timestamp": "14:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Absalom Rallies Zombies for the Night Attack",
+      "description": "Absalom gathers the zombie army and orders them to prepare for the Night Attack, a coordinated assault on the Straw Hat Pirates set to begin at midnight. This marks the beginning of the arc's main conflict.",
+      "significance": "Sets up the Night Hunt, the major battle sequence that will dominate the next several episodes.",
+      "characterIds": ["absalom"],
+      "locationIds": ["thriller-bark"],
+      "crewIds": ["thriller-bark-pirates"],
+      "quotes": [
+        {
+          "text": "At the stroke of midnight, we begin the hunt for the pirates!",
+          "speaker": "Absalom",
+          "context": "Ordering the zombie army to prepare for battle"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [344, 345, 346, 347, 348],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep343-event-006",
+      "episodeNumber": 343,
+      "timestamp": "15:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Perona's Ghosts Return to Her",
+      "description": "The negative ghosts that previously affected the Straw Hats return to their master, Perona, the Gothic-style Ghost Princess. She is shown preparing for battle with her zombie servants including Kumashi.",
+      "significance": "Reintroduces Perona as a major antagonist and connects her to the ghost attacks from earlier episodes.",
+      "characterIds": ["perona", "kumashi"],
+      "locationIds": ["thriller-bark"],
+      "devilFruitIds": ["horo-horo-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [338, 341],
+      "payoffInEpisodes": [347, 348],
+      "callbacksToEpisodes": [341]
+    },
+    {
+      "id": "ep343-event-007",
+      "episodeNumber": 343,
+      "timestamp": "17:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "CRITICAL",
+      "title": "Gecko Moria Awakens",
+      "description": "Gecko Moria, the massive and imposing captain of the Thriller Bark Pirates, awakens from his four-day slumber. His subordinates Gyoro, Nin, and Bao inform him that the Straw Hat Pirates have arrived on Thriller Bark.",
+      "significance": "The main antagonist of the arc makes his debut appearance. This is the first time viewers see Moria, establishing him as a formidable threat with his enormous size and devil-like appearance.",
+      "characterIds": ["gecko-moria", "gyoro-nin-bao"],
+      "locationIds": ["thriller-bark"],
+      "devilFruitIds": ["kage-kage-no-mi"],
+      "quotes": [
+        {
+          "text": "Master Moria! The Straw Hat Pirates are here!",
+          "speaker": "Gyoro, Nin, and Bao",
+          "context": "Informing Moria of the Straw Hats' presence"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [338, 339, 340, 341, 342],
+      "payoffInEpisodes": [362, 372, 373, 374, 375, 377],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep343-event-008",
+      "episodeNumber": 343,
+      "timestamp": "18:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "CRITICAL",
+      "title": "Thriller Bark Revealed as a Ship",
+      "description": "The Straw Hats make the shocking discovery that Thriller Bark is not an island at all, but rather the world's largest pirate ship. This massive vessel was originally an island from the West Blue that was converted into a ship.",
+      "significance": "Major revelation that recontextualizes the entire setting. This explains how Thriller Bark can move through the Florian Triangle and emphasizes Moria's power and ambition.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky"],
+      "locationIds": ["thriller-bark"],
+      "quotes": [
+        {
+          "text": "This isn't an island... it's a ship! The world's largest pirate ship!",
+          "speaker": "Nami",
+          "context": "Realizing the true nature of Thriller Bark"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [337, 338],
+      "payoffInEpisodes": [381],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep343-event-009",
+      "episodeNumber": 343,
+      "timestamp": "19:30",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MAJOR",
+      "title": "Moria Promises Nightmares",
+      "description": "Gecko Moria declares that Thriller Bark will show the Straw Hats 'the nightmare to end all nightmares,' setting the stage for the upcoming battles and horrors they will face.",
+      "significance": "Establishes the tone for the rest of the arc and foreshadows the challenges ahead, including the eventual appearance of Oars.",
+      "characterIds": ["gecko-moria"],
+      "locationIds": ["thriller-bark"],
+      "quotes": [
+        {
+          "text": "Thriller Bark will show you the nightmare to end all nightmares!",
+          "speaker": "Gecko Moria",
+          "context": "Declaring his intention to crush the Straw Hats"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [362, 365, 372],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep343-event-010",
+      "episodeNumber": 343,
+      "timestamp": "20:00",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "The Night Hunt Begins",
+      "description": "As midnight strikes, the Night Hunt officially begins. The Straw Hats enter the mansion on Thriller Bark while Moria, Absalom, and Perona prepare their forces to attack from multiple directions.",
+      "significance": "Marks the beginning of the main conflict of the Thriller Bark arc, with the crew now actively hunted by Moria's forces.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky", "gecko-moria", "absalom", "perona"],
+      "locationIds": ["thriller-bark"],
+      "crewIds": ["straw-hat-pirates", "thriller-bark-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [342, 343],
+      "payoffInEpisodes": [344, 345, 346, 347, 348, 349, 350],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep343-event-011",
+      "episodeNumber": 343,
+      "timestamp": "16:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Beethoven's Ninth Symphony Featured",
+      "description": "During a scene where zombies chant Absalom's name, a section of the fourth movement of Beethoven's Ninth Symphony 'Choral' Op. 125 plays in the background, creating a dramatic and culturally significant musical moment.",
+      "significance": "An unusual and memorable use of classical music in the anime, highlighting the gothic horror atmosphere of Thriller Bark.",
+      "characterIds": ["absalom"],
+      "locationIds": ["thriller-bark"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["gecko-moria", "gyoro-nin-bao", "kumashi", "hippo-gentleman"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [344, 345, 346, 347, 348],
+    "payoffFrom": [338, 339, 340, 341, 342],
+    "thematicLinks": [72, 130, 362, 377]
+  },
+  "quotes": [
+    {
+      "text": "He can't take it anymore, not going into the sun with no shadow at all. He just wants to feel the sun once more before he dies.",
+      "speaker": "Old Man",
+      "context": "Explaining the suffering of shadow victims",
+      "timestamp": "04:30"
+    },
+    {
+      "text": "Gecko Moria... one of the Seven Warlords of the Sea!",
+      "speaker": "Robin",
+      "context": "Revealing Moria's status to the crew",
+      "timestamp": "06:15"
+    },
+    {
+      "text": "This isn't an island... it's a ship! The world's largest pirate ship!",
+      "speaker": "Nami",
+      "context": "Discovering Thriller Bark's true nature",
+      "timestamp": "18:30"
+    },
+    {
+      "text": "Thriller Bark will show you the nightmare to end all nightmares!",
+      "speaker": "Gecko Moria",
+      "context": "Threatening the Straw Hats",
+      "timestamp": "19:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Horror and Gothic Atmosphere",
+      "description": "The episode leans heavily into horror themes with the revelation of Moria, the zombie army, and the gothic setting of Thriller Bark.",
+      "symbolism": "The massive ship represents Moria's ambitions and his twisted approach to achieving them through the dead rather than the living.",
+      "culturalReferences": ["Beethoven's Ninth Symphony reflects the dramatic and epic scope of the confrontation"]
+    },
+    {
+      "theme": "Loss and Trauma",
+      "description": "Moria's character is established through hints at his traumatic past, which led him to rely on zombies rather than living comrades.",
+      "symbolism": "The shadowless victims represent people robbed of their identity and freedom, unable to live normal lives.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Escalating Threats",
+      "description": "The Straw Hats continue to face increasingly powerful enemies, now confronting a Warlord of the Sea.",
+      "symbolism": "Moria's enormous size compared to normal humans symbolizes the growing scale of challenges the crew must overcome.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Ominous", "Suspenseful", "Dark", "Adventurous"],
+  "characterSpotlights": [
+    {
+      "characterId": "gecko-moria",
+      "role": "Main antagonist debut",
+      "development": "Moria is introduced as a massive, imposing figure who rules over Thriller Bark with his shadow-stealing powers. His awakening signals the true beginning of the arc's conflict.",
+      "keyActions": [
+        "Awakens from four-day slumber",
+        "Learns of Straw Hats' presence",
+        "Declares his intention to give them nightmares"
+      ],
+      "quotes": ["Thriller Bark will show you the nightmare to end all nightmares!"]
+    },
+    {
+      "characterId": "absalom",
+      "role": "Mysterious Four member",
+      "development": "Absalom's full appearance and role as zombie commander is revealed. His perverted nature is established for comedic effect.",
+      "keyActions": [
+        "Face fully revealed to audience",
+        "Rallies zombie army for Night Attack",
+        "Orders hunt to begin at midnight"
+      ],
+      "quotes": ["At the stroke of midnight, we begin the hunt for the pirates!"]
+    },
+    {
+      "characterId": "perona",
+      "role": "Mysterious Four member",
+      "development": "Perona's connection to the negative ghosts is confirmed, and she prepares for battle alongside her zombie servants.",
+      "keyActions": [
+        "Ghosts return to her",
+        "Prepares for Night Attack",
+        "Commands Kumashi and other Wild Zombies"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended some scenes with the zombies and added more detail to the zombie army preparations compared to the manga.",
+      "episodeTimestamp": "08:00",
+      "mangaReference": "Chapter 448-449",
+      "type": "ANIME_EXTENDED_SCENE"
+    },
+    {
+      "difference": "The use of Beethoven's Ninth Symphony during the Absalom scene was an anime-original addition for dramatic effect.",
+      "episodeTimestamp": "16:00",
+      "mangaReference": "Chapter 448",
+      "type": "ANIME_ORIGINAL_MUSIC"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode features Beethoven's Ninth Symphony 'Choral' movement during a zombie scene, a rare use of classical Western music in One Piece.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_343",
+          "title": "Episode 343 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 343 marks the official debut of Gecko Moria in the anime, one of the Seven Warlords of the Sea and the main antagonist of the Thriller Bark arc.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Gecko_Moria",
+          "title": "Gecko Moria - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "fact": "The episode achieved a 7.2% TV rating in Japan, ranking 9th for its time slot.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_343",
+          "title": "Episode 343 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "fact": "Katsuhisa Hoki, who voices Gecko Moria in Japanese, also voices Jinbe later in the series.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://www.behindthevoiceactors.com/tv-shows/One-Piece/Gecko-Moria/",
+          "title": "Gecko Moria Voice - One Piece",
+          "platform": "Behind The Voice Actors",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": [],
+  "mangaChaptersCovered": [
+    {
+      "chapterNumber": 448,
+      "pages": "16-19",
+      "title": "Moria"
+    },
+    {
+      "chapterNumber": 449,
+      "pages": "8-19",
+      "title": "The Four Monsters of Thriller Bark"
+    }
+  ]
+}
