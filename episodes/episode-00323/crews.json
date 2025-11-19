@@ -1,0 +1,185 @@
+[
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "luffy",
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [323],
+    "members": [
+      {
+        "characterId": "luffy",
+        "role": "Captain",
+        "episodeJoined": 1,
+        "episodeLeft": null,
+        "joinCircumstances": "Founder of the crew"
+      },
+      {
+        "characterId": "zoro",
+        "role": "Combatant",
+        "episodeJoined": 3,
+        "episodeLeft": null,
+        "joinCircumstances": "First crew member to join Luffy"
+      },
+      {
+        "characterId": "nami",
+        "role": "Navigator",
+        "episodeJoined": 44,
+        "episodeLeft": null,
+        "joinCircumstances": "Joined after the Arlong Park arc"
+      },
+      {
+        "characterId": "usopp",
+        "role": "Sniper",
+        "episodeJoined": 17,
+        "episodeLeft": 236,
+        "episodeRejoined": 323,
+        "joinCircumstances": "Rejoined after genuinely apologizing for his actions during the Water 7 arc"
+      },
+      {
+        "characterId": "sanji",
+        "role": "Cook",
+        "episodeJoined": 30,
+        "episodeLeft": null,
+        "joinCircumstances": "Joined after the Baratie arc"
+      },
+      {
+        "characterId": "chopper",
+        "role": "Doctor",
+        "episodeJoined": 91,
+        "episodeLeft": null,
+        "joinCircumstances": "Joined after the Drum Island arc"
+      },
+      {
+        "characterId": "robin",
+        "role": "Archaeologist",
+        "episodeJoined": 130,
+        "episodeLeft": null,
+        "joinCircumstances": "Joined after Alabasta arc, officially rejoined after Enies Lobby"
+      },
+      {
+        "characterId": "franky",
+        "role": "Shipwright",
+        "episodeJoined": 322,
+        "episodeLeft": null,
+        "joinCircumstances": "Joined at the end of the Water 7 saga"
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 323,
+        "eventId": "ep323-event-009",
+        "momentType": "CREW_REUNION",
+        "title": "Usopp Rejoins the Straw Hat Pirates",
+        "description": "Usopp officially rejoins the crew after giving a heartfelt apology for his actions during the Water 7 arc.",
+        "significance": "Resolves the major internal conflict from the Water 7 arc and completes the crew after adding Franky.",
+        "timestamp": "18:15"
+      },
+      {
+        "episodeNumber": 323,
+        "eventId": "ep323-event-002",
+        "momentType": "LOCATION_DEPARTURE",
+        "title": "Departure from Water 7",
+        "description": "The Straw Hat Pirates depart from Water 7 aboard the Thousand Sunny, marking the end of the Water 7 saga.",
+        "significance": "The crew begins their next adventure with a new ship, new member (Franky), and reunited with Usopp.",
+        "timestamp": "05:30"
+      },
+      {
+        "episodeNumber": 323,
+        "eventId": "ep323-event-012",
+        "momentType": "BATTLE",
+        "title": "Defense Against Garp's Attack",
+        "description": "The complete crew works together for the first time on the Thousand Sunny to defend against Garp's bombardment.",
+        "significance": "First time the post-Enies Lobby crew (including Franky and the returned Usopp) fights together as a unit.",
+        "timestamp": "21:30"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Thousand Sunny",
+        "episodeAcquired": 321,
+        "episodeLost": null,
+        "description": "Built by Franky and Galley-La Company from Adam Wood. Episode 323 marks its first voyage with the complete crew."
+      }
+    ],
+    "bases": [],
+    "totalBountyProgression": [
+      {
+        "totalBounty": 667000050,
+        "episodeNumber": 323,
+        "memberBounties": {
+          "luffy": 300000000,
+          "zoro": 120000000,
+          "robin": 80000000,
+          "sanji": 77000000,
+          "franky": 44000000,
+          "usopp": 30000000,
+          "nami": 16000000,
+          "chopper": 50
+        }
+      }
+    ],
+    "jollyRoger": {
+      "description": "A skull wearing a straw hat with crossed bones behind it",
+      "episodeFirstSeen": 1,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": ["galley-la-company", "franky-family"],
+      "enemies": ["marines"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Marines",
+      "japanese": "海軍",
+      "romanized": "Kaigun"
+    },
+    "crewType": "MILITARY",
+    "captainId": null,
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [323],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 323,
+        "eventId": "ep323-event-001",
+        "momentType": "ATTACK",
+        "title": "Garp's Pursuit of the Straw Hats",
+        "description": "Vice Admiral Garp arrives at Water 7 with Marine forces to capture the Straw Hat Pirates.",
+        "significance": "Demonstrates the Marines' continued pursuit of the Straw Hats after their assault on Enies Lobby.",
+        "timestamp": "03:15"
+      },
+      {
+        "episodeNumber": 323,
+        "eventId": "ep323-event-003",
+        "momentType": "ATTACK",
+        "title": "Garp's Genkotsu Meteor Bombardment",
+        "description": "Garp bombards the Thousand Sunny with his Genkotsu Meteor technique, throwing cannonballs with superhuman strength.",
+        "significance": "First demonstration of one of Garp's signature techniques.",
+        "timestamp": "07:45"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "Marine seagull symbol",
+      "episodeFirstSeen": 1,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFFFFF",
+    "relationships": {
+      "allies": [],
+      "enemies": ["straw-hat-pirates"],
+      "parentOrganization": "world-government"
+    }
+  }
+]

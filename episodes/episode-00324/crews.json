@@ -1,0 +1,131 @@
+[
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "luffy",
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [324],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 324,
+        "eventId": "ep324-event-001",
+        "momentType": "CULTURAL_MOMENT",
+        "title": "Thousand Sunny Officially Named",
+        "description": "The crew officially names their new ship the Thousand Sunny before departing Water 7.",
+        "significance": "Marks the beginning of a new era for the crew with their advanced ship.",
+        "timestamp": "03:15"
+      },
+      {
+        "episodeNumber": 324,
+        "eventId": "ep324-event-004",
+        "momentType": "BOUNTY_REVEAL",
+        "title": "Post-Enies Lobby Bounties Revealed",
+        "description": "All crew members receive updated or first-time bounty posters following their assault on Enies Lobby.",
+        "significance": "Establishes the crew as a major threat to the World Government with a combined bounty over 600 million berries.",
+        "timestamp": "08:00"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Thousand Sunny",
+        "episodeAcquired": 321,
+        "episodeLost": null,
+        "description": "The crew's second ship, designed and built by Franky using wood from the Treasure Tree Adam. Features advanced technology including Coup de Burst."
+      }
+    ],
+    "bases": [],
+    "totalBountyProgression": [
+      {
+        "totalBounty": 667000050,
+        "episodeNumber": 324,
+        "memberBounties": {
+          "luffy": 300000000,
+          "zoro": 120000000,
+          "robin": 80000000,
+          "sanji": 77000000,
+          "franky": 44000000,
+          "usopp": 30000000,
+          "nami": 16000000,
+          "chopper": 50
+        }
+      }
+    ],
+    "jollyRoger": {
+      "description": "A skull wearing a straw hat with crossed bones behind it",
+      "episodeFirstSeen": 1,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": [],
+      "enemies": ["world-government", "marines"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Revolutionary Army",
+      "japanese": "革命軍",
+      "romanized": "Kakumei-gun"
+    },
+    "crewType": "REVOLUTIONARY_ORGANIZATION",
+    "captainId": "dragon",
+    "debutEpisode": 324,
+    "debutChapter": 440,
+    "episodeAppearances": [324],
+    "members": [
+      {
+        "characterId": "dragon",
+        "role": "Supreme Commander",
+        "episodeJoined": 324,
+        "episodeLeft": null,
+        "joinCircumstances": "Leader and founder of the Revolutionary Army."
+      },
+      {
+        "characterId": "terry-gilteo",
+        "role": "Intelligence Officer",
+        "episodeJoined": 324,
+        "episodeLeft": null,
+        "joinCircumstances": "Works as an intelligence controller at the Revolutionary Army headquarters."
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 324,
+        "eventId": "ep324-event-012",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Revolutionary Army Headquarters Shown",
+        "description": "The Revolutionary Army's base at Baltigo is revealed, with Dragon and Terry Gilteo reviewing bounty posters.",
+        "significance": "First appearance of the Revolutionary Army's operations and their interest in the Straw Hats' activities.",
+        "timestamp": "19:00"
+      }
+    ],
+    "ships": [],
+    "bases": [
+      {
+        "locationId": "baltigo",
+        "locationName": "Baltigo",
+        "episodeEstablished": 324,
+        "description": "Secret headquarters of the Revolutionary Army"
+      }
+    ],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "Not shown in this episode",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "#8B0000",
+    "relationships": {
+      "allies": [],
+      "enemies": ["world-government"],
+      "parentOrganization": null
+    }
+  }
+]

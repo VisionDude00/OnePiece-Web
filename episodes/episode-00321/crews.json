@@ -1,0 +1,192 @@
+[
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi",
+      "other": ["Straw Hat Crew"]
+    },
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [321],
+    "keyMoments": [
+      {
+        "episodeNumber": 321,
+        "eventId": "ep321-event-004",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Receiving the Thousand Sunny",
+        "description": "The Straw Hat Pirates receive their new ship, the Thousand Sunny, from Iceburg after the Going Merry's destruction.",
+        "significance": "Major milestone as the crew receives the ship that will carry them through the rest of their Grand Line journey.",
+        "timestamp": "06:45"
+      },
+      {
+        "episodeNumber": 321,
+        "eventId": "ep321-event-009",
+        "momentType": "MAJOR_DECISION",
+        "title": "Luffy Agrees to Recruit Franky",
+        "description": "Luffy agrees to take Franky as the crew's shipwright when the Franky Family begs him to do so.",
+        "significance": "Sets up the recruitment of the crew's eighth member and first true shipwright.",
+        "timestamp": "19:30"
+      }
+    ],
+    "crewType": "PIRATE_CREW",
+    "captain": "luffy",
+    "members": [
+      {
+        "characterId": "luffy",
+        "role": "Captain",
+        "episodeJoined": 1,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "zoro",
+        "role": "Swordsman",
+        "episodeJoined": 2,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "nami",
+        "role": "Navigator",
+        "episodeJoined": 44,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "usopp",
+        "role": "Sniper",
+        "episodeJoined": 17,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "sanji",
+        "role": "Cook",
+        "episodeJoined": 30,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "chopper",
+        "role": "Doctor",
+        "episodeJoined": 91,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "robin",
+        "role": "Archaeologist",
+        "episodeJoined": 130,
+        "episodeLeft": null
+      }
+    ],
+    "ships": [
+      {
+        "shipId": "thousand-sunny",
+        "episodeAcquired": 321,
+        "episodeLost": null,
+        "status": "ACTIVE"
+      }
+    ],
+    "territories": [],
+    "allies": [
+      {
+        "allyId": "franky-family",
+        "relationshipType": "FRIENDLY",
+        "episodeEstablished": 321,
+        "description": "The Franky Family helps force Franky to join the Straw Hats, establishing a friendly relationship."
+      }
+    ],
+    "enemies": [],
+    "totalBounty": 667000050,
+    "bountyHistory": [
+      {
+        "episodeNumber": 321,
+        "totalBounty": 667000050,
+        "breakdown": [
+          { "characterId": "luffy", "amount": 300000000 },
+          { "characterId": "zoro", "amount": 120000000 },
+          { "characterId": "nami", "amount": 16000000 },
+          { "characterId": "usopp", "amount": 30000000 },
+          { "characterId": "sanji", "amount": 77000000 },
+          { "characterId": "chopper", "amount": 50 },
+          { "characterId": "robin", "amount": 80000000 }
+        ]
+      }
+    ],
+    "flagDescription": "A skull wearing a straw hat with crossed bones behind it",
+    "goals": ["Find the One Piece", "Become King of the Pirates"],
+    "status": "ACTIVE",
+    "statusHistory": []
+  },
+  {
+    "name": {
+      "english": "Franky Family",
+      "japanese": "フランキー一家",
+      "romanized": "Furankī Ikka",
+      "other": []
+    },
+    "debutEpisode": 233,
+    "debutChapter": 329,
+    "episodeAppearances": [321],
+    "keyMoments": [
+      {
+        "episodeNumber": 321,
+        "eventId": "ep321-event-006",
+        "momentType": "MAJOR_DECISION",
+        "title": "Plan to Force Franky's Recruitment",
+        "description": "The Franky Family steals Franky's swim briefs to force him toward joining the Straw Hat Pirates, showing their selfless desire for him to pursue his dream.",
+        "significance": "Demonstrates the family's deep love for Franky and their understanding that he wants to sail with his ship.",
+        "timestamp": "12:00"
+      },
+      {
+        "episodeNumber": 321,
+        "eventId": "ep321-event-008",
+        "momentType": "MAJOR_DECISION",
+        "title": "Begging Luffy to Take Franky",
+        "description": "Zambai and the Franky Family earnestly beg Luffy to take Franky with them, emphasizing his wanted status and need to leave Water 7.",
+        "significance": "Shows the family's willingness to lose their boss so he can achieve his dream of seeing his ship sail the world.",
+        "timestamp": "18:45"
+      }
+    ],
+    "crewType": "DISMANTLERS",
+    "captain": "franky",
+    "members": [
+      {
+        "characterId": "franky",
+        "role": "Boss",
+        "episodeJoined": 233,
+        "episodeLeft": 322
+      },
+      {
+        "characterId": "zambai",
+        "role": "Member",
+        "episodeJoined": 233,
+        "episodeLeft": null
+      }
+    ],
+    "ships": [],
+    "territories": [
+      {
+        "locationId": "scrap-island",
+        "episodeEstablished": 233
+      }
+    ],
+    "allies": [
+      {
+        "allyId": "straw-hat-pirates",
+        "relationshipType": "FRIENDLY",
+        "episodeEstablished": 321,
+        "description": "The Franky Family becomes allies with the Straw Hats after helping recruit Franky to their crew."
+      }
+    ],
+    "enemies": [],
+    "totalBounty": 0,
+    "bountyHistory": [],
+    "flagDescription": "N/A",
+    "goals": ["Ship dismantling and bounty hunting in Water 7"],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "Led by Franky",
+        "episodeStart": 233,
+        "episodeEnd": 322
+      }
+    ]
+  }
+]
