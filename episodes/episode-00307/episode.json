@@ -1,0 +1,539 @@
+{
+  "episodeNumber": 307,
+  "episodeTitle": "Cannon Fire Sinks the Island! Franky's Lamentation!",
+  "description": "The Straw Hat crew reaches their escape ship while Luffy continues his intense battle with Rob Lucci. Franky desperately calls for Luffy to hurry as the Buster Call battleships bombard the island, striking down their allies including Oimo, Kashii, the Franky Family, and Galley-La members.",
+  "airDate": "2007-04-29",
+  "airDateJapan": "2007-04-29",
+  "airDateUS": "2013-11-23",
+  "arcName": "Enies Lobby",
+  "sagaName": "Water 7 Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Crazy Rainbow",
+    "artist": "Tackey & Tsubasa",
+    "episodeRange": [284, 325]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Hiroyuki Kakudō",
+    "screenwriter": "Koga Naoki",
+    "artDirection": "Miyuki Sato, Michiyo Kawasaki",
+    "animation": "Takeo Ide",
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp/Sogeking",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Rob Lucci",
+        "actor": "Tomokazu Seki"
+      },
+      {
+        "character": "Kokoro",
+        "actor": "Ichiro Nagai"
+      },
+      {
+        "character": "Paulie",
+        "actor": "Takahiro Yoshimizu"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp/Sogeking",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Rob Lucci",
+        "actor": "Jason Liebrecht"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep307-event-001",
+      "episodeNumber": 307,
+      "timestamp": "03:20",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Straw Hats Reach the Escape Ship",
+      "description": "The Straw Hat crew members, minus Luffy, successfully make it to their escape vessel after fleeing from the destruction of Enies Lobby. Franky and Robin have secured the government ship for their evacuation.",
+      "significance": "Marks the crew's successful escape from the main island, though they must wait for Luffy to finish his battle with Lucci.",
+      "characterIds": ["zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky"],
+      "locationIds": ["enies-lobby", "escape-ship"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [306],
+      "payoffInEpisodes": [311],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep307-event-002",
+      "episodeNumber": 307,
+      "timestamp": "04:15",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Luffy Continues Battle with Lucci",
+      "description": "Luffy remains engaged in his intense battle with Rob Lucci at the first tower of the Bridge of Hesitation. The crew watches from their ship, knowing they cannot interfere with their captain's fight.",
+      "significance": "The continuation of the climactic confrontation between Luffy and the strongest CP9 agent, determining the fate of the rescue mission.",
+      "characterIds": ["luffy", "rob-lucci"],
+      "locationIds": ["bridge-of-hesitation"],
+      "quotes": [
+        {
+          "text": "It is best not to get involved.",
+          "speaker": "Zoro",
+          "context": "Zoro dismisses the idea of helping Luffy, showing his trust in their captain's abilities"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [302, 304, 306],
+      "payoffInEpisodes": [309],
+      "callbacksToEpisodes": [302]
+    },
+    {
+      "id": "ep307-event-003",
+      "episodeNumber": 307,
+      "timestamp": "05:40",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Buster Call Fleet Positioning",
+      "description": "The Buster Call fleet, led by five Vice Admirals (Strawberry, Momonga, Doberman, Yamakaji, and Onigumo), begins their systematic bombardment of Enies Lobby after confirming all Marines and World Government personnel have evacuated.",
+      "significance": "Demonstrates the overwhelming destructive power of a Buster Call and the World Government's willingness to destroy an entire island.",
+      "characterIds": ["strawberry", "momonga", "doberman", "yamakaji", "onigumo"],
+      "locationIds": ["enies-lobby"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [287, 290],
+      "payoffInEpisodes": [308, 311],
+      "callbacksToEpisodes": [287]
+    },
+    {
+      "id": "ep307-event-004",
+      "episodeNumber": 307,
+      "timestamp": "07:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Franky's Desperate Plea",
+      "description": "Franky frantically yells for Luffy to hurry up and finish his battle, his voice filled with anguish as he realizes their allies are in mortal danger from the Buster Call. This emotional outburst gives the episode its title.",
+      "significance": "Shows Franky's deep concern for his family and the Galley-La workers, highlighting his emotional nature despite his tough exterior.",
+      "characterIds": ["franky", "luffy"],
+      "locationIds": ["escape-ship"],
+      "quotes": [
+        {
+          "text": "Luffy! Hurry up!",
+          "speaker": "Franky",
+          "context": "Franky's anguished cry as he realizes their allies are under attack"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [306],
+      "payoffInEpisodes": [308, 311],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep307-event-005",
+      "episodeNumber": 307,
+      "timestamp": "09:45",
+      "eventType": "BATTLE_START",
+      "severity": "CRITICAL",
+      "title": "Battleships Attack Oimo, Kashii, and Allied Forces",
+      "description": "Three Buster Call battleships, led by Vice Admiral Strawberry, open fire on Oimo and Kashii, who are carrying the Franky Family (including Zambai, Mozu, and Kiwi), Galley-La workers (Paulie, Lulu, and Tilestone), and their animal companions (Sodom, Gomorrah, and Yokozuna). The giants take the brunt of the cannon fire to protect everyone.",
+      "significance": "A devastating moment that appears to result in the deaths of all the Straw Hats' allies who helped in the Enies Lobby raid. The emotional weight of this moment drives Franky's lamentation.",
+      "characterIds": ["oimo", "kashii", "paulie", "lulu", "tilestone", "zambai", "mozu", "kiwi", "strawberry"],
+      "locationIds": ["enies-lobby"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [306],
+      "payoffInEpisodes": [311],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep307-event-006",
+      "episodeNumber": 307,
+      "timestamp": "11:20",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Allies Fall Into the Waterfall",
+      "description": "Hit by concentrated cannon fire from the battleships, Oimo, Kashii, and all their passengers are blown off the edge of Enies Lobby and tumble into the bottomless waterfall below. The Straw Hats and Franky watch in horror, believing their allies have been killed.",
+      "significance": "This apparent tragedy devastates Franky and the crew, raising the stakes of the escape. It appears that the cost of rescuing Robin has claimed the lives of many brave allies.",
+      "characterIds": ["oimo", "kashii", "paulie", "lulu", "tilestone", "zambai", "mozu", "kiwi", "franky", "zoro", "nami", "sanji", "chopper", "robin", "usopp"],
+      "locationIds": ["enies-lobby"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [306],
+      "payoffInEpisodes": [311],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep307-event-007",
+      "episodeNumber": 307,
+      "timestamp": "13:50",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Enies Lobby Main Island Destroyed",
+      "description": "The Buster Call battleships report that the main island of Enies Lobby has been completely obliterated by their bombardment, with all remaining inhabitants killed. Only the Bridge of Hesitation, where Luffy and Lucci fight, remains standing.",
+      "significance": "Demonstrates the absolute destructive power of the Buster Call and the World Government's ruthless methods. An entire island that stood for centuries is destroyed in minutes.",
+      "characterIds": [],
+      "locationIds": ["enies-lobby", "bridge-of-hesitation"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [287, 306],
+      "payoffInEpisodes": [308, 311],
+      "callbacksToEpisodes": [287]
+    },
+    {
+      "id": "ep307-event-008",
+      "episodeNumber": 307,
+      "timestamp": "15:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Luffy Activates Gear Second Against Lucci",
+      "description": "Underground in the collapsing building, Luffy activates Gear Second for the second time in his battle against Rob Lucci. His body begins to steam as his blood flow accelerates, dramatically increasing his speed and power.",
+      "significance": "Luffy unleashes his enhanced form again to match Lucci's incredible power. This technique, developed to protect his crew, is pushed to its limits in this desperate battle.",
+      "characterIds": ["luffy", "rob-lucci"],
+      "locationIds": ["bridge-of-hesitation"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [
+        {
+          "text": "I will not stop using my power until you are defeated!",
+          "speaker": "Luffy",
+          "context": "Luffy's determination as he activates Gear Second"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [272, 306],
+      "payoffInEpisodes": [308, 309],
+      "callbacksToEpisodes": [272, 304]
+    },
+    {
+      "id": "ep307-event-009",
+      "episodeNumber": 307,
+      "timestamp": "17:15",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Gomu Gomu no Jet Pistol",
+      "description": "Using Gear Second's enhanced speed, Luffy unleashes Gomu Gomu no Jet Pistol, a dramatically faster and more powerful version of his signature punch. The attack blasts Rob Lucci backward with tremendous force.",
+      "significance": "The first use of Jet Pistol in the Luffy vs. Lucci fight demonstrates the enhanced offensive capabilities of Gear Second, combining Luffy's rubber powers with incredible velocity.",
+      "characterIds": ["luffy", "rob-lucci"],
+      "locationIds": ["bridge-of-hesitation"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [
+        {
+          "text": "Gomu Gomu no... Jet Pistol!",
+          "speaker": "Luffy",
+          "context": "Luffy's attack call as he strikes Lucci with enhanced speed"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [272, 306],
+      "payoffInEpisodes": [308, 309],
+      "callbacksToEpisodes": [272]
+    },
+    {
+      "id": "ep307-event-010",
+      "episodeNumber": 307,
+      "timestamp": "18:40",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Gomu Gomu no Jet Bullet",
+      "description": "Luffy follows up with Gomu Gomu no Jet Bullet, striking Lucci in the stomach with a powerful concentrated blow enhanced by Gear Second's speed. The impact demonstrates the devastating combination of rubber elasticity and enhanced velocity.",
+      "significance": "Another demonstration of Gear Second's offensive versatility, showing Luffy can adapt multiple techniques to the enhanced form.",
+      "characterIds": ["luffy", "rob-lucci"],
+      "locationIds": ["bridge-of-hesitation"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [
+        {
+          "text": "Gomu Gomu no... Jet Bullet!",
+          "speaker": "Luffy",
+          "context": "Luffy's second enhanced attack against Lucci"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [272, 306],
+      "payoffInEpisodes": [308, 309],
+      "callbacksToEpisodes": [272]
+    },
+    {
+      "id": "ep307-event-011",
+      "episodeNumber": 307,
+      "timestamp": "20:05",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "CRITICAL",
+      "title": "Lucci Prepares Ultimate Rokushiki Technique",
+      "description": "After taking multiple Jet attacks from Luffy, Rob Lucci declares he will demonstrate the most powerful Rokushiki technique, hinting at a secret seventh technique beyond the standard six martial arts forms.",
+      "significance": "Sets up the reveal of Rokuogan in the next episode, the ultimate technique that only absolute masters of Rokushiki can access. This foreshadows an even more intense escalation of the battle.",
+      "characterIds": ["rob-lucci", "luffy"],
+      "locationIds": ["bridge-of-hesitation"],
+      "quotes": [
+        {
+          "text": "I will show you the most powerful Rokushiki technique!",
+          "speaker": "Rob Lucci",
+          "context": "Lucci's declaration before unveiling his ultimate attack"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [302, 304],
+      "payoffInEpisodes": [308],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep307-event-012",
+      "episodeNumber": 307,
+      "timestamp": "21:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Battleships Surround the Bridge of Hesitation",
+      "description": "The Buster Call warships position themselves around the Bridge of Hesitation, the only structure still standing after the complete destruction of Enies Lobby's main island. They prepare to focus their assault on the bridge itself.",
+      "significance": "The noose tightens around Luffy and the crew. With nowhere left to run and the bridge under siege, Luffy must defeat Lucci quickly or risk being caught in the Buster Call's devastating firepower.",
+      "characterIds": [],
+      "locationIds": ["bridge-of-hesitation", "enies-lobby"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [287, 306],
+      "payoffInEpisodes": [308, 309],
+      "callbacksToEpisodes": [287]
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["gomu-gomu-no-jet-pistol", "gomu-gomu-no-jet-bullet"]
+  },
+  "episodeRelationships": {
+    "setupFor": [308, 309],
+    "payoffFrom": [302, 304, 306],
+    "thematicLinks": [287, 272, 311]
+  },
+  "quotes": [
+    {
+      "text": "Luffy! Hurry up!",
+      "speaker": "Franky",
+      "context": "Franky's desperate plea for Luffy to finish the battle as their allies come under attack",
+      "timestamp": "07:30"
+    },
+    {
+      "text": "It is best not to get involved.",
+      "speaker": "Zoro",
+      "context": "Zoro's statement about not interfering with Luffy's fight against Lucci",
+      "timestamp": "04:15"
+    },
+    {
+      "text": "I will not stop using my power until you are defeated!",
+      "speaker": "Luffy",
+      "context": "Luffy's declaration of determination as he prepares to use Gear Second",
+      "timestamp": "15:30"
+    },
+    {
+      "text": "Gomu Gomu no... Jet Pistol!",
+      "speaker": "Luffy",
+      "context": "Luffy's first Gear Second enhanced attack against Lucci in this episode",
+      "timestamp": "17:15"
+    },
+    {
+      "text": "I will show you the most powerful Rokushiki technique!",
+      "speaker": "Rob Lucci",
+      "context": "Lucci's ominous declaration before revealing Rokuogan",
+      "timestamp": "20:05"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Sacrifice and Loyalty",
+      "description": "The episode showcases the incredible sacrifice of Oimo and Kashii, who shield the Franky Family and Galley-La with their own bodies, taking the full brunt of the Buster Call's cannon fire.",
+      "symbolism": "The giants' willingness to protect smaller allies represents the bonds formed during the Enies Lobby battle and the theme of protecting those weaker than yourself.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Overwhelming Government Power",
+      "description": "The Buster Call's systematic destruction of Enies Lobby demonstrates the World Government's absolute power and willingness to destroy anything that threatens their authority, even their own judicial island.",
+      "symbolism": "The complete obliteration of the island represents the World Government's 'scorched earth' mentality and their view of individuals as expendable.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Trust in One's Captain",
+      "description": "The crew's decision not to interfere with Luffy's battle, despite their concern, shows their complete faith in his ability to overcome any obstacle.",
+      "symbolism": "Zoro's statement about not getting involved represents the crew's growth and understanding of their roles - they trust Luffy to handle the impossible.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Cost of Justice",
+      "description": "Franky's lamentation over the apparent deaths of his family and the Galley-La workers highlights the heavy price paid for rescuing Robin and challenging the World Government.",
+      "symbolism": "Franky's anguish represents the emotional toll of their righteous battle and the weight of responsibility for those who fight alongside them.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Intense", "Desperate", "Tragic", "Determined"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist in climactic battle",
+      "development": "Luffy demonstrates his growth and determination by pushing Gear Second to its limits against the strongest opponent he's faced. His refusal to give up despite the collapsing environment shows his unwavering resolve.",
+      "keyActions": [
+        "Activates Gear Second for the second time against Lucci",
+        "Unleashes Gomu Gomu no Jet Pistol",
+        "Strikes Lucci with Gomu Gomu no Jet Bullet",
+        "Continues fighting despite the building collapsing around him"
+      ],
+      "quotes": [
+        "I will not stop using my power until you are defeated!"
+      ]
+    },
+    {
+      "characterId": "franky",
+      "role": "Emotional anchor showing the stakes",
+      "development": "Franky's emotional breakdown as he watches his family and allies apparently die shows his deep capacity for love despite his tough cyborg exterior. This moment reveals his vulnerability and humanity.",
+      "keyActions": [
+        "Desperately calls for Luffy to hurry",
+        "Watches in horror as allies are attacked",
+        "Shows his emotional side through his lamentation"
+      ],
+      "quotes": [
+        "Luffy! Hurry up!"
+      ]
+    },
+    {
+      "characterId": "rob-lucci",
+      "role": "Antagonist pushing Luffy to his limits",
+      "development": "Lucci remains a cold, calculating fighter who prepares to unleash his ultimate technique. His declaration of the 'most powerful Rokushiki technique' shows his confidence and mastery.",
+      "keyActions": [
+        "Continues intense battle with Luffy",
+        "Takes multiple Jet attacks from Luffy",
+        "Prepares to unleash Rokuogan"
+      ],
+      "quotes": [
+        "I will show you the most powerful Rokushiki technique!"
+      ]
+    },
+    {
+      "characterId": "zoro",
+      "role": "Voice of trust and confidence",
+      "development": "Zoro's statement about not interfering demonstrates the crew's maturity and trust in Luffy's abilities, showing how far they've come as a team.",
+      "keyActions": [
+        "Watches the battle from the ship",
+        "Prevents others from interfering"
+      ],
+      "quotes": [
+        "It is best not to get involved."
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends several scenes of the Buster Call bombardment and the allies' fall into the waterfall for dramatic effect, while the manga handles these moments more concisely.",
+      "episodeTimestamp": "09:45-11:20",
+      "mangaReference": "Chapter 424",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "The anime adds additional reaction shots of the Straw Hats watching the battle and worrying about Luffy that aren't present in the manga.",
+      "episodeTimestamp": "Various",
+      "mangaReference": "Chapters 424-425",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode aired with a TV rating of 10.5%, ranking 5th in viewership for that week in Japan.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_307",
+          "title": "Episode 307 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "fact": "The episode title references Franky's emotional outcry, making him the focal point of the title despite Luffy being the main character fighting.",
+      "category": "STORYTELLING",
+      "sources": []
+    },
+    {
+      "fact": "The opening theme 'Crazy Rainbow' by Tackey & Tsubasa was used from episodes 284-325, making this episode fall right in the middle of that opening's run.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Crazy_Rainbow",
+          "title": "Crazy Rainbow - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-19"
+        }
+      ]
+    },
+    {
+      "fact": "One Piece stopped using ending themes from Episode 279 onwards, so this episode did not feature an ending song. Ending themes wouldn't return until Episode 1071, marking a 17-year gap.",
+      "category": "MUSIC",
+      "sources": []
+    },
+    {
+      "fact": "Director Eiichiro Oda praised director Sakai's work on animating Gear Second in the Enies Lobby arc, commending the creative direction of the technique's visual presentation.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "The eyecatcher for this episode featured Usopp and Luffy, continuing the series tradition of showcasing different character pairings.",
+      "category": "PRODUCTION",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

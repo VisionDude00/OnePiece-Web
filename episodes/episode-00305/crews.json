@@ -1,0 +1,143 @@
+[
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "luffy",
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [305],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 305,
+        "eventId": "ep305-event-001",
+        "momentType": "BATTLE_START",
+        "title": "Luffy Continues Battle Against Lucci",
+        "description": "Captain Luffy continues his intense battle against Rob Lucci, using new Gear Third techniques to try to defeat CP9's strongest agent.",
+        "significance": "The climactic battle of the Enies Lobby arc continues with the crew's captain fighting for Robin's freedom.",
+        "timestamp": "02:30"
+      },
+      {
+        "episodeNumber": 305,
+        "eventId": "ep305-event-011",
+        "momentType": "LOCATION_ARRIVAL",
+        "title": "Half the Crew Trapped in Flooding Tunnels",
+        "description": "Zoro, Sanji, Nami, Chopper, along with allies Kokoro and Chimney, are trapped in the underground tunnels as Enies Lobby floods.",
+        "significance": "Shows that even after defeating their CP9 opponents, the crew still faces mortal danger from the island's destruction.",
+        "timestamp": "18:20"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull wearing a straw hat with crossed bones behind it",
+      "episodeFirstSeen": 45,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": [],
+      "enemies": ["cp9", "marines"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "CP9",
+      "japanese": "CP9",
+      "romanized": "Shīpī Nain"
+    },
+    "crewType": "GOVERNMENT_AGENCY",
+    "captainId": "spandam",
+    "debutEpisode": 240,
+    "debutChapter": 323,
+    "episodeAppearances": [305],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 305,
+        "eventId": "ep305-event-003",
+        "momentType": "BACKSTORY_REVEAL",
+        "title": "Lucci's Past as Young Assassin Revealed",
+        "description": "The episode reveals that Rob Lucci has been working as a World Government assassin since age 13, when he killed 500 hostages during a mission.",
+        "significance": "Establishes the dark origins of CP9's strongest agent and explains why the organization employs such ruthless methods.",
+        "timestamp": "05:45"
+      },
+      {
+        "episodeNumber": 305,
+        "eventId": "ep305-event-006",
+        "momentType": "WORLD_LORE",
+        "title": "Dark Justice Philosophy Explained",
+        "description": "The episode fully explains CP9's 'Dark Justice' ideology through Lucci's backstory, showing how it differs from Marine justice.",
+        "significance": "Provides crucial insight into CP9's moral framework and why they're willing to commit atrocities in the name of the World Government.",
+        "timestamp": "10:30"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "CP9 has no jolly roger as they are a World Government agency",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "#000000",
+    "relationships": {
+      "allies": ["marines"],
+      "enemies": ["straw-hat-pirates"],
+      "parentOrganization": "world-government"
+    }
+  },
+  {
+    "name": {
+      "english": "Marines",
+      "japanese": "海軍",
+      "romanized": "Kaigun"
+    },
+    "crewType": "MILITARY",
+    "captainId": null,
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [305],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 305,
+        "eventId": "ep305-event-002",
+        "momentType": "BACKSTORY_REVEAL",
+        "title": "Doberman Recounts Lucci's History",
+        "description": "Vice-Admiral Doberman tells his subordinates about Rob Lucci's dark past, showing Marine leadership's awareness of CP9's methods.",
+        "significance": "Demonstrates that Marine leadership knows about and accepts CP9's brutal tactics.",
+        "timestamp": "04:15"
+      },
+      {
+        "episodeNumber": 305,
+        "eventId": "ep305-event-010",
+        "momentType": "MAJOR_DECISION",
+        "title": "Onigumo Orders Sacrifice of Own Men",
+        "description": "Vice-Admiral Onigumo orders the bombardment of a Marine ship full of his own men to try to eliminate Luffy, shooting a subordinate who protests.",
+        "significance": "Shows that 'Absolute Justice' can be as ruthless as CP9's 'Dark Justice,' willing to sacrifice Marines for mission objectives.",
+        "timestamp": "16:45"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "The Marine symbol featuring a seagull",
+      "episodeFirstSeen": 1,
+      "imageUrl": ""
+    },
+    "mainColor": "#000080",
+    "relationships": {
+      "allies": ["cp9"],
+      "enemies": ["straw-hat-pirates"],
+      "parentOrganization": "world-government"
+    }
+  }
+]
