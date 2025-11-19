@@ -1,0 +1,115 @@
+[
+  {
+    "name": {
+      "english": "Tower of Justice",
+      "japanese": "司法の塔",
+      "romanized": "Shihō no Tō"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "PARADISE",
+    "islandName": "Enies Lobby",
+    "debutEpisode": 264,
+    "debutChapter": 375,
+    "description": "The Tower of Justice is the central judicial building at Enies Lobby where captured criminals are processed before being sent through the Gates of Justice. It's a massive tower that serves as CP9's headquarters and the location of the final confrontations during the Enies Lobby arc.",
+    "episodeAppearances": [301],
+    "keyEvents": [
+      {
+        "episodeNumber": 301,
+        "eventId": "ep301-event-002",
+        "eventType": "MAJOR_DECISION",
+        "title": "Sogeking's Heroic Stand",
+        "description": "Sogeking (Usopp) takes his position on the Tower of Justice and declares himself the hero who will save Robin, preparing for his incredible long-range snipe shot.",
+        "significance": "The tower serves as the dramatic stage for one of Usopp's most heroic moments, as he literally stands above the conflict as a hero.",
+        "timestamp": "10:45"
+      },
+      {
+        "episodeNumber": 301,
+        "eventId": "ep301-event-003",
+        "eventType": "BATTLE_START",
+        "title": "Sogeking Snipes Spandam",
+        "description": "From atop the Tower of Justice, Sogeking fires his Kabuto and successfully strikes Spandam, stopping him from dragging Robin to the Gates of Justice.",
+        "significance": "The tower's height provides the vantage point necessary for Usopp's incredible shot, making it crucial to Robin's rescue.",
+        "timestamp": "14:20"
+      },
+      {
+        "episodeNumber": 301,
+        "eventId": "ep301-event-006",
+        "eventType": "TECHNIQUE_DEBUT",
+        "title": "Robin's Seis Fleur: Slap",
+        "description": "On the Tower of Justice, after being freed from her Seastone handcuffs, Robin unleashes her fury on Spandam with her new technique.",
+        "significance": "The irony of Robin fighting back against her captor on the 'Tower of Justice' highlights the World Government's corruption.",
+        "timestamp": "18:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 264,
+        "episodeEnd": 312,
+        "reason": "The Tower is operational during the Enies Lobby arc"
+      }
+    ],
+    "parentLocation": "Enies Lobby",
+    "childLocations": [],
+    "relatedCharacters": ["robin", "spandam", "usopp", "franky"],
+    "relatedCrews": ["cp9", "straw-hat-pirates"],
+    "relatedArcs": ["Enies Lobby"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Enies Lobby",
+      "japanese": "エニエス・ロビー",
+      "romanized": "Eniesu Robī"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "PARADISE",
+    "islandName": "Enies Lobby",
+    "debutEpisode": 263,
+    "debutChapter": 375,
+    "description": "Enies Lobby is a government-controlled stronghold known as the 'Judicial Island' where criminals are processed before being sent to Impel Down or executed. It's an island of perpetual daylight and serves as one of the World Government's three major strongholds alongside Marine Headquarters and Impel Down.",
+    "episodeAppearances": [301],
+    "keyEvents": [
+      {
+        "episodeNumber": 301,
+        "eventId": "ep301-event-007",
+        "eventType": "WORLD_LORE",
+        "title": "Buster Call Fleet Arrives",
+        "description": "The devastating Buster Call fleet arrives at Enies Lobby with ten warships commanded by five Vice Admirals, beginning a massive naval bombardment that threatens to destroy the entire island.",
+        "significance": "This event parallels the Buster Call on Ohara twenty years earlier, creating tremendous dramatic tension as Robin must escape the same weapon that destroyed her homeland.",
+        "timestamp": "20:30"
+      },
+      {
+        "episodeNumber": 301,
+        "eventId": "ep301-event-008",
+        "eventType": "PROPHECY_FORESHADOWING",
+        "title": "The Warships Begin Their Assault",
+        "description": "The Buster Call warships begin their approach to Enies Lobby, signaling the beginning of a catastrophic attack on the island.",
+        "significance": "Foreshadows the desperate escape the Straw Hats must make and raises the stakes to their highest point.",
+        "timestamp": "21:00"
+      }
+    ],
+    "status": "UNDER_ATTACK",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 263,
+        "episodeEnd": 300,
+        "reason": "Enies Lobby is operational as a World Government stronghold"
+      },
+      {
+        "status": "UNDER_ATTACK",
+        "episodeStart": 301,
+        "episodeEnd": 312,
+        "reason": "The Buster Call fleet arrives and begins bombarding the island"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["Tower of Justice"],
+    "relatedCharacters": ["robin", "spandam", "usopp", "franky"],
+    "relatedCrews": ["cp9", "straw-hat-pirates", "marines"],
+    "relatedArcs": ["Enies Lobby"],
+    "images": []
+  }
+]
