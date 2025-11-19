@@ -1,0 +1,430 @@
+{
+  "episodeNumber": 294,
+  "episodeTitle": "Resounding Bad News! Buster Call Invoked!",
+  "description": "Spandam accidentally activates the Buster Call while bragging to Robin, triggering a Marine evacuation of Enies Lobby. Meanwhile, Luffy's rematch with Rob Lucci begins, while Chopper rampages in his uncontrollable Monster Point form.",
+  "airDate": "2007-01-21",
+  "airDateJapan": "2007-01-21",
+  "airDateUS": "2013-10-12",
+  "arcName": "Enies Lobby",
+  "sagaName": "Water 7",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Crazy Rainbow",
+    "artist": "Tackey & Tsubasa",
+    "episodeRange": [284, 325]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Munehisa Sakai",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Rob Lucci",
+        "actor": "Tomokazu Seki"
+      },
+      {
+        "character": "Spandam",
+        "actor": "Masaya Onosaka"
+      },
+      {
+        "character": "Kaku",
+        "actor": "Ryotaro Okiayu"
+      },
+      {
+        "character": "Jabra",
+        "actor": "Kenji Nomura"
+      },
+      {
+        "character": "Kalifa",
+        "actor": "Masami Suzuki"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Rob Lucci",
+        "actor": "Jason Liebrecht"
+      },
+      {
+        "character": "Spandam",
+        "actor": "Christopher Corey Smith"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep294-event-001",
+      "episodeNumber": 294,
+      "timestamp": "05:30",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Spandam Accidentally Invokes the Buster Call",
+      "description": "While attempting to contact CP9 agents, Spandam mistakenly picks up the Golden Den Den Mushi instead of his regular transponder snail. He presses the button, accidentally triggering the Buster Call on Enies Lobby. Robin immediately recognizes the Golden Den Den Mushi as the same device used to destroy Ohara 20 years ago.",
+      "significance": "This catastrophic mistake sets the stage for the complete destruction of Enies Lobby and creates a time limit for the Straw Hats' rescue mission. It demonstrates the devastating power of the World Government's ultimate weapon and connects directly to Robin's traumatic past.",
+      "characterIds": ["spandam", "robin"],
+      "locationIds": ["enies-lobby"],
+      "quotes": [
+        {
+          "text": "What are you holding?",
+          "speaker": "Nico Robin",
+          "context": "Robin realizes Spandam is holding the Golden Den Den Mushi"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [264, 275],
+      "payoffInEpisodes": [295, 296, 297, 298, 299, 300, 301, 302, 303, 304],
+      "callbacksToEpisodes": [275]
+    },
+    {
+      "id": "ep294-event-002",
+      "episodeNumber": 294,
+      "timestamp": "08:15",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Robin Recognizes the Buster Call Connection to Ohara",
+      "description": "Upon seeing the Golden Den Den Mushi activated, Robin flashes back to the destruction of Ohara. She realizes this is the exact same weapon that destroyed her homeland and killed everyone she loved 20 years ago, creating a deep emotional resonance with her current situation.",
+      "significance": "This moment highlights the cyclical nature of the World Government's violence and Robin's personal connection to the Buster Call. It reinforces why she's so terrified of the World Government's power and adds emotional weight to the rescue mission.",
+      "characterIds": ["robin"],
+      "locationIds": ["enies-lobby"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [275, 278],
+      "payoffInEpisodes": [302, 303, 304],
+      "callbacksToEpisodes": [275, 278]
+    },
+    {
+      "id": "ep294-event-003",
+      "episodeNumber": 294,
+      "timestamp": "10:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Marine Evacuation of Enies Lobby Begins",
+      "description": "Upon receiving the Buster Call signal, Marine officers at Enies Lobby immediately begin evacuation procedures. They estimate 30 minutes until the Buster Call fleet arrives. Marines and government agents start fleeing the island, abandoning the Galley-La foremen and Franky Family members who are still tied up.",
+      "significance": "This creates a ticking clock scenario for the Straw Hats and demonstrates the indiscriminate nature of the Buster Call - even government allies are expendable. The 30-minute countdown adds intense urgency to all ongoing battles.",
+      "characterIds": ["marine-officers"],
+      "locationIds": ["enies-lobby"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [295, 296, 302, 303],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep294-event-004",
+      "episodeNumber": 294,
+      "timestamp": "12:00",
+      "eventType": "BATTLE_START",
+      "severity": "CRITICAL",
+      "title": "Luffy vs Rob Lucci Rematch Begins",
+      "description": "Luffy finally confronts Rob Lucci in a storage room within the Tower of Justice. The two powerful fighters begin their climactic battle, exchanging devastating blows. This marks the beginning of one of the most significant fights in the Enies Lobby arc.",
+      "significance": "This is the main event battle of the Enies Lobby arc - the rematch between Luffy and the strongest CP9 agent. The outcome of this fight will determine whether the Straw Hats can save Robin and escape before the Buster Call destroys the island.",
+      "characterIds": ["luffy", "rob-lucci"],
+      "locationIds": ["tower-of-justice"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [271, 272, 273, 293],
+      "payoffInEpisodes": [295, 296, 297, 298, 299, 300, 301, 302],
+      "callbacksToEpisodes": [273, 293]
+    },
+    {
+      "id": "ep294-event-005",
+      "episodeNumber": 294,
+      "timestamp": "14:20",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Chopper's Monster Point Rampage Continues",
+      "description": "Chopper, having transformed into his uncontrollable Monster Point form after taking three Rumble Balls, continues his wild rampage through the Tower of Justice. In his berserk state, he attacks friend and foe alike, knocking Franky over and destroying everything in his path. His monstrous form is completely beyond his control.",
+      "significance": "This demonstrates the dangerous drawback of Chopper's most powerful form and shows that the Straw Hats' situation is becoming increasingly desperate. Chopper's rampage adds chaos to an already critical situation and puts his own allies at risk.",
+      "characterIds": ["chopper", "franky"],
+      "locationIds": ["tower-of-justice"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [290],
+      "payoffInEpisodes": [295, 296],
+      "callbacksToEpisodes": [290]
+    },
+    {
+      "id": "ep294-event-006",
+      "episodeNumber": 294,
+      "timestamp": "16:50",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Zoro and Usopp Continue Fighting While Handcuffed",
+      "description": "Zoro and Usopp (as Sogeking) remain handcuffed together with seastone cuffs while fighting against both Kaku and Jabra simultaneously. Zoro is forced to use Usopp as an improvised weapon, swinging him around in combat. Neither CP9 agent has the correct key to unlock the handcuffs.",
+      "significance": "This comedic yet challenging situation forces Zoro to adapt his three-sword style fighting technique in creative ways. The handicap adds difficulty to an already dangerous two-on-two battle and showcases Zoro's adaptability as a swordsman.",
+      "characterIds": ["zoro", "usopp", "kaku", "jabra"],
+      "locationIds": ["tower-of-justice"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [293],
+      "payoffInEpisodes": [295, 296, 297],
+      "callbacksToEpisodes": [293]
+    },
+    {
+      "id": "ep294-event-007",
+      "episodeNumber": 294,
+      "timestamp": "18:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Nami Continues Battle Against Kalifa",
+      "description": "Nami continues her difficult battle against CP9's Kalifa, who has been using her Devil Fruit powers to drain Nami's strength. Despite the disadvantage, Nami persists in the fight, determined to help save Robin.",
+      "significance": "This battle represents Nami's growth as a fighter and her determination to protect her crew member. It's one of the key individual matchups during the Enies Lobby arc climax.",
+      "characterIds": ["nami", "kalifa"],
+      "locationIds": ["tower-of-justice"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [292, 293],
+      "payoffInEpisodes": [295],
+      "callbacksToEpisodes": [292, 293]
+    },
+    {
+      "id": "ep294-event-008",
+      "episodeNumber": 294,
+      "timestamp": "19:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Galley-La and Franky Family Abandoned",
+      "description": "As Marines evacuate Enies Lobby, they leave behind the tied-up Galley-La Company foremen (Paulie, Tilestone, Lulu) and members of the Franky Family. These allies of the Straw Hats are left to face the incoming Buster Call destruction, showing the World Government's callousness toward anyone deemed expendable.",
+      "significance": "This demonstrates the ruthless nature of the World Government and the Buster Call - even their own allies are abandoned when convenient. It adds stakes for the Straw Hats' allies and shows they must escape on their own or face annihilation.",
+      "characterIds": ["paulie", "tilestone", "lulu", "franky-family"],
+      "locationIds": ["enies-lobby"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [285, 286, 287],
+      "payoffInEpisodes": [302, 303],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [295, 296, 297, 298, 299, 300, 301, 302, 303, 304],
+    "payoffFrom": [275, 290, 293],
+    "thematicLinks": [275, 278, 302, 303, 304]
+  },
+  "quotes": [
+    {
+      "text": "What are you holding?",
+      "speaker": "Nico Robin",
+      "context": "Robin recognizes Spandam is holding the Golden Den Den Mushi",
+      "timestamp": "05:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "The Consequences of Incompetence",
+      "description": "Spandam's accidental activation of the Buster Call demonstrates how one person's carelessness can trigger catastrophic consequences. His arrogance and incompetence directly endanger everyone on Enies Lobby.",
+      "symbolism": "The Golden Den Den Mushi represents unchecked power in the hands of the unworthy.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Cyclical Violence and Trauma",
+      "description": "Robin's recognition of the Buster Call connects her traumatic past at Ohara to her present crisis, showing how the World Government's violence perpetuates across generations.",
+      "symbolism": "The same weapon that destroyed Robin's childhood now threatens to destroy her new family, the Straw Hats.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Sacrifice and Abandonment",
+      "description": "The evacuation shows how the World Government views individuals as expendable. Marines abandon their own allies (Galley-La and Franky Family) without hesitation when the Buster Call is activated.",
+      "symbolism": "The evacuation represents the World Government's willingness to sacrifice anyone for their version of 'justice.'",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Escalation and Desperation",
+      "description": "All the ongoing battles reach critical points simultaneously as the Buster Call countdown begins, creating maximum tension and forcing characters to their limits.",
+      "symbolism": "The 30-minute countdown represents the ticking clock of fate.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Dramatic", "Desperate", "Chaotic"],
+  "characterSpotlights": [
+    {
+      "characterId": "spandam",
+      "role": "Antagonist making critical mistake",
+      "development": "Spandam's incompetence is fully displayed when he accidentally triggers the Buster Call. Despite his position of authority, his arrogance and carelessness create disaster.",
+      "keyActions": [
+        "Attempts to contact CP9 agents",
+        "Accidentally picks up the Golden Den Den Mushi",
+        "Activates the Buster Call by mistake",
+        "Continues dragging Robin toward the Gates of Justice"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "robin",
+      "role": "Captive recognizing her past repeating",
+      "development": "Robin experiences the horror of seeing the same weapon that destroyed Ohara being used again. This deepens her trauma and emphasizes why she's so afraid of the World Government.",
+      "keyActions": [
+        "Recognizes the Golden Den Den Mushi",
+        "Flashes back to Ohara's destruction",
+        "Witnesses the beginning of the evacuation"
+      ],
+      "quotes": ["What are you holding?"]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Protagonist beginning climactic battle",
+      "development": "Luffy finally confronts Rob Lucci directly, beginning the most important fight of the arc. His determination to save Robin drives him into this crucial battle.",
+      "keyActions": [
+        "Confronts Rob Lucci in the Tower of Justice",
+        "Begins exchanging powerful blows with Lucci"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "chopper",
+      "role": "Ally out of control",
+      "development": "Chopper's Monster Point rampage continues, showing the dangerous downside of his most powerful transformation. He's unable to distinguish friend from foe in this berserk state.",
+      "keyActions": [
+        "Rampages through the Tower of Justice",
+        "Attacks Franky",
+        "Destroys property indiscriminately"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended the pacing to adapt only one manga chapter (409) into a full episode, adding more reaction shots and extended battle sequences.",
+      "episodeTimestamp": "00:00",
+      "mangaReference": "Chapter 409",
+      "type": "PACING_CHANGE"
+    },
+    {
+      "difference": "The anime chapter title is 'Resounding Bad News! Buster Call Invoked!' while the manga chapter is titled 'Emergency Bad News Broadcast.'",
+      "episodeTimestamp": "00:00",
+      "mangaReference": "Chapter 409",
+      "type": "TITLE_CHANGE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episode 294 adapts only Chapter 409 of the manga (pages 2-19), showing the anime's slower pacing during the Enies Lobby arc.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_294",
+          "title": "Episode 294 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-01-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode marks exactly 30 minutes until the Buster Call fleet arrives at Enies Lobby, creating a countdown that spans multiple episodes.",
+      "category": "PLOT",
+      "sources": []
+    },
+    {
+      "fact": "The Golden Den Den Mushi that Spandam activates is the same type of device used to destroy Ohara 20 years prior, given to Spandine (Spandam's father) by Admiral Sengoku.",
+      "category": "LORE",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Buster_Call",
+          "title": "Buster Call - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-01-18"
+        }
+      ]
+    },
+    {
+      "fact": "Admiral Aokiji gave Spandam permission to use the Buster Call, providing him with the Golden Den Den Mushi. This is significant given Aokiji's complicated relationship with the Ohara incident.",
+      "category": "LORE",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Buster_Call",
+          "title": "Buster Call - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-01-18"
+        }
+      ]
+    },
+    {
+      "fact": "This episode aired in Japan on January 21, 2007, but didn't air in the US until October 12, 2013 - over 6 years later.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "Starting from episode 279, One Piece stopped having ending songs. Episode 294 uses an extended opening instead, with 'Crazy Rainbow' lasting nearly 3 minutes.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://anime.stackexchange.com/questions/175/why-did-the-anime-stop-having-ending-songs-since-episode-279",
+          "title": "Why did the anime stop having ending songs since episode 279?",
+          "platform": "Stack Exchange",
+          "accessedAt": "2025-01-18"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
