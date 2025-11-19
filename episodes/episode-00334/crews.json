@@ -1,0 +1,140 @@
+[
+  {
+    "name": {
+      "english": "Accino Family",
+      "japanese": "アッチーノファミリー",
+      "romanized": "Atchīno Famirī"
+    },
+    "crewType": "BOUNTY_HUNTER_GROUP",
+    "captainId": "don-accino",
+    "debutEpisode": 326,
+    "debutChapter": null,
+    "episodeAppearances": [334],
+    "members": [
+      {
+        "characterId": "don-accino",
+        "role": "Patriarch/Leader",
+        "episodeJoined": 326,
+        "episodeLeft": null,
+        "joinCircumstances": "Leader of the family-based bounty hunting organization."
+      },
+      {
+        "characterId": "campacino",
+        "role": "Eldest Son",
+        "episodeJoined": 326,
+        "episodeLeft": null,
+        "joinCircumstances": "Born into the family."
+      },
+      {
+        "characterId": "lil",
+        "role": "Youngest Daughter",
+        "episodeJoined": 326,
+        "episodeLeft": null,
+        "joinCircumstances": "Born into the family."
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 334,
+        "eventId": "ep334-event-001",
+        "momentType": "BATTLE_START",
+        "title": "Climactic Battle Against Straw Hats",
+        "description": "The Accino Family faces the Straw Hat Pirates in the final confrontation of the Ice Hunter Arc.",
+        "significance": "The culmination of the family's conflict with the Straw Hats over the stolen Jolly Roger.",
+        "timestamp": "05:30"
+      },
+      {
+        "episodeNumber": 334,
+        "eventId": "ep334-event-004",
+        "momentType": "BATTLE_END",
+        "title": "Campacino Defeated",
+        "description": "Campacino, the eldest son, is defeated by Puzzle, weakening the family's fighting force.",
+        "significance": "Removes one of the family's key combatants from the battle.",
+        "timestamp": "11:20"
+      }
+    ],
+    "ships": [],
+    "bases": [
+      {
+        "locationName": "Lovely Land",
+        "locationId": "lovely-land",
+        "episodeAcquired": 326,
+        "episodeLost": 335,
+        "description": "The Accino Family's frozen base of operations where they collect pirate flags as trophies."
+      }
+    ],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "Unknown - bounty hunter organization",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "relationships": {
+      "allies": [],
+      "enemies": ["straw-hat-pirates", "phoenix-pirates"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Phoenix Pirates",
+      "japanese": "フェニックス海賊団",
+      "romanized": "Fenikkusu Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "puzzle",
+    "debutEpisode": 326,
+    "debutChapter": null,
+    "episodeAppearances": [334],
+    "members": [
+      {
+        "characterId": "puzzle",
+        "role": "Captain",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Captain and founder of the Phoenix Pirates."
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 334,
+        "eventId": "ep334-event-004",
+        "momentType": "BATTLE_END",
+        "title": "Puzzle Defeats Campacino",
+        "description": "Captain Puzzle defeats Campacino, showing his renewed fighting spirit and helping the Straw Hats.",
+        "significance": "Demonstrates Puzzle's recovery from his depression and commitment to helping the Straw Hats.",
+        "timestamp": "11:20"
+      },
+      {
+        "episodeNumber": 334,
+        "eventId": "ep334-event-011",
+        "momentType": "CULTURAL_MOMENT",
+        "title": "Phoenix Pirates Flag Retrieved (Wrong Flag)",
+        "description": "Chopper mistakenly grabs the Phoenix Pirates' flag instead of the Straw Hat flag.",
+        "significance": "Creates a complication that extends the search for the correct flag.",
+        "timestamp": "22:15"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [
+      {
+        "totalBounty": 100000000,
+        "episodeNumber": 326,
+        "memberBounties": {
+          "puzzle": 100000000
+        }
+      }
+    ],
+    "jollyRoger": {
+      "description": "A phoenix-themed Jolly Roger",
+      "episodeFirstSeen": 326,
+      "imageUrl": ""
+    },
+    "relationships": {
+      "allies": ["straw-hat-pirates"],
+      "enemies": ["accino-family"],
+      "parentOrganization": null
+    }
+  }
+]

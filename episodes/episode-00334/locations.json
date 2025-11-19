@@ -1,0 +1,124 @@
+[
+  {
+    "name": {
+      "english": "Lovely Land",
+      "japanese": "ラブリーランド",
+      "romanized": "Raburī Rando"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Hyokaido",
+    "debutEpisode": 326,
+    "debutChapter": null,
+    "description": "A frozen island region that serves as the base of operations for the Accino Family. The area features ice-covered terrain, volcanic activity beneath the surface, and Don Accino's mansion where he stores his collection of captured pirate flags.",
+    "episodeAppearances": [334],
+    "keyEvents": [
+      {
+        "episodeNumber": 334,
+        "eventId": "ep334-event-001",
+        "eventType": "BATTLE_START",
+        "title": "Luffy vs Don Accino Battle Intensifies",
+        "description": "The climactic battle between Luffy and Don Accino takes place across the frozen landscape of Lovely Land.",
+        "significance": "Serves as the battleground for the final confrontation of the Ice Hunter Arc.",
+        "timestamp": "05:30"
+      },
+      {
+        "episodeNumber": 334,
+        "eventId": "ep334-event-008",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Don Accino Falls into Lava",
+        "description": "Don Accino falls into the molten lava beneath Lovely Land but survives due to his heat-based powers.",
+        "significance": "Reveals the volcanic nature of the region beneath the frozen surface.",
+        "timestamp": "21:30"
+      },
+      {
+        "episodeNumber": 334,
+        "eventId": "ep334-event-010",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Flags Scatter Across Lovely Land",
+        "description": "When Don Accino crashes through the flag room, hundreds of pirate flags scatter across Lovely Land's sky.",
+        "significance": "Creates a visually striking moment symbolizing the liberation of captured crews' symbols.",
+        "timestamp": "21:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 326,
+        "episodeEnd": 335,
+        "reason": "Base of operations for the Accino Family during the Ice Hunter Arc"
+      }
+    ],
+    "parentLocation": "Hyokaido",
+    "childLocations": ["accino-mansion"],
+    "relatedCharacters": ["don-accino", "luffy", "puzzle", "lil", "campacino"],
+    "relatedCrews": ["accino-family", "straw-hat-pirates", "phoenix-pirates"],
+    "relatedArcs": ["Ice Hunter Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Accino Mansion",
+      "japanese": "アッチーノ邸",
+      "romanized": "Atchīno Tei"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Hyokaido",
+    "debutEpisode": 326,
+    "debutChapter": null,
+    "description": "Don Accino's mansion within Lovely Land, featuring a large collection room where he stores hundreds of captured pirate flags as trophies. The mansion becomes a battleground during Luffy's confrontation with Don Accino.",
+    "episodeAppearances": [334],
+    "keyEvents": [
+      {
+        "episodeNumber": 334,
+        "eventId": "ep334-event-007",
+        "eventType": "POWER_REVEAL",
+        "title": "Don Accino Reaches 10,000 Degrees in the Mansion",
+        "description": "Don Accino reaches his maximum temperature inside his mansion during the battle with Luffy.",
+        "significance": "The intense heat threatens to destroy the mansion and Don Accino's precious flag collection.",
+        "timestamp": "17:25"
+      },
+      {
+        "episodeNumber": 334,
+        "eventId": "ep334-event-009",
+        "eventType": "TECHNIQUE_DEBUT",
+        "title": "Luffy Sends Don Accino Through Mansion Wall",
+        "description": "Luffy's Gomu Gomu no Jet Pistol sends Don Accino crashing through the mansion walls, creating massive destruction.",
+        "significance": "Represents the turning point of the battle and destroys Don Accino's flag collection.",
+        "timestamp": "20:45"
+      },
+      {
+        "episodeNumber": 334,
+        "eventId": "ep334-event-010",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Flag Room Destroyed",
+        "description": "Don Accino crashes through the flag room, sending hundreds of collected pirate flags flying into the air.",
+        "significance": "Destroys Don Accino's trophy collection and symbolizes the liberation of the captured flags.",
+        "timestamp": "21:30"
+      }
+    ],
+    "status": "DESTROYED",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 326,
+        "episodeEnd": 334,
+        "reason": "Don Accino's residence and flag storage"
+      },
+      {
+        "status": "DESTROYED",
+        "episodeStart": 334,
+        "episodeEnd": "present",
+        "reason": "Destroyed during Luffy's battle with Don Accino"
+      }
+    ],
+    "parentLocation": "lovely-land",
+    "childLocations": [],
+    "relatedCharacters": ["don-accino", "luffy"],
+    "relatedCrews": ["accino-family"],
+    "relatedArcs": ["Ice Hunter Arc"],
+    "images": []
+  }
+]
