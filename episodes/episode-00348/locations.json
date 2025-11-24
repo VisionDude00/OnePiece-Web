@@ -1,0 +1,91 @@
+[
+  {
+    "name": {
+      "english": "Thriller Bark",
+      "japanese": "スリラーバーク",
+      "romanized": "Surirā Bāku"
+    },
+    "locationType": "SHIP",
+    "seaRegion": "FLORIAN_TRIANGLE",
+    "islandName": null,
+    "debutEpisode": 337,
+    "debutChapter": 442,
+    "description": "A massive ship disguised as an island, commanded by Gecko Moria. It serves as the base for Moria's zombie army and his operations in the Florian Triangle.",
+    "episodeAppearances": [348],
+    "keyEvents": [
+      {
+        "episodeNumber": 348,
+        "eventId": "ep348-event-004",
+        "eventType": "WORLD_LORE",
+        "title": "Moria's Plan Revealed",
+        "description": "Gecko Moria reveals his plan to become Pirate King by using Luffy's captured shadow and strength within his chambers on Thriller Bark.",
+        "significance": "Establishes the central conflict of the arc and reveals Moria's ultimate ambitions.",
+        "timestamp": "10:30"
+      },
+      {
+        "episodeNumber": 348,
+        "eventId": "ep348-event-010",
+        "eventType": "TECHNIQUE_DEBUT",
+        "title": "Brook's Dramatic Return",
+        "description": "Brook returns to Thriller Bark and defeats Tararan with his Three-Verse Humming: Arrow Notch Slash, demonstrating his previous connection to the island.",
+        "significance": "Brook's return to the island where his shadow was stolen five years ago marks a turning point in his storyline.",
+        "timestamp": "20:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 337,
+        "episodeEnd": "present",
+        "reason": "Thriller Bark continues to operate as Moria's base"
+      }
+    ],
+    "parentLocation": "florian-triangle",
+    "childLocations": ["morias-mansion", "perona-room"],
+    "relatedCharacters": ["gecko-moria", "absalom", "perona", "brook", "luffy"],
+    "relatedCrews": ["thriller-bark-pirates", "straw-hat-pirates"],
+    "relatedArcs": ["Thriller Bark Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Moria's Mansion",
+      "japanese": "モリアの館",
+      "romanized": "Moria no Yakata"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "FLORIAN_TRIANGLE",
+    "islandName": "Thriller Bark",
+    "debutEpisode": 343,
+    "debutChapter": 449,
+    "description": "The central mansion on Thriller Bark where Gecko Moria resides and conducts his operations. Contains his personal chambers where he meets with captured prisoners.",
+    "episodeAppearances": [348],
+    "keyEvents": [
+      {
+        "episodeNumber": 348,
+        "eventId": "ep348-event-004",
+        "eventType": "WORLD_LORE",
+        "title": "Confrontation in Moria's Chambers",
+        "description": "Luffy is brought to Moria's chambers where Moria reveals his plan to use Luffy's strength to become Pirate King.",
+        "significance": "First direct confrontation between Luffy and Moria, establishing their opposing philosophies about power and ambition.",
+        "timestamp": "10:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 343,
+        "episodeEnd": "present",
+        "reason": "Moria's main base of operations"
+      }
+    ],
+    "parentLocation": "thriller-bark",
+    "childLocations": ["morias-chambers"],
+    "relatedCharacters": ["gecko-moria", "luffy"],
+    "relatedCrews": ["thriller-bark-pirates"],
+    "relatedArcs": ["Thriller Bark Arc"],
+    "images": []
+  }
+]
