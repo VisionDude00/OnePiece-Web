@@ -1,0 +1,518 @@
+{
+  "episodeNumber": 346,
+  "episodeTitle": "The Vanishing Straw Hat Crew! A Mysterious Swordsman Appears!",
+  "description": "Luffy, Robin, and Franky are lured into a trap where they face an army of powerful General Zombies. A mysterious swordsman named Jigoro appears, wielding Zoro's fighting techniques. Meanwhile, Tararan blocks their escape, Absalom pursues Nami's group, and Perona invades the Thousand Sunny.",
+  "airDate": "2008-03-09",
+  "airDateJapan": "2008-03-09",
+  "airDateUS": "2014-09-30",
+  "arcName": "Thriller Bark",
+  "sagaName": "Thriller Bark Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Jungle P",
+    "artist": "5050",
+    "episodeRange": [326, 372]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Masayuki Takagi",
+    "director": "Katsumi Tokoro",
+    "screenplay": "Takuya Masumoto",
+    "artDirection": ["Miyuki Sato", "Kumiko Fukuzawa"],
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Jigoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Absalom",
+        "actor": "Hiroaki Miura"
+      },
+      {
+        "character": "Perona",
+        "actor": "Kumiko Nishihara"
+      },
+      {
+        "character": "Gecko Moria",
+        "actor": "Katsuhisa Hoki"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep346-event-001",
+      "episodeNumber": 346,
+      "timestamp": "03:45",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "General Zombies Ambush",
+      "description": "Luffy, Robin, and Franky are lured by Buhichuck into a trap in Hogback's mansion where they encounter an army of heavily armored General Zombies. These zombies are far more powerful than regular zombies, being reanimated warriors who were legendary fighters in their previous lives.",
+      "significance": "Introduces the General Zombies as a new threat level within Thriller Bark. These are elite zombies created from the bodies of powerful warriors and given shadows of strong fighters, making them formidable opponents.",
+      "characterIds": ["luffy", "nico-robin", "franky", "buhichuck"],
+      "locationIds": ["hogback-mansion"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [344, 345],
+      "payoffInEpisodes": [347],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep346-event-002",
+      "episodeNumber": 346,
+      "timestamp": "06:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Jigoro's Debut",
+      "description": "A mysterious swordsman zombie named Jigoro appears among the General Zombies. He is a tall figure with shadowy eyes, long black hair, and bandages around his head. His movements and fighting style immediately remind Luffy of Zoro, though he initially doesn't understand why.",
+      "significance": "Jigoro is the first clear demonstration that Moria has captured Zoro's shadow and implanted it into a zombie. This revelation shows the dire situation the Straw Hats are in, as their own abilities are being used against them.",
+      "characterIds": ["jigoro", "luffy", "nico-robin", "franky"],
+      "locationIds": ["hogback-mansion"],
+      "quotes": [
+        {
+          "text": "That swordsman... why does he fight like Zoro?",
+          "speaker": "Luffy",
+          "context": "Luffy's confusion upon seeing Jigoro's fighting style"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [345],
+      "payoffInEpisodes": [362],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep346-event-003",
+      "episodeNumber": 346,
+      "timestamp": "08:15",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Jigoro Uses Sanjuroku Pound Ho",
+      "description": "Jigoro demonstrates that he possesses Zoro's shadow by executing the Three Sword Style technique Sanjuroku Pound Ho (36 Pound Phoenix). The attack creates three powerful air slashes from his three swords, identical to Zoro's signature move.",
+      "significance": "This confirms that Jigoro has Zoro's shadow and all his combat abilities. It reveals the full danger of Moria's shadow-stealing power - not only are the Straw Hats weakened by losing their shadows, but their own techniques are being weaponized against them.",
+      "characterIds": ["jigoro", "luffy"],
+      "locationIds": ["hogback-mansion"],
+      "devilFruitIds": ["kage-kage-no-mi"],
+      "quotes": [
+        {
+          "text": "Sanjuroku Pound Ho!",
+          "speaker": "Jigoro",
+          "context": "Jigoro using Zoro's Three Sword Style technique"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [345],
+      "payoffInEpisodes": [362],
+      "callbacksToEpisodes": [195]
+    },
+    {
+      "id": "ep346-event-004",
+      "episodeNumber": 346,
+      "timestamp": "12:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Jigoro Displays Zoro's Pride",
+      "description": "During the battle, Jigoro exhibits personality traits from Zoro's shadow, including Zoro's fierce pride about wounds and his combat philosophy. He initially shows reluctance to use dishonorable tactics, reflecting Zoro's warrior code.",
+      "significance": "Demonstrates that shadows don't just transfer fighting abilities but also aspects of the original person's personality and beliefs. This makes the shadow zombies even more dangerous as they combine the physical prowess of legendary fighters with the skills and instincts of strong living pirates.",
+      "characterIds": ["jigoro", "roronoa-zoro"],
+      "locationIds": ["hogback-mansion"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [345],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep346-event-005",
+      "episodeNumber": 346,
+      "timestamp": "14:50",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Luffy Captured",
+      "description": "Despite his best efforts, Luffy is overwhelmed by the coordinated attack of the General Zombies and Jigoro. He is trapped inside a sealed coffin and carried away via a pulley system to another part of the mansion. Robin and Franky try to rescue him but are blocked.",
+      "significance": "This is a critical moment showing the Straw Hats being systematically separated and captured. It demonstrates Moria's strategic approach to defeating the crew by isolating them. Luffy's capture also puts him in position for his eventual confrontation with Moria.",
+      "characterIds": ["luffy", "jigoro", "nico-robin", "franky"],
+      "locationIds": ["hogback-mansion"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [351, 362],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep346-event-006",
+      "episodeNumber": 346,
+      "timestamp": "16:10",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Tararan's Debut",
+      "description": "A massive General Zombie named Tararan appears, blocking Robin and Franky's attempt to rescue Luffy. Tararan is a grotesque hybrid creature with the head, hands, and tail of a monkey combined with the body of a giant spider. He wears an aviator hat and has bandages wrapped around his body.",
+      "significance": "Introduces Tararan as the Commander of the Spider Mice and another powerful General Zombie. His appearance further traps Robin and Franky, forcing them into a separate battle and continuing the theme of the Straw Hats being divided and conquered.",
+      "characterIds": ["tararan", "nico-robin", "franky"],
+      "locationIds": ["hogback-mansion"],
+      "quotes": [
+        {
+          "text": "Monkey, Monkey! You're not going anywhere!",
+          "speaker": "Tararan",
+          "context": "Tararan's characteristic speech pattern as he blocks the path"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [347],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep346-event-007",
+      "episodeNumber": 346,
+      "timestamp": "17:45",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Robin and Franky vs Tararan",
+      "description": "With Luffy captured and their escape route blocked by Tararan's massive form, Robin and Franky have no choice but to engage the spider-monkey General Zombie in battle. Tararan demonstrates his abilities, including creating sticky spider webs from his palms.",
+      "significance": "This battle separates the Straw Hats further and showcases Robin and Franky working together as a team. It also demonstrates Tararan's unique abilities as a General Zombie with both spider and monkey characteristics.",
+      "characterIds": ["nico-robin", "franky", "tararan"],
+      "locationIds": ["hogback-mansion"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [347],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep346-event-008",
+      "episodeNumber": 346,
+      "timestamp": "05:30",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Absalom Pursues Lola",
+      "description": "In a subplot running parallel to the main battle, Absalom discovers that Lola has learned about his plan to marry Nami without her consent. Enraged, he pursues the zombie warthog with intent to eliminate her for interfering with his plans.",
+      "significance": "This subplot builds tension around Nami's situation and shows Absalom's obsessive and dangerous nature. It also establishes Lola as a character willing to stand up against the Thriller Bark hierarchy to protect someone she cares about.",
+      "characterIds": ["absalom", "lola", "nami"],
+      "locationIds": ["thriller-bark"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [344, 345],
+      "payoffInEpisodes": [355],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep346-event-009",
+      "episodeNumber": 346,
+      "timestamp": "10:00",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Perona Raids the Thousand Sunny",
+      "description": "Ghost Princess Perona arrives at the Thousand Sunny, the Straw Hats' ship, with the intention of plundering treasure and valuables. She explores the ship while the crew is trapped within Thriller Bark's mansion.",
+      "significance": "This shows the vulnerability of the Straw Hats' position with their ship unguarded. Perona's raid of the Sunny adds another layer of threat and demonstrates how thoroughly Moria's crew has the Straw Hats at a disadvantage.",
+      "characterIds": ["perona"],
+      "locationIds": ["thousand-sunny", "thriller-bark"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [348],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep346-event-010",
+      "episodeNumber": 346,
+      "timestamp": "19:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Jigoro's Legend Revealed",
+      "description": "During the battle, it's revealed that Jigoro was a legendary swordsman in his previous life who killed 7,000 pirates to protect his family. He earned the epithet 'Jigoro of the Wind' and was known throughout West Blue for his mastery of the sword.",
+      "significance": "This backstory emphasizes the dangerous combination Moria has created: a body that was already legendary in life, now animated by Zoro's powerful shadow. It shows the depth of threat the General Zombies represent as they were elite warriors even before receiving shadows from strong fighters.",
+      "characterIds": ["jigoro"],
+      "locationIds": ["hogback-mansion"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep346-event-011",
+      "episodeNumber": 346,
+      "timestamp": "20:15",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "General Zombies Explained",
+      "description": "The episode reveals that General Zombies are Moria's elite undead soldiers, created by implanting shadows into the corpses of warriors who were famous and powerful in their lifetimes. These zombies combine the physical capabilities and combat experience of legendary fighters with the shadows of currently strong individuals.",
+      "significance": "This explanation establishes the hierarchy of Moria's zombie army and explains why the General Zombies are so much more dangerous than regular zombies. It's a key piece of world-building that shows the true potential and horror of the Kage Kage no Mi Devil Fruit power.",
+      "characterIds": ["gecko-moria"],
+      "locationIds": ["thriller-bark", "hogback-mansion"],
+      "devilFruitIds": ["kage-kage-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [337, 338],
+      "payoffInEpisodes": [362],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep346-event-012",
+      "episodeNumber": 346,
+      "timestamp": "21:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Zoro and Sanji Imprisoned",
+      "description": "The episode ends with a brief scene showing Zoro and Sanji unconscious and imprisoned in separate locations after having their shadows stolen. Both are in Moria's captivity, unable to help their crew.",
+      "significance": "This scene reinforces the dire situation the Straw Hats face with two of their strongest fighters incapacitated. It builds suspense for their eventual recovery and creates urgency for the remaining crew members to rescue their captured comrades.",
+      "characterIds": ["roronoa-zoro", "sanji"],
+      "locationIds": ["hogback-mansion"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [345],
+      "payoffInEpisodes": [362],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["jigoro", "tararan"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["sanjuroku-pound-ho-jigoro", "spider-nettori-net"]
+  },
+  "episodeRelationships": {
+    "setupFor": [347, 348],
+    "payoffFrom": [344, 345],
+    "thematicLinks": [195, 362, 377]
+  },
+  "quotes": [
+    {
+      "text": "That swordsman... why does he fight like Zoro?",
+      "speaker": "Luffy",
+      "context": "Luffy's confusion upon recognizing Zoro's fighting style in Jigoro",
+      "timestamp": "06:20"
+    },
+    {
+      "text": "Sanjuroku Pound Ho!",
+      "speaker": "Jigoro",
+      "context": "Jigoro using Zoro's Three Sword Style technique",
+      "timestamp": "08:15"
+    },
+    {
+      "text": "Monkey, Monkey! You're not going anywhere!",
+      "speaker": "Tararan",
+      "context": "Tararan blocking Robin and Franky's escape route",
+      "timestamp": "16:10"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Identity Theft",
+      "description": "The episode explores the horror of having one's fighting style and abilities stolen and used against allies. Luffy faces techniques that remind him of Zoro but come from an enemy.",
+      "symbolism": "Jigoro represents the violation of having one's shadow stolen - he wields Zoro's techniques but lacks Zoro's true spirit and determination.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Divide and Conquer",
+      "description": "Moria's strategy of systematically separating and capturing the Straw Hats one by one is fully displayed. The crew's strength lies in their unity, and Moria exploits their separation.",
+      "symbolism": "The coffin that traps Luffy symbolizes isolation and helplessness, themes that run throughout the Thriller Bark arc.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Legends and Legacy",
+      "description": "The General Zombies embody the concept of legendary warriors from the past. Jigoro's backstory of killing 7,000 pirates adds weight to the threat he represents.",
+      "symbolism": "The combination of past legends (corpses) with present strength (shadows) creates the ultimate warriors, but without will or dreams of their own.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Suspenseful", "Action-packed", "Dark"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist under siege",
+      "development": "Luffy faces the frustration of fighting an opponent who uses his best friend's techniques against him. Despite his strength, he is captured, showing his vulnerability when separated from his crew.",
+      "keyActions": [
+        "Battles General Zombies alongside Robin and Franky",
+        "Recognizes Zoro's fighting style in Jigoro",
+        "Gets trapped in a coffin and carried away"
+      ],
+      "quotes": ["That swordsman... why does he fight like Zoro?"]
+    },
+    {
+      "characterId": "jigoro",
+      "role": "Antagonist debut",
+      "development": "Jigoro is introduced as a formidable General Zombie with Zoro's shadow. His legendary past as a swordsman who killed 7,000 pirates combined with Zoro's current abilities makes him a serious threat.",
+      "keyActions": [
+        "First appearance as mysterious swordsman",
+        "Demonstrates Zoro's Three Sword Style techniques",
+        "Helps capture Luffy"
+      ],
+      "quotes": ["Sanjuroku Pound Ho!"]
+    },
+    {
+      "characterId": "tararan",
+      "role": "Antagonist debut",
+      "development": "Tararan debuts as the Commander of the Spider Mice and a powerful General Zombie. His grotesque appearance and abilities as a spider-monkey hybrid make him a unique and intimidating opponent.",
+      "keyActions": [
+        "First appearance blocking the escape route",
+        "Confronts Robin and Franky",
+        "Demonstrates spider web abilities"
+      ],
+      "quotes": ["Monkey, Monkey! You're not going anywhere!"]
+    },
+    {
+      "characterId": "nico-robin",
+      "role": "Supporting fighter",
+      "development": "Robin works alongside Franky to battle the General Zombies and tries to rescue Luffy. When Tararan blocks their path, she must prepare for a new battle despite already being exhausted.",
+      "keyActions": [
+        "Fights General Zombies",
+        "Attempts to rescue Luffy",
+        "Prepares to battle Tararan"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "franky",
+      "role": "Supporting fighter",
+      "development": "Franky discovers that the General Zombies are far more durable than regular zombies. His usual powerful attacks have limited effect, forcing him to adapt his strategy.",
+      "keyActions": [
+        "Battles armored General Zombies",
+        "Discovers their enhanced durability",
+        "Teams up with Robin against Tararan"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime expands on the General Zombies battle sequences with additional combat choreography not present in the manga's Chapter 452.",
+      "episodeTimestamp": "06:00-15:00",
+      "mangaReference": "Chapter 452",
+      "type": "ANIME_EXPANDED_SCENE"
+    },
+    {
+      "difference": "The subplot of Perona raiding the Thousand Sunny is given more screen time in the anime compared to the manga's brief mention.",
+      "episodeTimestamp": "10:00",
+      "mangaReference": "Chapter 452",
+      "type": "ANIME_EXPANDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episode 346 aired on March 9, 2008, and achieved a TV rating of 9.4%, ranking 6th for its time slot.",
+      "category": "BROADCAST",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_346",
+          "title": "Episode 346 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-24"
+        }
+      ]
+    },
+    {
+      "fact": "Jigoro is voiced by Kazuya Nakai in Japanese, who also voices Roronoa Zoro. This creates a meta-textual layer where the voice actor essentially plays against himself.",
+      "category": "VOICE_ACTING",
+      "sources": []
+    },
+    {
+      "fact": "This episode is based on Chapter 452, titled 'Jigoro of the Wind', which was released on April 16, 2007, approximately 11 months before the episode aired.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chapter_452",
+          "title": "Chapter 452 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-24"
+        }
+      ]
+    },
+    {
+      "fact": "Pandaman, the recurring Easter egg character, appears as a zombie in the background of this episode.",
+      "category": "EASTER_EGG",
+      "sources": []
+    },
+    {
+      "fact": "The opening theme 'Jungle P' by 5050 was used for episodes 326-372, covering the entire Thriller Bark arc.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Jungle_P",
+          "title": "Jungle P - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-24"
+        }
+      ]
+    },
+    {
+      "fact": "Starting from Episode 279, One Piece stopped using ending themes and instead extended opening themes from 110 seconds to 150 seconds. Episode 346 follows this format with no ending song.",
+      "category": "PRODUCTION",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

@@ -1,0 +1,199 @@
+[
+  {
+    "name": {
+      "english": "Thriller Bark Zombies",
+      "japanese": "スリラーバークゾンビ軍団",
+      "romanized": "Surirā Bāku Zonbi Gundan",
+      "aliases": ["Moria's Zombie Army", "Thriller Bark Army"]
+    },
+    "debutEpisode": 337,
+    "debutChapter": 446,
+    "episodeAppearances": [345],
+    "crewType": "ZOMBIE_ARMY",
+    "status": "ACTIVE",
+    "captain": {
+      "characterId": "gecko-moria",
+      "since": 337
+    },
+    "commanders": [
+      {
+        "characterId": "absalom",
+        "role": "Commander of General Zombies and Soldier Zombies",
+        "since": 337
+      },
+      {
+        "characterId": "perona",
+        "role": "Commander of Wild Zombies",
+        "since": 337
+      }
+    ],
+    "members": [
+      {
+        "characterId": "lola-zombie",
+        "role": "Wild Zombie",
+        "joinedEpisode": 345,
+        "leftEpisode": null,
+        "status": "ACTIVE"
+      },
+      {
+        "characterId": "inuppe",
+        "role": "Wild Zombie",
+        "joinedEpisode": 345,
+        "leftEpisode": null,
+        "status": "ACTIVE"
+      },
+      {
+        "characterId": "kumashi",
+        "role": "Captain of Zombie Animals",
+        "joinedEpisode": 345,
+        "leftEpisode": null,
+        "status": "ACTIVE"
+      },
+      {
+        "characterId": "gallant-hippo",
+        "role": "Vice-Commander of Wild Zombies",
+        "joinedEpisode": 345,
+        "leftEpisode": null,
+        "status": "ACTIVE"
+      },
+      {
+        "characterId": "buhichuck",
+        "role": "Wild Zombie Guide",
+        "joinedEpisode": 345,
+        "leftEpisode": null,
+        "status": "ACTIVE"
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 345,
+        "eventId": "ep345-event-001",
+        "momentType": "MEMBER_DEBUT",
+        "title": "Lola (Zombie) First Appearance",
+        "description": "Lola debuts as a Wild Zombie pursuing Absalom with marriage proposals.",
+        "significance": "Introduces Lola as a notable Wild Zombie with unique personality traits."
+      },
+      {
+        "episodeNumber": 345,
+        "eventId": "ep345-event-004",
+        "momentType": "MEMBER_DEBUT",
+        "title": "Inuppe Debuts",
+        "description": "Inuppe appears as a Wild Zombie with Sanji's shadow, demonstrating loyalty issues due to his chivalrous nature.",
+        "significance": "Shows that shadow personalities can conflict with zombie orders, creating internal division in the zombie army."
+      },
+      {
+        "episodeNumber": 345,
+        "eventId": "ep345-event-005",
+        "momentType": "INTERNAL_CONFLICT",
+        "title": "Inuppe Defies Orders",
+        "description": "Inuppe attacks fellow zombie Gallant Hippo to protect Nami, defying orders to capture the Straw Hats.",
+        "significance": "Demonstrates a weakness in Moria's zombie army - shadows with strong moral codes can rebel against commands."
+      }
+    ],
+    "goals": [
+      "Serve Gecko Moria",
+      "Capture the Straw Hat Pirates",
+      "Protect Thriller Bark",
+      "Follow the orders of the Three Mysterious Four"
+    ],
+    "baseOfOperations": "Thriller Bark",
+    "allies": [],
+    "enemies": ["Straw Hat Pirates"]
+  },
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi",
+      "aliases": ["Straw Hat Crew", "Luffy Pirates"]
+    },
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [345],
+    "crewType": "PIRATE_CREW",
+    "status": "ACTIVE",
+    "captain": {
+      "characterId": "luffy",
+      "since": 1
+    },
+    "commanders": [],
+    "members": [
+      {
+        "characterId": "zoro",
+        "role": "Combatant",
+        "joinedEpisode": 3,
+        "leftEpisode": null,
+        "status": "ACTIVE"
+      },
+      {
+        "characterId": "nami",
+        "role": "Navigator",
+        "joinedEpisode": 44,
+        "leftEpisode": null,
+        "status": "ACTIVE"
+      },
+      {
+        "characterId": "usopp",
+        "role": "Sniper",
+        "joinedEpisode": 17,
+        "leftEpisode": null,
+        "status": "ACTIVE"
+      },
+      {
+        "characterId": "sanji",
+        "role": "Cook",
+        "joinedEpisode": 30,
+        "leftEpisode": null,
+        "status": "ACTIVE"
+      },
+      {
+        "characterId": "chopper",
+        "role": "Doctor",
+        "joinedEpisode": 90,
+        "leftEpisode": null,
+        "status": "ACTIVE"
+      },
+      {
+        "characterId": "robin",
+        "role": "Archaeologist",
+        "joinedEpisode": 130,
+        "leftEpisode": null,
+        "status": "ACTIVE"
+      },
+      {
+        "characterId": "franky",
+        "role": "Shipwright",
+        "joinedEpisode": 322,
+        "leftEpisode": null,
+        "status": "ACTIVE"
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 345,
+        "eventId": "ep345-event-003",
+        "momentType": "CREW_SPLIT",
+        "title": "Crew Separates in Thriller Bark",
+        "description": "Nami, Usopp, and Chopper escape to Perona's Wonder Garden while Luffy, Robin, and Franky explore the mansion. Zoro mysteriously disappears.",
+        "significance": "The crew is divided into separate groups, each facing different challenges within Thriller Bark."
+      },
+      {
+        "episodeNumber": 345,
+        "eventId": "ep345-event-008",
+        "momentType": "MEMBER_MISSING",
+        "title": "Zoro Goes Missing",
+        "description": "Zoro vanishes from Luffy's group while exploring the mansion.",
+        "significance": "Sets up Zoro's solo encounter with Ryuma, demonstrating the dangers of separation."
+      }
+    ],
+    "goals": [
+      "Escape Thriller Bark",
+      "Recover their stolen shadows",
+      "Defeat Gecko Moria",
+      "Continue journey to find One Piece"
+    ],
+    "baseOfOperations": "Thousand Sunny",
+    "allies": [],
+    "enemies": ["Thriller Bark Zombies", "Gecko Moria"]
+  }
+]

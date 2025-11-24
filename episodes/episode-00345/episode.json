@@ -1,0 +1,473 @@
+{
+  "episodeNumber": 345,
+  "episodeTitle": "A Bunch of Animals? Perona's Wonder Garden!",
+  "description": "After Absalom awakens the General Zombies, he is pursued by Lola, a zombie warthog who desperately wants to marry him. Meanwhile, Nami, Usopp, and Chopper escape from their coffin prison and find themselves in Perona's Wonder Garden, surrounded by wild animal zombies. They encounter Inuppe, a penguin-dog zombie animated by Sanji's shadow who refuses to harm women. Elsewhere in the mansion, the rest of the crew discovers that Zoro has mysteriously vanished.",
+  "airDate": "2008-03-02",
+  "airDateJapan": "2008-03-02",
+  "airDateUS": "2016-05-07",
+  "arcName": "Thriller Bark",
+  "sagaName": "Thriller Bark Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Jungle P",
+    "artist": "5050",
+    "episodeRange": [326, 372]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Sumio Watanabe",
+    "screenplayWriter": "Yoshiyuki Suga",
+    "artDirectors": ["Miyuki Sato", "Michiyo Kawasaki"],
+    "keyAnimators": ["Masayuki Fujita"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Absalom",
+        "actor": "Naoya Uchida"
+      },
+      {
+        "character": "Perona",
+        "actor": "Kumiko Nishihara"
+      },
+      {
+        "character": "Lola (Zombie)",
+        "actor": "Chiaki Takahashi"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep345-event-001",
+      "episodeNumber": 345,
+      "timestamp": "03:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Lola (Zombie) First Appearance",
+      "description": "Lola, a zombie warthog bride dressed in a wedding gown, confronts Absalom and demands that he marry her. She aggressively pursues him with kisses, bear hugs, and suplexes, determined to make him her husband.",
+      "significance": "Introduces Lola (zombie), a wild zombie with a shadow from Charlotte Lola. This character plays an important role in the Thriller Bark arc and later reveals connections to the greater One Piece world.",
+      "characterIds": ["lola-zombie", "absalom"],
+      "locationIds": ["thriller-bark-mansion"],
+      "quotes": [
+        {
+          "text": "Marry me, Absalom!",
+          "speaker": "Lola (Zombie)",
+          "context": "Lola's persistent marriage proposal to Absalom"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [346, 347],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep345-event-002",
+      "episodeNumber": 345,
+      "timestamp": "05:30",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MINOR",
+      "title": "Absalom Reveals His Choice of Bride",
+      "description": "Absalom rejects Lola's marriage proposals by explaining he cannot marry a zombie warthog. He shows her a picture of Nami, declaring she will be his bride instead. This enrages Lola, who vows to destroy Nami.",
+      "significance": "Sets up the conflict between Lola and Nami, while revealing Absalom's obsession with marrying Nami, which becomes a key plot point in the arc.",
+      "characterIds": ["absalom", "lola-zombie", "nami"],
+      "locationIds": ["thriller-bark-mansion"],
+      "quotes": [
+        {
+          "text": "I've chosen this human girl to be my bride - Nami!",
+          "speaker": "Absalom",
+          "context": "Absalom showing Nami's wanted poster to Lola"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [346, 347, 348],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep345-event-003",
+      "episodeNumber": 345,
+      "timestamp": "07:45",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Trio Escapes to Perona's Wonder Garden",
+      "description": "Nami, Usopp, and Chopper awaken in coffins being carried by zombie squirrels. When the squirrels trip, the coffin opens and the trio escapes. They find themselves in Perona's Wonder Garden, a bizarre area filled with animal zombies.",
+      "significance": "Introduces Perona's Wonder Garden as a key location within Thriller Bark, setting up encounters with various wild zombies.",
+      "characterIds": ["nami", "usopp", "chopper"],
+      "locationIds": ["peronas-wonder-garden"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "Where are we? What is this place?",
+          "speaker": "Usopp",
+          "context": "The trio discovering they're in a garden filled with zombie animals"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [344],
+      "payoffInEpisodes": [346],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep345-event-004",
+      "episodeNumber": 345,
+      "timestamp": "09:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Inuppe's Debut",
+      "description": "Inuppe, a penguin-dog zombie hybrid, makes his first appearance in Perona's Wonder Garden. He is immediately recognizable by his strange appearance and behavior that mirrors Sanji's personality.",
+      "significance": "Introduces Inuppe as a zombie animated by Sanji's shadow, demonstrating how shadows retain the personality traits of their original owners even in zombie bodies.",
+      "characterIds": ["inuppe", "nami", "usopp", "chopper"],
+      "locationIds": ["peronas-wonder-garden"],
+      "devilFruitIds": [],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [344],
+      "payoffInEpisodes": [346],
+      "callbacksToEpisodes": [339, 340]
+    },
+    {
+      "id": "ep345-event-005",
+      "episodeNumber": 345,
+      "timestamp": "12:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Inuppe's Chivalry - Sanji's Shadow Trait",
+      "description": "When Gallant Hippo, a zombie vice-commander, attempts to attack Nami, Inuppe intervenes with a powerful kick that shatters the hippo's sword and sends him flying. Inuppe declares he would rather die than kick a woman, challenging any zombie who disagrees.",
+      "significance": "Demonstrates that zombies inherit not just memories but core personality traits from their shadow donors. Inuppe's chivalry proves Sanji's shadow is controlling the zombie, establishing an important mechanic for the Thriller Bark arc.",
+      "characterIds": ["inuppe", "nami", "gallant-hippo"],
+      "locationIds": ["peronas-wonder-garden"],
+      "quotes": [
+        {
+          "text": "I would rather die than kick a woman!",
+          "speaker": "Inuppe",
+          "context": "Inuppe defending Nami from other wild zombies, showing Sanji's chivalrous nature"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [339, 340],
+      "payoffInEpisodes": [346, 347],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep345-event-006",
+      "episodeNumber": 345,
+      "timestamp": "14:45",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Wild Zombies Attack the Trio",
+      "description": "Multiple wild animal zombies including the penguin trio, zebra-kangaroo hybrids, and other creatures attack Nami, Usopp, and Chopper in Perona's Wonder Garden. Chopper fights to protect his friends while Nami and Usopp attempt various escape strategies.",
+      "significance": "Showcases the dangers of the wild zombies and the trio's combat abilities while separated from the rest of the crew.",
+      "characterIds": ["nami", "usopp", "chopper"],
+      "locationIds": ["peronas-wonder-garden"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [346],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep345-event-007",
+      "episodeNumber": 345,
+      "timestamp": "17:20",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Scooby-Doo Style Chase Sequence",
+      "description": "Nami and Usopp engage in a comedic chase sequence reminiscent of Scooby-Doo, running across pillars and through the garden while being pursued by zombie animals. The scene provides comic relief amid the tension.",
+      "significance": "Demonstrates the anime's ability to blend horror elements with comedy, maintaining One Piece's characteristic humor even in darker arcs.",
+      "characterIds": ["nami", "usopp"],
+      "locationIds": ["peronas-wonder-garden"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep345-event-008",
+      "episodeNumber": 345,
+      "timestamp": "18:50",
+      "eventType": "CREW_DEPARTURE",
+      "severity": "MAJOR",
+      "title": "Zoro Goes Missing",
+      "description": "While exploring the armor-lined hallways of Thriller Bark mansion with Luffy, Robin, and Franky, the crew realizes that Roronoa Zoro has mysteriously vanished. Zoro briefly sensed something behind them earlier but found nothing.",
+      "significance": "Sets up a mystery regarding Zoro's disappearance and foreshadows his encounter with Ryuma, a legendary samurai zombie, which becomes a pivotal moment in the arc.",
+      "characterIds": ["zoro", "luffy", "robin", "franky"],
+      "locationIds": ["thriller-bark-mansion"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "Wait... where's Zoro?",
+          "speaker": "Luffy",
+          "context": "The crew realizing Zoro has disappeared from the group"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [346, 347, 362],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep345-event-009",
+      "episodeNumber": 345,
+      "timestamp": "20:15",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Discussion of Shadow Theft Consequences",
+      "description": "The Straw Hats discuss what would happen if they had their shadows stolen by Gecko Moria. They talk about the dangers of losing one's shadow and being unable to walk in sunlight.",
+      "significance": "Educates viewers about the stakes involved with Moria's shadow-stealing abilities and builds tension for potential shadow theft scenarios.",
+      "characterIds": ["luffy", "robin", "franky"],
+      "locationIds": ["thriller-bark-mansion"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [337, 338],
+      "payoffInEpisodes": [349, 350],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep345-event-010",
+      "episodeNumber": 345,
+      "timestamp": "21:30",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MINOR",
+      "title": "Mysterious Presence Watching the Crew",
+      "description": "As Luffy's group explores the mansion, a mysterious entity is shown watching them from the shadows. The presence remains unidentified but suggests danger ahead.",
+      "significance": "Foreshadows upcoming encounters with powerful zombies and the mysterious circumstances surrounding Zoro's disappearance.",
+      "characterIds": ["luffy", "robin", "franky"],
+      "locationIds": ["thriller-bark-mansion"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [346],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["lola-zombie", "inuppe", "gallant-hippo", "kumashi", "buhichuck"],
+    "locations": ["peronas-wonder-garden"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["chikai-no-kiss", "hanayome-bujutsu"]
+  },
+  "episodeRelationships": {
+    "setupFor": [346, 347, 348],
+    "payoffFrom": [344],
+    "thematicLinks": [339, 340, 362]
+  },
+  "quotes": [
+    {
+      "text": "Marry me, Absalom!",
+      "speaker": "Lola (Zombie)",
+      "context": "Lola's persistent marriage proposal",
+      "timestamp": "03:15"
+    },
+    {
+      "text": "I've chosen this human girl to be my bride - Nami!",
+      "speaker": "Absalom",
+      "context": "Absalom revealing his intention to marry Nami",
+      "timestamp": "05:30"
+    },
+    {
+      "text": "I would rather die than kick a woman!",
+      "speaker": "Inuppe",
+      "context": "Inuppe defending Nami from other zombies",
+      "timestamp": "12:30"
+    },
+    {
+      "text": "Wait... where's Zoro?",
+      "speaker": "Luffy",
+      "context": "The crew discovering Zoro has gone missing",
+      "timestamp": "18:50"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Identity and Personality",
+      "description": "The episode explores how personality traits persist even when separated from the body, as seen through Inuppe inheriting Sanji's chivalry through his shadow.",
+      "symbolism": "The shadow represents the core essence of a person's character, demonstrating that fundamental values cannot be separated from one's identity.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Comedy in Horror",
+      "description": "Despite the horror setting of Thriller Bark with zombies and dark corridors, the episode balances tension with comedic moments like Lola's aggressive marriage proposals and the Scooby-Doo style chase.",
+      "symbolism": "The blend of horror and comedy reflects One Piece's signature style of maintaining levity even in darker story arcs.",
+      "culturalReferences": ["Scooby-Doo chase sequences"]
+    },
+    {
+      "theme": "Chivalry and Honor",
+      "description": "Inuppe's refusal to harm women, despite being a zombie following orders, highlights the strength of Sanji's moral code and chivalrous nature.",
+      "symbolism": "The zombie's rebellion against orders represents how deeply held principles transcend physical form.",
+      "culturalReferences": ["Western chivalric codes", "Japanese bushido honor systems"]
+    }
+  ],
+  "emotionalTone": ["Comedic", "Suspenseful", "Mysterious", "Adventurous"],
+  "characterSpotlights": [
+    {
+      "characterId": "inuppe",
+      "role": "Debut as zombie with Sanji's shadow",
+      "development": "Introduces Inuppe as a wild zombie who inherited Sanji's chivalrous nature, refusing to harm women despite being ordered to attack the Straw Hats.",
+      "keyActions": [
+        "Debuts in Perona's Wonder Garden",
+        "Kicks Gallant Hippo to protect Nami",
+        "Declares he would rather die than harm a woman",
+        "Challenges other zombies who disagree with his stance"
+      ],
+      "quotes": ["I would rather die than kick a woman!"]
+    },
+    {
+      "characterId": "lola-zombie",
+      "role": "Debut as aggressive zombie bride",
+      "development": "Introduces Lola as a wild zombie warthog bride obsessed with marrying Absalom. Her aggressive pursuit provides both comedy and conflict.",
+      "keyActions": [
+        "First appearance pursuing Absalom",
+        "Attempts multiple marriage proposals",
+        "Learns Absalom has chosen Nami as his bride",
+        "Vows to destroy Nami"
+      ],
+      "quotes": ["Marry me, Absalom!"]
+    },
+    {
+      "characterId": "nami",
+      "role": "Target of Absalom's obsession, encounters wild zombies",
+      "development": "Nami becomes the focus of both Absalom's marriage plans and Lola's wrath. She demonstrates resourcefulness while navigating Perona's Wonder Garden.",
+      "keyActions": [
+        "Escapes from coffin with Usopp and Chopper",
+        "Discovers Perona's Wonder Garden",
+        "Is defended by Inuppe",
+        "Evades zombie attacks with comedic chase sequences"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "usopp",
+      "role": "Comedic relief and strategic thinker",
+      "development": "Usopp provides humor while trying to survive the zombie-filled garden, showcasing his cowardly yet resourceful nature.",
+      "keyActions": [
+        "Awakens in coffin and escapes",
+        "Explores Perona's Wonder Garden",
+        "Engages in Scooby-Doo style chase",
+        "Attempts to fight zombies with limited success"
+      ],
+      "quotes": ["Where are we? What is this place?"]
+    },
+    {
+      "characterId": "chopper",
+      "role": "Protector fighting zombies",
+      "development": "Chopper takes on a protective role, fighting multiple animal zombies to defend his friends despite being outnumbered.",
+      "keyActions": [
+        "Wakes up in the coffin first",
+        "Fights wild zombies in the garden",
+        "Protects Nami and Usopp",
+        "Demonstrates combat abilities"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended the chase sequences in Perona's Wonder Garden with more comedic elements and Scooby-Doo style humor that were not present in the manga.",
+      "episodeTimestamp": "17:20",
+      "mangaReference": "Chapter 451",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "The anime added more detailed interactions between Lola and Absalom, extending their confrontation with additional comedic physical gags.",
+      "episodeTimestamp": "03:15",
+      "mangaReference": "Chapter 451",
+      "type": "EXPANDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Inuppe is voiced by Hiroaki Hirata in the Japanese version, the same voice actor who plays Sanji, emphasizing the connection between the zombie and the shadow donor.",
+      "category": "VOICE_ACTING",
+      "sources": []
+    },
+    {
+      "fact": "The character design of Lola (zombie) as a warthog bride was created to be both comedic and slightly unsettling, fitting the Thriller Bark arc's horror-comedy tone.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "This episode adapts pages 2-19 of Chapter 451, titled 'Perona's Wonder Garden', making it one of the more efficient adaptations during the Thriller Bark arc.",
+      "category": "ADAPTATION",
+      "sources": []
+    },
+    {
+      "fact": "The opening theme 'Jungle P' by 5050 was the first One Piece opening to feature Franky as an official crew member and also included Brook before he officially joined.",
+      "category": "MUSIC",
+      "sources": []
+    },
+    {
+      "fact": "Episode 345 originally aired with a TV rating of 7.8%, ranking it 7th for its time slot that week in Japan.",
+      "category": "RATINGS",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

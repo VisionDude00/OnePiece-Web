@@ -1,0 +1,149 @@
+[
+  {
+    "name": {
+      "english": "Hogback's Mansion",
+      "japanese": "ホグバックの屋敷",
+      "romanized": "Hogubakku no Yashiki"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "PARADISE",
+    "islandName": "Thriller Bark",
+    "debutEpisode": 341,
+    "debutChapter": 446,
+    "description": "A gothic mansion on Thriller Bark where Dr. Hogback conducts his zombie experiments. Contains multiple rooms including laboratories, living quarters, and trap-filled hallways designed to capture intruders.",
+    "episodeAppearances": [346],
+    "keyEvents": [
+      {
+        "episodeNumber": 346,
+        "eventId": "ep346-event-001",
+        "eventType": "BATTLE_START",
+        "title": "General Zombies Ambush",
+        "description": "Luffy, Robin, and Franky are lured into a trap room where they face an army of General Zombies.",
+        "significance": "The mansion's trap system successfully separates and captures members of the Straw Hat crew.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 346,
+        "eventId": "ep346-event-002",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Jigoro Appears in the Mansion",
+        "description": "Jigoro makes his debut in the mansion's trap room, joining the General Zombies against the Straw Hats.",
+        "significance": "The mansion serves as the stage for revealing Moria's most powerful zombie soldiers.",
+        "timestamp": "06:20"
+      },
+      {
+        "episodeNumber": 346,
+        "eventId": "ep346-event-005",
+        "eventType": "MAJOR_DECISION",
+        "title": "Luffy Captured and Transported",
+        "description": "Luffy is trapped in a coffin and carried via pulley system through the mansion to another location.",
+        "significance": "Demonstrates the mansion's complex internal transport system designed for moving captured victims.",
+        "timestamp": "14:50"
+      },
+      {
+        "episodeNumber": 346,
+        "eventId": "ep346-event-006",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Tararan Blocks the Path",
+        "description": "Tararan appears in the mansion hallway, blocking Robin and Franky's escape route.",
+        "significance": "The mansion's labyrinthine design allows zombies to easily trap and corner intruders.",
+        "timestamp": "16:10"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 341,
+        "episodeEnd": "present",
+        "reason": "Mansion is operational as Hogback's base and zombie laboratory"
+      }
+    ],
+    "parentLocation": "thriller-bark",
+    "childLocations": ["hogback-lab", "general-zombie-hall"],
+    "relatedCharacters": ["dr-hogback", "victoria-cindry", "luffy", "nico-robin", "franky", "jigoro", "tararan"],
+    "relatedCrews": ["straw-hat-pirates", "thriller-bark-pirates"],
+    "relatedArcs": ["Thriller Bark"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Thriller Bark",
+      "japanese": "スリラーバーク",
+      "romanized": "Surirā Bāku"
+    },
+    "locationType": "SHIP",
+    "seaRegion": "PARADISE",
+    "islandName": null,
+    "debutEpisode": 337,
+    "debutChapter": 442,
+    "description": "The world's largest pirate ship, so massive it resembles an island. Ruled by Warlord Gecko Moria, it serves as both his base of operations and a massive graveyard where he creates his zombie army. The ship features a gothic aesthetic with mansions, graveyards, forests, and bridges.",
+    "episodeAppearances": [346],
+    "keyEvents": [
+      {
+        "episodeNumber": 346,
+        "eventId": "ep346-event-009",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Perona Arrives at the Thousand Sunny",
+        "description": "Perona arrives at the Straw Hats' ship while they are trapped in the mansion, intending to raid it for treasure.",
+        "significance": "Shows the Straw Hats' vulnerability with their ship unguarded on Thriller Bark.",
+        "timestamp": "10:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 337,
+        "episodeEnd": "present",
+        "reason": "Operating as Gecko Moria's mobile base and zombie production facility"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["hogback-mansion", "thriller-bark-graveyard", "thriller-bark-forest"],
+    "relatedCharacters": ["gecko-moria", "perona", "absalom", "dr-hogback"],
+    "relatedCrews": ["thriller-bark-pirates", "straw-hat-pirates"],
+    "relatedArcs": ["Thriller Bark"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Thousand Sunny",
+      "japanese": "サウザンドサニー号",
+      "romanized": "Sauzando Sanī-gō"
+    },
+    "locationType": "SHIP",
+    "seaRegion": "PARADISE",
+    "islandName": null,
+    "debutEpisode": 321,
+    "debutChapter": 436,
+    "description": "The Straw Hat Pirates' second ship, built by Franky and the Galley-La Company. A brigantine-sloop with advanced features including the Soldier Dock System and powered by Cola energy. Currently docked at Thriller Bark.",
+    "episodeAppearances": [346],
+    "keyEvents": [
+      {
+        "episodeNumber": 346,
+        "eventId": "ep346-event-009",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Perona Raids the Sunny",
+        "description": "With the Straw Hats trapped in the mansion, Perona boards the Thousand Sunny to search for treasure and valuables.",
+        "significance": "The unguarded ship becomes vulnerable to Thriller Bark Pirates' exploitation.",
+        "timestamp": "10:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 321,
+        "episodeEnd": "present",
+        "reason": "Serving as the Straw Hat Pirates' vessel"
+      }
+    ],
+    "parentLocation": "thriller-bark",
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "roronoa-zoro", "nami", "usopp", "sanji", "tony-tony-chopper", "nico-robin", "franky", "perona"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Thriller Bark"],
+    "images": []
+  }
+]

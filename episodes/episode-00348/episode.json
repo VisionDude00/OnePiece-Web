@@ -1,0 +1,522 @@
+{
+  "episodeNumber": 348,
+  "episodeTitle": "Appearing from the Sky! That Man is the 'Humming' Swordsman!",
+  "episodeTitleJapanese": "空から参上！剣狭ハナウタはあの男！",
+  "episodeTitleRomanized": "Sora kara Sanjō! Kenkyō Hanauta wa Ano Otoko!",
+  "description": "Nami tricks Lola by claiming to be a cross-dresser. Meanwhile, Luffy confronts Gecko Moria, who reveals his plan to use Luffy's strength to become Pirate King. Franky and Robin battle Tararan but become trapped by Spider Mice, until Brook dramatically appears and defeats the enemies with his signature humming technique.",
+  "airDate": "2008-03-23",
+  "airDateJapan": "2008-03-23",
+  "airDateUS": "2016-06-04",
+  "arcName": "Thriller Bark Arc",
+  "sagaName": "Thriller Bark Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Jungle P",
+    "artist": "5050",
+    "episodeRange": [326, 372]
+  },
+  "endingSong": null,
+  "credits": {
+    "director": "Munehisa Sakai",
+    "writer": "Isao Murayama",
+    "animationDirector": "Hiroyuki Satō",
+    "artDirectors": ["Miyuki Sato", "Hiromitsu Shiozaki"],
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Brook",
+        "actor": "Chō"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Brook",
+        "actor": "Ian Sinclair"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep348-event-001",
+      "episodeNumber": 348,
+      "timestamp": "03:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Nami Tricks Lola with Cross-Dresser Disguise",
+      "description": "Nami escapes from Lola's persistent romantic advances by claiming to be a cross-dressing man named 'Namizo.' She alters her voice to sound like Bon Kurei and tells Lola that she thinks Lola and Absalom would make a perfect couple.",
+      "significance": "This comedic moment allows Nami to gather information about Thriller Bark's treasures from Lola, who reveals that Absalom's treasure is in Perona's room and provides directions.",
+      "characterIds": ["nami", "lola-zombie"],
+      "locationIds": ["thriller-bark"],
+      "quotes": [
+        {
+          "text": "I'm actually a man! My real name is Namizo. I dress up as a woman for fun!",
+          "speaker": "Nami",
+          "context": "Nami's deception to escape Lola's romantic pursuit"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [347],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep348-event-002",
+      "episodeNumber": 348,
+      "timestamp": "06:20",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Lola Reveals Treasure Location",
+      "description": "After being convinced by Nami, Lola happily reveals that Absalom's treasure is located in Perona's room and provides directions to help Nami.",
+      "significance": "This information helps the Straw Hats navigate Thriller Bark and locate valuable treasures, demonstrating Nami's clever manipulation skills.",
+      "characterIds": ["nami", "lola-zombie", "usopp", "chopper"],
+      "locationIds": ["thriller-bark"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [349, 350],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep348-event-003",
+      "episodeNumber": 348,
+      "timestamp": "08:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Hiding Inside Kumashi",
+      "description": "Nami, Usopp, and Chopper hide from Absalom inside of Kumashi's stomach by accessing the zipper on his back. While hiding, they overhear a conversation between Absalom, Hildon, and Perona about being summoned by Moria.",
+      "significance": "This strategic hiding place allows the trio to gather crucial intelligence about Moria's plans and the movements of his commanders.",
+      "characterIds": ["nami", "usopp", "chopper", "kumashi", "absalom", "hildon", "perona"],
+      "locationIds": ["thriller-bark"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [349],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep348-event-004",
+      "episodeNumber": 348,
+      "timestamp": "10:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Moria's Plan to Become Pirate King",
+      "description": "From within his chambers, Gecko Moria reveals to the captured Luffy that he intends to use Luffy's strength and shadow to become the King of the Pirates. Moria announces his plan to make the Straw Hat captain his pawn in achieving his ambitions.",
+      "significance": "This reveals Moria's ultimate motivation and sets up the central conflict of the Thriller Bark arc - Luffy must defeat Moria to reclaim his shadow and prevent being used as a zombie.",
+      "characterIds": ["luffy", "gecko-moria"],
+      "locationIds": ["thriller-bark", "morias-mansion"],
+      "quotes": [
+        {
+          "text": "I'm the man who will become the King of the Pirates! And I'll use your strength to do it!",
+          "speaker": "Gecko Moria",
+          "context": "Moria reveals his plan to use Luffy's captured shadow for his own ambitions"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [335, 337, 342],
+      "payoffInEpisodes": [362, 372, 373],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep348-event-005",
+      "episodeNumber": 348,
+      "timestamp": "13:50",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Franky vs Tararan Intensifies",
+      "description": "Franky continues his battle against Tararan, the spider-monkey General Zombie. Despite Tararan's size and strength, Franky gains the upper hand using his engineering skills and combat abilities.",
+      "significance": "This battle demonstrates Franky's combat capabilities and sets up Brook's dramatic entrance to save the Straw Hats.",
+      "characterIds": ["franky", "tararan", "robin"],
+      "locationIds": ["thriller-bark"],
+      "devilFruitIds": [],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [347],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep348-event-006",
+      "episodeNumber": 348,
+      "timestamp": "15:20",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Robin Uses Cien Fleurs",
+      "description": "Nico Robin uses her Cien Fleurs (Hundred Flowers) technique to sprout multiple arms and slap Tararan's eyes, temporarily blinding the massive spider-monkey zombie and disrupting his vision.",
+      "significance": "This demonstrates Robin's tactical support in combat and shows the coordination between Robin and Franky during battle.",
+      "characterIds": ["robin", "tararan", "franky"],
+      "locationIds": ["thriller-bark"],
+      "devilFruitIds": ["hana-hana-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep348-event-007",
+      "episodeNumber": 348,
+      "timestamp": "16:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Franky's Heavy Nunchaku",
+      "description": "Franky constructs makeshift Heavy Nunchaku from steel columns chained together and uses them to smash Tararan with tremendous force, demonstrating his engineering creativity in combat.",
+      "significance": "This showcases Franky's ability to improvise weapons from his surroundings and his raw physical strength.",
+      "characterIds": ["franky", "tararan"],
+      "locationIds": ["thriller-bark"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep348-event-008",
+      "episodeNumber": 348,
+      "timestamp": "18:10",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Spider Mice Trap Franky and Robin",
+      "description": "Despite their efforts, Franky and Robin are entrapped by the Spider Mice using sticky webs (Spider Nettori Net). The Spider Mice reveal that they have kidnapped other Straw Hats to transport them to Moria.",
+      "significance": "This creates a desperate situation for the Straw Hats and sets up the need for Brook's intervention. It also reveals the extent of Moria's plan to capture all the crew members.",
+      "characterIds": ["franky", "robin", "spider-mice", "tararan"],
+      "locationIds": ["thriller-bark"],
+      "quotes": [
+        {
+          "text": "We kidnapped your other crewmates! They're all being transported to Master Moria!",
+          "speaker": "Spider Mice",
+          "context": "The Spider Mice reveal their success in capturing the Straw Hats"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [347],
+      "payoffInEpisodes": [349, 350],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep348-event-009",
+      "episodeNumber": 348,
+      "timestamp": "19:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Brook's Dramatic Entrance and Singing",
+      "description": "Brook's distinctive humming and singing voice is heard echoing through the area. Tararan becomes annoyed by the humming, not yet realizing who approaches. Brook sees the Straw Hats and understands how they came to Thriller Bark.",
+      "significance": "This marks Brook's heroic entrance to save the Straw Hats and demonstrates his connection to Thriller Bark from his previous visit five years ago.",
+      "characterIds": ["brook", "tararan", "franky", "robin"],
+      "locationIds": ["thriller-bark"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [337, 338, 339],
+      "payoffInEpisodes": [349],
+      "callbacksToEpisodes": [337, 338]
+    },
+    {
+      "id": "ep348-event-010",
+      "episodeNumber": 348,
+      "timestamp": "20:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Brook's Three-Verse Humming: Arrow Notch Slash",
+      "description": "Brook performs his signature technique, the Three-Verse Humming: Arrow Notch Slash (Sanjuusoku Yahazu Giri), slicing through Tararan with incredible speed. The attack is so fast that Tararan only feels the cut after Brook sheaths his sword, defeating the massive zombie instantly.",
+      "significance": "This is the first time the anime shows Brook's most famous sword technique in action, establishing him as a formidable swordsman and potential ally to the Straw Hats. The technique's name references his past as leader of the Requiem La Banderole squad.",
+      "characterIds": ["brook", "tararan", "franky", "robin"],
+      "locationIds": ["thriller-bark"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [349, 357, 362],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep348-event-011",
+      "episodeNumber": 348,
+      "timestamp": "21:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Tararan Recognizes Brook",
+      "description": "With his last words before his shadow is purified, Tararan recalls that Brook looks familiar. The Spider Mice also recognize Brook as 'Humming Brook' who caused a ruckus on the island five years ago.",
+      "significance": "This reveals that Brook had previously visited Thriller Bark five years prior, where he became known as 'Humming Brook' and caused trouble. This backstory connection explains Brook's knowledge of the island and foreshadows his history with Moria.",
+      "characterIds": ["brook", "tararan", "spider-mice"],
+      "locationIds": ["thriller-bark"],
+      "quotes": [
+        {
+          "text": "You look... familiar...",
+          "speaker": "Tararan",
+          "context": "Tararan's dying words as he recognizes Brook from five years ago"
+        },
+        {
+          "text": "It's Humming Brook! He's the one who caused trouble here five years ago!",
+          "speaker": "Spider Mice",
+          "context": "The Spider Mice recognize Brook from his previous visit"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [337, 338],
+      "payoffInEpisodes": [349, 350, 362],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep348-event-012",
+      "episodeNumber": 348,
+      "timestamp": "22:15",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "Tararan's Shadow Purified",
+      "description": "After being defeated by Brook's attack, Tararan's shadow emerges from his zombie body and is purified, ending his existence as a General Zombie on Thriller Bark.",
+      "significance": "This demonstrates the vulnerability of Moria's zombies and shows that powerful sword techniques can force shadows out of zombie bodies.",
+      "characterIds": ["tararan", "brook"],
+      "locationIds": ["thriller-bark"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [342]
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["three-verse-humming-arrow-notch-slash", "heavy-nunchaku", "spider-nettori-net"]
+  },
+  "episodeRelationships": {
+    "setupFor": [349, 350, 362],
+    "payoffFrom": [337, 338, 342, 347],
+    "thematicLinks": [337, 339, 362, 372]
+  },
+  "quotes": [
+    {
+      "text": "I'm actually a man! My real name is Namizo. I dress up as a woman for fun!",
+      "speaker": "Nami",
+      "context": "Nami deceiving Lola to escape her romantic pursuit",
+      "timestamp": "03:45"
+    },
+    {
+      "text": "I'm the man who will become the King of the Pirates! And I'll use your strength to do it!",
+      "speaker": "Gecko Moria",
+      "context": "Moria revealing his plan to use Luffy's shadow",
+      "timestamp": "10:30"
+    },
+    {
+      "text": "We kidnapped your other crewmates! They're all being transported to Master Moria!",
+      "speaker": "Spider Mice",
+      "context": "The Spider Mice boasting about capturing the Straw Hats",
+      "timestamp": "18:10"
+    },
+    {
+      "text": "You look... familiar...",
+      "speaker": "Tararan",
+      "context": "Tararan's dying words recognizing Brook",
+      "timestamp": "21:30"
+    },
+    {
+      "text": "It's Humming Brook! He's the one who caused trouble here five years ago!",
+      "speaker": "Spider Mice",
+      "context": "Recognition of Brook from his previous visit",
+      "timestamp": "21:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Deception and Strategy",
+      "description": "Nami demonstrates the importance of wit and deception in dangerous situations, using her cleverness to extract information while avoiding conflict.",
+      "symbolism": "Nami's cross-dresser disguise represents the theme of identity and appearance versus reality that runs throughout Thriller Bark.",
+      "culturalReferences": ["Reference to Bon Kurei's (Mr. 2) distinctive speaking style"]
+    },
+    {
+      "theme": "Ambition and Power",
+      "description": "Gecko Moria's reveal of his plan to become Pirate King by using others' strength contrasts sharply with Luffy's approach of relying on his own power and his crew's support.",
+      "symbolism": "Moria's desire to use Luffy as a pawn symbolizes the corruption of the Pirate King dream when pursued through domination rather than personal growth.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Past Returns",
+      "description": "Brook's previous visit to Thriller Bark five years ago comes back to haunt the island's inhabitants, showing that actions have long-lasting consequences.",
+      "symbolism": "Brook's recognition by Tararan and the Spider Mice represents how the past cannot be escaped and how history repeats itself.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Comedic", "Suspenseful", "Dramatic", "Action-packed"],
+  "characterSpotlights": [
+    {
+      "characterId": "nami",
+      "role": "Strategic Trickster",
+      "development": "Nami demonstrates her cunning and adaptability by successfully deceiving Lola and extracting valuable information about Thriller Bark's treasures.",
+      "keyActions": [
+        "Claims to be a cross-dresser named Namizo",
+        "Convinces Lola that she and Absalom would make a good couple",
+        "Obtains information about treasure locations",
+        "Hides inside Kumashi to spy on Moria's commanders"
+      ],
+      "quotes": ["I'm actually a man! My real name is Namizo. I dress up as a woman for fun!"]
+    },
+    {
+      "characterId": "brook",
+      "role": "Heroic Savior",
+      "development": "Brook makes a dramatic entrance to save Franky and Robin, revealing his connection to Thriller Bark and demonstrating his formidable sword skills.",
+      "keyActions": [
+        "Appears singing his distinctive humming song",
+        "Defeats Tararan with Three-Verse Humming: Arrow Notch Slash",
+        "Is recognized from his previous visit five years ago",
+        "Saves Franky and Robin from the Spider Mice"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "gecko-moria",
+      "role": "Primary Antagonist",
+      "development": "Moria reveals his true ambitions and demonstrates his willingness to use others as pawns to achieve his dream of becoming Pirate King.",
+      "keyActions": [
+        "Captures Luffy and brings him to his chambers",
+        "Reveals his plan to use Luffy's strength",
+        "Demonstrates his tactical command over his zombie army"
+      ],
+      "quotes": ["I'm the man who will become the King of the Pirates! And I'll use your strength to do it!"]
+    },
+    {
+      "characterId": "franky",
+      "role": "Determined Fighter",
+      "development": "Franky shows his combat ingenuity and determination against Tararan, though ultimately needs Brook's help to escape the Spider Mice's trap.",
+      "keyActions": [
+        "Battles Tararan with increasing intensity",
+        "Creates Heavy Nunchaku from steel columns",
+        "Coordinates attacks with Robin",
+        "Gets trapped by Spider Mice's webs"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends the fight between Franky and Tararan with additional action sequences not present in the manga.",
+      "episodeTimestamp": "13:50-18:10",
+      "mangaReference": "Chapter 454",
+      "type": "ANIME_EXPANSION"
+    },
+    {
+      "difference": "Nami's conversation with Lola is expanded in the anime with more comedic moments and detailed reactions.",
+      "episodeTimestamp": "03:45-06:20",
+      "mangaReference": "Chapter 454",
+      "type": "ANIME_EXPANSION"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode adapts material from Chapter 454 of the manga, titled 'Sanji's Dream,' though the anime focuses more on Brook's appearance than the chapter title suggests.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_348",
+          "title": "Episode 348 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-24"
+        }
+      ]
+    },
+    {
+      "fact": "Brook's 'Three-Verse Humming: Arrow Notch Slash' is so fast that opponents don't realize they've been cut until Brook sheaths his sword, similar to the classic 'iaido' quick-draw technique in samurai films.",
+      "category": "CULTURAL",
+      "sources": []
+    },
+    {
+      "fact": "Ian Sinclair, Brook's English voice actor, was nominated for Best Male Vocal Performance in a Supporting Role in an Anime for his portrayal of Brook at the 3rd Annual BTVA Anime Dub Awards in 2013.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://www.behindthevoiceactors.com/tv-shows/One-Piece/Brook/",
+          "title": "Brook Voice - One Piece - Behind The Voice Actors",
+          "platform": "Behind The Voice Actors",
+          "accessedAt": "2025-11-24"
+        }
+      ]
+    },
+    {
+      "fact": "Starting from Episode 326, One Piece stopped using ending themes and extended the opening themes from 110 to 150 seconds. Episode 348 follows this format with no ending song.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/One_Piece_Music",
+          "title": "One Piece Music - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-24"
+        }
+      ]
+    },
+    {
+      "fact": "The Spider Mice's recognition of Brook as 'Humming Brook' from five years ago foreshadows the reveal that Brook's shadow was stolen by Moria during his previous visit to Thriller Bark.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "Nami's fake name 'Namizo' is a masculine version of her name, and her imitation of Bon Kurei's speaking style is a callback to the Alabasta Arc.",
+      "category": "STORY",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
