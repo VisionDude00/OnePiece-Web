@@ -1,0 +1,164 @@
+[
+  {
+    "name": {
+      "english": "Thriller Bark Freezer",
+      "japanese": "スリラーバーク冷凍庫",
+      "romanized": "Surirā Bāku Reitōko"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "FLORIAN_TRIANGLE",
+    "islandName": "Thriller Bark",
+    "debutEpisode": 351,
+    "debutChapter": 456,
+    "description": "A massive freezer chamber within Thriller Bark where Gecko Moria stored the corpse of the ancient giant Oars. The freezer contained chains to restrain Oars and was filled with ice blocks to preserve the body.",
+    "episodeAppearances": [351],
+    "keyEvents": [
+      {
+        "episodeNumber": 351,
+        "eventId": "ep351-event-001",
+        "eventType": "WORLD_LORE",
+        "title": "Moria Implants Luffy's Shadow into Oars",
+        "description": "Gecko Moria walks along the chains in the freezer to implant Luffy's shadow into the corpse of Oars.",
+        "significance": "The location where Moria's ultimate zombie is created.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 351,
+        "eventId": "ep351-event-002",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Oars Awakens After 500 Years",
+        "description": "Oars opens his eyes and breaks free from the chains restraining him in the freezer.",
+        "significance": "The awakening of the arc's major antagonist occurs in this location.",
+        "timestamp": "05:20"
+      }
+    ],
+    "status": "DAMAGED",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 351,
+        "episodeEnd": 351,
+        "reason": "Freezer is operational and storing Oars' corpse"
+      },
+      {
+        "status": "DAMAGED",
+        "episodeStart": 351,
+        "episodeEnd": "present",
+        "reason": "Oars punches through the freezer wall to escape"
+      }
+    ],
+    "parentLocation": "thriller-bark-mansion",
+    "childLocations": [],
+    "relatedCharacters": ["oars", "gecko-moria", "hogback"],
+    "relatedCrews": ["thriller-bark-pirates"],
+    "relatedArcs": ["Thriller Bark"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Thriller Bark Mansion",
+      "japanese": "スリラーバーク屋敷",
+      "romanized": "Surirā Bāku Yashiki"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "FLORIAN_TRIANGLE",
+    "islandName": "Thriller Bark",
+    "debutEpisode": 343,
+    "debutChapter": 446,
+    "description": "The massive mansion on Thriller Bark where Dr. Hogback conducts his experiments and where the Mysterious Four reside. It contains laboratories, living quarters, and the freezer where Oars was stored.",
+    "episodeAppearances": [351],
+    "keyEvents": [
+      {
+        "episodeNumber": 351,
+        "eventId": "ep351-event-004",
+        "eventType": "WORLD_LORE",
+        "title": "Shadow Personality Transfer Explained",
+        "description": "Chopper explains to the crew how zombies are created in the mansion with shadows that carry personalities.",
+        "significance": "Reveals the mechanics of zombie creation in this location.",
+        "timestamp": "08:30"
+      },
+      {
+        "episodeNumber": 351,
+        "eventId": "ep351-event-007",
+        "eventType": "MAJOR_DECISION",
+        "title": "Straw Hats Discovered by Thriller Bark Pirates",
+        "description": "Usopp, Nami, and Chopper are discovered by Absalom, Perona, and other Thriller Bark Pirates in the mansion.",
+        "significance": "Forces the Straw Hats into direct confrontation.",
+        "timestamp": "14:10"
+      },
+      {
+        "episodeNumber": 351,
+        "eventId": "ep351-event-009",
+        "eventType": "BATTLE_START",
+        "title": "Absalom Abducts Nami",
+        "description": "Absalom kidnaps Nami from the mansion using his invisibility powers.",
+        "significance": "Initiates Nami's abduction subplot.",
+        "timestamp": "17:45"
+      },
+      {
+        "episodeNumber": 351,
+        "eventId": "ep351-event-011",
+        "eventType": "BATTLE_END",
+        "title": "Franky and Robin Rescue with Salt",
+        "description": "Franky and Robin rescue Usopp and Chopper in the mansion using salt against zombies.",
+        "significance": "First successful use of salt against zombies by the Straw Hats.",
+        "timestamp": "20:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 343,
+        "episodeEnd": "present",
+        "reason": "Mansion is operational throughout the Thriller Bark arc"
+      }
+    ],
+    "parentLocation": "thriller-bark",
+    "childLocations": ["thriller-bark-freezer"],
+    "relatedCharacters": ["hogback", "absalom", "perona", "gecko-moria", "nami", "usopp", "chopper", "franky", "robin"],
+    "relatedCrews": ["thriller-bark-pirates", "straw-hat-pirates"],
+    "relatedArcs": ["Thriller Bark"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Thriller Bark",
+      "japanese": "スリラーバーク",
+      "romanized": "Surirā Bāku"
+    },
+    "locationType": "SHIP",
+    "seaRegion": "FLORIAN_TRIANGLE",
+    "islandName": null,
+    "debutEpisode": 337,
+    "debutChapter": 442,
+    "description": "The world's largest pirate ship, Thriller Bark is a massive island-ship commanded by Gecko Moria. It serves as his base of operations for creating zombie armies using stolen shadows.",
+    "episodeAppearances": [351],
+    "keyEvents": [
+      {
+        "episodeNumber": 351,
+        "eventId": "ep351-event-006",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Oars Declares He Will Become Pirate King",
+        "description": "After escaping the freezer, Oars leaps onto the exterior of Thriller Bark and declares his dream to become Pirate King.",
+        "significance": "Shows Oars on the ship's exterior for the first time.",
+        "timestamp": "12:20"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 337,
+        "episodeEnd": "present",
+        "reason": "Thriller Bark is operational throughout the arc"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["thriller-bark-mansion", "thriller-bark-freezer"],
+    "relatedCharacters": ["gecko-moria", "absalom", "perona", "hogback", "oars"],
+    "relatedCrews": ["thriller-bark-pirates", "straw-hat-pirates"],
+    "relatedArcs": ["Thriller Bark"],
+    "images": []
+  }
+]
