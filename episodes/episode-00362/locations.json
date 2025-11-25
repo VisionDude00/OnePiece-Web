@@ -1,0 +1,126 @@
+[
+  {
+    "id": "hogback-laboratory",
+    "name": {
+      "english": "Hogback's Laboratory",
+      "japanese": "ホグバックの研究室",
+      "romanized": "Hogubakku no Kenkyūshitsu"
+    },
+    "locationType": "BUILDING_INTERIOR",
+    "seaRegion": "FLORIAN_TRIANGLE",
+    "islandName": "Thriller Bark",
+    "debutEpisode": 349,
+    "debutChapter": 449,
+    "description": "The laboratory of Dr. Hogback inside the Thriller Bark mansion, where he conducts his zombie experiments. In this episode, it serves as the initial battleground for Zoro and Ryuma's duel.",
+    "episodeAppearances": [362],
+    "keyEvents": [
+      {
+        "episodeNumber": 362,
+        "eventId": "ep362-event-001",
+        "eventType": "BATTLE_START",
+        "title": "Zoro vs Ryuma Duel Location",
+        "description": "The laboratory serves as the initial battleground for the intense sword duel between Zoro and Ryuma.",
+        "significance": "The starting point of one of Zoro's most important battles in the Thriller Bark arc.",
+        "timestamp": "04:30"
+      },
+      {
+        "episodeNumber": 362,
+        "eventId": "ep362-event-003",
+        "eventType": "LOCATION_DEPARTURE",
+        "title": "Laboratory Destroyed",
+        "description": "The fierce exchanges between Zoro and Ryuma completely destroy the laboratory, forcing them to move to the roof.",
+        "significance": "Demonstrates the intensity and destructive power of the duel.",
+        "timestamp": "08:20"
+      }
+    ],
+    "status": "DESTROYED",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 349,
+        "episodeEnd": 362,
+        "reason": "Laboratory was operational for Hogback's experiments"
+      },
+      {
+        "status": "DESTROYED",
+        "episodeStart": 362,
+        "episodeEnd": "present",
+        "reason": "Destroyed during Zoro and Ryuma's battle"
+      }
+    ],
+    "parentLocation": "thriller-bark-mansion",
+    "childLocations": [],
+    "relatedCharacters": ["zoro", "ryuma-zombie", "hogback"],
+    "relatedCrews": ["thriller-bark-pirates"],
+    "relatedArcs": ["Thriller Bark"],
+    "images": []
+  },
+  {
+    "id": "thriller-bark-mansion-roof",
+    "name": {
+      "english": "Thriller Bark Mansion Roof",
+      "japanese": "スリラーバーク屋敷の屋根",
+      "romanized": "Surirā Bāku Yashiki no Yane"
+    },
+    "locationType": "BUILDING_EXTERIOR",
+    "seaRegion": "FLORIAN_TRIANGLE",
+    "islandName": "Thriller Bark",
+    "debutEpisode": 362,
+    "debutChapter": 467,
+    "description": "The rooftop of the Thriller Bark mansion where Zoro and Ryuma conclude their epic sword duel under the moonlight after the laboratory is destroyed.",
+    "episodeAppearances": [362],
+    "keyEvents": [
+      {
+        "episodeNumber": 362,
+        "eventId": "ep362-event-004",
+        "eventType": "BATTLE_START",
+        "title": "Rooftop Duel",
+        "description": "Zoro and Ryuma continue their sword fight on the mansion roof, creating one of the most iconic battle settings in the arc.",
+        "significance": "The dramatic rooftop setting adds to the epicness of this legendary duel.",
+        "timestamp": "11:30"
+      },
+      {
+        "episodeNumber": 362,
+        "eventId": "ep362-event-005",
+        "eventType": "TECHNIQUE_DEBUT",
+        "title": "Hiryu: Kaen Debut Location",
+        "description": "The roof serves as the stage for Zoro's debut of his Hiryu: Kaen technique.",
+        "significance": "The location where one of Zoro's most iconic techniques is first used.",
+        "timestamp": "15:40"
+      },
+      {
+        "episodeNumber": 362,
+        "eventId": "ep362-event-006",
+        "eventType": "BATTLE_END",
+        "title": "Zoro's Victory Over Ryuma",
+        "description": "The rooftop witnesses Zoro's victory over the legendary samurai Ryuma.",
+        "significance": "The site of a decisive moment in Zoro's growth as a swordsman.",
+        "timestamp": "17:20"
+      },
+      {
+        "episodeNumber": 362,
+        "eventId": "ep362-event-007",
+        "eventType": "TREASURE_DISCOVERY",
+        "title": "Shusui Transfer",
+        "description": "Ryuma passes the legendary blade Shusui to Zoro on the rooftop.",
+        "significance": "The location where Zoro receives one of the most important swords in his arsenal.",
+        "timestamp": "18:10"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 362,
+        "episodeEnd": "present",
+        "reason": "First appeared as battle location and remains intact"
+      }
+    ],
+    "parentLocation": "thriller-bark-mansion",
+    "childLocations": [],
+    "relatedCharacters": ["zoro", "ryuma-zombie"],
+    "relatedCrews": [],
+    "relatedArcs": ["Thriller Bark"],
+    "images": []
+  }
+]
