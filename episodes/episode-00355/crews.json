@@ -1,0 +1,130 @@
+[
+  {
+    "id": "straw-hat-pirates",
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "luffy",
+    "debutEpisode": 1,
+    "episodeAppearances": [355],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 355,
+        "eventId": "ep355-event-001",
+        "momentType": "MAJOR_DECISION",
+        "title": "Strategic Division to Accomplish Multiple Objectives",
+        "description": "The Straw Hat Pirates demonstrate strategic coordination by splitting into teams with specific missions: retrieving shadows from Moria, rescuing Nami from Absalom, and recovering stolen supplies before dawn.",
+        "significance": "Shows the crew's growth in tactical planning and their ability to trust each other to work independently toward common goals.",
+        "timestamp": "03:15"
+      },
+      {
+        "episodeNumber": 355,
+        "eventId": "ep355-event-002",
+        "momentType": "WORLD_LORE",
+        "title": "Equipped with Salt for Zombie Purification",
+        "description": "Usopp provides each crew member with salt to purify zombies, giving them a tactical advantage against Moria's forces.",
+        "significance": "Demonstrates the crew's preparation and strategic use of intelligence gathered about their enemies.",
+        "timestamp": "05:30"
+      },
+      {
+        "episodeNumber": 355,
+        "eventId": "ep355-event-005",
+        "momentType": "BATTLE_START",
+        "title": "Overwhelming Assault on Zombie Forces",
+        "description": "Luffy and Sanji decimate dozens of zombies as they push toward their objectives, demonstrating the crew's combat superiority.",
+        "significance": "Shows the Straw Hats can easily handle most of Moria's zombie army when not countered by special abilities.",
+        "timestamp": "12:40"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull wearing a straw hat with crossed bones behind it",
+      "episodeFirstSeen": 45,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": ["brook"],
+      "enemies": ["thriller-bark-pirates"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "id": "thriller-bark-pirates",
+    "name": {
+      "english": "Thriller Bark Pirates",
+      "japanese": "スリラーバーク海賊団",
+      "romanized": "Surirā Bāku Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "gecko-moria",
+    "debutEpisode": 337,
+    "episodeAppearances": [355],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 355,
+        "eventId": "ep355-event-003",
+        "momentType": "RELATIONSHIP_REVEAL",
+        "title": "Internal Tension Over Absalom's Wedding",
+        "description": "Hogback becomes frustrated with Absalom's wedding ceremony and assumes a more active command role as second-in-charge.",
+        "significance": "Reveals internal friction within the Thriller Bark leadership and command structure.",
+        "timestamp": "07:45"
+      },
+      {
+        "episodeNumber": 355,
+        "eventId": "ep355-event-006",
+        "momentType": "POWER_REVEAL",
+        "title": "Perona Successfully Neutralizes Straw Hat Assault",
+        "description": "Perona uses her Negative Hollows to completely stop Luffy and Sanji's devastating assault on the zombie forces.",
+        "significance": "Demonstrates the Thriller Bark Pirates' strategic defensive capabilities against powerful opponents.",
+        "timestamp": "15:25"
+      },
+      {
+        "episodeNumber": 355,
+        "eventId": "ep355-event-007",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Oars Awakens as Ultimate Weapon",
+        "description": "Special Zombie Oars awakens with Luffy's shadow, representing the culmination of Moria's zombie army project.",
+        "significance": "Reveals Thriller Bark Pirates' trump card in the conflict with the Straw Hats.",
+        "timestamp": "17:50"
+      },
+      {
+        "episodeNumber": 355,
+        "eventId": "ep355-event-010",
+        "momentType": "WORLD_LORE",
+        "title": "Challenges Controlling Oars",
+        "description": "The crew discovers that Oars cannot be easily controlled due to Luffy's strong-willed shadow, revealing a flaw in Moria's plan.",
+        "significance": "Shows that even the Thriller Bark Pirates' ultimate weapon has significant control issues.",
+        "timestamp": "21:15"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Thriller Bark",
+        "episodeAcquired": 337,
+        "episodeLost": null,
+        "description": "The largest ship in the world, serving as a mobile island fortress"
+      }
+    ],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "Unknown",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "#8B008B",
+    "relationships": {
+      "allies": [],
+      "enemies": ["straw-hat-pirates"],
+      "parentOrganization": "seven-warlords-of-the-sea"
+    }
+  }
+]
