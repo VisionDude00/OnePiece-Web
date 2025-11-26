@@ -1,0 +1,108 @@
+[
+  {
+    "name": {
+      "english": "Thriller Bark Mansion",
+      "japanese": "スリラーバーク屋敷",
+      "romanized": "Surirā Bāku Yashiki"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "PARADISE",
+    "islandName": "Thriller Bark",
+    "debutEpisode": 341,
+    "debutChapter": 446,
+    "description": "The massive gothic mansion at the center of Thriller Bark island-ship where Gecko Moria and his subordinates reside. In this episode, the mansion is severely damaged by Oars' rampage.",
+    "episodeAppearances": [364],
+    "keyEvents": [
+      {
+        "episodeNumber": 364,
+        "eventId": "ep364-event-001",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Cindry's Humanity Resurfaces",
+        "description": "Inside the mansion, Cindry refuses to save Hogback and smiles at Chopper.",
+        "significance": "Location where Cindry's humanity breaks through zombie control.",
+        "timestamp": "04:15"
+      },
+      {
+        "episodeNumber": 364,
+        "eventId": "ep364-event-003",
+        "eventType": "TECHNIQUE_DEBUT",
+        "title": "Robi-Cho Suplex Attempted",
+        "description": "Robin and Chopper attempt their combination technique before Oars crashes through.",
+        "significance": "Location of the first Robi-Cho Suplex attempt.",
+        "timestamp": "06:00"
+      },
+      {
+        "episodeNumber": 364,
+        "eventId": "ep364-event-006",
+        "eventType": "DEATH",
+        "title": "Hogback Crushed by Oars",
+        "description": "Oars crashes through the mansion, trampling Hogback in the debris.",
+        "significance": "Location of Hogback's defeat and the mansion's destruction.",
+        "timestamp": "10:15"
+      }
+    ],
+    "status": "DAMAGED",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 341,
+        "episodeEnd": 363,
+        "reason": "Mansion was intact and operational"
+      },
+      {
+        "status": "DAMAGED",
+        "episodeStart": 364,
+        "episodeEnd": null,
+        "reason": "Severely damaged by Oars crashing through it"
+      }
+    ],
+    "parentLocation": "thriller-bark",
+    "childLocations": [],
+    "relatedCharacters": ["gecko-moria", "hogback", "cindry", "absalom", "perona", "oars", "tony-tony-chopper", "nico-robin"],
+    "relatedCrews": ["thriller-bark-pirates", "straw-hat-pirates"],
+    "relatedArcs": ["Thriller Bark"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Thriller Bark",
+      "japanese": "スリラーバーク",
+      "romanized": "Surirā Bāku"
+    },
+    "locationType": "SHIP",
+    "seaRegion": "PARADISE",
+    "islandName": "Thriller Bark",
+    "debutEpisode": 337,
+    "debutChapter": 442,
+    "description": "The world's largest pirate ship, a massive island-sized vessel commanded by Gecko Moria. In this episode, Oars rampages across various locations on Thriller Bark, disrupting multiple battles.",
+    "episodeAppearances": [364],
+    "keyEvents": [
+      {
+        "episodeNumber": 364,
+        "eventId": "ep364-event-004",
+        "eventType": "BATTLE_START",
+        "title": "Oars Begins Hunting the Straw Hats",
+        "description": "Oars begins his rampage across Thriller Bark, hunting for the Straw Hat Pirates.",
+        "significance": "The island becomes the battleground for the climactic Oars confrontation.",
+        "timestamp": "06:45"
+      },
+      {
+        "episodeNumber": 364,
+        "eventId": "ep364-event-012",
+        "eventType": "BATTLE_START",
+        "title": "Oars Challenges the Straw Hats",
+        "description": "The assembled Straw Hat crew faces off against Oars on Thriller Bark.",
+        "significance": "Sets up the major crew battle location.",
+        "timestamp": "20:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [],
+    "parentLocation": null,
+    "childLocations": ["thriller-bark-mansion"],
+    "relatedCharacters": ["gecko-moria", "oars", "monkey-d-luffy", "roronoa-zoro", "nami", "usopp", "sanji", "tony-tony-chopper", "nico-robin", "franky", "brook"],
+    "relatedCrews": ["thriller-bark-pirates", "straw-hat-pirates"],
+    "relatedArcs": ["Thriller Bark"],
+    "images": []
+  }
+]

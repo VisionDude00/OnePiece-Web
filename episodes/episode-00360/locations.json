@@ -1,0 +1,93 @@
+[
+  {
+    "name": {
+      "english": "Perona's Room",
+      "japanese": "ペローナの部屋",
+      "romanized": "Perōna no Heya"
+    },
+    "locationType": "ROOM",
+    "seaRegion": "FLORIAN_TRIANGLE",
+    "islandName": "Thriller Bark",
+    "debutEpisode": 360,
+    "debutChapter": 465,
+    "description": "A hidden room within Thriller Bark where Perona's physical body rests while she projects her astral form. The room is concealed behind a door, protecting her vulnerable real body while she uses her Horo Horo no Mi powers remotely. Discovery of this location is the key to defeating her.",
+    "episodeAppearances": [360],
+    "keyEvents": [
+      {
+        "episodeNumber": 360,
+        "eventId": "ep360-event-014",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Usopp Discovers Perona's Hidden Room",
+        "description": "Following his deduction about Perona's weakness, Usopp discovers the hidden door to Perona's room where her real body is located.",
+        "significance": "The pivotal discovery that exposes Perona's critical vulnerability and allows Usopp to defeat her.",
+        "timestamp": "20:30"
+      },
+      {
+        "episodeNumber": 360,
+        "eventId": "ep360-event-015",
+        "eventType": "TECHNIQUE_DEBUT",
+        "title": "Door Destroyed by Atlas Suisei",
+        "description": "Usopp uses his Atlas Suisei technique to destroy the door to Perona's room, revealing her physical body's location.",
+        "significance": "The decisive moment that breaks through Perona's final defense.",
+        "timestamp": "21:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 360,
+        "episodeEnd": "present",
+        "reason": "Room discovered by Usopp"
+      }
+    ],
+    "parentLocation": "thriller-bark",
+    "childLocations": [],
+    "relatedCharacters": ["perona", "usopp"],
+    "relatedCrews": ["thriller-bark-pirates"],
+    "relatedArcs": ["Thriller Bark"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Thriller Bark",
+      "japanese": "スリラーバーク",
+      "romanized": "Surirā Bāku"
+    },
+    "locationType": "SHIP",
+    "seaRegion": "FLORIAN_TRIANGLE",
+    "islandName": null,
+    "debutEpisode": 337,
+    "debutChapter": 442,
+    "description": "The world's largest pirate ship, Thriller Bark is a massive vessel resembling an island, commanded by Gecko Moria. It serves as the setting for ongoing battles between the Straw Hat Pirates and Moria's forces.",
+    "episodeAppearances": [360],
+    "keyEvents": [
+      {
+        "episodeNumber": 360,
+        "eventId": "ep360-event-001",
+        "eventType": "BATTLE_START",
+        "title": "Luffy vs Moria Continues",
+        "description": "Luffy continues his battle against Gecko Moria on Thriller Bark, facing the Warlord's shadow manipulation abilities.",
+        "significance": "Ongoing confrontation between Luffy and one of the Seven Warlords.",
+        "timestamp": "02:30"
+      },
+      {
+        "episodeNumber": 360,
+        "eventId": "ep360-event-003",
+        "eventType": "BATTLE_START",
+        "title": "Usopp vs Perona Battle",
+        "description": "Usopp engages in a desperate battle against Perona across various areas of Thriller Bark.",
+        "significance": "Major battle showcasing Usopp's growth as a strategist.",
+        "timestamp": "05:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [],
+    "parentLocation": null,
+    "childLocations": ["perona-room"],
+    "relatedCharacters": ["luffy", "usopp", "perona", "gecko-moria", "kumashi"],
+    "relatedCrews": ["straw-hat-pirates", "thriller-bark-pirates"],
+    "relatedArcs": ["Thriller Bark"],
+    "images": []
+  }
+]
