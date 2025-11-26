@@ -1,0 +1,149 @@
+[
+  {
+    "name": {
+      "english": "Thriller Bark Chapel",
+      "japanese": "スリラーバークの礼拝堂",
+      "romanized": "Surirā Bāku no Reihai-dō"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "FLORIAN_TRIANGLE",
+    "islandName": "Thriller Bark",
+    "debutEpisode": 358,
+    "debutChapter": 463,
+    "description": "A gothic chapel within Thriller Bark's mansion where Absalom attempts to force Nami into marriage. The chapel features traditional wedding decorations and is guarded by zombie servants.",
+    "episodeAppearances": [358],
+    "keyEvents": [
+      {
+        "episodeNumber": 358,
+        "eventId": "ep358-event-009",
+        "eventType": "MAJOR_DECISION",
+        "title": "Sanji Crashes the Wedding",
+        "description": "Sanji bursts into the chapel to rescue Nami from Absalom's forced wedding ceremony.",
+        "significance": "The location for one of the arc's key confrontations between Sanji and Absalom.",
+        "timestamp": "13:30"
+      },
+      {
+        "episodeNumber": 358,
+        "eventId": "ep358-event-011",
+        "eventType": "BATTLE_START",
+        "title": "Sanji vs Absalom Battle Begins",
+        "description": "The chapel becomes a battleground as Sanji fights Absalom to protect Nami.",
+        "significance": "Sets the stage for the revelation of Sanji's connection to the Suke Suke no Mi.",
+        "timestamp": "16:20"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 358,
+        "episodeEnd": null,
+        "reason": "Chapel is operational during the forced wedding ceremony"
+      }
+    ],
+    "parentLocation": "thriller-bark-mansion",
+    "childLocations": [],
+    "relatedCharacters": ["sanji", "nami", "absalom"],
+    "relatedCrews": ["straw-hat-pirates", "thriller-bark-pirates"],
+    "relatedArcs": ["Thriller Bark"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Thriller Bark Mansion",
+      "japanese": "スリラーバークの屋敷",
+      "romanized": "Surirā Bāku no Yashiki"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "FLORIAN_TRIANGLE",
+    "islandName": "Thriller Bark",
+    "debutEpisode": 343,
+    "debutChapter": 449,
+    "description": "The massive gothic mansion at the center of Thriller Bark island-ship, serving as Gecko Moria's headquarters and home to the Mysterious Four.",
+    "episodeAppearances": [358],
+    "keyEvents": [
+      {
+        "episodeNumber": 358,
+        "eventId": "ep358-event-001",
+        "eventType": "BATTLE_START",
+        "title": "Luffy Confronts Gecko Moria",
+        "description": "Luffy attempts to attack Moria directly within the mansion to retrieve stolen shadows.",
+        "significance": "The setting for the confrontation between Luffy and the Warlord Moria.",
+        "timestamp": "03:20"
+      },
+      {
+        "episodeNumber": 358,
+        "eventId": "ep358-event-004",
+        "eventType": "BATTLE_START",
+        "title": "Usopp vs Wild Zombies Chase",
+        "description": "Usopp pursues Perona through the mansion's hallways while evading Wild Zombies and Kumashi.",
+        "significance": "Showcases the mansion's maze-like layout and multiple battle zones.",
+        "timestamp": "06:45"
+      },
+      {
+        "episodeNumber": 358,
+        "eventId": "ep358-event-008",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Three-Way Chase Through Mansion",
+        "description": "A comedic chase sequence through the mansion's corridors with Kumashi destroying pillars.",
+        "significance": "Demonstrates the structural features and scale of the mansion.",
+        "timestamp": "11:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 343,
+        "episodeEnd": null,
+        "reason": "Mansion serves as headquarters for Thriller Bark operations"
+      }
+    ],
+    "parentLocation": "thriller-bark",
+    "childLocations": ["thriller-bark-chapel"],
+    "relatedCharacters": ["gecko-moria", "luffy", "usopp", "perona", "kumashi", "sanji", "nami", "absalom"],
+    "relatedCrews": ["straw-hat-pirates", "thriller-bark-pirates"],
+    "relatedArcs": ["Thriller Bark"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Thriller Bark",
+      "japanese": "スリラーバーク",
+      "romanized": "Surirā Bāku"
+    },
+    "locationType": "SHIP",
+    "seaRegion": "FLORIAN_TRIANGLE",
+    "islandName": null,
+    "debutEpisode": 337,
+    "debutChapter": 442,
+    "description": "A massive island-ship commanded by Gecko Moria, one of the Seven Warlords of the Sea. It serves as a floating fortress filled with zombies and is shrouded in the mysterious Florian Triangle.",
+    "episodeAppearances": [358],
+    "keyEvents": [
+      {
+        "episodeNumber": 358,
+        "eventId": "ep358-event-016",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Oars Attempts to Swim",
+        "description": "The giant zombie Oars tries to swim in the waters around Thriller Bark, creating tsunamis.",
+        "significance": "Shows Oars retaining Luffy's personality traits despite being a zombie.",
+        "timestamp": "07:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 337,
+        "episodeEnd": null,
+        "reason": "Ship is operational and floating in the Florian Triangle"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["thriller-bark-mansion"],
+    "relatedCharacters": ["gecko-moria", "oars"],
+    "relatedCrews": ["thriller-bark-pirates", "straw-hat-pirates"],
+    "relatedArcs": ["Thriller Bark"],
+    "images": []
+  }
+]

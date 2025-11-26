@@ -1,0 +1,532 @@
+{
+  "episodeNumber": 358,
+  "episodeTitle": "Blazing Knight Sanji!! Kick Down the Fake Wedding",
+  "description": "Sanji rescues Nami from Absalom's forced wedding ceremony, unleashing his fury on the invisible man. Meanwhile, Luffy battles Gecko Moria's shadow clone Doppelman, and Usopp pursues Perona while evading the relentless zombie bear Kumashi and Wild Zombies.",
+  "airDate": "2008-06-15",
+  "airDateJapan": "2008-06-15",
+  "airDateUS": "2016-08-20",
+  "arcName": "Thriller Bark",
+  "sagaName": "Thriller Bark Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Jungle P",
+    "artist": "5050",
+    "episodeRange": [326, 372]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Masayuki Fujita",
+    "episodeDirector": "Sumio Watanabe",
+    "screenplay": "Yoshiyuki Suga",
+    "artDirection": "Ryūji Yoshiike, Hiromitsu Shiozaki",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Gecko Moria",
+        "actor": "Katsuhisa Hōki"
+      },
+      {
+        "character": "Absalom",
+        "actor": "Hiroaki Miura"
+      },
+      {
+        "character": "Perona",
+        "actor": "Kumiko Nishihara"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Gecko Moria",
+        "actor": "Christopher Guerrero"
+      },
+      {
+        "character": "Absalom",
+        "actor": "Andrew Chandler"
+      },
+      {
+        "character": "Perona",
+        "actor": "Felecia Angelle"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep358-event-001",
+      "episodeNumber": 358,
+      "timestamp": "03:20",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Luffy Confronts Gecko Moria",
+      "description": "Luffy attempts to attack Gecko Moria directly to retrieve the stolen shadows. However, Moria warns that even if he is beaten, only he has the power to decide whether the shadows return to their owners.",
+      "significance": "Sets up the tension that defeating Moria is not enough - Luffy must force him to release the shadows willingly or face permanent consequences.",
+      "characterIds": ["luffy", "gecko-moria"],
+      "locationIds": ["thriller-bark-mansion"],
+      "quotes": [
+        {
+          "text": "Even if you beat me, the shadows will never return to their owners. I'm the one who decides whether they go back or not!",
+          "speaker": "Gecko Moria",
+          "context": "Moria taunts Luffy about his control over the shadows"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [350, 351, 352, 353, 354, 355, 356, 357],
+      "payoffInEpisodes": [362, 372],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep358-event-002",
+      "episodeNumber": 358,
+      "timestamp": "04:15",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Doppelman Tricks Luffy",
+      "description": "Luffy launches a Gum-Gum Pistol at Moria, but it passes through what appears to be the real Moria. It's revealed to be Doppelman, Moria's shadow clone that can take damage without harming the real body.",
+      "significance": "Demonstrates Moria's strategic use of his Kage Kage no Mi powers, showing why he's a Warlord of the Sea and establishing the difficulty of landing a hit on him.",
+      "characterIds": ["luffy", "gecko-moria"],
+      "locationIds": ["thriller-bark-mansion"],
+      "devilFruitIds": ["kage-kage-no-mi"],
+      "quotes": [
+        {
+          "text": "Gomu Gomu no... Pistol!",
+          "speaker": "Luffy",
+          "context": "Luffy attempts to strike Moria but hits Doppelman instead"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep358-event-003",
+      "episodeNumber": 358,
+      "timestamp": "05:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Moria's Brick Bat Attack",
+      "description": "Moria transforms his shadow into multiple black bat-like creatures called Brick Bats that swarm and bite Luffy, demonstrating the versatility of his shadow manipulation abilities.",
+      "significance": "Shows the offensive capabilities of Moria's Devil Fruit beyond just creating zombies, revealing he's a formidable direct combatant.",
+      "characterIds": ["gecko-moria", "luffy"],
+      "locationIds": ["thriller-bark-mansion"],
+      "devilFruitIds": ["kage-kage-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep358-event-004",
+      "episodeNumber": 358,
+      "timestamp": "06:45",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Usopp vs Wild Zombies Chase",
+      "description": "Usopp continues his pursuit of Perona while being chased by the Wild Animal Zombies. He uses clever tactics to evade them while trying to reach Perona.",
+      "significance": "Demonstrates Usopp's growth as a tactician and his determination to help his crew despite being outmatched physically.",
+      "characterIds": ["usopp", "perona"],
+      "locationIds": ["thriller-bark-mansion"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [356, 357],
+      "payoffInEpisodes": [359, 360],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep358-event-005",
+      "episodeNumber": 358,
+      "timestamp": "08:20",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Usopp's Pepper Star Trick",
+      "description": "Usopp fakes an injury to lure the Wild Zombies close, then uses Pepper Star instead of Salt Star. The zombies cough uncontrollably, leaving their mouths open for the real Salt Stars to purify them.",
+      "significance": "Shows Usopp's tactical intelligence and creativity in combat, using misdirection and non-lethal tactics effectively.",
+      "characterIds": ["usopp"],
+      "locationIds": ["thriller-bark-mansion"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep358-event-006",
+      "episodeNumber": 358,
+      "timestamp": "09:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Chandelier Fire Trap",
+      "description": "Usopp shoots a Firebird Star that misses its target but hits a chandelier instead, causing it to fall and create a fire that panics the Wild Zombies.",
+      "significance": "Demonstrates Usopp's adaptability in using environmental hazards to his advantage, even when his attacks miss their intended target.",
+      "characterIds": ["usopp"],
+      "locationIds": ["thriller-bark-mansion"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep358-event-007",
+      "episodeNumber": 358,
+      "timestamp": "10:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Kumashi Blocks Usopp's Path",
+      "description": "The massive zombie bear Kumashi intervenes to protect Perona, blocking Usopp from reaching her. Perona flees into the hallways with Usopp and Kumashi in pursuit.",
+      "significance": "Establishes Kumashi as Perona's loyal guardian and a significant obstacle for Usopp to overcome.",
+      "characterIds": ["kumashi", "perona", "usopp"],
+      "locationIds": ["thriller-bark-mansion"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [359, 360],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep358-event-008",
+      "episodeNumber": 358,
+      "timestamp": "11:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Three-Way Chase Sequence",
+      "description": "A comedic Scooby-Doo-style chase ensues with Usopp running from Kumashi while chasing Perona through the mansion's hallways and pillars. Kumashi's destructive power is shown as he demolishes pillars in his rage.",
+      "significance": "Provides comic relief while demonstrating Kumashi's raw strength and Perona's vulnerability when separated from her Negative Hollows.",
+      "characterIds": ["usopp", "kumashi", "perona"],
+      "locationIds": ["thriller-bark-mansion"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep358-event-009",
+      "episodeNumber": 358,
+      "timestamp": "13:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Sanji Crashes the Wedding",
+      "description": "Sanji bursts into the chapel where Absalom is forcing Nami into marriage, spinning and singing. He kicks away the zombie holding Nami and catches her as she falls, completely mesmerized by her beauty in the wedding dress.",
+      "significance": "Sanji's rescue of Nami is a pivotal moment showcasing his devotion to protecting the women of his crew and his chivalrous nature, setting up his confrontation with Absalom.",
+      "characterIds": ["sanji", "nami", "absalom"],
+      "locationIds": ["thriller-bark-chapel"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [355, 356, 357],
+      "payoffInEpisodes": [359],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep358-event-010",
+      "episodeNumber": 358,
+      "timestamp": "15:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Sanji and Absalom's Brief Agreement",
+      "description": "In a comedic moment, Sanji and Absalom briefly bond over admiring Nami's beauty before remembering they're enemies and preparing to fight.",
+      "significance": "Adds humor to the tense situation while highlighting both characters' perverted nature, though Sanji's is more respectful than Absalom's predatory behavior.",
+      "characterIds": ["sanji", "absalom"],
+      "locationIds": ["thriller-bark-chapel"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep358-event-011",
+      "episodeNumber": 358,
+      "timestamp": "16:20",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Sanji vs Absalom Begins",
+      "description": "Absalom launches invisible attacks at Sanji, warning him to leave Nami or die. However, Sanji grabs Absalom with his legs and throws him back, showing he won't back down.",
+      "significance": "Marks the beginning of one of Sanji's most important battles in Thriller Bark, motivated by both protecting Nami and a deeper grudge against Absalom.",
+      "characterIds": ["sanji", "absalom"],
+      "locationIds": ["thriller-bark-chapel"],
+      "devilFruitIds": ["suke-suke-no-mi"],
+      "quotes": [
+        {
+          "text": "Leave Nami as my wife or be killed!",
+          "speaker": "Absalom",
+          "context": "Absalom threatens Sanji during their confrontation"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [355, 356, 357],
+      "payoffInEpisodes": [359],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep358-event-012",
+      "episodeNumber": 358,
+      "timestamp": "17:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Sanji's Multiple Kick Combo",
+      "description": "Sanji unleashes a devastating series of kicks on Absalom: Basses Cote, Longe, Tendron, Flanchet, Quasi, Queue, Cuisseau, and Jarret. Each named after cuts of meat, the attacks overwhelm Absalom despite his 600-pound reinforced body.",
+      "significance": "Demonstrates Sanji's mastery of his fighting style and his ability to harm even heavily modified opponents, shocking the zombie witnesses who claim no human has ever done such damage to Absalom.",
+      "characterIds": ["sanji", "absalom"],
+      "locationIds": ["thriller-bark-chapel"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep358-event-013",
+      "episodeNumber": 358,
+      "timestamp": "19:10",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Absalom Uses Invisibility to Retreat",
+      "description": "Overwhelmed by Sanji's attacks, Absalom activates his Suke Suke no Mi powers to turn invisible and attempt to escape or gain an advantage in the fight.",
+      "significance": "Forces Sanji to adapt his fighting strategy to combat an invisible opponent, setting up the reveal of Sanji's knowledge about the Clear-Clear Fruit.",
+      "characterIds": ["absalom", "sanji"],
+      "locationIds": ["thriller-bark-chapel"],
+      "devilFruitIds": ["suke-suke-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [359],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep358-event-014",
+      "episodeNumber": 358,
+      "timestamp": "20:25",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Sanji Finds Invisible Absalom with Salt",
+      "description": "Sanji uses Usopp's special salt balls to reveal Absalom's position by covering part of his invisible body with salt, then blasts him with a powerful Veau Shot kick, knocking him into benches.",
+      "significance": "Shows Sanji's tactical thinking and his ability to counter Devil Fruit abilities using environmental resources and teamwork (using Usopp's salt).",
+      "characterIds": ["sanji", "absalom"],
+      "locationIds": ["thriller-bark-chapel"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep358-event-015",
+      "episodeNumber": 358,
+      "timestamp": "21:40",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MAJOR",
+      "title": "Sanji Hints at Deeper Grudge",
+      "description": "After defeating Absalom's initial attacks, Sanji reveals there's another reason beyond protecting Nami that makes him furious at Absalom, hinting at a personal connection to the Suke Suke no Mi.",
+      "significance": "Creates suspense and sets up the reveal in the next episode about Sanji's lifelong dream of eating the Clear-Clear Fruit to become invisible.",
+      "characterIds": ["sanji", "absalom"],
+      "locationIds": ["thriller-bark-chapel"],
+      "devilFruitIds": ["suke-suke-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [359],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep358-event-016",
+      "episodeNumber": 358,
+      "timestamp": "07:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Oars Attempts to Swim",
+      "description": "The giant zombie Oars, with Luffy's shadow, attempts to swim in the water surrounding Thriller Bark, creating massive tsunamis that endanger nearby zombies.",
+      "significance": "Shows Oars retaining some of Luffy's personality and behavior patterns despite being a zombie, foreshadowing future complications in fighting him.",
+      "characterIds": ["oars"],
+      "locationIds": ["thriller-bark"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [350, 351],
+      "payoffInEpisodes": [362, 365],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": ["thriller-bark-chapel"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["brick-bat", "pepper-star", "veau-shot", "basses-cote", "longe", "tendron", "flanchet", "quasi", "queue", "cuisseau", "jarret"]
+  },
+  "episodeRelationships": {
+    "setupFor": [359, 360, 361],
+    "payoffFrom": [355, 356, 357],
+    "thematicLinks": [363, 372]
+  },
+  "quotes": [
+    {
+      "text": "Even if you beat me, the shadows will never return to their owners. I'm the one who decides whether they go back or not!",
+      "speaker": "Gecko Moria",
+      "context": "Moria taunts Luffy about his control over the shadows",
+      "timestamp": "03:20"
+    },
+    {
+      "text": "Leave Nami as my wife or be killed!",
+      "speaker": "Absalom",
+      "context": "Absalom threatens Sanji during their confrontation",
+      "timestamp": "16:20"
+    },
+    {
+      "text": "Gomu Gomu no... Pistol!",
+      "speaker": "Luffy",
+      "context": "Luffy attempts to strike Moria but hits Doppelman instead",
+      "timestamp": "04:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Chivalry and Protection",
+      "description": "Sanji's unwavering dedication to protecting Nami from Absalom's assault showcases his chivalrous nature and moral code about never letting harm come to women.",
+      "symbolism": "The wedding setting contrasts pure intentions (Sanji's rescue) with corrupt desires (Absalom's forced marriage), highlighting the difference between respect and objectification.",
+      "culturalReferences": ["Knight imagery in Sanji's episode title connects to Western chivalric traditions"]
+    },
+    {
+      "theme": "Tactical Intelligence vs Raw Power",
+      "description": "Both Usopp and Sanji demonstrate that clever tactics and environmental awareness can overcome physically superior opponents.",
+      "symbolism": "Salt and pepper stars represent using simple tools creatively to achieve victory against supernatural enemies.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Illusion and Deception",
+      "description": "Moria's Doppelman and Absalom's invisibility both represent different forms of deception in battle, forcing the Straw Hats to see through trickery.",
+      "symbolism": "The inability to trust what you see reflects the larger theme of Thriller Bark where nothing is quite as it appears.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Action-packed", "Comedic", "Intense", "Heroic"],
+  "characterSpotlights": [
+    {
+      "characterId": "sanji",
+      "role": "Primary protagonist spotlight",
+      "development": "Sanji's protective instincts and combat prowess are on full display as he rescues Nami from Absalom. The episode hints at a deeper connection to the Suke Suke no Mi that will be revealed later.",
+      "keyActions": [
+        "Crashes the wedding ceremony with theatrical flair",
+        "Catches and protects Nami",
+        "Unleashes devastating kick combo on Absalom",
+        "Uses salt to counter invisibility",
+        "Hints at personal grudge against Absalom"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "usopp",
+      "role": "Secondary protagonist spotlight",
+      "development": "Usopp continues to show growth as a tactician, using clever tricks and misdirection to overcome stronger opponents while pursuing Perona.",
+      "keyActions": [
+        "Outsmarts Wild Zombies with Pepper Star feint",
+        "Purifies zombies with Salt Stars",
+        "Uses environmental hazards (chandelier fire)",
+        "Evades Kumashi while chasing Perona"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "luffy",
+      "role": "Parallel storyline protagonist",
+      "development": "Luffy faces the tactical challenge of fighting Moria's shadow clones, learning that brute force alone won't be enough to defeat this Warlord.",
+      "keyActions": [
+        "Confronts Gecko Moria directly",
+        "Attempts Gum-Gum Pistol on Doppelman",
+        "Battles against Brick Bat swarm"
+      ],
+      "quotes": ["Gomu Gomu no... Pistol!"]
+    },
+    {
+      "characterId": "absalom",
+      "role": "Primary antagonist",
+      "development": "Absalom's creepy obsession with Nami and his overconfidence in his modified body are exposed as Sanji proves capable of damaging him despite his enhancements.",
+      "keyActions": [
+        "Forces wedding ceremony with Nami",
+        "Threatens Sanji",
+        "Uses Suke Suke no Mi to turn invisible",
+        "Takes devastating damage from Sanji's kicks"
+      ],
+      "quotes": ["Leave Nami as my wife or be killed!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended the chase sequences between Usopp, Kumashi, and Perona with additional comedic moments not present in the manga.",
+      "episodeTimestamp": "10:15",
+      "mangaReference": "Chapter 463",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "The anime added more detail to Sanji's kick combo against Absalom, showing each individual technique with more emphasis.",
+      "episodeTimestamp": "17:45",
+      "mangaReference": "Chapter 463",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "All of Sanji's kick techniques in this episode are named after French cuts of meat, continuing his culinary-themed fighting style.",
+      "category": "CHARACTER",
+      "sources": []
+    },
+    {
+      "fact": "This episode adapts Chapter 463 pages 3-8 and 10-19, titled 'Pirate Sanji vs Mysterious Absalom'.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "The episode's three-way chase between Usopp, Kumashi, and Perona was noted by fans as having a Scooby-Doo-like quality with its comedic timing.",
+      "category": "CULTURAL_IMPACT",
+      "sources": []
+    },
+    {
+      "fact": "Absalom's modified body weight of over 600 pounds is mentioned by zombie witnesses who are shocked that Sanji can harm him.",
+      "category": "CHARACTER",
+      "sources": []
+    },
+    {
+      "fact": "This episode has no ending song, as One Piece switched to extended openings starting from Episode 279.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "The episode received a rating of 7.5/10 on IMDb and 3.5/5 from The Adult Swim Squad reviewer.",
+      "category": "RECEPTION",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

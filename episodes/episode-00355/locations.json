@@ -1,0 +1,118 @@
+[
+  {
+    "id": "thriller-bark",
+    "name": {
+      "english": "Thriller Bark",
+      "japanese": "スリラーバーク",
+      "romanized": "Surirā Bāku"
+    },
+    "locationType": "SHIP",
+    "seaRegion": "FLORIAN_TRIANGLE",
+    "islandName": null,
+    "debutEpisode": 337,
+    "description": "The largest ship in the world, commanded by Gecko Moria. It's actually an island-sized ship designed to look like a floating island with forests, mansions, and graveyards. Moria uses it as a mobile base for his zombie army.",
+    "episodeAppearances": [355],
+    "keyEvents": [
+      {
+        "episodeNumber": 355,
+        "eventId": "ep355-event-001",
+        "eventType": "MAJOR_DECISION",
+        "title": "Straw Hats Split Up Across Thriller Bark",
+        "description": "The Straw Hat Pirates divide into groups and spread across Thriller Bark to accomplish multiple objectives simultaneously.",
+        "significance": "The massive size of Thriller Bark allows for multiple simultaneous operations.",
+        "timestamp": "03:15"
+      },
+      {
+        "episodeNumber": 355,
+        "eventId": "ep355-event-005",
+        "eventType": "BATTLE_START",
+        "title": "Zombie Decimation Across Thriller Bark",
+        "description": "Luffy and Sanji charge through various areas of Thriller Bark, defeating dozens of zombies.",
+        "significance": "Showcases the ship's vast layout and zombie population.",
+        "timestamp": "12:40"
+      },
+      {
+        "episodeNumber": 355,
+        "eventId": "ep355-event-007",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Oars Explores Thriller Bark",
+        "description": "Oars awakens and begins exploring the massive ship, marveling at its enormous size and nearly falling off at one point.",
+        "significance": "Even the ancient giant Oars is impressed by Thriller Bark's scale, emphasizing its unprecedented size.",
+        "timestamp": "17:50"
+      },
+      {
+        "episodeNumber": 355,
+        "eventId": "ep355-event-008",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Oars' Mast Jump Separates the Crew",
+        "description": "When Oars jumps from Thriller Bark's main mast, the impact separates different groups of Straw Hats across the ship.",
+        "significance": "The ship's architecture plays a key role in the battle tactics and crew movements.",
+        "timestamp": "19:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 337,
+        "episodeEnd": 384,
+        "reason": "Operating as Gecko Moria's mobile fortress"
+      }
+    ],
+    "parentLocation": "florian-triangle",
+    "childLocations": ["thriller-bark-mansion", "thriller-bark-forest", "thriller-bark-graveyard"],
+    "relatedCharacters": ["gecko-moria", "perona", "hogback", "absalom", "luffy", "zoro", "sanji", "nami", "usopp", "chopper", "robin", "franky", "brook", "oars"],
+    "relatedCrews": ["thriller-bark-pirates", "straw-hat-pirates"],
+    "relatedArcs": ["Thriller Bark Arc"],
+    "images": []
+  },
+  {
+    "id": "thriller-bark-mansion",
+    "name": {
+      "english": "Thriller Bark Mansion",
+      "japanese": "スリラーバーク屋敷",
+      "romanized": "Surirā Bāku Yashiki"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "FLORIAN_TRIANGLE",
+    "islandName": null,
+    "debutEpisode": 343,
+    "description": "A large Gothic mansion located on Thriller Bark where Gecko Moria, Hogback, Perona, and Absalom reside. Contains laboratories, living quarters, and chambers where zombies are created and stored.",
+    "episodeAppearances": [355],
+    "keyEvents": [
+      {
+        "episodeNumber": 355,
+        "eventId": "ep355-event-003",
+        "eventType": "RELATIONSHIP_REVEAL",
+        "title": "Hogback's Frustration in the Mansion",
+        "description": "Inside the mansion, Hogback becomes frustrated with Absalom's wedding plans and assumes command of zombie forces.",
+        "significance": "Shows the command center of Thriller Bark operations.",
+        "timestamp": "07:45"
+      },
+      {
+        "episodeNumber": 355,
+        "eventId": "ep355-event-012",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Moria and Hogback Observe from the Mansion",
+        "description": "From within the mansion, Moria and Hogback watch Oars' activities with satisfaction.",
+        "significance": "The mansion serves as the villains' observation and command post.",
+        "timestamp": "23:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 343,
+        "episodeEnd": 384,
+        "reason": "Serving as the headquarters for Thriller Bark leadership"
+      }
+    ],
+    "parentLocation": "thriller-bark",
+    "childLocations": [],
+    "relatedCharacters": ["gecko-moria", "hogback", "perona", "absalom"],
+    "relatedCrews": ["thriller-bark-pirates"],
+    "relatedArcs": ["Thriller Bark Arc"],
+    "images": []
+  }
+]
