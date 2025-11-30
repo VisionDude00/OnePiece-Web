@@ -1,0 +1,147 @@
+[
+  {
+    "id": "straw-hat-pirates",
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "luffy",
+    "episodeAppearances": [372],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 372,
+        "eventId": "ep372-event-004",
+        "momentType": "BATTLE_START",
+        "title": "Straw Hats Face Near-Death",
+        "description": "The Straw Hat crew is beaten and crushed by Oars, with Moria ordering their deaths. This represents their darkest moment in the Thriller Bark arc.",
+        "significance": "Shows the crew pushed to their absolute limits, requiring Nightmare Luffy's intervention to survive.",
+        "timestamp": "05:15"
+      },
+      {
+        "episodeNumber": 372,
+        "eventId": "ep372-event-015",
+        "momentType": "CULTURAL_MOMENT",
+        "title": "Rescued by Rolling Pirates",
+        "description": "The Rolling Pirates tend to the injured Straw Hats while Nightmare Luffy battles their enemies, demonstrating the alliance between the crews.",
+        "significance": "Shows the bonds formed during the Thriller Bark adventure and the cooperation between pirate crews against a common enemy.",
+        "timestamp": "21:30"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull wearing a straw hat with crossed bones behind it",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": ["rolling-pirates"],
+      "enemies": ["thriller-bark-pirates"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "id": "rolling-pirates",
+    "name": {
+      "english": "Rolling Pirates",
+      "japanese": "ローリング海賊団",
+      "romanized": "Rōringu Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "lola",
+    "episodeAppearances": [372],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 372,
+        "eventId": "ep372-event-005",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Rolling Pirates Empower Nightmare Luffy",
+        "description": "The Rolling Pirates and other Thriller Bark victims previously implanted 100 shadows into Luffy, creating the Nightmare Luffy transformation seen in this episode.",
+        "significance": "Their sacrifice of shadows enables Luffy to have the power needed to defeat Oars and Moria.",
+        "timestamp": "07:30"
+      },
+      {
+        "episodeNumber": 372,
+        "eventId": "ep372-event-015",
+        "momentType": "CULTURAL_MOMENT",
+        "title": "Rolling Pirates Rescue Straw Hats",
+        "description": "Under Lola's orders, the Rolling Pirates work to get the heavily injured Straw Hat crew members to safety during the battle.",
+        "significance": "Demonstrates the strong alliance and mutual support between the two crews.",
+        "timestamp": "21:30"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "",
+    "relationships": {
+      "allies": ["straw-hat-pirates"],
+      "enemies": ["thriller-bark-pirates"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "id": "thriller-bark-pirates",
+    "name": {
+      "english": "Thriller Bark Pirates",
+      "japanese": "スリラーバーク海賊団",
+      "romanized": "Surirā Bāku Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "gecko-moria",
+    "episodeAppearances": [372],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 372,
+        "eventId": "ep372-event-009",
+        "momentType": "BATTLE_START",
+        "title": "Zombie Soldiers Scatter in Fear",
+        "description": "When Nightmare Luffy slams Oars into the ground with overwhelming force, all the zombie soldiers watching flee in terror.",
+        "significance": "Shows the breaking of Moria's zombie army's morale when faced with Nightmare Luffy's power.",
+        "timestamp": "13:45"
+      },
+      {
+        "episodeNumber": 372,
+        "eventId": "ep372-event-011",
+        "momentType": "BATTLE_START",
+        "title": "Moria Attempts Retreat",
+        "description": "The crew's captain, Gecko Moria, attempts to flee from Nightmare Luffy rather than continue the battle.",
+        "significance": "Rare moment of a Warlord of the Sea choosing retreat, showing Nightmare Luffy's overwhelming threat level.",
+        "timestamp": "17:15"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Thriller Bark",
+        "episodeAcquired": null,
+        "episodeLost": null,
+        "description": "A massive island-sized ship that serves as the crew's base and fortress."
+      }
+    ],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "",
+    "relationships": {
+      "allies": [],
+      "enemies": ["straw-hat-pirates", "rolling-pirates"],
+      "parentOrganization": null
+    }
+  }
+]
