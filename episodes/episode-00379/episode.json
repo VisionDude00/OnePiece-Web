@@ -1,0 +1,616 @@
+{
+  "episodeNumber": 379,
+  "episodeTitle": "Brook's Past - Sad Farewell to the Cheerful Crew",
+  "description": "In an emotional flashback, Brook recalls his time with the Rumbar Pirates fifty years ago. The crew befriends a baby whale who follows them from the West Blue, naming him Laboon. When the pirates prepare to enter the Grand Line through Reverse Mountain, they realize Laboon is too young to face its dangers. Despite Laboon's determination to follow them, Captain Yorki and the crew promise to return in 2-3 years and leave him in Crocus's care at Twin Capes. The episode ends with the tragic revelation that only Brook survived as a skeleton, unable to fulfill their promise.",
+  "airDate": "2008-11-30",
+  "airDateJapan": "2008-11-30",
+  "airDateUS": "2017-02-11",
+  "arcName": "Thriller Bark",
+  "sagaName": "Thriller Bark Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Are! (2008 Remix)",
+    "artist": "Tohoshinki (TVXQ)",
+    "episodeRange": [373, 394]
+  },
+  "endingSong": null,
+  "credits": {
+    "episodeDirector": "Hiroshi Matsuzaka",
+    "screenplay": "Isao Murayama",
+    "storyboard": "Tetsuya Endō",
+    "artDirection": "Miyuki Sato",
+    "animationDirector": "Naoki Murakami",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Brook",
+        "actor": "Chō"
+      },
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Ōtani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Yorki",
+        "actor": "Eiji Takemoto"
+      },
+      {
+        "character": "Crocus",
+        "actor": "Takkō Ishimori"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Brook",
+        "actor": "Ian Sinclair"
+      },
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Yorki",
+        "actor": "Chris Hury"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep379-event-001",
+      "episodeNumber": 379,
+      "timestamp": "02:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Brook Wakes the Rumbar Pirates with Music",
+      "description": "In a flashback to fifty years ago, Brook wakes up his fellow Rumbar Pirates by playing 'Black Handkerchief of Happiness' on his violin. The crew responds with good-natured annoyance to being awakened by music, establishing the jovial atmosphere aboard the ship.",
+      "significance": "Introduces the musical nature of the Rumbar Pirates and establishes Brook's role as the crew's musician. Shows the cheerful camaraderie among the crew before their tragic fate.",
+      "characterIds": ["brook"],
+      "crewIds": ["rumbar-pirates"],
+      "quotes": [
+        {
+          "text": "Good morning everyone! Time to wake up with Black Handkerchief of Happiness!",
+          "speaker": "Brook",
+          "context": "Brook waking up his crew with music"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [380],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep379-event-002",
+      "episodeNumber": 379,
+      "timestamp": "03:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Captain Yorki Requests Bink's Sake",
+      "description": "Captain Yorki asks Brook to play 'Bink's Sake' (also known as 'Bink's Brew'), the legendary pirate song. Brook plays the song, and it carries across the ocean, even reaching beneath the waves where a baby whale hears it.",
+      "significance": "First appearance of 'Bink's Sake' in Brook's flashback, establishing this song as central to the Rumbar Pirates' identity and their eventual connection with Laboon. The song becomes a promise that transcends time.",
+      "characterIds": ["brook", "yorki", "laboon"],
+      "crewIds": ["rumbar-pirates"],
+      "quotes": [
+        {
+          "text": "Brook, play us Bink's Sake!",
+          "speaker": "Yorki",
+          "context": "Captain Yorki requesting the crew's favorite song"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [380, 381],
+      "callbacksToEpisodes": [62, 63]
+    },
+    {
+      "id": "ep379-event-003",
+      "episodeNumber": 379,
+      "timestamp": "05:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "The Rumbar Pirates First Encounter Laboon",
+      "description": "The Rumbar Pirates hear strange sounds near their ship and discover a baby Island Whale that has been following them. The crew realizes this young whale has become attached to their ship, likely drawn by their music.",
+      "significance": "Marks the beginning of the relationship between the Rumbar Pirates and Laboon. This encounter in the West Blue sets up one of One Piece's most emotional long-running storylines, connecting back to the crew's earlier encounter with Laboon at Twin Capes.",
+      "characterIds": ["brook", "yorki", "laboon"],
+      "locationIds": ["west-blue"],
+      "crewIds": ["rumbar-pirates"],
+      "quotes": [
+        {
+          "text": "It's a baby whale! He's been following us!",
+          "speaker": "Rumbar Pirates crew member",
+          "context": "The crew discovering Laboon for the first time"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [380, 381],
+      "callbacksToEpisodes": [62, 63]
+    },
+    {
+      "id": "ep379-event-004",
+      "episodeNumber": 379,
+      "timestamp": "06:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "The Whale is Named Laboon",
+      "description": "One of the Rumbar Pirates crew members gives the baby whale the name 'Laboon.' The crew decides to play music to cheer up the lost whale, and Laboon responds positively to their songs.",
+      "significance": "Establishes Laboon's name and shows how music becomes the bond between the whale and the pirates. Brook's suggestion to play music for Laboon demonstrates his compassionate nature and foreshadows how music will connect them.",
+      "characterIds": ["brook", "laboon"],
+      "crewIds": ["rumbar-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [380, 381],
+      "callbacksToEpisodes": [62]
+    },
+    {
+      "id": "ep379-event-005",
+      "episodeNumber": 379,
+      "timestamp": "08:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Laboon Saves Crewmates During Battle",
+      "description": "During a battle with another pirate crew, two Rumbar Pirates crew members fall overboard. Laboon rescues them from the sea, proving his loyalty and earning the crew's deep appreciation. This heroic act strengthens the bond between Laboon and the pirates.",
+      "significance": "Demonstrates Laboon's intelligence, loyalty, and growing attachment to the crew. This moment transforms their relationship from simple companionship to genuine friendship, making their eventual separation more tragic.",
+      "characterIds": ["laboon"],
+      "crewIds": ["rumbar-pirates"],
+      "quotes": [
+        {
+          "text": "Laboon saved them! Good job, Laboon!",
+          "speaker": "Rumbar Pirates crew member",
+          "context": "The crew praising Laboon after he rescues their fallen comrades"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep379-event-006",
+      "episodeNumber": 379,
+      "timestamp": "10:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "The Crew Defends Laboon from a Sea King",
+      "description": "When a Sea King attacks Laboon, the Rumbar Pirates immediately come to his defense, fighting off the massive creature to protect their whale friend. This demonstrates how much the crew has come to care for Laboon.",
+      "significance": "Shows the reciprocal nature of the relationship - just as Laboon saved the crew members, they now protect him. Establishes the deep bond that makes their promise to return so important.",
+      "characterIds": ["laboon"],
+      "crewIds": ["rumbar-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep379-event-007",
+      "episodeNumber": 379,
+      "timestamp": "11:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Laboon Follows the Pirates Everywhere",
+      "description": "The episode shows various scenes of Laboon following the Rumbar Pirates to different locations, even to landlocked islands. Brook and Laboon develop a particularly close bond, with Laboon especially enjoying Brook's music.",
+      "significance": "Establishes the strength of Laboon's attachment to the crew and particularly to Brook. This deep connection explains why Laboon would later follow them to Reverse Mountain despite the danger.",
+      "characterIds": ["brook", "laboon"],
+      "crewIds": ["rumbar-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep379-event-008",
+      "episodeNumber": 379,
+      "timestamp": "13:00",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "The Rumbar Pirates Arrive at Reverse Mountain",
+      "description": "The Rumbar Pirates' ship arrives at Reverse Mountain (Twin Capes), the entrance to the Grand Line. Laboon has followed them despite the dangerous journey, demonstrating his unwavering loyalty and determination to stay with his friends.",
+      "significance": "This is a pivotal moment where the crew must make the difficult decision about Laboon's fate. Their arrival at Reverse Mountain connects this flashback to the crew's earlier encounter with Laboon in Episode 62.",
+      "characterIds": ["brook", "yorki", "laboon"],
+      "locationIds": ["reverse-mountain", "twin-capes"],
+      "crewIds": ["rumbar-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [62]
+    },
+    {
+      "id": "ep379-event-009",
+      "episodeNumber": 379,
+      "timestamp": "14:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "The Rumbar Pirates Meet Crocus",
+      "description": "At Twin Capes, the Rumbar Pirates meet Crocus, the lighthouse keeper. The crew stays at the lighthouse for three months while making repairs to their ship, during which time Crocus gets to know both the pirates and Laboon.",
+      "significance": "Introduces Crocus in the flashback and establishes his connection to the Rumbar Pirates. This explains why Crocus was caring for Laboon when the Straw Hats met him 50 years later.",
+      "characterIds": ["crocus", "brook", "yorki", "laboon"],
+      "locationIds": ["twin-capes"],
+      "crewIds": ["rumbar-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [62, 63]
+    },
+    {
+      "id": "ep379-event-010",
+      "episodeNumber": 379,
+      "timestamp": "16:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "The Decision to Leave Laboon Behind",
+      "description": "The Rumbar Pirates initially try to leave Laboon behind by sailing away quietly, but Laboon follows them over Reverse Mountain into the Grand Line. Realizing the danger the Grand Line poses to a young whale, the crew makes the heartbreaking decision that Laboon cannot accompany them further.",
+      "significance": "This critical decision sets up the central tragedy of Brook's backstory. The crew's attempt to protect Laboon by leaving him behind, despite their love for him, demonstrates their selflessness and makes their broken promise even more tragic.",
+      "characterIds": ["brook", "yorki", "laboon"],
+      "locationIds": ["reverse-mountain", "grand-line"],
+      "crewIds": ["rumbar-pirates"],
+      "quotes": [
+        {
+          "text": "We can't let Laboon come with us. The Grand Line is too dangerous for him.",
+          "speaker": "Brook",
+          "context": "Brook explaining why they must leave Laboon behind"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [380],
+      "callbacksToEpisodes": [62, 63]
+    },
+    {
+      "id": "ep379-event-011",
+      "episodeNumber": 379,
+      "timestamp": "17:30",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "CRITICAL",
+      "title": "The Promise to Return for Laboon",
+      "description": "Captain Yorki makes a solemn promise to Laboon that the Rumbar Pirates will return in 2-3 years after sailing around the Grand Line. The entire crew says their farewells to Laboon, promising to come back for him. Brook and the crew play one last song for Laboon before departing.",
+      "significance": "This promise becomes the core of one of One Piece's most tragic storylines. The crew's sincere intention to return, combined with their eventual deaths, creates a 50-year wait for Laboon. This promise also becomes Brook's driving motivation to reunite with Laboon.",
+      "characterIds": ["yorki", "brook", "laboon"],
+      "locationIds": ["twin-capes"],
+      "crewIds": ["rumbar-pirates"],
+      "quotes": [
+        {
+          "text": "Laboon, wait for us! We'll come back in 2 to 3 years. We promise!",
+          "speaker": "Yorki",
+          "context": "Captain Yorki making the promise to return for Laboon"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [380, 381],
+      "callbacksToEpisodes": [62, 63]
+    },
+    {
+      "id": "ep379-event-012",
+      "episodeNumber": 379,
+      "timestamp": "19:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Laboon Entrusted to Crocus",
+      "description": "The Rumbar Pirates officially entrust Laboon to Crocus's care at the Twin Capes lighthouse. Crocus agrees to watch over Laboon until the pirates return. The crew departs with heavy hearts, leaving their beloved friend behind.",
+      "significance": "Establishes Crocus as Laboon's caretaker and explains the 50-year relationship between them. This scene provides crucial context for why Crocus was still caring for Laboon when the Straw Hats arrived.",
+      "characterIds": ["crocus", "laboon", "yorki", "brook"],
+      "locationIds": ["twin-capes"],
+      "crewIds": ["rumbar-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [62, 63]
+    },
+    {
+      "id": "ep379-event-013",
+      "episodeNumber": 379,
+      "timestamp": "20:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "The Tragic Fate of the Rumbar Pirates Revealed",
+      "description": "The episode concludes with a time skip to 3 years later, showing the Rumbar Pirates' ship in ruins. Only Brook remains, now a living skeleton due to his Devil Fruit power. The promise to return to Laboon remains unfulfilled, revealing the tragic fate that befell the crew.",
+      "significance": "This devastating conclusion reveals that the crew's promise to Laboon could never be kept. It establishes the tragedy that has haunted Brook for 50 years and sets up the emotional weight of Brook's desire to rejoin the Straw Hats and eventually reunite with Laboon.",
+      "characterIds": ["brook"],
+      "devilFruitIds": ["yomi-yomi-no-mi"],
+      "crewIds": ["rumbar-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [337, 338],
+      "payoffInEpisodes": [380, 381],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [380, 381],
+    "payoffFrom": [62, 63, 337, 338, 378],
+    "thematicLinks": [62, 63]
+  },
+  "quotes": [
+    {
+      "text": "Good morning everyone! Time to wake up with Black Handkerchief of Happiness!",
+      "speaker": "Brook",
+      "context": "Brook waking up his crew with music",
+      "timestamp": "02:15"
+    },
+    {
+      "text": "Brook, play us Bink's Sake!",
+      "speaker": "Yorki",
+      "context": "Captain Yorki requesting the crew's favorite song",
+      "timestamp": "03:30"
+    },
+    {
+      "text": "We can't let Laboon come with us. The Grand Line is too dangerous for him.",
+      "speaker": "Brook",
+      "context": "Brook explaining why they must leave Laboon behind",
+      "timestamp": "16:00"
+    },
+    {
+      "text": "Laboon, wait for us! We'll come back in 2 to 3 years. We promise!",
+      "speaker": "Yorki",
+      "context": "Captain Yorki making the promise to return for Laboon",
+      "timestamp": "17:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Promises and Loyalty",
+      "description": "The episode centers on the sacred promise the Rumbar Pirates make to Laboon. Despite their sincere intentions, circumstances prevent them from keeping their word, creating a 50-year tragedy. Laboon's unwavering loyalty in waiting for them mirrors the crew's genuine desire to return.",
+      "symbolism": "Laboon waiting at Twin Capes for 50 years symbolizes the power of promises and the pain of broken dreams. The promise represents the bond between friends that transcends even death.",
+      "culturalReferences": ["The concept of 'nakama' (crewmates/friends) as an unbreakable bond in Japanese culture"]
+    },
+    {
+      "theme": "Music as Connection",
+      "description": "Music serves as the fundamental bond between the Rumbar Pirates and Laboon. Brook's violin and the crew's songs attract Laboon initially, and 'Bink's Sake' becomes a promise of reunion that echoes across 50 years.",
+      "symbolism": "Music represents joy, life, and connection. The Rumbar Pirates' musical nature shows how art can create bonds that survive even death.",
+      "culturalReferences": ["Sea shanties and pirate songs as a historical tradition", "The Japanese concept of music as a soul-connecting medium"]
+    },
+    {
+      "theme": "Sacrifice and Protection",
+      "description": "The Rumbar Pirates sacrifice their desire to keep Laboon with them to ensure his safety. They choose to break their own hearts rather than risk Laboon's life in the dangerous Grand Line.",
+      "symbolism": "The act of leaving Laboon behind represents the difficult choices parents and protectors must make for those they love, even when it causes mutual pain.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Tragic Fate and Broken Dreams",
+      "description": "Despite the crew's best intentions and sincere promise, fate prevents them from returning. Only Brook survives, but as a skeleton, creating a bittersweet existence where he can technically fulfill the promise but not as his crew intended.",
+      "symbolism": "The ruined ship and Brook's skeletal form symbolize how dreams can be destroyed by circumstances beyond our control, yet hope can persist even in the darkest situations.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Nostalgic", "Heartwarming", "Bittersweet", "Tragic", "Emotional"],
+  "characterSpotlights": [
+    {
+      "characterId": "brook",
+      "role": "Protagonist of flashback and narrator",
+      "development": "The episode reveals Brook's past as a joyful musician among the Rumbar Pirates, showing his life before becoming a skeleton. His close relationship with Laboon and his role in the crew's musical identity establish the emotional foundation for his character's tragedy.",
+      "keyActions": [
+        "Wakes the crew with 'Black Handkerchief of Happiness'",
+        "Plays 'Bink's Sake' at Captain Yorki's request",
+        "Suggests playing music to cheer up Laboon",
+        "Develops a special bond with Laboon",
+        "Participates in the heartbreaking decision to leave Laboon",
+        "Survives as the only crew member, now a skeleton"
+      ],
+      "quotes": ["Good morning everyone! Time to wake up with Black Handkerchief of Happiness!", "We can't let Laboon come with us. The Grand Line is too dangerous for him."]
+    },
+    {
+      "characterId": "yorki",
+      "role": "Captain of the Rumbar Pirates",
+      "development": "Captain Yorki is shown as a caring and responsible leader who makes the difficult decision to leave Laboon behind for his safety. His promise to return demonstrates his integrity and the weight of responsibility he feels.",
+      "keyActions": [
+        "Requests 'Bink's Sake' to be played",
+        "Leads the crew in their adventures with Laboon",
+        "Makes the decision to leave Laboon at Twin Capes",
+        "Promises Laboon they will return in 2-3 years"
+      ],
+      "quotes": ["Brook, play us Bink's Sake!", "Laboon, wait for us! We'll come back in 2 to 3 years. We promise!"]
+    },
+    {
+      "characterId": "laboon",
+      "role": "Beloved companion of the Rumbar Pirates",
+      "development": "Laboon is shown as an intelligent, loyal baby whale who forms a deep bond with the Rumbar Pirates. His heroic actions in saving crewmates and his determination to follow them demonstrate his devotion and establish why he continues waiting 50 years later.",
+      "keyActions": [
+        "Follows the Rumbar Pirates from the West Blue",
+        "Responds joyfully to the crew's music, especially Brook's",
+        "Saves two crewmates who fell overboard during battle",
+        "Follows the crew over Reverse Mountain despite danger",
+        "Accepts being left behind with the promise of reunion"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "crocus",
+      "role": "Lighthouse keeper and Laboon's caretaker",
+      "development": "Crocus is introduced as the compassionate lighthouse keeper at Twin Capes who agrees to watch over Laboon. His willingness to care for the whale establishes the 50-year relationship that the Straw Hats witness in earlier episodes.",
+      "keyActions": [
+        "Meets the Rumbar Pirates at Twin Capes",
+        "Allows the crew to stay for three months during repairs",
+        "Agrees to watch over Laboon until the crew returns"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime expanded the scenes of Laboon's adventures with the Rumbar Pirates, showing more interactions and bonding moments that were only briefly mentioned in the manga.",
+      "episodeTimestamp": "08:30-12:00",
+      "mangaReference": "Chapter 487",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "The anime added the visual of Brook playing 'Black Handkerchief of Happiness' as a wake-up song, which was not shown in the manga's version of this flashback.",
+      "episodeTimestamp": "02:15",
+      "mangaReference": "Chapter 487",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode adapts Chapter 487 of the manga (pages 2-12), titled 'That Song'.",
+      "category": "MANGA_ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_379",
+          "title": "Episode 379 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-30"
+        },
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chapter_487",
+          "title": "Chapter 487 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-30"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 379 is the final episode where analog broadcast prints were cropped at 4:3 aspect ratio, marking a significant technical transition in the anime's production.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_379",
+          "title": "Episode 379 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-30"
+        }
+      ]
+    },
+    {
+      "fact": "Pandaman makes a cameo appearance in this episode during the flashback of the Rumbar Pirates singing to Laboon.",
+      "category": "EASTER_EGG",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_379",
+          "title": "Episode 379 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-30"
+        }
+      ]
+    },
+    {
+      "fact": "The opening theme 'We Are! (2008 Remix)' by Tohoshinki (TVXQ) was created to commemorate the One Piece anime's 10th anniversary and features completely new animation.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/We_Are!/Tohoshinki_(2008)_Remix",
+          "title": "We Are!/Tohoshinki (2008) Remix - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-30"
+        }
+      ]
+    },
+    {
+      "fact": "'Bink's Sake' (Bink's Brew) was composed by Kohei Tanaka at Oda's request. Oda asked for it to be finished 'in a year or so', but the song wouldn't premiere until five years after Tanaka completed it.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://gamerant.com/one-piece-the-history-of-binks-sake/",
+          "title": "One Piece: The History of Bink's Sake - Game Rant",
+          "platform": "Game Rant",
+          "accessedAt": "2025-11-30"
+        }
+      ]
+    },
+    {
+      "fact": "This episode aired in Japan on November 30, 2008, but didn't reach US audiences via Toonami until February 11, 2017, over 8 years later.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_379",
+          "title": "Episode 379 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-30"
+        }
+      ]
+    },
+    {
+      "fact": "In the flashback, Brook is shown to be 38 years old, making him 88 years old in the present timeline (50 years later).",
+      "category": "CHARACTERS",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chapter_487",
+          "title": "Chapter 487 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-30"
+        }
+      ]
+    },
+    {
+      "fact": "'Black Handkerchief of Happiness' is an anime-original song created specifically for Brook to wake up his crew, showcasing the Rumbar Pirates' musical nature.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Black_Handkerchief_of_Happiness",
+          "title": "Black Handkerchief of Happiness - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-11-30"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
