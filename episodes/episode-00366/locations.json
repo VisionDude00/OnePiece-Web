@@ -1,0 +1,161 @@
+[
+  {
+    "name": {
+      "english": "Thriller Bark Mansion",
+      "japanese": "スリラーバークの屋敷",
+      "romanized": "Surirā Bāku no Yashiki"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "FLORIAN_TRIANGLE",
+    "islandName": "Thriller Bark",
+    "debutEpisode": 343,
+    "description": "The large gothic mansion on Thriller Bark where Gecko Moria and his subordinates reside. It serves as the headquarters for the Thriller Bark Pirates.",
+    "episodeAppearances": [366],
+    "keyEvents": [
+      {
+        "episodeNumber": 366,
+        "eventId": "ep366-event-001",
+        "eventType": "BATTLE_START",
+        "title": "Nami Awakens During Forced Wedding",
+        "description": "Inside the mansion, Nami wakes up during her forced wedding ceremony to Absalom.",
+        "significance": "The mansion serves as the setting for Nami's confrontation with and victory over Absalom.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 366,
+        "eventId": "ep366-event-004",
+        "eventType": "BATTLE_END",
+        "title": "Nami Defeats Absalom",
+        "description": "Nami defeats Absalom with her Thunder Charge: Swing Arm attack inside the mansion.",
+        "significance": "This marks a significant victory and the conclusion of the Absalom subplot within the mansion.",
+        "timestamp": "10:30"
+      },
+      {
+        "episodeNumber": 366,
+        "eventId": "ep366-event-005",
+        "eventType": "MAJOR_DECISION",
+        "title": "Perona Discovers Mansion Destruction",
+        "description": "Perona awakens to find that Oars has destroyed much of the mansion during his rampage.",
+        "significance": "The mansion's destruction prompts Perona to abandon Thriller Bark entirely.",
+        "timestamp": "13:00"
+      }
+    ],
+    "status": "DAMAGED",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 343,
+        "episodeEnd": 365,
+        "reason": "Functioning as Thriller Bark Pirates headquarters"
+      },
+      {
+        "status": "DAMAGED",
+        "episodeStart": 366,
+        "episodeEnd": "present",
+        "reason": "Partially destroyed by Oars' rampage"
+      }
+    ],
+    "parentLocation": "thriller-bark",
+    "childLocations": [],
+    "relatedCharacters": ["gecko-moria", "absalom", "perona", "hogback", "nami", "lola"],
+    "relatedCrews": ["thriller-bark-pirates"],
+    "relatedArcs": ["Thriller Bark"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Thriller Bark",
+      "japanese": "スリラーバーク",
+      "romanized": "Surirā Bāku"
+    },
+    "locationType": "SHIP",
+    "seaRegion": "FLORIAN_TRIANGLE",
+    "islandName": null,
+    "debutEpisode": 337,
+    "description": "A massive island-ship in the Florian Triangle, ruled by Gecko Moria. It's the world's largest pirate ship, resembling a floating island with a gothic horror theme.",
+    "episodeAppearances": [366],
+    "keyEvents": [
+      {
+        "episodeNumber": 366,
+        "eventId": "ep366-event-006",
+        "eventType": "MAJOR_DECISION",
+        "title": "Perona Plans to Abandon Thriller Bark",
+        "description": "After learning of the chaos caused by Oars, Perona decides to flee Thriller Bark, planning to steal the Thousand Sunny and the island's treasure.",
+        "significance": "This represents a turning point where one of the Mysterious Four abandons Moria's domain.",
+        "timestamp": "14:45"
+      },
+      {
+        "episodeNumber": 366,
+        "eventId": "ep366-event-007",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Oars Rampages Through Thriller Bark",
+        "description": "Oars continues his search for the missing Straw Hats across Thriller Bark after defeating most of the crew.",
+        "significance": "Oars' rampage demonstrates the destructive power of the Special Zombie and the chaos spreading across the island.",
+        "timestamp": "17:20"
+      },
+      {
+        "episodeNumber": 366,
+        "eventId": "ep366-event-008",
+        "eventType": "BATTLE_START",
+        "title": "Straw Hats Prepare Second Assault",
+        "description": "The Straw Hat Pirates regroup on Thriller Bark and prepare their second coordinated attack on Oars.",
+        "significance": "This sets up the upcoming battle that will determine the fate of their shadows and their escape from Thriller Bark.",
+        "timestamp": "19:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 337,
+        "episodeEnd": "present",
+        "reason": "Functioning as Gecko Moria's base of operations"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["thriller-bark-mansion"],
+    "relatedCharacters": ["gecko-moria", "absalom", "perona", "hogback", "straw-hat-pirates"],
+    "relatedCrews": ["thriller-bark-pirates", "straw-hat-pirates"],
+    "relatedArcs": ["Thriller Bark"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Thousand Sunny",
+      "japanese": "サウザンドサニー号",
+      "romanized": "Sauzando Sanī-gō"
+    },
+    "locationType": "SHIP",
+    "seaRegion": "FLORIAN_TRIANGLE",
+    "islandName": null,
+    "debutEpisode": 321,
+    "description": "The Straw Hat Pirates' second ship, built by Franky using the wood from the legendary Adam Tree. Currently docked at Thriller Bark.",
+    "episodeAppearances": [366],
+    "keyEvents": [
+      {
+        "episodeNumber": 366,
+        "eventId": "ep366-event-006",
+        "eventType": "MAJOR_DECISION",
+        "title": "Perona Targets the Thousand Sunny",
+        "description": "Perona plans to steal the Thousand Sunny along with Thriller Bark's treasure to escape the island.",
+        "significance": "This sets up Perona's future encounter at the ship and creates tension about the crew's ability to escape Thriller Bark.",
+        "timestamp": "14:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 321,
+        "episodeEnd": "present",
+        "reason": "Serving as the Straw Hat Pirates' ship"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": [],
+    "relatedCharacters": ["straw-hat-pirates", "perona"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Thriller Bark"],
+    "images": []
+  }
+]
