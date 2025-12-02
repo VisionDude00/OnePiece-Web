@@ -1,0 +1,433 @@
+{
+  "episodeNumber": 380,
+  "episodeTitle": "Bink's Sake - The Song That Connects the Past with the Present",
+  "description": "Brook reveals the Tone Dial containing his former crew's final message and shares the tragic tale of the Rumbar Pirates' last moments. In an emotional flashback, the crew records Bink's Sake while dying from poison, leaving behind a song of hope for Laboon.",
+  "airDate": "2008-12-07",
+  "airDateJapan": "2008-12-07",
+  "airDateUS": "2017-02-18",
+  "arcName": "Thriller Bark Arc",
+  "sagaName": "Thriller Bark Saga",
+  "animationQuality": "HIGH",
+  "openingSong": {
+    "title": "We Are! (2008 Remix)",
+    "artist": "TVXQ (Tohoshinki)",
+    "episodeRange": [373, 394]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Masayuki Takagi",
+    "director": "Hiroyuki Satō",
+    "storyboard": "Munehisa Sakai",
+    "screenplay": "Tsuyoshi Sakurai",
+    "artDirection": "Miho Shiraishi",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Brook",
+        "actor": "Chō"
+      },
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Yorki",
+        "actor": "Takkō Ishimori"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Brook",
+        "actor": "Ian Sinclair"
+      },
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep380-event-001",
+      "episodeNumber": 380,
+      "timestamp": "03:15",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Brook Reveals the Tone Dial",
+      "description": "Brook opens his skull and pulls out a Tone Dial that he's been carrying inside his head. He explains that this dial contains a recording of the Rumbar Pirates' final message for Laboon.",
+      "significance": "This moment reveals that Brook has been carrying his crew's last song for 50 years, setting up the emotional climax of his backstory and demonstrating his unwavering commitment to his promise to Laboon.",
+      "characterIds": ["brook", "luffy", "sanji", "usopp"],
+      "locationIds": ["thriller-bark"],
+      "itemIds": ["tone-dial"],
+      "quotes": [
+        {
+          "text": "I keep it in my head at all times. This Tone Dial carries a song - a message to Laboon that we were happy all the way to the end of our journey.",
+          "speaker": "Brook",
+          "context": "Brook explaining the significance of the Tone Dial he's been carrying for decades"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [379],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [62, 63]
+    },
+    {
+      "id": "ep380-event-002",
+      "episodeNumber": 380,
+      "timestamp": "05:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Yorki Contracts an Incurable Disease",
+      "description": "Flashback reveals that Captain Yorki and ten other Rumbar Pirates crewmembers contracted an unknown infectious disease after visiting a jungle island. The ship's doctor declares he cannot cure this disease.",
+      "significance": "This disease is the catalyst that splits the Rumbar Pirates, leading to the tragic events that follow. It demonstrates the harsh reality of pirate life in the Grand Line and sets up the crew's ultimate fate.",
+      "characterIds": ["yorki", "brook"],
+      "locationIds": ["rumbar-pirates-ship"],
+      "quotes": [
+        {
+          "text": "I don't know this disease. If Yorki and the others aren't evacuated, it may kill the entire crew.",
+          "speaker": "Ship's Doctor",
+          "context": "Warning the crew about the infectious nature of Yorki's illness"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep380-event-003",
+      "episodeNumber": 380,
+      "timestamp": "08:45",
+      "eventType": "CREW_DEPARTURE",
+      "severity": "MAJOR",
+      "title": "The Rumbar Pirates Split Apart",
+      "description": "Yorki orders the healthy crewmembers to take a new ship and continue their journey while he and the infected crewmembers attempt to return to West Blue through the Calm Belt. The crew sends them off by singing Bink's Sake.",
+      "significance": "This heartbreaking separation marks the beginning of the end for the Rumbar Pirates. Yorki's selfless decision to protect his crew demonstrates the bonds of pirate brotherhood, while Brook becomes the acting captain.",
+      "characterIds": ["yorki", "brook"],
+      "crewIds": ["rumbar-pirates"],
+      "locationIds": [],
+      "quotes": [
+        {
+          "text": "Brook, I want you to give the crew hope. We'll sing together again someday, I promise.",
+          "speaker": "Yorki",
+          "context": "Yorki's final words to Brook as they part ways"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [379],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep380-event-004",
+      "episodeNumber": 380,
+      "timestamp": "12:20",
+      "eventType": "BATTLE_START",
+      "severity": "CRITICAL",
+      "title": "Rumbar Pirates Ambushed in the Florian Triangle",
+      "description": "The remaining Rumbar Pirates are attacked by enemy pirates in the Florian Triangle. The enemies use poisoned weapons, fatally wounding most of the crew including their doctor.",
+      "significance": "This is the tragic event that dooms the Rumbar Pirates. The use of poisoned weapons ensures that even survivors of the battle will die, making this the beginning of the crew's end and Brook's 50 years of solitude.",
+      "characterIds": ["brook"],
+      "crewIds": ["rumbar-pirates"],
+      "locationIds": ["florian-triangle"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [379],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep380-event-005",
+      "episodeNumber": 380,
+      "timestamp": "13:45",
+      "eventType": "DEATH",
+      "severity": "CRITICAL",
+      "title": "The Rumbar Pirates' Doctor Dies",
+      "description": "The Rumbar Pirates' doctor, who was treating the wounded, succumbs to the poison from the enemy's weapons. His death means the remaining poisoned crew cannot be saved.",
+      "significance": "The doctor's death seals the fate of all the poisoned crew members. Without medical help, they know they are doomed, which leads to their decision to leave behind a final message for Laboon.",
+      "characterIds": [],
+      "crewIds": ["rumbar-pirates"],
+      "locationIds": ["florian-triangle"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep380-event-006",
+      "episodeNumber": 380,
+      "timestamp": "15:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Decision to Record Bink's Sake",
+      "description": "Knowing they will all die from the poison, Brook suggests they record Bink's Sake on a Tone Dial as a final message for Laboon. If his Yomi Yomi no Mi powers work and he is revived, he will deliver the recording to Laboon.",
+      "significance": "This decision transforms certain death into a moment of hope and joy. It demonstrates the crew's unwavering commitment to their promise to Laboon and sets up Brook's eventual 50-year quest to fulfill this promise.",
+      "characterIds": ["brook"],
+      "crewIds": ["rumbar-pirates"],
+      "devilFruitIds": ["yomi-yomi-no-mi"],
+      "itemIds": ["tone-dial"],
+      "locationIds": ["florian-triangle"],
+      "quotes": [
+        {
+          "text": "Let's sing one last time and record it on the Tone Dial. If the Yomi Yomi no Mi works and I'm revived, I'll find a way to deliver it to Laboon!",
+          "speaker": "Brook",
+          "context": "Brook's plan to leave a message for Laboon even in death"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [379],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [62, 63]
+    },
+    {
+      "id": "ep380-event-007",
+      "episodeNumber": 380,
+      "timestamp": "16:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "CRITICAL",
+      "title": "The Final Performance of Bink's Sake",
+      "description": "The Rumbar Pirates begin their final performance of Bink's Sake, recording it on the Tone Dial. As they sing, crew members die one by one from the poison, but each continues singing until their last breath. Brook tearfully counts down from quartet to trio to duet until he is the only one left singing.",
+      "significance": "This is one of the most emotional moments in One Piece. The crew dies smiling while singing their favorite song, demonstrating the pirate spirit of facing death with joy. Brook counting down the dying musicians makes this scene particularly heart-wrenching and memorable.",
+      "characterIds": ["brook"],
+      "crewIds": ["rumbar-pirates"],
+      "locationIds": ["florian-triangle"],
+      "itemIds": ["tone-dial"],
+      "quotes": [
+        {
+          "text": "Quartet... Trio... Duet... Solo...",
+          "speaker": "Brook",
+          "context": "Brook counting down as his crewmates die one by one during the final performance"
+        },
+        {
+          "text": "Yo-hohoho, Yo-hohoho! Binkusu no sake wo, todoke ni yuku yo!",
+          "speaker": "Rumbar Pirates",
+          "context": "The opening lyrics of Bink's Sake being sung as a final message"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [379],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [62, 63]
+    },
+    {
+      "id": "ep380-event-008",
+      "episodeNumber": 380,
+      "timestamp": "19:45",
+      "eventType": "DEATH",
+      "severity": "CRITICAL",
+      "title": "Brook's Original Death",
+      "description": "After completing the recording of Bink's Sake as the sole survivor, Brook finally succumbs to the poison and dies. His body would later be revived as a skeleton due to his Yomi Yomi no Mi powers, but not before a year of wandering as a soul.",
+      "significance": "Brook's death completes the tragedy of the Rumbar Pirates while simultaneously setting up his resurrection. This marks the end of his original life and the beginning of his 50-year journey as a skeleton to fulfill his promise to Laboon.",
+      "characterIds": ["brook"],
+      "devilFruitIds": ["yomi-yomi-no-mi"],
+      "locationIds": ["florian-triangle"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [379],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep380-event-009",
+      "episodeNumber": 380,
+      "timestamp": "21:00",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Brook's 50 Years of Solitude",
+      "description": "The episode shows Brook's loneliness over the decades, including a poignant dream sequence where his deceased crewmates briefly reappear to him during his solitude on the ghost ship.",
+      "significance": "This reveals the psychological toll of Brook's isolation and his unwavering dedication to keeping his promise. The dream sequence showing his loneliness adds depth to Brook's cheerful demeanor and explains why joining the Straw Hats means so much to him.",
+      "characterIds": ["brook"],
+      "locationIds": ["florian-triangle"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [379],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep380-event-010",
+      "episodeNumber": 380,
+      "timestamp": "22:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Present Day Celebration - Bink's Sake at Thriller Bark",
+      "description": "In the present, Lola gets everyone at Thriller Bark singing and dancing to Bink's Sake while Brook plays the piano. The Tone Dial recording plays, creating a powerful moment where past and present unite through song.",
+      "significance": "This scene brings joy after tragedy, showing how the Rumbar Pirates' spirit lives on through their song. The Straw Hats and former Thriller Bark victims singing together represents new bonds and hope, while honoring those who have passed.",
+      "characterIds": ["brook", "luffy", "nami", "sanji", "usopp", "chopper", "franky", "lola"],
+      "locationIds": ["thriller-bark"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [62, 63]
+    }
+  ],
+  "debuts": {
+    "characters": ["yorki", "mizuta-madaisuki", "mizuta-mawaritosuki"],
+    "locations": ["rumbar-pirates-ship"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": [],
+    "items": ["tone-dial"]
+  },
+  "episodeRelationships": {
+    "setupFor": [381],
+    "payoffFrom": [62, 63, 379],
+    "thematicLinks": [62, 63, 379, 381]
+  },
+  "quotes": [
+    {
+      "text": "I keep it in my head at all times. This Tone Dial carries a song - a message to Laboon that we were happy all the way to the end of our journey.",
+      "speaker": "Brook",
+      "context": "Explaining the Tone Dial's significance",
+      "timestamp": "03:15"
+    },
+    {
+      "text": "Quartet... Trio... Duet... Solo...",
+      "speaker": "Brook",
+      "context": "Counting down as his crewmates die during the final performance",
+      "timestamp": "18:00"
+    },
+    {
+      "text": "Let's sing one last time and record it on the Tone Dial. If the Yomi Yomi no Mi works and I'm revived, I'll find a way to deliver it to Laboon!",
+      "speaker": "Brook",
+      "context": "Proposing to record their final message",
+      "timestamp": "15:00"
+    },
+    {
+      "text": "Brook, I want you to give the crew hope. We'll sing together again someday, I promise.",
+      "speaker": "Yorki",
+      "context": "Yorki's farewell to Brook",
+      "timestamp": "08:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Promises and Loyalty",
+      "description": "The episode centers on Brook's unwavering commitment to his promise to Laboon, even 50 years after his crew's death. The Rumbar Pirates' final act was to ensure their promise could still be kept.",
+      "symbolism": "The Tone Dial represents the enduring nature of promises and memories, carried literally inside Brook's skull for half a century.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Death and Legacy",
+      "description": "The Rumbar Pirates face death with smiles and song, choosing to leave behind joy rather than despair. Their legacy lives on through Brook and the song that connects generations.",
+      "symbolism": "Bink's Sake itself becomes a symbol of life continuing beyond death, with the crew singing to their last breath and the song being performed by new friends 50 years later.",
+      "culturalReferences": ["Japanese concepts of finding beauty and meaning in death"]
+    },
+    {
+      "theme": "Music as Connection",
+      "description": "Music serves as the bridge between past and present, life and death, loneliness and companionship. The same song connects the Rumbar Pirates to Laboon and eventually to the Straw Hats.",
+      "symbolism": "The performance of Bink's Sake at Thriller Bark shows how music transcends time, bringing together people across generations and circumstances.",
+      "culturalReferences": ["Pirate shanties and sea songs as cultural touchstones"]
+    },
+    {
+      "theme": "Hope in Tragedy",
+      "description": "Even in their darkest moment, the Rumbar Pirates choose hope and joy over despair. They die smiling, confident that their message will reach Laboon someday.",
+      "symbolism": "The crew's smiling faces as they die represent the One Piece philosophy of facing adversity with optimism and courage.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Heartbreaking", "Bittersweet", "Hopeful", "Nostalgic"],
+  "characterSpotlights": [
+    {
+      "characterId": "brook",
+      "role": "Protagonist",
+      "development": "Brook's backstory is fully revealed, showing his transformation from a crew musician to the last survivor carrying his crew's legacy. His 50 years of solitude and unwavering determination to keep his promise define his character.",
+      "keyActions": [
+        "Reveals the Tone Dial from inside his skull",
+        "Proposes recording Bink's Sake as a final message",
+        "Counts down his dying crewmates during the performance",
+        "Survives alone for 50 years keeping his promise",
+        "Plays piano for the present-day celebration"
+      ],
+      "quotes": [
+        "Let's sing one last time and record it on the Tone Dial. If the Yomi Yomi no Mi works and I'm revived, I'll find a way to deliver it to Laboon!"
+      ]
+    },
+    {
+      "characterId": "yorki",
+      "role": "Supporting Character",
+      "development": "Yorki is revealed as the original captain of the Rumbar Pirates, showing his selfless leadership by leaving the crew to protect them from disease.",
+      "keyActions": [
+        "Contracts an incurable disease",
+        "Orders healthy crew to continue without him",
+        "Entrusts Brook with giving the crew hope"
+      ],
+      "quotes": [
+        "Brook, I want you to give the crew hope. We'll sing together again someday, I promise."
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended the final performance scene of Bink's Sake, adding more visual detail to each crew member dying and Brook's emotional reactions.",
+      "episodeTimestamp": "16:30",
+      "mangaReference": "Chapter 488",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "The anime added additional flashback sequences showing Brook's solitude over the 50 years, including the dream sequence with his crewmates.",
+      "episodeTimestamp": "21:00",
+      "mangaReference": "Chapter 488",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marked the first time One Piece used 16:9 letterbox format for analog broadcasts in Japan.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_380",
+          "title": "Episode 380 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-02"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 380 is widely considered one of the most emotional episodes in the entire One Piece series, with many fans reporting they cried during the final performance scene.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://www.cbr.com/saddest-one-piece-episodes/",
+          "title": "10 One Piece Episodes That Made Us Cry Ugly Tears",
+          "platform": "CBR",
+          "accessedAt": "2025-12-02"
+        }
+      ]
+    },
+    {
+      "fact": "The episode has a 9.3 rating on IMDb, one of the highest ratings for any One Piece episode.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://www.imdb.com/title/tt1334504/",
+          "title": "One Piece - Binks no Sake Episode",
+          "platform": "IMDb",
+          "accessedAt": "2025-12-02"
+        }
+      ]
+    },
+    {
+      "fact": "Composer Kohei Tanaka stated his goal was to make Bink's Sake both lighthearted and sad at the same time, with the emotional mood conferred by the instruments being used.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://gamerant.com/one-piece-the-history-of-binks-sake/",
+          "title": "One Piece: The History of Bink's Sake",
+          "platform": "Game Rant",
+          "accessedAt": "2025-12-02"
+        }
+      ]
+    },
+    {
+      "fact": "The countdown 'Quartet... Trio... Duet... Solo...' was added by the anime to emphasize the tragedy of each crew member's death and is not in the manga.",
+      "category": "ADAPTATION",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

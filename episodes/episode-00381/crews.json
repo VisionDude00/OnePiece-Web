@@ -1,0 +1,80 @@
+[
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "luffy",
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [381],
+    "members": [
+      {
+        "characterId": "brook",
+        "role": "Musician",
+        "episodeJoined": 381,
+        "episodeLeft": null,
+        "joinCircumstances": "After the defeat of Gecko Moria and conclusion of the Thriller Bark arc, Brook formally asked Luffy if his invitation to join the crew still stood. Luffy immediately accepted, making Brook the ninth member of the Straw Hat Pirates."
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 381,
+        "eventId": "ep381-event-001",
+        "momentType": "CREW_JOIN",
+        "title": "Brook Joins as Ninth Member",
+        "description": "Brook officially becomes the ninth member of the Straw Hat Pirates, fulfilling the long-sought role of crew musician.",
+        "significance": "Completes the pre-timeskip crew roster with all nine members who will continue together through the two-year timeskip.",
+        "timestamp": "03:15"
+      },
+      {
+        "episodeNumber": 381,
+        "eventId": "ep381-event-011",
+        "momentType": "LOCATION_DEPARTURE",
+        "title": "Departure from Thriller Bark",
+        "description": "The complete nine-member Straw Hat crew departs Thriller Bark and sets course for Fishman Island.",
+        "significance": "Marks the end of the Thriller Bark arc and the beginning of the journey toward Sabaody Archipelago with the full crew.",
+        "timestamp": "21:30"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Thousand Sunny",
+        "episodeAcquired": 321,
+        "episodeLost": null,
+        "description": "The Straw Hats' second ship, built by Franky and the Galley-La Company."
+      }
+    ],
+    "bases": [],
+    "totalBountyProgression": [
+      {
+        "totalBounty": 667000000,
+        "episodeNumber": 381,
+        "memberBounties": {
+          "luffy": 300000000,
+          "zoro": 120000000,
+          "nami": 16000000,
+          "usopp": 30000000,
+          "sanji": 77000000,
+          "chopper": 50,
+          "robin": 80000000,
+          "franky": 44000000,
+          "brook": 0
+        }
+      }
+    ],
+    "jollyRoger": {
+      "description": "A skull wearing a straw hat with crossed bones behind it",
+      "episodeFirstSeen": 1,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": ["rolling-pirates"],
+      "enemies": [],
+      "parentOrganization": null
+    }
+  }
+]

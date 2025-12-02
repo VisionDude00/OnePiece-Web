@@ -1,0 +1,149 @@
+[
+  {
+    "id": "brook",
+    "name": {
+      "english": "Brook",
+      "japanese": "ブルック",
+      "romanized": "Burukku"
+    },
+    "episodeAppearances": [384],
+    "keyMoments": [
+      {
+        "episodeNumber": 384,
+        "eventId": "ep384-event-001",
+        "momentType": "CULTURAL_MOMENT",
+        "title": "Discovers the Crew's Journal",
+        "description": "Brook finds and reads the Straw Hat Pirates' adventure journal, becoming emotional as he realizes the depth of experiences his new crewmates have shared together.",
+        "significance": "Establishes Brook's insecurity about being the newest member of a crew with deep shared history.",
+        "timestamp": "02:15",
+        "quote": "These are all the adventures they've shared together... and I've only just joined."
+      },
+      {
+        "episodeNumber": 384,
+        "eventId": "ep384-event-002",
+        "momentType": "CULTURAL_MOMENT",
+        "title": "Performs Black Handkerchief of Happiness",
+        "description": "Brook wakes the crew with the 'Black Handkerchief of Happiness' song, bringing his Rumbar Pirates tradition to the Straw Hats.",
+        "significance": "Shows Brook attempting to integrate his past traditions with his new crew.",
+        "timestamp": "04:30",
+        "quote": ""
+      },
+      {
+        "episodeNumber": 384,
+        "eventId": "ep384-event-007",
+        "momentType": "RELATIONSHIP_REVEAL",
+        "title": "Heart-to-Heart with Robin About Belonging",
+        "description": "Robin consoles Brook by sharing her own experience of feeling out of place and finding family with the Straw Hats, referencing Enies Lobby.",
+        "significance": "A pivotal bonding moment between two crew members who both struggled with feeling worthy of the crew's companionship.",
+        "timestamp": "14:30",
+        "quote": "Luffy-san, am I really good enough to be part of this crew?"
+      },
+      {
+        "episodeNumber": 384,
+        "eventId": "ep384-event-008",
+        "momentType": "MAJOR_DECISION",
+        "title": "Seeks Validation from Luffy",
+        "description": "Brook directly asks Luffy if he's good enough to be part of the crew, receiving simple but meaningful affirmation from his captain.",
+        "significance": "Brook overcomes his self-doubt through his captain's straightforward acceptance.",
+        "timestamp": "16:45",
+        "quote": "Luffy-san, am I really good enough to be part of this crew?"
+      },
+      {
+        "episodeNumber": 384,
+        "eventId": "ep384-event-009",
+        "momentType": "CULTURAL_MOMENT",
+        "title": "Plays Bink's Sake for the Crew",
+        "description": "Brook performs Bink's Sake on violin as the crew relaxes, finally feeling at peace among his new family.",
+        "significance": "Brook finds his role in the crew through music, connecting his past with his present and achieving genuine belonging.",
+        "timestamp": "18:30",
+        "quote": ""
+      }
+    ],
+    "reveals": [
+      {
+        "infoType": "PERSONALITY",
+        "information": "Brook struggles with imposter syndrome and self-doubt about his worthiness as a crew member despite his skills",
+        "episodeRevealed": 384,
+        "severity": "MINOR"
+      },
+      {
+        "infoType": "BACKGROUND",
+        "information": "Brook used to wake his old crew, the Rumbar Pirates, with the 'Black Handkerchief of Happiness' song",
+        "episodeRevealed": 384,
+        "severity": "MINOR"
+      }
+    ],
+    "relationships": [
+      {
+        "targetCharacterId": "robin",
+        "relationshipType": "CREW_MATE",
+        "description": "Robin helps Brook overcome his insecurity by sharing her own experience of finding belonging with the crew, creating a meaningful bond between them as crew members who both struggled with feeling worthy.",
+        "episodeEstablished": 384,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 384,
+            "description": "Robin notices Brook's distress and consoles him with her own story of finding family at Enies Lobby.",
+            "newRelationshipType": "SUPPORTIVE_FRIEND"
+          }
+        ]
+      },
+      {
+        "targetCharacterId": "luffy",
+        "relationshipType": "CAPTAIN",
+        "description": "Luffy's simple affirmation helps Brook overcome his self-doubt about his place on the crew.",
+        "episodeEstablished": 384,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 384,
+            "description": "Brook seeks and receives validation from Luffy about his worthiness as a crew member.",
+            "newRelationshipType": "TRUSTED_CAPTAIN"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "robin",
+    "name": {
+      "english": "Nico Robin",
+      "japanese": "ニコ・ロビン",
+      "romanized": "Niko Robin"
+    },
+    "episodeAppearances": [384],
+    "keyMoments": [
+      {
+        "episodeNumber": 384,
+        "eventId": "ep384-event-007",
+        "momentType": "RELATIONSHIP_REVEAL",
+        "title": "Consoles Brook About Belonging",
+        "description": "Robin shares her own experience of feeling out of place when she first joined the crew, explaining how the crew became her family and referencing how they risked their lives to save her at Enies Lobby.",
+        "significance": "Demonstrates Robin's growth and her ability to help others through similar struggles, showing how far she's come in accepting the crew as her family.",
+        "timestamp": "14:30",
+        "quote": "I also felt out of place when I first joined. But now, this crew is my family. They risked their lives to save me at Enies Lobby, and I would do the same for them."
+      }
+    ],
+    "reveals": [
+      {
+        "infoType": "CHARACTER_GROWTH",
+        "information": "Robin has fully embraced the Straw Hats as her family and is comfortable sharing her own journey to help others",
+        "episodeRevealed": 384,
+        "severity": "MINOR"
+      }
+    ],
+    "relationships": [
+      {
+        "targetCharacterId": "brook",
+        "relationshipType": "CREW_MATE",
+        "description": "Robin mentors Brook through his insecurity, creating a bond between two crew members who shared similar struggles with belonging.",
+        "episodeEstablished": 384,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 384,
+            "description": "Robin notices Brook's distress and helps him by sharing her own experience, establishing a supportive dynamic.",
+            "newRelationshipType": "MENTOR"
+          }
+        ]
+      }
+    ]
+  }
+]
