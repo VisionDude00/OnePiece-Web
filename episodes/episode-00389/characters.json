@@ -1,0 +1,281 @@
+[
+  {
+    "id": "duval",
+    "names": {
+      "primary": "Duval",
+      "japanese": "デュバル",
+      "romanized": "Dyubaru",
+      "aliases": ["Iron Mask Duval", "Handsome Duval"],
+      "epithet": "Iron Mask"
+    },
+    "debut": {
+      "manga": 491,
+      "anime": 387,
+      "faceReveal": 389
+    },
+    "episodeAppearances": [389],
+    "keyMoments": [
+      {
+        "episodeNumber": 389,
+        "timestamp": "03:00",
+        "description": "Reveals his tragic backstory about how Sanji's wanted poster destroyed his peaceful life",
+        "significance": "Transforms Duval from a mysterious antagonist into a sympathetic character with legitimate grievances",
+        "type": "BACKSTORY_REVEAL"
+      },
+      {
+        "episodeNumber": 389,
+        "timestamp": "06:30",
+        "description": "His face is finally revealed, showing an exact match to Sanji's poorly-drawn wanted poster",
+        "significance": "One of One Piece's most memorable comedic reveals, explaining his obsessive hatred of Sanji",
+        "type": "FIRST_APPEARANCE"
+      },
+      {
+        "episodeNumber": 389,
+        "timestamp": "19:30",
+        "description": "After receiving Sanji's Parage Shot, his face is transformed into a handsome appearance",
+        "significance": "Resolves the conflict and transforms Duval from enemy to ally through an act of accidental kindness",
+        "type": "TRANSFORMATION"
+      }
+    ],
+    "reveals": [
+      {
+        "episodeNumber": 389,
+        "type": "BACKSTORY",
+        "description": "Duval was a small-time bandit whose life was ruined when Sanji's wanted poster was released, as his face matched the poster's poor illustration"
+      },
+      {
+        "episodeNumber": 389,
+        "type": "APPEARANCE",
+        "description": "His real face is revealed to match Sanji's wanted poster exactly (except eyebrow direction)"
+      },
+      {
+        "episodeNumber": 389,
+        "type": "TRANSFORMATION",
+        "description": "His face is restructured by Sanji's Parage Shot, making him extremely handsome"
+      }
+    ],
+    "affiliations": [
+      {
+        "organization": "Flying Fish Riders",
+        "role": "Leader",
+        "startEpisode": 387,
+        "status": "ACTIVE"
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Bull Riding",
+        "description": "Rides his pet bison Motobaro as a mount",
+        "type": "COMBAT_SKILL",
+        "firstUsed": 388
+      },
+      {
+        "name": "Harpoon Combat",
+        "description": "Wields harpoons in combat",
+        "type": "WEAPON_MASTERY",
+        "firstUsed": 388
+      }
+    ],
+    "relationships": [
+      {
+        "characterId": "sanji",
+        "type": "ENEMY_TO_ALLY",
+        "description": "Duval initially hated Sanji for his wanted poster ruining his life, but became grateful after Sanji's Parage Shot made him handsome",
+        "establishedEpisode": 389
+      },
+      {
+        "characterId": "motobaro",
+        "type": "COMPANION",
+        "description": "Motobaro is Duval's loyal pet bison who serves as his mount",
+        "establishedEpisode": 388
+      }
+    ]
+  },
+  {
+    "id": "sanji",
+    "names": {
+      "primary": "Sanji",
+      "japanese": "サンジ",
+      "romanized": "Sanji",
+      "aliases": ["Black Leg Sanji", "Mr. Prince"],
+      "epithet": "Black Leg"
+    },
+    "episodeAppearances": [389],
+    "keyMoments": [
+      {
+        "episodeNumber": 389,
+        "timestamp": "09:00",
+        "description": "Gets trapped in steel nets by Duval and nearly drowns",
+        "significance": "Shows Sanji's vulnerability and creates tension in the battle",
+        "type": "CRISIS"
+      },
+      {
+        "episodeNumber": 389,
+        "timestamp": "10:30",
+        "description": "Is rescued by Camie, resulting in a massive nosebleed from being pressed against her chest",
+        "significance": "Classic Sanji comedy moment showcasing his weakness for beautiful women",
+        "type": "COMEDIC_MOMENT"
+      },
+      {
+        "episodeNumber": 389,
+        "timestamp": "18:00",
+        "description": "Uses Parage Shot technique to restructure Duval's face with precision kicks",
+        "significance": "Debuts a new powerful technique that demonstrates Sanji's surgical precision in combat",
+        "type": "TECHNIQUE_DEBUT"
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Parage Shot",
+        "description": "A series of precision kicks targeting specific facial points (Oeil, Nez, Joue, Bouche, Dents, Menton) that can restructure bone and tissue like violent plastic surgery",
+        "type": "SIGNATURE_TECHNIQUE",
+        "firstUsed": 389
+      }
+    ],
+    "relationships": [
+      {
+        "characterId": "duval",
+        "type": "ENEMY_TO_ALLY",
+        "description": "Unknowingly ruined Duval's life with his wanted poster, then accidentally fixed it with Parage Shot",
+        "establishedEpisode": 389
+      },
+      {
+        "characterId": "camie",
+        "type": "ALLY",
+        "description": "Camie saved Sanji from drowning, much to his delight",
+        "establishedEpisode": 389
+      }
+    ]
+  },
+  {
+    "id": "luffy",
+    "names": {
+      "primary": "Monkey D. Luffy",
+      "japanese": "モンキー・D・ルフィ",
+      "romanized": "Monkī Dī Rufi",
+      "aliases": ["Straw Hat Luffy"],
+      "epithet": "Straw Hat"
+    },
+    "episodeAppearances": [389],
+    "keyMoments": [
+      {
+        "episodeNumber": 389,
+        "timestamp": "16:00",
+        "description": "Unknowingly uses Conqueror's Haki to knock out Duval's charging bull Motobaro without physical contact",
+        "significance": "First clear visual representation of Luffy using Conqueror's Haki, though played as comedy and not explained until later",
+        "type": "POWER_REVEAL"
+      }
+    ],
+    "reveals": [
+      {
+        "episodeNumber": 389,
+        "type": "ABILITY",
+        "description": "First visible use of Conqueror's Haki (Haoshoku Haki), though Luffy remains unaware of this power"
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Conqueror's Haki (Unconscious Use)",
+        "description": "Unknowingly released Conqueror's Haki to intimidate and knock out Motobaro",
+        "type": "HAKI",
+        "firstUsed": 389
+      }
+    ]
+  },
+  {
+    "id": "franky",
+    "names": {
+      "primary": "Franky",
+      "japanese": "フランキー",
+      "romanized": "Furankī",
+      "aliases": ["Cutty Flam", "Cyborg Franky"],
+      "epithet": "Cyborg"
+    },
+    "episodeAppearances": [389],
+    "keyMoments": [
+      {
+        "episodeNumber": 389,
+        "timestamp": "13:00",
+        "description": "Reveals and fires the Thousand Sunny's secret weapon, the Gaon Cannon, for the first time",
+        "significance": "Showcases Franky's genius as a shipwright and the Sunny's full combat capabilities",
+        "type": "TECHNIQUE_DEBUT"
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Gaon Cannon Operation",
+        "description": "Can operate the Thousand Sunny's devastating Gaon Cannon that fires compressed air blasts",
+        "type": "SHIP_WEAPON",
+        "firstUsed": 389
+      }
+    ]
+  },
+  {
+    "id": "camie",
+    "names": {
+      "primary": "Camie",
+      "japanese": "ケイミー",
+      "romanized": "Keimī",
+      "aliases": ["Keimi"],
+      "epithet": null
+    },
+    "episodeAppearances": [389],
+    "keyMoments": [
+      {
+        "episodeNumber": 389,
+        "timestamp": "10:30",
+        "description": "Dives into the water and uses her incredible mermaid speed to rescue Sanji from drowning",
+        "significance": "Demonstrates why mermaids are considered the fastest swimmers in the One Piece world",
+        "type": "HEROIC_ACTION"
+      }
+    ],
+    "abilities": [
+      {
+        "name": "Mermaid Swimming Speed",
+        "description": "As a mermaid, Camie can swim faster than any fish-man or human, allowing her to rescue Sanji from the steel nets",
+        "type": "RACIAL_ABILITY",
+        "firstUsed": 389
+      }
+    ],
+    "relationships": [
+      {
+        "characterId": "sanji",
+        "type": "ALLY",
+        "description": "Saved Sanji from drowning when he was trapped by Duval",
+        "establishedEpisode": 389
+      }
+    ]
+  },
+  {
+    "id": "motobaro",
+    "names": {
+      "primary": "Motobaro",
+      "japanese": "モトバロ",
+      "romanized": "Motobaro",
+      "aliases": [],
+      "epithet": null
+    },
+    "debut": {
+      "manga": 491,
+      "anime": 388
+    },
+    "episodeAppearances": [389],
+    "keyMoments": [
+      {
+        "episodeNumber": 389,
+        "timestamp": "16:00",
+        "description": "Charges at Luffy but is knocked unconscious by Luffy's Conqueror's Haki without being physically touched",
+        "significance": "First animal to visibly react to Luffy's Conqueror's Haki, serving as evidence of this power's existence",
+        "type": "POWER_DEMONSTRATION"
+      }
+    ],
+    "relationships": [
+      {
+        "characterId": "duval",
+        "type": "COMPANION",
+        "description": "Motobaro is Duval's loyal pet bison who serves as his mount in battle",
+        "establishedEpisode": 388
+      }
+    ]
+  }
+]
