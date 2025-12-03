@@ -1,0 +1,562 @@
+{
+  "episodeNumber": 381,
+  "episodeTitle": "A New Crewmate! The Musician, Humming Brook",
+  "episodeTitleJapanese": "新たな仲間！音楽家・鼻唄のブルック",
+  "episodeTitleRomanized": "Aratana Nakama! Ongakuka - Hanauta no Burukku",
+  "description": "Brook officially joins the Straw Hat Pirates as their ninth crew member and musician. The crew celebrates with their new companion while settling affairs at Thriller Bark. Usopp and Franky build a grave for Brook's fallen Rumbar Pirates crew, where Zoro plants his broken sword Yubashiri. Lola gives Nami a Vivre Card pointing to her mother in the New World. When Luffy pulls out Ace's Vivre Card, the crew discovers it's burning and shrinking, indicating Ace is in mortal danger. Despite concern, Luffy chooses to trust Ace and continue toward Fishman Island.",
+  "airDate": "2008-12-14",
+  "airDateJapan": "2008-12-14",
+  "airDateUS": "2017-02-25",
+  "arcName": "Thriller Bark",
+  "sagaName": "Thriller Bark Saga",
+  "chapterAdapted": [489, 490],
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Are! (Animation One Piece 10th Anniversary Ver.)",
+    "artist": "TVXQ (Tohoshinki)",
+    "episodeRange": [373, 394]
+  },
+  "endingSong": null,
+  "credits": {
+    "screenplay": "Koga Naoki",
+    "director": "Yutaka Nakashima",
+    "storyboard": "Tetsuya Endō",
+    "animationDirector": "Masahiro Shimanuki",
+    "artDirectors": ["Miyuki Sato"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Brook",
+        "actor": "Cho"
+      },
+      {
+        "character": "Charlotte Lola",
+        "actor": "Aya Hisakawa"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Brook",
+        "actor": "Ian Sinclair"
+      },
+      {
+        "character": "Charlotte Lola",
+        "actor": "Alexis Tipton"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep381-event-001",
+      "episodeNumber": 381,
+      "timestamp": "03:15",
+      "eventType": "CREW_JOIN",
+      "severity": "MAJOR",
+      "title": "Brook Officially Joins the Straw Hat Pirates",
+      "description": "After reminiscing about his 50 years of isolation following the death of his Rumbar Pirates crew, Brook formally asks Luffy if his invitation to join the Straw Hat Pirates still stands. Luffy immediately accepts, and the entire crew celebrates by tossing Brook into the air.",
+      "significance": "Brook becomes the ninth member of the Straw Hat Pirates and their long-sought musician. This fulfills a crew position that has been needed since the beginning of their journey and completes the Thriller Bark arc's main character recruitment.",
+      "characterIds": ["luffy", "brook", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky"],
+      "locationIds": ["thriller-bark"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "Captain Luffy... would you still allow me to join your crew?",
+          "speaker": "Brook",
+          "context": "Brook asking to join the crew after reflecting on his past"
+        },
+        {
+          "text": "Yeah! Of course!",
+          "speaker": "Luffy",
+          "context": "Luffy's immediate acceptance of Brook"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [337, 338],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [337]
+    },
+    {
+      "id": "ep381-event-002",
+      "episodeNumber": 381,
+      "timestamp": "06:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MINOR",
+      "title": "Brook's Former Bounty Revealed",
+      "description": "The crew learns that Brook, known as 'Dead Bones' Brook the Humming Swordsman, had a bounty of 33 million Berries before his death 50 years ago.",
+      "significance": "Establishes Brook's credibility as a former pirate and his epithet, adding depth to his character background.",
+      "characterIds": ["brook"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep381-event-003",
+      "episodeNumber": 381,
+      "timestamp": "08:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Memorial Grave Built for Rumbar Pirates",
+      "description": "Two days after Brook joins, Usopp and Franky construct a grave for Brook's deceased Rumbar Pirates crew. The grave is built in their homeland of West Blue, honoring the crew that died 50 years ago.",
+      "significance": "Provides closure for Brook's tragic backstory and shows the Straw Hats' respect for their new crewmate's past. This memorial represents Brook finally being able to properly honor his fallen friends.",
+      "characterIds": ["brook", "usopp", "franky", "zoro"],
+      "locationIds": ["thriller-bark"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [379, 380],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [379, 380]
+    },
+    {
+      "id": "ep381-event-004",
+      "episodeNumber": 381,
+      "timestamp": "10:20",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Zoro Plants Yubashiri at the Grave",
+      "description": "Zoro plants his broken sword Yubashiri at the Rumbar Pirates' grave as a tribute. The sword was destroyed by Captain Shu at Enies Lobby but Zoro kept it out of respect. He now lays it to rest with Brook's former crew.",
+      "significance": "Demonstrates Zoro's deep respect for his weapons and his solidarity with Brook's loss. This moment symbolizes letting go of the past while honoring it, and marks the transition to Zoro fully using Shusui as his replacement blade.",
+      "characterIds": ["zoro", "brook"],
+      "locationIds": ["thriller-bark"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [271],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [271]
+    },
+    {
+      "id": "ep381-event-005",
+      "episodeNumber": 381,
+      "timestamp": "11:50",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Brook's Eyecatcher Debuts",
+      "description": "Brook's unique eyecatcher is shown for the first time, featuring his skull face with a distinctive upward telescope movement and different sky background compared to other Straw Hats.",
+      "significance": "Officially marks Brook as a Straw Hat member in the anime's visual format. The eyecatcher is a traditional marker of crew membership in One Piece.",
+      "characterIds": ["brook"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep381-event-006",
+      "episodeNumber": 381,
+      "timestamp": "13:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Zoro's Updated Eyecatcher with Shusui",
+      "description": "Zoro's eyecatcher is updated to show Shusui instead of the destroyed Yubashiri, reflecting his new sword acquisition from defeating Ryuma.",
+      "significance": "Visually confirms Zoro's permanent adoption of Shusui as one of his three swords, replacing Yubashiri.",
+      "characterIds": ["zoro"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [362],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [362]
+    },
+    {
+      "id": "ep381-event-007",
+      "episodeNumber": 381,
+      "timestamp": "14:15",
+      "eventType": "TREASURE_DISCOVERY",
+      "severity": "CRITICAL",
+      "title": "Lola Gives Nami Her Mother's Vivre Card",
+      "description": "Charlotte Lola gives Nami a Vivre Card that points to her mother, a powerful pirate in the New World. Lola believes her mother will help the Straw Hats if they ever need it. She explains that Vivre Cards are made in the New World from a person's fingernails.",
+      "significance": "This is a critical foreshadowing moment. Lola's mother is later revealed to be Charlotte Linlin (Big Mom), one of the Four Emperors. This Vivre Card becomes crucial in the Whole Cake Island arc, though Lola is unaware her mother holds a grudge against her for fleeing an arranged marriage.",
+      "characterIds": ["nami", "lola"],
+      "locationIds": ["thriller-bark"],
+      "quotes": [
+        {
+          "text": "This Vivre Card will allow you to meet the one who has it, no matter where in the world they are.",
+          "speaker": "Lola",
+          "context": "Explaining how Vivre Cards work to Nami"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [825, 826, 827],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep381-event-008",
+      "episodeNumber": 381,
+      "timestamp": "16:45",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Vivre Card Mechanics Explained",
+      "description": "Lola explains how Vivre Cards work: they are pieces of paper made from a person's fingernails in the New World. The card always points toward the person it was made from and shrinks when that person's life force weakens. When the person dies, the card burns away completely.",
+      "significance": "Introduces a crucial navigational tool and plot device that becomes important throughout the series. Vivre Cards are used to track allies and will become essential in multiple future arcs.",
+      "characterIds": ["lola", "nami"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep381-event-009",
+      "episodeNumber": 381,
+      "timestamp": "18:20",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "CRITICAL",
+      "title": "Ace's Vivre Card is Burning",
+      "description": "After learning about Vivre Cards from Lola, Luffy remembers the piece of paper Ace gave him in Alabasta. When he pulls it out, the crew is shocked to see it's burning and has shrunk significantly, indicating Ace's life is in grave danger and his life force is fading.",
+      "significance": "This is one of the most critical foreshadowing moments in One Piece. It sets up the Impel Down and Marineford arcs where Ace is imprisoned and executed. This moment begins the countdown to one of the series' most tragic events.",
+      "characterIds": ["luffy", "ace", "nami", "sanji", "chopper", "usopp", "robin", "franky", "brook", "zoro"],
+      "locationIds": ["thousand-sunny"],
+      "quotes": [
+        {
+          "text": "That paper... it's getting smaller and burning! That means your brother's life is in danger!",
+          "speaker": "Lola",
+          "context": "Explaining what Ace's burning Vivre Card means"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [159],
+      "payoffInEpisodes": [452, 453, 454, 455, 456, 457, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483],
+      "callbacksToEpisodes": [159]
+    },
+    {
+      "id": "ep381-event-010",
+      "episodeNumber": 381,
+      "timestamp": "20:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Luffy Decides Not to Rescue Ace",
+      "description": "Despite seeing Ace's Vivre Card burning, Luffy decides to continue toward Fishman Island rather than going to rescue his brother. He explains that Ace wouldn't want to be looked down upon or appear weak, and that he wants to meet Ace in the New World at full strength as rivals.",
+      "significance": "This decision showcases Luffy's trust in Ace's strength and his respect for Ace's pride. It also demonstrates Luffy's growth as a captain prioritizing his crew's journey. However, this decision leads to Luffy not being present when Ace is captured, setting up his desperate rescue attempt later.",
+      "characterIds": ["luffy", "ace"],
+      "quotes": [
+        {
+          "text": "Ace doesn't like to be looked down on. I want to meet him in the New World at full strength!",
+          "speaker": "Luffy",
+          "context": "Explaining why he won't go after Ace despite the danger"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [159],
+      "payoffInEpisodes": [452, 453, 454],
+      "callbacksToEpisodes": [159]
+    },
+    {
+      "id": "ep381-event-011",
+      "episodeNumber": 381,
+      "timestamp": "21:30",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MAJOR",
+      "title": "Straw Hats Leave Thriller Bark",
+      "description": "The Straw Hat Pirates officially depart from Thriller Bark on the Thousand Sunny, having completed their adventure and gained their ninth crew member. They set course for Fishman Island and the New World.",
+      "significance": "Marks the conclusion of the Thriller Bark arc and the beginning of the journey toward the Sabaody Archipelago. The crew is now complete with all nine members who will continue together through the timeskip.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky", "brook"],
+      "locationIds": ["thriller-bark", "thousand-sunny"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [382],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep381-event-012",
+      "episodeNumber": 381,
+      "timestamp": "22:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Brook Amazed by Coup de Burst",
+      "description": "As the Thousand Sunny uses Coup de Burst to fly through the air, Brook is completely amazed by the ship's capabilities, experiencing it for the first time as a new crew member.",
+      "significance": "A lighthearted moment showing Brook's integration into the crew and his wonder at the Thousand Sunny's special features. Provides comedic relief after the heavy emotional moments.",
+      "characterIds": ["brook", "franky"],
+      "locationIds": ["thousand-sunny"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [382, 452, 453, 454, 825, 826],
+    "payoffFrom": [337, 379, 380],
+    "thematicLinks": [159, 271, 362]
+  },
+  "quotes": [
+    {
+      "text": "Captain Luffy... would you still allow me to join your crew?",
+      "speaker": "Brook",
+      "context": "Brook formally asking to join the Straw Hats",
+      "timestamp": "03:15"
+    },
+    {
+      "text": "Yeah! Of course!",
+      "speaker": "Luffy",
+      "context": "Luffy's immediate acceptance of Brook",
+      "timestamp": "03:20"
+    },
+    {
+      "text": "This Vivre Card will allow you to meet the one who has it, no matter where in the world they are.",
+      "speaker": "Lola",
+      "context": "Explaining Vivre Cards to Nami",
+      "timestamp": "16:45"
+    },
+    {
+      "text": "Ace doesn't like to be looked down on. I want to meet him in the New World at full strength!",
+      "speaker": "Luffy",
+      "context": "Deciding not to rescue Ace despite his Vivre Card burning",
+      "timestamp": "20:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Crew and Nakama",
+      "description": "The episode centers on the concept of nakama (crew/companions) as Brook officially joins the Straw Hats and the crew honors his fallen Rumbar Pirates.",
+      "symbolism": "The memorial grave and Zoro's sword planting symbolize respecting the past while moving forward together.",
+      "culturalReferences": ["Japanese memorial traditions", "Honoring the dead"]
+    },
+    {
+      "theme": "Trust and Independence",
+      "description": "Luffy's decision to trust Ace to handle his own troubles rather than rushing to rescue him demonstrates respect for his brother's strength and independence.",
+      "symbolism": "The burning Vivre Card represents danger, but Luffy's choice shows he values Ace's pride over immediate action.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Foreshadowing and Fate",
+      "description": "The burning Vivre Card introduces the looming threat that will drive the next major saga, creating a sense of inevitable tragedy.",
+      "symbolism": "The shrinking, burning paper physically represents a life slipping away.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Celebratory", "Bittersweet", "Ominous", "Heartfelt"],
+  "characterSpotlights": [
+    {
+      "characterId": "brook",
+      "role": "Episode protagonist - officially joins the crew",
+      "development": "Brook completes his arc from lonely skeleton to valued crew member. He gains closure for his past crew and embraces a new future with the Straw Hats.",
+      "keyActions": [
+        "Formally asks to join the Straw Hats",
+        "Mourns his fallen Rumbar Pirates crew at their memorial",
+        "Celebrates with his new family",
+        "Experiences the Thousand Sunny's capabilities"
+      ],
+      "quotes": ["Captain Luffy... would you still allow me to join your crew?"]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Captain making critical decisions",
+      "development": "Luffy demonstrates maturity by accepting Brook immediately and trusting Ace to handle his own problems, showing growth as both a captain and brother.",
+      "keyActions": [
+        "Accepts Brook into the crew without hesitation",
+        "Discovers Ace's Vivre Card is burning",
+        "Makes the difficult decision to continue to Fishman Island rather than rescue Ace"
+      ],
+      "quotes": ["Yeah! Of course!", "Ace doesn't like to be looked down on. I want to meet him in the New World at full strength!"]
+    },
+    {
+      "characterId": "zoro",
+      "role": "Supporting - honors the dead",
+      "development": "Zoro shows his sentimental side by planting his broken sword at the grave, demonstrating respect for fallen warriors and sympathy for Brook's loss.",
+      "keyActions": [
+        "Plants Yubashiri at the Rumbar Pirates' grave",
+        "Pays respects alongside Brook"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "lola",
+      "role": "Supporting - provides crucial items and information",
+      "development": "Lola acts as a bridge to future adventures by giving Nami her mother's Vivre Card and explaining how they work.",
+      "keyActions": [
+        "Gives Nami her mother's Vivre Card",
+        "Explains Vivre Card mechanics",
+        "Warns about Ace's danger"
+      ],
+      "quotes": ["This Vivre Card will allow you to meet the one who has it, no matter where in the world they are."]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends some emotional moments and celebratory scenes compared to the manga's pacing.",
+      "episodeTimestamp": "03:00-05:00",
+      "mangaReference": "Chapter 489",
+      "type": "PACING"
+    },
+    {
+      "difference": "The memorial scene for the Rumbar Pirates is given more time in the anime.",
+      "episodeTimestamp": "08:45-11:00",
+      "mangaReference": "Chapter 489",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This is the last episode of the Thriller Bark Arc, which began with Episode 337.",
+      "category": "ARC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_381",
+          "title": "Episode 381 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-02"
+        }
+      ]
+    },
+    {
+      "fact": "Brook's eyecatcher debuts in this episode, marking his official status as a Straw Hat crew member.",
+      "category": "ANIMATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Eyecatchers",
+          "title": "Eyecatchers - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-02"
+        }
+      ]
+    },
+    {
+      "fact": "Zoro's eyecatcher was updated in this episode to show Shusui instead of the destroyed Yubashiri.",
+      "category": "ANIMATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_381",
+          "title": "Episode 381 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-02"
+        }
+      ]
+    },
+    {
+      "fact": "The opening theme 'We Are! (2008 Remix)' by TVXQ was performed to commemorate the anime's 10th anniversary.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/We_Are!/Tohoshinki_(2008)_Remix",
+          "title": "We Are!/Tohoshinki (2008) Remix - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-02"
+        }
+      ]
+    },
+    {
+      "fact": "Charlotte Lola's mother is later revealed to be Charlotte Linlin (Big Mom), one of the Four Emperors, making the Vivre Card given to Nami extremely significant.",
+      "category": "FORESHADOWING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Charlotte_Lola",
+          "title": "Charlotte Lola - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-02"
+        }
+      ]
+    },
+    {
+      "fact": "This episode adapts parts of manga chapters 489 (pages 2-19) and 490 (pages 2-6).",
+      "category": "MANGA_ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_381",
+          "title": "Episode 381 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-02"
+        }
+      ]
+    },
+    {
+      "fact": "Brook's former bounty of 33 million Berries was revealed in this episode, earned when he was alive 50 years prior.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Brook",
+          "title": "Brook - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-02"
+        }
+      ]
+    },
+    {
+      "fact": "Yubashiri was one of the 50 Skillful Grade Swords and was destroyed by Shu in Episode 271 during the Enies Lobby arc.",
+      "category": "ITEM",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Yubashiri",
+          "title": "Yubashiri - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-02"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
