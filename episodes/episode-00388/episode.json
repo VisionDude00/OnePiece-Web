@@ -1,0 +1,545 @@
+{
+  "episodeNumber": 388,
+  "episodeTitle": "Tragedy! The Truth Hidden Under Duval's Mask",
+  "description": "The Straw Hat Pirates battle the Flying Fish Riders led by the mysterious masked Duval. When Luffy crashes into Duval's hideout and knocks off his iron mask, the crew discovers a shocking truth: Duval's face is identical to Sanji's poorly-drawn wanted poster, revealing why he has a vendetta against the chef.",
+  "airDate": "2009-02-08",
+  "airDateJapan": "2009-02-08",
+  "airDateUS": "2015-07-14",
+  "arcName": "Sabaody Archipelago Arc",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Are! (Tohoshinki 2008 Remix)",
+    "artist": "Tohoshinki (TVXQ)",
+    "episodeRange": [373, 394]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Naoki Tate",
+    "director": "Yoshihiro Ueda",
+    "screenplay": "Yoshiyuki Suga",
+    "artDirection": ["Ryūji Yoshiike", "Miho Shiraishi"],
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Brook",
+        "actor": "Cho"
+      },
+      {
+        "character": "Duval",
+        "actor": "Toshihiko Seki"
+      },
+      {
+        "character": "Hatchan",
+        "actor": "Toshiyuki Morikawa"
+      },
+      {
+        "character": "Camie",
+        "actor": "Haruna Ikezawa"
+      },
+      {
+        "character": "Pappag",
+        "actor": "Mika Doi"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Brook",
+        "actor": "Ian Sinclair"
+      },
+      {
+        "character": "Duval",
+        "actor": "David Vincent"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep388-event-001",
+      "episodeNumber": 388,
+      "timestamp": "03:45",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Flying Fish Riders Assault Continues",
+      "description": "The Flying Fish Riders launch coordinated attacks on the Thousand Sunny, with riders performing aerial bombardment using grenades and harpoons.",
+      "significance": "Establishes the ongoing combat situation and shows the crew working together to defend their ship.",
+      "characterIds": ["luffy", "sanji", "nami", "zoro", "chopper", "robin", "franky", "brook", "usopp"],
+      "locationIds": ["thousand-sunny"],
+      "crewIds": ["straw-hat-pirates", "flying-fish-riders"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [386, 387],
+      "payoffInEpisodes": [389],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep388-event-002",
+      "episodeNumber": 388,
+      "timestamp": "05:20",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Luffy's Flying Fish Joyride",
+      "description": "Luffy grabs onto a Flying Fish Rider during their flyover and goes on an unintentional joyride through the air, showing his carefree nature even during battle.",
+      "significance": "Demonstrates Luffy's playful personality and sets up his fall into the water, providing both comedy and advancing the battle sequence.",
+      "characterIds": ["luffy"],
+      "locationIds": ["thousand-sunny"],
+      "quotes": [
+        {
+          "text": "Whoa! This is fun!",
+          "speaker": "Luffy",
+          "context": "Luffy enjoying the ride on the flying fish despite being in the middle of a battle"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep388-event-003",
+      "episodeNumber": 388,
+      "timestamp": "06:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Triple Devil Fruit User Drowning",
+      "description": "Luffy ends up falling into the ocean and starts drowning due to his Devil Fruit weakness. Chopper and Brook jump in to save him, but both are also Devil Fruit users and begin drowning as well, creating a comedic crisis.",
+      "significance": "A humorous reminder of the Devil Fruit users' weakness to water and the crew's tendency to create problems while trying to help. Shows the need for non-Devil Fruit users on the crew.",
+      "characterIds": ["luffy", "chopper", "brook", "franky", "nami"],
+      "devilFruitIds": ["gomu-gomu-no-mi", "hito-hito-no-mi", "yomi-yomi-no-mi"],
+      "quotes": [
+        {
+          "text": "Don't worry Luffy, I'll save you!",
+          "speaker": "Chopper",
+          "context": "Chopper forgetting he also can't swim before jumping in"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [1, 17]
+    },
+    {
+      "id": "ep388-event-004",
+      "episodeNumber": 388,
+      "timestamp": "08:10",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Franky and Nami Rescue Operation",
+      "description": "Franky and Nami work together to rescue all three drowning Devil Fruit users from the ocean, with Franky using his cyborg strength to pull them aboard.",
+      "significance": "Demonstrates the importance of having crew members without Devil Fruit weaknesses and shows the crew's teamwork and care for each other.",
+      "characterIds": ["franky", "nami", "luffy", "chopper", "brook"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep388-event-005",
+      "episodeNumber": 388,
+      "timestamp": "10:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Brook's Nemuriuta Flanc (Lullaby Song)",
+      "description": "Brook plays a haunting lullaby on his violin called 'Nemuriuta Flanc' that puts several Flying Fish Riders to sleep, causing them to fall from their mounts.",
+      "significance": "First use of Brook's musical sleep-inducing ability in combat, showcasing his versatility as both musician and fighter.",
+      "characterIds": ["brook"],
+      "quotes": [
+        {
+          "text": "Allow me to play you a lullaby... Nemuriuta Flanc!",
+          "speaker": "Brook",
+          "context": "Brook introducing his sleep-inducing musical technique"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep388-event-006",
+      "episodeNumber": 388,
+      "timestamp": "12:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Brook Runs on Water",
+      "description": "Brook uses his incredibly light skeletal body to run across the water's surface, demonstrating a unique advantage of being a skeleton, and slashes several Flying Fish with his sword.",
+      "significance": "Showcases Brook's unique skeletal physiology advantages in combat, highlighting how his undead form provides unexpected tactical benefits.",
+      "characterIds": ["brook"],
+      "devilFruitIds": ["yomi-yomi-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep388-event-007",
+      "episodeNumber": 388,
+      "timestamp": "14:00",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Chopper's Rumble Ball Arm Point",
+      "description": "Chopper consumes a Rumble Ball and transforms into his Arm Point form, using enhanced strength to fight off Flying Fish Riders attacking the Thousand Sunny.",
+      "significance": "Demonstrates Chopper's continued use of his signature transformation technique in the post-Enies Lobby era.",
+      "characterIds": ["chopper"],
+      "devilFruitIds": ["hito-hito-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [149]
+    },
+    {
+      "id": "ep388-event-008",
+      "episodeNumber": 388,
+      "timestamp": "15:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Hatchan's Takoyaki Punch",
+      "description": "Hatchan demonstrates his 'Takoyaki Punch' technique and uses his Six Sword Style fighting techniques to help defend against the Flying Fish Riders.",
+      "significance": "Shows Hatchan actively fighting to protect his new friends, the Straw Hats, and demonstrates his combat abilities.",
+      "characterIds": ["hatchan"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [387],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [182, 183]
+    },
+    {
+      "id": "ep388-event-009",
+      "episodeNumber": 388,
+      "timestamp": "16:45",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MINOR",
+      "title": "Zoro's Continued Recovery from Kuma",
+      "description": "Zoro is shown to be winded and still recovering from his devastating encounter with Bartholomew Kuma at Thriller Bark, unable to fight at full strength.",
+      "significance": "Continues the ongoing subplot of Zoro's injuries from protecting Luffy, showing the lasting consequences of that sacrifice.",
+      "characterIds": ["zoro"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [377],
+      "payoffInEpisodes": [389, 390],
+      "callbacksToEpisodes": [377]
+    },
+    {
+      "id": "ep388-event-010",
+      "episodeNumber": 388,
+      "timestamp": "18:20",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Luffy Crashes into Duval's Hideout",
+      "description": "Luffy grabs onto another flying fish during combat and crashes directly into Duval's fortified hideout structure, setting up the face-to-face confrontation.",
+      "significance": "Luffy's typical reckless combat style directly leads to the episode's major revelation by forcing a direct confrontation with Duval.",
+      "characterIds": ["luffy", "duval"],
+      "locationIds": ["duval-hideout"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep388-event-011",
+      "episodeNumber": 388,
+      "timestamp": "19:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Duval's Mask Removed",
+      "description": "During the confrontation, Luffy kicks off Duval's distinctive iron mask, revealing his face for the first time to the Straw Hat crew and viewers.",
+      "significance": "The pivotal moment of the episode that sets up the major comedic reveal and explains Duval's entire motivation.",
+      "characterIds": ["luffy", "duval"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [386, 387],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep388-event-012",
+      "episodeNumber": 388,
+      "timestamp": "20:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Duval's Face Revealed - Sanji's Wanted Poster Twin",
+      "description": "Duval's face is revealed to look exactly like the poorly-drawn composite sketch on Sanji's first wanted poster. The crew reacts with shock and laughter as they realize the uncanny resemblance, including the distinctive spiral eyebrow.",
+      "significance": "One of the most comedic plot twists in One Piece, this reveal explains Duval's vendetta against Sanji and serves as a payoff to the long-running gag about Sanji's terrible wanted poster drawing. It demonstrates Oda's ability to turn minor details into major plot points.",
+      "characterIds": ["duval", "sanji", "luffy", "nami", "zoro", "usopp", "chopper", "robin", "franky", "brook"],
+      "quotes": [
+        {
+          "text": "That face... it's exactly like Sanji's wanted poster!",
+          "speaker": "Nami",
+          "context": "Nami's shocked reaction upon seeing Duval's face"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [151],
+      "payoffInEpisodes": [389],
+      "callbacksToEpisodes": [151]
+    },
+    {
+      "id": "ep388-event-013",
+      "episodeNumber": 388,
+      "timestamp": "21:30",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Duval's Grudge Against Sanji Explained",
+      "description": "Duval reveals that because his real face matches Sanji's wanted poster sketch, he has been relentlessly hunted by Marines and bounty hunters who mistake him for the wanted pirate. This mistaken identity has ruined his life and caused him years of suffering.",
+      "significance": "Explains the entire motivation for Duval's attacks and his vendetta against Sanji. The revelation turns what seemed like a serious conflict into a comedic misunderstanding based on Sanji's terrible wanted poster.",
+      "characterIds": ["duval", "sanji"],
+      "quotes": [
+        {
+          "text": "Because of you and that cursed wanted poster, my life has been nothing but hell!",
+          "speaker": "Duval",
+          "context": "Duval explaining his suffering due to being mistaken for Sanji"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [151, 386, 387],
+      "payoffInEpisodes": [389],
+      "callbacksToEpisodes": [151]
+    },
+    {
+      "id": "ep388-event-014",
+      "episodeNumber": 388,
+      "timestamp": "22:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Crew's Comedic Reaction to the Revelation",
+      "description": "The Straw Hat crew (except Sanji) bursts into uncontrollable laughter upon realizing that Duval's entire vendetta stems from looking like Sanji's comically bad wanted poster drawing. Sanji is mortified and furious.",
+      "significance": "Provides comic relief and demonstrates the crew's dynamic, while also showing Sanji's embarrassment about his wanted poster coming back to haunt him in an unexpected way.",
+      "characterIds": ["luffy", "nami", "zoro", "usopp", "chopper", "robin", "franky", "brook", "sanji"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["duval", "motobaro"],
+    "locations": ["duval-hideout"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["nemuriuta-flanc", "takoyaki-punch"]
+  },
+  "episodeRelationships": {
+    "setupFor": [389, 390],
+    "payoffFrom": [151, 377, 386, 387],
+    "thematicLinks": [151]
+  },
+  "quotes": [
+    {
+      "text": "That face... it's exactly like Sanji's wanted poster!",
+      "speaker": "Nami",
+      "context": "Shocked reaction to seeing Duval's face",
+      "timestamp": "20:30"
+    },
+    {
+      "text": "Because of you and that cursed wanted poster, my life has been nothing but hell!",
+      "speaker": "Duval",
+      "context": "Explaining his grudge against Sanji",
+      "timestamp": "21:30"
+    },
+    {
+      "text": "Allow me to play you a lullaby... Nemuriuta Flanc!",
+      "speaker": "Brook",
+      "context": "Using his sleep-inducing musical technique",
+      "timestamp": "10:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Consequences of Actions",
+      "description": "The episode explores how seemingly minor events (a poorly drawn wanted poster) can have major unforeseen consequences for innocent people, as Duval's entire life was ruined by resembling Sanji's sketch.",
+      "symbolism": "Duval's iron mask represents his need to hide his true identity and the burden of being mistaken for someone else.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Comedy in Adversity",
+      "description": "The episode balances serious combat with comedy, particularly in the revelation that a fearsome antagonist's motivation stems from a completely absurd coincidence.",
+      "symbolism": "The contrast between Duval's serious grievance and the crew's laughter highlights One Piece's ability to blend drama and humor.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Teamwork and Crew Dynamics",
+      "description": "The battle showcases each Straw Hat member's unique abilities and how they work together, from Brook's music to Franky's strength to Nami's navigation.",
+      "symbolism": "The rescue of three Devil Fruit users shows the crew's interdependence and the importance of diverse abilities.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Action-Packed", "Comedic", "Surprising", "Lighthearted"],
+  "characterSpotlights": [
+    {
+      "characterId": "duval",
+      "role": "Central antagonist with revealed motivation",
+      "development": "Duval is revealed to be a victim of mistaken identity rather than a true villain, with his entire vendetta based on the absurd coincidence of resembling Sanji's wanted poster.",
+      "keyActions": [
+        "Leads Flying Fish Riders in battle",
+        "Has mask removed by Luffy",
+        "Reveals face matching Sanji's wanted poster",
+        "Explains his grudge and suffering"
+      ],
+      "quotes": ["Because of you and that cursed wanted poster, my life has been nothing but hell!"]
+    },
+    {
+      "characterId": "brook",
+      "role": "Supporting fighter showcasing unique abilities",
+      "development": "Brook demonstrates his combat versatility with both musical techniques and his skeletal advantages, proving his value as the crew's newest member.",
+      "keyActions": [
+        "Uses Nemuriuta Flanc to put enemies to sleep",
+        "Runs across water using his light skeletal body",
+        "Slashes Flying Fish Riders with sword techniques"
+      ],
+      "quotes": ["Allow me to play you a lullaby... Nemuriuta Flanc!"]
+    },
+    {
+      "characterId": "sanji",
+      "role": "Unwitting cause of conflict",
+      "development": "Sanji's embarrassment about his wanted poster reaches a new level as he learns it has genuinely ruined someone's life, adding emotional weight to what was previously just a running gag.",
+      "keyActions": [
+        "Defends ship from Flying Fish attacks",
+        "Reacts with shock and anger to Duval's revelation"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "luffy",
+      "role": "Comic relief and action catalyst",
+      "development": "Luffy's carefree and reckless nature drives the action forward, from his joyride to his crash into Duval's hideout that forces the confrontation.",
+      "keyActions": [
+        "Goes on flying fish joyride",
+        "Falls into ocean requiring rescue",
+        "Crashes into Duval's hideout",
+        "Kicks off Duval's mask"
+      ],
+      "quotes": ["Whoa! This is fun!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends the battle sequences with the Flying Fish Riders, adding more individual crew member combat moments than shown in the manga chapters.",
+      "episodeTimestamp": "03:45-18:00",
+      "mangaReference": "Chapters 493-494",
+      "type": "EXPANDED_SCENE"
+    },
+    {
+      "difference": "The comedic sequence of Luffy, Chopper, and Brook all drowning together is extended in the anime for additional humor.",
+      "episodeTimestamp": "06:45",
+      "mangaReference": "Chapter 493",
+      "type": "EXPANDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the first time Brook uses his 'Nemuriuta Flanc' technique in the anime, showcasing his musical combat abilities.",
+      "category": "ABILITY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_388",
+          "title": "Episode 388 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-03"
+        }
+      ]
+    },
+    {
+      "fact": "Duval's voice actor in Japanese, Toshihiko Seki, is known for voicing many handsome characters in anime, making his role as the 'ugly' Duval particularly ironic.",
+      "category": "VOICE_ACTING",
+      "sources": []
+    },
+    {
+      "fact": "The reveal of Duval's face is considered one of the funniest moments in One Piece, turning what seemed like a serious conflict into pure comedy.",
+      "category": "CULTURAL_IMPACT",
+      "sources": []
+    },
+    {
+      "fact": "Episode 388 adapts manga chapters 493-494, maintaining a relatively close 2-chapters-per-episode pace during the Sabaody Archipelago Arc.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_388",
+          "title": "Episode 388 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-03"
+        }
+      ]
+    },
+    {
+      "fact": "Motobaro, Duval's giant bison mount, makes his first appearance in this episode alongside his master.",
+      "category": "CHARACTER",
+      "sources": []
+    },
+    {
+      "fact": "This episode aired during the period when One Piece had no ending themes (episodes 279-1070), so it only features the opening song.",
+      "category": "PRODUCTION",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

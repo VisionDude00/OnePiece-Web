@@ -1,0 +1,58 @@
+[
+  {
+    "id": "duvals-hideout",
+    "names": {
+      "primary": "Duval's Hideout",
+      "japanese": "デュバルのアジト",
+      "romanized": "Dyubaru no Ajito",
+      "aliases": ["Flying Fish Riders' Base"]
+    },
+    "debut": {
+      "manga": 491,
+      "anime": 387
+    },
+    "episodeAppearances": [389],
+    "type": "HIDEOUT",
+    "description": "The hidden base of operations for Duval and the Flying Fish Riders, located near the Sabaody Archipelago. The hideout served as their headquarters for kidnapping operations.",
+    "keyEvents": [
+      {
+        "episodeNumber": 389,
+        "timestamp": "13:00",
+        "description": "The hideout is heavily damaged by the Thousand Sunny's Gaon Cannon blast",
+        "significance": "The Gaon Cannon's destructive power is demonstrated, marking the hideout's destruction and the Flying Fish Riders' defeat",
+        "type": "LOCATION_DAMAGED"
+      }
+    ],
+    "geography": "Located in the waters near the Sabaody Archipelago",
+    "parentLocation": "sabaody-archipelago-waters"
+  },
+  {
+    "id": "sabaody-archipelago-waters",
+    "names": {
+      "primary": "Sabaody Archipelago Waters",
+      "japanese": "シャボンディ諸島の海",
+      "romanized": "Shabondi Shotō no Umi",
+      "aliases": []
+    },
+    "episodeAppearances": [389],
+    "type": "OCEAN_AREA",
+    "description": "The waters surrounding the Sabaody Archipelago where the battle between the Straw Hats and the Flying Fish Riders takes place.",
+    "keyEvents": [
+      {
+        "episodeNumber": 389,
+        "timestamp": "09:00",
+        "description": "Sanji is trapped in steel nets and pulled underwater, requiring rescue by Camie",
+        "significance": "Demonstrates the danger of water battles for the crew and showcases Camie's swimming abilities",
+        "type": "BATTLE"
+      },
+      {
+        "episodeNumber": 389,
+        "timestamp": "13:00",
+        "description": "The Gaon Cannon is fired across these waters, destroying Duval's hideout",
+        "significance": "The Thousand Sunny's full combat capabilities are displayed in these waters",
+        "type": "WEAPON_DEBUT"
+      }
+    ],
+    "parentLocation": "sabaody-archipelago"
+  }
+]
