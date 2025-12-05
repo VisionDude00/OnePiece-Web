@@ -1,0 +1,140 @@
+[
+  {
+    "name": {
+      "english": "Sabaody Archipelago",
+      "japanese": "シャボンディ諸島",
+      "romanized": "Shabondi Shotō"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "PARADISE",
+    "islandName": "Sabaody Archipelago",
+    "debutEpisode": 390,
+    "debutChapter": 496,
+    "description": "A unique archipelago made up of massive Yarukiman Mangrove trees. The mangrove roots secrete special resin that forms bubbles throughout the island. Located near the Red Line, it serves as the final stop in Paradise before entering the New World. The island is divided into 79 numbered groves, each with different functions. World Nobles frequently visit due to its proximity to Mary Geoise.",
+    "episodeAppearances": [390],
+    "keyEvents": [
+      {
+        "episodeNumber": 390,
+        "eventId": "ep390-event-005",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Straw Hats Arrive at Sabaody Archipelago",
+        "description": "The Thousand Sunny arrives at Sabaody Archipelago for the first time. The crew is amazed by the bubble-covered landscape and the massive mangrove trees.",
+        "significance": "The beginning of one of the most important arcs in One Piece, where the crew will face overwhelming challenges.",
+        "timestamp": "12:00"
+      },
+      {
+        "episodeNumber": 390,
+        "eventId": "ep390-event-006",
+        "eventType": "WORLD_LORE",
+        "title": "Explanation of Sabaody's Bubbles",
+        "description": "Hatchan explains that the bubbles come from the Yarukiman Mangrove trees and only exist at Sabaody. These bubbles are used for ship coating to travel underwater.",
+        "significance": "Establishes the unique ecosystem and the reason for visiting Sabaody.",
+        "timestamp": "14:20"
+      },
+      {
+        "episodeNumber": 390,
+        "eventId": "ep390-event-007",
+        "eventType": "WORLD_LORE",
+        "title": "Warning About World Nobles Presence",
+        "description": "Hatchan warns the crew that World Nobles frequently visit Sabaody and must never be opposed, no matter what they do.",
+        "significance": "Introduces the political danger and oppression present at Sabaody.",
+        "timestamp": "17:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 390,
+        "episodeEnd": "present",
+        "reason": "Sabaody Archipelago is introduced as an active location"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["grove-41"],
+    "relatedCharacters": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky", "brook", "hatchan", "camie", "pappag"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Sabaody Archipelago"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Grove 41",
+      "japanese": "41番GR",
+      "romanized": "Yonjūichi-ban Gurōbu"
+    },
+    "locationType": "AREA",
+    "seaRegion": "PARADISE",
+    "islandName": "Sabaody Archipelago",
+    "debutEpisode": 390,
+    "debutChapter": 496,
+    "description": "One of the 79 numbered groves that make up Sabaody Archipelago. Grove 41 is located in the tourist area of the island. This is where the Thousand Sunny docks when the Straw Hats first arrive at Sabaody.",
+    "episodeAppearances": [390],
+    "keyEvents": [
+      {
+        "episodeNumber": 390,
+        "eventId": "ep390-event-005",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Thousand Sunny Docks at Grove 41",
+        "description": "The Straw Hats' ship, the Thousand Sunny, arrives and docks at Grove 41 of Sabaody Archipelago.",
+        "significance": "Establishes the crew's starting point at Sabaody.",
+        "timestamp": "12:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 390,
+        "episodeEnd": "present",
+        "reason": "Grove 41 is introduced as the Straw Hats' docking location"
+      }
+    ],
+    "parentLocation": "sabaody-archipelago",
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky", "brook"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Sabaody Archipelago"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Fish-Man Island",
+      "japanese": "魚人島",
+      "romanized": "Gyojin-tō"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Fish-Man Island",
+    "debutEpisode": 390,
+    "debutChapter": 496,
+    "description": "An island located 10,000 meters beneath the ocean surface, beneath the Red Line. It serves as the gateway from Paradise to the New World. To reach it, ships must be coated with bubble resin at Sabaody Archipelago. It is mentioned in this episode as the crew's destination.",
+    "episodeAppearances": [390],
+    "keyEvents": [
+      {
+        "episodeNumber": 390,
+        "eventId": "ep390-event-004",
+        "eventType": "WORLD_LORE",
+        "title": "Fish-Man Island Mentioned as Destination",
+        "description": "Hatchan explains that Fish-Man Island is located 10,000 meters underwater and is the only way for pirates to reach the New World without going through Mary Geoise.",
+        "significance": "Establishes Fish-Man Island as the crew's next major destination and explains its importance in the world.",
+        "timestamp": "10:30"
+      }
+    ],
+    "status": "MENTIONED",
+    "statusHistory": [
+      {
+        "status": "MENTIONED",
+        "episodeStart": 390,
+        "episodeEnd": "present",
+        "reason": "Fish-Man Island is mentioned as the next destination but not yet visited"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": [],
+    "relatedCharacters": ["hatchan"],
+    "relatedCrews": [],
+    "relatedArcs": ["Sabaody Archipelago"],
+    "images": []
+  }
+]

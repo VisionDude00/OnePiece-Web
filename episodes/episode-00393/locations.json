@@ -1,0 +1,111 @@
+[
+  {
+    "name": {
+      "english": "Sabaody Park",
+      "japanese": "シャボンディパーク",
+      "romanized": "Shabondi Pāku"
+    },
+    "locationType": "LANDMARK",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Sabaody Archipelago",
+    "debutEpisode": 393,
+    "debutChapter": 499,
+    "description": "An amusement park located on Groves 32, 33, and 34 of Sabaody Archipelago, also known as Bubbles Island. The park features rides and attractions powered by the Yarukiman Mangrove's soap bubbles, including a famous bubble ferris wheel that represents a dream destination for Fish-Men and Merfolk.",
+    "episodeAppearances": [393],
+    "keyEvents": [
+      {
+        "episodeNumber": 393,
+        "eventId": "ep393-event-001",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Straw Hats Arrive at Sabaody Park",
+        "description": "Luffy's group arrives at Sabaody Park on Groves 32-34 to search for Rayleigh, but become distracted by the amusement park attractions.",
+        "significance": "Sets the stage for both Camie's dream fulfillment and her eventual kidnapping.",
+        "timestamp": "03:15"
+      },
+      {
+        "episodeNumber": 393,
+        "eventId": "ep393-event-002",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Camie Rides the Ferris Wheel",
+        "description": "Camie fulfills her childhood dream of riding the bubble ferris wheel, a dream shared by most Fish-Men and Merfolk who face discrimination elsewhere.",
+        "significance": "Highlights the cultural significance of Sabaody Park to merfolk and the discrimination they face in other locations.",
+        "timestamp": "07:30"
+      },
+      {
+        "episodeNumber": 393,
+        "eventId": "ep393-event-012",
+        "eventType": "MAJOR_DECISION",
+        "title": "Camie Kidnapped at Sabaody Park",
+        "description": "While the Straw Hats are enjoying the park, Peterman and the Hound Pets kidnap Camie to sell her at the Human Auctioning House.",
+        "significance": "The park, a place of joy and dreams, becomes the site of tragedy as Camie is taken into the slave trade.",
+        "timestamp": "19:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 393,
+        "episodeEnd": "present",
+        "reason": "Amusement park is operational"
+      }
+    ],
+    "parentLocation": "Sabaody Archipelago",
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "camie", "peterman"],
+    "relatedCrews": ["straw-hat-pirates", "hound-pets"],
+    "relatedArcs": ["Sabaody Archipelago"],
+    "culturalSignificance": "The bubble ferris wheel at Sabaody Park represents a rare place where Fish-Men and Merfolk can experience joy and equality. Due to widespread discrimination and the threat of slavery, most merfolk can only dream of visiting this location. For many, it symbolizes freedom and the simple pleasures denied to them elsewhere in the world.",
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Sabaody Archipelago",
+      "japanese": "シャボンディ諸島",
+      "romanized": "Shabondi Shotō"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Sabaody Archipelago",
+    "debutEpisode": 385,
+    "debutChapter": 490,
+    "description": "A unique archipelago consisting of 79 groves formed by massive Yarukiman Mangrove trees. The trees' roots form the land, and their special resin creates soap bubbles that float throughout the area. Sabaody is the final stop before the New World and home to both the slave trade and World Nobles.",
+    "episodeAppearances": [393],
+    "keyEvents": [
+      {
+        "episodeNumber": 393,
+        "eventId": "ep393-event-005",
+        "eventType": "MAJOR_DECISION",
+        "title": "Saint Charlos' Cruelty Displayed",
+        "description": "Saint Charlos shoots Judy and takes Marie, demonstrating the absolute power of World Nobles on Sabaody Archipelago.",
+        "significance": "Shows why Sabaody is a dangerous place where Celestial Dragons can act with complete impunity.",
+        "timestamp": "12:00"
+      },
+      {
+        "episodeNumber": 393,
+        "eventId": "ep393-event-007",
+        "eventType": "BATTLE_START",
+        "title": "Zoro Nearly Attacks a Celestial Dragon",
+        "description": "Zoro almost attacks Saint Charlos after being shot at, which would trigger an Admiral dispatch to Sabaody.",
+        "significance": "Demonstrates the danger of the Admiral dispatch protocol that protects World Nobles on the island.",
+        "timestamp": "13:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 385,
+        "episodeEnd": "present",
+        "reason": "Active location with ongoing operations"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["sabaody-park"],
+    "relatedCharacters": ["luffy", "zoro", "charlos", "jewelry-bonney", "peterman"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Sabaody Archipelago"],
+    "culturalSignificance": "Sabaody Archipelago is a lawless place where the World Government's darkest institutions operate openly. The slave trade flourishes here under the protection of the World Nobles, making it a place of both wonder (with its unique bubble ecosystem) and horror (with its human trafficking).",
+    "images": []
+  }
+]
