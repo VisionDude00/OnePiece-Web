@@ -1,0 +1,98 @@
+[
+  {
+    "name": {
+      "english": "Human Auction House",
+      "japanese": "人間オークション会場",
+      "romanized": "Ningen Ōkushon Kaijō"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "PARADISE",
+    "islandName": "Sabaody Archipelago",
+    "debutEpisode": 390,
+    "description": "A slave trading center and auction house located at Grove 1 of the Sabaody Archipelago. The facility is managed by Disco and was owned by Donquixote Doflamingo. It serves as the primary venue for the sale of slaves, including humans, merfolk, and other species to wealthy nobles and collectors.",
+    "episodeAppearances": [396],
+    "keyEvents": [
+      {
+        "episodeNumber": 396,
+        "eventId": "ep396-event-002",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Camie Auctioned as Slave",
+        "description": "The auction house serves as the venue where Camie is brought on stage and auctioned as a mermaid slave, with Saint Charlos bidding 500 million berries.",
+        "significance": "The location represents the epicenter of the slave trade system that the episode condemns.",
+        "timestamp": "06:30"
+      },
+      {
+        "episodeNumber": 396,
+        "eventId": "ep396-event-006",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Luffy Crashes Through the Building",
+        "description": "Luffy and Zoro crash through the wall of the auction house on a flying fish, making a dramatic and destructive entrance.",
+        "significance": "Symbolizes Luffy's complete disregard for the established order and his willingness to literally break through barriers to save his friends.",
+        "timestamp": "13:30"
+      },
+      {
+        "episodeNumber": 396,
+        "eventId": "ep396-event-012",
+        "eventType": "MAJOR_DECISION",
+        "title": "Site of Celestial Dragon Punch",
+        "description": "The auction house becomes the site of one of the most significant events in One Piece when Luffy punches Saint Charlos, triggering the Celestial Dragon Hit-and-Run Incident.",
+        "significance": "This location will forever be associated with the moment Luffy challenged the World Government's authority and sparked events leading to the Summit War.",
+        "timestamp": "19:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 390,
+        "episodeEnd": 405,
+        "reason": "Operating as a slave auction house"
+      }
+    ],
+    "parentLocation": "sabaody-archipelago",
+    "childLocations": [],
+    "relatedCharacters": ["disco", "charlos", "luffy", "camie", "hatchan", "trafalgar-law", "eustass-kid"],
+    "relatedCrews": ["straw-hat-pirates", "kid-pirates", "heart-pirates"],
+    "relatedArcs": ["Sabaody Archipelago"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Sabaody Archipelago",
+      "japanese": "シャボンディ諸島",
+      "romanized": "Shabondi Shotō"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "PARADISE",
+    "islandName": "Sabaody Archipelago",
+    "debutEpisode": 385,
+    "description": "An archipelago located in front of the Red Line. It is the final destination before entering Fish-Man Island and the New World. The archipelago is known for its unique soap bubbles and is a gathering place for pirates, marines, and slave traders.",
+    "episodeAppearances": [396],
+    "keyEvents": [
+      {
+        "episodeNumber": 396,
+        "eventId": "ep396-event-014",
+        "eventType": "WORLD_LORE",
+        "title": "Admiral Kizaru Dispatched to Sabaody",
+        "description": "Following Luffy's attack on Saint Charlos, Admiral Kizaru is dispatched to the Sabaody Archipelago to eliminate the perpetrators.",
+        "significance": "The archipelago becomes the site of an Admiral-level intervention, marking a major escalation in the conflict between the Straw Hats and the World Government.",
+        "timestamp": "21:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 385,
+        "episodeEnd": "present",
+        "reason": "Major hub location"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["human-auction-house"],
+    "relatedCharacters": ["luffy", "charlos", "kizaru"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Sabaody Archipelago"],
+    "images": []
+  }
+]

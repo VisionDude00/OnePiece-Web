@@ -1,0 +1,135 @@
+[
+  {
+    "name": {
+      "english": "Human Auctioning House",
+      "japanese": "人間オークション会場",
+      "romanized": "Ningen Ōkushon Kaijō"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Sabaody Archipelago",
+    "debutEpisode": 395,
+    "debutChapter": 501,
+    "description": "A slave auction house located at Grove 1 of Sabaody Archipelago, where humans and other species are sold as slaves. The building is run by Disco and backed by Donquixote Doflamingo's criminal network.",
+    "episodeAppearances": [395],
+    "keyEvents": [
+      {
+        "episodeNumber": 395,
+        "eventId": "ep395-event-003",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Straw Hats Arrive at Human Auctioning House",
+        "description": "The Straw Hats arrive at the auction house to rescue Camie, learning that Celestial Dragons are present which complicates their rescue plan.",
+        "significance": "This location becomes the central stage for one of the most important confrontations in the Sabaody Archipelago arc.",
+        "timestamp": "08:15"
+      },
+      {
+        "episodeNumber": 395,
+        "eventId": "ep395-event-005",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "The Human Auction Begins",
+        "description": "Disco begins the monthly slave auction, establishing the horrific nature of the slave trade at Sabaody.",
+        "significance": "Introduces the auction mechanics and the dehumanizing pricing system for different types of slaves.",
+        "timestamp": "12:45"
+      },
+      {
+        "episodeNumber": 395,
+        "eventId": "ep395-event-008",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Celestial Dragons Arrive at Auction",
+        "description": "Saint Rosward, Saint Charlos, and Saint Shalria arrive at the auction house as buyers.",
+        "significance": "The presence of World Nobles escalates the danger and prevents the Straw Hats from using force.",
+        "timestamp": "18:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 395,
+        "episodeEnd": 397,
+        "reason": "Operating as a slave auction house"
+      }
+    ],
+    "parentLocation": "sabaody-archipelago",
+    "childLocations": [],
+    "relatedCharacters": ["disco", "saint-charlos", "saint-rosward", "saint-shalria", "nami", "sanji", "franky", "chopper", "eustass-kid", "trafalgar-law", "camie"],
+    "relatedCrews": ["straw-hat-pirates", "kid-pirates", "heart-pirates"],
+    "relatedArcs": ["Sabaody Archipelago"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Marine Headquarters",
+      "japanese": "海軍本部",
+      "romanized": "Kaigun Honbu"
+    },
+    "locationType": "MILITARY_BASE",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Marineford",
+    "debutEpisode": 45,
+    "debutChapter": 96,
+    "description": "The main headquarters of the Marines, where high-ranking officers like Garp receive intelligence and make strategic decisions.",
+    "episodeAppearances": [395],
+    "keyEvents": [
+      {
+        "episodeNumber": 395,
+        "eventId": "ep395-event-002",
+        "eventType": "WORLD_LORE",
+        "title": "Rayleigh Being Sold at Auction Revealed to Garp",
+        "description": "A Marine soldier reports to Vice Admiral Garp that Silvers Rayleigh is being sold at the Sabaody auction, but Garp decides not to intervene.",
+        "significance": "Shows the Marines' strategic restraint as they prepare for war with Whitebeard rather than engaging another legend.",
+        "timestamp": "05:20"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [],
+    "parentLocation": null,
+    "childLocations": [],
+    "relatedCharacters": ["garp"],
+    "relatedCrews": [],
+    "relatedArcs": ["Sabaody Archipelago", "Marineford"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Sabaody Archipelago",
+      "japanese": "シャボンディ諸島",
+      "romanized": "Shabondi Shotō"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Sabaody Archipelago",
+    "debutEpisode": 385,
+    "debutChapter": 496,
+    "description": "A unique archipelago near the Red Line where pirates gather before entering the New World. The island is known for its bubble-making trees and is a hub for the slave trade.",
+    "episodeAppearances": [395],
+    "keyEvents": [
+      {
+        "episodeNumber": 395,
+        "eventId": "ep395-event-001",
+        "eventType": "WORLD_LORE",
+        "title": "Ace's Execution Announced at Sabaody",
+        "description": "News of Ace's impending execution spreads across Sabaody Archipelago, shocking pirates and civilians alike.",
+        "significance": "The announcement reaches the supernovas and sets the stage for the world-changing events to come.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 395,
+        "eventId": "ep395-event-009",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Zoro Lost and Asking for Directions",
+        "description": "Zoro is shown wandering Sabaody, lost and asking pirates for directions to Grove 1.",
+        "significance": "Comedic moment showing Zoro's poor sense of direction while building tension for his eventual arrival.",
+        "timestamp": "19:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [],
+    "parentLocation": null,
+    "childLocations": ["human-auctioning-house"],
+    "relatedCharacters": ["zoro", "x-drake", "nami", "sanji", "franky", "chopper"],
+    "relatedCrews": ["straw-hat-pirates", "kid-pirates", "heart-pirates", "drake-pirates"],
+    "relatedArcs": ["Sabaody Archipelago"],
+    "images": []
+  }
+]
