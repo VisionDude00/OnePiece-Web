@@ -1,0 +1,89 @@
+[
+  {
+    "name": {
+      "english": "Hound Pets",
+      "japanese": "ハウンドペッツ",
+      "romanized": "Haundo Pettsu"
+    },
+    "organizationType": "CRIMINAL_GANG",
+    "debutEpisode": 395,
+    "debutChapter": 501,
+    "episodeAppearances": [395],
+    "description": "A kidnapping gang led by Peterman that operates on Sabaody Archipelago, capturing people to sell to the Human Auctioning House.",
+    "leaders": [
+      {
+        "characterId": "peterman",
+        "role": "Leader",
+        "episodeStart": 395,
+        "episodeEnd": null
+      }
+    ],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 395,
+        "eventId": "ep395-event-010",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Hound Pets Identified as Camie's Kidnappers",
+        "description": "The Hound Pets, led by Peterman, are identified as the gang responsible for kidnapping Camie and delivering her to the auction house.",
+        "significance": "Establishes the criminal network that feeds the slave trade at Sabaody.",
+        "timestamp": "20:45"
+      }
+    ],
+    "headquarters": "sabaody-archipelago",
+    "allies": ["human-auctioning-house"],
+    "enemies": ["straw-hat-pirates"],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 395,
+        "episodeEnd": "unknown"
+      }
+    ]
+  },
+  {
+    "name": {
+      "english": "Human Auctioning House",
+      "japanese": "人間オークション会場",
+      "romanized": "Ningen Ōkushon Kaijō"
+    },
+    "organizationType": "CRIMINAL_ORGANIZATION",
+    "debutEpisode": 395,
+    "debutChapter": 501,
+    "episodeAppearances": [395],
+    "description": "A slave trading organization operating at Grove 1 of Sabaody Archipelago, backed by Donquixote Doflamingo. The organization auctions kidnapped humans and other species to the highest bidder, including World Nobles.",
+    "leaders": [
+      {
+        "characterId": "disco",
+        "role": "Head Auctioneer/Manager",
+        "episodeStart": 395,
+        "episodeEnd": 397
+      }
+    ],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 395,
+        "eventId": "ep395-event-005",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Human Auction Begins",
+        "description": "The Human Auctioning House conducts its monthly slave auction with Disco as auctioneer, selling various kidnapped individuals including Camie.",
+        "significance": "Reveals the full scope of the slave trade operation at Sabaody and its connection to the World Government through the Celestial Dragons.",
+        "timestamp": "12:45"
+      }
+    ],
+    "headquarters": "human-auctioning-house",
+    "allies": ["hound-pets"],
+    "enemies": ["straw-hat-pirates"],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 395,
+        "episodeEnd": 397,
+        "reason": "Operating slave auctions"
+      }
+    ]
+  }
+]

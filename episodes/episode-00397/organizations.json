@@ -1,0 +1,129 @@
+[
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "organizationType": "PIRATE_CREW",
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [397],
+    "captain": "luffy",
+    "members": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky", "brook"],
+    "keyMoments": [
+      {
+        "episodeNumber": 397,
+        "eventId": "ep397-event-001",
+        "momentType": "BATTLE_START",
+        "description": "The crew fights guards at the auction house after Luffy punched a Celestial Dragon.",
+        "significance": "The entire crew unites in the face of overwhelming opposition to save Camie."
+      },
+      {
+        "episodeNumber": 397,
+        "eventId": "ep397-event-002",
+        "momentType": "FIRST_APPEARANCE",
+        "description": "Robin, Brook, and Usopp arrive to complete the crew's reunion at the auction house.",
+        "significance": "All nine Straw Hats are present together during this crisis."
+      }
+    ],
+    "statusInEpisode": "Under attack by guards and surrounded by Marines after assaulting Celestial Dragons",
+    "significantRelationships": [
+      {
+        "targetOrganizationId": "kid-pirates",
+        "relationshipType": "RIVAL",
+        "description": "Kid Pirates observe the Straw Hats' actions at the auction house",
+        "episodeEstablished": 397
+      },
+      {
+        "targetOrganizationId": "heart-pirates",
+        "relationshipType": "NEUTRAL",
+        "description": "Heart Pirates witness the Straw Hats' confrontation with Celestial Dragons",
+        "episodeEstablished": 397
+      }
+    ]
+  },
+  {
+    "name": {
+      "english": "Kid Pirates",
+      "japanese": "キッド海賊団",
+      "romanized": "Kiddo Kaizokudan"
+    },
+    "organizationType": "PIRATE_CREW",
+    "debutEpisode": 392,
+    "debutChapter": 498,
+    "episodeAppearances": [397],
+    "captain": "eustass-kid",
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 397,
+        "eventId": "ep397-event-007",
+        "momentType": "CULTURAL_MOMENT",
+        "description": "Kid Pirates remain in the auction house observing the chaos, with Kid commenting on Luffy's reckless nature.",
+        "significance": "Establishes the Kid Pirates as witnesses to the historic Celestial Dragon assault."
+      },
+      {
+        "episodeNumber": 397,
+        "eventId": "ep397-event-009",
+        "momentType": "POWER_REVEAL",
+        "description": "The Kid Pirates remain conscious when Rayleigh uses Conqueror's Haki.",
+        "significance": "Demonstrates that Kid's crew has strong willpower, resisting Rayleigh's Haki."
+      }
+    ],
+    "statusInEpisode": "Observing the Straw Hats' battle at the auction house",
+    "significantRelationships": [
+      {
+        "targetOrganizationId": "straw-hat-pirates",
+        "relationshipType": "RIVAL",
+        "description": "Kid acknowledges Luffy's reputation while watching events unfold",
+        "episodeEstablished": 397
+      }
+    ]
+  },
+  {
+    "name": {
+      "english": "Heart Pirates",
+      "japanese": "ハートの海賊団",
+      "romanized": "Hāto no Kaizokudan"
+    },
+    "organizationType": "PIRATE_CREW",
+    "debutEpisode": 392,
+    "debutChapter": 498,
+    "episodeAppearances": [397],
+    "captain": "trafalgar-law",
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 397,
+        "eventId": "ep397-event-007",
+        "momentType": "CULTURAL_MOMENT",
+        "description": "Heart Pirates observe the battle, with Law noting that Marines had surrounded the house before the auction began.",
+        "significance": "Shows Law's analytical approach to the situation."
+      },
+      {
+        "episodeNumber": 397,
+        "eventId": "ep397-event-009",
+        "momentType": "POWER_REVEAL",
+        "description": "The Heart Pirates remain conscious during Rayleigh's Conqueror's Haki demonstration.",
+        "significance": "Demonstrates the crew's strong willpower under Law's leadership."
+      },
+      {
+        "episodeNumber": 397,
+        "eventId": "ep397-event-012",
+        "momentType": "WORLD_LORE",
+        "description": "Robin introduces Law to Luffy.",
+        "significance": "First formal acknowledgment between the two future allies."
+      }
+    ],
+    "statusInEpisode": "Observing the chaos at the auction house",
+    "significantRelationships": [
+      {
+        "targetOrganizationId": "straw-hat-pirates",
+        "relationshipType": "NEUTRAL",
+        "description": "Robin introduces Law to Luffy at the auction house",
+        "episodeEstablished": 397
+      }
+    ]
+  }
+]
