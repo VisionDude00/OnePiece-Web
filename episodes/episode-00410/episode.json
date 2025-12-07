@@ -1,0 +1,486 @@
+{
+  "episodeNumber": 410,
+  "episodeTitle": "Everyone Falls in Love! Pirate Empress Hancock",
+  "episodeTitleJapanese": "みんなメロメロ！海賊女帝ハンコック",
+  "episodeTitleRomanized": "Minna Meromero! Kaizoku Jotei Hankokku",
+  "description": "Luffy attempts to leave Amazon Lily to reunite with his crew, but Marguerite attacks him. Meanwhile, Vice-Admiral Momonga arrives to summon Boa Hancock to the upcoming war, informing her of Ace's execution. Hancock refuses and uses her Mero Mero no Mi powers to petrify his crew.",
+  "airDate": "2009-07-19",
+  "airDateJapan": "2009-07-19",
+  "airDateUS": "2009-08-27",
+  "arcName": "Amazon Lily Arc",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Share the World",
+    "artist": "TVXQ (Tohoshinki)",
+    "episodeRange": [395, 425]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Yutaka Nakashima",
+    "screenplay": "Yoshiyuki Suga",
+    "artDirector": "Miyuki Sato",
+    "animation": "Shigefumi Shingaki",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Boa Hancock",
+        "actor": "Kotono Mitsuishi"
+      },
+      {
+        "character": "Marguerite",
+        "actor": "Masumi Asano"
+      },
+      {
+        "character": "Momonga",
+        "actor": "Shinichiro Ohta"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Boa Hancock",
+        "actor": "Lydia Mackay"
+      },
+      {
+        "character": "Marguerite",
+        "actor": "Whitney Rodgers"
+      },
+      {
+        "character": "Momonga",
+        "actor": "Francis Henry"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep410-event-001",
+      "episodeNumber": 410,
+      "timestamp": "03:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Luffy Decides to Leave Amazon Lily",
+      "description": "Luffy expresses his determination to leave Amazon Lily and reunite with his crew. He is set on defeating the enemies who overpowered them at Sabaody Archipelago and refuses to stay on the island despite the dangers.",
+      "significance": "Shows Luffy's unwavering commitment to his crew and sets up his need to escape the island, driving the episode's conflict.",
+      "characterIds": ["luffy", "marguerite"],
+      "locationIds": ["amazon-lily"],
+      "quotes": [
+        {
+          "text": "I have to get back to my crew and defeat those enemies!",
+          "speaker": "Luffy",
+          "context": "Luffy declaring his intention to leave Amazon Lily"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [405, 406, 407, 408, 409],
+      "payoffInEpisodes": [421],
+      "callbacksToEpisodes": [405]
+    },
+    {
+      "id": "ep410-event-002",
+      "episodeNumber": 410,
+      "timestamp": "05:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Marguerite Attacks Luffy",
+      "description": "Marguerite, who had been friendly with Luffy, realizes she cannot afford to maintain this friendship. She attacks him with haki-infused arrows, forcing him to flee into the jungle.",
+      "significance": "Shows the consequences of Amazon Lily's laws and the internal conflict Marguerite faces between friendship and duty to her island's customs.",
+      "characterIds": ["marguerite", "luffy"],
+      "locationIds": ["amazon-lily"],
+      "quotes": [
+        {
+          "text": "I cannot be friendly with you anymore!",
+          "speaker": "Marguerite",
+          "context": "Marguerite explaining why she must attack Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [408, 409],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [408]
+    },
+    {
+      "id": "ep410-event-003",
+      "episodeNumber": 410,
+      "timestamp": "08:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Boa Hancock's Proper Introduction",
+      "description": "Boa Hancock, the Pirate Empress and one of the Seven Warlords of the Sea, is properly introduced as she meets with Vice-Admiral Momonga. She is revealed as the captain of the Kuja Pirates and the Snake Princess of Amazon Lily.",
+      "significance": "Introduces one of the most important characters in the series and establishes her status as a Warlord, setting up her crucial role in the Summit War saga.",
+      "characterIds": ["boa-hancock", "boa-sandersonia", "boa-marigold"],
+      "locationIds": ["marine-ship-momonga"],
+      "crewIds": ["kuja-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [409],
+      "payoffInEpisodes": [411, 412, 413, 414, 415, 416, 421],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep410-event-004",
+      "episodeNumber": 410,
+      "timestamp": "10:15",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Ace's Execution Announcement",
+      "description": "Vice-Admiral Momonga informs Hancock that Portgas D. Ace's execution has been scheduled and that Whitebeard is likely to intervene. This is the first formal announcement of Ace's impending execution to a Warlord.",
+      "significance": "Sets up the central conflict of the Summit War saga. Ace's execution becomes the catalyst for the war at Marineford and Luffy's desperate rescue attempt.",
+      "characterIds": ["momonga", "boa-hancock"],
+      "locationIds": ["marine-ship-momonga"],
+      "quotes": [
+        {
+          "text": "Portgas D. Ace will be executed, and we expect Whitebeard to make his move.",
+          "speaker": "Momonga",
+          "context": "Momonga informing Hancock of the upcoming execution"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [416, 417, 418, 430, 450, 470, 483],
+      "callbacksToEpisodes": [91, 95, 159]
+    },
+    {
+      "id": "ep410-event-005",
+      "episodeNumber": 410,
+      "timestamp": "11:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Warlord Summons for the War",
+      "description": "Momonga orders Hancock to join the Marines in the upcoming war against Whitebeard's forces, threatening to revoke her Warlord status and nullify the peace treaty between the Kuja and the World Government if she refuses.",
+      "significance": "Reveals the gravity of the situation and the political pressure on the Warlords. Shows how the World Government leverages the Warlord system during times of crisis.",
+      "characterIds": ["momonga", "boa-hancock"],
+      "locationIds": ["marine-ship-momonga"],
+      "quotes": [
+        {
+          "text": "If you refuse, you will lose your status as a Warlord and the treaty with the World Government will be nullified!",
+          "speaker": "Momonga",
+          "context": "Momonga threatening Hancock with consequences"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [416, 430, 450, 460],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep410-event-006",
+      "episodeNumber": 410,
+      "timestamp": "14:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Hancock Refuses the Summons",
+      "description": "Hancock boldly refuses Momonga's summons to join the war against Whitebeard, showing no fear of losing her Warlord status. She demands the cargo from Momonga's ship while refusing his orders.",
+      "significance": "Establishes Hancock's defiant and prideful personality. Her refusal demonstrates her independence and disdain for World Government authority despite her Warlord position.",
+      "characterIds": ["boa-hancock", "momonga"],
+      "locationIds": ["marine-ship-momonga"],
+      "quotes": [
+        {
+          "text": "Do as you please. I refuse.",
+          "speaker": "Boa Hancock",
+          "context": "Hancock defiantly refusing Momonga's orders"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [415, 416],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep410-event-007",
+      "episodeNumber": 410,
+      "timestamp": "15:20",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Mero Mero Mellow Debut",
+      "description": "Hancock demonstrates her Mero Mero no Mi Devil Fruit power for the first time, using her signature technique 'Mero Mero Mellow.' She forms a heart shape with her hands and fires heart-shaped beams that petrify all of Momonga's crew who are attracted to her.",
+      "significance": "First demonstration of Hancock's devastating Devil Fruit ability. Establishes her as an incredibly powerful Warlord and introduces the unique emotion-based mechanics of her powers.",
+      "characterIds": ["boa-hancock", "momonga"],
+      "locationIds": ["marine-ship-momonga"],
+      "devilFruitIds": ["mero-mero-no-mi"],
+      "quotes": [
+        {
+          "text": "Mero Mero Mellow!",
+          "speaker": "Boa Hancock",
+          "context": "Hancock using her Devil Fruit power to petrify the Marines"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [411, 412, 413, 414, 415],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep410-event-008",
+      "episodeNumber": 410,
+      "timestamp": "16:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Momonga's Resistance Through Pain",
+      "description": "Vice-Admiral Momonga stabs his own hand with a knife, using the pain to overcome his attraction to Hancock and resist her Mero Mero Mellow ability. He is the only Marine to survive the petrification.",
+      "significance": "Demonstrates Momonga's exceptional willpower and tactical thinking. Reveals a weakness in Hancock's Devil Fruit power - it can be resisted through strong emotions like pain that override attraction.",
+      "characterIds": ["momonga", "boa-hancock"],
+      "locationIds": ["marine-ship-momonga"],
+      "devilFruitIds": ["mero-mero-no-mi"],
+      "quotes": [
+        {
+          "text": "One... is not the same as 'none'!",
+          "speaker": "Momonga",
+          "context": "Momonga defying Hancock despite being alone with his crew petrified"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep410-event-009",
+      "episodeNumber": 410,
+      "timestamp": "18:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Momonga's Two-Day Ultimatum",
+      "description": "Despite his entire crew being turned to stone, Momonga gives Hancock a two-day ultimatum to reconsider and join the war effort, warning that her Warlord title will be stripped if she doesn't comply.",
+      "significance": "Creates a ticking clock for Hancock's decision and sets up the political tension that will influence her actions in upcoming episodes.",
+      "characterIds": ["momonga", "boa-hancock"],
+      "locationIds": ["marine-ship-momonga"],
+      "quotes": [
+        {
+          "text": "You have two days to reconsider. If you do not return, you will be stripped of your title!",
+          "speaker": "Momonga",
+          "context": "Momonga giving Hancock an ultimatum"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [415, 416],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep410-event-010",
+      "episodeNumber": 410,
+      "timestamp": "19:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Hancock's Overwhelming Beauty Established",
+      "description": "The episode repeatedly emphasizes Hancock's extraordinary beauty, showing how even hardened Marines cannot resist her charm. This establishes the foundation for her Devil Fruit's effectiveness and her reputation.",
+      "significance": "Sets up a key character trait that will be important throughout the arc. Her beauty is both a weapon and a source of her arrogance.",
+      "characterIds": ["boa-hancock"],
+      "locationIds": ["marine-ship-momonga"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [409],
+      "payoffInEpisodes": [411, 412, 413],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["boa-hancock", "momonga", "boa-sandersonia", "boa-marigold"],
+    "locations": ["marine-ship-momonga"],
+    "devilFruits": ["mero-mero-no-mi"],
+    "crews": ["kuja-pirates"],
+    "abilities": ["mero-mero-mellow"]
+  },
+  "episodeRelationships": {
+    "setupFor": [411, 412, 413, 414, 415, 416],
+    "payoffFrom": [405, 408, 409],
+    "thematicLinks": [430, 450, 483]
+  },
+  "quotes": [
+    {
+      "text": "I have to get back to my crew and defeat those enemies!",
+      "speaker": "Luffy",
+      "context": "Luffy declaring his intention to leave Amazon Lily",
+      "timestamp": "03:00"
+    },
+    {
+      "text": "I cannot be friendly with you anymore!",
+      "speaker": "Marguerite",
+      "context": "Marguerite explaining why she must attack Luffy",
+      "timestamp": "05:30"
+    },
+    {
+      "text": "Portgas D. Ace will be executed, and we expect Whitebeard to make his move.",
+      "speaker": "Momonga",
+      "context": "Momonga informing Hancock of the upcoming execution",
+      "timestamp": "10:15"
+    },
+    {
+      "text": "Do as you please. I refuse.",
+      "speaker": "Boa Hancock",
+      "context": "Hancock defiantly refusing Momonga's orders",
+      "timestamp": "14:00"
+    },
+    {
+      "text": "Mero Mero Mellow!",
+      "speaker": "Boa Hancock",
+      "context": "Hancock using her Devil Fruit power to petrify the Marines",
+      "timestamp": "15:20"
+    },
+    {
+      "text": "One... is not the same as 'none'!",
+      "speaker": "Momonga",
+      "context": "Momonga defying Hancock despite being alone",
+      "timestamp": "16:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Beauty as Power",
+      "description": "The episode explores how Hancock's extraordinary beauty functions as both a weapon through her Devil Fruit and a tool of manipulation. Her appearance allows her to control others and defy authority.",
+      "symbolism": "Hancock's beauty turning Marines to stone symbolizes the paralyzing effect of desire and the power of charm.",
+      "culturalReferences": ["Medusa and Gorgon mythology - turning people to stone through supernatural means"]
+    },
+    {
+      "theme": "Loyalty and Duty",
+      "description": "Marguerite's internal conflict between her friendship with Luffy and her duty to Amazon Lily's laws reflects the tension between personal feelings and societal obligations.",
+      "symbolism": "Marguerite's haki-infused arrows represent the painful necessity of choosing duty over friendship.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Defiance of Authority",
+      "description": "Hancock's refusal to obey the World Government's summons demonstrates her pride and independence, establishing her as a character who operates by her own rules despite political consequences.",
+      "symbolism": "Hancock turning Momonga's crew to stone symbolizes her rejection of governmental control.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Willpower and Sacrifice",
+      "description": "Momonga stabbing his own hand to resist Hancock's powers demonstrates the theme of self-sacrifice and mental fortitude in the face of overwhelming temptation.",
+      "symbolism": "The self-inflicted wound represents the price of maintaining one's resolve against supernatural influence.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Dramatic", "Foreboding", "Conflicted"],
+  "characterSpotlights": [
+    {
+      "characterId": "boa-hancock",
+      "role": "Major introduction as Pirate Empress and Warlord",
+      "development": "Hancock is established as a beautiful, powerful, and prideful character who defies authority. Her Devil Fruit ability and status as a Warlord are revealed, setting up her importance to the story.",
+      "keyActions": [
+        "Meets with Vice-Admiral Momonga",
+        "Refuses the World Government's summons to war",
+        "Uses Mero Mero Mellow to petrify Momonga's crew",
+        "Demonstrates her overwhelming power and beauty"
+      ],
+      "quotes": ["Do as you please. I refuse.", "Mero Mero Mellow!"]
+    },
+    {
+      "characterId": "momonga",
+      "role": "Marine representative delivering critical message",
+      "development": "Momonga is shown as a dedicated and resilient Vice-Admiral who will go to extreme lengths to complete his mission, including injuring himself to resist Devil Fruit powers.",
+      "keyActions": [
+        "Delivers news of Ace's execution to Hancock",
+        "Orders Hancock to join the war against Whitebeard",
+        "Stabs his own hand to resist Mero Mero Mellow",
+        "Gives Hancock a two-day ultimatum"
+      ],
+      "quotes": ["Portgas D. Ace will be executed, and we expect Whitebeard to make his move.", "One... is not the same as 'none'!"]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Determined escapee",
+      "development": "Luffy's unwavering determination to reunite with his crew is reinforced. His single-minded focus on reaching Sabaody shows his growth in taking responsibility for his crew.",
+      "keyActions": [
+        "Declares his intention to leave Amazon Lily",
+        "Attempts to build a raft",
+        "Flees from Marguerite's attacks"
+      ],
+      "quotes": ["I have to get back to my crew and defeat those enemies!"]
+    },
+    {
+      "characterId": "marguerite",
+      "role": "Conflicted warrior",
+      "development": "Marguerite faces an internal conflict between her growing friendship with Luffy and her duty to Amazon Lily's laws, ultimately choosing duty.",
+      "keyActions": [
+        "Helps Luffy initially",
+        "Realizes she cannot remain friendly with him",
+        "Attacks Luffy with haki-infused arrows"
+      ],
+      "quotes": ["I cannot be friendly with you anymore!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends scenes of Luffy attempting to escape and Marguerite's pursuit for dramatic effect.",
+      "episodeTimestamp": "03:00-07:00",
+      "mangaReference": "Chapter 516",
+      "type": "ANIME_PADDING"
+    },
+    {
+      "difference": "The anime adds additional dialogue and reaction shots during Hancock's confrontation with Momonga.",
+      "episodeTimestamp": "14:00-19:00",
+      "mangaReference": "Chapter 516",
+      "type": "ANIME_PADDING"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the proper introduction of Boa Hancock, who would become one of the most popular characters in One Piece. She briefly appeared at the end of Episode 409.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Boa_Hancock",
+          "title": "Boa Hancock - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-07"
+        }
+      ]
+    },
+    {
+      "fact": "The Mero Mero no Mi is one of the few Devil Fruits whose effectiveness depends on the target's emotional state rather than just physical attributes.",
+      "category": "DEVIL_FRUIT",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Mero_Mero_no_Mi",
+          "title": "Mero Mero no Mi - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-07"
+        }
+      ]
+    },
+    {
+      "fact": "Kotono Mitsuishi, Hancock's Japanese voice actress, is famous for voicing Sailor Moon in the Sailor Moon anime series.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://www.behindthevoiceactors.com/characters/One-Piece/Boa-Hancock/",
+          "title": "Boa Hancock Voice Actors - Behind The Voice Actors",
+          "platform": "Behind The Voice Actors",
+          "accessedAt": "2025-12-07"
+        }
+      ]
+    },
+    {
+      "fact": "This episode aired with a 10.6% TV rating in Japan, ranking 4th for its timeslot.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_410",
+          "title": "Episode 410 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-07"
+        }
+      ]
+    },
+    {
+      "fact": "The announcement of Ace's execution in this episode sets up the Summit War saga, which would become one of the most impactful story arcs in One Piece.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "Momonga's method of resisting Hancock's powers by stabbing himself demonstrates a recurring theme in One Piece: willpower can overcome even supernatural abilities.",
+      "category": "THEME",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
