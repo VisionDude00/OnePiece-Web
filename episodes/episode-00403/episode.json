@@ -1,0 +1,462 @@
+{
+  "episodeNumber": 403,
+  "episodeTitle": "Another Strong Enemy Appears! Broadaxe-Wielding Sentomaru",
+  "episodeTitleJapanese": "さらなる強敵現る！鉞かついだ戦桃丸",
+  "episodeTitleRomanized": "Saranaru Kyōteki Arawaru! Masakari Katsuida Sentōmaru",
+  "description": "After barely defeating a Pacifista, the exhausted Straw Hat Pirates face an even greater threat when Sentomaru arrives with another Pacifista. Forced to split into three groups to escape, the crew faces overwhelming odds as Sentomaru intercepts Luffy, a Pacifista corners Sanji's group, and Admiral Kizaru gravely wounds Zoro.",
+  "airDate": "2009-05-31",
+  "airDateJapan": "2009-05-31",
+  "airDateUS": null,
+  "arcName": "Sabaody Archipelago Arc",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "HIGH",
+  "openingSong": {
+    "title": "Share the World",
+    "artist": "Tohoshinki (TVXQ)",
+    "episodeRange": [395, 425]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Yoshihiro Ueda",
+    "director": "Yoshihiro Ueda",
+    "screenplay": "Yoshiyuki Suga",
+    "artDirector": "Miyuki Sato",
+    "animationSupervisor": "Shigefumi Shingaki",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Brook",
+        "actor": "Cho"
+      },
+      {
+        "character": "Sentomaru",
+        "actor": "Kazue Ikura"
+      },
+      {
+        "character": "Borsalino (Kizaru)",
+        "actor": "Unshō Ishizuka"
+      },
+      {
+        "character": "Eustass Kid",
+        "actor": "Daisuke Namikawa"
+      },
+      {
+        "character": "Trafalgar Law",
+        "actor": "Hiroshi Kamiya"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Sentomaru",
+        "actor": "Greg Ayres"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep403-event-001",
+      "episodeNumber": 403,
+      "timestamp": "04:30",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Straw Hats Defeat Pacifista PX-4",
+      "description": "The Straw Hat Pirates combine their strongest attacks to finally defeat the Pacifista, but the battle leaves them completely exhausted. The crew celebrates briefly before realizing the gravity of their situation.",
+      "significance": "Demonstrates the crew's growth and teamwork, but also foreshadows their vulnerability against multiple threats.",
+      "characterIds": ["luffy", "zoro", "sanji", "nami", "usopp", "chopper", "robin", "franky", "brook"],
+      "locationIds": ["sabaody-archipelago"],
+      "quotes": [
+        {
+          "text": "We did it! We actually beat it!",
+          "speaker": "Usopp",
+          "context": "Celebrating the defeat of the Pacifista"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [402],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep403-event-002",
+      "episodeNumber": 403,
+      "timestamp": "05:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Sentomaru's Debut",
+      "description": "Sentomaru jumps down with another Pacifista (PX-1), introducing himself as 'the strongest guard in the world who will not give out secrets' and Dr. Vegapunk's bodyguard. He reveals the truth about the Pacifistas being weapons developed by Vegapunk.",
+      "significance": "First appearance of a major character who will play important roles throughout the series. Confirms the connection between Pacifistas and Dr. Vegapunk.",
+      "characterIds": ["sentomaru"],
+      "locationIds": ["sabaody-archipelago"],
+      "quotes": [
+        {
+          "text": "I'm Sentomaru, the strongest guard in the world! And I won't tell you anything!",
+          "speaker": "Sentomaru",
+          "context": "Sentomaru's dramatic introduction"
+        },
+        {
+          "text": "You've got some nerve destroying PX-4. Do you have any idea how expensive these things are? One Pacifista costs as much as a Marine battleship!",
+          "speaker": "Sentomaru",
+          "context": "Revealing the value of Pacifistas"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [511, 512, 1089],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep403-event-003",
+      "episodeNumber": 403,
+      "timestamp": "06:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Pacifista PX-1 Arrives",
+      "description": "Sentomaru arrives with Pacifista PX-1, a second Bartholomew Kuma lookalike weapon. The exhausted Straw Hats realize they must face another Pacifista immediately after barely surviving the first.",
+      "significance": "Reveals that multiple Pacifistas exist and escalates the desperate situation for the Straw Hats.",
+      "characterIds": ["sentomaru"],
+      "locationIds": ["sabaody-archipelago"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [402],
+      "payoffInEpisodes": [404],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep403-event-004",
+      "episodeNumber": 403,
+      "timestamp": "08:20",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Luffy Orders the Crew to Split Up",
+      "description": "Recognizing they cannot win against Sentomaru and another Pacifista, Luffy makes the difficult decision to split the crew into three groups to increase their chances of escape. He orders everyone to meet at the Thousand Sunny in three days.",
+      "significance": "A rare moment where Luffy acknowledges they cannot win a fight. This decision leads to the crew's separation and sets up the tragic events to come.",
+      "characterIds": ["luffy", "zoro", "sanji", "nami", "usopp", "chopper", "robin", "franky", "brook"],
+      "locationIds": ["sabaody-archipelago"],
+      "quotes": [
+        {
+          "text": "Listen up! We're splitting into three groups! Meet back at the Sunny in three days!",
+          "speaker": "Luffy",
+          "context": "Luffy's desperate order to split up and escape"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [404, 405],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep403-event-005",
+      "episodeNumber": 403,
+      "timestamp": "09:00",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Three Groups Face Separate Threats",
+      "description": "The crew divides: Nami, Sanji, and Franky flee together; Zoro, Usopp, and Brook form another group; and Luffy, Robin, and Chopper make the third. Each group immediately faces overwhelming opposition.",
+      "significance": "The separation of the crew makes them vulnerable to individual attacks and prevents them from combining their strength.",
+      "characterIds": ["luffy", "zoro", "sanji", "nami", "usopp", "chopper", "robin", "franky", "brook"],
+      "locationIds": ["sabaody-archipelago"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [404, 405],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep403-event-006",
+      "episodeNumber": 403,
+      "timestamp": "11:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Sentomaru Uses Ashigara Dokkoi",
+      "description": "Sentomaru demonstrates his fighting ability by using Ashigara Dokkoi, an open-palm strike enhanced with Armament Haki that doesn't need to physically connect to cause devastating damage. Luffy is sent flying despite trying to counter with Gomu Gomu no Gatling.",
+      "significance": "First demonstration of Sentomaru's combat prowess and one of the early displays of advanced Haki usage in the series.",
+      "characterIds": ["sentomaru", "luffy"],
+      "locationIds": ["sabaody-archipelago"],
+      "devilFruitIds": [],
+      "quotes": [
+        {
+          "text": "Ashigara Dokkoi!",
+          "speaker": "Sentomaru",
+          "context": "Sentomaru's signature attack sending Luffy flying"
+        },
+        {
+          "text": "For the record, I'm not a Devil Fruit user!",
+          "speaker": "Sentomaru",
+          "context": "Explaining his abilities are from Haki, not a Devil Fruit"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep403-event-007",
+      "episodeNumber": 403,
+      "timestamp": "14:15",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "PX-1 Corners Sanji's Group",
+      "description": "The Pacifista PX-1 destroys a bridge and cuts off Sanji, Nami, and Franky's escape route. The group prepares to fight despite their exhaustion.",
+      "significance": "Shows the relentless pursuit by the Navy's weapons and the crew's increasing desperation.",
+      "characterIds": ["sanji", "nami", "franky"],
+      "locationIds": ["sabaody-archipelago"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [404],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep403-event-008",
+      "episodeNumber": 403,
+      "timestamp": "16:45",
+      "eventType": "BATTLE_START",
+      "severity": "CRITICAL",
+      "title": "Kizaru Attacks Zoro",
+      "description": "Admiral Kizaru intercepts Zoro's group as they flee. He fires a light beam that gravely wounds Zoro, then stands over him preparing to finish him off with a devastating light-powered stomp.",
+      "significance": "Demonstrates the overwhelming power gap between the Straw Hats and an Admiral. This near-death moment for Zoro sets up one of the most traumatic arcs in One Piece.",
+      "characterIds": ["kizaru", "zoro", "usopp", "brook"],
+      "locationIds": ["sabaody-archipelago"],
+      "quotes": [
+        {
+          "text": "Have you ever been kicked at the speed of light?",
+          "speaker": "Kizaru",
+          "context": "Kizaru's iconic line before attacking"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [398, 399, 400, 401, 402],
+      "payoffInEpisodes": [404, 405],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep403-event-009",
+      "episodeNumber": 403,
+      "timestamp": "13:00",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Kid and Law Pirates vs Pacifista",
+      "description": "In anime-original extended scenes, Eustass Kid and Trafalgar Law encounter a Pacifista. The robot fires a laser from its mouth, hitting Kid's leg. Despite Kid telling Law to stay back, both captains prepare to fight together against the Pacifista.",
+      "significance": "Expands on the manga by showing more of the Supernova pirates' struggles, foreshadowing future alliances and the widespread threat of the Pacifistas.",
+      "characterIds": ["eustass-kid", "trafalgar-law"],
+      "locationIds": ["sabaody-archipelago"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [398, 399],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep403-event-010",
+      "episodeNumber": 403,
+      "timestamp": "03:00",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Combined Straw Hat Techniques Against PX-4",
+      "description": "The episode opens showing the final moments of the battle against PX-4, with the crew using their strongest techniques: Chopper's Blizzard Rose, Franky's Strong Hammer and Franky Boxing, Robin's Spider Net and Shock, Brook's Swallow Bond en Avant, Usopp's Atlas Comet, Nami's Thunder Lance Tempo, Sanji's Diable Jambe Flambe Shot, and Zoro's Asura Nine Lightning Strikes.",
+      "significance": "Showcases how far each crew member has developed their abilities and the power of their teamwork.",
+      "characterIds": ["luffy", "zoro", "sanji", "nami", "usopp", "chopper", "robin", "franky", "brook"],
+      "locationIds": ["sabaody-archipelago"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [402],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [377]
+    }
+  ],
+  "debuts": {
+    "characters": ["sentomaru"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["ashigara-dokkoi"]
+  },
+  "episodeRelationships": {
+    "setupFor": [404, 405],
+    "payoffFrom": [398, 399, 400, 401, 402],
+    "thematicLinks": [151, 377, 511, 512]
+  },
+  "quotes": [
+    {
+      "text": "I'm Sentomaru, the strongest guard in the world! And I won't tell you anything!",
+      "speaker": "Sentomaru",
+      "context": "Sentomaru's introduction",
+      "timestamp": "05:15"
+    },
+    {
+      "text": "Listen up! We're splitting into three groups! Meet back at the Sunny in three days!",
+      "speaker": "Luffy",
+      "context": "Luffy's desperate escape plan",
+      "timestamp": "08:20"
+    },
+    {
+      "text": "Have you ever been kicked at the speed of light?",
+      "speaker": "Kizaru",
+      "context": "Kizaru before attacking Zoro",
+      "timestamp": "16:45"
+    },
+    {
+      "text": "For the record, I'm not a Devil Fruit user!",
+      "speaker": "Sentomaru",
+      "context": "Revealing his power comes from Haki",
+      "timestamp": "11:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Overwhelming Odds",
+      "description": "The episode emphasizes the crushing reality of facing multiple powerful enemies while exhausted, forcing even Luffy to admit they cannot win.",
+      "symbolism": "The arrival of Sentomaru and PX-1 immediately after defeating PX-4 symbolizes the relentless and overwhelming power of the World Government.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Desperation and Survival",
+      "description": "For the first time, the Straw Hats are forced to split up and flee rather than fight together, marking a turning point in the series.",
+      "symbolism": "The separation of the crew into three groups represents the breaking of their unity and foreshadows their complete separation.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Power Gap",
+      "description": "The episode starkly illustrates how outmatched the Straw Hats are against Admirals and advanced Navy technology.",
+      "symbolism": "Kizaru effortlessly defeating Zoro demonstrates the vast difference between the Straw Hats' current power level and the true forces of the world.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Desperate", "Tense", "Overwhelming", "Tragic"],
+  "characterSpotlights": [
+    {
+      "characterId": "sentomaru",
+      "role": "Antagonist debut",
+      "development": "Introduced as Dr. Vegapunk's bodyguard and a formidable combatant who uses Haki. Claims to have the tightest lips in the world while simultaneously revealing information.",
+      "keyActions": [
+        "Arrives with PX-1 after the Straw Hats defeat PX-4",
+        "Reveals information about Pacifistas and Vegapunk",
+        "Attacks Luffy with Ashigara Dokkoi",
+        "Demonstrates advanced Haki abilities"
+      ],
+      "quotes": ["I'm Sentomaru, the strongest guard in the world! And I won't tell you anything!"]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Captain making difficult decisions",
+      "development": "Shows maturity by recognizing when they cannot win and ordering a strategic retreat, a significant growth moment for his character.",
+      "keyActions": [
+        "Orders the crew to split into three groups",
+        "Sets a rendezvous point at the Sunny in three days",
+        "Attempts to fight Sentomaru but is overwhelmed"
+      ],
+      "quotes": ["Listen up! We're splitting into three groups! Meet back at the Sunny in three days!"]
+    },
+    {
+      "characterId": "zoro",
+      "role": "Sacrificial protector",
+      "development": "Takes on the role of protecting his group but is gravely wounded by Kizaru, facing a life-threatening situation.",
+      "keyActions": [
+        "Leads one of the three escape groups",
+        "Faces Admiral Kizaru",
+        "Is gravely wounded protecting his crew"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime significantly expands the battle sequences between the Kid and Law Pirates against the Pacifista, showing more of their techniques and struggle.",
+      "episodeTimestamp": "13:00",
+      "mangaReference": "Chapter 511",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "The combined attack sequence against PX-4 is extended with more detailed animation and individual technique showcases.",
+      "episodeTimestamp": "03:00",
+      "mangaReference": "Chapter 510",
+      "type": "EXPANDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode was originally planned to be Funimation's first simulcast episode, but the release was delayed due to an early leak.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "Sentomaru's character design is based on Kintaro (Golden Boy), a legendary Japanese folk hero who was raised on Mount Ashigara - which is referenced in his attack name 'Ashigara Dokkoi'.",
+      "category": "CHARACTER_DESIGN",
+      "sources": []
+    },
+    {
+      "fact": "Kazue Ikura, Sentomaru's Japanese voice actor, is known for voicing many young boy characters, creating an interesting contrast with Greg Ayres' high-pitched English performance.",
+      "category": "VOICE_ACTING",
+      "sources": []
+    },
+    {
+      "fact": "This episode marks one of the first clear demonstrations of Armament Haki in the anime, though it wouldn't be formally explained until much later in the series.",
+      "category": "FORESHADOWING",
+      "sources": []
+    },
+    {
+      "fact": "The opening theme 'Share the World' by Tohoshinki became the best-selling One Piece theme song to date and gave the group their sixth number one single on the Oricon charts.",
+      "category": "MUSIC",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": [],
+  "mangaChapters": [
+    {
+      "chapterNumber": 510,
+      "pages": "11-19",
+      "volumeNumber": 52
+    },
+    {
+      "chapterNumber": 511,
+      "pages": "2-15",
+      "volumeNumber": 52
+    }
+  ]
+}

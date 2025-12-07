@@ -1,0 +1,463 @@
+{
+  "episodeNumber": 401,
+  "episodeTitle": "No Escape!? Admiral Kizaru's Light Speed Kick!!",
+  "description": "Admiral Kizaru arrives at Sabaody Archipelago and demonstrates his devastating light-based abilities. The Supernova pirates face overwhelming odds as Kizaru confronts Basil Hawkins while multiple Pacifista units battle Urouge, X Drake, Kid, Law, and the Straw Hat Pirates across the island.",
+  "airDate": "2009-05-17",
+  "airDateJapan": "2009-05-17",
+  "airDateUS": "2015-09-01",
+  "arcName": "Sabaody Archipelago Arc",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Share the World",
+    "artist": "Tohoshinki (TVXQ)",
+    "episodeRange": [395, 425]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Yutaka Nakashima",
+    "screenplay": "Jin Tanaka",
+    "artDirector": "Ryūji Yoshiike",
+    "keyAnimators": ["Katsumi Ishizuka"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Admiral Kizaru (Borsalino)",
+        "actor": "Unshō Ishizuka"
+      },
+      {
+        "character": "Basil Hawkins",
+        "actor": "Shigenori Souya"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Admiral Kizaru (Borsalino)",
+        "actor": "Ray Hurd"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep401-event-001",
+      "episodeNumber": 401,
+      "timestamp": "03:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "CRITICAL",
+      "title": "Admiral Kizaru Arrives at Sabaody Archipelago",
+      "description": "Admiral Kizaru makes his formal appearance at the Sabaody Archipelago, seeking information about Sentomaru. Pirates attempt to flee from the admiral, recognizing the overwhelming threat he poses to all crews on the island.",
+      "significance": "Marks the arrival of one of the Navy's most powerful admirals, escalating the Sabaody crisis to a catastrophic level for all pirate crews present.",
+      "characterIds": ["kizaru"],
+      "locationIds": ["sabaody-archipelago", "grove-27"],
+      "quotes": [
+        {
+          "text": "Can you tell me where I can find someone named Sentomaru?",
+          "speaker": "Kizaru",
+          "context": "Kizaru casually asking pirates about Sentomaru's location"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [398],
+      "payoffInEpisodes": [402, 403],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep401-event-002",
+      "episodeNumber": 401,
+      "timestamp": "04:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Kizaru Demonstrates Pika Pika no Mi Powers",
+      "description": "A pirate shoots at Kizaru, but the bullet phases harmlessly through his body of light. Kizaru then unleashes a devastating light-speed kick that not only strikes between the pirates but also topples an entire mangrove tree in the process.",
+      "significance": "First demonstration of Admiral Kizaru's Logia-type Devil Fruit abilities, showcasing both his intangibility and offensive power that can destroy the island's massive trees.",
+      "characterIds": ["kizaru"],
+      "devilFruitIds": ["pika-pika-no-mi"],
+      "locationIds": ["grove-27"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [402],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep401-event-003",
+      "episodeNumber": 401,
+      "timestamp": "06:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Hawkins Predicts His Survival Against Kizaru",
+      "description": "Basil Hawkins uses his fortune-telling abilities to calculate his odds against Admiral Kizaru. He determines that direct combat has 0% success rate, general chance of success is only 12%, but his chance of successful evasion is 76%. Despite his crew's pleas to flee, Hawkins confidently states he is not destined to die today.",
+      "significance": "Demonstrates Hawkins' unique approach to combat through probability calculation and foreshadows his Devil Fruit's defensive capabilities.",
+      "characterIds": ["basil-hawkins", "kizaru"],
+      "locationIds": ["sabaody-archipelago"],
+      "quotes": [
+        {
+          "text": "Direct combat: 0%. General chance of success: 12%. Chance of successful evasion: 76%. I will not die here today.",
+          "speaker": "Basil Hawkins",
+          "context": "Hawkins calculating his odds against Admiral Kizaru using tarot cards"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [402],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep401-event-004",
+      "episodeNumber": 401,
+      "timestamp": "07:30",
+      "eventType": "BATTLE_START",
+      "severity": "CRITICAL",
+      "title": "Kizaru vs. Basil Hawkins Battle Begins",
+      "description": "Admiral Kizaru attacks Basil Hawkins with his light-speed kick. Hawkins survives the attack thanks to his Wara Wara no Mi powers, which allow him to redirect damage through straw voodoo dolls. The Hawkins Pirates watch in awe as their captain evades the admiral's devastating attacks.",
+      "significance": "First major confrontation between a Supernova captain and an Admiral, demonstrating the vast power gap while also showcasing Hawkins' unique defensive abilities.",
+      "characterIds": ["kizaru", "basil-hawkins"],
+      "devilFruitIds": ["pika-pika-no-mi", "wara-wara-no-mi"],
+      "locationIds": ["sabaody-archipelago"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [402],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep401-event-005",
+      "episodeNumber": 401,
+      "timestamp": "09:00",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Hawkins Uses Straw Man Damage Redirection",
+      "description": "Basil Hawkins demonstrates his Wara Wara no Mi abilities by using straw voodoo dolls to redirect Kizaru's attacks to other people. Each time Kizaru strikes Hawkins, the damage transfers to someone connected to one of his straw dolls, leaving Hawkins unharmed.",
+      "significance": "Reveals the unique defensive mechanism of Hawkins' Devil Fruit, which allows him to survive attacks that would be fatal to other pirates.",
+      "characterIds": ["basil-hawkins"],
+      "devilFruitIds": ["wara-wara-no-mi"],
+      "locationIds": ["sabaody-archipelago"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [402],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep401-event-006",
+      "episodeNumber": 401,
+      "timestamp": "11:20",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Urouge and X Drake Fight Pacifista",
+      "description": "Mad Monk Urouge and X Drake engage in battle against a Pacifista unit. Urouge attempts to flee from the chaos but is attacked by the cyborg and thrown into the fight between Kizaru and Hawkins.",
+      "significance": "Introduces the Supernovas' struggles against the Marine's Pacifista weapons, highlighting the overwhelming force deployed against the pirates.",
+      "characterIds": ["urouge", "x-drake"],
+      "locationIds": ["sabaody-archipelago"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [400],
+      "payoffInEpisodes": [402],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep401-event-007",
+      "episodeNumber": 401,
+      "timestamp": "12:45",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "X Drake Assists with Powerful Kick",
+      "description": "X Drake rushes to help Urouge against the Pacifista, delivering a strong kick that knocks the cyborg back. This demonstrates Drake's formidable physical strength even without using his Devil Fruit transformation.",
+      "significance": "Shows X Drake's combat capabilities and establishes the temporary alliance between Supernovas against the common threat.",
+      "characterIds": ["x-drake"],
+      "locationIds": ["sabaody-archipelago"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep401-event-008",
+      "episodeNumber": 401,
+      "timestamp": "13:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Urouge's Muscle Expansion Ability",
+      "description": "Using his Devil Fruit abilities, Urouge's muscle mass expands dramatically, growing large enough to match the Pacifista in height and strength. He lands powerful blows on the cyborg, gaining the upper hand temporarily before it shoots a laser beam through his shoulder.",
+      "significance": "First full display of Urouge's unique Devil Fruit power that converts damage received into increased size and strength.",
+      "characterIds": ["urouge"],
+      "locationIds": ["sabaody-archipelago"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep401-event-009",
+      "episodeNumber": 401,
+      "timestamp": "15:00",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Kid and Law Continue Pacifista Battle",
+      "description": "Eustass Kid and Trafalgar Law are shown continuing their battle against another Pacifista unit elsewhere on the Archipelago. The episode shows multiple simultaneous battles occurring across different groves.",
+      "significance": "Demonstrates the coordinated Marine assault deploying multiple Pacifista units to attack all Supernova crews simultaneously.",
+      "characterIds": ["eustass-kid", "trafalgar-law"],
+      "locationIds": ["sabaody-archipelago"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [400],
+      "payoffInEpisodes": [402],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep401-event-010",
+      "episodeNumber": 401,
+      "timestamp": "16:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Straw Hat Pirates Encounter Pacifista",
+      "description": "The Straw Hat Pirates come face to face with a third Pacifista unit at Grove 12. As Usopp tries to convince Luffy not to return to the amusement park, the cyborg appears before them. Sanji warns Luffy about an incoming shockwave attack, but the Pacifista surprises them by shooting a laser instead.",
+      "significance": "Brings the Straw Hat crew into direct conflict with the Pacifista threat, escalating their immediate danger on the island.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji"],
+      "locationIds": ["sabaody-archipelago", "grove-12"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [400],
+      "payoffInEpisodes": [402, 403],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep401-event-011",
+      "episodeNumber": 401,
+      "timestamp": "19:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Sentomaru's Silhouette Appears",
+      "description": "A mysterious figure wielding a giant broadaxe is shown waiting for a call. This silhouette teases the arrival of Sentomaru, the person Kizaru has been seeking, though his full appearance and confrontation will come in subsequent episodes.",
+      "significance": "Foreshadows the arrival of another powerful Marine force that will further complicate the pirates' situation at Sabaody.",
+      "characterIds": ["sentomaru"],
+      "locationIds": ["sabaody-archipelago"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [402, 403],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep401-event-012",
+      "episodeNumber": 401,
+      "timestamp": "20:15",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MAJOR",
+      "title": "Multiple Kuma-Like Figures Across Archipelago",
+      "description": "The episode reveals that multiple Pacifista units resembling Bartholomew Kuma are appearing all over the Sabaody Archipelago, including before the escaping Straw Hat crew. This widespread deployment creates chaos across all groves.",
+      "significance": "Establishes the scale of the Marine operation and the seemingly inescapable trap set for all pirate crews on Sabaody.",
+      "characterIds": [],
+      "locationIds": ["sabaody-archipelago"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [400],
+      "payoffInEpisodes": [402, 403],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["sentomaru"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["pika-pika-no-mi-light-speed-kick", "wara-wara-damage-redirection", "urouge-muscle-expansion"]
+  },
+  "episodeRelationships": {
+    "setupFor": [402, 403, 404],
+    "payoffFrom": [398, 399, 400],
+    "thematicLinks": [511, 512]
+  },
+  "quotes": [
+    {
+      "text": "Can you tell me where I can find someone named Sentomaru?",
+      "speaker": "Kizaru",
+      "context": "Kizaru casually asking pirates about Sentomaru's location",
+      "timestamp": "03:45"
+    },
+    {
+      "text": "Direct combat: 0%. General chance of success: 12%. Chance of successful evasion: 76%. I will not die here today.",
+      "speaker": "Basil Hawkins",
+      "context": "Hawkins calculating his odds against Admiral Kizaru using tarot cards",
+      "timestamp": "06:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Overwhelming Power",
+      "description": "The episode emphasizes the vast power gap between the Navy's top forces and even the strongest rookie pirates. Kizaru's casual dominance and the Pacifistas' relentless attacks create a sense of hopelessness.",
+      "symbolism": "Kizaru's light represents the blinding, inescapable power of Marine justice, while the toppled mangrove symbolizes how easily the establishment can destroy the pirates' sanctuary.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Survival Against Impossible Odds",
+      "description": "Each Supernova crew demonstrates their unique abilities and strategies to survive against enemies far stronger than themselves, showcasing resilience and creativity in desperate circumstances.",
+      "symbolism": "Hawkins' fortune-telling represents the pirates' attempts to find any path to survival, even when victory seems impossible.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Cost of Defying Authority",
+      "description": "The massive Marine response to the Celestial Dragon incident shows the severe consequences of challenging the World Government's authority.",
+      "symbolism": "The simultaneous battles across multiple groves represent the inescapable net of justice closing in on all who defied the world's order.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Desperate", "Overwhelming", "Suspenseful"],
+  "characterSpotlights": [
+    {
+      "characterId": "kizaru",
+      "role": "Antagonist - Primary Threat",
+      "development": "Admiral Kizaru is introduced as a terrifyingly powerful force of nature, casual and unhurried despite his devastating abilities. His light-based powers and relaxed demeanor create an unsettling contrast.",
+      "keyActions": [
+        "Arrives at Sabaody seeking Sentomaru",
+        "Phases through bullets effortlessly",
+        "Destroys a mangrove with a light-speed kick",
+        "Engages Basil Hawkins in combat"
+      ],
+      "quotes": ["Can you tell me where I can find someone named Sentomaru?"]
+    },
+    {
+      "characterId": "basil-hawkins",
+      "role": "Featured Supernova",
+      "development": "Hawkins demonstrates his unique fortune-telling abilities and shows remarkable composure when facing an Admiral, trusting in his predictions even when his crew panics.",
+      "keyActions": [
+        "Calculates odds against Kizaru using tarot cards",
+        "Refuses to flee despite crew's pleas",
+        "Survives Kizaru's attacks using straw voodoo dolls",
+        "Demonstrates Wara Wara no Mi damage redirection"
+      ],
+      "quotes": ["Direct combat: 0%. General chance of success: 12%. Chance of successful evasion: 76%. I will not die here today."]
+    },
+    {
+      "characterId": "urouge",
+      "role": "Featured Supernova",
+      "development": "Urouge shows his combat abilities and his Devil Fruit power that converts damage into size and strength, though even this proves insufficient against the Pacifista's laser.",
+      "keyActions": [
+        "Attempts to flee but is attacked by Pacifista",
+        "Expands muscle mass to match Pacifista's size",
+        "Lands powerful blows on the cyborg",
+        "Takes laser damage through the shoulder"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The episode adapts portions of both Chapter 507 (pages 13-19) and Chapter 508 (pages 2-19), combining events from two chapters into one episode.",
+      "episodeTimestamp": "N/A",
+      "mangaReference": "Chapters 507-508",
+      "type": "PACING_CHANGE"
+    },
+    {
+      "difference": "The character Faust appears in the corresponding manga chapters but does not appear in this episode.",
+      "episodeTimestamp": "N/A",
+      "mangaReference": "Chapters 507-508",
+      "type": "ANIME_OMISSION"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode achieved a TV rating of 10.6% in Japan, ranking 4th in its time slot.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_401",
+          "title": "Episode 401 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-07"
+        }
+      ]
+    },
+    {
+      "fact": "The next episode's preview was shortened from its standard length.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_401",
+          "title": "Episode 401 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-07"
+        }
+      ]
+    },
+    {
+      "fact": "Unshō Ishizuka, who voiced Admiral Kizaru in this episode, passed away in August 2018. Ryōtarō Okiayu later took over the role.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://www.animenewsnetwork.com/news/2019-04-21/ryotaro-okiayu-replaces-late-unsho-ishizuka-as-one-piece-kizaru-borsalino/.145969",
+          "title": "Ryotaro Okiayu Replaces Late Unshō Ishizuka as One Piece's Kizaru/Borsalino",
+          "platform": "Anime News Network",
+          "accessedAt": "2025-12-07"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 401 is based on Chapters 507 (titled 'Kizaru Arrives') and 508 (titled 'Island of Carnage').",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chapter_507",
+          "title": "Chapter 507 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-07"
+        }
+      ]
+    },
+    {
+      "fact": "One Piece stopped featuring ending themes from Episode 279 onwards. Episode 401 only has the opening theme 'Share the World', which was extended to 150 seconds.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://anime.stackexchange.com/questions/175/why-did-the-anime-stop-having-ending-songs-since-episode-279",
+          "title": "Why did the anime stop having ending songs since episode 279?",
+          "platform": "Stack Exchange",
+          "accessedAt": "2025-12-07"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
