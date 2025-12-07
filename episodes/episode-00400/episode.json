@@ -1,0 +1,542 @@
+{
+  "episodeNumber": 400,
+  "episodeTitle": "Roger and Rayleigh - The King of the Pirates and His Right Hand Man",
+  "episodeTitleJapanese": "ロジャーとレイリー　海賊王とその右腕",
+  "episodeTitleRomanized": "Rojā to Reirī - Kaizoku Ō to sono Migiude",
+  "description": "At Shakky's bar, Rayleigh reveals his past as Gol D. Roger's first mate and the truth about the Pirate King's final journey. Robin asks about the Void Century, but chooses to discover the truth herself. Meanwhile, Admiral Kizaru arrives at Sabaody Archipelago.",
+  "airDate": "2009-05-10",
+  "airDateJapan": "2009-05-10",
+  "airDateUS": "2009-08-24",
+  "arcName": "Sabaody Archipelago Arc",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Share the World",
+    "artist": "Tohoshinki (TVXQ)",
+    "episodeRange": [395, 425]
+  },
+  "endingSong": null,
+  "credits": {
+    "director": "Katsumi Tokoro",
+    "animationDirector": "Kenji Yokoyama",
+    "artDirection": "Miho Shiraishi",
+    "screenplay": "Yoshiyuki Suga",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Brook",
+        "actor": "Chō"
+      },
+      {
+        "character": "Silvers Rayleigh",
+        "actor": "Keiichi Sonobe"
+      },
+      {
+        "character": "Gol D. Roger",
+        "actor": "Chikao Ōtsuka"
+      },
+      {
+        "character": "Borsalino (Kizaru)",
+        "actor": "Unshō Ishizuka"
+      },
+      {
+        "character": "Shakuyaku",
+        "actor": "Reiko Kiuchi"
+      },
+      {
+        "character": "Camie",
+        "actor": "Haruna Ikezawa"
+      },
+      {
+        "character": "Hatchan",
+        "actor": "Toshiyuki Morikawa"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Silvers Rayleigh",
+        "actor": "Bruce Carey"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep400-event-001",
+      "episodeNumber": 400,
+      "timestamp": "03:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Kizaru's Dramatic Arrival at Sabaody",
+      "description": "Admiral Kizaru arrives at Sabaody Archipelago by riding atop a cannonball, landing in Grove 27 with a frightening explosion that terrifies nearby pirates. He announces his presence to Marine Headquarters via his wrist Den Den Mushi.",
+      "significance": "This marks Kizaru's formal introduction to the Sabaody Arc and signals the Marines' response to the Celestial Dragon incident, escalating the threat level for all pirates on the island.",
+      "characterIds": ["kizaru"],
+      "locationIds": ["sabaody-archipelago", "grove-27"],
+      "devilFruitIds": ["pika-pika-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [396, 397, 398],
+      "payoffInEpisodes": [401, 402, 403, 404, 405],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep400-event-002",
+      "episodeNumber": 400,
+      "timestamp": "05:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Rayleigh Reveals His Identity as Roger's First Mate",
+      "description": "At Shakky's bar, Silvers Rayleigh reveals to the Straw Hat Pirates that he served as the vice-captain and first mate of the legendary Gol D. Roger's crew, the Roger Pirates.",
+      "significance": "This revelation connects the Straw Hats directly to the Pirate King's legacy and establishes Rayleigh as one of the most important historical figures in the One Piece world.",
+      "characterIds": ["rayleigh", "luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky", "brook"],
+      "locationIds": ["shakkys-bar"],
+      "crewIds": ["roger-pirates", "straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "I was the vice-captain and first mate of the Roger Pirates.",
+          "speaker": "Rayleigh",
+          "context": "Rayleigh reveals his past to the Straw Hats"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [392, 394],
+      "payoffInEpisodes": [597, 598, 599],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep400-event-003",
+      "episodeNumber": 400,
+      "timestamp": "08:45",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Roger's Illness and Voluntary Surrender",
+      "description": "Rayleigh reveals that Gol D. Roger was never captured by the Marines. Instead, Roger contracted an incurable disease four years before his execution and voluntarily turned himself in one year after disbanding his crew.",
+      "significance": "This revelation completely rewrites the official story of Roger's capture and execution, showing that Roger orchestrated his own death to spark the Great Pirate Era.",
+      "characterIds": ["rayleigh", "roger"],
+      "quotes": [
+        {
+          "text": "Roger was never captured. He turned himself in.",
+          "speaker": "Rayleigh",
+          "context": "Rayleigh reveals the truth about Roger's surrender"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [459, 460, 461],
+      "callbacksToEpisodes": [1]
+    },
+    {
+      "id": "ep400-event-004",
+      "episodeNumber": 400,
+      "timestamp": "10:20",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Crocus Joins Roger's Final Journey",
+      "description": "Rayleigh explains that when Roger's crew reached the Twin Capes at the entrance to the Grand Line, they encountered Crocus, the lighthouse keeper. Roger asked Crocus to join them as the ship's doctor to help manage his incurable disease during his final voyage.",
+      "significance": "This reveals Crocus's connection to the Pirate King and explains why he was at Twin Capes. It also shows that Roger knew he was dying when he began his final journey to conquer the Grand Line.",
+      "characterIds": ["rayleigh", "roger", "crocus"],
+      "locationIds": ["twin-capes"],
+      "crewIds": ["roger-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [62, 63],
+      "payoffInEpisodes": [459],
+      "callbacksToEpisodes": [62, 63]
+    },
+    {
+      "id": "ep400-event-005",
+      "episodeNumber": 400,
+      "timestamp": "12:00",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Shanks and Buggy Confirmed as Roger Pirates Apprentices",
+      "description": "Rayleigh confirms that both Shanks and Buggy served as apprentices aboard the Oro Jackson, Roger's ship. He mentions that Shanks met him ten years ago and told him about a boy in East Blue who said the same things as their captain.",
+      "significance": "This officially confirms Shanks and Buggy's connection to the Pirate King and reveals that Shanks has been aware of Luffy's potential connection to Roger's will since their first meeting.",
+      "characterIds": ["rayleigh", "shanks", "buggy", "roger", "luffy"],
+      "crewIds": ["roger-pirates"],
+      "quotes": [
+        {
+          "text": "He told me about a kid in East Blue who said the same things as our captain.",
+          "speaker": "Rayleigh",
+          "context": "Rayleigh recounts Shanks telling him about Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [4, 8, 45],
+      "payoffInEpisodes": [459],
+      "callbacksToEpisodes": [4, 8]
+    },
+    {
+      "id": "ep400-event-006",
+      "episodeNumber": 400,
+      "timestamp": "14:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "The Great Pirate Era's True Origin",
+      "description": "Rayleigh explains that after conquering the Grand Line, Roger disbanded his crew and voluntarily turned himself in to the Marines. The Marines made a public spectacle of his execution, but Roger's final words sparked what became known as the Great Pirate Era.",
+      "significance": "This reveals that Roger intentionally created the Great Pirate Era through his execution speech, fundamentally shaping the world of One Piece and inspiring countless pirates including Luffy.",
+      "characterIds": ["rayleigh", "roger"],
+      "quotes": [
+        {
+          "text": "Roger loved flashy things. That's why he enjoyed his title as Pirate King, even though it was meaningless since he was about to die.",
+          "speaker": "Rayleigh",
+          "context": "Rayleigh describes Roger's personality"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [1, 48],
+      "payoffInEpisodes": [459, 460],
+      "callbacksToEpisodes": [1, 48]
+    },
+    {
+      "id": "ep400-event-007",
+      "episodeNumber": 400,
+      "timestamp": "16:45",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Robin Asks About the Void Century",
+      "description": "Robin reveals to Rayleigh that she found a Poneglyph in Skypiea with a message from Gol D. Roger, then asks if he knows about the Void Century. Rayleigh confirms that the Roger Pirates learned everything about the Void Century, the Ancient Weapons, and the meaning of the Will of D.",
+      "significance": "This is the first confirmation that someone alive knows the complete truth about the Void Century, raising the stakes for Robin's quest and the overall mystery of the series.",
+      "characterIds": ["robin", "rayleigh", "roger"],
+      "quotes": [
+        {
+          "text": "Yes, we know. We learned everything.",
+          "speaker": "Rayleigh",
+          "context": "Rayleigh confirms the Roger Pirates discovered the truth"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [195, 301, 302],
+      "payoffInEpisodes": [1028, 1029, 1030, 1071],
+      "callbacksToEpisodes": [195, 275]
+    },
+    {
+      "id": "ep400-event-008",
+      "episodeNumber": 400,
+      "timestamp": "18:15",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Roger's Ability to Hear the Voice of All Things",
+      "description": "Rayleigh reveals that Roger possessed a unique ability to 'hear the voice of all things,' which allowed him to understand the Poneglyphs without being able to read them like Robin can. This power is different from the scholarly knowledge of Ohara.",
+      "significance": "This reveals a mysterious power that Roger possessed, connecting it to Luffy who has shown similar abilities. It establishes that there are different ways to understand the ancient language beyond scholarship.",
+      "characterIds": ["rayleigh", "roger", "robin"],
+      "quotes": [
+        {
+          "text": "Roger couldn't read the Poneglyphs like you. He could hear the voice of all things.",
+          "speaker": "Rayleigh",
+          "context": "Rayleigh explains Roger's unique ability"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [195],
+      "payoffInEpisodes": [1028, 1029],
+      "callbacksToEpisodes": [195]
+    },
+    {
+      "id": "ep400-event-009",
+      "episodeNumber": 400,
+      "timestamp": "19:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Robin Refuses to Learn the Truth from Rayleigh",
+      "description": "When Rayleigh offers to tell Robin everything the Roger Pirates learned about the Void Century, Robin politely declines. She decides that she wants to discover the truth herself through her journey with the Straw Hat Pirates, as finding different answers might be possible.",
+      "significance": "This demonstrates Robin's character growth and her commitment to the Straw Hats. It also preserves the central mystery of the series while confirming that the truth exists and can be found.",
+      "characterIds": ["robin", "rayleigh"],
+      "quotes": [
+        {
+          "text": "No, thank you. I want to learn the truth with my own eyes, through my journey with my friends.",
+          "speaker": "Robin",
+          "context": "Robin declines Rayleigh's offer to reveal the truth"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [67, 278],
+      "payoffInEpisodes": [1028, 1029, 1030],
+      "callbacksToEpisodes": [278]
+    },
+    {
+      "id": "ep400-event-010",
+      "episodeNumber": 400,
+      "timestamp": "20:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Luffy Threatens to Quit if Anyone Asks About One Piece",
+      "description": "When Usopp starts to ask Rayleigh about the location of One Piece, Luffy forcefully interrupts him. Luffy declares that if anyone tells him where the treasure is or if the adventure ends, he will quit being a pirate, emphasizing that the journey and discovery are what matter to him.",
+      "significance": "This powerful moment defines Luffy's philosophy as a pirate and shows his commitment to earning his achievements through adventure rather than shortcuts. It parallels Roger's own spirit.",
+      "characterIds": ["luffy", "usopp", "rayleigh"],
+      "quotes": [
+        {
+          "text": "I don't want to know where the treasure is! I don't even want to know if there is any treasure! If you tell me anything, I'll quit being a pirate!",
+          "speaker": "Luffy",
+          "context": "Luffy stops Usopp from asking about One Piece"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [1, 4],
+      "payoffInEpisodes": [1028, 1029],
+      "callbacksToEpisodes": [1]
+    },
+    {
+      "id": "ep400-event-011",
+      "episodeNumber": 400,
+      "timestamp": "21:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Brook's Unique Historical Perspective",
+      "description": "During the conversation about Roger, Brook casually refers to Gol D. Roger as a 'rookie,' demonstrating that he is the only Straw Hat who was alive before Roger became the Pirate King and can speak about that era from personal experience.",
+      "significance": "This moment highlights Brook's unique position as someone who lived through multiple eras of piracy and provides a different perspective on legendary figures that other characters view as purely historical.",
+      "characterIds": ["brook", "rayleigh", "roger"],
+      "quotes": [
+        {
+          "text": "Oh yes, I remember hearing about a rookie named Roger back in my day.",
+          "speaker": "Brook",
+          "context": "Brook casually mentions Roger as a contemporary"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [337, 338, 380],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [337, 338]
+    },
+    {
+      "id": "ep400-event-012",
+      "episodeNumber": 400,
+      "timestamp": "22:45",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Rayleigh Offers to Coat the Thousand Sunny for Free",
+      "description": "Rayleigh offers to coat the Thousand Sunny's hull for free as a favor to the Straw Hats, explaining that the process will take three days. He also provides each crew member with a Vivre Card so they can reunite after separating for safety.",
+      "significance": "This establishes Rayleigh as a mentor and benefactor to the Straw Hats, setting up the coating plot and the eventual separation of the crew. The Vivre Cards become crucial for the post-Sabaody storyline.",
+      "characterIds": ["rayleigh", "luffy", "franky"],
+      "crewIds": ["straw-hat-pirates"],
+      "locationIds": ["shakkys-bar"],
+      "itemIds": ["vivre-card"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [401, 402, 405, 517, 598, 599],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["voice-of-all-things"]
+  },
+  "episodeRelationships": {
+    "setupFor": [401, 402, 403, 404, 405],
+    "payoffFrom": [392, 394, 396, 397, 398],
+    "thematicLinks": [1, 4, 48, 195, 275, 278]
+  },
+  "quotes": [
+    {
+      "text": "Roger was never captured. He turned himself in.",
+      "speaker": "Rayleigh",
+      "context": "Revealing the truth about Roger's fate",
+      "timestamp": "08:45"
+    },
+    {
+      "text": "He told me about a kid in East Blue who said the same things as our captain.",
+      "speaker": "Rayleigh",
+      "context": "Rayleigh recounts Shanks telling him about Luffy",
+      "timestamp": "12:00"
+    },
+    {
+      "text": "Roger loved flashy things. That's why he enjoyed his title as Pirate King, even though it was meaningless since he was about to die.",
+      "speaker": "Rayleigh",
+      "context": "Describing Roger's personality",
+      "timestamp": "14:30"
+    },
+    {
+      "text": "Yes, we know. We learned everything.",
+      "speaker": "Rayleigh",
+      "context": "Confirming the Roger Pirates discovered the truth about the Void Century",
+      "timestamp": "16:45"
+    },
+    {
+      "text": "Roger couldn't read the Poneglyphs like you. He could hear the voice of all things.",
+      "speaker": "Rayleigh",
+      "context": "Explaining Roger's unique ability",
+      "timestamp": "18:15"
+    },
+    {
+      "text": "No, thank you. I want to learn the truth with my own eyes, through my journey with my friends.",
+      "speaker": "Robin",
+      "context": "Robin declines Rayleigh's offer to reveal the truth",
+      "timestamp": "19:30"
+    },
+    {
+      "text": "I don't want to know where the treasure is! I don't even want to know if there is any treasure! If you tell me anything, I'll quit being a pirate!",
+      "speaker": "Luffy",
+      "context": "Luffy stops Usopp from asking about One Piece",
+      "timestamp": "20:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Dreams and Legacy",
+      "description": "The episode explores how Roger's dream and actions created a lasting legacy that continues to inspire the next generation of pirates, particularly Luffy.",
+      "symbolism": "Rayleigh serving as a bridge between Roger's era and Luffy's generation symbolizes the passing down of the pirate spirit and will.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Value of the Journey",
+      "description": "Luffy's refusal to learn about One Piece's location and Robin's decision to discover the truth herself emphasize that the journey and personal discovery are more important than shortcuts to knowledge or treasure.",
+      "symbolism": "The three-day coating period represents the necessary preparation and patience required for great adventures.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Truth and Perspective",
+      "description": "The episode reveals that official history (Roger being captured) differs from the truth (Roger surrendering), and suggests that different people might reach different conclusions even when examining the same historical facts.",
+      "symbolism": "The Poneglyphs represent hidden truths that can be understood through different means - scholarship (Robin) or innate ability (Roger).",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Revelatory", "Inspirational", "Tense", "Reflective"],
+  "characterSpotlights": [
+    {
+      "characterId": "rayleigh",
+      "role": "Central focus as narrator of Roger's history",
+      "development": "Rayleigh is revealed as not just a legendary pirate but a wise mentor figure who understands the importance of letting the new generation find their own path.",
+      "keyActions": [
+        "Reveals his identity as Roger's first mate",
+        "Explains Roger's illness and voluntary surrender",
+        "Confirms knowledge of the Void Century",
+        "Reveals Roger's ability to hear the voice of all things",
+        "Offers to coat the Sunny for free",
+        "Gives Vivre Cards to the Straw Hats"
+      ],
+      "quotes": [
+        "Roger was never captured. He turned himself in.",
+        "Yes, we know. We learned everything."
+      ]
+    },
+    {
+      "characterId": "robin",
+      "role": "Seeker of truth who chooses her own path",
+      "development": "Robin demonstrates her growth by choosing to discover the truth through her own journey rather than taking a shortcut, showing her complete trust in the Straw Hats.",
+      "keyActions": [
+        "Asks Rayleigh about the Void Century",
+        "Reveals the Roger inscription on the Skypiea Poneglyph",
+        "Politely declines Rayleigh's offer to reveal everything"
+      ],
+      "quotes": [
+        "No, thank you. I want to learn the truth with my own eyes, through my journey with my friends."
+      ]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Embodiment of Roger's adventurous spirit",
+      "development": "Luffy forcefully asserts his philosophy that the journey matters more than the destination, paralleling Roger's own love of adventure over the goal itself.",
+      "keyActions": [
+        "Threatens to quit piracy if anyone reveals information about One Piece",
+        "Listens to stories about Roger with interest",
+        "Shows excitement about the adventure ahead"
+      ],
+      "quotes": [
+        "I don't want to know where the treasure is! If you tell me anything, I'll quit being a pirate!"
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime expands Kizaru's arrival scene with additional animation and impact shots showing the pirates' fear.",
+      "episodeTimestamp": "03:15",
+      "mangaReference": "Chapter 506, Page 10",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "Additional reaction shots of the Straw Hats during Rayleigh's revelations were added for dramatic effect.",
+      "episodeTimestamp": "08:45",
+      "mangaReference": "Chapter 506",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episode 400 is a milestone episode and features one of the highest IMDb ratings (9.4/10) for the series, reflecting its importance to the overall story.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://www.imdb.com/title/tt1418352/",
+          "title": "One Piece: Episode 400 - IMDb",
+          "platform": "IMDb",
+          "accessedAt": "2025-12-07"
+        }
+      ]
+    },
+    {
+      "fact": "This episode marks the full reveal of Gol D. Roger's face and character design, which had been partially obscured or only shown in silhouette in previous appearances.",
+      "category": "ANIMATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_400",
+          "title": "Episode 400 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-07"
+        }
+      ]
+    },
+    {
+      "fact": "The Japanese voice actor for Gol D. Roger, Chikao Ōtsuka, was 82 years old when this episode aired. He perfectly captured Roger's larger-than-life personality in the flashback scenes.",
+      "category": "VOICE_ACTING",
+      "sources": []
+    },
+    {
+      "fact": "This episode aired on May 10, 2009, and achieved a TV rating of 10.4%, ranking #4 for that week in Japan.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_400",
+          "title": "Episode 400 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-07"
+        }
+      ]
+    },
+    {
+      "fact": "Brook calling Roger a 'rookie' makes him the only Straw Hat crew member who can speak about the Pirate King's era from personal experience, as he is over 90 years old.",
+      "category": "CHARACTER",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
