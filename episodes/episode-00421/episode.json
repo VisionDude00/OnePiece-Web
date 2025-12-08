@@ -1,0 +1,451 @@
+{
+  "episodeNumber": 421,
+  "episodeTitle": "The Friends' Whereabouts! A Negative Princess and the King of Demons!",
+  "description": "The episode reveals where the Straw Hats were sent by Kuma: Zoro arrives on Kuraigana Island where Perona humiliates him, and Brook lands on Namakura Island where villagers mistake him for Satan. Meanwhile, Marines and Shichibukai gather at Marineford, and Ace has an emotional confrontation with Garp in Impel Down.",
+  "airDate": "2009-10-11",
+  "airDateJapan": "2009-10-11",
+  "airDateUS": "2015-10-27",
+  "arcName": "Amazon Lily",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Share the World",
+    "artist": "Tohoshinki (TVXQ)",
+    "episodeRange": [395, 425]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Katsumi Tokoro",
+    "keyAnimators": ["Kenji Yokoyama"],
+    "scriptwriter": "Yoshiyuki Suga",
+    "artDirector": "Miyuki Sato",
+    "voiceActorsJP": [
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Perona",
+        "actor": "Kumiko Nishihara"
+      },
+      {
+        "character": "Brook",
+        "actor": "Cho"
+      },
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Boa Hancock",
+        "actor": "Kotono Mitsuishi"
+      },
+      {
+        "character": "Monkey D. Garp",
+        "actor": "Hiroshi Naka"
+      },
+      {
+        "character": "Portgas D. Ace",
+        "actor": "Toshio Furukawa"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Perona",
+        "actor": "Felecia Angelle"
+      },
+      {
+        "character": "Brook",
+        "actor": "Ian Sinclair"
+      },
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Boa Hancock",
+        "actor": "Lydia Mackay"
+      },
+      {
+        "character": "Monkey D. Garp",
+        "actor": "R. Bruce Elliott"
+      },
+      {
+        "character": "Portgas D. Ace",
+        "actor": "Travis Willingham"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep421-event-001",
+      "episodeNumber": 421,
+      "timestamp": "03:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Zoro Arrives on Kuraigana Island",
+      "description": "Roronoa Zoro wakes up on the dark and gloomy Kuraigana Island after being sent there by Bartholomew Kuma. He discovers the ruins of the ancient Shikkearu Kingdom and encounters hostile Humandrills wielding weapons.",
+      "significance": "First appearance of Kuraigana Island, which becomes Zoro's training ground during the two-year timeskip. This sets up Zoro's future development under Mihawk's tutelage.",
+      "characterIds": ["zoro"],
+      "locationIds": ["kuraigana-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [405],
+      "payoffInEpisodes": [517, 518],
+      "callbacksToEpisodes": [405]
+    },
+    {
+      "id": "ep421-event-002",
+      "episodeNumber": 421,
+      "timestamp": "05:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Perona's Presence on Kuraigana Island",
+      "description": "Perona is revealed to be on Kuraigana Island, having also been sent there by Bartholomew Kuma. She discovers the unconscious and injured Zoro and decides to treat his wounds.",
+      "significance": "Establishes that Perona was also transported to this island, setting up an unlikely partnership between her and Zoro that will last through the timeskip.",
+      "characterIds": ["perona", "zoro"],
+      "locationIds": ["kuraigana-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [405],
+      "payoffInEpisodes": [517],
+      "callbacksToEpisodes": [405]
+    },
+    {
+      "id": "ep421-event-003",
+      "episodeNumber": 421,
+      "timestamp": "08:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Perona Humiliates Zoro with Kumashi Costume",
+      "description": "After treating Zoro's wounds, Perona uses her Negative Hollows to knock him unconscious again and dresses him in a humiliating Kumashi bear costume. She declares that Zoro will be her new servant, though he refuses and decides to leave anyway.",
+      "significance": "A comedic moment that establishes the dynamic between Zoro and Perona during their time together on the island. Shows Perona's mischievous personality.",
+      "characterIds": ["perona", "zoro"],
+      "locationIds": ["kuraigana-island"],
+      "devilFruitIds": ["horo-horo-no-mi"],
+      "quotes": [
+        {
+          "text": "You're going to be my new servant!",
+          "speaker": "Perona",
+          "context": "Perona declaring her intentions for Zoro"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep421-event-004",
+      "episodeNumber": 421,
+      "timestamp": "11:20",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Brook Arrives on Namakura Island",
+      "description": "Brook lands on Namakura Island (also known as Harahettania, the Land of Poverty) after being sent there by Bartholomew Kuma. He coincidentally appears inside a demonic summoning circle during a ritual performed by desperate villagers.",
+      "significance": "First appearance of Namakura Island. This sets up Brook's storyline where he helps the impoverished villagers against the Longarm Tribe.",
+      "characterIds": ["brook"],
+      "locationIds": ["namakura-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [405],
+      "payoffInEpisodes": [453],
+      "callbacksToEpisodes": [405]
+    },
+    {
+      "id": "ep421-event-005",
+      "episodeNumber": 421,
+      "timestamp": "12:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Brook Mistaken for Satan",
+      "description": "The villagers of Namakura Island, led by Mayor Pekkori, believe they have successfully summoned Satan when Brook appears in their summoning circle. They ask for his help against the Longarm Tribe that has been terrorizing them.",
+      "significance": "A comedic moment that establishes Brook's role on the island. The villagers' desperation shows the harsh conditions on Namakura Island.",
+      "characterIds": ["brook", "pekkori"],
+      "locationIds": ["namakura-island"],
+      "quotes": [
+        {
+          "text": "We summoned you to help us fight against the Longarm Tribe!",
+          "speaker": "Pekkori",
+          "context": "Pekkori explaining why they summoned 'Satan' (Brook)"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [453],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep421-event-006",
+      "episodeNumber": 421,
+      "timestamp": "15:00",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Marines and Shichibukai Gather at Marineford",
+      "description": "With six days until Ace's execution, famous Marine officers including Vice Admirals Comil, Smoker, and Hina, along with the three Admirals and the remaining Shichibukai (Mihawk, Doflamingo, Moria, and Kuma) arrive at Marineford in preparation for the expected war with Whitebeard.",
+      "significance": "Major setup for the Marineford War. Shows the World Government assembling its greatest forces for the impending clash with the Whitebeard Pirates.",
+      "characterIds": ["comil", "smoker", "hina", "john-giant", "t-bone", "jonathan", "jango", "fullbody", "aokiji", "kizaru", "akainu", "mihawk", "doflamingo", "moria", "kuma"],
+      "locationIds": ["marineford"],
+      "crewIds": ["marines"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [416, 417, 418],
+      "payoffInEpisodes": [457, 458, 459],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep421-event-007",
+      "episodeNumber": 421,
+      "timestamp": "17:30",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Ace Begs Garp to Kill Him",
+      "description": "In Impel Down, Portgas D. Ace has an emotional confrontation with his grandfather, Monkey D. Garp. Ace begs Garp to kill him to prevent the war, but Garp refuses, stating that even if he killed Ace, nothing can stop the war with Whitebeard now.",
+      "significance": "Shows the deep emotional conflict between Garp's duty as a Marine and his love for his grandson. Highlights the inevitability of the coming war and Ace's despair.",
+      "characterIds": ["ace", "garp"],
+      "locationIds": ["impel-down"],
+      "quotes": [
+        {
+          "text": "Gramps... just kill me. End this before it goes any further.",
+          "speaker": "Ace",
+          "context": "Ace begging Garp to prevent the war"
+        },
+        {
+          "text": "Even if I did, the war with Whitebeard cannot be avoided.",
+          "speaker": "Garp",
+          "context": "Garp's response to Ace's plea"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [313, 314],
+      "payoffInEpisodes": [483, 484],
+      "callbacksToEpisodes": [313, 314]
+    },
+    {
+      "id": "ep421-event-008",
+      "episodeNumber": 421,
+      "timestamp": "19:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Hancock's Jealousy Over Luffy",
+      "description": "On Vice Admiral Momonga's ship heading to Impel Down, Boa Hancock worries that Luffy will leave her for Nami and Robin. Meanwhile, Luffy is hiding in her room eating loudly and burping, causing Hancock to warn him to be quiet.",
+      "significance": "Shows Hancock's growing affection for Luffy and her insecurities about their relationship. Provides comedic relief during the tense pre-war buildup.",
+      "characterIds": ["hancock", "luffy"],
+      "locationIds": ["momonga-ship"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [411, 412, 413],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [411, 417]
+    },
+    {
+      "id": "ep421-event-009",
+      "episodeNumber": 421,
+      "timestamp": "20:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Hancock Covers for Luffy with Mero Mero Powers",
+      "description": "When Lieutenant Stalker overhears Luffy's loud burping and becomes suspicious, Hancock leaves her room and uses her Mero Mero powers to turn the Marines' hair into mohawks while imitating Luffy's words and demanding large amounts of food to cover for his presence.",
+      "significance": "Demonstrates Hancock's quick thinking and willingness to use her powers to protect Luffy. Shows how far she'll go to help him reach Impel Down.",
+      "characterIds": ["hancock", "luffy", "stalker"],
+      "locationIds": ["momonga-ship"],
+      "devilFruitIds": ["mero-mero-no-mi"],
+      "quotes": [
+        {
+          "text": "That food was delicious!",
+          "speaker": "Hancock",
+          "context": "Hancock imitating Luffy's burp to cover for him"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep421-event-010",
+      "episodeNumber": 421,
+      "timestamp": "22:00",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "CRITICAL",
+      "title": "Six Days Until Ace's Execution",
+      "description": "The episode emphasizes that there are only six days remaining until Portgas D. Ace's scheduled execution, with the world's most powerful forces gathering at Marineford for the inevitable confrontation.",
+      "significance": "Creates urgency and tension for the upcoming arcs. The countdown to Ace's execution drives the narrative forward toward the Marineford War.",
+      "characterIds": ["ace"],
+      "locationIds": ["marineford", "impel-down"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [416, 417, 418],
+      "payoffInEpisodes": [457, 458, 483],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["pekkori", "stalker", "comil"],
+    "locations": ["kuraigana-island", "namakura-island"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [422, 453, 457, 517],
+    "payoffFrom": [405, 411, 416],
+    "thematicLinks": [313, 405, 483]
+  },
+  "quotes": [
+    {
+      "text": "Gramps... just kill me. End this before it goes any further.",
+      "speaker": "Ace",
+      "context": "Ace's desperate plea to Garp in Impel Down",
+      "timestamp": "17:30"
+    },
+    {
+      "text": "Even if I did, the war with Whitebeard cannot be avoided.",
+      "speaker": "Garp",
+      "context": "Garp's painful acknowledgment of the inevitable war",
+      "timestamp": "17:45"
+    },
+    {
+      "text": "You're going to be my new servant!",
+      "speaker": "Perona",
+      "context": "Perona attempting to make Zoro her servant",
+      "timestamp": "08:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Separation and Survival",
+      "description": "The episode explores how the Straw Hats are surviving and adapting to their new environments after being forcibly separated by Kuma.",
+      "symbolism": "Each crew member's landing spot reflects their character and future development.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Family vs Duty",
+      "description": "Garp's confrontation with Ace highlights the painful conflict between personal bonds and professional obligations.",
+      "symbolism": "Garp's position between the Marines and his family represents the impossible choices created by the world's power structures.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Gathering Storm",
+      "description": "The assembly of the world's most powerful forces at Marineford creates a sense of impending catastrophe.",
+      "symbolism": "The countdown to Ace's execution represents the ticking clock toward an unavoidable war.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Comedic", "Tragic", "Ominous"],
+  "characterSpotlights": [
+    {
+      "characterId": "zoro",
+      "role": "Featured character",
+      "development": "Zoro awakens on Kuraigana Island and encounters Perona, setting up his future training arc.",
+      "keyActions": [
+        "Wakes up on Kuraigana Island",
+        "Encounters Humandrills",
+        "Gets treated and humiliated by Perona",
+        "Refuses to be her servant"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "brook",
+      "role": "Featured character",
+      "development": "Brook arrives on Namakura Island and is mistaken for Satan by desperate villagers.",
+      "keyActions": [
+        "Lands on Namakura Island",
+        "Gets mistaken for Satan",
+        "Learns about the Longarm Tribe threat"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "ace",
+      "role": "Supporting character",
+      "development": "Ace's desperation in Impel Down is revealed as he begs Garp to kill him to prevent the war.",
+      "keyActions": [
+        "Confronts Garp in his cell",
+        "Begs Garp to kill him",
+        "Faces the reality of the impending war"
+      ],
+      "quotes": ["Gramps... just kill me. End this before it goes any further."]
+    },
+    {
+      "characterId": "hancock",
+      "role": "Supporting character",
+      "development": "Hancock's devotion to Luffy continues as she helps him hide on Momonga's ship and worries about losing him.",
+      "keyActions": [
+        "Worries about Luffy leaving her",
+        "Covers for Luffy when he's heard by Marines",
+        "Uses her powers to confuse the Marines"
+      ],
+      "quotes": ["That food was delicious!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends Perona's humiliation of Zoro with additional scenes of him in the Kumashi costume.",
+      "episodeTimestamp": "08:45",
+      "mangaReference": "Chapter 524",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "The anime adds more detail to the Marines gathering at Marineford, showing more named characters.",
+      "episodeTimestamp": "15:00",
+      "mangaReference": "Chapter 524",
+      "type": "EXPANSION"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episode 421 is the final episode of the Amazon Lily Arc, which spanned 16 episodes (406-421).",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_421",
+          "title": "Episode 421 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-08"
+        }
+      ]
+    },
+    {
+      "fact": "This episode covers portions of Chapter 524, which was split across multiple episodes (419, 420, and 421).",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://www.animefillerguide.com/anime/one-piece/",
+          "title": "One Piece Filler List & Episode to Chapter Conversion Guide",
+          "platform": "Anime Filler Guide",
+          "accessedAt": "2025-12-08"
+        }
+      ]
+    },
+    {
+      "fact": "Kuraigana Island's design was inspired by Tim Burton's 'The Nightmare Before Christmas' with its distinctive curved hills.",
+      "category": "ANIMATION",
+      "sources": []
+    },
+    {
+      "fact": "This is the first time we see the Shichibukai assembled together at Marineford in preparation for war.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "The opening theme 'Share the World' by Tohoshinki was performed by a Korean boy band, representing the Korean Wave's influence on Japanese pop culture.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Share_the_World",
+          "title": "Share the World - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-08"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
