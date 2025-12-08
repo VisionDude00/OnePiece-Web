@@ -1,0 +1,247 @@
+[
+  {
+    "id": "amigo-pirates",
+    "name": {
+      "english": "Amigo Pirates",
+      "japanese": "アミーゴ海賊団",
+      "romanized": "Amīgo Kaizokudan"
+    },
+    "type": "PIRATE_CREW",
+    "debutEpisode": 426,
+    "debutChapter": null,
+    "episodeAppearances": [426],
+    "description": "A mariachi-style band of pirates led by brothers Largo and Corto. They travel via submarine and work under Shiki's orders to capture Boss.",
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 426,
+        "episodeEnd": "present",
+        "reason": "Crew is operational and pursuing their mission"
+      }
+    ],
+    "leadership": [
+      {
+        "characterId": "largo",
+        "role": "Co-Captain",
+        "episodeStart": 426,
+        "episodeEnd": null
+      },
+      {
+        "characterId": "corto",
+        "role": "Co-Captain",
+        "episodeStart": 426,
+        "episodeEnd": null
+      }
+    ],
+    "members": [
+      {
+        "characterId": "largo",
+        "role": "Co-Captain",
+        "episodeJoined": 426,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "corto",
+        "role": "Co-Captain",
+        "episodeJoined": 426,
+        "episodeLeft": null
+      }
+    ],
+    "formerMembers": [],
+    "allegiances": [
+      {
+        "organizationId": "golden-lion-pirates",
+        "type": "SUBORDINATE",
+        "episodeEstablished": 426,
+        "episodeEnded": null,
+        "description": "The Amigo Pirates work under Shiki's orders"
+      }
+    ],
+    "enemies": [
+      {
+        "organizationId": "straw-hat-pirates",
+        "episodeEstablished": 426,
+        "reason": "Conflict over Boss and Little East Blue"
+      }
+    ],
+    "shipName": "Submarine",
+    "totalBounty": 0,
+    "keyMoments": [
+      {
+        "episodeNumber": 426,
+        "eventId": "ep426-event-007",
+        "title": "Amigo Pirates Approach Little East Blue",
+        "description": "The Amigo Pirates head to Kansorn Island to capture Boss on Shiki's orders.",
+        "significance": "Introduces the crew and establishes the main conflict of the arc.",
+        "timestamp": "16:45"
+      }
+    ],
+    "headquarters": null,
+    "territory": []
+  },
+  {
+    "id": "golden-lion-pirates",
+    "name": {
+      "english": "Golden Lion Pirates",
+      "japanese": "金獅子海賊団",
+      "romanized": "Kinjishi Kaizokudan"
+    },
+    "type": "PIRATE_CREW",
+    "debutEpisode": 426,
+    "debutChapter": 0,
+    "episodeAppearances": [426],
+    "description": "A legendary pirate crew led by Shiki the Golden Lion. During the era of Gol D. Roger, Shiki commanded the largest pirate fleet in the world.",
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 426,
+        "episodeEnd": "present",
+        "reason": "Crew remains under Shiki's command"
+      }
+    ],
+    "leadership": [
+      {
+        "characterId": "shiki",
+        "role": "Admiral",
+        "episodeStart": 426,
+        "episodeEnd": null
+      }
+    ],
+    "members": [
+      {
+        "characterId": "shiki",
+        "role": "Admiral",
+        "episodeJoined": 426,
+        "episodeLeft": null
+      }
+    ],
+    "formerMembers": [],
+    "allegiances": [],
+    "enemies": [],
+    "shipName": "Unknown",
+    "totalBounty": 0,
+    "keyMoments": [
+      {
+        "episodeNumber": 426,
+        "eventId": "ep426-event-010",
+        "title": "Shiki and His Crew Revealed",
+        "description": "Shiki is revealed as the legendary admiral of the Golden Lion Pirates.",
+        "significance": "Introduces one of the most powerful pirate crews from the previous generation.",
+        "timestamp": "00:00"
+      }
+    ],
+    "headquarters": null,
+    "territory": []
+  },
+  {
+    "id": "straw-hat-pirates",
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "type": "PIRATE_CREW",
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [426],
+    "description": "The pirate crew led by Monkey D. Luffy, currently sailing through the Grand Line. In this episode, they encounter Little East Blue and protect it from the Amigo Pirates.",
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 426,
+        "episodeEnd": "present",
+        "reason": "Crew is actively adventuring"
+      }
+    ],
+    "leadership": [
+      {
+        "characterId": "luffy",
+        "role": "Captain",
+        "episodeStart": 1,
+        "episodeEnd": null
+      }
+    ],
+    "members": [
+      {
+        "characterId": "luffy",
+        "role": "Captain",
+        "episodeJoined": 1,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "zoro",
+        "role": "Swordsman",
+        "episodeJoined": 2,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "nami",
+        "role": "Navigator",
+        "episodeJoined": 8,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "usopp",
+        "role": "Sniper",
+        "episodeJoined": 17,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "sanji",
+        "role": "Cook",
+        "episodeJoined": 30,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "chopper",
+        "role": "Doctor",
+        "episodeJoined": 91,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "robin",
+        "role": "Archaeologist",
+        "episodeJoined": 130,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "franky",
+        "role": "Shipwright",
+        "episodeJoined": 322,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "brook",
+        "role": "Musician",
+        "episodeJoined": 381,
+        "episodeLeft": null
+      }
+    ],
+    "formerMembers": [],
+    "allegiances": [],
+    "enemies": [
+      {
+        "organizationId": "amigo-pirates",
+        "episodeEstablished": 426,
+        "reason": "Conflict over protecting Little East Blue and Boss"
+      }
+    ],
+    "shipName": "Thousand Sunny",
+    "totalBounty": 0,
+    "keyMoments": [
+      {
+        "episodeNumber": 426,
+        "eventId": "ep426-event-005",
+        "title": "Straw Hats Arrive at Little East Blue",
+        "description": "The crew arrives at Little East Blue and discovers the nostalgic recreations of their East Blue origins.",
+        "significance": "Sets up the crew's involvement in the Little East Blue arc.",
+        "timestamp": "11:00"
+      }
+    ],
+    "headquarters": null,
+    "territory": []
+  }
+]

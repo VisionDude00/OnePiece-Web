@@ -1,0 +1,207 @@
+[
+  {
+    "id": "amigo-pirates",
+    "name": {
+      "english": "Amigo Pirates",
+      "japanese": "アミーゴ海賊団",
+      "romanized": "Amīgo Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "largo",
+    "debutEpisode": 426,
+    "debutChapter": null,
+    "episodeAppearances": [429],
+    "members": [
+      {
+        "characterId": "largo",
+        "role": "Captain",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Founded and leads the Amigo Pirates as their captain."
+      },
+      {
+        "characterId": "corto",
+        "role": "First Mate",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Serves as Largo's brother and second-in-command."
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 429,
+        "eventId": "ep429-event-003",
+        "momentType": "BATTLE",
+        "title": "Battle Against Straw Hats and Villagers",
+        "description": "The Amigo Pirates engage in combat with Zoro, Sanji, and the villagers of Little East Blue.",
+        "significance": "The crew's final stand before their defeat and imprisonment.",
+        "timestamp": "08:15"
+      },
+      {
+        "episodeNumber": 429,
+        "eventId": "ep429-event-007",
+        "momentType": "DEFEAT",
+        "title": "Largo Defeated by Luffy",
+        "description": "Captain Largo is defeated by Luffy's Gomu Gomu no Gigant Pistol, marking the crew's downfall.",
+        "significance": "The captain's defeat leads to the crew's capture and failure of their mission.",
+        "timestamp": "18:30"
+      },
+      {
+        "episodeNumber": 429,
+        "eventId": "ep429-event-009",
+        "momentType": "IMPRISONMENT",
+        "title": "Entire Crew Imprisoned",
+        "description": "The Amigo Pirates are captured and locked in a cage by the residents of Little East Blue.",
+        "significance": "Marks the end of the Amigo Pirates' threat and their failure to join Shiki's fleet.",
+        "timestamp": "20:30"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Amigo Pirates Ship",
+        "episodeAcquired": null,
+        "episodeLost": 429,
+        "description": "The crew's mariachi-themed ship, destroyed when Largo was sent flying into it by Luffy's Gigant Pistol."
+      }
+    ],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "Unknown mariachi-themed Jolly Roger",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": null,
+    "relationships": {
+      "allies": [],
+      "enemies": ["straw-hat-pirates"],
+      "parentOrganization": null,
+      "affiliations": [
+        {
+          "organizationId": "golden-lion-pirates",
+          "type": "ATTEMPTED_ALLIANCE",
+          "description": "Largo attempted to join Shiki's fleet by capturing Boss, but failed",
+          "episodeEstablished": 426
+        }
+      ]
+    }
+  },
+  {
+    "id": "golden-lion-pirates",
+    "name": {
+      "english": "Golden Lion Pirates",
+      "japanese": "金獅子海賊団",
+      "romanized": "Kinjishi Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "shiki",
+    "debutEpisode": 426,
+    "debutChapter": null,
+    "episodeAppearances": [429],
+    "members": [
+      {
+        "characterId": "shiki",
+        "role": "Captain/Admiral",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Founder and leader of the Golden Lion Pirates."
+      },
+      {
+        "characterId": "indigo",
+        "role": "Chief Scientist",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Serves as Shiki's chief scientist, responsible for creating modified creatures."
+      },
+      {
+        "characterId": "scarlet",
+        "role": "Member",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Member of Shiki's crew."
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 429,
+        "eventId": "ep429-event-012",
+        "momentType": "REVELATION",
+        "title": "Modified Creature Army Revealed",
+        "description": "Shiki's plan to create an army of modified super-animals for global conquest is revealed.",
+        "significance": "Establishes the scope of Shiki's ambitions and sets up the Strong World movie conflict.",
+        "timestamp": "23:15"
+      },
+      {
+        "episodeNumber": 429,
+        "eventId": "ep429-event-013",
+        "momentType": "PLANNING",
+        "title": "Shiki Continues Ultimate Plan",
+        "description": "Despite Largo's failure, Shiki dismisses it as a minor setback and continues monitoring his modified creatures.",
+        "significance": "Shows that the Golden Lion Pirates' plans are much larger than just capturing Boss.",
+        "timestamp": "23:45"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull with a ship's wheel embedded in the head and crossed swords",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": [],
+      "enemies": ["straw-hat-pirates"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "id": "straw-hat-pirates",
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "luffy",
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [429],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 429,
+        "eventId": "ep429-event-007",
+        "momentType": "VICTORY",
+        "title": "Defeat Amigo Pirates and Save Little East Blue",
+        "description": "The Straw Hats successfully protect Little East Blue from the Amigo Pirates, with Luffy defeating Largo.",
+        "significance": "Demonstrates the crew's heroism and ability to protect innocent people, changing Yoko's view of pirates.",
+        "timestamp": "18:30"
+      },
+      {
+        "episodeNumber": 429,
+        "eventId": "ep429-event-014",
+        "momentType": "DEPARTURE",
+        "title": "Leave Little East Blue",
+        "description": "The Straw Hats depart the island after saving it, continuing their journey.",
+        "significance": "Concludes their involvement in the Little East Blue Arc and returns them to their main quest.",
+        "timestamp": "24:30"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull wearing a straw hat with crossed bones behind it",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": [],
+      "enemies": ["amigo-pirates", "golden-lion-pirates"],
+      "parentOrganization": null
+    }
+  }
+]

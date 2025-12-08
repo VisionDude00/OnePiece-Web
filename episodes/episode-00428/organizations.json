@@ -1,0 +1,94 @@
+[
+  {
+    "name": {
+      "english": "Amigo Pirates",
+      "japanese": "アミーゴ海賊団",
+      "romanized": "Amīgo Kaizokudan"
+    },
+    "type": "PIRATE_CREW",
+    "debutEpisode": 427,
+    "debutChapter": null,
+    "episodeAppearances": [428],
+    "captain": {
+      "characterId": "largo",
+      "episodeAppointed": 427
+    },
+    "members": [
+      {
+        "characterId": "largo",
+        "role": "Captain",
+        "episodeJoined": 427,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "corto",
+        "role": "First Mate",
+        "episodeJoined": 427,
+        "episodeLeft": null
+      }
+    ],
+    "formerMembers": [],
+    "ship": {
+      "name": "Amigo Pirates' Submarine",
+      "description": "A green submarine with intricate pattern designs, featuring paddle-wheels for underwater movement, and a saloon-like interior with round tables.",
+      "status": "DESTROYED",
+      "episodeDestroyed": 429
+    },
+    "jollyRoger": null,
+    "goals": [
+      "Join Shiki's fleet as the 51st division",
+      "Capture Boss the beetle to prove themselves to Shiki"
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 428,
+        "eventId": "ep428-event-001",
+        "title": "Largo Reveals Devil Fruit Powers",
+        "description": "Captain Largo demonstrates the Ami Ami no Mi, showcasing the crew's combat capabilities through his net-creation abilities.",
+        "significance": "Establishes the Amigo Pirates as a formidable threat with unique Devil Fruit powers."
+      },
+      {
+        "episodeNumber": 428,
+        "eventId": "ep428-event-002",
+        "title": "Successful Capture of Zoro and Sanji",
+        "description": "The Amigo Pirates successfully trap two of the Straw Hats' strongest fighters, demonstrating their effectiveness as a capture-specialized crew.",
+        "significance": "Shows the crew's competence in their specialty of trapping and capturing targets."
+      }
+    ],
+    "alliances": [
+      {
+        "organizationId": "shiki-fleet",
+        "type": "SUBORDINATE",
+        "episodeFormed": 427,
+        "episodeDissolved": 429,
+        "description": "Attempted to join Shiki's fleet but failed after losing to the Straw Hats"
+      }
+    ],
+    "conflicts": [
+      {
+        "organizationId": "straw-hat-pirates",
+        "episodeStart": 427,
+        "episodeEnd": 429,
+        "description": "Fought the Straw Hat Pirates over Boss the beetle at Little East Blue"
+      }
+    ],
+    "territoryClaimed": [],
+    "status": "DEFEATED",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 427,
+        "episodeEnd": 428
+      },
+      {
+        "status": "DEFEATED",
+        "episodeStart": 429,
+        "episodeEnd": 429,
+        "reason": "Defeated by the Straw Hat Pirates and imprisoned by Little East Blue villagers"
+      }
+    ],
+    "totalBounty": null,
+    "affiliatedIslands": [],
+    "theme": "Mexican mariachi-style pirate crew specializing in creature capture and trapping"
+  }
+]
