@@ -1,0 +1,669 @@
+{
+  "episodeNumber": 415,
+  "episodeTitle": "Hancock's Confession - The Sisters' Abhorrent Past",
+  "description": "After defeating Hancock's sisters, Luffy passes Hancock's test by choosing to restore the petrified Kuja warriors over his own escape. Moved by his selflessness, Hancock reveals the traumatic secret of her past: she and her sisters were enslaved by the Celestial Dragons as children, until the legendary fish-man Fisher Tiger freed them from Mary Geoise.",
+  "airDate": "2009-08-30",
+  "airDateJapan": "2009-08-30",
+  "airDateUS": "2015-10-27",
+  "arcName": "Amazon Lily",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Share the World",
+    "artist": "Tohoshinki (TVXQ)",
+    "episodeRange": [395, 425]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Masayuki Takagi",
+    "episodeDirector": "Hiroaki Miyamoto",
+    "screenplay": "Jin Tanaka",
+    "artDirection": "Ryūji Yoshiike",
+    "storyboard": "",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Boa Hancock",
+        "actor": "Kotono Mitsuishi"
+      },
+      {
+        "character": "Boa Sandersonia",
+        "actor": "Chiwa Saito"
+      },
+      {
+        "character": "Boa Marigold",
+        "actor": "Kimiko Saito"
+      },
+      {
+        "character": "Gloriosa (Nyon)",
+        "actor": "Toshiko Fujita"
+      },
+      {
+        "character": "Marguerite",
+        "actor": "Masumi Asano"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Boa Hancock",
+        "actor": "Lydia Mackay"
+      },
+      {
+        "character": "Boa Sandersonia",
+        "actor": "Jamie Marchi"
+      },
+      {
+        "character": "Boa Marigold",
+        "actor": "Rachel Messer"
+      },
+      {
+        "character": "Gloriosa (Nyon)",
+        "actor": "Pam Dougherty"
+      },
+      {
+        "character": "Marguerite",
+        "actor": "Whitney Rodgers"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep415-event-001",
+      "episodeNumber": 415,
+      "timestamp": "03:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Luffy's Test - Choosing Friends Over Escape",
+      "description": "Hancock tests Luffy's character by offering him an ultimatum: accept a ship to escape Amazon Lily while the petrified Kuja women remain statues, or restore the women and find another way to leave. Without hesitation, Luffy demands that Hancock turn the petrified women back to normal, showing he values their lives over his own convenience.",
+      "significance": "This critical moment establishes Luffy's moral character and selflessness in Hancock's eyes, directly contrasting him with the selfish men she has known, particularly the Celestial Dragons. This decision is the turning point that allows Hancock to trust Luffy with her deepest secret.",
+      "characterIds": ["luffy", "hancock"],
+      "locationIds": ["amazon-lily"],
+      "quotes": [
+        {
+          "text": "Turn them back! I don't care about the ship, just turn them back to normal!",
+          "speaker": "Luffy",
+          "context": "Luffy's immediate response to Hancock's test, choosing to save Marguerite and her friends"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [414],
+      "payoffInEpisodes": [415, 416],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep415-event-002",
+      "episodeNumber": 415,
+      "timestamp": "05:00",
+      "eventType": "POWER_REVEAL",
+      "severity": "MINOR",
+      "title": "Marguerite and Friends Restored from Petrification",
+      "description": "Moved by Luffy's selfless choice, Hancock uses her Mero Mero no Mi powers to restore Marguerite, Sweet Pea, and Aphelandra from their petrified state. The three women return to normal, completely unaware of what transpired during their petrification.",
+      "significance": "This demonstrates Hancock's ability to reverse her petrification ability when she chooses, and shows that she is moved by Luffy's compassion. It also saves three important secondary characters from permanent petrification.",
+      "characterIds": ["hancock", "marguerite", "sweet-pea", "aphelandra"],
+      "locationIds": ["amazon-lily"],
+      "devilFruitIds": ["mero-mero-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [410, 411],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [410]
+    },
+    {
+      "id": "ep415-event-003",
+      "episodeNumber": 415,
+      "timestamp": "07:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Luffy Brought to Hancock's Palace",
+      "description": "After proving his character, Luffy is brought to Hancock's palace where she prepares to explain why she has decided to trust him. The palace setting provides privacy for Hancock to reveal her most guarded secret.",
+      "significance": "Moving to the palace symbolizes Luffy gaining Hancock's trust and entering her private world. This location shift marks the transition from public combat to intimate confession.",
+      "characterIds": ["luffy", "hancock", "sandersonia", "marigold", "nyon"],
+      "locationIds": ["hancock-palace"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep415-event-004",
+      "episodeNumber": 415,
+      "timestamp": "09:00",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Nyon Reveals Luffy's Attack on a World Noble",
+      "description": "Elder Nyon arrives with a newspaper and reveals to Hancock that Luffy punched a Celestial Dragon (World Noble) at the Sabaody Archipelago and escaped the consequences. This information explains why Hancock feels she can trust Luffy with her secret.",
+      "significance": "This revelation connects the Amazon Lily arc to the events at Sabaody Archipelago and establishes that Luffy has already defied the World Government in a way that resonates deeply with Hancock's traumatic past. It provides the crucial context for why Hancock decides to open up to Luffy.",
+      "characterIds": ["luffy", "hancock", "nyon"],
+      "locationIds": ["hancock-palace"],
+      "quotes": [
+        {
+          "text": "This man struck a World Noble and lived to tell the tale!",
+          "speaker": "Nyon",
+          "context": "Nyon revealing Luffy's defiance of the Celestial Dragons from the newspaper"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [396, 397, 398],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [396, 397, 398]
+    },
+    {
+      "id": "ep415-event-005",
+      "episodeNumber": 415,
+      "timestamp": "11:00",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "The Hoof of the Celestial Dragon Revealed",
+      "description": "Hancock removes her clothing to reveal the mysterious mark on her back that she has hidden from everyone: the Hoof of the Soaring Dragon, the slave brand of the Celestial Dragons. This mark proves that Hancock and her sisters were once slaves, contradicting the Gorgon legend they told their people.",
+      "significance": "This is one of the most significant reveals in the series, exposing the truth about Hancock's past and explaining her hatred of men, her arrogance, and her obsession with maintaining her perfect image. The slave brand becomes a symbol of the World Government's cruelty and the deep trauma carried by survivors.",
+      "characterIds": ["hancock", "sandersonia", "marigold", "luffy"],
+      "locationIds": ["hancock-palace"],
+      "quotes": [
+        {
+          "text": "This mark... it is the greatest shame of our lives. The Hoof of the Celestial Dragon.",
+          "speaker": "Hancock",
+          "context": "Hancock revealing the true meaning of the mark on her back"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [411, 412],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep415-event-006",
+      "episodeNumber": 415,
+      "timestamp": "13:00",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Hancock's Enslavement - Kidnapped at Age Twelve",
+      "description": "Hancock reveals that when she was twelve years old, she and her sisters were on their first voyage with the Kuja Pirates when they were kidnapped by slave traders. They were sold to the Celestial Dragons who branded them with the slave mark. This was Hancock's first encounter with men, and it was through brutal violence and subjugation.",
+      "significance": "This backstory explains the root of Hancock's misandry and her psychological trauma. Being enslaved as a child by the world's most powerful people shaped her entire worldview and personality. It recontextualizes all of her previous behavior and creates deep sympathy for her character.",
+      "characterIds": ["hancock", "sandersonia", "marigold", "luffy"],
+      "locationIds": ["mary-geoise"],
+      "quotes": [
+        {
+          "text": "We were only twelve years old... just children when those monsters took us.",
+          "speaker": "Hancock",
+          "context": "Hancock describing how young she and her sisters were when enslaved"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep415-event-007",
+      "episodeNumber": 415,
+      "timestamp": "15:00",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Four Years of Slavery Under the Celestial Dragons",
+      "description": "Hancock describes the four years of torment she and her sisters endured as slaves to the Celestial Dragons. During this time, they were force-fed Devil Fruits for the entertainment of their captors and suffered unspeakable abuse. The trauma was so severe that even years later, her sisters shake and sweat when recalling these memories.",
+      "significance": "This reveals the darkest aspect of the One Piece world - the systematic cruelty and depravity of the Celestial Dragons. It explains why Hancock's sisters react with visible terror during the flashback and why Hancock built such strong emotional walls. The force-feeding of Devil Fruits shows how the Celestial Dragons treat even powerful abilities as mere toys.",
+      "characterIds": ["hancock", "sandersonia", "marigold"],
+      "devilFruitIds": ["mero-mero-no-mi", "hebi-hebi-no-mi-model-anaconda", "hebi-hebi-no-mi-model-king-cobra"],
+      "locationIds": ["mary-geoise"],
+      "quotes": [
+        {
+          "text": "For four years, we suffered the worst terrors imaginable. They force-fed us Devil Fruits to amuse themselves.",
+          "speaker": "Hancock",
+          "context": "Hancock describing the torture she endured as a slave"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep415-event-008",
+      "episodeNumber": 415,
+      "timestamp": "17:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "CRITICAL",
+      "title": "Fisher Tiger Debut - The Liberator of Mary Geoise",
+      "description": "Hancock reveals that after four years of slavery, a fish-man named Fisher Tiger performed an unprecedented feat: he climbed the Red Line with his bare hands and attacked Mary Geoise itself. He set fire to the city and freed every slave he could find, regardless of race. Despite his hatred for humans due to his own experiences, Fisher Tiger freed human slaves alongside fish-men and other races without discrimination.",
+      "significance": "Fisher Tiger's debut (in flashback/mention) introduces one of the most heroic figures in One Piece history. His actions directly saved Hancock and her sisters, and his philosophy of liberation without discrimination establishes him as a truly noble character. This event also explains the origin of the Sun Pirates and connects to Hatchan's backstory.",
+      "characterIds": ["fisher-tiger", "hancock", "sandersonia", "marigold"],
+      "locationIds": ["mary-geoise"],
+      "crewIds": ["sun-pirates"],
+      "quotes": [
+        {
+          "text": "One day, a fish-man appeared. His name was Fisher Tiger. He climbed the Red Line and freed every slave in Mary Geoise. We owe him a debt we can never repay.",
+          "speaker": "Hancock",
+          "context": "Hancock describing Fisher Tiger's heroic liberation of the slaves"
+        },
+        {
+          "text": "Even though he hated humans for what they did to him, he did not discriminate. He freed everyone - humans, fish-men, all of us.",
+          "speaker": "Hancock",
+          "context": "Hancock explaining Fisher Tiger's noble character"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [538, 539, 540, 541],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep415-event-009",
+      "episodeNumber": 415,
+      "timestamp": "18:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "The Sun Pirates Symbol Explained",
+      "description": "Hancock explains that after Fisher Tiger freed the slaves, he formed the Sun Pirates crew. To hide the slave brands on the freed slaves who joined him, he created the Sun Pirates' jolly roger - a sun symbol that he branded over the Hoof of the Celestial Dragon. This explains why Hatchan and other fish-men bear this mark, though they were never enslaved themselves (they added it to show solidarity).",
+      "significance": "This revelation recontextualizes earlier encounters with fish-men characters like Hatchan and Arlong, explaining the sun mark they bear. It shows Fisher Tiger's thoughtfulness in protecting his crewmates' dignity and connects multiple story arcs. This also explains why the Sun Pirates crew existed and their significance.",
+      "characterIds": ["fisher-tiger", "hancock"],
+      "crewIds": ["sun-pirates"],
+      "quotes": [
+        {
+          "text": "Fisher Tiger covered our slave marks with the symbol of the sun. That mark Hatchan has on his forehead is the same - the mark of the Sun Pirates.",
+          "speaker": "Hancock",
+          "context": "Hancock explaining the connection between Fisher Tiger's symbol and the freed slaves"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [538, 539, 540],
+      "callbacksToEpisodes": [195, 196]
+    },
+    {
+      "id": "ep415-event-010",
+      "episodeNumber": 415,
+      "timestamp": "19:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "The Gorgon Legend Revealed as a Lie",
+      "description": "Hancock admits that the legend she told her people - that she and her sisters defeated a Gorgon monster and were cursed with petrifying eyes - was a complete fabrication. She created this lie to hide the shameful truth of their enslavement and to protect the honor of the Kuja tribe. She reveals that she maintains her cold, arrogant persona to keep people at a distance and prevent them from discovering the truth.",
+      "significance": "This confession shows the psychological toll of Hancock's trauma - she has built her entire public persona around hiding her past. It reveals her vulnerability and the heavy burden she has carried alone for years. It also demonstrates her deep care for her people, as she chose to be seen as arrogant rather than bring shame to the Kuja tribe.",
+      "characterIds": ["hancock", "sandersonia", "marigold", "luffy"],
+      "locationIds": ["hancock-palace"],
+      "quotes": [
+        {
+          "text": "I would rather lie and be thought of as arrogant than have my people know the truth. I built these walls to protect us from that shame.",
+          "speaker": "Hancock",
+          "context": "Hancock explaining why she created the Gorgon legend and maintains her cold demeanor"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [411],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [411]
+    },
+    {
+      "id": "ep415-event-011",
+      "episodeNumber": 415,
+      "timestamp": "20:30",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Luffy's Compassionate Response",
+      "description": "After hearing Hancock's traumatic story, she nervously asks Luffy if he scorns her for having been a slave. Luffy's response is immediate and emphatic: he declares that he only hates the Celestial Dragons who enslaved her, not Hancock herself. He shows no pity or disgust, only anger at her oppressors.",
+      "significance": "This moment is the emotional climax of the episode and the turning point in Luffy and Hancock's relationship. Luffy's genuine, unconditional acceptance of Hancock despite her past trauma is something she has never experienced from a man. His response validates her worth and begins her emotional healing. This is the moment Hancock truly falls for Luffy.",
+      "characterIds": ["luffy", "hancock"],
+      "locationIds": ["hancock-palace"],
+      "quotes": [
+        {
+          "text": "I don't hate you. The only ones I hate are the Celestial Dragons!",
+          "speaker": "Luffy",
+          "context": "Luffy's compassionate response after learning about Hancock's enslavement"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [416, 417],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep415-event-012",
+      "episodeNumber": 415,
+      "timestamp": "21:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Hancock's Emotional Breakdown and Release",
+      "description": "For the first time since her escape from slavery, Hancock allows herself to cry openly about her traumatic past. After years of maintaining a stoic, arrogant facade, she breaks down in tears in front of Luffy, releasing the pain she has suppressed for so long. Her sisters comfort her as she weeps.",
+      "significance": "This vulnerable moment shows Hancock's emotional healing beginning. After years of hiding her pain behind arrogance and cruelty, she finally allows herself to express her suffering in front of someone she trusts. This cathartic release marks a major turning point in her character development and humanizes her completely.",
+      "characterIds": ["hancock", "sandersonia", "marigold", "luffy"],
+      "locationIds": ["hancock-palace"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep415-event-013",
+      "episodeNumber": 415,
+      "timestamp": "22:30",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Hancock's Love Confession",
+      "description": "After composing herself, Hancock looks at Luffy with a genuine smile - something rarely seen from her. While blushing, she admits that she likes Luffy. This marks the beginning of her romantic feelings for him, which will become a defining aspect of her character going forward.",
+      "significance": "This is the moment Hancock's signature characteristic - her love for Luffy - is born. Unlike her usual interactions with men, her feelings for Luffy are genuine and pure, rooted in his compassion and his defiance of the Celestial Dragons. This confession establishes one of the series' most important relationships and transforms Hancock from antagonist to ally.",
+      "characterIds": ["hancock", "luffy"],
+      "locationIds": ["hancock-palace"],
+      "quotes": [
+        {
+          "text": "I... I like you, Luffy.",
+          "speaker": "Hancock",
+          "context": "Hancock's first admission of her romantic feelings for Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [416, 417, 418, 419, 420, 421, 422, 423],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep415-event-014",
+      "episodeNumber": 415,
+      "timestamp": "23:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Hancock Agrees to Help Luffy",
+      "description": "Having shared her deepest secret and received Luffy's compassionate response, Hancock agrees to provide Luffy with a ship so he can leave Amazon Lily and return to the Sabaody Archipelago to reunite with his crew. This marks her transformation from captor to ally.",
+      "significance": "This decision demonstrates Hancock's complete trust in Luffy and her desire to help him achieve his goals. It also sets up the next phase of the story, where Hancock will become one of Luffy's most powerful and devoted allies. Her offer of help will extend far beyond just providing a ship.",
+      "characterIds": ["hancock", "luffy"],
+      "locationIds": ["hancock-palace", "amazon-lily"],
+      "quotes": [
+        {
+          "text": "You may use my ship to leave this island. I will help you return to your friends.",
+          "speaker": "Hancock",
+          "context": "Hancock offering to help Luffy leave Amazon Lily"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [416, 417],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["fisher-tiger"],
+    "locations": ["hancock-palace"],
+    "devilFruits": [],
+    "crews": ["sun-pirates"],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [416, 417, 538, 539, 540],
+    "payoffFrom": [396, 397, 398, 410, 411, 414],
+    "thematicLinks": [8, 195, 377, 538]
+  },
+  "quotes": [
+    {
+      "text": "Turn them back! I don't care about the ship, just turn them back to normal!",
+      "speaker": "Luffy",
+      "context": "Luffy's selfless choice when tested by Hancock",
+      "timestamp": "03:00"
+    },
+    {
+      "text": "This man struck a World Noble and lived to tell the tale!",
+      "speaker": "Nyon",
+      "context": "Revealing why Hancock feels she can trust Luffy",
+      "timestamp": "09:00"
+    },
+    {
+      "text": "This mark... it is the greatest shame of our lives. The Hoof of the Celestial Dragon.",
+      "speaker": "Hancock",
+      "context": "Revealing the slave brand on her back",
+      "timestamp": "11:00"
+    },
+    {
+      "text": "We were only twelve years old... just children when those monsters took us.",
+      "speaker": "Hancock",
+      "context": "Describing her kidnapping and enslavement",
+      "timestamp": "13:00"
+    },
+    {
+      "text": "For four years, we suffered the worst terrors imaginable. They force-fed us Devil Fruits to amuse themselves.",
+      "speaker": "Hancock",
+      "context": "Describing the torture under the Celestial Dragons",
+      "timestamp": "15:00"
+    },
+    {
+      "text": "One day, a fish-man appeared. His name was Fisher Tiger. He climbed the Red Line and freed every slave in Mary Geoise. We owe him a debt we can never repay.",
+      "speaker": "Hancock",
+      "context": "Introducing Fisher Tiger's heroic actions",
+      "timestamp": "17:00"
+    },
+    {
+      "text": "Even though he hated humans for what they did to him, he did not discriminate. He freed everyone - humans, fish-men, all of us.",
+      "speaker": "Hancock",
+      "context": "Explaining Fisher Tiger's noble character",
+      "timestamp": "17:30"
+    },
+    {
+      "text": "Fisher Tiger covered our slave marks with the symbol of the sun. That mark Hatchan has on his forehead is the same - the mark of the Sun Pirates.",
+      "speaker": "Hancock",
+      "context": "Explaining the Sun Pirates symbol",
+      "timestamp": "18:30"
+    },
+    {
+      "text": "I would rather lie and be thought of as arrogant than have my people know the truth. I built these walls to protect us from that shame.",
+      "speaker": "Hancock",
+      "context": "Explaining the Gorgon legend fabrication",
+      "timestamp": "19:30"
+    },
+    {
+      "text": "I don't hate you. The only ones I hate are the Celestial Dragons!",
+      "speaker": "Luffy",
+      "context": "Luffy's compassionate response to Hancock's confession",
+      "timestamp": "20:30"
+    },
+    {
+      "text": "I... I like you, Luffy.",
+      "speaker": "Hancock",
+      "context": "Hancock's first love confession",
+      "timestamp": "22:30"
+    },
+    {
+      "text": "You may use my ship to leave this island. I will help you return to your friends.",
+      "speaker": "Hancock",
+      "context": "Hancock offering to help Luffy",
+      "timestamp": "23:00"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Trauma and Healing",
+      "description": "The episode deeply explores the lasting impact of slavery and abuse on Hancock and her sisters. Their trauma shaped their entire lives, leading them to build elaborate defenses. Luffy's compassionate response begins Hancock's emotional healing process, showing that trauma can be overcome through acceptance and understanding.",
+      "symbolism": "The Hoof of the Celestial Dragon represents the permanent scar that trauma leaves, while the Sun Pirates symbol represents the possibility of covering that trauma with something positive. Hancock's tears symbolize her emotional release and the beginning of healing.",
+      "culturalReferences": ["Slavery and abolition history", "Trauma psychology and PTSD"]
+    },
+    {
+      "theme": "The Corruption of Absolute Power",
+      "description": "The Celestial Dragons' treatment of slaves demonstrates how absolute power corrupts absolutely. Their ability to enslave, torture, and brand children without consequence reveals the darkest aspects of the World Government's authority structure.",
+      "symbolism": "The slave brand literally marks people as property, representing the dehumanization inherent in systems of absolute power.",
+      "culturalReferences": ["Historical slavery systems", "Critique of aristocracy and divine right"]
+    },
+    {
+      "theme": "True Heroism and Liberation",
+      "description": "Fisher Tiger's actions embody true heroism - risking everything to free others despite his own hatred of humans. His refusal to discriminate between races when freeing slaves demonstrates genuine nobility of character.",
+      "symbolism": "Fisher Tiger climbing the Red Line with his bare hands symbolizes the seemingly impossible becoming possible through sheer will and conviction.",
+      "culturalReferences": ["Underground Railroad and abolitionist movements", "Revolutionary heroes"]
+    },
+    {
+      "theme": "Selflessness vs. Selfishness",
+      "description": "Luffy's immediate choice to save the petrified women over securing his own escape directly contrasts with the selfish cruelty of the Celestial Dragons. This dichotomy shows the fundamental difference between Luffy's character and the World Nobles.",
+      "symbolism": "The test Hancock gives Luffy parallels her own experiences - will men choose their own benefit or others' welfare?",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Hidden Pain and Masks",
+      "description": "Hancock's arrogant, cruel persona is revealed to be an elaborate mask hiding deep trauma and shame. The episode explores how people construct false identities to protect themselves from painful truths.",
+      "symbolism": "The Gorgon legend represents the false narrative Hancock created, while her tears represent the truth beneath the mask.",
+      "culturalReferences": ["Gorgon mythology twisted into a protective lie"]
+    },
+    {
+      "theme": "Unconditional Acceptance",
+      "description": "Luffy's complete lack of judgment toward Hancock's past demonstrates unconditional acceptance. He doesn't pity her or treat her differently - he simply directs his anger at her oppressors, validating her worth as a person.",
+      "symbolism": "Luffy's straightforward response without hesitation represents pure, uncomplicated human decency.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tragic", "Emotional", "Cathartic", "Touching", "Heavy"],
+  "characterSpotlights": [
+    {
+      "characterId": "hancock",
+      "role": "Protagonist - Traumatized survivor revealing her past",
+      "development": "Hancock undergoes massive character development in this episode. She reveals her deepest secret, confronts her trauma, allows herself to cry for the first time in years, and opens her heart to Luffy. This transforms her from a mysterious antagonist into a deeply sympathetic, complex character.",
+      "keyActions": [
+        "Tests Luffy's character with an ultimatum",
+        "Restores the petrified Kuja women",
+        "Reveals the slave brand on her back",
+        "Confesses her traumatic past as a slave",
+        "Cries openly about her suffering",
+        "Admits she likes Luffy",
+        "Agrees to help Luffy leave the island"
+      ],
+      "quotes": [
+        "This mark... it is the greatest shame of our lives. The Hoof of the Celestial Dragon.",
+        "I... I like you, Luffy."
+      ]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Catalyst for healing through compassion",
+      "development": "Luffy demonstrates his core values by choosing others over himself and showing unconditional compassion. His simple, direct response to Hancock's trauma - hating only her oppressors, not her - reveals his emotional intelligence and genuine goodness.",
+      "keyActions": [
+        "Chooses to save the petrified women over his own escape",
+        "Listens to Hancock's traumatic story without judgment",
+        "Declares he hates only the Celestial Dragons, not Hancock",
+        "Accepts Hancock's help to leave the island"
+      ],
+      "quotes": [
+        "Turn them back! I don't care about the ship, just turn them back to normal!",
+        "I don't hate you. The only ones I hate are the Celestial Dragons!"
+      ]
+    },
+    {
+      "characterId": "fisher-tiger",
+      "role": "Legendary liberator (flashback/mention)",
+      "development": "Fisher Tiger is introduced as a legendary hero who freed slaves from Mary Geoise. His character is established as someone who overcame his own hatred to help others without discrimination, setting him up as one of the most noble figures in the series.",
+      "keyActions": [
+        "Climbed the Red Line to Mary Geoise",
+        "Set fire to the holy city",
+        "Freed all slaves without discrimination despite hating humans",
+        "Created the Sun Pirates symbol to cover slave brands"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "sandersonia",
+      "role": "Supporting - Fellow survivor",
+      "development": "Sandersonia shares her sister's traumatic past and visibly struggles with the memories, shaking and sweating as the story is told. Her reactions emphasize the severity of the trauma.",
+      "keyActions": [
+        "Reveals her slave brand",
+        "Shows visible distress recalling the slavery",
+        "Supports Hancock during her emotional breakdown"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "marigold",
+      "role": "Supporting - Fellow survivor",
+      "development": "Like Sandersonia, Marigold shares the traumatic backstory and supports her older sister through the difficult confession.",
+      "keyActions": [
+        "Reveals her slave brand",
+        "Shows emotional distress during the flashback",
+        "Comforts Hancock as she cries"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "nyon",
+      "role": "Exposition provider and mediator",
+      "development": "Nyon serves as the catalyst for Hancock's confession by revealing Luffy's attack on a World Noble, giving Hancock the confidence that Luffy will understand her hatred of the Celestial Dragons.",
+      "keyActions": [
+        "Brings news of Luffy's attack on a Celestial Dragon",
+        "Encourages Hancock to trust Luffy",
+        "Provides context for why the sisters can trust Luffy"
+      ],
+      "quotes": [
+        "This man struck a World Noble and lived to tell the tale!"
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended the emotional moments of Hancock's confession and crying, adding more visual emphasis to the sisters' distress and Hancock's tears.",
+      "episodeTimestamp": "21:30",
+      "mangaReference": "Chapter 521",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "The anime added additional reaction shots of Sandersonia and Marigold shaking and sweating during the flashback to emphasize their trauma.",
+      "episodeTimestamp": "15:00",
+      "mangaReference": "Chapter 521",
+      "type": "ANIME_ENHANCED"
+    },
+    {
+      "difference": "Some dialogue was slightly expanded in the anime to give more emotional weight to Hancock's confession, particularly around her explanation of the Gorgon legend lie.",
+      "episodeTimestamp": "19:30",
+      "mangaReference": "Chapter 521",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode adapts Chapter 521 of the manga, titled 'Hoof of the Celestial Dragon' (天駆ける竜の蹄), which was published on November 10, 2008.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chapter_521",
+          "title": "Chapter 521 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-07"
+        }
+      ]
+    },
+    {
+      "fact": "This episode was the first One Piece episode to be simulcast by Funimation on August 29, 2009, only one hour after airing on Fuji Television in Japan, marking a significant milestone in One Piece's international distribution.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "The eyecatchers in this episode (featuring Nami and Robin) had no character themes playing due to the serious and emotional tone of the episode's content.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "Fisher Tiger is only mentioned and shown briefly in flashback in this episode, but his full backstory would be explored in detail much later in episodes 538-541 during the Fish-Man Island arc.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "The Hoof of the Soaring Dragon (天駆ける竜の蹄) is the slave brand used by the Celestial Dragons and represents one of the darkest elements of the One Piece world's power structure.",
+      "category": "WORLD_BUILDING",
+      "sources": []
+    },
+    {
+      "fact": "This episode received a TV rating of 8.9%, ranking 5th in its timeslot, indicating strong viewer interest in this emotional storyline.",
+      "category": "RECEPTION",
+      "sources": []
+    },
+    {
+      "fact": "The connection between Fisher Tiger's Sun Pirates symbol and Hatchan was first visible way back in the Arlong Park arc (episodes 195-196), but its significance wasn't explained until this episode, nearly 220 episodes later.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "Hancock's slave number was not revealed in this episode, but the manga later shows she was designated as slave number 89.",
+      "category": "WORLD_BUILDING",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
