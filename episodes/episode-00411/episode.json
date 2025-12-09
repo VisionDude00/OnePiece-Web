@@ -1,0 +1,514 @@
+{
+  "episodeNumber": 411,
+  "episodeTitle": "The Secret Hidden on Their Backs - Luffy Encounters the Snake Princess",
+  "description": "Boa Hancock returns to Amazon Lily and refuses Elder Nyon's plea to answer a World Government summons. While bathing, Luffy accidentally crashes into the bathhouse and sees a mysterious mark on Hancock's back, becoming the first man to witness her closely guarded secret.",
+  "airDate": "2009-08-02",
+  "airDateJapan": "2009-08-02",
+  "airDateUS": "2015-10-27",
+  "arcName": "Amazon Lily",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Share the World",
+    "artist": "Tohoshinki (TVXQ)",
+    "episodeRange": [395, 425]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Naoki Tate",
+    "episodeDirector": "Yukihiko Nakao",
+    "screenplay": "Jin Tanaka",
+    "artDirection": "Miho Shiraishi",
+    "storyboard": "",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Boa Hancock",
+        "actor": "Kotono Mitsuishi"
+      },
+      {
+        "character": "Boa Sandersonia",
+        "actor": "Chiwa Saito"
+      },
+      {
+        "character": "Boa Marigold",
+        "actor": "Kimiko Saito"
+      },
+      {
+        "character": "Gloriosa (Elder Nyon)",
+        "actor": "Masami Suzuki"
+      },
+      {
+        "character": "Marguerite",
+        "actor": "Masumi Asano"
+      },
+      {
+        "character": "Sweet Pea",
+        "actor": "Kujira"
+      },
+      {
+        "character": "Aphelandra",
+        "actor": "Akemi Okamura"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Boa Hancock",
+        "actor": "Lydia Mackay"
+      },
+      {
+        "character": "Gloriosa (Elder Nyon)",
+        "actor": "Pam Dougherty"
+      },
+      {
+        "character": "Marguerite",
+        "actor": "Whitney Rodgers"
+      },
+      {
+        "character": "Sweet Pea",
+        "actor": "Doug Goodrich"
+      },
+      {
+        "character": "Aphelandra",
+        "actor": "Sarah Wiedenheft"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep411-event-001",
+      "episodeNumber": 411,
+      "timestamp": "03:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Hancock's Ship Returns to Amazon Lily",
+      "description": "The Yuda, Boa Hancock's ship, arrives at Amazon Lily after her voyage. The Kuja tribe members gather to celebrate the triumphant return of their beloved Snake Princess and her sisters. The Gorgon Sisters lead their crew off the ship to the adoring cheers of their subjects.",
+      "significance": "Marks Hancock's first appearance in the episode and sets the stage for her confrontation with Elder Nyon regarding the World Government summons. This scene establishes the reverence the Kuja have for their empress.",
+      "characterIds": ["boa-hancock", "boa-sandersonia", "boa-marigold"],
+      "locationIds": ["amazon-lily"],
+      "crewIds": ["kuja-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [408, 409, 410],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep411-event-002",
+      "episodeNumber": 411,
+      "timestamp": "05:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Hancock Refuses the World Government Summons",
+      "description": "Elder Nyon (Gloriosa) urgently approaches Boa Hancock to convince her to answer the World Government's summons. She explains that a government ship has arrived demanding Hancock's presence to maintain the treaty protecting Amazon Lily. Without her title as a Warlord, the island would lose its only defense against pirates and the government. However, Hancock dismisses Nyon's concerns and literally throws her out of the palace window.",
+      "significance": "This decision reveals Hancock's rebellious nature and foreshadows the upcoming conflict that will lead to the Paramount War at Marineford. Her refusal to comply with the government puts Amazon Lily at risk, highlighting her conflicted position as both a protective empress and a traumatized former slave who despises the World Government. This is a critical setup for understanding Hancock's character and the political situation.",
+      "characterIds": ["boa-hancock", "gloriosa"],
+      "locationIds": ["hancock-palace"],
+      "quotes": [
+        {
+          "text": "A central government ship has arrived demanding your presence, lest you lose your title!",
+          "speaker": "Elder Nyon",
+          "context": "Nyon desperately trying to convince Hancock to maintain her Warlord position"
+        },
+        {
+          "text": "I refuse.",
+          "speaker": "Boa Hancock",
+          "context": "Hancock's cold dismissal before throwing Nyon out the window"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [415, 416],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep411-event-003",
+      "episodeNumber": 411,
+      "timestamp": "07:45",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "The Gorgon Legend Explained",
+      "description": "While Hancock prepares for her bath, Kuja villagers discuss the legend of the Gorgon Sisters. According to the tale, Hancock and her sisters heroically defeated a terrifying Gorgon monster that could turn people to stone with its gaze. As the monster died, it cursed the sisters with pairs of monstrous eyes on their backs that would petrify anyone who looked upon them. The villagers explain this is why the sisters can never remove their clothing in front of others and why they possess petrification abilities.",
+      "significance": "This fabricated legend is central to understanding the sisters' carefully constructed deception. While the villagers believe this story explains the sisters' powers and secrecy, it actually conceals their traumatic past as slaves of the Celestial Dragons. The Gorgon legend exploits the Kuja's isolation and lack of knowledge about Devil Fruits. This event is crucial setup for the eventual revelation of the truth about the slave marks.",
+      "characterIds": ["boa-hancock", "boa-sandersonia", "boa-marigold"],
+      "locationIds": ["amazon-lily"],
+      "quotes": [
+        {
+          "text": "Long ago, the three sisters defeated the fearsome Gorgon. But as it died, the monster cursed them with eyes on their backs that turn all who gaze upon them to stone!",
+          "speaker": "Kuja Villager",
+          "context": "Explaining the false legend to other villagers"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [410],
+      "payoffInEpisodes": [415],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep411-event-004",
+      "episodeNumber": 411,
+      "timestamp": "10:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Luffy's Desperate Search for a Ship",
+      "description": "Luffy desperately searches through Amazon Lily, trying to find someone who can lend him a ship so he can reunite with his scattered crew. He clutches his Vivre Card, which will guide him to his crewmates, but remains frustrated by the Kuja women's refusal to help him leave the island. His anxiety about his separated crew drives his increasingly reckless actions.",
+      "significance": "This scene establishes Luffy's emotional state and motivation in this episode. His desperation to reunite with his crew (who were scattered by Bartholomew Kuma) overrides any caution, leading directly to his accidental intrusion into Hancock's bath. It reinforces that Luffy's primary goal throughout the Amazon Lily arc is returning to his friends, not romance or adventure.",
+      "characterIds": ["luffy"],
+      "locationIds": ["amazon-lily"],
+      "quotes": [
+        {
+          "text": "I have to get back to my crew! Someone has to help me get off this island!",
+          "speaker": "Luffy",
+          "context": "Luffy's anxious determination to reunite with his scattered crew"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [405, 408, 409],
+      "payoffInEpisodes": [421],
+      "callbacksToEpisodes": [405]
+    },
+    {
+      "id": "ep411-event-005",
+      "episodeNumber": 411,
+      "timestamp": "14:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "CRITICAL",
+      "title": "Luffy Crashes Into Hancock's Bath",
+      "description": "While running from Kuja warriors and searching desperately for a way off the island, Luffy accidentally crashes through the palace roof and falls directly into Boa Hancock's private bathhouse. He initially panics, thinking he's drowning, before realizing the water is shallow. This marks the first direct encounter between Luffy and the Pirate Empress, occurring under highly compromising circumstances that would normally result in immediate execution for any man on Amazon Lily.",
+      "significance": "This is one of the most pivotal moments in the Amazon Lily arc and in Hancock's character development. Luffy becoming the first man to see her bathing sets up the entire conflict and eventual bond between them. The fact that he survives this encounter (when any other man would be killed instantly) demonstrates the beginning of Hancock's inability to treat Luffy like other men. This scene is the catalyst for all subsequent events between these characters.",
+      "characterIds": ["luffy", "boa-hancock"],
+      "locationIds": ["hancock-palace"],
+      "quotes": [
+        {
+          "text": "I'm drowning! Wait... this water is shallow!",
+          "speaker": "Luffy",
+          "context": "Luffy's confused realization after falling into the bath"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [409, 410],
+      "payoffInEpisodes": [412, 413, 415],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep411-event-006",
+      "episodeNumber": 411,
+      "timestamp": "16:45",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Luffy Sees the Mark on Hancock's Back",
+      "description": "As Hancock turns around in shock at the intrusion, Luffy sees a mysterious symbol branded on her back - the Hoof of the Soaring Dragon, the slave mark of the Celestial Dragons. Though Luffy doesn't yet understand what the symbol means, he is surprised by its presence. This is the Gorgon Sisters' most closely guarded secret, one they would petrify anyone to protect, as it reveals their shameful past as slaves rather than the heroic Gorgon slayers of legend.",
+      "significance": "This moment is absolutely critical to the entire Amazon Lily arc and to understanding Hancock's character. Luffy seeing the slave mark is the deepest violation of Hancock's carefully constructed defenses and secrets. By all rights, this should result in Luffy's immediate death to protect the secret. However, this event ultimately leads to Hancock's emotional breakthrough when she later reveals the truth to Luffy, who responds with empathy rather than disgust. This is the inciting incident for Hancock falling in love with Luffy and becoming his ally.",
+      "characterIds": ["luffy", "boa-hancock"],
+      "locationIds": ["hancock-palace"],
+      "quotes": [
+        {
+          "text": "What is that mark...?",
+          "speaker": "Luffy",
+          "context": "Luffy's innocent observation of the slave brand on Hancock's back"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [415],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep411-event-007",
+      "episodeNumber": 411,
+      "timestamp": "18:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Luffy Unaffected by Hancock's Beauty",
+      "description": "When Hancock attempts to use her devastating beauty to petrify Luffy (as she does with all who show her lust), she is shocked to discover that Luffy is completely unaffected. Unlike every other person who has ever seen her, Luffy shows no romantic or lustful interest whatsoever. His mind is entirely focused on getting back to his crew, making him immune to her Mero Mero no Mi powers' primary effect, which only works on those who feel attraction toward her.",
+      "significance": "This is a watershed moment for Hancock's character. For the first time in her life since becoming beautiful, someone is completely unaffected by her appearance - not because they're resisting, but because Luffy genuinely doesn't care about her looks. This immunity to her greatest weapon (her beauty) both infuriates and intrigues her. It's the first crack in her worldview and sets up why she eventually develops genuine feelings for him. Luffy's immunity also demonstrates his pure-hearted nature and single-minded devotion to his crew above all else.",
+      "characterIds": ["luffy", "boa-hancock"],
+      "devilFruitIds": ["mero-mero-no-mi"],
+      "locationIds": ["hancock-palace"],
+      "quotes": [
+        {
+          "text": "He... he's not affected by my beauty?!",
+          "speaker": "Boa Hancock",
+          "context": "Hancock's shock at Luffy's complete indifference to her appearance"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [410],
+      "payoffInEpisodes": [412, 415, 417],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep411-event-008",
+      "episodeNumber": 411,
+      "timestamp": "20:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Hancock Orders Luffy's Execution",
+      "description": "Enraged and alarmed that Luffy has seen the mark on her back, Hancock immediately orders his capture and execution. She cannot allow him to live and potentially reveal what he saw, as the truth about her past as a slave would destroy the Gorgon legend and potentially force her to leave Amazon Lily in shame. The episode ends with Luffy fleeing from the palace guards while Hancock vows to eliminate this threat to her secret.",
+      "significance": "This decision kicks off the central conflict of the next few episodes. Hancock's determination to kill Luffy to protect her secret creates the tension that will eventually be resolved when she reveals the truth to him. The fact that Luffy must now survive on an island where the most powerful person wants him dead sets up the arena battle and eventual revelation. This also shows how desperately the sisters guard their secret.",
+      "characterIds": ["boa-hancock", "luffy"],
+      "locationIds": ["hancock-palace", "amazon-lily"],
+      "quotes": [
+        {
+          "text": "That man must die! He has seen what no one outside my sisters must ever see!",
+          "speaker": "Boa Hancock",
+          "context": "Hancock's furious decree after Luffy sees her back"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [412, 413, 414, 415],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["boa-hancock", "boa-sandersonia", "boa-marigold", "gloriosa", "salome"],
+    "locations": ["hancock-palace"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [412, 413, 414, 415],
+    "payoffFrom": [408, 409, 410],
+    "thematicLinks": [415, 521]
+  },
+  "quotes": [
+    {
+      "text": "A central government ship has arrived demanding your presence, lest you lose your title!",
+      "speaker": "Elder Nyon",
+      "context": "Warning Hancock about the World Government summons",
+      "timestamp": "05:15"
+    },
+    {
+      "text": "I refuse.",
+      "speaker": "Boa Hancock",
+      "context": "Hancock's dismissal before throwing Nyon out the window",
+      "timestamp": "05:45"
+    },
+    {
+      "text": "Long ago, the three sisters defeated the fearsome Gorgon. But as it died, the monster cursed them with eyes on their backs that turn all who gaze upon them to stone!",
+      "speaker": "Kuja Villager",
+      "context": "Explaining the fabricated Gorgon legend",
+      "timestamp": "07:45"
+    },
+    {
+      "text": "I have to get back to my crew! Someone has to help me get off this island!",
+      "speaker": "Luffy",
+      "context": "Luffy's desperate search for a way to reunite with his crew",
+      "timestamp": "10:20"
+    },
+    {
+      "text": "What is that mark...?",
+      "speaker": "Luffy",
+      "context": "Luffy noticing the slave mark on Hancock's back",
+      "timestamp": "16:45"
+    },
+    {
+      "text": "He... he's not affected by my beauty?!",
+      "speaker": "Boa Hancock",
+      "context": "Hancock's shock at Luffy's immunity to her appearance",
+      "timestamp": "18:30"
+    },
+    {
+      "text": "That man must die! He has seen what no one outside my sisters must ever see!",
+      "speaker": "Boa Hancock",
+      "context": "Hancock ordering Luffy's execution",
+      "timestamp": "20:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Secrets and Shame",
+      "description": "The episode revolves around the deep secrets the Gorgon Sisters keep about their past. The false Gorgon legend masks their traumatic history as slaves, and they are willing to kill to protect this secret. Hancock's desperate need to hide her past reflects the shame and trauma she carries.",
+      "symbolism": "The mark on Hancock's back symbolizes her hidden past and the permanent scar left by her enslavement. Her beautiful appearance serves as a mask covering deep psychological wounds.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Duty vs. Personal Trauma",
+      "description": "Hancock must balance her duty to protect Amazon Lily (requiring her to maintain her Warlord status) against her deep-seated hatred of the World Government that enslaved her. Her refusal to answer the summons shows how her trauma overrides rational decision-making.",
+      "symbolism": "Elder Nyon represents duty and pragmatism, while Hancock represents emotional wounds that won't heal. The act of throwing Nyon out the window symbolizes Hancock rejecting responsibility to avoid confronting her trauma.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Power of Innocence",
+      "description": "Luffy's complete innocence and lack of ulterior motives make him immune to Hancock's beauty-based powers. His pure-hearted nature and singular focus on his crew create an interaction unlike any Hancock has experienced, setting up their unusual relationship.",
+      "symbolism": "Luffy's immunity to petrification represents how genuine, innocent people cannot be manipulated by superficial beauty or charm. His focus on his crew over everything else demonstrates the power of loyalty.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Appearances vs. Reality",
+      "description": "The Gorgon legend presents the sisters as heroic monster-slayers cursed with terrible power, masking the reality that they are victims of human cruelty with Devil Fruit abilities. Hancock's beauty hides her deep trauma and hatred of men.",
+      "symbolism": "The fabricated Gorgon story represents how societies create myths to make sense of things they don't understand. The gap between legend and truth reflects the disconnect between Hancock's public persona and private pain.",
+      "culturalReferences": ["The Gorgon legend references Greek mythology, particularly Medusa, who could turn people to stone with her gaze"]
+    }
+  ],
+  "emotionalTone": ["Dramatic", "Suspenseful", "Mysterious", "Tense"],
+  "characterSpotlights": [
+    {
+      "characterId": "boa-hancock",
+      "role": "Central protagonist making her proper debut",
+      "development": "Hancock is introduced as a complex character - outwardly beautiful and powerful, but guarding a terrible secret with deadly seriousness. Her refusal to answer the government summons hints at her traumatic past, while her violent reaction to Luffy seeing her back reveals the depth of her psychological wounds. Her shock at Luffy's immunity to her beauty begins to crack her worldview.",
+      "keyActions": [
+        "Returns triumphantly to Amazon Lily",
+        "Refuses Elder Nyon's plea to answer the World Government summons",
+        "Throws Elder Nyon out of the palace window",
+        "Discovers Luffy in her bath",
+        "Realizes Luffy saw the mark on her back",
+        "Attempts to petrify Luffy with her beauty but fails",
+        "Orders Luffy's immediate execution"
+      ],
+      "quotes": [
+        "I refuse.",
+        "He... he's not affected by my beauty?!",
+        "That man must die! He has seen what no one outside my sisters must ever see!"
+      ]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Unwitting catalyst for revelation",
+      "development": "Luffy's desperation to reunite with his crew drives him to increasingly reckless actions. His complete focus on his friends makes him immune to romantic or lustful feelings, even toward the world's most beautiful woman. His innocent nature and lack of understanding about the significance of what he saw contrasts sharply with Hancock's terror at her secret being revealed.",
+      "keyActions": [
+        "Desperately searches for a way to leave Amazon Lily",
+        "Accidentally crashes into Hancock's bathhouse",
+        "Sees the slave mark on Hancock's back",
+        "Remains completely unaffected by Hancock's beauty",
+        "Becomes targeted for execution"
+      ],
+      "quotes": [
+        "I have to get back to my crew! Someone has to help me get off this island!",
+        "I'm drowning! Wait... this water is shallow!",
+        "What is that mark...?"
+      ]
+    },
+    {
+      "characterId": "gloriosa",
+      "role": "Voice of reason and duty",
+      "development": "Elder Nyon serves as the pragmatic advisor who understands the political realities of Amazon Lily's situation. Her urgent plea to Hancock shows genuine concern for the island's safety, but her inability to persuade Hancock reveals the limits of rational argument against deep trauma.",
+      "keyActions": [
+        "Urgently informs Hancock about the World Government summons",
+        "Explains the danger to Amazon Lily if Hancock loses her Warlord title",
+        "Gets thrown out of the palace window by Hancock"
+      ],
+      "quotes": [
+        "A central government ship has arrived demanding your presence, lest you lose your title!"
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime expands the scenes of Hancock's arrival at Amazon Lily and the celebration by the Kuja warriors, showing more detail of the island's inhabitants welcoming her back.",
+      "episodeTimestamp": "03:30",
+      "mangaReference": "Chapter 517",
+      "type": "EXPANDED_SCENE"
+    },
+    {
+      "difference": "The conversation between the Kuja villagers explaining the Gorgon legend is extended in the anime to provide more exposition for viewers.",
+      "episodeTimestamp": "07:45",
+      "mangaReference": "Chapter 517",
+      "type": "EXPANDED_SCENE"
+    },
+    {
+      "difference": "Luffy's panicked reactions and running around Amazon Lily searching for a ship are extended for comedic and dramatic effect.",
+      "episodeTimestamp": "10:20",
+      "mangaReference": "Chapter 517",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the first proper appearance of Boa Hancock, who will become one of Luffy's most important allies and one of the most popular characters in the series.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_411",
+          "title": "Episode 411 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-07"
+        }
+      ]
+    },
+    {
+      "fact": "The episode adapts Chapter 517 of the manga, titled 'Bathing' (お風呂, Ofuro).",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chapter_517",
+          "title": "Chapter 517 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-07"
+        }
+      ]
+    },
+    {
+      "fact": "Kotono Mitsuishi, who voices Boa Hancock, is famous for voicing Usagi Tsukino/Sailor Moon in the Sailor Moon series and Misato Katsuragi in Neon Genesis Evangelion.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://www.behindthevoiceactors.com/tv-shows/One-Piece/Boa-Hancock/",
+          "title": "Boa Hancock Voice - One Piece",
+          "platform": "Behind The Voice Actors",
+          "accessedAt": "2025-12-07"
+        }
+      ]
+    },
+    {
+      "fact": "The episode aired in Japan on August 2, 2009, but didn't air in the US until October 27, 2015 - over 6 years later - as part of the Funimation dub.",
+      "category": "BROADCAST",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_411",
+          "title": "Episode 411 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-07"
+        }
+      ]
+    },
+    {
+      "fact": "The character Pandawomanmi makes a cameo appearance in the scene after Hancock throws Elder Nyon out the window, when she orders her bath to be prepared.",
+      "category": "EASTER_EGG",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_411",
+          "title": "Episode 411 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-07"
+        }
+      ]
+    },
+    {
+      "fact": "This episode has an IMDb rating of 7.8/10, making it one of the higher-rated episodes in the Amazon Lily arc.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://www.imdb.com/title/tt1480284/",
+          "title": "One Piece - Episode 411",
+          "platform": "IMDb",
+          "accessedAt": "2025-12-07"
+        }
+      ]
+    },
+    {
+      "fact": "The opening theme 'Share the World' by Tohoshinki (TVXQ) debuted at number one on the Oricon charts, making them the first foreign artist to achieve six number one singles in Japan.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Share_the_World",
+          "title": "Share the World - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-07"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
