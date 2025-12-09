@@ -1,0 +1,569 @@
+{
+  "episodeNumber": 422,
+  "episodeTitle": "A Deadly Infiltration! The Underwater Prison Impel Down!",
+  "description": "Luffy and Hancock arrive at the underwater prison Impel Down, where Luffy hides beneath Hancock's cloak to avoid detection. With only 33 hours until Ace's execution, they must navigate the prison's strict security protocols. Meanwhile, Garp visits Ace in his cell, and Buggy the Clown escapes from Level 1.",
+  "airDate": "2009-10-18",
+  "airDateJapan": "2009-10-18",
+  "airDateUS": "2015-12-15",
+  "arcName": "Impel Down",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Share the World",
+    "artist": "Tohoshinki (TVXQ)",
+    "episodeRange": [395, 425]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Toshio Deguchi",
+    "episodeDirector": "Yoshihiro Ueda",
+    "screenplay": "Yoshiyuki Suga",
+    "artDirection": "Ryūji Yoshiike",
+    "storyboard": "",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Portgas D. Ace",
+        "actor": "Toshio Furukawa"
+      },
+      {
+        "character": "Monkey D. Garp",
+        "actor": "Hiroshi Naka"
+      },
+      {
+        "character": "Boa Hancock",
+        "actor": "Kotono Mitsuishi"
+      },
+      {
+        "character": "Buggy",
+        "actor": "Shigeru Chiba"
+      },
+      {
+        "character": "Alvida",
+        "actor": "Yoko Matsuoka"
+      },
+      {
+        "character": "Hannyabal",
+        "actor": "Tetsuo Goto"
+      },
+      {
+        "character": "Domino",
+        "actor": "Naomi Shindo"
+      },
+      {
+        "character": "Minotaurus",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Momonga",
+        "actor": "Shinichiro Ohta"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Portgas D. Ace",
+        "actor": "Travis Willingham"
+      },
+      {
+        "character": "Monkey D. Garp",
+        "actor": "Brian Mathis"
+      },
+      {
+        "character": "Boa Hancock",
+        "actor": "Lydia Mackay"
+      },
+      {
+        "character": "Buggy",
+        "actor": "Mike McFarland"
+      },
+      {
+        "character": "Alvida",
+        "actor": "Laurie Steele"
+      },
+      {
+        "character": "Hannyabal",
+        "actor": "Brad Jackson"
+      },
+      {
+        "character": "Domino",
+        "actor": "Haley Esposito"
+      },
+      {
+        "character": "Minotaurus",
+        "actor": "Josh Martin"
+      },
+      {
+        "character": "Momonga",
+        "actor": "Paul St. Peter"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep422-event-001",
+      "episodeNumber": 422,
+      "timestamp": "02:30",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Garp and Ace Discuss Their Criminal Heritage",
+      "description": "Vice Admiral Garp visits Ace in his Impel Down cell, expressing disappointment that both Ace and Luffy chose piracy over becoming Marines. Ace responds that it wouldn't have mattered because they both carry the blood of a world-class criminal, hinting at his true parentage.",
+      "significance": "This conversation foreshadows the major revelation of Ace's parentage and establishes the emotional conflict between Garp's duty as a Marine and his love for his grandsons. It highlights the theme of inherited legacy versus chosen family.",
+      "characterIds": ["ace", "garp"],
+      "locationIds": ["impel-down"],
+      "quotes": [
+        {
+          "text": "You both have the blood of a world-class criminal. You could never be Marines.",
+          "speaker": "Ace",
+          "context": "Ace explains to Garp why he and Luffy chose piracy"
+        },
+        {
+          "text": "Whitebeard is my only father. He's the one who took care of me.",
+          "speaker": "Ace",
+          "context": "Ace rejects his biological father and affirms his loyalty to Whitebeard"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [459, 460, 461],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep422-event-002",
+      "episodeNumber": 422,
+      "timestamp": "04:00",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Ace Took His Mother's Surname",
+      "description": "Ace reveals to Garp that he took his mother's name 'Portgas' out of love and respect for her sacrifice, and that he doesn't care about his biological father. He considers Whitebeard his only true father.",
+      "significance": "This reveals Ace's deep emotional connection to his mother and his rejection of his biological father's legacy. It establishes the importance of chosen family over blood relations, a recurring theme in One Piece.",
+      "characterIds": ["ace", "garp"],
+      "locationIds": ["impel-down"],
+      "quotes": [
+        {
+          "text": "I took my mother's name 'Portgas' because I owe her everything. I don't care about my father.",
+          "speaker": "Ace",
+          "context": "Ace explains why he uses the Portgas surname"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [459, 460],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep422-event-003",
+      "episodeNumber": 422,
+      "timestamp": "06:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Buggy Pirates Abandon Rescue Attempt",
+      "description": "The Buggy Pirates, along with Alvida, sail near Impel Down with the intention of rescuing their captain. However, upon seeing the formidable fortress and realizing the impossibility of breaking in, they abandon their rescue attempt and sail away.",
+      "significance": "This scene demonstrates the feared reputation of Impel Down and establishes that even pirates loyal to their captain recognize when a mission is impossible. It adds dark humor while showing the prison's intimidating presence.",
+      "characterIds": ["alvida", "cabaji"],
+      "locationIds": ["impel-down"],
+      "crewIds": ["buggy-pirates"],
+      "quotes": [
+        {
+          "text": "Our captain could be sentenced to execution just like Ace!",
+          "speaker": "Cabaji",
+          "context": "Cabaji expresses concern about Buggy's fate"
+        },
+        {
+          "text": "It would be impossible for us to break inside. We should leave.",
+          "speaker": "Alvida",
+          "context": "Alvida convinces the crew to abandon the rescue attempt"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [423],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep422-event-004",
+      "episodeNumber": 422,
+      "timestamp": "08:00",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Luffy and Hancock Arrive at Impel Down",
+      "description": "Luffy and Boa Hancock arrive at Impel Down aboard Vice Admiral Momonga's ship, with Luffy hiding beneath Hancock's cloak. A narrator announces that only 33 hours remain until Ace's execution, establishing the urgent time limit for Luffy's rescue mission.",
+      "significance": "This marks the beginning of the Impel Down Arc proper and establishes the ticking clock that will drive the tension throughout the arc. Luffy's infiltration of the world's most secure prison is one of the boldest actions he's taken.",
+      "characterIds": ["luffy", "hancock", "momonga"],
+      "locationIds": ["impel-down"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [415, 416, 417, 418, 419, 420, 421],
+      "payoffInEpisodes": [423, 424, 425],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep422-event-005",
+      "episodeNumber": 422,
+      "timestamp": "09:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Hannyabal's Debut",
+      "description": "Hannyabal, the Vice Warden of Impel Down, makes his first appearance as he greets Vice Admiral Momonga and Warlord Boa Hancock at the prison entrance. He is informed about Buggy's escape from Level 1 and demonstrates his ambitions to become the Warden.",
+      "significance": "Hannyabal's introduction establishes him as a comedic but important character in the Impel Down hierarchy. His transparent ambition to replace Magellan as Warden provides ongoing humor throughout the arc.",
+      "characterIds": ["hannyabal", "hancock", "momonga"],
+      "locationIds": ["impel-down"],
+      "quotes": [
+        {
+          "text": "Welcome to Impel Down, Vice Admiral Momonga and Warlord Boa Hancock!",
+          "speaker": "Hannyabal",
+          "context": "Hannyabal greets the arrivals at Impel Down"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [423, 424, 438],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep422-event-006",
+      "episodeNumber": 422,
+      "timestamp": "11:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Domino's Debut",
+      "description": "Domino, the Chief Guard of Impel Down, makes her first appearance. She is introduced by Hannyabal and tasked with conducting the mandatory full-body search of Boa Hancock, as all visitors to Impel Down must undergo this security protocol.",
+      "significance": "Domino's introduction establishes the strict security procedures of Impel Down and creates tension as Luffy must avoid detection during Hancock's body search.",
+      "characterIds": ["domino", "hancock", "hannyabal"],
+      "locationIds": ["impel-down"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [423],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep422-event-007",
+      "episodeNumber": 422,
+      "timestamp": "13:00",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Seastone Handcuff Security Protocol",
+      "description": "Domino places Seastone handcuffs on Hancock to nullify her Devil Fruit powers during the body search. This is revealed to be standard protocol for all Devil Fruit users entering Impel Down, demonstrating the prison's comprehensive security measures.",
+      "significance": "This scene reinforces the power of Seastone as a counter to Devil Fruit abilities and shows that even a Warlord of the Sea must submit to Impel Down's security protocols. It creates tension as Hancock must hide Luffy without using her powers.",
+      "characterIds": ["hancock", "domino"],
+      "locationIds": ["impel-down"],
+      "quotes": [
+        {
+          "text": "Standard procedure for all Devil Fruit users. Please wear these Seastone handcuffs.",
+          "speaker": "Domino",
+          "context": "Domino explains the security protocol to Hancock"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep422-event-008",
+      "episodeNumber": 422,
+      "timestamp": "15:30",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Buggy Escapes from Level 1",
+      "description": "Buggy the Clown successfully escapes from his cell on Level 1 of Impel Down using his Bara Bara no Mi powers. His escape is reported to Hannyabal, who is informed about Buggy's Devil Fruit abilities and the potential threat he poses.",
+      "significance": "Buggy's escape sets up his role as a comedic wildcard throughout the Impel Down arc. His ability to separate his body parts makes him uniquely suited to escaping prison, foreshadowing his continued survival and eventual role in the mass breakout.",
+      "characterIds": ["buggy", "hannyabal"],
+      "locationIds": ["impel-down"],
+      "devilFruitIds": ["bara-bara-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [423, 424, 425],
+      "callbacksToEpisodes": [4, 5, 6]
+    },
+    {
+      "id": "ep422-event-009",
+      "episodeNumber": 422,
+      "timestamp": "17:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Minotaurus Suppresses Prison Riot",
+      "description": "The Minotaurus, a massive bipedal cow wielding a spiked mace, appears to suppress a prisoner riot on Level 1. This Jailer Beast demonstrates overwhelming power, easily subduing multiple prisoners. Buggy witnesses this display of force.",
+      "significance": "The Minotaurus's debut introduces the Jailer Beasts as a major threat within Impel Down. This reveals that the prison doesn't just rely on bars and walls, but has monstrous guards with awakened Zoan powers (though this isn't explicitly stated yet).",
+      "characterIds": ["minotaurus", "buggy"],
+      "locationIds": ["impel-down"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [425, 426],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep422-event-010",
+      "episodeNumber": 422,
+      "timestamp": "19:00",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "CRITICAL",
+      "title": "33 Hours Until Ace's Execution",
+      "description": "The episode emphasizes that only 33 hours remain until Portgas D. Ace's public execution at Marineford. This establishes the urgent time constraint for Luffy's rescue mission and the impending war between Whitebeard's forces and the World Government.",
+      "significance": "The countdown creates intense narrative tension and establishes the stakes for the entire Impel Down and Marineford arcs. Every delay or setback Luffy faces becomes more critical as time runs out.",
+      "characterIds": ["ace", "luffy"],
+      "locationIds": ["impel-down", "marineford"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [416, 417, 418, 419, 420, 421],
+      "payoffInEpisodes": [456, 457, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep422-event-011",
+      "episodeNumber": 422,
+      "timestamp": "21:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "One Piece Film: Strong World Preview",
+      "description": "The episode concludes with a special preview for One Piece Film: Strong World, the tenth One Piece movie directed by series creator Eiichiro Oda. The preview teases the film's villain Shiki and the Straw Hat crew's involvement in the story.",
+      "significance": "This preview promoted the highly anticipated movie that would release on December 12, 2009, featuring Oda's first direct involvement in a One Piece film. The preview's inclusion shows the coordination between the anime and film productions.",
+      "characterIds": [],
+      "locationIds": [],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["hannyabal", "domino", "minotaurus"],
+    "locations": ["impel-down"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [423, 424, 425],
+    "payoffFrom": [415, 416, 417, 418, 419, 420, 421],
+    "thematicLinks": [459, 460, 461]
+  },
+  "quotes": [
+    {
+      "text": "You both have the blood of a world-class criminal. You could never be Marines.",
+      "speaker": "Ace",
+      "context": "Ace's conversation with Garp about his and Luffy's heritage",
+      "timestamp": "02:30"
+    },
+    {
+      "text": "Whitebeard is my only father. He's the one who took care of me.",
+      "speaker": "Ace",
+      "context": "Ace affirms his loyalty to Whitebeard over his biological father",
+      "timestamp": "02:30"
+    },
+    {
+      "text": "I took my mother's name 'Portgas' because I owe her everything. I don't care about my father.",
+      "speaker": "Ace",
+      "context": "Ace explains his choice of surname",
+      "timestamp": "04:00"
+    },
+    {
+      "text": "Our captain could be sentenced to execution just like Ace!",
+      "speaker": "Cabaji",
+      "context": "Buggy Pirates worry about their captain's fate",
+      "timestamp": "06:00"
+    },
+    {
+      "text": "Welcome to Impel Down, Vice Admiral Momonga and Warlord Boa Hancock!",
+      "speaker": "Hannyabal",
+      "context": "Hannyabal's greeting at the prison entrance",
+      "timestamp": "09:30"
+    },
+    {
+      "text": "Standard procedure for all Devil Fruit users. Please wear these Seastone handcuffs.",
+      "speaker": "Domino",
+      "context": "Domino enforces security protocols",
+      "timestamp": "13:00"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Chosen Family vs. Blood Family",
+      "description": "Ace's conversation with Garp explores the tension between biological heritage and chosen family. Despite being the son of the Pirate King, Ace considers Whitebeard his true father and took his mother's name to honor her sacrifice.",
+      "symbolism": "The Portgas name represents Ace's rejection of inherited destiny and his choice to forge his own path.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Sacrifice and Determination",
+      "description": "Luffy's infiltration of Impel Down demonstrates his unwavering determination to save his brother, regardless of the personal risk. He's willing to infiltrate the world's most secure prison for family.",
+      "symbolism": "The 33-hour countdown symbolizes the limited time for brotherly love to overcome institutional power.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Power and Security",
+      "description": "The episode showcases Impel Down's multilayered security systems, from Seastone handcuffs to Jailer Beasts, establishing it as a seemingly impenetrable fortress.",
+      "symbolism": "Impel Down represents the World Government's ultimate expression of control and punishment.",
+      "culturalReferences": ["Dante's Inferno - the multi-level hell structure"]
+    },
+    {
+      "theme": "Loyalty and Abandonment",
+      "description": "The Buggy Pirates' decision to abandon their rescue attempt contrasts with Luffy's determination, highlighting different types of pirate crews and their bonds.",
+      "symbolism": "The contrast between the Buggy Pirates fleeing and Luffy infiltrating shows the difference between superficial and genuine loyalty.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Foreboding", "Determined", "Emotional"],
+  "characterSpotlights": [
+    {
+      "characterId": "ace",
+      "role": "Imprisoned protagonist's brother",
+      "development": "Ace reveals his complex feelings about his heritage, showing his rejection of his biological father and deep love for his mother and Whitebeard. His emotional vulnerability with Garp contrasts with his usual confident demeanor.",
+      "keyActions": [
+        "Discusses his criminal heritage with Garp",
+        "Explains why he took his mother's surname",
+        "Affirms Whitebeard as his only true father",
+        "Waits in his cell as execution approaches"
+      ],
+      "quotes": [
+        "Whitebeard is my only father. He's the one who took care of me.",
+        "I took my mother's name 'Portgas' because I owe her everything."
+      ]
+    },
+    {
+      "characterId": "garp",
+      "role": "Conflicted grandfather",
+      "development": "Garp's visit to Ace reveals his deep conflict between his duty as a Marine and his love for his grandsons. His disappointment that both chose piracy over the Marines shows his internal struggle.",
+      "keyActions": [
+        "Visits Ace in his cell",
+        "Expresses disappointment about Ace and Luffy's choices",
+        "Listens to Ace's explanation about his heritage"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "luffy",
+      "role": "Determined infiltrator",
+      "development": "Though mostly hidden beneath Hancock's cloak, Luffy's presence drives the tension of the episode. His willingness to infiltrate Impel Down shows his growth in strategic thinking and his unwavering devotion to saving Ace.",
+      "keyActions": [
+        "Arrives at Impel Down hidden under Hancock's cloak",
+        "Remains concealed during security checks",
+        "Begins his infiltration mission with 33 hours remaining"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "hancock",
+      "role": "Luffy's ally and smuggler",
+      "development": "Hancock demonstrates her commitment to helping Luffy by using her Warlord status to gain entry to Impel Down. Her composure during the security search shows her determination to assist Luffy despite the risks.",
+      "keyActions": [
+        "Arrives at Impel Down with Luffy hidden beneath her cloak",
+        "Submits to Seastone handcuffs and body search",
+        "Maintains her cover to protect Luffy"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "buggy",
+      "role": "Comedic wildcard prisoner",
+      "development": "Buggy's escape from Level 1 reintroduces him as a survivor and opportunist. His presence in Impel Down sets up his role in the upcoming chaos.",
+      "keyActions": [
+        "Escapes from his Level 1 cell using his Devil Fruit powers",
+        "Witnesses the Minotaurus suppressing a riot",
+        "Begins navigating the prison"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime expanded the Buggy Pirates' scene near Impel Down, adding more dialogue and reactions from the crew members about abandoning the rescue attempt.",
+      "episodeTimestamp": "06:00",
+      "mangaReference": "Chapter 525",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "The anime added more detailed animation of Impel Down's exterior and the approach of Momonga's ship, building tension for the infiltration.",
+      "episodeTimestamp": "08:00",
+      "mangaReference": "Chapter 525",
+      "type": "ANIME_ENHANCED"
+    },
+    {
+      "difference": "The Minotaurus scene was visually expanded in the anime to better showcase the Jailer Beast's size and power.",
+      "episodeTimestamp": "17:00",
+      "mangaReference": "Chapter 526",
+      "type": "ANIME_ENHANCED"
+    },
+    {
+      "difference": "The preview for One Piece Film: Strong World at the episode's end was anime-only promotional content.",
+      "episodeTimestamp": "21:00",
+      "mangaReference": "N/A",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the beginning of the Impel Down Arc, one of the most acclaimed arcs in One Piece for its creative prison setting and reunion with past antagonists.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_422",
+          "title": "Episode 422 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-08"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 422 adapts manga chapters 525-526, titled 'The Underwater Prison Impel Down' and 'Adventure in the Great Prison'.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chapter_525",
+          "title": "Chapter 525 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-08"
+        }
+      ]
+    },
+    {
+      "fact": "The original Japanese broadcast included a preview for One Piece Film: Strong World, which would premiere on December 12, 2009. The preview was shortened from its usual length to accommodate the film preview.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_422",
+          "title": "Episode 422 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-08"
+        }
+      ]
+    },
+    {
+      "fact": "This episode features the first appearance of the Minotaurus, one of the five Jailer Beasts. These creatures are later revealed to be awakened Zoan-type Devil Fruit users.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "The 33-hour countdown to Ace's execution creates a ticking clock that drives the tension throughout both the Impel Down and Marineford arcs.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "Hannyabal's voice actor in Japanese, Tetsuo Goto, is known for voicing comedic characters, which fits Hannyabal's role as comic relief with surprising depth.",
+      "category": "VOICE_ACTING",
+      "sources": []
+    },
+    {
+      "fact": "Kappei Yamaguchi, who voices the Minotaurus, also voices Usopp in the series, showcasing his versatile range from comedic to monstrous characters.",
+      "category": "VOICE_ACTING",
+      "sources": []
+    },
+    {
+      "fact": "Impel Down's design is inspired by Dante's Inferno, with multiple levels descending deeper into hell-like conditions. This literary reference adds depth to the prison's worldbuilding.",
+      "category": "WORLD_BUILDING",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
