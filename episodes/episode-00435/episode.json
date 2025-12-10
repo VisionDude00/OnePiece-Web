@@ -1,0 +1,551 @@
+{
+  "episodeNumber": 435,
+  "episodeTitle": "Mighty Magellan! Bon Clay Bugs Out!",
+  "description": "Luffy confronts Chief Warden Magellan in a desperate battle to reach Ace. Despite Bentham's warnings about Magellan's deadly poison powers, Luffy activates Gear Second and lands a Jet Bazooka, but suffers severe poisoning. Meanwhile, Buggy and Mr. 3 attempt to escape but are quickly defeated by Vice Warden Hannyabal.",
+  "airDate": "2010-01-24",
+  "airDateJapan": "2010-01-24",
+  "airDateUS": "2010-01-23",
+  "arcName": "Impel Down",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Kaze wo Sagashite",
+    "artist": "Mari Yaguchi with Straw Hat",
+    "episodeRange": [426, 458]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Kenji Yokoyama",
+    "episodeDirector": "Takahiro Imamura",
+    "screenplay": "Yoshiyuki Suga",
+    "artDirection": "Miho Shiraishi",
+    "storyboard": "",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Magellan",
+        "actor": "Mitsuaki Hoshino"
+      },
+      {
+        "character": "Bentham (Mr. 2 Bon Clay)",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Buggy",
+        "actor": "Shigeru Chiba"
+      },
+      {
+        "character": "Mr. 3 (Galdino)",
+        "actor": "Nobuyuki Hiyama"
+      },
+      {
+        "character": "Hannyabal",
+        "actor": "Tetsuo Goto"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Magellan",
+        "actor": "Jeremy Inman"
+      },
+      {
+        "character": "Bentham (Mr. 2 Bon Clay)",
+        "actor": "Barry Yandell"
+      },
+      {
+        "character": "Buggy",
+        "actor": "Mike McFarland"
+      },
+      {
+        "character": "Mr. 3 (Galdino)",
+        "actor": "Duncan Brannan"
+      },
+      {
+        "character": "Hannyabal",
+        "actor": "Brad Jackson"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep435-event-001",
+      "episodeNumber": 435,
+      "timestamp": "03:15",
+      "eventType": "BATTLE_START",
+      "severity": "CRITICAL",
+      "title": "Magellan Confronts Luffy",
+      "description": "Chief Warden Magellan appears before Luffy on Level 4, blocking his path to Ace. Guards evacuate in fear as the deadly warden prepares for battle.",
+      "significance": "Marks the beginning of one of Luffy's most dangerous battles in Impel Down, against an opponent whose very body is lethal poison.",
+      "characterIds": ["luffy", "magellan"],
+      "locationIds": ["impel-down-level-4"],
+      "quotes": [
+        {
+          "text": "It is all over if Magellan comes.",
+          "speaker": "Mr. 3",
+          "context": "Foreshadowing Magellan's appearance moments before he arrives"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [425, 434],
+      "payoffInEpisodes": [436, 437],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep435-event-002",
+      "episodeNumber": 435,
+      "timestamp": "05:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Bentham Warns About Magellan's Poison Powers",
+      "description": "Bentham desperately warns Luffy about Magellan's Doku Doku no Mi (Poison-Poison Fruit) ability, explaining that the warden's entire body is made of deadly poison.",
+      "significance": "Establishes the severe danger Luffy faces - he cannot attack Magellan directly without being poisoned.",
+      "characterIds": ["bentham", "luffy", "magellan"],
+      "locationIds": ["impel-down-level-4"],
+      "devilFruitIds": ["doku-doku-no-mi"],
+      "quotes": [
+        {
+          "text": "His entire body is poison! You can't touch him!",
+          "speaker": "Bentham",
+          "context": "Warning Luffy about the danger of Magellan's Devil Fruit powers"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [425],
+      "payoffInEpisodes": [435, 436],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep435-event-003",
+      "episodeNumber": 435,
+      "timestamp": "07:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Magellan Uses Hydra Attack",
+      "description": "Magellan creates a multi-headed poison hydra that pursues Luffy relentlessly. The poison is so corrosive that it melts everything it touches.",
+      "significance": "First display of Magellan's signature Hydra attack, demonstrating the overwhelming power of his poison abilities.",
+      "characterIds": ["magellan", "luffy"],
+      "locationIds": ["impel-down-level-4"],
+      "devilFruitIds": ["doku-doku-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep435-event-004",
+      "episodeNumber": 435,
+      "timestamp": "09:20",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Magellan's Chloro Ball Attack",
+      "description": "Magellan launches a Chloro Ball, a poisonous gas projectile that forces Luffy to dodge. The attack demonstrates the range and versatility of his poison powers.",
+      "significance": "Shows that Magellan can attack from a distance with various types of poison, not just contact-based attacks.",
+      "characterIds": ["magellan", "luffy"],
+      "locationIds": ["impel-down-level-4"],
+      "devilFruitIds": ["doku-doku-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep435-event-005",
+      "episodeNumber": 435,
+      "timestamp": "10:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Magellan's Venom Road",
+      "description": "Magellan uses Venom Road to travel through his own poison, moving across the battlefield with unprecedented speed and mobility.",
+      "significance": "Demonstrates Magellan's mastery over his poison, using it not just for offense but also for tactical movement.",
+      "characterIds": ["magellan", "luffy"],
+      "locationIds": ["impel-down-level-4"],
+      "devilFruitIds": ["doku-doku-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep435-event-006",
+      "episodeNumber": 435,
+      "timestamp": "11:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Magellan's Poison Melts Bridge Sections",
+      "description": "Magellan's poisoned horn strikes the bridge sections, causing them to melt away. The destructive power of his poison affects even non-organic structures.",
+      "significance": "Establishes the extreme corrosiveness of Magellan's poison - it can destroy the very infrastructure of Impel Down itself.",
+      "characterIds": ["magellan"],
+      "locationIds": ["impel-down-level-4"],
+      "devilFruitIds": ["doku-doku-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep435-event-007",
+      "episodeNumber": 435,
+      "timestamp": "13:00",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Buggy and Mr. 3 Attempt Escape",
+      "description": "While Magellan is distracted fighting Luffy, Buggy and Mr. 3 (Galdino) seize the opportunity to try reaching Level 3 to escape.",
+      "significance": "Shows the opportunistic nature of Buggy and Mr. 3, who try to use the chaos to their advantage.",
+      "characterIds": ["buggy", "galdino"],
+      "locationIds": ["impel-down-level-4"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [434],
+      "payoffInEpisodes": [435],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep435-event-008",
+      "episodeNumber": 435,
+      "timestamp": "14:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Hannyabal Offers Safe Passage",
+      "description": "Vice Warden Hannyabal encounters Buggy and Mr. 3, offering to let them pass to Level 3. He plans to use their escape to get Magellan fired and take his position as Chief Warden.",
+      "significance": "Reveals Hannyabal's ambition to become Chief Warden, showing his willingness to compromise his duties for personal gain.",
+      "characterIds": ["hannyabal", "buggy", "galdino"],
+      "locationIds": ["impel-down-level-3"],
+      "quotes": [
+        {
+          "text": "I'll let you pass... so I can get Magellan fired!",
+          "speaker": "Hannyabal",
+          "context": "Revealing his ulterior motive for helping the prisoners"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [438],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep435-event-009",
+      "episodeNumber": 435,
+      "timestamp": "15:30",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Buggy and Mr. 3 Attack Hannyabal",
+      "description": "Believing Hannyabal's offer is a trap, Buggy unleashes a Muggy Ball and Mr. 3 uses his Doru Doru abilities to attack Hannyabal and his guards.",
+      "significance": "Shows the distrust between prisoners and guards, and sets up Hannyabal's surprising strength.",
+      "characterIds": ["buggy", "galdino", "hannyabal"],
+      "locationIds": ["impel-down-level-3"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [435],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep435-event-010",
+      "episodeNumber": 435,
+      "timestamp": "16:45",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "Hannyabal Defeats Buggy and Mr. 3",
+      "description": "Despite Buggy and Mr. 3's confidence, Hannyabal easily defeats both of them, proving far stronger than they anticipated.",
+      "significance": "Establishes Hannyabal as a formidable fighter, not just a comedic character. Shows that Impel Down's staff are highly capable.",
+      "characterIds": ["hannyabal", "buggy", "galdino"],
+      "locationIds": ["impel-down-level-3"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [437],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep435-event-011",
+      "episodeNumber": 435,
+      "timestamp": "18:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Bentham Flees from Battle",
+      "description": "Bentham tearfully abandons Luffy, recognizing that he would die if he tried to help against Magellan. He runs away from the confrontation.",
+      "significance": "Shows the impossible situation - even Luffy's ally cannot help him against Magellan's overwhelming poison powers. Creates emotional tension.",
+      "characterIds": ["bentham", "luffy", "magellan"],
+      "locationIds": ["impel-down-level-4"],
+      "quotes": [
+        {
+          "text": "I'm sorry, Straw-chan! I can't... I can't help you!",
+          "speaker": "Bentham",
+          "context": "Tearfully fleeing as he realizes he would die if he tried to help Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [437],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep435-event-012",
+      "episodeNumber": 435,
+      "timestamp": "19:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Luffy Decides to Attack Despite the Poison",
+      "description": "Luffy declares that if he cannot win without hitting Magellan, then he will have to make the sacrifice. He refuses to give up on saving Ace, even if it means being poisoned.",
+      "significance": "Demonstrates Luffy's unwavering determination to save his brother, willing to sacrifice his own life. Shows his resolve and the depth of his brotherly love.",
+      "characterIds": ["luffy", "magellan"],
+      "locationIds": ["impel-down-level-4"],
+      "quotes": [
+        {
+          "text": "If I can't win without hitting you... then I'll just have to hit you!",
+          "speaker": "Luffy",
+          "context": "Deciding to attack Magellan directly despite knowing he'll be poisoned"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [422, 430],
+      "payoffInEpisodes": [436, 437, 440],
+      "callbacksToEpisodes": [430]
+    },
+    {
+      "id": "ep435-event-013",
+      "episodeNumber": 435,
+      "timestamp": "20:15",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Luffy Activates Gear Second",
+      "description": "Luffy activates Gear Second in his battle against Magellan, his body steaming as he increases his speed and power for a desperate attack.",
+      "significance": "Shows Luffy using one of his most powerful techniques against Magellan, recognizing the severity of the threat.",
+      "characterIds": ["luffy", "magellan"],
+      "locationIds": ["impel-down-level-4"],
+      "quotes": [
+        {
+          "text": "Gear... Second!",
+          "speaker": "Luffy",
+          "context": "Activating his enhanced form to fight Magellan"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [272, 273],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [272, 273]
+    },
+    {
+      "id": "ep435-event-014",
+      "episodeNumber": 435,
+      "timestamp": "21:00",
+      "eventType": "BATTLE_END",
+      "severity": "CRITICAL",
+      "title": "Luffy's Jet Bazooka Hits Magellan",
+      "description": "Luffy launches a devastating Gomu Gomu no Jet Bazooka directly into Magellan's gut, successfully landing a direct hit on the Chief Warden and injuring him.",
+      "significance": "First time anyone successfully damages Magellan in combat, showing that Luffy's determination can overcome seemingly impossible odds. However, it comes at a terrible cost.",
+      "characterIds": ["luffy", "magellan"],
+      "locationIds": ["impel-down-level-4"],
+      "quotes": [
+        {
+          "text": "Gomu Gomu no... Jet Bazooka!",
+          "speaker": "Luffy",
+          "context": "Launching his attack directly at Magellan"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [436],
+      "callbacksToEpisodes": [272]
+    },
+    {
+      "id": "ep435-event-015",
+      "episodeNumber": 435,
+      "timestamp": "21:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Luffy Gets Poisoned",
+      "description": "As a result of hitting Magellan directly, Luffy's hands become coated with deadly poison. The toxins begin corroding his skin immediately, causing severe damage.",
+      "significance": "The cost of Luffy's attack becomes clear - he has been infected with Magellan's lethal poison. This sets up the life-threatening crisis that will dominate the next several episodes.",
+      "characterIds": ["luffy", "magellan"],
+      "locationIds": ["impel-down-level-4"],
+      "devilFruitIds": ["doku-doku-no-mi"],
+      "quotes": [
+        {
+          "text": "The poison... it's eating away at my hands!",
+          "speaker": "Luffy",
+          "context": "Realizing the consequences of his attack"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [436, 437, 438, 439, 440],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["hydra", "chloro-ball", "venom-road"]
+  },
+  "episodeRelationships": {
+    "setupFor": [436, 437, 438],
+    "payoffFrom": [425, 430, 434],
+    "thematicLinks": [272, 273, 430]
+  },
+  "quotes": [
+    {
+      "text": "It is all over if Magellan comes.",
+      "speaker": "Mr. 3",
+      "context": "Foreshadowing Magellan's appearance",
+      "timestamp": "03:00"
+    },
+    {
+      "text": "His entire body is poison! You can't touch him!",
+      "speaker": "Bentham",
+      "context": "Warning Luffy about Magellan's deadly powers",
+      "timestamp": "05:30"
+    },
+    {
+      "text": "If I can't win without hitting you... then I'll just have to hit you!",
+      "speaker": "Luffy",
+      "context": "Deciding to attack Magellan despite the poison",
+      "timestamp": "19:30"
+    },
+    {
+      "text": "Gomu Gomu no... Jet Bazooka!",
+      "speaker": "Luffy",
+      "context": "Launching his decisive attack on Magellan",
+      "timestamp": "21:00"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Sacrifice for Love",
+      "description": "Luffy willingly sacrifices his own safety to attack Magellan, knowing he'll be poisoned but refusing to abandon his quest to save Ace.",
+      "symbolism": "The poison coating Luffy's hands represents the physical cost of his unwavering love for his brother.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Insurmountable Odds",
+      "description": "The episode emphasizes the seemingly impossible nature of Luffy's mission - facing an opponent whose very body is lethal.",
+      "symbolism": "Magellan's poison represents the overwhelming forces arrayed against Luffy in his rescue mission.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Loyalty vs. Self-Preservation",
+      "description": "Bentham's decision to flee shows the conflict between wanting to help a friend and the instinct for survival.",
+      "symbolism": "Bentham's tears as he flees represent the emotional weight of abandoning someone you care about.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Desperate", "Intense", "Heartbreaking", "Determined"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist facing impossible odds",
+      "development": "Luffy demonstrates the depths of his determination to save Ace, willing to sacrifice his life by attacking Magellan despite knowing it will poison him.",
+      "keyActions": [
+        "Confronts Magellan directly",
+        "Refuses to retreat despite warnings",
+        "Activates Gear Second",
+        "Lands Jet Bazooka on Magellan",
+        "Gets poisoned as a result"
+      ],
+      "quotes": [
+        "If I can't win without hitting you... then I'll just have to hit you!",
+        "Gomu Gomu no... Jet Bazooka!"
+      ]
+    },
+    {
+      "characterId": "magellan",
+      "role": "Overwhelming antagonist",
+      "development": "Magellan is established as one of the most dangerous opponents Luffy has faced, with poison abilities that make him nearly untouchable.",
+      "keyActions": [
+        "Confronts Luffy on Level 4",
+        "Uses Hydra attack",
+        "Launches Chloro Ball",
+        "Travels via Venom Road",
+        "Takes hit from Luffy's Jet Bazooka"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "bentham",
+      "role": "Loyal friend forced to flee",
+      "development": "Bentham shows the emotional weight of being unable to help Luffy, choosing self-preservation over loyalty in the face of certain death.",
+      "keyActions": [
+        "Warns Luffy about Magellan's poison",
+        "Tearfully flees from the battle",
+        "Searches for Buggy and Mr. 3"
+      ],
+      "quotes": [
+        "His entire body is poison! You can't touch him!",
+        "I'm sorry, Straw-chan! I can't... I can't help you!"
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended the battle sequences between Luffy and Magellan with additional action scenes not present in the manga.",
+      "episodeTimestamp": "07:00-12:00",
+      "mangaReference": "Chapter 534",
+      "type": "ANIME_EXTENDED_SCENE"
+    },
+    {
+      "difference": "The confrontation between Buggy, Mr. 3, and Hannyabal was expanded with more comedic moments in the anime.",
+      "episodeTimestamp": "13:00-17:00",
+      "mangaReference": "Chapter 534",
+      "type": "ANIME_EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode aired on January 24, 2010, achieving a TV rating of 10.6%, ranking #4 in its time slot.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_435",
+          "title": "Episode 435 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-10"
+        }
+      ]
+    },
+    {
+      "fact": "The episode covers Chapter 533 (pages 18-19) and Chapter 534 (pages 2-19) of the manga.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_435",
+          "title": "Episode 435 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-10"
+        }
+      ]
+    },
+    {
+      "fact": "Pandaman, the recurring background character, appears on page 11 of Chapter 534.",
+      "category": "EASTER_EGG",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chapter_534",
+          "title": "Chapter 534 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-10"
+        }
+      ]
+    },
+    {
+      "fact": "This is one of the few times in the series where Luffy willingly accepts severe injury to land an attack, knowing the consequences beforehand.",
+      "category": "NARRATIVE",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
