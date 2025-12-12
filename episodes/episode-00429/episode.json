@@ -1,0 +1,665 @@
+{
+  "episodeNumber": 429,
+  "episodeTitle": "A Special Presentation Related to the Movie! The Battle is on! - Luffy vs. Largo",
+  "episodeTitleJapanese": "映画連動特別編（スペシャル）決戦！ルフィVSラルゴ",
+  "episodeTitleRomanized": "Eiga Rendō Supesharu - Kessen! Rufi tai Rarugo",
+  "description": "In the climactic finale of the Little East Blue Arc, Luffy faces off against Largo in an intense battle. After being trapped in Largo's net-body, Luffy activates Gear Third and defeats him with Gomu Gomu no Gigant Pistol. Meanwhile, Nami leads the villagers to surprise the Amigo Pirates. The episode concludes with revelations about Boss's artificial creation by Shiki's scientist Indigo, and the Straw Hats departing Little East Blue.",
+  "airDate": "2009-12-06",
+  "airDateJapan": "2009-12-06",
+  "airDateUS": "2015-12-15",
+  "arcName": "Little East Blue Arc",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "STANDARD",
+  "isFiller": true,
+  "isCanon": false,
+  "openingSong": {
+    "title": "Kaze wo Sagashite",
+    "artist": "Mari Yaguchi with Straw Hat",
+    "episodeRange": [426, 458]
+  },
+  "endingSong": null,
+  "credits": {
+    "director": "Naoyuki Itō",
+    "screenwriter": "Hirohiko Kamisaka",
+    "animationDirector": "Naoki Tate",
+    "artDirector": "Miho Shiraishi",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Brook",
+        "actor": "Cho"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Brook",
+        "actor": "Ian Sinclair"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep429-event-001",
+      "episodeNumber": 429,
+      "timestamp": "03:00",
+      "eventType": "BATTLE_CONTINUATION",
+      "severity": "MINOR",
+      "title": "Luffy Escapes Net and Continues Battle",
+      "description": "After escaping from Largo's net trap, Luffy knocks Largo far away and prepares for the decisive confrontation. The battle intensifies as both fighters prepare their final moves.",
+      "significance": "Sets up the climactic final battle between Luffy and Largo that will determine the fate of Little East Blue.",
+      "characterIds": ["luffy", "largo"],
+      "locationIds": ["little-east-blue"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [428],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep429-event-002",
+      "episodeNumber": 429,
+      "timestamp": "05:30",
+      "eventType": "TACTICAL_MANEUVER",
+      "severity": "MINOR",
+      "title": "Nami's Strategic Deception",
+      "description": "Nami pretends to evacuate the villagers but secretly leads them through hidden tunnels to launch a surprise attack on the Amigo Pirates while they are distracted fighting Zoro and Sanji.",
+      "significance": "Demonstrates Nami's tactical intelligence and leadership, turning the tide against the invading pirates by using guerrilla warfare tactics.",
+      "characterIds": ["nami", "zoro", "sanji"],
+      "locationIds": ["little-east-blue"],
+      "crewIds": ["amigo-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [428],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep429-event-003",
+      "episodeNumber": 429,
+      "timestamp": "08:15",
+      "eventType": "BATTLE_MAJOR_MOMENT",
+      "severity": "MINOR",
+      "title": "Zoro and Sanji vs. Amigo Pirates",
+      "description": "Zoro and Sanji engage in combat with members of the Amigo Pirates, holding the line while Nami executes her plan. The two Straw Hats demonstrate their combat prowess against the mariachi-themed pirate crew.",
+      "significance": "Shows the Straw Hats working as a coordinated team to protect Little East Blue, with Zoro and Sanji serving as the frontline fighters.",
+      "characterIds": ["zoro", "sanji"],
+      "locationIds": ["little-east-blue"],
+      "crewIds": ["amigo-pirates", "straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [426, 427, 428],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep429-event-004",
+      "episodeNumber": 429,
+      "timestamp": "11:45",
+      "eventType": "TECHNIQUE_USAGE",
+      "severity": "MINOR",
+      "title": "Largo Traps Luffy in Net-Body",
+      "description": "Largo uses his Ami Ami no Mi Devil Fruit powers to transform his entire body into a net, trapping Luffy inside his own stomach. The net has spikes and appears inescapable, putting Luffy in a dangerous situation.",
+      "significance": "Demonstrates the full extent of Largo's Devil Fruit abilities, showing he can become a net himself similar to a Logia transformation, creating the episode's biggest threat to Luffy.",
+      "characterIds": ["largo", "luffy"],
+      "locationIds": ["little-east-blue"],
+      "devilFruitIds": ["ami-ami-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [426, 427, 428],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep429-event-005",
+      "episodeNumber": 429,
+      "timestamp": "14:20",
+      "eventType": "POWER_REVEAL",
+      "severity": "MINOR",
+      "title": "Boss Completes Molting Process",
+      "description": "Boss undergoes his monthly molting process, emerging with a new teal-colored shell, light green fur, larger tusks with additional points, and the ability to breathe fire from openings in his horns. The transformation significantly increases his power.",
+      "significance": "Reveals Boss's unique biology as an artificially created creature, showing his continuous growth pattern and fire-breathing capability that will be crucial in the coming battle.",
+      "characterIds": ["boss"],
+      "locationIds": ["little-east-blue"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [427, 428],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep429-event-006",
+      "episodeNumber": 429,
+      "timestamp": "16:00",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Luffy Uses Gear Third to Break Free",
+      "description": "Trapped inside Largo's net-body, Luffy activates Gear Third, inflating his body to break free from the net trap. The massive expansion of his body tears through Largo's net form, allowing him to escape.",
+      "significance": "Shows Luffy's tactical thinking in using Gear Third's size-changing ability to counter Largo's net powers, demonstrating the versatility of his techniques beyond just attacking.",
+      "characterIds": ["luffy"],
+      "locationIds": ["little-east-blue"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [304]
+    },
+    {
+      "id": "ep429-event-007",
+      "episodeNumber": 429,
+      "timestamp": "18:30",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Luffy Defeats Largo with Gomu Gomu no Gigant Pistol",
+      "description": "Using Gear Third, Luffy delivers a devastating Gomu Gomu no Gigant Pistol attack that sends Largo flying into his own ship, destroying it and decisively ending the battle. The massive punch showcases the full power of Luffy's Gear Third technique.",
+      "significance": "Marks the defeat of the main antagonist of the Little East Blue Arc and protects the island from the Amigo Pirates' threat, demonstrating Luffy's growth and power.",
+      "characterIds": ["luffy", "largo"],
+      "locationIds": ["little-east-blue"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [
+        {
+          "text": "Gomu Gomu no... Gigant Pistol!",
+          "speaker": "Luffy",
+          "context": "Luffy's finishing move against Largo"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [426, 427, 428],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [304]
+    },
+    {
+      "id": "ep429-event-008",
+      "episodeNumber": 429,
+      "timestamp": "19:45",
+      "eventType": "BATTLE_CONCLUSION",
+      "severity": "MINOR",
+      "title": "Villagers Defeat Remaining Amigo Pirates",
+      "description": "With Largo defeated, the villagers of Little East Blue, led by Nami's strategic planning, successfully overwhelm and capture the remaining members of the Amigo Pirates. The island's residents fight to protect their home.",
+      "significance": "Shows the empowerment of Little East Blue's citizens and the success of Nami's tactical plan, demonstrating that the Straw Hats inspired the villagers to defend themselves.",
+      "characterIds": ["nami"],
+      "locationIds": ["little-east-blue"],
+      "crewIds": ["amigo-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [428],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep429-event-009",
+      "episodeNumber": 429,
+      "timestamp": "20:30",
+      "eventType": "IMPRISONMENT",
+      "severity": "MINOR",
+      "title": "Amigo Pirates Imprisoned",
+      "description": "Largo, Corto, and the entire Amigo Pirates crew are imprisoned in a large cage originally built to contain Boss. The defeated pirates are now under the custody of Little East Blue's residents.",
+      "significance": "Concludes the immediate threat to Little East Blue and shows justice being served, with the cage that was meant for Boss now serving its purpose for the true villains.",
+      "characterIds": ["largo", "corto"],
+      "locationIds": ["little-east-blue"],
+      "crewIds": ["amigo-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [426],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep429-event-010",
+      "episodeNumber": 429,
+      "timestamp": "21:15",
+      "eventType": "BATTLE_FRIENDLY",
+      "severity": "MINOR",
+      "title": "Luffy vs. Boss Rematch Ends in Draw",
+      "description": "Luffy and Boss engage in a friendly rematch battle to test each other's strength. The fight is competitive and spirited, ultimately ending in a tie with both fighters respecting each other's abilities.",
+      "significance": "Demonstrates the mutual respect between Luffy and Boss, showing that Boss has found a worthy rival and friend in Luffy, cementing their bond.",
+      "characterIds": ["luffy", "boss"],
+      "locationIds": ["little-east-blue"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [427],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep429-event-011",
+      "episodeNumber": 429,
+      "timestamp": "22:00",
+      "eventType": "CHARACTER_DEVELOPMENT",
+      "severity": "MINOR",
+      "title": "Yoko Overcomes Her Hatred of Pirates",
+      "description": "After witnessing the Straw Hats' selfless protection of her and Boss, Yoko's views on pirates change dramatically. She overcomes the hatred instilled by her father's death at pirate hands and warmly bids farewell to the Straw Hats.",
+      "significance": "Represents a major character arc completion for Yoko, showing that not all pirates are evil and that prejudice can be overcome through direct experience and understanding.",
+      "characterIds": ["yoko", "luffy"],
+      "locationIds": ["little-east-blue"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [426, 427],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep429-event-012",
+      "episodeNumber": 429,
+      "timestamp": "23:15",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Boss Revealed as Shiki's Artificial Creation",
+      "description": "It is revealed that Boss was artificially created by Dr. Indigo as part of Shiki's army of modified creatures intended for global conquest. Boss is one of many such 'super animals' being developed by the Golden Lion Pirates.",
+      "significance": "Establishes crucial world-building for the Strong World movie, revealing Shiki's master plan to create an army of powerful biological weapons and explaining Boss's unusual abilities and growth pattern.",
+      "characterIds": ["boss", "shiki", "indigo"],
+      "locationIds": ["little-east-blue"],
+      "crewIds": ["golden-lion-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [426],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep429-event-013",
+      "episodeNumber": 429,
+      "timestamp": "23:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Shiki Observes His Modified Creatures",
+      "description": "In a post-battle scene, Shiki the Golden Lion is shown monitoring various animals with glowing eyes, indicating his broader scheme to create an army of modified creatures. He dismisses Largo's failure as a minor setback to his ultimate plan.",
+      "significance": "Introduces the main antagonist of One Piece Film: Strong World and foreshadows his grand scheme, connecting the Little East Blue Arc directly to the movie's plot.",
+      "characterIds": ["shiki"],
+      "crewIds": ["golden-lion-pirates"],
+      "quotes": [
+        {
+          "text": "This one setback won't upset my ultimate plan.",
+          "speaker": "Shiki",
+          "context": "Shiki dismissing Largo's defeat as he monitors his army of modified creatures"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [426],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep429-event-014",
+      "episodeNumber": 429,
+      "timestamp": "24:30",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MINOR",
+      "title": "Straw Hats Depart Little East Blue",
+      "description": "The Straw Hat Pirates bid farewell to the residents of Little East Blue and set sail, continuing their journey. The villagers, including Yoko and Boss, watch them leave with gratitude and newfound respect for pirates.",
+      "significance": "Concludes the Little East Blue Arc and marks the Straw Hats' return to their journey, with the island's residents left with changed perspectives and hope for the future.",
+      "characterIds": ["luffy", "nami", "zoro", "sanji", "usopp", "chopper", "robin", "franky", "brook", "yoko", "boss"],
+      "locationIds": ["little-east-blue"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep429-event-015",
+      "episodeNumber": 429,
+      "timestamp": "02:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Ryudo Appears in Flashback",
+      "description": "Ryudo, Yoko's deceased father and former Marine, appears in flashback sequences showing his protection of Little East Blue and his relationship with Yoko before his death five years prior.",
+      "significance": "Provides backstory for Yoko's character and her hatred of pirates, explaining her initial hostility toward the Straw Hats and making her character development more meaningful.",
+      "characterIds": ["ryudo", "yoko"],
+      "locationIds": ["little-east-blue"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [426, 427],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep429-event-016",
+      "episodeNumber": 429,
+      "timestamp": "02:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Brief Appearances of Nojiko, Bellemere, and Arlong in Flashback",
+      "description": "During Nami's reflections or the episode's narrative, brief flashback images appear showing Nojiko, Bellemere, and Arlong from Nami's past in the East Blue.",
+      "significance": "Connects the Little East Blue Arc to the East Blue Saga by reminding viewers of Nami's own tragic past with pirates and her complicated relationship with her home region.",
+      "characterIds": ["nami", "nojiko", "bellemere", "arlong"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [31, 32, 33, 34, 35, 37, 38, 39, 40, 41, 42, 43, 44]
+    },
+    {
+      "id": "ep429-event-017",
+      "episodeNumber": 429,
+      "timestamp": "23:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Dr. Indigo Mentioned as Boss's Creator",
+      "description": "Dr. Indigo is revealed as the scientist responsible for creating Boss and other modified creatures for Shiki's army. Though not appearing on screen, his role as Shiki's chief scientist is established.",
+      "significance": "Introduces Dr. Indigo as a key member of Shiki's crew and the mastermind behind the biological weapons program, setting up his role in the Strong World movie.",
+      "characterIds": ["indigo", "shiki"],
+      "crewIds": ["golden-lion-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep429-event-018",
+      "episodeNumber": 429,
+      "timestamp": "23:40",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Scarlet Debut",
+      "description": "Scarlet, a member of Shiki's crew, makes a brief appearance during the scene showing Shiki monitoring his modified creatures and planning his next moves.",
+      "significance": "Introduces another member of the Golden Lion Pirates crew, expanding the roster of characters that will appear in the Strong World movie.",
+      "characterIds": ["scarlet", "shiki"],
+      "crewIds": ["golden-lion-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["ryudo", "indigo", "scarlet"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [],
+    "payoffFrom": [426, 427, 428],
+    "thematicLinks": [304]
+  },
+  "quotes": [
+    {
+      "text": "Gomu Gomu no... Gigant Pistol!",
+      "speaker": "Luffy",
+      "context": "Luffy's finishing move against Largo using Gear Third",
+      "timestamp": "18:30"
+    },
+    {
+      "text": "This one setback won't upset my ultimate plan.",
+      "speaker": "Shiki",
+      "context": "Shiki dismissing Largo's defeat while monitoring his army of modified creatures",
+      "timestamp": "23:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Overcoming Prejudice",
+      "description": "The episode explores themes of prejudice and hatred through Yoko's character arc, as she learns that not all pirates are evil despite her father being killed by pirates.",
+      "symbolism": "Yoko's transformation from pirate-hater to grateful ally represents the broader theme that people should be judged by their actions, not stereotypes.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Protection and Sacrifice",
+      "description": "Multiple characters demonstrate willingness to protect others, from the Straw Hats defending Little East Blue to Boss's loyalty to the island and its residents.",
+      "symbolism": "The cage built for Boss ironically becomes the prison for the true villains, symbolizing how fear and prejudice can be misplaced.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Artificial vs. Natural",
+      "description": "Boss's revelation as an artificially created creature contrasts with his natural loyalty and protective instincts, questioning what truly defines a living being.",
+      "symbolism": "Despite being created as a weapon of war, Boss chooses to be a protector, showing that origin doesn't determine destiny.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Action-packed", "Triumphant", "Heartwarming", "Dramatic"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Main protagonist and fighter",
+      "development": "Luffy demonstrates tactical thinking by using Gear Third to counter Largo's net powers, showing growth in his fighting strategy beyond brute force.",
+      "keyActions": [
+        "Escapes from Largo's net trap",
+        "Activates Gear Third to break free",
+        "Defeats Largo with Gomu Gomu no Gigant Pistol",
+        "Engages in friendly battle with Boss"
+      ],
+      "quotes": ["Gomu Gomu no... Gigant Pistol!"]
+    },
+    {
+      "characterId": "nami",
+      "role": "Tactical leader and strategist",
+      "development": "Nami showcases her leadership abilities and tactical mind by orchestrating the villagers' surprise attack on the Amigo Pirates.",
+      "keyActions": [
+        "Pretends to evacuate villagers",
+        "Leads villagers through secret tunnels",
+        "Coordinates surprise attack on Amigo Pirates"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "largo",
+      "role": "Main antagonist",
+      "development": "Largo's defeat marks the failure of his ambition to join Shiki's fleet, demonstrating the consequences of underestimating opponents.",
+      "keyActions": [
+        "Transforms body into net to trap Luffy",
+        "Fights Luffy in final confrontation",
+        "Defeated by Gomu Gomu no Gigant Pistol",
+        "Imprisoned with crew"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "yoko",
+      "role": "Supporting character undergoing character development",
+      "development": "Yoko completes her character arc by overcoming her deep-seated hatred of pirates after witnessing the Straw Hats' heroism and kindness.",
+      "keyActions": [
+        "Witnesses Straw Hats protecting Boss and Little East Blue",
+        "Overcomes prejudice against pirates",
+        "Warmly bids farewell to the Straw Hats"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "boss",
+      "role": "Protected creature and ally",
+      "development": "Boss undergoes molting to gain new powers and is revealed to be an artificial creation, adding depth to his character and connection to the larger plot.",
+      "keyActions": [
+        "Completes molting process",
+        "Gains fire-breathing ability",
+        "Engages in friendly battle with Luffy",
+        "Revealed as Indigo's creation"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "shiki",
+      "role": "Overarching antagonist and mastermind",
+      "development": "Shiki is revealed as the puppet master behind the events, setting up the Strong World movie conflict.",
+      "keyActions": [
+        "Monitors modified creatures",
+        "Dismisses Largo's failure",
+        "Continues with ultimate plan"
+      ],
+      "quotes": ["This one setback won't upset my ultimate plan."]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The entire Little East Blue Arc (episodes 426-429) is anime-original filler created to promote One Piece Film: Strong World and does not appear in the manga.",
+      "episodeTimestamp": "00:00",
+      "mangaReference": "N/A",
+      "type": "ANIME_ORIGINAL_ARC"
+    },
+    {
+      "difference": "Characters Largo, Corto, Boss, Yoko, Ryudo, and the Amigo Pirates are all anime-only characters with no manga counterparts.",
+      "episodeTimestamp": "N/A",
+      "mangaReference": "N/A",
+      "type": "ANIME_ORIGINAL_CHARACTER"
+    },
+    {
+      "difference": "The Ami Ami no Mi Devil Fruit is anime-only and does not exist in the manga.",
+      "episodeTimestamp": "N/A",
+      "mangaReference": "N/A",
+      "type": "ANIME_ORIGINAL_CONTENT"
+    },
+    {
+      "difference": "Little East Blue island and its replica East Blue villages are anime-only locations.",
+      "episodeTimestamp": "N/A",
+      "mangaReference": "N/A",
+      "type": "ANIME_ORIGINAL_LOCATION"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode is the final episode of the Little East Blue Arc, which was the first filler arc specifically created to promote a One Piece movie (Strong World).",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Little_East_Blue_Arc",
+          "title": "Little East Blue Arc - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-08"
+        }
+      ]
+    },
+    {
+      "fact": "The episode achieved a 10.4% TV rating in Japan, ranking 5th in viewership for that broadcast period.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_429",
+          "title": "Episode 429 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-08"
+        }
+      ]
+    },
+    {
+      "fact": "The opening song 'Kaze wo Sagashite' was initially aired without crediting the singer Mari Yaguchi, though this was corrected in the DVD release.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Kaze_wo_Sagashite",
+          "title": "Kaze wo Sagashite - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-08"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 429, like all episodes from 279 to 1070, did not feature an ending song. Instead, it used an extended opening theme of nearly 3 minutes instead of the usual 90 seconds.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://anime.stackexchange.com/questions/175/why-did-the-anime-stop-having-ending-songs-since-episode-279",
+          "title": "Why did the anime stop having ending songs since episode 279?",
+          "platform": "Stack Exchange",
+          "accessedAt": "2025-12-08"
+        }
+      ]
+    },
+    {
+      "fact": "Largo's character design is based on Mexican mariachi stereotypes, including his sombrero, poncho, guitar, and use of Spanish terms like 'amor,' 'señor,' and 'señorita.'",
+      "category": "CHARACTER_DESIGN",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Largo",
+          "title": "Largo - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-08"
+        }
+      ]
+    },
+    {
+      "fact": "The Ami Ami no Mi is one of several Devil Fruits that are exclusive to the anime and never appeared in the manga, making it non-canon.",
+      "category": "DEVIL_FRUITS",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Ami_Ami_no_Mi",
+          "title": "Ami Ami no Mi - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-08"
+        }
+      ]
+    },
+    {
+      "fact": "Boss was designed by Dr. Indigo as part of Shiki's superanimal army, making him one of several creatures modified for warfare that would later appear in Strong World.",
+      "category": "WORLD_BUILDING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Boss",
+          "title": "Boss - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-08"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
