@@ -1,0 +1,458 @@
+{
+  "episodeNumber": 431,
+  "episodeTitle": "Chief Guard Saldeath's Trap! Level 3 - Starvation Hell!",
+  "description": "Luffy, Buggy, and Mr. 3 descend to Level 3 of Impel Down, where they face extreme heat and starvation conditions. They are captured by Saldeath and his Blue Gorillas but escape with help from the Sphinx. Meanwhile, Sengoku berates Garp about Luffy's infiltration, and Bentham is discovered imprisoned on this level.",
+  "airDate": "2009-12-20",
+  "airDateJapan": "2009-12-20",
+  "airDateUS": "2009-12-19",
+  "arcName": "Impel Down",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Kaze wo Sagashite",
+    "artist": "Mari Yaguchi and Straw Hat",
+    "episodeRange": [426, 458]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Sumio Watanabe",
+    "writer": "Jin Tanaka",
+    "artDirector": "Ryūji Yoshiike",
+    "storyboard": "Takahiro Imamura",
+    "keyAnimators": ["Yukiko Nakatani"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Buggy",
+        "actor": "Shigeru Chiba"
+      },
+      {
+        "character": "Galdino (Mr. 3)",
+        "actor": "Nobuyuki Hiyama"
+      },
+      {
+        "character": "Bentham (Mr. 2 Bon Kurei)",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Saldeath",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Sengoku",
+        "actor": "Takkō Ishimori"
+      },
+      {
+        "character": "Monkey D. Garp",
+        "actor": "Hiroshi Naka"
+      },
+      {
+        "character": "Boa Hancock",
+        "actor": "Kotono Mitsuishi"
+      },
+      {
+        "character": "Magellan",
+        "actor": "Mitsuaki Hoshino"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Buggy",
+        "actor": "Mike McFarland"
+      },
+      {
+        "character": "Galdino (Mr. 3)",
+        "actor": "Duncan Brannan"
+      },
+      {
+        "character": "Bentham (Mr. 2 Bon Kurei)",
+        "actor": "Barry Yandell"
+      },
+      {
+        "character": "Saldeath",
+        "actor": "Orion Pitts"
+      },
+      {
+        "character": "Sengoku",
+        "actor": "Ed Blaylock"
+      },
+      {
+        "character": "Monkey D. Garp",
+        "actor": "Brian Mathis"
+      },
+      {
+        "character": "Boa Hancock",
+        "actor": "Lydia Mackay"
+      },
+      {
+        "character": "Magellan",
+        "actor": "Kent Williams"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep431-event-001",
+      "episodeNumber": 431,
+      "timestamp": "02:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Arrival at Level 3 - Starvation Hell",
+      "description": "Luffy, Buggy, and Mr. 3 fall through the floor and arrive at Level 3 of Impel Down, a barren wasteland of extreme heat. Prisoners here receive minimal food and water, gradually deteriorating in the harsh conditions.",
+      "significance": "Introduces one of the most brutal levels of Impel Down, showcasing the prison's increasing severity as the group descends deeper. The extreme heat rising from Level 4 makes this floor nearly uninhabitable.",
+      "characterIds": ["luffy", "buggy", "galdino"],
+      "locationIds": ["impel-down-level-3"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [430],
+      "payoffInEpisodes": [432],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep431-event-002",
+      "episodeNumber": 431,
+      "timestamp": "04:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Sengoku and Garp Discuss Luffy's Infiltration",
+      "description": "At Marine Headquarters, Sengoku berates Garp about Luffy's break-in to Impel Down, noting that no one has escaped the prison since Gold Lion Shiki did 20 years ago. He confiscates Garp's cookies while expressing his outrage.",
+      "significance": "Highlights the unprecedented nature of Luffy's infiltration and establishes the historical context of Impel Down's security. References Shiki's legendary escape and shows the tension between Sengoku and Garp over Luffy's actions.",
+      "characterIds": ["sengoku", "garp"],
+      "locationIds": ["marine-headquarters"],
+      "quotes": [
+        {
+          "text": "No one has escaped Impel Down since Gold Lion Shiki did 20 years ago!",
+          "speaker": "Sengoku",
+          "context": "Expressing concern about the precedent Luffy's infiltration could set"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [422, 423, 424, 425, 426, 427, 428, 429, 430],
+      "payoffInEpisodes": [432, 433],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep431-event-003",
+      "episodeNumber": 431,
+      "timestamp": "06:45",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Level 2 Prisoner Riot Erupts",
+      "description": "Following Luffy's destructive passage through Level 2, the prisoners there break free from their cells and begin rioting. The jailers report the chaos and the gigantic hole left by the Sphinx.",
+      "significance": "Shows the far-reaching consequences of Luffy's infiltration, creating additional chaos that diverts guard attention and resources, inadvertently helping his mission.",
+      "characterIds": [],
+      "locationIds": ["impel-down-level-2"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [430],
+      "payoffInEpisodes": [432],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep431-event-004",
+      "episodeNumber": 431,
+      "timestamp": "09:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Saldeath's Debut",
+      "description": "Saldeath, the imp-like Chief Guard who commands the Blue Gorillas (Blugori), makes his first appearance. He demonstrates intelligence and strategy by realizing he cannot capture Luffy with brute force alone and must use tricks instead.",
+      "significance": "Introduces a new commander-level antagonist within Impel Down. His tactical approach and command over the Blue Gorillas shows the prison's hierarchical structure and specialized defense systems.",
+      "characterIds": ["saldeath"],
+      "locationIds": ["impel-down-level-3"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [432],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep431-event-005",
+      "episodeNumber": 431,
+      "timestamp": "11:00",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Saldeath's Seastone Net Trap",
+      "description": "Saldeath springs his trap, ensnaring Luffy, Buggy, Mr. 3, and the Sphinx in a large Seastone net. The Devil Fruit users are immediately weakened by the Seastone's properties, leaving them helpless.",
+      "significance": "Demonstrates the prison guards' preparedness for Devil Fruit users and shows how Seastone remains one of the most effective weapons against powerful pirates. The group appears to be caught with no means of escape.",
+      "characterIds": ["saldeath", "luffy", "buggy", "galdino"],
+      "locationIds": ["impel-down-level-3"],
+      "devilFruitIds": ["gomu-gomu-no-mi", "bara-bara-no-mi", "doru-doru-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep431-event-006",
+      "episodeNumber": 431,
+      "timestamp": "13:30",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Sphinx Breaks the Seastone Net",
+      "description": "The captured Sphinx wakes up and, in its struggle, tears apart the Seastone net with its raw physical strength. This frees Luffy, Buggy, and Mr. 3 from Saldeath's trap.",
+      "significance": "Shows that while Seastone is effective against Devil Fruit users, physical strength can still overcome it. The Sphinx inadvertently saves the group, demonstrating how chaos can work in their favor.",
+      "characterIds": ["luffy", "buggy", "galdino", "saldeath"],
+      "locationIds": ["impel-down-level-3"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep431-event-007",
+      "episodeNumber": 431,
+      "timestamp": "15:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Buggy and Mr. 3 Attempt to Abandon Luffy",
+      "description": "After escaping the net, Buggy and Mr. 3 plan to abandon Luffy while he fights the guards. However, they find themselves unable to leave Level 3, forcing them to stay with the group.",
+      "significance": "Reinforces the cowardly nature of Buggy and Mr. 3, while also showing how circumstances keep forcing them to continue with Luffy despite their reluctance. Their comedic attempts to escape provide levity.",
+      "characterIds": ["buggy", "galdino", "luffy"],
+      "locationIds": ["impel-down-level-3"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [428, 429, 430],
+      "payoffInEpisodes": [432, 433],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep431-event-008",
+      "episodeNumber": 431,
+      "timestamp": "17:20",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Ace and Luffy Confirmed as Brothers",
+      "description": "Sengoku informs Garp that Luffy and Ace are brothers, connected by the 'D' in their names. The Marines discuss the implications of this family connection.",
+      "significance": "Officially confirms to the Marines what some suspected - that Luffy and Ace share a deep bond. This information will later be used against them during the war, and it explains Luffy's desperate mission to save Ace.",
+      "characterIds": ["sengoku", "garp", "luffy", "ace"],
+      "locationIds": ["marine-headquarters"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [422, 423],
+      "payoffInEpisodes": [459, 460, 461, 462, 463, 464, 465],
+      "callbacksToEpisodes": [151]
+    },
+    {
+      "id": "ep431-event-009",
+      "episodeNumber": 431,
+      "timestamp": "19:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Bentham Found Imprisoned on Level 3",
+      "description": "Buggy and Mr. 3 encounter Bentham (Mr. 2 Bon Kurei), who is imprisoned on Level 3. Despite his imprisonment and the harsh conditions, Bentham's spirited and flamboyant personality remains completely unchanged.",
+      "significance": "Reunites the audience with a fan-favorite character and sets up his important role in helping Luffy. His presence shows he was captured after the Alabasta arc, and his undiminished spirit provides hope.",
+      "characterIds": ["bentham", "buggy", "galdino"],
+      "locationIds": ["impel-down-level-3"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [432, 433, 434],
+      "callbacksToEpisodes": [92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127]
+    },
+    {
+      "id": "ep431-event-010",
+      "episodeNumber": 431,
+      "timestamp": "20:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Bentham's Kiss to the Camera",
+      "description": "At the episode's conclusion, Bentham delivers a signature kiss toward the screen, stamping the 'To be continued' card in his characteristic flamboyant style.",
+      "significance": "A memorable character moment that re-establishes Bentham's personality and creates an iconic end-of-episode transition. Shows how his character remains true to himself even in prison.",
+      "characterIds": ["bentham"],
+      "locationIds": ["impel-down-level-3"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [97, 98, 127]
+    },
+    {
+      "id": "ep431-event-011",
+      "episodeNumber": 431,
+      "timestamp": "08:45",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Hancock Approaches Ace's Location",
+      "description": "Magellan informs Hancock that their party will soon reach Ace's cell block as they descend deeper into Impel Down. Hancock continues her secret mission to help Luffy.",
+      "significance": "Shows Hancock getting closer to meeting Ace and potentially passing Luffy's message to him. Her infiltration parallels Luffy's, showing multiple simultaneous rescue attempts.",
+      "characterIds": ["hancock", "magellan"],
+      "locationIds": ["impel-down"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [418, 419, 420, 421, 422],
+      "payoffInEpisodes": [433, 434, 435],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep431-event-012",
+      "episodeNumber": 431,
+      "timestamp": "08:00",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Reference to Another Imprisoned Ex-Warlord",
+      "description": "During discussions about Impel Down, there is mention of another imprisoned former Warlord of the Sea besides Jinbe, hinting at the prison's high-profile inmates.",
+      "significance": "Foreshadows the presence of other powerful prisoners in Impel Down and hints at the caliber of criminals held in the deeper levels.",
+      "characterIds": [],
+      "locationIds": ["impel-down"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [438, 439, 440],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["saldeath"],
+    "locations": ["impel-down-level-3"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [432, 433, 434],
+    "payoffFrom": [428, 429, 430],
+    "thematicLinks": [430, 432, 438]
+  },
+  "quotes": [
+    {
+      "text": "No one has escaped Impel Down since Gold Lion Shiki did 20 years ago!",
+      "speaker": "Sengoku",
+      "context": "Expressing concern about Luffy's infiltration",
+      "timestamp": "04:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Perseverance Through Adversity",
+      "description": "The episode emphasizes how Luffy continues his mission despite increasingly difficult obstacles. Level 3's harsh conditions and Saldeath's trap demonstrate the mounting challenges.",
+      "symbolism": "The extreme heat and starvation of Level 3 symbolize the suffering Luffy is willing to endure to save his brother.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Brotherhood and Loyalty",
+      "description": "The confirmation that Luffy and Ace are brothers reinforces the motivation behind Luffy's desperate infiltration mission. The theme of family bonds drives the entire arc.",
+      "symbolism": "Luffy's willingness to descend through each level of hell mirrors the lengths one would go for family.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Comic Relief in Dark Situations",
+      "description": "Despite the serious nature of the mission, characters like Buggy, Mr. 3, and especially Bentham provide humor and levity, maintaining the series' balance.",
+      "symbolism": "Bentham's unchanged personality despite imprisonment represents the indomitable human spirit.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Intense", "Comedic", "Suspenseful", "Hopeful"],
+  "characterSpotlights": [
+    {
+      "characterId": "saldeath",
+      "role": "Antagonist debut",
+      "development": "Introduced as a competent and intelligent prison guard who commands the Blue Gorillas. Shows tactical thinking by using a Seastone net trap instead of direct confrontation.",
+      "keyActions": [
+        "Sets trap with Seastone net",
+        "Commands Blue Gorillas",
+        "Attempts to capture Luffy's group"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "bentham",
+      "role": "Returning ally",
+      "development": "Reappears after his defeat in the Alabasta arc, now imprisoned in Impel Down. Despite harsh conditions, maintains his characteristic flamboyant personality and spirit.",
+      "keyActions": [
+        "Reunites with Buggy and Mr. 3",
+        "Shows unchanged personality despite imprisonment",
+        "Delivers signature kiss to camera"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "luffy",
+      "role": "Protagonist",
+      "development": "Continues his determined descent through Impel Down, facing new challenges and obstacles. His mission to save Ace drives him forward despite increasing danger.",
+      "keyActions": [
+        "Arrives at Level 3",
+        "Gets caught in Seastone net",
+        "Escapes with help from Sphinx"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "Episode 431 adapts Chapter 530 pages 2-18 with typical anime pacing expansion. Some dialogue scenes at Marine Headquarters were extended for dramatic effect.",
+      "episodeTimestamp": "04:30",
+      "mangaReference": "Chapter 530",
+      "type": "PACING_CHANGE"
+    },
+    {
+      "difference": "The anime added extended reaction shots and environmental details showing the harsh conditions of Level 3's heat and starvation that were more briefly depicted in the manga.",
+      "episodeTimestamp": "02:15",
+      "mangaReference": "Chapter 530",
+      "type": "ANIME_EXPANSION"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "In the Japanese version, Saldeath's self-introduction sounds like 'saru desu' which means 'I am a monkey,' prompting Luffy to joke that Saldeath doesn't look like a monkey.",
+      "category": "LOCALIZATION",
+      "sources": [
+        {
+          "url": "https://onepiecepedia.wordpress.com/world-goverments/impel-down/saldeath/",
+          "title": "Saldeath - Onepiece Pedia",
+          "platform": "WordPress",
+          "accessedAt": "2025-12-09"
+        }
+      ]
+    },
+    {
+      "fact": "Saldeath is voiced by Kazuya Nakai in Japanese, who also voices Roronoa Zoro, one of the main characters in the series.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://www.behindthevoiceactors.com/tv-shows/One-Piece/Saldeath/",
+          "title": "Saldeath Voice - One Piece",
+          "platform": "Behind The Voice Actors",
+          "accessedAt": "2025-12-09"
+        }
+      ]
+    },
+    {
+      "fact": "The next-episode preview was notably abbreviated due to announcements regarding the tenth One Piece film and series anniversary celebrations.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "This episode achieved a TV rating of 10.4%, ranking 3rd for its time slot in Japan.",
+      "category": "RATINGS",
+      "sources": []
+    },
+    {
+      "fact": "Bentham's appearance marks his return after last being seen in the Alabasta arc, over 300 episodes prior.",
+      "category": "CONTINUITY",
+      "sources": []
+    },
+    {
+      "fact": "Level 3 prisoners typically have bounties of 50,000,000 berries or higher, showing the caliber of criminals held here.",
+      "category": "WORLD_BUILDING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Impel_Down",
+          "title": "Impel Down - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-09"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

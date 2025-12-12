@@ -1,0 +1,542 @@
+{
+  "episodeNumber": 432,
+  "episodeTitle": "The Liberated Swan! Reunion! Bon Kurei",
+  "description": "Hancock arrives at Level 6 where Ace is held and manages to tell him that Luffy is coming to save him. Meanwhile, Luffy continues fighting through Level 3 and has an emotional reunion with Bon Clay, who was freed from his cell. Together they defeat the Sphinx and team up to descend deeper into Impel Down.",
+  "airDate": "2009-12-27",
+  "airDateJapan": "2009-12-27",
+  "airDateUS": "2015-10-27",
+  "arcName": "Impel Down",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Kaze wo Sagashite",
+    "artist": "Mari Yaguchi and Straw Hat",
+    "episodeRange": [426, 458]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Masayuki Takagi",
+    "episodeDirector": "Yutaka Nakashima",
+    "screenplay": "Hirohiko Kamisaka",
+    "artDirection": "Miho Shiraishi",
+    "storyboard": "",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Bentham (Bon Clay)",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Portgas D. Ace",
+        "actor": "Toshio Furukawa"
+      },
+      {
+        "character": "Boa Hancock",
+        "actor": "Kotono Mitsuishi"
+      },
+      {
+        "character": "Magellan",
+        "actor": "Mitsuaki Hoshino"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Daisuke Gōri"
+      },
+      {
+        "character": "Buggy",
+        "actor": "Shigeru Chiba"
+      },
+      {
+        "character": "Galdino (Mr. 3)",
+        "actor": "Nobuyuki Hiyama"
+      },
+      {
+        "character": "Hannyabal",
+        "actor": "Masaya Onosaka"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Bentham (Bon Clay)",
+        "actor": "Barry Yandell"
+      },
+      {
+        "character": "Portgas D. Ace",
+        "actor": "Travis Willingham"
+      },
+      {
+        "character": "Boa Hancock",
+        "actor": "Lydia Mackay"
+      },
+      {
+        "character": "Magellan",
+        "actor": "Kent Williams"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Daniel Baugh"
+      },
+      {
+        "character": "Buggy",
+        "actor": "Mike McFarland"
+      },
+      {
+        "character": "Galdino (Mr. 3)",
+        "actor": "Duncan Brannan"
+      },
+      {
+        "character": "Hannyabal",
+        "actor": "Sonny Strait"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep432-event-001",
+      "episodeNumber": 432,
+      "timestamp": "03:45",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Hancock and Magellan Arrive at Level 6",
+      "description": "Boa Hancock, accompanied by Magellan and Hannyabal, arrives at Level 6 of Impel Down where the most dangerous prisoners are held, including Portgas D. Ace and Jinbe. The prisoners become rowdy upon seeing Hancock.",
+      "significance": "This sets up the critical moment where Hancock can deliver Luffy's message to Ace, establishing that Ace will learn his brother is attempting a rescue. It also shows the first glimpse of Level 6 and its notorious inmates.",
+      "characterIds": ["hancock", "magellan", "hannyabal", "ace", "jinbe"],
+      "locationIds": ["impel-down-level-6"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [411, 415],
+      "payoffInEpisodes": [433],
+      "callbacksToEpisodes": [415]
+    },
+    {
+      "id": "ep432-event-002",
+      "episodeNumber": 432,
+      "timestamp": "05:20",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Magellan's Hydra Technique",
+      "description": "When the Level 6 prisoners become too loud and rowdy while calling out to Hancock, Magellan becomes angry and unleashes his Hydra technique - transforming into a large mass of poison and creating three massive poisonous dragon heads that terrorize the prisoners into silence.",
+      "significance": "This is the first time viewers see Magellan's Hydra technique, demonstrating the deadly power of his Doku Doku no Mi Devil Fruit. It establishes how dangerous Magellan is as an opponent and foreshadows the difficulty Luffy will face against him.",
+      "characterIds": ["magellan"],
+      "locationIds": ["impel-down-level-6"],
+      "devilFruitIds": ["doku-doku-no-mi"],
+      "quotes": [
+        {
+          "text": "Silence! You will respect the Pirate Empress!",
+          "speaker": "Magellan",
+          "context": "Before unleashing Hydra on the rowdy prisoners"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [425],
+      "payoffInEpisodes": [438],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep432-event-003",
+      "episodeNumber": 432,
+      "timestamp": "07:15",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Hancock Tells Ace That Luffy Is Coming",
+      "description": "While Magellan's Hydra technique distracts everyone, Hancock seizes the opportunity to whisper to Ace that his brother Luffy has infiltrated Impel Down and is on his way to save him. Ace is shocked and deeply troubled by this news.",
+      "significance": "This is a pivotal moment that confirms to Ace that Luffy is endangering himself for his sake. Ace's reaction shows his conflict between wanting to be saved and not wanting Luffy to risk his life. This also demonstrates Hancock's dedication to helping Luffy despite the risks.",
+      "characterIds": ["hancock", "ace", "luffy"],
+      "locationIds": ["impel-down-level-6"],
+      "quotes": [
+        {
+          "text": "Your brother... Luffy... is on his way to save you.",
+          "speaker": "Hancock",
+          "context": "Hancock quietly delivering Luffy's message to Ace"
+        },
+        {
+          "text": "What?! That idiot! He shouldn't have come here!",
+          "speaker": "Ace",
+          "context": "Ace's shocked and worried reaction upon learning Luffy is in Impel Down"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [415, 421],
+      "payoffInEpisodes": [450, 451, 452, 453, 454, 455, 456, 457, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489],
+      "callbacksToEpisodes": [91, 95]
+    },
+    {
+      "id": "ep432-event-004",
+      "episodeNumber": 432,
+      "timestamp": "08:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Jinbe Learns of Luffy's Infiltration",
+      "description": "Jinbe, who is also imprisoned in Level 6, overhears Hancock's message to Ace and expresses shock that Luffy would attempt something so reckless and dangerous as infiltrating the world's most secure prison.",
+      "significance": "This establishes Jinbe's awareness of Luffy and his connection to Ace. It sets up Jinbe's later involvement in helping Luffy and shows that even Jinbe, a powerful and experienced pirate, considers Luffy's actions extraordinarily brave and reckless.",
+      "characterIds": ["jinbe", "luffy", "ace"],
+      "locationIds": ["impel-down-level-6"],
+      "quotes": [
+        {
+          "text": "That boy... he's attempting the impossible!",
+          "speaker": "Jinbe",
+          "context": "Jinbe's reaction to learning Luffy has infiltrated Impel Down"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [430],
+      "payoffInEpisodes": [439, 440],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep432-event-005",
+      "episodeNumber": 432,
+      "timestamp": "11:45",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Luffy Fights Guards on Level 3",
+      "description": "Luffy continues his rampage through Level 3 (Starvation Hell), fighting off prison guards who attempt to capture him with seastone nets. Despite the intense heat rising from Level 4 below, Luffy perseveres in his mission to reach Ace.",
+      "significance": "Shows Luffy's determination and fighting prowess as he battles through Impel Down's defenses. The mention of heat from Level 4 foreshadows the even more dangerous levels deeper in the prison.",
+      "characterIds": ["luffy"],
+      "locationIds": ["impel-down-level-3"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [425, 426, 427, 428, 429, 430, 431],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep432-event-006",
+      "episodeNumber": 432,
+      "timestamp": "13:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Bon Clay Appears Disguised as Zoro",
+      "description": "While Luffy is climbing stairs and dodging guards, someone suddenly appears posing like a ballerina. The figure transforms to look exactly like Zoro, temporarily exciting Luffy before revealing himself to be Bentham (Bon Clay), who uses his Clone-Clone Fruit powers.",
+      "significance": "This marks Bon Clay's return to the story and his first appearance since Alabasta. The fake-out with Zoro's appearance creates an emotional moment that highlights how much Luffy misses his crew while also bringing comic relief. This reunion becomes crucial for Luffy's survival in Impel Down.",
+      "characterIds": ["bon-clay", "luffy"],
+      "locationIds": ["impel-down-level-3"],
+      "devilFruitIds": ["mane-mane-no-mi"],
+      "quotes": [
+        {
+          "text": "I'm so disappointed you're not Zoro, but I'm glad you're alive!",
+          "speaker": "Luffy",
+          "context": "Luffy's mixed emotions upon realizing it's Bon Clay, not Zoro"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [127],
+      "payoffInEpisodes": [433, 438, 440],
+      "callbacksToEpisodes": [98, 127]
+    },
+    {
+      "id": "ep432-event-007",
+      "episodeNumber": 432,
+      "timestamp": "15:20",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Luffy and Bon Clay's Emotional Reunion",
+      "description": "Luffy and Bon Clay have a tearful, joyful reunion, embracing as friends despite having been enemies during the Alabasta arc. Bon Clay explains that after heroically sacrificing himself to divert Marine Captain Hina, he was captured and brought to Impel Down.",
+      "significance": "This reunion demonstrates one of One Piece's core themes: the power of friendship transcending former allegiances. Bon Clay's sacrifice for the Straw Hats in Alabasta is acknowledged, and his genuine friendship with Luffy is cemented. This sets up their partnership through the rest of the Impel Down arc.",
+      "characterIds": ["luffy", "bon-clay"],
+      "locationIds": ["impel-down-level-3"],
+      "quotes": [
+        {
+          "text": "Swans never die! It's so good to see you again, Luffy-chan!",
+          "speaker": "Bon Clay",
+          "context": "Bon Clay's joyful greeting to Luffy during their reunion"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [127],
+      "payoffInEpisodes": [440],
+      "callbacksToEpisodes": [127]
+    },
+    {
+      "id": "ep432-event-008",
+      "episodeNumber": 432,
+      "timestamp": "17:45",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Sphinx Attack on Level 3",
+      "description": "The Sphinx, a chimera-like creature that guards Level 3, attacks Luffy and Bon Clay. The creature has the face of a human, the body of a lion, and can speak, though it makes strange sound effects when talking.",
+      "significance": "Introduces one of Impel Down's unique guardian beasts and provides an opportunity for Luffy and Bon Clay to fight together, demonstrating their teamwork and combat synergy.",
+      "characterIds": ["luffy", "bon-clay"],
+      "locationIds": ["impel-down-level-3"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [430],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep432-event-009",
+      "episodeNumber": 432,
+      "timestamp": "19:15",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Bon Clay's Swan Arabesque",
+      "description": "Bon Clay demonstrates his powerful ballet-based fighting technique, Swan Arabesque, using graceful but devastating kicks to incapacitate the Sphinx. The technique showcases his unique fighting style that combines Okama Kenpo with his Clone-Clone Fruit abilities.",
+      "significance": "This is the first time the anime shows Bon Clay's combat abilities since Alabasta, reminding viewers that he's not just comic relief but a formidable fighter. The technique's effectiveness against the Sphinx establishes Bon Clay as a valuable ally for Luffy's mission.",
+      "characterIds": ["bon-clay"],
+      "locationIds": ["impel-down-level-3"],
+      "quotes": [
+        {
+          "text": "Swan Arabesque!",
+          "speaker": "Bon Clay",
+          "context": "Bon Clay calling out his attack while defeating the Sphinx"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [107, 110]
+    },
+    {
+      "id": "ep432-event-010",
+      "episodeNumber": 432,
+      "timestamp": "20:30",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "Luffy and Bon Clay Defeat the Sphinx",
+      "description": "Working together, Luffy and Bon Clay successfully defeat the Sphinx guardian beast. They also take down several prison guards who were attempting to capture them with seastone nets.",
+      "significance": "Demonstrates the effective partnership between Luffy and Bon Clay, showing they work well together in combat. This victory clears their path to descend deeper into Impel Down.",
+      "characterIds": ["luffy", "bon-clay"],
+      "locationIds": ["impel-down-level-3"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep432-event-011",
+      "episodeNumber": 432,
+      "timestamp": "21:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Bon Clay Decides to Help Luffy Reach Level 5",
+      "description": "After their reunion and defeating the Sphinx together, Bon Clay reveals that he also needs to reach Level 5 to find someone important to him: Emporio Ivankov, the Queen of Kamabakka Kingdom. He pledges to help Luffy descend deeper into the prison to save Ace.",
+      "significance": "This decision cements the alliance between Luffy and Bon Clay for the remainder of the Impel Down arc. It also sets up the introduction of Emporio Ivankov, a major character who will play a crucial role in future events. Bon Clay's willingness to help demonstrates his loyalty and friendship.",
+      "characterIds": ["bon-clay", "luffy"],
+      "locationIds": ["impel-down-level-3"],
+      "quotes": [
+        {
+          "text": "I need to reach Level 5 too! I'm looking for someone - the Queen of Kamabakka Kingdom, Emporio Ivankov! Let's go together, Luffy-chan!",
+          "speaker": "Bon Clay",
+          "context": "Bon Clay explaining his mission and offering to team up with Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [438, 439],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep432-event-012",
+      "episodeNumber": 432,
+      "timestamp": "23:00",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MAJOR",
+      "title": "Mention of Emporio Ivankov",
+      "description": "Bon Clay mentions that he is searching for Emporio Ivankov, described as the Queen of Kamabakka Kingdom, who is supposedly imprisoned on Level 5 of Impel Down. This is the first mention of Ivankov in the anime.",
+      "significance": "This foreshadows the introduction of Emporio Ivankov, a Revolutionary Army commander who will become crucial to Luffy's survival and the Impel Down breakout. The mention of Kamabakka Kingdom also sets up future plot points involving Sanji during the timeskip.",
+      "characterIds": ["bon-clay"],
+      "locationIds": ["impel-down-level-3"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [438, 439],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": ["impel-down-level-6"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["hydra", "swan-arabesque"]
+  },
+  "episodeRelationships": {
+    "setupFor": [433, 438, 439],
+    "payoffFrom": [127, 415, 421, 425, 430],
+    "thematicLinks": [98, 127]
+  },
+  "quotes": [
+    {
+      "text": "Your brother... Luffy... is on his way to save you.",
+      "speaker": "Hancock",
+      "context": "Hancock quietly delivering Luffy's message to Ace while Magellan's Hydra distracts everyone",
+      "timestamp": "07:15"
+    },
+    {
+      "text": "What?! That idiot! He shouldn't have come here!",
+      "speaker": "Ace",
+      "context": "Ace's shocked and worried reaction upon learning Luffy is in Impel Down",
+      "timestamp": "07:30"
+    },
+    {
+      "text": "I'm so disappointed you're not Zoro, but I'm glad you're alive!",
+      "speaker": "Luffy",
+      "context": "Luffy's mixed emotions upon realizing it's Bon Clay disguised as Zoro, not his actual crewmate",
+      "timestamp": "13:45"
+    },
+    {
+      "text": "Swans never die! It's so good to see you again, Luffy-chan!",
+      "speaker": "Bon Clay",
+      "context": "Bon Clay's joyful greeting to Luffy during their emotional reunion",
+      "timestamp": "15:30"
+    },
+    {
+      "text": "I need to reach Level 5 too! I'm looking for someone - the Queen of Kamabakka Kingdom, Emporio Ivankov! Let's go together, Luffy-chan!",
+      "speaker": "Bon Clay",
+      "context": "Bon Clay explaining his mission to find Ivankov and offering to team up with Luffy",
+      "timestamp": "21:50"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Friendship Transcending Allegiances",
+      "description": "The reunion between Luffy and Bon Clay demonstrates how genuine friendship can overcome former enemy status. Despite being part of Baroque Works and fighting against the Straw Hats during Alabasta, Bon Clay's sacrifice and genuine bond with Luffy has created a deep friendship.",
+      "symbolism": "The phrase 'Swans never die' represents Bon Clay's undying loyalty and the eternal nature of true friendship. Their embrace symbolizes trust and mutual respect despite their different paths.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Sacrifice and Determination",
+      "description": "Both Luffy and Ace demonstrate their willingness to sacrifice themselves for the other. Luffy risks everything by infiltrating the world's most dangerous prison, while Ace is deeply troubled that his brother would endanger himself for his sake.",
+      "symbolism": "The vertical structure of Impel Down, with Luffy fighting his way down through each level, symbolizes the depths of his determination and the sacrifices he's willing to make for family.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Love as Strength and Weakness",
+      "description": "Hancock's love for Luffy drives her to take enormous risks by smuggling his message to Ace. Her feelings give her the courage to deceive Magellan and the World Government, showing how love can be both empowering and make one vulnerable.",
+      "symbolism": "Hancock's ability to deliver the message during Magellan's Hydra attack represents how love can find opportunities even in the most dangerous situations.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Emotional", "Adventurous", "Hopeful"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist continuing his infiltration mission",
+      "development": "Luffy's determination to save Ace is reinforced, and his joy at reuniting with Bon Clay shows his capacity for friendship. His disappointment that the Zoro lookalike wasn't real highlights how much he misses his crew.",
+      "keyActions": [
+        "Fights through Level 3 guards",
+        "Reunites emotionally with Bon Clay",
+        "Teams up with Bon Clay to descend deeper into Impel Down"
+      ],
+      "quotes": ["I'm so disappointed you're not Zoro, but I'm glad you're alive!"]
+    },
+    {
+      "characterId": "bon-clay",
+      "role": "Luffy's unexpected ally and friend who returns to the story",
+      "development": "Bon Clay's return showcases his growth from enemy to genuine friend. His willingness to help Luffy and search for Ivankov demonstrates his loyalty and his own personal mission. His combat skills and determination are reestablished.",
+      "keyActions": [
+        "Appears disguised as Zoro using his Clone-Clone Fruit",
+        "Has an emotional reunion with Luffy",
+        "Defeats the Sphinx with Swan Arabesque",
+        "Pledges to help Luffy reach Level 5",
+        "Reveals he's searching for Emporio Ivankov"
+      ],
+      "quotes": ["Swans never die! It's so good to see you again, Luffy-chan!", "I need to reach Level 5 too! I'm looking for someone - the Queen of Kamabakka Kingdom, Emporio Ivankov! Let's go together, Luffy-chan!"]
+    },
+    {
+      "characterId": "hancock",
+      "role": "Secret supporter risking everything for Luffy",
+      "development": "Hancock's love for Luffy drives her to take dangerous risks. Her ability to successfully deliver Luffy's message to Ace despite Magellan's presence shows her courage and cunning.",
+      "keyActions": [
+        "Arrives at Level 6 with Magellan and Hannyabal",
+        "Uses Magellan's Hydra attack as distraction",
+        "Successfully tells Ace that Luffy is coming to save him"
+      ],
+      "quotes": ["Your brother... Luffy... is on his way to save you."]
+    },
+    {
+      "characterId": "ace",
+      "role": "Imprisoned pirate learning his brother is attempting rescue",
+      "development": "Ace's reaction to learning Luffy has infiltrated Impel Down shows his deep concern for his younger brother. His conflicted emotions between wanting to be saved and not wanting Luffy endangered highlight the complexity of their relationship.",
+      "keyActions": [
+        "Receives message from Hancock about Luffy",
+        "Reacts with shock and worry about Luffy's infiltration"
+      ],
+      "quotes": ["What?! That idiot! He shouldn't have come here!"]
+    },
+    {
+      "characterId": "magellan",
+      "role": "Antagonist demonstrating his overwhelming power",
+      "development": "Magellan's use of Hydra demonstrates the full extent of his Devil Fruit powers and establishes him as a formidable threat to anyone in Impel Down. His authority and power are reinforced.",
+      "keyActions": [
+        "Escorts Hancock to Level 6",
+        "Unleashes Hydra technique to silence rowdy prisoners"
+      ],
+      "quotes": ["Silence! You will respect the Pirate Empress!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime expanded several scenes for pacing, including extending the reunion between Luffy and Bon Clay with more dialogue and emotional moments.",
+      "episodeTimestamp": "15:20",
+      "mangaReference": "Chapters 530-531",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "The anime added additional combat sequences showing Luffy fighting guards on Level 3 that were not as detailed in the manga.",
+      "episodeTimestamp": "11:45",
+      "mangaReference": "Chapter 530",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marked the final appearance of voice actor Daisuke Gōri as Jinbe before his passing on January 17, 2010. Katsuhisa Hōki would take over the role from episode 440 onwards.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_432",
+          "title": "Episode 432 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-09"
+        }
+      ]
+    },
+    {
+      "fact": "The reunion between Luffy and Bon Clay is considered one of the most emotionally impactful moments in the Impel Down arc, showcasing the series' theme of friendship transcending former allegiances.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "Episode 432 was simulcast on Funimation a day before the Japanese air date (December 26, 2009 vs December 27, 2009), which was unusual for the time.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_432",
+          "title": "Episode 432 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-09"
+        }
+      ]
+    },
+    {
+      "fact": "This episode covers manga chapters 530-531, continuing the adaptation of the Impel Down arc which many fans consider one of the best arcs in One Piece.",
+      "category": "MANGA_ADAPTATION",
+      "sources": []
+    },
+    {
+      "fact": "The opening theme 'Kaze wo Sagashite' by Mari Yaguchi was used for episodes 426-458, covering both the Impel Down and early Marineford arcs.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Kaze_wo_Sagashite",
+          "title": "Kaze wo Sagashite - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-09"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
