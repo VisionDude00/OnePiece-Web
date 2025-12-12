@@ -1,0 +1,483 @@
+{
+  "episodeNumber": 447,
+  "episodeTitle": "Jet Pistol of Anger! Luffy vs. Blackbeard!",
+  "description": "Luffy confronts Blackbeard in Impel Down and attacks him with rage after learning he captured Ace. However, Jinbe reminds Luffy there's no time for a proper battle as they must focus on saving Ace. Meanwhile, Magellan pursues and poisons the Blackbeard Pirates.",
+  "airDate": "2010-04-18",
+  "airDateJapan": "2010-04-18",
+  "airDateUS": "2010-04-17",
+  "arcName": "Impel Down",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Kaze wo Sagashite",
+    "artist": "Mari Yaguchi and Straw Hat",
+    "episodeRange": [426, 458]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Katsumi Ishizuka",
+    "director": "Makoto Sonoda",
+    "screenplay": "Yoshiyuki Suga",
+    "artDirector": "Miho Shiraishi",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Marshall D. Teach (Blackbeard)",
+        "actor": "Akio Otsuka"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Daisuke Gori"
+      },
+      {
+        "character": "Emporio Ivankov",
+        "actor": "Norio Imamura"
+      },
+      {
+        "character": "Crocodile",
+        "actor": "Ryuzaburo Otomo"
+      },
+      {
+        "character": "Magellan",
+        "actor": "Mitsuaki Hoshino"
+      },
+      {
+        "character": "Bentham (Mr. 2 Bon Kurei)",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Buggy",
+        "actor": "Shigeru Chiba"
+      },
+      {
+        "character": "Mr. 3 (Galdino)",
+        "actor": "Nobuyuki Hiyama"
+      },
+      {
+        "character": "Sadi",
+        "actor": "Masumi Asano"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Marshall D. Teach (Blackbeard)",
+        "actor": "Cole Brown"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep447-event-001",
+      "episodeNumber": 447,
+      "timestamp": "03:45",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Blackbeard Reveals He Captured Ace",
+      "description": "Blackbeard reveals to Luffy that he was the one who captured Portgas D. Ace and turned him over to the World Government to become a Warlord of the Sea. He explains that he originally planned to capture Luffy at Water 7 after Luffy defeated Crocodile and opened up a Warlord position.",
+      "significance": "This revelation explains why Ace is scheduled for execution and establishes Blackbeard as directly responsible for the events leading to the Marineford War. It fuels Luffy's rage and sets up their eventual final confrontation.",
+      "characterIds": ["luffy", "blackbeard", "ace", "jinbe", "bon-kurei"],
+      "locationIds": ["impel-down-level-4"],
+      "crewIds": ["blackbeard-pirates"],
+      "quotes": [
+        {
+          "text": "It was me who captured Ace and turned him over to the World Government.",
+          "speaker": "Blackbeard",
+          "context": "Blackbeard reveals his role in Ace's capture to Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [325, 443, 444],
+      "payoffInEpisodes": [483, 484, 485],
+      "callbacksToEpisodes": [325, 443]
+    },
+    {
+      "id": "ep447-event-002",
+      "episodeNumber": 447,
+      "timestamp": "05:20",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Luffy Attacks Blackbeard with Gear Second",
+      "description": "Enraged by learning Blackbeard captured Ace, Luffy activates Gear Second and launches a powerful punch at Blackbeard, sending him flying into a wall and breaking it on impact. This marks the beginning of their first direct combat.",
+      "significance": "First physical confrontation between Luffy and Blackbeard, showcasing the animosity between them and foreshadowing their eventual final battle as rivals for the title of Pirate King.",
+      "characterIds": ["luffy", "blackbeard"],
+      "locationIds": ["impel-down-level-4"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [
+        {
+          "text": "I won't let Ace die!",
+          "speaker": "Luffy",
+          "context": "Luffy's declaration before attacking Blackbeard"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [447],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [151]
+    },
+    {
+      "id": "ep447-event-003",
+      "episodeNumber": 447,
+      "timestamp": "06:15",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Blackbeard's Kurouzu Pulls Luffy In",
+      "description": "Blackbeard uses his Yami Yami no Mi ability 'Kurouzu' (Dark Vortex), pulling Luffy towards him through gravitational force. He then slams Luffy into the ground with tremendous force, causing Luffy to bleed from his mouth. The attack is especially effective because Blackbeard's darkness nullifies Luffy's rubber body.",
+      "significance": "Demonstrates Blackbeard's Devil Fruit power that can nullify other Devil Fruit abilities, making him particularly dangerous to Devil Fruit users like Luffy. This establishes the unique threat Blackbeard poses.",
+      "characterIds": ["luffy", "blackbeard", "jinbe", "bon-kurei", "crocodile"],
+      "locationIds": ["impel-down-level-4"],
+      "devilFruitIds": ["yami-yami-no-mi", "gomu-gomu-no-mi"],
+      "quotes": [
+        {
+          "text": "Kurouzu!",
+          "speaker": "Blackbeard",
+          "context": "Blackbeard activates his Dark Vortex ability"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [325],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [325]
+    },
+    {
+      "id": "ep447-event-004",
+      "episodeNumber": 447,
+      "timestamp": "07:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Jinbe Stops Luffy from Fighting Blackbeard",
+      "description": "As Luffy prepares to continue fighting Blackbeard, Jinbe physically intervenes and strikes Luffy down, reminding him that there's no time for this battle. With only hours remaining until Ace's execution, they must prioritize saving Ace over settling scores with Blackbeard.",
+      "significance": "Jinbe's intervention keeps Luffy focused on his mission to save Ace, preventing a prolonged battle that would doom Ace. This moment shows Luffy's emotional struggle between revenge and his brother's life.",
+      "characterIds": ["luffy", "jinbe", "blackbeard"],
+      "locationIds": ["impel-down-level-4"],
+      "quotes": [
+        {
+          "text": "There's no time for that! We must save Ace!",
+          "speaker": "Jinbe",
+          "context": "Jinbe reminds Luffy of their priority"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep447-event-005",
+      "episodeNumber": 447,
+      "timestamp": "08:45",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Blackbeard Confirms Skypiea and One Piece Exist",
+      "description": "As Luffy leaves, Blackbeard calls out to him, confirming that both Skypiea and the One Piece treasure are real. This reassurance from Blackbeard, despite being enemies, validates Luffy's adventures and dreams.",
+      "significance": "Blackbeard's confirmation is significant as it comes from a major antagonist who also seeks the One Piece. It reinforces the reality of Luffy's goal and the legitimacy of his journey, while also establishing Blackbeard as a fellow dreamer and rival.",
+      "characterIds": ["luffy", "blackbeard"],
+      "locationIds": ["impel-down-level-4"],
+      "quotes": [
+        {
+          "text": "The One Piece is real! Skypiea exists too!",
+          "speaker": "Blackbeard",
+          "context": "Blackbeard confirms the existence of the ultimate treasure and Skypiea to Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [143, 144, 151],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [143, 144, 151]
+    },
+    {
+      "id": "ep447-event-006",
+      "episodeNumber": 447,
+      "timestamp": "10:20",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Blackbeard Reveals His Plan at Impel Down",
+      "description": "Crocodile questions why Blackbeard would attack Impel Down and risk losing his newly acquired Warlord title. Blackbeard hints that infiltrating the prison is part of a larger plan, though he doesn't reveal the full details.",
+      "significance": "This establishes that Blackbeard has a strategic purpose for being in Impel Down beyond coincidence, foreshadowing his recruitment of Level 6 prisoners to strengthen his crew.",
+      "characterIds": ["blackbeard", "crocodile"],
+      "locationIds": ["impel-down-level-4"],
+      "crewIds": ["blackbeard-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [444],
+      "payoffInEpisodes": [450, 451],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep447-event-007",
+      "episodeNumber": 447,
+      "timestamp": "12:00",
+      "eventType": "BATTLE_START",
+      "severity": "CRITICAL",
+      "title": "Magellan Poisons the Blackbeard Pirates",
+      "description": "Magellan catches up to the Blackbeard Pirates and, ignoring their pleas, uses his Doku Doku no Mi abilities to poison Blackbeard and his entire crew. The poison is devastating, leaving them incapacitated and writhing in agony.",
+      "significance": "Demonstrates Magellan's overwhelming power as he single-handedly defeats the entire Blackbeard crew, including their captain who just became a Warlord. This showcases why Magellan is considered Impel Down's ultimate defense.",
+      "characterIds": ["magellan", "blackbeard", "jesus-burgess", "van-augur", "doc-q", "laffitte"],
+      "locationIds": ["impel-down-level-4"],
+      "devilFruitIds": ["doku-doku-no-mi", "yami-yami-no-mi"],
+      "crewIds": ["blackbeard-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [425, 426],
+      "payoffInEpisodes": [450],
+      "callbacksToEpisodes": [425]
+    },
+    {
+      "id": "ep447-event-008",
+      "episodeNumber": 447,
+      "timestamp": "15:30",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "Luffy Defeats the Revived Minotaurus",
+      "description": "The group encounters Minotaurus, one of the Jailer Beasts that has revived after being defeated earlier. Luffy easily defeats it with a single powerful attack, showcasing how much stronger he's become.",
+      "significance": "Demonstrates Luffy's growth in power, as he effortlessly defeats an enemy that previously gave him trouble. This shows his increasing strength as he races to save Ace.",
+      "characterIds": ["luffy", "minotaurus"],
+      "locationIds": ["impel-down-level-4"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [430],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [430]
+    },
+    {
+      "id": "ep447-event-009",
+      "episodeNumber": 447,
+      "timestamp": "17:15",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "Ivankov Defeats Sadi",
+      "description": "Emporio Ivankov battles and defeats Sadi, the sadistic Chief Guard of Impel Down. After defeating her, Ivankov ties her up with her own whip as the prisoners continue their escape.",
+      "significance": "Removes one of Impel Down's key guards from play, clearing the path for the prisoners' escape while showcasing Ivankov's combat abilities.",
+      "characterIds": ["ivankov", "sadi"],
+      "locationIds": ["impel-down-level-4"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [442],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep447-event-010",
+      "episodeNumber": 447,
+      "timestamp": "19:00",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Buggy and Mr. 3 Reach Level 1",
+      "description": "Buggy and Mr. 3, along with a group of prisoners following them, successfully reach Level 1 of Impel Down, getting closer to escape. The prisoners see Buggy as their leader and savior.",
+      "significance": "Shows progress in the prison break as Buggy's group reaches the uppermost level, though they still need to find a way out of the prison itself.",
+      "characterIds": ["buggy", "mr-3"],
+      "locationIds": ["impel-down-level-1"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [446],
+      "payoffInEpisodes": [448, 449],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep447-event-011",
+      "episodeNumber": 447,
+      "timestamp": "20:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Hannyabal Found Unconscious",
+      "description": "Vice Warden Hannyabal is discovered unconscious, having been defeated during the prison break chaos. This shows the extent of the damage to Impel Down's command structure.",
+      "significance": "Illustrates the breakdown of Impel Down's security and the severity of the prison break, with even high-ranking officers being taken out.",
+      "characterIds": ["hannyabal"],
+      "locationIds": ["impel-down"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [435],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["kurouzu"]
+  },
+  "episodeRelationships": {
+    "setupFor": [448, 449, 450],
+    "payoffFrom": [443, 444, 446],
+    "thematicLinks": [151, 325, 483, 485]
+  },
+  "quotes": [
+    {
+      "text": "It was me who captured Ace and turned him over to the World Government.",
+      "speaker": "Blackbeard",
+      "context": "Blackbeard reveals his role in Ace's capture",
+      "timestamp": "03:45"
+    },
+    {
+      "text": "I won't let Ace die!",
+      "speaker": "Luffy",
+      "context": "Luffy's declaration before attacking Blackbeard",
+      "timestamp": "05:20"
+    },
+    {
+      "text": "There's no time for that! We must save Ace!",
+      "speaker": "Jinbe",
+      "context": "Jinbe stops Luffy from fighting Blackbeard",
+      "timestamp": "07:30"
+    },
+    {
+      "text": "The One Piece is real! Skypiea exists too!",
+      "speaker": "Blackbeard",
+      "context": "Blackbeard confirms the existence of the ultimate treasure",
+      "timestamp": "08:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Revenge vs. Responsibility",
+      "description": "Luffy struggles between his desire for revenge against Blackbeard and his responsibility to save Ace. Jinbe's intervention highlights the importance of prioritizing what truly matters.",
+      "symbolism": "The confrontation represents the clash between emotional impulses and rational decision-making in high-stakes situations.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Dreams and Ambition",
+      "description": "Blackbeard's confirmation that the One Piece and Skypiea are real reinforces the validity of pursuing seemingly impossible dreams, even from an enemy's perspective.",
+      "symbolism": "Two rivals for the Pirate King title acknowledging the same truth about their shared goal.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Overwhelming Power",
+      "description": "Magellan's complete domination of the Blackbeard Pirates demonstrates the hierarchy of power and how even a newly appointed Warlord can be outmatched.",
+      "symbolism": "The poison represents the inescapable consequences of challenging the system.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Intense", "Dramatic", "Urgent", "Vengeful"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist facing moral choice",
+      "development": "Luffy confronts Blackbeard and learns the truth about Ace's capture. Despite his rage, he chooses to prioritize saving Ace over revenge, showing emotional maturity.",
+      "keyActions": [
+        "Learns Blackbeard captured Ace",
+        "Attacks Blackbeard with Gear Second",
+        "Experiences Blackbeard's Devil Fruit nullification power",
+        "Accepts Jinbe's intervention and continues toward Ace",
+        "Defeats revived Minotaurus easily"
+      ],
+      "quotes": ["I won't let Ace die!"]
+    },
+    {
+      "characterId": "blackbeard",
+      "role": "Antagonist and rival",
+      "development": "Blackbeard reveals his role in Ace's capture and demonstrates his Devil Fruit powers against Luffy. Despite being enemies, he confirms Luffy's dreams are real.",
+      "keyActions": [
+        "Reveals he captured Ace",
+        "Fights Luffy using Kurouzu ability",
+        "Confirms One Piece and Skypiea exist",
+        "Hints at larger plan in Impel Down",
+        "Gets poisoned by Magellan with his entire crew"
+      ],
+      "quotes": ["The One Piece is real! Skypiea exists too!"]
+    },
+    {
+      "characterId": "jinbe",
+      "role": "Voice of reason",
+      "development": "Jinbe takes on the role of keeping Luffy focused on the mission, even if it means physically stopping him from fighting.",
+      "keyActions": [
+        "Stops Luffy from fighting Blackbeard",
+        "Reminds Luffy of time constraints",
+        "Keeps the group moving toward their goal"
+      ],
+      "quotes": ["There's no time for that! We must save Ace!"]
+    },
+    {
+      "characterId": "magellan",
+      "role": "Unstoppable force",
+      "development": "Magellan demonstrates why he's the ultimate guardian of Impel Down by single-handedly defeating the entire Blackbeard Pirates crew.",
+      "keyActions": [
+        "Pursues escapees relentlessly",
+        "Ignores Blackbeard's Warlord status",
+        "Poisons entire Blackbeard crew",
+        "Continues pursuit of Luffy"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends several fight sequences and adds more animation to the confrontations between characters.",
+      "episodeTimestamp": "05:00-15:00",
+      "mangaReference": "Chapter 544, pages 5-19",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode adapts Chapter 544 of the manga, titled 'The Lid to the Cauldron of Hell Opens'.",
+      "category": "MANGA_ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_447",
+          "title": "Episode 447 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-12"
+        }
+      ]
+    },
+    {
+      "fact": "This is the first time Luffy and Blackbeard physically fight each other, though they met previously in Mock Town (Episode 151).",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_447",
+          "title": "Episode 447 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-12"
+        }
+      ]
+    },
+    {
+      "fact": "The episode aired in Japan on April 18, 2010, with a simulcast airing in the US one day earlier on April 17, 2010.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_447",
+          "title": "Episode 447 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-12"
+        }
+      ]
+    },
+    {
+      "fact": "Cole Brown, who voiced Blackbeard in the English dub for this episode, passed away in 2012. Chris Rager would later take over the role.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://www.behindthevoiceactors.com/tv-shows/One-Piece/Marshall-D-Teach-Blackbeard/",
+          "title": "Marshall D. Teach / Blackbeard Voice - Behind The Voice Actors",
+          "platform": "Behind The Voice Actors",
+          "accessedAt": "2025-12-12"
+        }
+      ]
+    },
+    {
+      "fact": "The episode had a TV rating of 12.9%, ranking #2 in its timeslot.",
+      "category": "RATINGS",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_447",
+          "title": "Episode 447 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-12"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
