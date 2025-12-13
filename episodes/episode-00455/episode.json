@@ -1,0 +1,405 @@
+{
+  "episodeNumber": 455,
+  "episodeTitle": "The Crew's Whereabouts! Revolutionaries and the Gorging Forest's Trap!",
+  "description": "Robin is imprisoned at Tequila Wolf but is rescued by the Revolutionary Army led by Bunny Joe. Meanwhile, Usopp struggles to survive on the Boin Archipelago's dangerous Greenstone Island, where he encounters man-eating plants and nearly gets consumed by the carnivorous island itself before being saved by Heracles.",
+  "airDate": "2010-06-13",
+  "airDateJapan": "2010-06-13",
+  "airDateUS": "2010-06-12",
+  "arcName": "Straw Hat's Separation Serial",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "SPECIAL",
+  "openingSong": {
+    "title": "Kaze wo Sagashite",
+    "artist": "Mari Yaguchi with the Straw Hats",
+    "episodeRange": [426, 458]
+  },
+  "endingSong": null,
+  "credits": {
+    "director": "Gō Koga",
+    "animationDirector": "Naoki Tate",
+    "artDirector": "Miho Shiraishi",
+    "screenplay": "Hirohiko Kamisaka",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep455-event-001",
+      "episodeNumber": 455,
+      "timestamp": "02:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Robin Imprisoned at Tequila Wolf",
+      "description": "Robin is shown imprisoned at the Prison Tower of Tequila Wolf, wearing Seastone armlets that restrict her Devil Fruit powers. She resists interrogation from the guards about allegedly sinking six ships.",
+      "significance": "Establishes Robin's dire situation after being sent away by Bartholomew Kuma, showing the harsh conditions of the World Government's slave labor system.",
+      "characterIds": ["robin"],
+      "locationIds": ["tequila-wolf", "tequila-wolf-prison-tower"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [420],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [405]
+    },
+    {
+      "id": "ep455-event-002",
+      "episodeNumber": 455,
+      "timestamp": "05:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Soran Visits Robin in Prison",
+      "description": "Soran, a young slave girl bearing the number 3333, visits Robin in the Prison Tower intending to share sweets given to her by an old lady. This demonstrates Soran's compassionate nature despite her enslaved status.",
+      "significance": "Introduces Soran's character and shows Robin's impact on the enslaved workers at Tequila Wolf, establishing the bond that will lead Robin to sacrifice herself.",
+      "characterIds": ["robin", "soran"],
+      "locationIds": ["tequila-wolf-prison-tower"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [420],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep455-event-003",
+      "episodeNumber": 455,
+      "timestamp": "08:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Revolutionary Army Attacks Tequila Wolf",
+      "description": "An explosion rocks Tequila Wolf as the Revolutionary Army, led by Bunny Joe, launches an assault on the slave labor camp. A guard who had been helping Robin reveals himself as a Revolutionary Army agent.",
+      "significance": "Marks the first major action by the Revolutionary Army in the anime, demonstrating their commitment to liberating slaves and their search for Robin specifically.",
+      "characterIds": ["bunny-joe", "robin"],
+      "locationIds": ["tequila-wolf"],
+      "crewIds": ["revolutionary-army"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [420],
+      "payoffInEpisodes": [544],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep455-event-004",
+      "episodeNumber": 455,
+      "timestamp": "11:20",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MAJOR",
+      "title": "Robin Freed by Revolutionary Army",
+      "description": "Bunny Joe and the Revolutionary Army successfully free Robin and all the other enslaved workers at Tequila Wolf. Bunny Joe explains that the Revolutionary Army has been searching for Robin and invites her to meet Dragon at Baltigo.",
+      "significance": "Liberates Robin from slavery and establishes her connection to the Revolutionary Army, setting up her future role in learning about the true history of the world during the timeskip.",
+      "characterIds": ["robin", "bunny-joe", "soran"],
+      "locationIds": ["tequila-wolf"],
+      "crewIds": ["revolutionary-army"],
+      "quotes": [
+        {
+          "text": "We've been searching for you. The Revolutionary Army would like to speak with you.",
+          "speaker": "Bunny Joe",
+          "context": "Bunny Joe inviting Robin to meet the Revolutionary Army"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [420],
+      "payoffInEpisodes": [544],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep455-event-005",
+      "episodeNumber": 455,
+      "timestamp": "14:00",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Usopp on Greenstone Island",
+      "description": "The episode shifts to Usopp's storyline on Greenstone Island in the Boin Archipelago, where he is being chased by large walking sunflowers and other man-eating plants.",
+      "significance": "Shows Usopp's perilous situation after being separated from the crew, establishing the dangerous nature of the Boin Archipelago.",
+      "characterIds": ["usopp"],
+      "locationIds": ["boin-archipelago", "greenstone-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [420],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [405]
+    },
+    {
+      "id": "ep455-event-006",
+      "episodeNumber": 455,
+      "timestamp": "16:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Heracles Introduces Himself",
+      "description": "Heracles, a warrior dressed in beetle armor, appears and introduces himself to Usopp. He offers to help Usopp navigate the dangerous island and leads him to a section of the Forest of Gluttony where real food grows.",
+      "significance": "Introduces Heracles, who will become Usopp's mentor during the two-year timeskip, teaching him about Pop Greens and survival skills.",
+      "characterIds": ["usopp", "heracles"],
+      "locationIds": ["greenstone-island", "forest-of-gluttony"],
+      "quotes": [
+        {
+          "text": "I am Heracles!",
+          "speaker": "Heracles",
+          "context": "Heracles introducing himself to Usopp with his characteristic exclamation"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [420],
+      "payoffInEpisodes": [517],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep455-event-007",
+      "episodeNumber": 455,
+      "timestamp": "18:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Usopp Discovers the Forest of Gluttony",
+      "description": "Heracles brings Usopp to the Forest of Gluttony, an area filled with delicious ready-to-eat food including plum trees, corn stalks, and even a river of prepared ramen. Usopp, having been starving, begins eating ravenously.",
+      "significance": "Reveals the deceptive nature of the Boin Archipelago - offering abundant food to fatten up prey before consuming them, and introduces the unique ecosystem that will become Usopp's training ground.",
+      "characterIds": ["usopp", "heracles"],
+      "locationIds": ["forest-of-gluttony"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep455-event-008",
+      "episodeNumber": 455,
+      "timestamp": "20:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Usopp Becomes Overweight",
+      "description": "After consuming massive amounts of food from the Forest of Gluttony, Usopp becomes extremely fat and bloated, unable to move properly. Heracles warns him about the dangers, but Usopp continues eating.",
+      "significance": "Demonstrates Usopp's initial lack of discipline and the seductive danger of the island's trap, setting up his character growth during the timeskip.",
+      "characterIds": ["usopp", "heracles"],
+      "locationIds": ["forest-of-gluttony"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [517],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep455-event-009",
+      "episodeNumber": 455,
+      "timestamp": "22:15",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "The Island's True Nature Revealed",
+      "description": "A massive earthquake shakes the island as it begins to close its leaves. Usopp realizes with horror that the entire island is actually a giant carnivorous plant called a Stomach Baron, and the Forest of Gluttony is a trap to fatten up prey before consuming them.",
+      "significance": "Reveals the true nature of the Boin Archipelago islands as massive carnivorous plants, explaining the dangerous ecosystem and raising the stakes for Usopp's survival.",
+      "characterIds": ["usopp", "heracles"],
+      "locationIds": ["boin-archipelago", "greenstone-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [420],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep455-event-010",
+      "episodeNumber": 455,
+      "timestamp": "24:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Usopp Escapes by Eating Ramen",
+      "description": "As the island closes its leaves and tries to consume everything inside, Usopp escapes by climbing up a stream of ramen while eating it, using the food itself as his means of survival. His ingenuity saves him from being digested by the Stomach Baron.",
+      "significance": "Demonstrates Usopp's resourcefulness and quick thinking under pressure, foreshadowing the creative problem-solving skills he'll develop during his training.",
+      "characterIds": ["usopp"],
+      "locationIds": ["forest-of-gluttony"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["soran", "bunny-joe", "heracles"],
+    "locations": ["tequila-wolf-prison-tower", "forest-of-gluttony"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [456, 517],
+    "payoffFrom": [420, 405],
+    "thematicLinks": [418, 419, 421, 453, 454, 456]
+  },
+  "quotes": [
+    {
+      "text": "We've been searching for you. The Revolutionary Army would like to speak with you.",
+      "speaker": "Bunny Joe",
+      "context": "Inviting Robin to meet Dragon at Baltigo",
+      "timestamp": "11:20"
+    },
+    {
+      "text": "I am Heracles!",
+      "speaker": "Heracles",
+      "context": "Introducing himself to Usopp",
+      "timestamp": "16:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Freedom and Liberation",
+      "description": "The episode contrasts Robin's liberation from slavery at Tequila Wolf with Usopp's struggle to escape the natural prison of the Boin Archipelago, exploring different forms of captivity and freedom.",
+      "symbolism": "The Revolutionary Army's attack represents the fight against oppression, while the carnivorous island symbolizes nature's indifference and the need for self-reliance.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Growth Through Hardship",
+      "description": "Both Robin and Usopp face severe trials that will ultimately lead to their growth - Robin's encounter with the Revolutionary Army sets up her learning about world history, while Usopp's struggle on the dangerous island prepares him for his survival training.",
+      "symbolism": "The Forest of Gluttony represents temptation and the easy path that leads to destruction, teaching Usopp the importance of discipline.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Hopeful", "Adventurous", "Comedic"],
+  "characterSpotlights": [
+    {
+      "characterId": "robin",
+      "role": "Featured protagonist - liberation arc",
+      "development": "Robin demonstrates her resilience under imprisonment and willingly sacrifices herself to protect Soran and other slaves. Her rescue by the Revolutionary Army marks the beginning of her journey to understand the true history of the world.",
+      "keyActions": [
+        "Resists interrogation at Tequila Wolf Prison Tower",
+        "Shows compassion to fellow slaves including Soran",
+        "Gets rescued by Bunny Joe and the Revolutionary Army",
+        "Receives invitation to meet Dragon at Baltigo"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "usopp",
+      "role": "Featured protagonist - survival arc",
+      "development": "Usopp's character is shown at his lowest point - surrendering to gluttony and becoming overweight. However, his quick thinking and resourcefulness in escaping the closing island foreshadows his potential for growth during the timeskip.",
+      "keyActions": [
+        "Flees from man-eating plants on Greenstone Island",
+        "Meets Heracles who introduces him to the Forest of Gluttony",
+        "Becomes overweight from overeating",
+        "Discovers the island is a giant carnivorous plant",
+        "Escapes by climbing and eating the ramen stream"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "bunny-joe",
+      "role": "Supporting character - liberator",
+      "development": "Bunny Joe is introduced as a leader within the Revolutionary Army, demonstrating the organization's commitment to freeing slaves and their specific interest in Robin.",
+      "keyActions": [
+        "Leads Revolutionary Army assault on Tequila Wolf",
+        "Frees Robin and all enslaved workers",
+        "Invites Robin to meet Dragon"
+      ],
+      "quotes": ["We've been searching for you. The Revolutionary Army would like to speak with you."]
+    },
+    {
+      "characterId": "heracles",
+      "role": "Supporting character - mentor introduction",
+      "development": "Heracles is introduced as a mysterious warrior living on the dangerous Boin Archipelago, showing both his knowledge of the island's dangers and his willingness to help Usopp.",
+      "keyActions": [
+        "Introduces himself to Usopp",
+        "Guides Usopp to the Forest of Gluttony",
+        "Warns Usopp about the island's dangers"
+      ],
+      "quotes": ["I am Heracles!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The episode greatly expands on the manga's cover story, adding full scenes with dialogue, character interactions, and extended sequences of Robin's imprisonment and rescue.",
+      "episodeTimestamp": "00:00",
+      "mangaReference": "Chapter 546 cover story",
+      "type": "ANIME_EXPANSION"
+    },
+    {
+      "difference": "Usopp's storyline is also expanded from a single cover page showing him fat to a full narrative sequence showing his arrival, eating, and escape from the closing island.",
+      "episodeTimestamp": "14:00",
+      "mangaReference": "Chapter 551 cover story",
+      "type": "ANIME_EXPANSION"
+    },
+    {
+      "difference": "The episode adds scenes of the Revolutionary Army's attack on Tequila Wolf with explosions and combat that were not shown in the manga cover story.",
+      "episodeTimestamp": "08:45",
+      "mangaReference": "Chapter 546 cover story",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode features a unique animation style similar to the film 'Baron Omatsuri and the Secret Island,' with softer character designs, looser movements, and reduced shading.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_455",
+          "title": "Episode 455 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-13"
+        }
+      ]
+    },
+    {
+      "fact": "The episode adapted content from multiple manga cover stories spanning chapters 545, 546, and 551, demonstrating how the anime expanded brief cover page narratives into full storylines.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_455",
+          "title": "Episode 455 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-13"
+        }
+      ]
+    },
+    {
+      "fact": "The episode achieved an 11.1% TV rating in Japan and ranked #3 for its broadcast week.",
+      "category": "RATINGS",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_455",
+          "title": "Episode 455 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-13"
+        }
+      ]
+    },
+    {
+      "fact": "This is part of the Straw Hat's Separation Serial, which spans episodes 418-421 and 453-456, totaling 8 episodes that adapted the manga's cover story mini-arc.",
+      "category": "STORY_ARC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Straw_Hat's_Separation_Serial",
+          "title": "Straw Hat's Separation Serial - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-13"
+        }
+      ]
+    },
+    {
+      "fact": "Heracles, introduced in this episode, would later become Usopp's mentor during the two-year timeskip, training him in the use of Pop Greens that would become a core part of Usopp's fighting style.",
+      "category": "FORESHADOWING",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
