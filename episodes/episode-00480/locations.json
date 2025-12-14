@@ -1,0 +1,111 @@
+[
+  {
+    "name": {
+      "english": "Marineford",
+      "japanese": "マリンフォード",
+      "romanized": "Marinfōdo"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Marineford",
+    "description": "The island headquarters of the Marines, where the execution of Portgas D. Ace takes place. A crescent moon-shaped island composed of bricks and steel with the Oris Plaza at its center.",
+    "episodeAppearances": [480],
+    "keyEvents": [
+      {
+        "episodeNumber": 480,
+        "eventId": "ep480-event-002",
+        "eventType": "BATTLE_START",
+        "title": "Luffy vs. Garp Confrontation",
+        "description": "The emotional confrontation between Luffy and Garp takes place at Marineford as Luffy fights to reach the execution platform.",
+        "significance": "One of the most emotionally charged battles in the war, representing the clash between family bonds and duty.",
+        "timestamp": "07:45"
+      },
+      {
+        "episodeNumber": 480,
+        "eventId": "ep480-event-012",
+        "eventType": "POWER_REVEAL",
+        "title": "Ace Regains Fire Powers",
+        "description": "After being freed from Sea Stone handcuffs, Ace uses his fire powers at Marineford to save everyone from falling.",
+        "significance": "Marks Ace's return to active combat and the seeming success of the rescue mission.",
+        "timestamp": "21:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 480,
+        "episodeEnd": null,
+        "reason": "Site of the Summit War and Ace's execution attempt"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["execution-platform", "oris-plaza"],
+    "relatedCharacters": ["luffy", "ace", "garp", "sengoku", "kizaru", "whitebeard"],
+    "relatedCrews": ["marines", "whitebeard-pirates", "straw-hat-pirates"],
+    "relatedArcs": ["Marineford Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Execution Platform",
+      "japanese": "処刑台",
+      "romanized": "Shokeidae"
+    },
+    "locationType": "STRUCTURE",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Marineford",
+    "description": "The scaffold structure at the center of Marineford's Oris Plaza where Portgas D. Ace is scheduled for public execution. The platform stands as the focal point of the Summit War.",
+    "episodeAppearances": [480],
+    "keyEvents": [
+      {
+        "episodeNumber": 480,
+        "eventId": "ep480-event-004",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Luffy Reaches the Platform",
+        "description": "After defeating Garp, Luffy successfully reaches the execution scaffold where Ace is held.",
+        "significance": "The culmination of Luffy's desperate journey through Marineford to reach his brother.",
+        "timestamp": "12:00"
+      },
+      {
+        "episodeNumber": 480,
+        "eventId": "ep480-event-007",
+        "eventType": "POWER_REVEAL",
+        "title": "Sengoku Destroys the Scaffold",
+        "description": "Sengoku's Buddha shockwave attack destroys the execution platform, causing everyone to fall.",
+        "significance": "The destruction of the scaffold symbolizes the shattering of Marine authority and control over the execution.",
+        "timestamp": "15:30"
+      },
+      {
+        "episodeNumber": 480,
+        "eventId": "ep480-event-011",
+        "eventType": "MAJOR_DECISION",
+        "title": "Ace Freed on Falling Platform",
+        "description": "As the platform collapses and everyone falls, Luffy uses Mr. 3's wax key to unlock Ace's handcuffs.",
+        "significance": "The climactic moment where Ace is finally freed, achieving the goal of the rescue mission.",
+        "timestamp": "20:15"
+      }
+    ],
+    "status": "DESTROYED",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 457,
+        "episodeEnd": 480,
+        "reason": "Site of Ace's scheduled execution"
+      },
+      {
+        "status": "DESTROYED",
+        "episodeStart": 480,
+        "episodeEnd": null,
+        "reason": "Destroyed by Sengoku's Buddha shockwave attack"
+      }
+    ],
+    "parentLocation": "marineford",
+    "childLocations": [],
+    "relatedCharacters": ["ace", "luffy", "sengoku", "galdino", "kizaru"],
+    "relatedCrews": ["marines"],
+    "relatedArcs": ["Marineford Arc"],
+    "images": []
+  }
+]

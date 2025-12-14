@@ -1,0 +1,507 @@
+{
+  "episodeNumber": 484,
+  "episodeTitle": "The Navy Headquarters Falls! Whitebeard's Unspeakable Wrath!",
+  "description": "Following Ace's death, Luffy experiences severe emotional trauma while Jinbe removes him from danger. An enraged Whitebeard engages Admiral Akainu in a devastating battle, ultimately defeating him and triggering a massive earthquake that splits Marine Headquarters in two. The Blackbeard Pirates arrive with former Level 6 Impel Down prisoners as their newest crew members.",
+  "airDate": "2011-01-23",
+  "airDateJapan": "2011-01-23",
+  "airDateUS": "2011-01-22",
+  "arcName": "Marineford Arc",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "SAKUGA",
+  "openingSong": {
+    "title": "One day",
+    "artist": "The Rootless",
+    "episodeRange": [459, 492]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Aya Komaki",
+    "scriptWriter": "Jin Tanaka",
+    "artDirector": "Miyuki Sato",
+    "animator": "Eisaku Inoue",
+    "keyAnimators": ["Eisaku Inoue"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Edward Newgate (Whitebeard)",
+        "actor": "Kinryu Arimoto"
+      },
+      {
+        "character": "Sakazuki (Akainu)",
+        "actor": "Fumihiko Tachiki"
+      },
+      {
+        "character": "Marshall D. Teach (Blackbeard)",
+        "actor": "Akio Otsuka"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Daisuke Gori"
+      },
+      {
+        "character": "Marco",
+        "actor": "Masakazu Morita"
+      },
+      {
+        "character": "Sanjuan Wolf",
+        "actor": "Kenichi Ono"
+      },
+      {
+        "character": "Catarina Devon",
+        "actor": "Kimiko Saito"
+      },
+      {
+        "character": "Avalo Pizarro",
+        "actor": "Kazunari Tanaka"
+      },
+      {
+        "character": "Vasco Shot",
+        "actor": "Naoki Tatsuta"
+      },
+      {
+        "character": "Sengoku",
+        "actor": "Takkô Ishimori"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Edward Newgate (Whitebeard)",
+        "actor": "R Bruce Elliott"
+      },
+      {
+        "character": "Sakazuki (Akainu)",
+        "actor": "Andrew Love"
+      },
+      {
+        "character": "Marshall D. Teach (Blackbeard)",
+        "actor": "Cole Brown"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Daniel Baugh"
+      },
+      {
+        "character": "Sanjuan Wolf",
+        "actor": "Jason Bunch"
+      },
+      {
+        "character": "Catarina Devon",
+        "actor": "Natalie Hoover"
+      },
+      {
+        "character": "Avalo Pizarro",
+        "actor": "Greg Silva"
+      },
+      {
+        "character": "Vasco Shot",
+        "actor": "Clint Ford"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep484-event-001",
+      "episodeNumber": 484,
+      "timestamp": "03:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Luffy's Mental Collapse",
+      "description": "Following Ace's death, Luffy experiences severe emotional trauma and mental breakdown. Ivankov warns that Luffy's life is now in danger due to the psychological shock and the toll of repeated Tension Hormone treatments.",
+      "significance": "This marks the lowest point in Luffy's journey and sets up his need for recovery and growth during the timeskip. It demonstrates the devastating psychological impact of losing his brother.",
+      "characterIds": ["luffy", "ivankov", "jinbe"],
+      "locationIds": ["marineford"],
+      "quotes": [
+        {
+          "text": "Luffy has mentally collapsed and his life is now in danger!",
+          "speaker": "Emporio Ivankov",
+          "context": "Warning about Luffy's critical condition after witnessing Ace's death"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [483],
+      "payoffInEpisodes": [485, 505],
+      "callbacksToEpisodes": [483]
+    },
+    {
+      "id": "ep484-event-002",
+      "episodeNumber": 484,
+      "timestamp": "06:20",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Marco Intercepts Akainu",
+      "description": "As Akainu attempts to kill the unconscious Luffy, Marco the Phoenix blocks his attack and orders Jinbe to take Luffy and escape. The Whitebeard Pirates vow to protect Luffy at all costs.",
+      "significance": "Demonstrates the Whitebeard Pirates' commitment to honoring Ace's sacrifice by protecting his brother, establishing the debt that Luffy owes to Whitebeard's crew.",
+      "characterIds": ["marco", "akainu", "luffy", "jinbe"],
+      "locationIds": ["marineford"],
+      "crewIds": ["whitebeard-pirates"],
+      "quotes": [
+        {
+          "text": "Jinbe! Take Luffy and get out of here! We'll protect him!",
+          "speaker": "Marco",
+          "context": "Marco ordering Jinbe to escape with Luffy while the Whitebeard Pirates hold off the Marines"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [483],
+      "payoffInEpisodes": [485],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep484-event-003",
+      "episodeNumber": 484,
+      "timestamp": "09:15",
+      "eventType": "BATTLE_START",
+      "severity": "CRITICAL",
+      "title": "Whitebeard Confronts Akainu",
+      "description": "In silent rage over Ace's death, Whitebeard appears behind Akainu and attacks him with tremendous force, punching the Admiral into the ground and inflicting severe injuries.",
+      "significance": "Marks the beginning of one of the most iconic battles in the Marineford War, showing Whitebeard's fury and power even while mortally wounded.",
+      "characterIds": ["whitebeard", "akainu"],
+      "locationIds": ["marineford"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [483],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep484-event-004",
+      "episodeNumber": 484,
+      "timestamp": "11:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Akainu Burns Whitebeard's Face",
+      "description": "Akainu retaliates against Whitebeard with a devastating magma attack, burning off part of Whitebeard's face and piercing through his torso. Despite these grievous injuries, Whitebeard remains standing.",
+      "significance": "Demonstrates Akainu's deadly power and shows Whitebeard's incredible endurance and willpower, as he continues fighting despite catastrophic injuries.",
+      "characterIds": ["whitebeard", "akainu"],
+      "locationIds": ["marineford"],
+      "devilFruitIds": ["magu-magu-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [461, 472]
+    },
+    {
+      "id": "ep484-event-005",
+      "episodeNumber": 484,
+      "timestamp": "14:05",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Whitebeard Destroys Marine Headquarters",
+      "description": "Whitebeard unleashes a massive earthquake attack that splits the entire Marine Headquarters plaza in two, creating a giant fissure that separates him from his crew and causes Akainu to fall into the chasm.",
+      "significance": "Demonstrates Whitebeard's world-ending destructive power at its peak. The physical destruction of Marine Headquarters symbolizes the crumbling of the Marines' authority and the chaos Whitebeard warned would follow his death.",
+      "characterIds": ["whitebeard", "akainu"],
+      "locationIds": ["marineford"],
+      "devilFruitIds": ["gura-gura-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [151, 462]
+    },
+    {
+      "id": "ep484-event-006",
+      "episodeNumber": 484,
+      "timestamp": "16:45",
+      "eventType": "BATTLE_END",
+      "severity": "CRITICAL",
+      "title": "Whitebeard Defeats Akainu",
+      "description": "Whitebeard's devastating earthquake attack causes Akainu to fall into the massive fissure in the ground, effectively removing him from the battlefield. Whitebeard stands victorious but is now separated from his crew.",
+      "significance": "Shows that even while mortally wounded, Whitebeard was powerful enough to defeat one of the Navy's strongest fighters. This victory, however, leaves him isolated and vulnerable.",
+      "characterIds": ["whitebeard", "akainu"],
+      "locationIds": ["marineford"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [485],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep484-event-007",
+      "episodeNumber": 484,
+      "timestamp": "18:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Blackbeard Pirates Arrive at Marineford",
+      "description": "The Blackbeard Pirates appear on the execution platform at Marineford, shocking everyone present. Blackbeard reveals his new crew members recruited from Impel Down's Level 6.",
+      "significance": "Marks a major turning point in the war and introduces some of the most dangerous criminals in the One Piece world. Sets up the confrontation between Blackbeard and Whitebeard.",
+      "characterIds": ["blackbeard", "shiryu", "laffitte", "van-augur", "doc-q", "burgess", "stronger"],
+      "locationIds": ["marineford"],
+      "crewIds": ["blackbeard-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [446, 447],
+      "payoffInEpisodes": [485],
+      "callbacksToEpisodes": [325, 446]
+    },
+    {
+      "id": "ep484-event-008",
+      "episodeNumber": 484,
+      "timestamp": "19:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Sanjuan Wolf Debut",
+      "description": "Sanjuan Wolf, the Colossal Battleship, makes his first appearance as one of Blackbeard's Level 6 recruits. His massive size rivals the Marine Headquarters building itself.",
+      "significance": "Introduces one of the most physically imposing characters in One Piece, demonstrating the caliber of criminals Blackbeard recruited from Impel Down's most secure level.",
+      "characterIds": ["sanjuan-wolf", "blackbeard"],
+      "locationIds": ["marineford"],
+      "crewIds": ["blackbeard-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep484-event-009",
+      "episodeNumber": 484,
+      "timestamp": "20:10",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Catarina Devon Debut",
+      "description": "Catarina Devon, the Crescent Moon Hunter, appears as one of Blackbeard's Level 6 recruits. She is noted as the most dangerous female pirate ever imprisoned in Impel Down.",
+      "significance": "Introduces a major female antagonist and demonstrates Blackbeard's success in recruiting the most notorious criminals in history.",
+      "characterIds": ["catarina-devon", "blackbeard"],
+      "locationIds": ["marineford"],
+      "crewIds": ["blackbeard-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep484-event-010",
+      "episodeNumber": 484,
+      "timestamp": "20:25",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Avalo Pizarro Debut",
+      "description": "Avalo Pizarro, the Corrupt King, makes his first appearance as one of Blackbeard's Level 6 recruits from Impel Down.",
+      "significance": "Adds another powerful member to Blackbeard's crew, showing the strength of his newly expanded pirate organization.",
+      "characterIds": ["avalo-pizarro", "blackbeard"],
+      "locationIds": ["marineford"],
+      "crewIds": ["blackbeard-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep484-event-011",
+      "episodeNumber": 484,
+      "timestamp": "20:40",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Vasco Shot Debut",
+      "description": "Vasco Shot, the Heavy Drinker, appears as one of Blackbeard's Level 6 recruits from Impel Down.",
+      "significance": "Completes the introduction of Blackbeard's main Level 6 recruits, establishing the full strength of his expanded crew.",
+      "characterIds": ["vasco-shot", "blackbeard"],
+      "locationIds": ["marineford"],
+      "crewIds": ["blackbeard-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep484-event-012",
+      "episodeNumber": 484,
+      "timestamp": "21:15",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "CRITICAL",
+      "title": "Blackbeard Declares He Came to See Whitebeard Die",
+      "description": "Blackbeard announces that he arrived at Marineford just in time to witness Whitebeard's death, revealing his sinister intentions and setting up the final confrontation between the two.",
+      "significance": "Foreshadows Whitebeard's imminent death and Blackbeard's plan to steal his Devil Fruit power, which will make him one of the most dangerous pirates in the world.",
+      "characterIds": ["blackbeard", "whitebeard"],
+      "locationIds": ["marineford"],
+      "quotes": [
+        {
+          "text": "I'm glad I made it in time to see you die, Pops!",
+          "speaker": "Marshall D. Teach (Blackbeard)",
+          "context": "Blackbeard taunting Whitebeard upon his arrival at Marineford"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [325, 441, 446],
+      "payoffInEpisodes": [485],
+      "callbacksToEpisodes": [325, 441, 446]
+    }
+  ],
+  "debuts": {
+    "characters": ["sanjuan-wolf", "catarina-devon", "avalo-pizarro", "vasco-shot"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [485, 486],
+    "payoffFrom": [483],
+    "thematicLinks": [325, 461, 462, 472, 483]
+  },
+  "quotes": [
+    {
+      "text": "Luffy has mentally collapsed and his life is now in danger!",
+      "speaker": "Emporio Ivankov",
+      "context": "Warning about Luffy's critical condition",
+      "timestamp": "03:45"
+    },
+    {
+      "text": "Jinbe! Take Luffy and get out of here! We'll protect him!",
+      "speaker": "Marco",
+      "context": "Ordering Jinbe to escape with Luffy",
+      "timestamp": "06:20"
+    },
+    {
+      "text": "I'm glad I made it in time to see you die, Pops!",
+      "speaker": "Marshall D. Teach (Blackbeard)",
+      "context": "Taunting Whitebeard upon arrival at Marineford",
+      "timestamp": "21:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Silent Rage and Grief",
+      "description": "The episode explores how profound grief manifests as silent, devastating rage through Whitebeard's wordless fury at Ace's death.",
+      "symbolism": "Whitebeard's silence represents grief too deep for words, while his destructive power symbolizes the world-shaking consequences of the Marines' actions.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Protective Sacrifice",
+      "description": "The Whitebeard Pirates honor Ace's sacrifice by vowing to protect Luffy, demonstrating the family bonds that define their crew.",
+      "symbolism": "The crew's protection of Luffy symbolizes the enduring legacy of Whitebeard's 'family' philosophy even in the face of devastating loss.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Rise of New Evil",
+      "description": "Blackbeard's arrival with history's most dangerous criminals signals a new era of piracy and chaos.",
+      "symbolism": "Blackbeard arriving at the moment of Whitebeard's greatest vulnerability symbolizes the passing of one era and the dark beginning of another.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tragic", "Devastating", "Epic", "Ominous"],
+  "characterSpotlights": [
+    {
+      "characterId": "whitebeard",
+      "role": "Protagonist in final battle",
+      "development": "Whitebeard channels his grief into silent rage, demonstrating his incredible power even while mortally wounded. His battle with Akainu shows his determination to protect his crew until the very end.",
+      "keyActions": [
+        "Ambushes and attacks Akainu from behind",
+        "Withstands Akainu's devastating magma attacks",
+        "Destroys Marine Headquarters with massive earthquake",
+        "Defeats Akainu and sends him falling into the fissure"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "luffy",
+      "role": "Broken protagonist",
+      "development": "Luffy experiences complete mental and emotional collapse following Ace's death, becoming catatonic and requiring rescue. This represents his lowest point in the series.",
+      "keyActions": [
+        "Remains unconscious and unresponsive",
+        "Is protected by the Whitebeard Pirates",
+        "Is carried to safety by Jinbe"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "blackbeard",
+      "role": "Emerging antagonist",
+      "development": "Blackbeard arrives at the perfect moment to exploit Whitebeard's weakened state, revealing his new powerful crew and sinister intentions.",
+      "keyActions": [
+        "Arrives at Marineford with Level 6 prisoners",
+        "Reveals his new crew members to the world",
+        "Declares his intention to witness Whitebeard's death"
+      ],
+      "quotes": ["I'm glad I made it in time to see you die, Pops!"]
+    },
+    {
+      "characterId": "akainu",
+      "role": "Antagonist",
+      "development": "Despite his ruthless power, Akainu is ultimately defeated by an enraged Whitebeard, showing that even his magma abilities cannot overcome Whitebeard's determination.",
+      "keyActions": [
+        "Attempts to kill Luffy",
+        "Battles Whitebeard",
+        "Burns part of Whitebeard's face",
+        "Is defeated and falls into the fissure"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "In the manga, Akainu's attack completely destroys a portion of Whitebeard's head. The anime toned this down to only burning off half of Whitebeard's mustache in one attack, and piercing his torso in another.",
+      "episodeTimestamp": "11:30",
+      "mangaReference": "Chapter 575",
+      "type": "CENSORSHIP"
+    },
+    {
+      "difference": "The fight between Whitebeard and Akainu is extended in the anime with additional action sequences not present in the manga.",
+      "episodeTimestamp": "09:15-16:45",
+      "mangaReference": "Chapter 575",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode achieved a TV rating of 11.4%, ranking 3rd in its time slot, demonstrating the massive popularity of the Marineford Arc climax.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_484",
+          "title": "Episode 484 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-14"
+        }
+      ]
+    },
+    {
+      "fact": "The opening 'One day' by The Rootless is notably more somber than previous One Piece openings, reflecting the tragic events of the Marineford Arc.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/One_day",
+          "title": "One day - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-14"
+        }
+      ]
+    },
+    {
+      "fact": "The eyecatcher for this episode features Zoro and Brook, maintaining the pattern of showing Straw Hat crew members during Luffy's absence from the main story.",
+      "category": "ANIMATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_484",
+          "title": "Episode 484 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-14"
+        }
+      ]
+    },
+    {
+      "fact": "The four Level 6 prisoners who debut in this episode (Sanjuan Wolf, Catarina Devon, Avalo Pizarro, and Vasco Shot) all earned spots as Titanic Captains in Blackbeard's crew by winning a battle royale against all Level 6 inmates.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Blackbeard_Pirates",
+          "title": "Blackbeard Pirates - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-14"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
