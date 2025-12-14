@@ -1,0 +1,482 @@
+{
+  "episodeNumber": 472,
+  "episodeTitle": "Akainu's Plot! Whitebeard Entrapped!",
+  "description": "During the Battle of Marineford, Squard - one of Whitebeard's allied pirate captains - shockingly stabs Whitebeard after being manipulated by Admiral Akainu. Despite the betrayal, Whitebeard forgives Squard and rallies his forces by breaking through the Marine's encircling ice walls.",
+  "airDate": "2010-10-24",
+  "airDateJapan": "2010-10-24",
+  "airDateUS": "2010-10-23",
+  "arcName": "Marineford Arc",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "One day",
+    "artist": "The ROOTLESS",
+    "episodeRange": [459, 492]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Sumio Watanabe",
+    "screenplay": "Hirohiko Kamisaka",
+    "artDirection": "Miyuki Sato",
+    "animation": "Yukiko Nakatani",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Edward Newgate (Whitebeard)",
+        "actor": "Kinryu Arimoto"
+      },
+      {
+        "character": "Squard",
+        "actor": "Seiji Sasaki"
+      },
+      {
+        "character": "Sakazuki (Akainu)",
+        "actor": "Fumihiko Tachiki"
+      },
+      {
+        "character": "Marco",
+        "actor": "Masakazu Morita"
+      },
+      {
+        "character": "Portgas D. Ace",
+        "actor": "Toshio Furukawa"
+      },
+      {
+        "character": "Kuzan (Aokiji)",
+        "actor": "Takehito Koyasu"
+      },
+      {
+        "character": "Crocodile",
+        "actor": "Ryuzaburo Otomo"
+      },
+      {
+        "character": "Buggy",
+        "actor": "Shigeru Chiba"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Edward Newgate (Whitebeard)",
+        "actor": "R. Bruce Elliott"
+      },
+      {
+        "character": "Squard",
+        "actor": "Jason Kane"
+      },
+      {
+        "character": "Sakazuki (Akainu)",
+        "actor": "Andrew Love"
+      },
+      {
+        "character": "Portgas D. Ace",
+        "actor": "Travis Willingham"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep472-event-001",
+      "episodeNumber": 472,
+      "timestamp": "05:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Squard's Tragic Past Revealed",
+      "description": "Squard's backstory is revealed through flashback, showing how his entire crew was killed by Gol D. Roger years ago. Whitebeard took in Squard after this devastating loss, giving him a new family and purpose.",
+      "significance": "Establishes Squard's deep-seated hatred for Roger and explains why Akainu's manipulation was so effective, as he exploited Squard's trauma.",
+      "characterIds": ["squard", "whitebeard", "gol-d-roger"],
+      "locationIds": ["marineford"],
+      "quotes": [
+        {
+          "text": "Roger killed my entire crew!",
+          "speaker": "Squard",
+          "context": "Squard explains his hatred for Roger to Whitebeard"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep472-event-002",
+      "episodeNumber": 472,
+      "timestamp": "08:15",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Akainu Reveals Ace is Roger's Son to Squard",
+      "description": "Admiral Akainu reveals to Squard that Ace is the son of Gol D. Roger, weaponizing this information to manipulate Squard. Akainu claims Whitebeard made a secret deal with the Marines to save Ace and his crew while sacrificing the allied pirate captains.",
+      "significance": "This revelation is the key to Akainu's manipulation strategy, exploiting Squard's hatred of Roger and creating doubt about Whitebeard's loyalty to his allies.",
+      "characterIds": ["akainu", "squard", "ace", "whitebeard", "gol-d-roger"],
+      "locationIds": ["marineford"],
+      "quotes": [
+        {
+          "text": "Ace is the son of Gol D. Roger!",
+          "speaker": "Akainu",
+          "context": "Akainu reveals Ace's parentage to Squard as part of his manipulation"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [459],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep472-event-003",
+      "episodeNumber": 472,
+      "timestamp": "10:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Squard Stabs Whitebeard",
+      "description": "Believing Akainu's lies about Whitebeard's betrayal, Squard approaches Whitebeard and violently stabs him through the chest with his sword. Both pirates and Marines are shocked by this act of betrayal from one of Whitebeard's own allies.",
+      "significance": "This is one of the most shocking moments in the Marineford War, demonstrating the effectiveness of Akainu's psychological warfare and severely wounding the world's strongest man.",
+      "characterIds": ["squard", "whitebeard", "marco", "luffy"],
+      "locationIds": ["marineford"],
+      "quotes": [
+        {
+          "text": "You have thrust a sword into your father's body!",
+          "speaker": "Whitebeard",
+          "context": "Whitebeard's initial response to Squard's betrayal"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep472-event-004",
+      "episodeNumber": 472,
+      "timestamp": "12:00",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Battle Comes to a Halt",
+      "description": "The entire battlefield freezes in shock as Squard's betrayal is witnessed by both the pirate forces and the Marines. Fighting temporarily stops as everyone processes what just happened.",
+      "significance": "Shows the magnitude of Squard's action and how it affected morale on both sides of the war.",
+      "characterIds": ["whitebeard", "squard"],
+      "locationIds": ["marineford"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep472-event-005",
+      "episodeNumber": 472,
+      "timestamp": "14:20",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Whitebeard's Forgiveness",
+      "description": "Despite being stabbed, Whitebeard doesn't retaliate against Squard. Instead, he hugs him and calls him a 'foolish son,' explaining that he was manipulated by Akainu. Whitebeard declares that a child should not bear the sins of their father, referring to Ace.",
+      "significance": "This moment epitomizes Whitebeard's character as a father figure who loves his 'sons' unconditionally. It's one of the most emotionally powerful scenes in the series, showing true forgiveness and leadership.",
+      "characterIds": ["whitebeard", "squard", "ace"],
+      "locationIds": ["marineford"],
+      "quotes": [
+        {
+          "text": "You are a foolish son... but I still love you.",
+          "speaker": "Whitebeard",
+          "context": "Whitebeard forgives Squard for stabbing him"
+        },
+        {
+          "text": "It's ridiculous to pin the blame on a child for the sins of a father.",
+          "speaker": "Whitebeard",
+          "context": "Whitebeard defending Ace from being blamed for Roger's actions"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep472-event-006",
+      "episodeNumber": 472,
+      "timestamp": "15:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Whitebeard Acknowledges Sengoku's Strategy",
+      "description": "Whitebeard recognizes and praises Fleet Admiral Sengoku as the mastermind behind the psychological warfare strategy that led to Squard's betrayal. He acknowledges the Marines' tactical brilliance.",
+      "significance": "Demonstrates Whitebeard's tactical understanding and gives credit to Sengoku's strategic mind, showing the chess game being played at the highest levels of the war.",
+      "characterIds": ["whitebeard", "sengoku", "akainu"],
+      "locationIds": ["marineford"],
+      "quotes": [
+        {
+          "text": "Well done, Sengoku. A brilliant strategy.",
+          "speaker": "Whitebeard",
+          "context": "Whitebeard acknowledges the Fleet Admiral's deceptive plan"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep472-event-007",
+      "episodeNumber": 472,
+      "timestamp": "17:00",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Aokiji Freezes Buggy to Stop Broadcast",
+      "description": "Admiral Aokiji uses his ice powers to freeze Buggy and his allies who have been broadcasting the battle to the world, attempting to cut off the world's view of the war.",
+      "significance": "The Marines attempt to control the narrative by stopping the broadcast of the battle, though this doesn't completely succeed.",
+      "characterIds": ["aokiji", "buggy"],
+      "locationIds": ["marineford"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep472-event-008",
+      "episodeNumber": 472,
+      "timestamp": "18:45",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Whitebeard Creates Escape Route",
+      "description": "To prove he hasn't betrayed his allies, Whitebeard uses his Gura Gura no Mi (Tremor-Tremor Fruit) powers to shatter the ice walls that the Marines created to trap the pirates. This creates an escape route for the allied pirate fleet.",
+      "significance": "Whitebeard demonstrates his power and commitment to his allies, rallying the pirate forces and disproving Akainu's lies about betrayal. This reinvigorates the allied pirates' morale.",
+      "characterIds": ["whitebeard"],
+      "locationIds": ["marineford"],
+      "devilFruitIds": ["gura-gura-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep472-event-009",
+      "episodeNumber": 472,
+      "timestamp": "20:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Whitebeard Rallies His Forces",
+      "description": "After proving his loyalty by creating escape routes, Whitebeard rallies all his pirates and allied crews. He makes it clear that he will not abandon Ace and urges his forces to continue fighting.",
+      "significance": "This moment restores the pirates' morale and demonstrates Whitebeard's leadership. It counters the psychological damage of Akainu's manipulation.",
+      "characterIds": ["whitebeard", "ace", "marco"],
+      "locationIds": ["marineford"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep472-event-010",
+      "episodeNumber": 472,
+      "timestamp": "21:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Philosophy of Family Over Blood",
+      "description": "Whitebeard's actions and words throughout the episode emphasize his philosophy that family is defined by bonds and loyalty, not blood. He forgives Squard and defends Ace, showing that he values every person as an individual.",
+      "significance": "This episode encapsulates one of One Piece's core themes: chosen family and the bonds we create matter more than bloodlines or parentage.",
+      "characterIds": ["whitebeard", "squard", "ace"],
+      "locationIds": ["marineford"],
+      "quotes": [
+        {
+          "text": "Every human has a heart.",
+          "speaker": "Whitebeard",
+          "context": "Whitebeard's philosophy about forgiveness and humanity"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [473, 474],
+    "payoffFrom": [459, 460, 461],
+    "thematicLinks": [151, 316]
+  },
+  "quotes": [
+    {
+      "text": "You have thrust a sword into your father's body!",
+      "speaker": "Whitebeard",
+      "context": "Whitebeard's response to being stabbed by Squard",
+      "timestamp": "10:45"
+    },
+    {
+      "text": "You are a foolish son... but I still love you.",
+      "speaker": "Whitebeard",
+      "context": "Whitebeard forgiving Squard",
+      "timestamp": "14:20"
+    },
+    {
+      "text": "It's ridiculous to pin the blame on a child for the sins of a father.",
+      "speaker": "Whitebeard",
+      "context": "Whitebeard defending Ace",
+      "timestamp": "14:45"
+    },
+    {
+      "text": "Ace is the son of Gol D. Roger!",
+      "speaker": "Akainu",
+      "context": "Akainu manipulating Squard",
+      "timestamp": "08:15"
+    },
+    {
+      "text": "Every human has a heart.",
+      "speaker": "Whitebeard",
+      "context": "Whitebeard's philosophy about humanity and forgiveness",
+      "timestamp": "21:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Unconditional Love and Forgiveness",
+      "description": "The episode powerfully demonstrates Whitebeard's unconditional love for his 'sons' through his forgiveness of Squard despite the betrayal and stabbing.",
+      "symbolism": "Whitebeard's embrace of Squard symbolizes true parental love that forgives even the deepest wounds.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Manipulation and Psychological Warfare",
+      "description": "Akainu's successful manipulation of Squard shows how psychological tactics can be more effective than physical combat in warfare.",
+      "symbolism": "The sword thrust represents how lies and deception can wound even the strongest individuals.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Family Beyond Blood",
+      "description": "Whitebeard's declaration that children shouldn't bear their parents' sins and his treatment of all pirates as his sons regardless of lineage emphasizes chosen family over blood relations.",
+      "symbolism": "Whitebeard's crew structure mirrors a family where the father loves all children equally.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Leadership Through Adversity",
+      "description": "Despite being wounded and betrayed, Whitebeard rallies his forces and proves his loyalty, demonstrating true leadership.",
+      "symbolism": "Breaking the ice walls symbolizes breaking through doubt and restoring faith.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tragic", "Shocking", "Inspirational", "Heartbreaking", "Triumphant"],
+  "characterSpotlights": [
+    {
+      "characterId": "whitebeard",
+      "role": "Central protagonist demonstrating leadership and forgiveness",
+      "development": "Whitebeard's character reaches an emotional peak as he demonstrates unconditional love, tactical awareness, and unwavering commitment to his family despite being stabbed.",
+      "keyActions": [
+        "Gets stabbed by Squard",
+        "Forgives Squard with an embrace",
+        "Acknowledges Sengoku's strategy",
+        "Destroys ice walls to create escape routes",
+        "Rallies the allied pirate forces"
+      ],
+      "quotes": [
+        "You are a foolish son... but I still love you.",
+        "It's ridiculous to pin the blame on a child for the sins of a father.",
+        "Every human has a heart."
+      ]
+    },
+    {
+      "characterId": "squard",
+      "role": "Tragic antagonist/victim of manipulation",
+      "development": "Squard's backstory is revealed, showing his trauma from losing his crew to Roger. He is manipulated into betraying Whitebeard but realizes his mistake when Whitebeard forgives him.",
+      "keyActions": [
+        "Confronts Whitebeard about the alleged deal",
+        "Stabs Whitebeard through the chest",
+        "Realizes he was manipulated",
+        "Receives Whitebeard's forgiveness"
+      ],
+      "quotes": [
+        "Roger killed my entire crew!",
+        "You have thrust a sword into your father's body!"
+      ]
+    },
+    {
+      "characterId": "akainu",
+      "role": "Manipulator and strategist",
+      "development": "Akainu's ruthless tactical mind is showcased through his successful manipulation of Squard, proving he's willing to use any means to achieve victory.",
+      "keyActions": [
+        "Reveals Ace's true parentage to Squard",
+        "Fabricates story about Whitebeard's betrayal",
+        "Watches as his plan unfolds successfully"
+      ],
+      "quotes": [
+        "Ace is the son of Gol D. Roger!"
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime expanded Squard's backstory and his relationship with Whitebeard through additional flashback scenes not present in the manga.",
+      "episodeTimestamp": "05:30",
+      "mangaReference": "Chapter 563",
+      "type": "EXPANDED_SCENE"
+    },
+    {
+      "difference": "The emotional beats of Whitebeard's forgiveness were given more screen time and emphasis in the anime adaptation.",
+      "episodeTimestamp": "14:20",
+      "mangaReference": "Chapter 563",
+      "type": "PACING_CHANGE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode is based on Chapter 563 of the manga, titled 'One Man, One Heart.'",
+      "category": "MANGA_ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_472",
+          "title": "Episode 472 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-14"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 472 received an IMDb rating of 9.3/10, making it one of the highest-rated episodes of the Marineford Arc.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://www.imdb.com/title/tt1789622/",
+          "title": "One Piece - Akainu no Bouryaku! Otoshiirerareta Shirohige",
+          "platform": "IMDb",
+          "accessedAt": "2025-12-14"
+        }
+      ]
+    },
+    {
+      "fact": "The episode aired in the US one day before it aired in Japan due to Funimation's simulcast schedule.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_472",
+          "title": "Episode 472 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-14"
+        }
+      ]
+    },
+    {
+      "fact": "Seiji Sasaki, who voices Squard, also voices Blueno and other One Piece characters.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://www.behindthevoiceactors.com/tv-shows/One-Piece/Squard/",
+          "title": "Squard Voice - One Piece",
+          "platform": "Behind The Voice Actors",
+          "accessedAt": "2025-12-14"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

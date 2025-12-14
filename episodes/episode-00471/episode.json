@@ -1,0 +1,396 @@
+{
+  "episodeNumber": 471,
+  "episodeTitle": "The Extermination Strategy in Action! The Power of the Pacifistas!",
+  "episodeTitleJapanese": "殲滅作戦始動 パシフィスタ軍団の威力",
+  "episodeTitleRomanized": "Senmetsu Sakusen Shidō - Pashifisuta Gundan no Iryoku",
+  "description": "The Pacifista army enters Marineford as part of Sengoku's strategic plan. As Sentomaru commands at least twenty Pacifistas, they devastate Whitebeard's allied pirate crews outside the harbor. The episode culminates in a shocking moment when Squard, manipulated by Akainu, betrays and stabs Whitebeard.",
+  "airDate": "2010-10-17",
+  "airDateJapan": "2010-10-17",
+  "airDateUS": "2012-10-16",
+  "arcName": "Marineford Arc",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "One day",
+    "artist": "The ROOTLESS",
+    "episodeRange": [459, 492]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Toshio Deguchi",
+    "director": "Yutaka Nakashima",
+    "screenplay": "Jin Tanaka",
+    "artDirector": "Ryūji Yoshiike",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Edward Newgate (Whitebeard)",
+        "actor": "Kinryu Arimoto"
+      },
+      {
+        "character": "Portgas D. Ace",
+        "actor": "Toshio Furukawa"
+      },
+      {
+        "character": "Sengoku",
+        "actor": "Takkō Ishimori"
+      },
+      {
+        "character": "Borsalino (Kizaru)",
+        "actor": "Unshō Ishizuka"
+      },
+      {
+        "character": "Dracule Mihawk",
+        "actor": "Takashi Aoyagi"
+      },
+      {
+        "character": "Buggy",
+        "actor": "Shigeru Chiba"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Daisuke Gōri"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Edward Newgate (Whitebeard)",
+        "actor": "R Bruce Elliott"
+      },
+      {
+        "character": "Portgas D. Ace",
+        "actor": "Travis Willingham"
+      },
+      {
+        "character": "Buggy",
+        "actor": "Mike McFarland"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep471-event-001",
+      "episodeNumber": 471,
+      "timestamp": "03:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Sentomaru Arrives with Pacifista Army",
+      "description": "Sentomaru arrives at Marineford commanding an army of at least twenty Pacifista units, marking the deployment of the Marines' secret weapon. The Pacifista army enters the battlefield to execute Sengoku's extermination plan against Whitebeard's allied pirate crews.",
+      "significance": "This demonstrates the Marines' overwhelming technological advantage and marks a turning point in the war. The Pacifista represent Dr. Vegapunk's revolutionary military technology based on Bartholomew Kuma.",
+      "characterIds": ["sentomaru"],
+      "locationIds": ["marineford"],
+      "quotes": [
+        {
+          "text": "Pacifista, begin your attack!",
+          "speaker": "Sentomaru",
+          "context": "Commanding the Pacifista army to begin their assault"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [470],
+      "payoffInEpisodes": [472, 473],
+      "callbacksToEpisodes": [402]
+    },
+    {
+      "id": "ep471-event-002",
+      "episodeNumber": 471,
+      "timestamp": "06:15",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Pacifista Army Devastates Allied Pirate Crews",
+      "description": "The Pacifista units unleash their devastating laser attacks on Whitebeard's allied pirate crews outside the bay. A pirate attempts to smash a Pacifista with an enormous club, which shatters on impact, demonstrating the futility of conventional attacks against these cyborg weapons.",
+      "significance": "Showcases the terrifying power of the Pacifista army and the Marines' strategic advantage. The allied pirates are helpless against this technology that previously required the entire Straw Hat crew to barely survive one unit.",
+      "characterIds": ["sentomaru"],
+      "locationIds": ["marineford"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [470],
+      "payoffInEpisodes": [472],
+      "callbacksToEpisodes": [402, 403]
+    },
+    {
+      "id": "ep471-event-003",
+      "episodeNumber": 471,
+      "timestamp": "09:45",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Sengoku Plans to Activate Encircling Walls",
+      "description": "Sengoku reveals his plan to activate encircling walls once all video feeds are cut, intending to trap and annihilate all pirates in the bay. However, the Impel Down escapees have captured a Den Den Mushi to continue broadcasting.",
+      "significance": "Reveals the full extent of Sengoku's strategic trap at Marineford. The plan is to execute all pirates while preventing the world from witnessing the Marines' brutal tactics.",
+      "characterIds": ["sengoku", "buggy"],
+      "locationIds": ["marineford"],
+      "quotes": [
+        {
+          "text": "Once all video feeds are cut, we'll activate the encircling walls.",
+          "speaker": "Sengoku",
+          "context": "Explaining the final phase of his strategic plan"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [468, 469],
+      "payoffInEpisodes": [473, 474],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep471-event-004",
+      "episodeNumber": 471,
+      "timestamp": "11:20",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Buggy Hijacks Video Broadcast",
+      "description": "Buggy and the escaped prisoners from Impel Down capture one of the Den Den Mushi transponder snails, using it to broadcast unauthorized footage. The prisoners attempt to advertise Buggy as their 'savior' and leader.",
+      "significance": "This interference with Sengoku's plan becomes crucial as it allows the world to continue witnessing the war. Buggy's accidental heroism continues to grow his reputation despite his cowardice.",
+      "characterIds": ["buggy"],
+      "locationIds": ["marineford"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [457, 460],
+      "payoffInEpisodes": [476, 477],
+      "callbacksToEpisodes": [438, 439]
+    },
+    {
+      "id": "ep471-event-005",
+      "episodeNumber": 471,
+      "timestamp": "14:05",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "Mihawk and Vista's Duel Concludes",
+      "description": "The battle between Dracule Mihawk and Vista, the 5th Division Commander of the Whitebeard Pirates, comes to a conclusion. The two swordsmen appear to reach a stalemate.",
+      "significance": "Demonstrates that even the World's Strongest Swordsman cannot easily defeat Whitebeard's division commanders, showing the strength of Whitebeard's crew.",
+      "characterIds": ["mihawk", "vista"],
+      "locationIds": ["marineford"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [466],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep471-event-006",
+      "episodeNumber": 471,
+      "timestamp": "16:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Luffy Encounters Admiral Kizaru",
+      "description": "Luffy, charging toward Ace, is intercepted by Admiral Kizaru. The encounter puts Luffy in extreme danger as Kizaru's light-speed attacks threaten to eliminate him.",
+      "significance": "Highlights the vast power difference between Luffy and the Admirals. This near-death experience emphasizes how outmatched Luffy is at Marineford.",
+      "characterIds": ["luffy", "kizaru"],
+      "locationIds": ["marineford"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [468, 469],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [404, 405]
+    },
+    {
+      "id": "ep471-event-007",
+      "episodeNumber": 471,
+      "timestamp": "17:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Izou Saves Luffy from Marine Attack",
+      "description": "Izou, the 16th Division Commander of the Whitebeard Pirates, intervenes to save Luffy from an attacking Marine. He urges Luffy to continue forward toward Ace, showing the Whitebeard Pirates' support for Luffy's mission.",
+      "significance": "Establishes Izou as an ally and demonstrates the Whitebeard Pirates' respect for Luffy's determination to save Ace. This moment shows the pirates working together against the Marines.",
+      "characterIds": ["izou", "luffy"],
+      "locationIds": ["marineford"],
+      "quotes": [
+        {
+          "text": "Keep going forward!",
+          "speaker": "Izou",
+          "context": "Encouraging Luffy to continue toward Ace after saving him"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [461],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep471-event-008",
+      "episodeNumber": 471,
+      "timestamp": "20:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "CRITICAL",
+      "title": "Squard's Betrayal - Stabs Whitebeard",
+      "description": "In a shocking turn of events, Squard (Maelstrom Spider Squard), captain of an allied pirate crew, suddenly stabs Whitebeard through the chest with his sword. This betrayal leaves everyone - including Luffy, Ace, Marco, Jozu, and Jinbe - in utter shock and disbelief.",
+      "significance": "This is one of the most shocking moments in the Marineford War. Squard was manipulated by Admiral Akainu into believing Whitebeard made a deal with Sengoku to sacrifice the allied pirates to save Ace. This betrayal demonstrates the Marines' psychological warfare tactics and tests Whitebeard's character.",
+      "characterIds": ["squard", "whitebeard", "luffy", "ace", "marco", "jozu", "jinbe"],
+      "locationIds": ["marineford"],
+      "quotes": [
+        {
+          "text": "Why, Squard?!",
+          "speaker": "Marco",
+          "context": "Shocked reaction to seeing Squard stab Whitebeard"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [470],
+      "payoffInEpisodes": [472],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["squard-speaking-role", "izou-named"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [472, 473, 474],
+    "payoffFrom": [470],
+    "thematicLinks": [466, 468, 469]
+  },
+  "quotes": [
+    {
+      "text": "Pacifista, begin your attack!",
+      "speaker": "Sentomaru",
+      "context": "Commanding the Pacifista army to assault the allied pirates",
+      "timestamp": "03:30"
+    },
+    {
+      "text": "Once all video feeds are cut, we'll activate the encircling walls.",
+      "speaker": "Sengoku",
+      "context": "Revealing the final phase of his strategic trap",
+      "timestamp": "09:45"
+    },
+    {
+      "text": "Keep going forward!",
+      "speaker": "Izou",
+      "context": "Encouraging Luffy after saving him from a Marine",
+      "timestamp": "17:45"
+    },
+    {
+      "text": "Why, Squard?!",
+      "speaker": "Marco",
+      "context": "Shocked reaction upon witnessing Squard's betrayal",
+      "timestamp": "20:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Betrayal and Manipulation",
+      "description": "The episode explores how psychological warfare and manipulation can turn allies against each other, as seen with Akainu's deception of Squard.",
+      "symbolism": "Squard's sword piercing Whitebeard symbolizes how lies and manipulation can wound even the strongest bonds of family and loyalty.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Technological Warfare",
+      "description": "The Pacifista army represents the Marines' technological superiority and the dehumanization of warfare through mechanical soldiers.",
+      "symbolism": "The Pacifista, modeled after Kuma, symbolize how humanity's warmth and compassion are replaced by cold, efficient destruction in war.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Desperation and Sacrifice",
+      "description": "Both sides demonstrate increasing desperation as the war escalates, with Luffy risking everything to save Ace and the Marines deploying their most devastating weapons.",
+      "symbolism": "Luffy's relentless charge forward despite facing Admiral-level opponents represents unwavering determination in the face of impossible odds.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Intense", "Shocking", "Desperate", "Tragic"],
+  "characterSpotlights": [
+    {
+      "characterId": "squard",
+      "role": "Antagonist (manipulated)",
+      "development": "Squard is revealed as a tragic figure, manipulated by Akainu's lies about Whitebeard's supposed betrayal. His action of stabbing Whitebeard shows how psychological warfare can destroy trust.",
+      "keyActions": [
+        "Approaches Whitebeard",
+        "Stabs Whitebeard through the chest",
+        "Reveals his belief that Whitebeard betrayed the allied pirates"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "sentomaru",
+      "role": "Marine Commander",
+      "development": "Sentomaru demonstrates his authority as the commander of the Pacifista army, executing Sengoku's strategic plan with precision.",
+      "keyActions": [
+        "Arrives at Marineford with Pacifista army",
+        "Commands Pacifista to attack allied pirates",
+        "Oversees the devastation of enemy forces"
+      ],
+      "quotes": ["Pacifista, begin your attack!"]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Protagonist",
+      "development": "Luffy continues his desperate charge toward Ace, facing overwhelming opposition from Marines and Admirals. His determination inspires the Whitebeard Pirates to assist him.",
+      "keyActions": [
+        "Confronts Admiral Kizaru",
+        "Receives help from Izou",
+        "Witnesses Squard's betrayal of Whitebeard in shock"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "izou",
+      "role": "Supporting Ally",
+      "development": "Izou makes his first significant action in the war by saving Luffy and encouraging him to continue forward, showing the Whitebeard Pirates' support.",
+      "keyActions": [
+        "Saves Luffy from a Marine attack",
+        "Urges Luffy to continue toward Ace"
+      ],
+      "quotes": ["Keep going forward!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends the Pacifista battle sequences with additional destruction scenes not present in the manga, showing more detailed devastation of the allied pirate ships.",
+      "episodeTimestamp": "06:15",
+      "mangaReference": "Chapter 562",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "The confrontation between Luffy and Kizaru is expanded in the anime with additional action sequences before Izou's intervention.",
+      "episodeTimestamp": "16:30",
+      "mangaReference": "Chapter 562",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode corresponds to Chapter 562 of the manga, titled 'Pirate Maelstrom Spider Squard'.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_471",
+          "title": "Episode 471 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-14"
+        }
+      ]
+    },
+    {
+      "fact": "The episode aired with a TV rating of 9.8%, ranking 3rd in its timeslot, demonstrating the Marineford Arc's popularity.",
+      "category": "RATINGS",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_471",
+          "title": "Episode 471 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-14"
+        }
+      ]
+    },
+    {
+      "fact": "This episode features at least twenty Pacifista units, the largest deployment of these cyborg weapons shown in the series up to this point.",
+      "category": "SERIES_MILESTONE",
+      "sources": []
+    },
+    {
+      "fact": "The eyecatcher for this episode featured Luffy and Nami, continuing the pattern of featuring Straw Hat crew members despite their absence from the arc.",
+      "category": "PRODUCTION",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
