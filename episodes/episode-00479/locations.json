@@ -1,0 +1,91 @@
+[
+  {
+    "name": {
+      "english": "Marineford",
+      "japanese": "マリンフォード",
+      "romanized": "Marinfōdo"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Marineford",
+    "debutEpisode": 151,
+    "debutChapter": 234,
+    "description": "Marineford is the island that served as the base of operations for Marine Headquarters. It is a crescent moon-shaped island composed of bricks and steel, with cannons on the edges. At its center stands an execution scaffold in Oris Plaza, where the Summit War took place.",
+    "episodeAppearances": [479],
+    "keyEvents": [
+      {
+        "episodeNumber": 479,
+        "eventId": "ep479-event-005",
+        "eventType": "POWER_REVEAL",
+        "title": "Inazuma Creates Bridge at Marineford",
+        "description": "Inazuma uses the Choki Choki no Mi to cut and fold the solid ground of Marineford, creating a bridge to the execution scaffold.",
+        "significance": "Demonstrates how the battlefield terrain can be manipulated with Devil Fruit powers, changing the strategic landscape of the war.",
+        "timestamp": "14:00"
+      },
+      {
+        "episodeNumber": 479,
+        "eventId": "ep479-event-007",
+        "eventType": "MAJOR_DECISION",
+        "title": "Garp Blocks the Bridge to the Execution Platform",
+        "description": "Garp takes his stand on the bridge at Marineford, blocking Luffy's path to rescue Ace.",
+        "significance": "The bridge becomes the site of the tragic family confrontation between Garp and Luffy.",
+        "timestamp": "18:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 479,
+        "episodeEnd": "present",
+        "reason": "Marineford serves as the active battlefield for the Summit War"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["execution-platform"],
+    "relatedCharacters": ["luffy", "garp", "ace", "whitebeard", "inazuma", "ivankov"],
+    "relatedCrews": ["whitebeard-pirates", "marines", "revolutionary-army"],
+    "relatedArcs": ["Marineford Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Execution Platform",
+      "japanese": "処刑台",
+      "romanized": "Shokeida"
+    },
+    "locationType": "LANDMARK",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Marineford",
+    "debutEpisode": 459,
+    "debutChapter": 550,
+    "description": "The execution scaffold located at the center of Marineford's Oris Plaza, where Portgas D. Ace was to be executed. This platform became the focal point of the Summit War of Marineford.",
+    "episodeAppearances": [479],
+    "keyEvents": [
+      {
+        "episodeNumber": 479,
+        "eventId": "ep479-event-006",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Luffy Advances Toward the Execution Platform",
+        "description": "Using Inazuma's bridge, Luffy charges toward the execution platform where Ace is held.",
+        "significance": "Represents Luffy's closest approach to his goal of rescuing Ace.",
+        "timestamp": "16:20"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 479,
+        "episodeEnd": "present",
+        "reason": "The execution platform remains the central objective of the battle"
+      }
+    ],
+    "parentLocation": "marineford",
+    "childLocations": [],
+    "relatedCharacters": ["ace", "luffy", "garp"],
+    "relatedCrews": ["marines"],
+    "relatedArcs": ["Marineford Arc"],
+    "images": []
+  }
+]

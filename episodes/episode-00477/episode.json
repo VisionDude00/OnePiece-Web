@@ -1,0 +1,597 @@
+{
+  "episodeNumber": 477,
+  "episodeTitle": "The Power That Will Shorten One's Life! Energy Hormone, Redux!",
+  "episodeTitleJapanese": "命を削る力 テンション・ホルモン再び",
+  "episodeTitleRomanized": "Inochi o Kazuru Chikara - Tenshon Horumon Futatabi",
+  "description": "During the intense Marineford War, Whitebeard begins to falter from age and injuries, allowing the Admirals to attack his commanders. Marco is wounded by Kizaru and Jozu is frozen by Aokiji. Meanwhile, Ace reflects on his troubled childhood and declares his desire to live, while Luffy desperately requests another dose of life-shortening Tension Hormones from Ivankov to continue fighting.",
+  "airDate": "2010-11-28",
+  "airDateJapan": "2010-11-28",
+  "airDateUS": "2010-11-27",
+  "airDateUSFunimation": "2010-11-27",
+  "arcName": "Marineford",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "One day",
+    "titleJapanese": "ワンデイ",
+    "artist": "The Rootless",
+    "composer": "The Rootless",
+    "lyricist": "The Rootless",
+    "episodeRange": [459, 492]
+  },
+  "endingSong": null,
+  "credits": {
+    "director": "Naoyuki Itō",
+    "screenplay": "Yoshiyuki Suga",
+    "artDirector": "Ryūji Yoshiike",
+    "animationDirector": "Shigefumi Shingaki",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Portgas D. Ace",
+        "actor": "Toshio Furukawa"
+      },
+      {
+        "character": "Edward Newgate (Whitebeard)",
+        "actor": "Kinryu Arimoto"
+      },
+      {
+        "character": "Sakazuki (Akainu)",
+        "actor": "Fumihiko Tachiki"
+      },
+      {
+        "character": "Emporio Ivankov",
+        "actor": "Mitsuo Iwata"
+      },
+      {
+        "character": "Marco",
+        "actor": "Masakazu Morita"
+      },
+      {
+        "character": "Jozu",
+        "actor": "Yūsuke Numata"
+      },
+      {
+        "character": "Borsalino (Kizaru)",
+        "actor": "Unshō Ishizuka"
+      },
+      {
+        "character": "Kuzan (Aokiji)",
+        "actor": "Takehito Koyasu"
+      },
+      {
+        "character": "Monkey D. Garp",
+        "actor": "Hiroshi Naka"
+      },
+      {
+        "character": "Sengoku",
+        "actor": "Takkō Ishimori"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Portgas D. Ace",
+        "actor": "Travis Willingham"
+      },
+      {
+        "character": "Edward Newgate (Whitebeard)",
+        "actor": "R. Bruce Elliott"
+      },
+      {
+        "character": "Sakazuki (Akainu)",
+        "actor": "Andrew Love"
+      },
+      {
+        "character": "Emporio Ivankov",
+        "actor": "Randy Pearlman"
+      },
+      {
+        "character": "Marco",
+        "actor": "Chuck Huber"
+      },
+      {
+        "character": "Jozu",
+        "actor": "Phil Parsons"
+      },
+      {
+        "character": "Borsalino (Kizaru)",
+        "actor": "Ray Hurd"
+      },
+      {
+        "character": "Kuzan (Aokiji)",
+        "actor": "Bob Carter"
+      },
+      {
+        "character": "Monkey D. Garp",
+        "actor": "Brian Mathis"
+      },
+      {
+        "character": "Sengoku",
+        "actor": "Ed Blaylock"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep477-event-001",
+      "episodeNumber": 477,
+      "timestamp": "03:15",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Ace's Childhood Flashback - Identity Crisis",
+      "description": "Ace reflects on his troubled childhood where he struggled with his identity as the son of Gol D. Roger, the Pirate King. Flashbacks show young Ace beating up people who spoke ill of his father, tormented by the hatred directed at Roger's bloodline.",
+      "significance": "This flashback provides crucial insight into Ace's internal struggle and why he has such complex feelings about his existence. It deepens the emotional weight of the current situation at Marineford.",
+      "characterIds": ["ace", "garp"],
+      "locationIds": ["marineford"],
+      "quotes": [
+        {
+          "text": "Did I deserve to be born?",
+          "speaker": "Ace",
+          "context": "Young Ace asking Garp about his right to exist as Roger's son"
+        },
+        {
+          "text": "It is something you will find as you live.",
+          "speaker": "Garp",
+          "context": "Garp's response to Ace's existential question"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [460, 465],
+      "payoffInEpisodes": [478, 479, 480],
+      "callbacksToEpisodes": [460]
+    },
+    {
+      "id": "ep477-event-002",
+      "episodeNumber": 477,
+      "timestamp": "05:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Ace Declares His Desire to Live",
+      "description": "After witnessing the sacrifices of Whitebeard, Luffy, and all his comrades fighting desperately to save him, Ace is overcome with emotion. He declares that he wants to live, expressing gratitude for those who risked everything for him despite his cursed bloodline.",
+      "significance": "This is a pivotal character moment for Ace, marking his acceptance of his own worth and desire to live. It shows the profound impact that love and friendship have had on his previously tortured soul. This declaration deeply affects Garp and sets up the tragic events to come.",
+      "characterIds": ["ace", "sengoku", "garp", "whitebeard", "luffy"],
+      "locationIds": ["marineford"],
+      "quotes": [
+        {
+          "text": "I want to live!",
+          "speaker": "Ace",
+          "context": "Ace's emotional declaration after seeing everyone's sacrifices for him"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [460, 465, 476],
+      "payoffInEpisodes": [478, 479, 480, 483],
+      "callbacksToEpisodes": [460, 465]
+    },
+    {
+      "id": "ep477-event-003",
+      "episodeNumber": 477,
+      "timestamp": "08:20",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Whitebeard Falters from Age and Injury",
+      "description": "Whitebeard stumbles and falters for a moment as a result of his advanced age and accumulated injuries from the battle. This brief weakness does not go unnoticed by the Marines, particularly Admiral Akainu, who sees an opportunity to strike.",
+      "significance": "This moment reveals the toll that the war is taking on the world's strongest man. It foreshadows his eventual fate and shows that even legends have limits. The Admirals exploit this weakness to devastating effect.",
+      "characterIds": ["whitebeard", "akainu"],
+      "locationIds": ["marineford"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [472, 475],
+      "payoffInEpisodes": [478, 483, 484],
+      "callbacksToEpisodes": [462, 472]
+    },
+    {
+      "id": "ep477-event-004",
+      "episodeNumber": 477,
+      "timestamp": "10:30",
+      "eventType": "BATTLE_START",
+      "severity": "CRITICAL",
+      "title": "Akainu Attacks Whitebeard with Hound Blaze",
+      "description": "Taking advantage of Whitebeard's momentary weakness, Admiral Akainu unleashes his Hound Blaze (Inugami Guren) attack - a powerful magma-based assault. Whitebeard deflects the attack, but Akainu continues his aggressive offensive, claiming Whitebeard should focus on his enemy.",
+      "significance": "This marks a significant escalation in the battle between Whitebeard and Akainu. The Admiral's relentless attacks demonstrate his ruthless determination to eliminate the legendary pirate, setting the stage for their climactic confrontation.",
+      "characterIds": ["whitebeard", "akainu"],
+      "locationIds": ["marineford"],
+      "devilFruitIds": ["magu-magu-no-mi"],
+      "quotes": [
+        {
+          "text": "You should focus on your enemy!",
+          "speaker": "Akainu",
+          "context": "Akainu taunting Whitebeard during their battle"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [472, 475],
+      "payoffInEpisodes": [478, 483, 484],
+      "callbacksToEpisodes": [472]
+    },
+    {
+      "id": "ep477-event-005",
+      "episodeNumber": 477,
+      "timestamp": "13:00",
+      "eventType": "BATTLE_START",
+      "severity": "CRITICAL",
+      "title": "Kizaru Wounds Marco with Light Beams",
+      "description": "Marco, the Phoenix and Whitebeard's First Division Commander, becomes distracted when he sees Whitebeard struggling. Admiral Kizaru exploits this momentary lapse in concentration and shoots two laser beams that pierce through Marco's body, severely wounding him.",
+      "significance": "This represents the first time Marco's Phoenix regeneration is overcome in the war. His injury removes one of the Whitebeard Pirates' strongest defenders from the battlefield and shows the strategic brilliance of the Admirals in exploiting openings.",
+      "characterIds": ["marco", "kizaru", "whitebeard"],
+      "locationIds": ["marineford"],
+      "devilFruitIds": ["pika-pika-no-mi", "tori-tori-no-mi-model-phoenix"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [475],
+      "payoffInEpisodes": [478, 483],
+      "callbacksToEpisodes": [460, 472]
+    },
+    {
+      "id": "ep477-event-006",
+      "episodeNumber": 477,
+      "timestamp": "14:15",
+      "eventType": "BATTLE_START",
+      "severity": "CRITICAL",
+      "title": "Aokiji Freezes Jozu",
+      "description": "Jozu, the Diamond-bodied Third Division Commander, becomes distracted by Marco being wounded. Admiral Aokiji takes advantage of this split second of distraction to use his ice powers, freezing Jozu's entire body solid and incapacitating him.",
+      "significance": "The loss of Jozu is catastrophic for the Whitebeard Pirates. His diamond-hard body made him nearly invincible, but a moment of concern for his comrade led to his downfall. This demonstrates the Admirals' coordinated strategy to systematically eliminate Whitebeard's commanders.",
+      "characterIds": ["jozu", "aokiji", "marco"],
+      "locationIds": ["marineford"],
+      "devilFruitIds": ["hie-hie-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [475],
+      "payoffInEpisodes": [483],
+      "callbacksToEpisodes": [460, 472]
+    },
+    {
+      "id": "ep477-event-007",
+      "episodeNumber": 477,
+      "timestamp": "17:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Luffy Requests Second Dose of Tension Hormones",
+      "description": "Luffy, severely injured and exhausted from his previous battles, desperately begs Emporio Ivankov for another dose of Tension Hormones. Despite knowing the severe health risks and life-shortening effects, Luffy insists he would rather die than be unable to save Ace.",
+      "significance": "This moment demonstrates the depth of Luffy's determination and willingness to sacrifice everything for his brother. It shows his character growth and the theme of love conquering fear of death. The choice will have lasting consequences for Luffy's health.",
+      "characterIds": ["luffy", "ivankov"],
+      "locationIds": ["marineford"],
+      "devilFruitIds": ["horu-horu-no-mi"],
+      "quotes": [
+        {
+          "text": "I would rather die afterwards if I cannot fight!",
+          "speaker": "Luffy",
+          "context": "Luffy pleading with Ivankov for another Tension Hormone shot despite the risks"
+        },
+        {
+          "text": "You fool! I cannot make you take such risks or I would not be able to face your father!",
+          "speaker": "Ivankov",
+          "context": "Ivankov expressing concern about the dangerous treatment"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [439, 476],
+      "payoffInEpisodes": [478, 480, 483],
+      "callbacksToEpisodes": [439]
+    },
+    {
+      "id": "ep477-event-008",
+      "episodeNumber": 477,
+      "timestamp": "19:45",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Ivankov Administers Second Tension Hormone Treatment",
+      "description": "After much hesitation, Emporio Ivankov reluctantly agrees to give Luffy a second dose of Emporio Tension Hormones. He warns Luffy that this is the absolute limit and that he will not be getting up again after this. The hormones restore Luffy's strength, but at a severe cost to his lifespan and future health.",
+      "significance": "This is the second and final time Luffy receives the dangerous Tension Hormone treatment. The accumulated damage from two doses will have long-term consequences for his body. It demonstrates Ivankov's loyalty to Dragon and his belief in Luffy's mission.",
+      "characterIds": ["luffy", "ivankov"],
+      "locationIds": ["marineford"],
+      "devilFruitIds": ["horu-horu-no-mi"],
+      "quotes": [
+        {
+          "text": "This is the last time! You will not be getting up again after receiving a second dose!",
+          "speaker": "Ivankov",
+          "context": "Ivankov warning Luffy about the severe limitations and risks"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [439, 476],
+      "payoffInEpisodes": [478, 480, 483, 488],
+      "callbacksToEpisodes": [439]
+    },
+    {
+      "id": "ep477-event-009",
+      "episodeNumber": 477,
+      "timestamp": "21:00",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Replacement Executioners Prepared",
+      "description": "Fleet Admiral Sengoku orders replacement executioners to prepare for Ace's execution as the pirates break through Marine defenses. One executioner is shown arriving late, adding tension to the scene. The Marines are determined to execute Ace despite the chaos.",
+      "significance": "This anime-original scene adds tension by showing the Marines' continued determination to execute Ace despite the overwhelming pirate assault. It emphasizes that the rescue mission is far from over.",
+      "characterIds": ["sengoku", "ace"],
+      "locationIds": ["marineford"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [478],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep477-event-010",
+      "episodeNumber": 477,
+      "timestamp": "22:15",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Pirates Break Through and Defeat Pacifistas",
+      "description": "The alliance of pirates breaks through the Marine defenses and confronts the Pacifistas. Despite the formidable power of these Kuma replicas, the combined strength of the pirate crews manages to defeat them, continuing their push toward the execution platform.",
+      "significance": "This shows the collective power of the pirate alliance and their determination to rescue Ace. The defeat of multiple Pacifistas demonstrates how far they're willing to go.",
+      "characterIds": ["whitebeard-pirates"],
+      "locationIds": ["marineford"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [475, 476],
+      "payoffInEpisodes": [478],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep477-event-011",
+      "episodeNumber": 477,
+      "timestamp": "06:30",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Garp's Emotional Response to Ace's Declaration",
+      "description": "When Ace declares he wants to live, Garp is shown deeply saddened and emotional. Having raised both Ace and Luffy, Garp is torn between his duty as a Marine and his love for the boys he considers his grandsons.",
+      "significance": "This moment highlights Garp's internal conflict and deep love for Ace. It reinforces the tragedy of the situation where family is divided by opposing ideologies. Garp's emotional response foreshadows his difficulty in remaining neutral.",
+      "characterIds": ["garp", "ace"],
+      "locationIds": ["marineford"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [460, 465],
+      "payoffInEpisodes": [478, 483],
+      "callbacksToEpisodes": [460]
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["emporio-tension-hormone-redux", "inugami-guren"]
+  },
+  "episodeRelationships": {
+    "setupFor": [478, 479, 480, 483],
+    "payoffFrom": [439, 460, 465, 472, 475, 476],
+    "thematicLinks": [460, 483, 488]
+  },
+  "quotes": [
+    {
+      "text": "Did I deserve to be born?",
+      "speaker": "Ace",
+      "context": "Young Ace questioning his right to exist as Roger's son",
+      "timestamp": "03:15"
+    },
+    {
+      "text": "It is something you will find as you live.",
+      "speaker": "Garp",
+      "context": "Garp's wise response to Ace's existential question",
+      "timestamp": "03:45"
+    },
+    {
+      "text": "I want to live!",
+      "speaker": "Ace",
+      "context": "Ace's emotional declaration after witnessing everyone's sacrifices",
+      "timestamp": "05:45"
+    },
+    {
+      "text": "I would rather die afterwards if I cannot fight!",
+      "speaker": "Luffy",
+      "context": "Luffy's desperate plea to Ivankov for more Tension Hormones",
+      "timestamp": "17:30"
+    },
+    {
+      "text": "You fool! I cannot make you take such risks or I would not be able to face your father!",
+      "speaker": "Ivankov",
+      "context": "Ivankov's concern about giving Luffy the dangerous treatment",
+      "timestamp": "18:00"
+    },
+    {
+      "text": "This is the last time! You will not be getting up again after receiving a second dose!",
+      "speaker": "Ivankov",
+      "context": "Ivankov's warning about the severe consequences of the second dose",
+      "timestamp": "19:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Worth of Existence",
+      "description": "Ace's flashback and declaration explore the fundamental question of whether one's birth circumstances determine their value. Despite being Roger's son, Ace discovers his worth through the love of those who fight for him.",
+      "symbolism": "Ace's chains represent not just his physical imprisonment but also the psychological chains of his heritage. His declaration to live represents breaking free from those mental shackles.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Sacrifice for Loved Ones",
+      "description": "Both Luffy and the Whitebeard Pirates demonstrate willingness to sacrifice everything - including their lives - to save Ace. Luffy literally shortens his lifespan to continue fighting.",
+      "symbolism": "The Tension Hormones represent the ultimate sacrifice - trading years of life for moments of strength to protect family.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Limits of Power",
+      "description": "Even the world's strongest man, Whitebeard, shows vulnerability as age and injury take their toll. The episode demonstrates that all legends are mortal.",
+      "symbolism": "Whitebeard's faltering represents the inevitable passage of time and the torch being passed to the next generation.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Strategic Warfare",
+      "description": "The Admirals demonstrate masterful coordination and tactics, exploiting momentary weaknesses to systematically eliminate Whitebeard's commanders.",
+      "symbolism": "The simultaneous attacks on Marco and Jozu show how psychological warfare and exploitation of emotions can overcome even the strongest defenses.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tragic", "Intense", "Emotional", "Desperate", "Action-packed"],
+  "characterSpotlights": [
+    {
+      "characterId": "ace",
+      "role": "Emotional center",
+      "development": "Ace undergoes a profound transformation from someone questioning his right to exist to someone who declares his desire to live. His flashback reveals the depth of his childhood trauma and identity crisis as Roger's son.",
+      "keyActions": [
+        "Reflects on his troubled childhood",
+        "Recalls asking Garp if he deserved to be born",
+        "Witnesses the sacrifices being made for him",
+        "Declares his desire to live",
+        "Deeply affects Garp with his declaration"
+      ],
+      "quotes": [
+        "Did I deserve to be born?",
+        "I want to live!"
+      ]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Determined protagonist",
+      "development": "Luffy demonstrates the absolute depths of his determination to save Ace, willing to sacrifice years of his own life for a chance to continue fighting. His desperation shows the strength of his love for his brother.",
+      "keyActions": [
+        "Realizes he lacks the strength to continue",
+        "Desperately begs Ivankov for another Tension Hormone shot",
+        "Refuses to accept any alternative to saving Ace",
+        "Receives the second and final dose despite the risks",
+        "Regains his strength to continue the rescue"
+      ],
+      "quotes": [
+        "I would rather die afterwards if I cannot fight!"
+      ]
+    },
+    {
+      "characterId": "whitebeard",
+      "role": "Weakening titan",
+      "development": "Whitebeard's mortality becomes increasingly apparent as his age and injuries cause him to falter. Despite his legendary status, the toll of battle is undeniable.",
+      "keyActions": [
+        "Falters from age and accumulated damage",
+        "Continues fighting Admiral Akainu",
+        "Deflects Akainu's Hound Blaze attack",
+        "His weakness causes Marco and Jozu to become distracted"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "ivankov",
+      "role": "Reluctant enabler",
+      "development": "Ivankov faces an impossible choice between protecting Luffy's health and enabling his mission to save Ace. His loyalty to Dragon and belief in Luffy's destiny ultimately leads him to administer the dangerous treatment.",
+      "keyActions": [
+        "Initially refuses Luffy's request for safety",
+        "Expresses concern about facing Dragon",
+        "Reluctantly agrees to give the second dose",
+        "Warns Luffy about the severe consequences",
+        "Administers the Emporio Tension Hormones"
+      ],
+      "quotes": [
+        "You fool! I cannot make you take such risks or I would not be able to face your father!",
+        "This is the last time! You will not be getting up again after receiving a second dose!"
+      ]
+    },
+    {
+      "characterId": "garp",
+      "role": "Torn grandfather",
+      "development": "Garp's emotional response to Ace's declaration shows his deep love for the boy he raised. His internal conflict between duty and family reaches a critical point.",
+      "keyActions": [
+        "Remembers his conversation with young Ace",
+        "Advised Ace that he would find his worth through living",
+        "Reacts emotionally to Ace's desire to live",
+        "Struggles with his position as a Marine"
+      ],
+      "quotes": [
+        "It is something you will find as you live."
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime added a scene about replacement soldiers for Ace's execution, including one soldier being late. This scene does not appear in the manga.",
+      "episodeTimestamp": "21:00",
+      "mangaReference": "Chapter 568",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "In the manga flashback, Ace is shown holding a pole while beating up people who badmouthed Roger, but in the anime he is not seen carrying anything.",
+      "episodeTimestamp": "03:15",
+      "mangaReference": "Chapter 568",
+      "type": "MINOR_CHANGE"
+    },
+    {
+      "difference": "The preview for the next episode is shortened from its usual length.",
+      "episodeTimestamp": "23:00",
+      "mangaReference": "Chapter 568",
+      "type": "PRODUCTION_CHANGE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode has an IMDb rating of 9.1/10, making it one of the highest-rated episodes in the Marineford Arc.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://www.imdb.com/title/tt1799493/",
+          "title": "One Piece Episode 477 IMDb Page",
+          "platform": "IMDb",
+          "accessedAt": "2025-12-14"
+        }
+      ]
+    },
+    {
+      "fact": "Kinryu Arimoto, who voices Whitebeard in Japanese, passed away on February 1, 2019, at age 78 after suffering from esophageal cancer. This was one of his most iconic roles.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://geekculture.co/kinryu-arimoto-voice-actor-for-one-pieces-whitebeard-dies-aged-78/",
+          "title": "Kinryu Arimoto Voice Actor Dies",
+          "platform": "Geek Culture",
+          "accessedAt": "2025-12-14"
+        }
+      ]
+    },
+    {
+      "fact": "This episode adapts Chapter 568 (pages 2-15) of the manga, covering Ace's emotional declaration and the Admirals' coordinated attacks.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_477",
+          "title": "Episode 477 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-14"
+        }
+      ]
+    },
+    {
+      "fact": "From Episode 279 to Episode 1070, One Piece did not air ending themes to allow for longer opening sequences. Episode 477 falls within this range.",
+      "category": "MUSIC",
+      "sources": []
+    },
+    {
+      "fact": "Director Naoyuki Itō also directed the One Piece special '3D2Y: Overcome Ace's Death! Luffy's Vow to his Friends', which deals with the aftermath of the Marineford War.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://letterboxd.com/film/one-piece-3d2y-overcome-aces-death-luffys-vow-to-his-friends/crew/",
+          "title": "One Piece 3D2Y Credits",
+          "platform": "Letterboxd",
+          "accessedAt": "2025-12-14"
+        }
+      ]
+    },
+    {
+      "fact": "The Emporio Tension Hormones that Luffy receives in this episode are different from the Emporio Healing Hormones he received in Impel Down. The Tension Hormones relieve fatigue but have severe aftereffects and limits on repeated use.",
+      "category": "WORLD_BUILDING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Horu_Horu_no_Mi",
+          "title": "Horu Horu no Mi - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-14"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
