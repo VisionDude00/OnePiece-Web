@@ -1,0 +1,143 @@
+[
+  {
+    "id": "mt-colubo",
+    "name": {
+      "english": "Mt. Colubo",
+      "japanese": "コルボ山",
+      "romanized": "Korubo Yama"
+    },
+    "locationType": "MOUNTAIN",
+    "seaRegion": "EAST_BLUE",
+    "islandName": "Dawn Island",
+    "debutEpisode": 494,
+    "debutChapter": 582,
+    "description": "A mountain on Dawn Island where Curly Dadan's hideout is located and where young Luffy, Ace, and Sabo spent their childhood hunting and training.",
+    "episodeAppearances": [498],
+    "keyEvents": [
+      {
+        "episodeNumber": 498,
+        "eventId": "ep498-event-001",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Brothers Hunt Together",
+        "description": "Ace, Sabo, and Luffy hunt a Danpa in the forest of Mt. Colubo.",
+        "significance": "Shows the brothers' daily routine and teamwork.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 498,
+        "eventId": "ep498-event-003",
+        "eventType": "BATTLE_START",
+        "title": "Bear Attack",
+        "description": "A powerful bear attacks the three brothers while they're hunting.",
+        "significance": "Creates the situation that introduces Naguri.",
+        "timestamp": "08:15"
+      },
+      {
+        "episodeNumber": 498,
+        "eventId": "ep498-event-004",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Naguri Appears",
+        "description": "Naguri makes his first appearance in the forest of Mt. Colubo, saving the brothers from a bear.",
+        "significance": "Introduction of an important anime-original character.",
+        "timestamp": "10:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 494,
+        "episodeEnd": "present",
+        "reason": "Mt. Colubo remains an active location throughout the flashback arc"
+      }
+    ],
+    "parentLocation": "dawn-island",
+    "childLocations": ["mt-colubo-hideout"],
+    "relatedCharacters": ["luffy", "ace", "sabo", "curly-dadan", "naguri"],
+    "relatedCrews": ["mountain-bandits"],
+    "relatedArcs": ["Post-War Arc"],
+    "images": []
+  },
+  {
+    "id": "mt-colubo-hideout",
+    "name": {
+      "english": "Dadan Family Hideout",
+      "japanese": "ダダン一家のアジト",
+      "romanized": "Dadan Ikka no Ajito"
+    },
+    "locationType": "HIDEOUT",
+    "seaRegion": "EAST_BLUE",
+    "islandName": "Dawn Island",
+    "debutEpisode": 494,
+    "debutChapter": 582,
+    "description": "The mountain bandits' hideout where Curly Dadan and her gang live, and where Luffy and Ace stayed during their childhood.",
+    "episodeAppearances": [498],
+    "keyEvents": [
+      {
+        "episodeNumber": 498,
+        "eventId": "ep498-event-011",
+        "eventType": "PROPHECY_FORESHADOWING",
+        "title": "World Noble Visit Discussed",
+        "description": "Dadan discusses with Dogra and Magra the upcoming visit of a World Noble to Goa Kingdom.",
+        "significance": "Foreshadows the events that will lead to the Gray Terminal fire and Sabo's fate.",
+        "timestamp": "23:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 494,
+        "episodeEnd": "present",
+        "reason": "The hideout is operational during this episode"
+      }
+    ],
+    "parentLocation": "mt-colubo",
+    "childLocations": [],
+    "relatedCharacters": ["curly-dadan", "dogra", "magra", "luffy", "ace"],
+    "relatedCrews": ["mountain-bandits"],
+    "relatedArcs": ["Post-War Arc"],
+    "images": []
+  },
+  {
+    "id": "gray-terminal",
+    "name": {
+      "english": "Gray Terminal",
+      "japanese": "グレイ・ターミナル",
+      "romanized": "Gurei Tāminaru"
+    },
+    "locationType": "JUNKYARD",
+    "seaRegion": "EAST_BLUE",
+    "islandName": "Dawn Island",
+    "debutEpisode": 494,
+    "debutChapter": 582,
+    "description": "A massive junkyard on the outskirts of Goa Kingdom where the kingdom's trash and unwanted people are dumped. Home to Bluejam Pirates and many vagabonds.",
+    "episodeAppearances": [498],
+    "keyEvents": [
+      {
+        "episodeNumber": 498,
+        "eventId": "ep498-event-010",
+        "eventType": "MAJOR_DECISION",
+        "title": "Outlook III Meets Bluejam",
+        "description": "Sabo's father Outlook III visits Gray Terminal to meet with Bluejam and arrange for Sabo's retrieval.",
+        "significance": "Sets up the plot that will lead to major events including the Gray Terminal fire.",
+        "timestamp": "21:40"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 494,
+        "episodeEnd": 504,
+        "reason": "Gray Terminal exists as a junkyard"
+      }
+    ],
+    "parentLocation": "dawn-island",
+    "childLocations": [],
+    "relatedCharacters": ["sabo", "bluejam", "outlook-iii"],
+    "relatedCrews": ["bluejam-pirates"],
+    "relatedArcs": ["Post-War Arc"],
+    "images": []
+  }
+]

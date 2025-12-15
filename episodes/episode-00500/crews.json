@@ -1,0 +1,87 @@
+[
+  {
+    "name": {
+      "english": "Bluejam Pirates",
+      "japanese": "ブルージャム海賊団",
+      "romanized": "Burūjamu Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "bluejam",
+    "debutEpisode": 497,
+    "debutChapter": 585,
+    "episodeAppearances": [500],
+    "members": [
+      {
+        "characterId": "bluejam",
+        "role": "Captain",
+        "episodeJoined": 497,
+        "episodeLeft": null,
+        "joinCircumstances": "Founded and captains the crew"
+      },
+      {
+        "characterId": "ace",
+        "role": "Temporary Member",
+        "episodeJoined": 500,
+        "episodeLeft": 501,
+        "joinCircumstances": "Forced to join temporarily after being captured with Luffy"
+      },
+      {
+        "characterId": "luffy",
+        "role": "Temporary Member",
+        "episodeJoined": 500,
+        "episodeLeft": 501,
+        "joinCircumstances": "Forced to join temporarily after being captured with Ace"
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 500,
+        "eventId": "ep500-event-002",
+        "momentType": "BATTLE_START",
+        "title": "Bluejam Pirates Ambush the Brothers",
+        "description": "The Bluejam Pirates ambush and capture Sabo, Ace, and Luffy at Gray Terminal, revealing they were hired by Outlook III.",
+        "significance": "Shows the Bluejam Pirates' role as agents of the nobles and their willingness to harm children for profit.",
+        "timestamp": "06:45"
+      },
+      {
+        "episodeNumber": 500,
+        "eventId": "ep500-event-003",
+        "momentType": "BATTLE_START",
+        "title": "Battle with the Three Brothers",
+        "description": "The Bluejam Pirates fight and overpower the three brothers using firearms.",
+        "significance": "Demonstrates the crew's ruthlessness and their advantage over the children.",
+        "timestamp": "10:20"
+      },
+      {
+        "episodeNumber": 500,
+        "eventId": "ep500-event-006",
+        "momentType": "CREW_JOIN",
+        "title": "Ace and Luffy Temporarily Join",
+        "description": "Bluejam offers Ace and Luffy positions on his crew, which they accept, unaware they're being used in the Gray Terminal fire plot.",
+        "significance": "Shows how the crew manipulates the brothers into helping with the nobles' genocidal plan.",
+        "timestamp": "16:30"
+      }
+    ],
+    "ships": [],
+    "bases": [
+      {
+        "locationId": "bluejam-hideout",
+        "episodeEstablished": 497,
+        "episodeAbandoned": 501,
+        "description": "The Bluejam Pirates' hideout in or near Gray Terminal"
+      }
+    ],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "Unknown",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "#8B4513",
+    "relationships": {
+      "allies": ["goa-kingdom-nobles"],
+      "enemies": [],
+      "parentOrganization": null
+    }
+  }
+]

@@ -1,0 +1,468 @@
+{
+  "episodeNumber": 496,
+  "episodeTitle": "To The Sea Someday! The Pledge of the Three Brats!",
+  "episodeTitleJapanese": "いつか海へ！三人の悪童ちかいの盃！",
+  "episodeTitleRomanized": "Itsuka Umi e! San'nin no Akudō Chikai no Sakazuki!",
+  "description": "Sabo reveals his noble heritage to Ace and Luffy, explaining his troubled past with his family. The three boys then solidify their brotherly bond through a traditional sakazuki ceremony, exchanging sake cups and vowing to become renowned pirates.",
+  "airDate": "2011-05-01",
+  "airDateJapan": "2011-05-01",
+  "airDateUS": "2012-04-30",
+  "arcName": "Post-War Arc",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Fight Together",
+    "artist": "Namie Amuro",
+    "episodeRange": [493, 516]
+  },
+  "endingSong": null,
+  "credits": {
+    "screenplay": "Yoshiyuki Suga",
+    "artDirection": "Miho Shiraishi",
+    "animation": "Masahiro Shimanuki",
+    "director": "Yutaka Nakashima",
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Portgas D. Ace",
+        "actor": "Toshio Furukawa"
+      },
+      {
+        "character": "Sabo (Young)",
+        "actor": "Junko Takeuchi"
+      },
+      {
+        "character": "Outlook III",
+        "actor": "Chō"
+      },
+      {
+        "character": "Curly Dadan",
+        "actor": "Noriko Uemura"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Portgas D. Ace",
+        "actor": "Travis Willingham"
+      },
+      {
+        "character": "Sabo (Young)",
+        "actor": "Morgan Lauré Garrett"
+      },
+      {
+        "character": "Outlook III",
+        "actor": "Ken Marmon"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep496-event-001",
+      "episodeNumber": 496,
+      "timestamp": "03:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Outlook III's First Appearance",
+      "description": "Sabo is recognized by his father, Outlook III, a nobleman from High Town. Sabo denies knowing him, pretending the man has mistaken him for someone else, protecting his new life with Ace and Luffy.",
+      "significance": "Introduces Sabo's true background as nobility and sets up the revelation of his troubled past with his family.",
+      "characterIds": ["sabo", "outlook-iii", "luffy", "ace"],
+      "locationIds": ["goa-kingdom"],
+      "quotes": [
+        {
+          "text": "I don't know who you are! You've got the wrong person!",
+          "speaker": "Sabo",
+          "context": "Sabo denies knowing his father to protect his freedom"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [495],
+      "payoffInEpisodes": [497, 504],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep496-event-002",
+      "episodeNumber": 496,
+      "timestamp": "06:20",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Sabo Reveals His Noble Heritage",
+      "description": "Back at their hideout in Grey Terminal, Sabo confesses to Ace and Luffy that he is indeed the son of Outlook III, a noble family. He explains how his parents prioritized wealth and status, forcing him to study for an arranged marriage to gain power.",
+      "significance": "Reveals Sabo's motivation for running away and his rejection of noble society, deepening his character and explaining his bond with Ace and Luffy who accept him regardless of his birth.",
+      "characterIds": ["sabo", "ace", "luffy"],
+      "locationIds": ["grey-terminal"],
+      "quotes": [
+        {
+          "text": "I'm a noble. The son of Outlook III.",
+          "speaker": "Sabo",
+          "context": "Sabo finally reveals the truth about his origins to his brothers"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [497, 504],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep496-event-003",
+      "episodeNumber": 496,
+      "timestamp": "08:15",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Sabo's Childhood Flashback",
+      "description": "A flashback shows young Sabo's life as a noble child, where his parents forced him to study constantly for arranged marriage. When Sabo showed his father a drawing he made, Outlook III angrily tore it up and told him to study instead.",
+      "significance": "Illustrates the emotional abuse and suppression Sabo faced in his noble life, showing why he chose freedom in Grey Terminal over wealth and status.",
+      "characterIds": ["sabo", "outlook-iii", "didit"],
+      "locationIds": ["high-town"],
+      "quotes": [
+        {
+          "text": "Don't waste your time on such foolishness! Go study!",
+          "speaker": "Outlook III",
+          "context": "Outlook III destroys Sabo's drawing, rejecting his son's creativity"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [504],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep496-event-004",
+      "episodeNumber": 496,
+      "timestamp": "11:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Sabo's Escape from Noble Life",
+      "description": "Unable to accept his father's orders and the hollow life of nobility, young Sabo escapes from his home and flees to Grey Terminal, where he finds true freedom and happiness among the less fortunate.",
+      "significance": "Marks the moment Sabo chose his own path, rejecting his predetermined noble destiny for a life of freedom, foreshadowing his eventual pirate aspirations.",
+      "characterIds": ["sabo"],
+      "locationIds": ["high-town", "grey-terminal"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [497, 504],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep496-event-005",
+      "episodeNumber": 496,
+      "timestamp": "13:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "CRITICAL",
+      "title": "The Brotherhood Sakazuki Ceremony",
+      "description": "Ace brings three sake cups and a bottle stolen from Curly Dadan. The three boys perform an informal sakazuki ceremony, a traditional Japanese brotherhood ritual, exchanging and drinking sake together to officially become sworn brothers.",
+      "significance": "This moment cements the brotherly bond between Ace, Sabo, and Luffy that defines their characters throughout the series. The ceremony name 'sakazuki' tragically shares its name with Admiral Akainu (Sakazuki), who later kills Ace.",
+      "characterIds": ["luffy", "ace", "sabo"],
+      "locationIds": ["grey-terminal"],
+      "quotes": [
+        {
+          "text": "If men drink together, they become brothers!",
+          "speaker": "Ace",
+          "context": "Ace explains the sakazuki ceremony to Luffy and Sabo"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [493, 494, 495],
+      "payoffInEpisodes": [483, 574, 587],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep496-event-006",
+      "episodeNumber": 496,
+      "timestamp": "15:20",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "CRITICAL",
+      "title": "Ace's Vow of Fame",
+      "description": "After becoming brothers, Ace declares that he will become such a great pirate that everyone in the world will know his name. Luffy responds by declaring he'll become the Pirate King.",
+      "significance": "Ace's vow is tragically fulfilled when he dies at Marineford, becoming world-famous but not in the way he intended. This moment foreshadows both Ace's fate and Luffy's continued pursuit of his dream.",
+      "characterIds": ["ace", "luffy", "sabo"],
+      "locationIds": ["grey-terminal"],
+      "quotes": [
+        {
+          "text": "I'll become such a pirate that everyone will know my name!",
+          "speaker": "Ace",
+          "context": "Ace declares his dream to his newly sworn brothers"
+        },
+        {
+          "text": "I'm going to be the Pirate King!",
+          "speaker": "Luffy",
+          "context": "Luffy reaffirms his ultimate dream"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [483, 574],
+      "callbacksToEpisodes": [1]
+    },
+    {
+      "id": "ep496-event-007",
+      "episodeNumber": 496,
+      "timestamp": "17:00",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "The Three Brothers Defeat a Crocodile",
+      "description": "The episode shows the three brothers working together to defeat a large crocodile, demonstrating their growing strength and teamwork as they train together.",
+      "significance": "Shows the boys' progression as fighters and their effective cooperation, building their bond through shared adventures and battles.",
+      "characterIds": ["luffy", "ace", "sabo"],
+      "locationIds": ["forest-near-grey-terminal"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep496-event-008",
+      "episodeNumber": 496,
+      "timestamp": "18:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Selling Crocodile Leather to Nobles",
+      "description": "The three boys disguise themselves as merchants and infiltrate High Town to sell the crocodile leather to wealthy nobles, earning money while mocking the upper class.",
+      "significance": "Demonstrates Sabo's knowledge of noble society and the boys' resourcefulness, while highlighting the class divide in Goa Kingdom.",
+      "characterIds": ["luffy", "ace", "sabo"],
+      "locationIds": ["high-town", "goa-kingdom"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep496-event-009",
+      "episodeNumber": 496,
+      "timestamp": "20:15",
+      "eventType": "POWER_REVEAL",
+      "severity": "MINOR",
+      "title": "Restaurant Staff Discovers Luffy's Rubber Powers",
+      "description": "At a restaurant in High Town, Luffy uses his rubber arms to grab food, accidentally revealing his Devil Fruit powers to the shocked restaurant staff. The three brothers quickly escape through a window.",
+      "significance": "An anime-original scene that provides comedy while showing Luffy's carefree nature and inability to hide his powers, even when trying to maintain a low profile.",
+      "characterIds": ["luffy", "ace", "sabo"],
+      "locationIds": ["high-town"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [1]
+    },
+    {
+      "id": "ep496-event-010",
+      "episodeNumber": 496,
+      "timestamp": "21:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Didit's First Appearance",
+      "description": "Sabo's mother, Didit, appears in flashbacks showing her complicity in pressuring young Sabo to conform to noble expectations and pursue an arranged marriage.",
+      "significance": "Establishes both of Sabo's parents as antagonists in his backstory, showing the complete family environment that drove him away.",
+      "characterIds": ["didit", "sabo"],
+      "locationIds": ["high-town"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [504],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["outlook-iii", "didit"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [497, 498, 504],
+    "payoffFrom": [493, 494, 495],
+    "thematicLinks": [483, 574, 587]
+  },
+  "quotes": [
+    {
+      "text": "I'm a noble. The son of Outlook III.",
+      "speaker": "Sabo",
+      "context": "Sabo reveals his true origins to Ace and Luffy",
+      "timestamp": "06:20"
+    },
+    {
+      "text": "If men drink together, they become brothers!",
+      "speaker": "Ace",
+      "context": "Ace initiates the sakazuki ceremony",
+      "timestamp": "13:45"
+    },
+    {
+      "text": "I'll become such a pirate that everyone will know my name!",
+      "speaker": "Ace",
+      "context": "Ace declares his dream after the brotherhood ceremony",
+      "timestamp": "15:20"
+    },
+    {
+      "text": "I'm going to be the Pirate King!",
+      "speaker": "Luffy",
+      "context": "Luffy reaffirms his dream to his brothers",
+      "timestamp": "15:20"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Freedom vs. Social Status",
+      "description": "The episode explores Sabo's rejection of wealth and nobility in favor of freedom and genuine friendship, contrasting the hollow life of High Town with the vibrant community of Grey Terminal.",
+      "symbolism": "Grey Terminal represents true freedom despite poverty, while High Town symbolizes gilded cage of nobility. Sabo's choice shows that freedom and authentic bonds matter more than material wealth.",
+      "culturalReferences": ["The sakazuki ceremony is a traditional Japanese brotherhood ritual, showing the deep cultural roots of the bond between the three brothers"]
+    },
+    {
+      "theme": "Brotherhood and Chosen Family",
+      "description": "The sakazuki ceremony demonstrates that family bonds are chosen, not given by birth. Despite having no blood relation, Ace, Sabo, and Luffy form an unbreakable brotherly bond that shapes all their lives.",
+      "symbolism": "The shared sake cup represents equality and unity among the brothers, with the act of drinking together symbolizing their commitment to support each other as true family.",
+      "culturalReferences": ["Sakazuki brotherhood ceremonies in Japanese culture and yakuza tradition"]
+    },
+    {
+      "theme": "Dreams and Ambition",
+      "description": "Each brother declares their dream of becoming a pirate, with Ace wanting fame and Luffy wanting to become Pirate King. Their dreams unite them and drive their future actions.",
+      "symbolism": "The three boys looking at the sea represents their shared desire for freedom and adventure beyond the confines of their island.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Class Struggle",
+      "description": "The episode highlights the stark divide between the wealthy nobles of High Town and the impoverished residents of Grey Terminal, with Sabo caught between these two worlds.",
+      "symbolism": "Sabo's torn drawing represents the destruction of individual expression and creativity under the crushing expectations of noble society.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Heartwarming", "Emotional", "Bittersweet", "Adventurous"],
+  "characterSpotlights": [
+    {
+      "characterId": "sabo",
+      "role": "Episode protagonist",
+      "development": "Sabo's backstory is fully revealed, showing his noble origins and the oppressive family life that drove him to Grey Terminal. His character is defined by his rejection of predetermined destiny in favor of chosen bonds and freedom.",
+      "keyActions": [
+        "Denies knowing his father when recognized in public",
+        "Reveals his noble heritage to Ace and Luffy",
+        "Participates in the sakazuki brotherhood ceremony",
+        "Escapes from his noble family permanently"
+      ],
+      "quotes": [
+        "I'm a noble. The son of Outlook III.",
+        "I don't know who you are! You've got the wrong person!"
+      ]
+    },
+    {
+      "characterId": "ace",
+      "role": "Supporting character",
+      "development": "Ace takes the leadership role in cementing the brotherhood, stealing sake and organizing the sakazuki ceremony. He declares his dream of becoming famous, tragically foreshadowing his future fate.",
+      "keyActions": [
+        "Steals sake from Curly Dadan for the ceremony",
+        "Initiates the sakazuki brotherhood ritual",
+        "Declares his dream of becoming a famous pirate",
+        "Accepts Sabo regardless of his noble status"
+      ],
+      "quotes": [
+        "If men drink together, they become brothers!",
+        "I'll become such a pirate that everyone will know my name!"
+      ]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Supporting character",
+      "development": "Young Luffy shows his characteristic acceptance and loyalty, immediately accepting Sabo's background without judgment. He continues to display his carefree nature and inability to hide his Devil Fruit powers.",
+      "keyActions": [
+        "Accepts Sabo's noble heritage without hesitation",
+        "Participates in the brotherhood ceremony",
+        "Accidentally reveals his rubber powers in the restaurant",
+        "Reaffirms his dream of becoming Pirate King"
+      ],
+      "quotes": [
+        "I'm going to be the Pirate King!"
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime added a scene where the three brothers eat at a restaurant in High Town, with Luffy using his rubber arms and causing them to escape. This scene does not appear in the manga.",
+      "episodeTimestamp": "20:15",
+      "mangaReference": "Chapter 585",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "The anime shows Ace fighting both Luffy and Sabo together during their training. In the manga, Ace only fights Luffy during this sequence.",
+      "episodeTimestamp": "17:00",
+      "mangaReference": "Chapter 585",
+      "type": "EXPANDED_SCENE"
+    },
+    {
+      "difference": "The crocodile hunting scene is more elaborated in the anime with additional action sequences not present in the manga.",
+      "episodeTimestamp": "17:00",
+      "mangaReference": "Chapter 585",
+      "type": "EXPANDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "The episode aired on May 1, 2011, and received a 9.5% TV rating in Japan, ranking 3rd for the day.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_496",
+          "title": "Episode 496 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-15"
+        }
+      ]
+    },
+    {
+      "fact": "Sabo's voice actor Junko Takeuchi is famous for voicing Naruto Uzumaki. Ironically, Sabo has never tried ramen in the anime, despite it being Naruto's favorite food.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_496",
+          "title": "Episode 496 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-15"
+        }
+      ]
+    },
+    {
+      "fact": "The name 'Sakazuki' refers both to the brotherhood ceremony and to Admiral Akainu's real name, creating tragic irony as Sakazuki (Akainu) later kills Ace, breaking the bond formed through the sakazuki ceremony.",
+      "category": "SYMBOLISM",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Sakazuki_(Ceremony)",
+          "title": "Sakazuki (Ceremony) - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-15"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 496 adapts Chapter 585 pages 2-14. The chapter is titled 'Brothers' Sake Cups', directly referencing the sakazuki ceremony.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chapter_585",
+          "title": "Chapter 585 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-15"
+        }
+      ]
+    },
+    {
+      "fact": "This episode is part of the Post-War Arc flashback sequence that explores the childhood of Ace, Sabo, and Luffy, serving as both character development and emotional recovery after Ace's death at Marineford.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Post-War_Arc",
+          "title": "Post-War Arc - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-15"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

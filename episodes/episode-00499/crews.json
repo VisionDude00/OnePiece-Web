@@ -1,0 +1,102 @@
+[
+  {
+    "name": {
+      "english": "Bluejam Pirates",
+      "japanese": "ブルージャム海賊団",
+      "romanized": "Burūjamu Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "bluejam",
+    "debutEpisode": 494,
+    "debutChapter": 583,
+    "episodeAppearances": [499],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 499,
+        "eventId": "ep499-event-009",
+        "momentType": "PROPHECY_FORESHADOWING",
+        "title": "Bluejam Pirates Locate Sabo",
+        "description": "The Bluejam Pirates successfully locate Sabo's whereabouts in Gray Terminal, and Bluejam orders his crew to inform Sabo's noble father that they've found him.",
+        "significance": "This moment sets up the coming tragedy where Sabo will be forced to return to his noble family, leading to the events that separate the three brothers and result in Sabo's apparent death.",
+        "timestamp": "22:30"
+      }
+    ],
+    "ships": [],
+    "bases": ["Gray Terminal"],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "",
+    "relationships": {
+      "allies": [],
+      "enemies": ["ace", "sabo", "luffy"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Naguri Pirates",
+      "japanese": "ナグリ海賊団",
+      "romanized": "Naguri Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "naguri",
+    "debutEpisode": 498,
+    "debutChapter": null,
+    "episodeAppearances": [499],
+    "members": [
+      {
+        "characterId": "naguri",
+        "role": "Captain",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Naguri was the captain of this crew before it was disbanded."
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 499,
+        "eventId": "ep499-event-001",
+        "momentType": "BACKSTORY_REVEAL",
+        "title": "Naguri Pirates' Defeat by Roger",
+        "description": "Naguri reveals in a flashback that the Naguri Pirates challenged the Roger Pirates in the past. They were easily defeated, but Roger showed mercy by sparing the entire crew, an act that earned Naguri's eternal respect.",
+        "significance": "This backstory establishes Roger's merciful and honorable character, showing that even in victory he didn't needlessly take lives. It also explains why Naguri holds the Pirate King in such high regard despite being defeated.",
+        "timestamp": "03:15"
+      },
+      {
+        "episodeNumber": 499,
+        "eventId": "ep499-event-008",
+        "momentType": "LOCATION_DEPARTURE",
+        "title": "Naguri Returns to Piracy",
+        "description": "After rebuilding his ship with the help of Ace, Sabo, and Luffy, Naguri sets sail from Gray Terminal, effectively resuming his pirate career.",
+        "significance": "Marks Naguri's return to the seas and the end of his time as a mentor to the three brothers.",
+        "timestamp": "21:00"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Rebuilt Pirate Ship",
+        "episodeAcquired": 499,
+        "episodeLost": null,
+        "description": "A pirate ship built by Naguri with the help of Ace, Sabo, and Luffy during their training period."
+      }
+    ],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "",
+    "relationships": {
+      "allies": ["ace", "sabo", "luffy"],
+      "enemies": [],
+      "parentOrganization": null
+    }
+  }
+]
