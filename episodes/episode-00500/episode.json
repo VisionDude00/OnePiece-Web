@@ -1,0 +1,561 @@
+{
+  "episodeNumber": 500,
+  "episodeTitle": "Freedom Taken Away! The Nobles' Plot Closing in on the Brothers!",
+  "description": "A storm destroys the brothers' hideout, forcing Ace, Luffy, and Sabo to search Gray Terminal for materials. The Bluejam Pirates capture all three brothers, and Sabo's father appears to reclaim him. Sabo sacrifices his freedom to protect his brothers, returning to High Town where he discovers a horrifying conspiracy: the nobles plan to burn down Gray Terminal and everyone in it before the World Nobles' visit.",
+  "airDate": "2011-05-29",
+  "airDateJapan": "2011-05-29",
+  "airDateUS": "2011-05-28",
+  "arcName": "Post-War Arc",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Fight Together",
+    "artist": "Namie Amuro",
+    "episodeRange": [493, 516]
+  },
+  "endingSong": null,
+  "credits": {
+    "screenplay": "Yoshiyuki Suga",
+    "artDirection": "Miho Shiraishi",
+    "animationDirector": "Eisaku Inoue",
+    "episodeDirector": "Makoto Sonoda",
+    "storyboard": "",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy (Young)",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Portgas D. Ace (Young)",
+        "actor": "Daisuke Sakaguchi"
+      },
+      {
+        "character": "Sabo (Young)",
+        "actor": "Junko Takeuchi"
+      },
+      {
+        "character": "Bluejam",
+        "actor": "Akihiko Ishizumi"
+      },
+      {
+        "character": "Outlook III",
+        "actor": "Chō"
+      },
+      {
+        "character": "Sterry (Young)",
+        "actor": "Chika Sakamoto"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy (Young)",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Portgas D. Ace (Young)",
+        "actor": "Chris Burnett"
+      },
+      {
+        "character": "Sabo (Young)",
+        "actor": "Morgan Lauré Garrett"
+      },
+      {
+        "character": "Bluejam",
+        "actor": "Jim Johnson"
+      },
+      {
+        "character": "Outlook III",
+        "actor": "Ken Marmon"
+      },
+      {
+        "character": "Sterry (Young)",
+        "actor": "Barrett Nash"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep500-event-001",
+      "episodeNumber": 500,
+      "timestamp": "02:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Storm Destroys the Brothers' Hideout",
+      "description": "A violent windstorm tears through the forest where Ace, Luffy, and Sabo have built their secret base. The structure is completely destroyed, forcing the three brothers to seek materials in Gray Terminal to rebuild their home.",
+      "significance": "This seemingly natural disaster sets in motion the events that will separate Sabo from his brothers, as it forces them into Gray Terminal where the Bluejam Pirates await. The destruction of their sanctuary symbolizes the loss of their freedom and childhood innocence.",
+      "characterIds": ["luffy-young", "ace-young", "sabo-young"],
+      "locationIds": ["dadan-family-hideout-area"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [497, 498, 499],
+      "payoffInEpisodes": [501, 502],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep500-event-002",
+      "episodeNumber": 500,
+      "timestamp": "04:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Brothers Search Gray Terminal for Materials",
+      "description": "Ace, Luffy, and Sabo venture into Gray Terminal, the massive junkyard outside Goa Kingdom's walls, to scavenge materials to rebuild their destroyed hideout. The brothers search through the piles of trash and debris looking for useful items.",
+      "significance": "This marks the beginning of the trap set by the nobles and Bluejam. The brothers unknowingly walk into danger by entering the very place that the nobles have marked for destruction.",
+      "characterIds": ["luffy-young", "ace-young", "sabo-young"],
+      "locationIds": ["gray-terminal"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [501],
+      "callbacksToEpisodes": [497]
+    },
+    {
+      "id": "ep500-event-003",
+      "episodeNumber": 500,
+      "timestamp": "06:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Sabo Finds the Telescope",
+      "description": "While searching through Gray Terminal, Sabo discovers a telescope among the trash. This telescope is something that Luffy had wanted, and Sabo is excited to bring it to his brother. However, as he examines it, he realizes he's surrounded by the Bluejam Pirates.",
+      "significance": "The telescope represents the brothers' dreams of adventure and freedom. Sabo's excitement to share this find with Luffy shows his care for his brothers. This moment of joy is immediately shattered by the appearance of their enemies, symbolizing how their dreams will be interrupted by the cruel reality of noble society.",
+      "characterIds": ["sabo-young"],
+      "locationIds": ["gray-terminal"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [503],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep500-event-004",
+      "episodeNumber": 500,
+      "timestamp": "07:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Bluejam Pirates Capture the Three Brothers",
+      "description": "The Bluejam Pirates surround Sabo and begin to close in. When Ace and Luffy arrive in a barrel to help, they too are captured. Despite the brothers' attempts to fight back, they are overwhelmed and captured by Bluejam's crew. The pirates had been hired specifically to find and capture the three boys.",
+      "significance": "This marks a critical turning point in the brothers' story. Their capture separates them and forces Sabo to make an impossible choice. The fact that the Bluejam Pirates were hired for this purpose reveals the nobles' manipulation and the class warfare underlying Goa Kingdom.",
+      "characterIds": ["luffy-young", "ace-young", "sabo-young", "bluejam"],
+      "locationIds": ["gray-terminal"],
+      "crewIds": ["bluejam-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [501],
+      "callbacksToEpisodes": [497]
+    },
+    {
+      "id": "ep500-event-005",
+      "episodeNumber": 500,
+      "timestamp": "10:00",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Outlook III Reveals Himself as Sabo's Father",
+      "description": "Outlook III appears at the scene where the brothers are captured, shocking Sabo. Bluejam reveals that he was hired by Outlook to capture the three boys. Outlook III has paid the Bluejam Pirates to retrieve his runaway son and 'take care of' Ace and Luffy so they won't interfere with Sabo again.",
+      "significance": "This reveals the depth of noble corruption and Outlook III's view of his son as property rather than a person. It exposes how the nobles use criminals like Bluejam as tools while maintaining their own facade of legitimacy. For Sabo, it's a devastating reminder that he cannot escape his noble heritage.",
+      "characterIds": ["sabo-young", "outlook-iii", "bluejam", "ace-young", "luffy-young"],
+      "locationIds": ["gray-terminal"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [497, 498],
+      "payoffInEpisodes": [501, 502, 503],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep500-event-006",
+      "episodeNumber": 500,
+      "timestamp": "12:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Sabo Sacrifices His Freedom for His Brothers",
+      "description": "Faced with the threat of Ace and Luffy being killed by the Bluejam Pirates, Sabo makes a heartbreaking decision. He agrees to return home with his father and abandon his life of freedom, on the condition that Outlook and the pirates spare his brothers' lives. Sabo willingly gives up everything he values to protect Ace and Luffy.",
+      "significance": "This is one of the most defining moments of Sabo's character, demonstrating his selflessness and the depth of his bond with his brothers. It shows that he values their lives above his own freedom and dreams. This sacrifice haunts the story and is a key reason why Sabo's later actions are so significant.",
+      "characterIds": ["sabo-young", "ace-young", "luffy-young", "outlook-iii"],
+      "locationIds": ["gray-terminal"],
+      "quotes": [
+        {
+          "text": "I'll go back... if you promise not to hurt them!",
+          "speaker": "Sabo",
+          "context": "Sabo bargaining with his father to save Ace and Luffy's lives"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [497, 498],
+      "payoffInEpisodes": [501, 502, 503, 589],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep500-event-007",
+      "episodeNumber": 500,
+      "timestamp": "14:00",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MAJOR",
+      "title": "Sabo Forced to Return to High Town",
+      "description": "Sabo is taken away from Gray Terminal by his father and returns to the noble district of High Town. He is brought back to the luxurious mansion he had fled from, leaving behind his life of freedom with Ace and Luffy. The contrast between Gray Terminal and High Town emphasizes the stark class divide.",
+      "significance": "This represents the physical manifestation of Sabo being torn from his chosen family and forced back into a life he despises. The return to High Town is not a homecoming but a imprisonment in a gilded cage.",
+      "characterIds": ["sabo-young", "outlook-iii"],
+      "locationIds": ["gray-terminal", "high-town-goa"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [501, 502, 503],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep500-event-008",
+      "episodeNumber": 500,
+      "timestamp": "15:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Sterry's Debut as Sabo's Adopted Brother",
+      "description": "Sabo returns home to discover that his parents have adopted a new son named Sterry, an 8-year-old boy from another noble family. Sterry was chosen because he 'showed promise' and could be molded into the ideal heir. Sterry acts respectfully in front of the parents but privately reveals his disdain for Sabo and his relief that the 'real son' stayed away.",
+      "significance": "Sterry's introduction shows how easily Sabo was replaced, emphasizing that the nobles view children as interchangeable assets rather than individuals. It highlights the transactional nature of noble family relationships and foreshadows Sterry's eventual rise as king of Goa Kingdom through similarly opportunistic means.",
+      "characterIds": ["sabo-young", "sterry-young", "outlook-iii"],
+      "locationIds": ["high-town-goa"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [504, 505, 906],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep500-event-009",
+      "episodeNumber": 500,
+      "timestamp": "17:00",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Sterry Reveals the Gray Terminal Burning Plot",
+      "description": "Sterry casually informs Sabo about the nobles' plan to burn down Gray Terminal. He explains that the decision was made months ago by the upper echelon because World Nobles will be visiting in three days. To prevent them from seeing 'the eyesore of the country,' the nobles decided to eliminate Gray Terminal and everyone in it by setting it on fire the next day.",
+      "significance": "This revelation is a turning point that exposes the depths of noble cruelty and the class-based genocide they're willing to commit for appearances. It shows that the nobles view the poor residents of Gray Terminal as less than human, disposable obstacles to maintaining their image. This information drives Sabo's desperate attempt to warn his brothers.",
+      "characterIds": ["sabo-young", "sterry-young"],
+      "locationIds": ["high-town-goa"],
+      "quotes": [
+        {
+          "text": "It was decided months ago in the upper echelon to set the Gray Terminal on fire the next day. The World Nobles are coming in three days, and they don't want them to see the eyesore of the country.",
+          "speaker": "Sterry",
+          "context": "Sterry explaining the nobles' plot to burn Gray Terminal"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [501, 502],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep500-event-010",
+      "episodeNumber": 500,
+      "timestamp": "18:15",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Sabo Overhears Nobles Discussing Bluejam's Role in the Fire",
+      "description": "Sabo overhears conversations among his father's associates confirming the burning plot. They discuss how the Bluejam Pirates have been hired to execute the plan. The nobles show complete indifference to the mass murder they're orchestrating, treating it as a routine matter of maintaining appearances.",
+      "significance": "This confirms that the nobles not only plan genocide but have already set it in motion through Bluejam. It reveals the complete moral bankruptcy of Goa Kingdom's ruling class and the systemic nature of the injustice. The nobles' casual discussion of mass murder while enjoying luxury emphasizes the dehumanization of the poor.",
+      "characterIds": ["sabo-young", "outlook-iii", "bluejam"],
+      "locationIds": ["high-town-goa"],
+      "crewIds": ["bluejam-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [501, 502],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep500-event-011",
+      "episodeNumber": 500,
+      "timestamp": "19:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Sabo Discovers the Nobles' Complete Indifference",
+      "description": "Sabo questions various people in High Town about the fire, and to his horror, everyone knows about it. However, none of them show any concern or remorse. The nobles and citizens of High Town are united in keeping it quiet to prevent outsiders from learning about it, treating the impending massacre as an acceptable inconvenience.",
+      "significance": "This shows that the corruption isn't limited to a few nobles but is systemic throughout High Town's society. Everyone is complicit in the genocide through their silence and indifference. For Sabo, this is a final confirmation that the world he was born into is irredeemably corrupt and that he made the right choice in leaving.",
+      "characterIds": ["sabo-young"],
+      "locationIds": ["high-town-goa"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [501, 502, 503],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep500-event-012",
+      "episodeNumber": 500,
+      "timestamp": "13:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Bluejam Offers Ace and Luffy Jobs",
+      "description": "After Sabo is taken away, Bluejam unties Ace and Luffy at his hideout and offers them jobs working for his pirate crew. Rather than killing them as Outlook suggested, Bluejam sees an opportunity to use the resourceful boys. Ace and Luffy, unaware of the true situation, agree to work for him.",
+      "significance": "This shows Bluejam's pragmatic cruelty and his manipulation of the boys. By giving them 'jobs,' he turns them into unwitting accomplices in the genocide. It demonstrates how systems of oppression often force the oppressed to participate in their own exploitation.",
+      "characterIds": ["ace-young", "luffy-young", "bluejam"],
+      "locationIds": ["gray-terminal"],
+      "crewIds": ["bluejam-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [501, 502],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep500-event-013",
+      "episodeNumber": 500,
+      "timestamp": "13:45",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "CRITICAL",
+      "title": "Ace and Luffy Unknowingly Move Explosives and Oil",
+      "description": "Bluejam convinces Ace and Luffy to help him move cargo boxes to specific marked locations on a map throughout Gray Terminal. The boys don't realize that these boxes contain explosives and oil that will be used to start the fire intended to kill everyone in Gray Terminal, including themselves.",
+      "significance": "This is a tragic irony where Ace and Luffy unknowingly help set up their own deaths and the massacre of Gray Terminal's residents. It shows how the poor are often forced to participate in systems designed to harm them, and foreshadows the coming disaster. The boys' innocence and trust is exploited by Bluejam.",
+      "characterIds": ["ace-young", "luffy-young", "bluejam"],
+      "locationIds": ["gray-terminal"],
+      "crewIds": ["bluejam-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [501, 502],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep500-event-014",
+      "episodeNumber": 500,
+      "timestamp": "21:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Sabo Escapes to Warn His Brothers",
+      "description": "Realizing that Ace and Luffy are in mortal danger from the fire that will be set the next day, Sabo makes the decision to escape from his house and run to Gray Terminal to warn them. Despite knowing he will be caught and possibly killed, he races toward Gray Terminal. The episode ends with Sabo running and shouting 'Run! Ace! Luffy!' as he's spotted by his father's men.",
+      "significance": "This demonstrates Sabo's courage and loyalty, showing that even the threat of death won't stop him from trying to save his brothers. It sets up the climactic events of the next episode where the fire will begin. Sabo's desperate run symbolizes his final rejection of noble society and his choice to stand with his true family, even if it costs him everything.",
+      "characterIds": ["sabo-young"],
+      "locationIds": ["high-town-goa", "gray-terminal"],
+      "quotes": [
+        {
+          "text": "Run! Ace! Luffy!",
+          "speaker": "Sabo",
+          "context": "Sabo's desperate cry as he races to warn his brothers about the impending fire"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [501, 502],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["sterry-young"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [501, 502, 503],
+    "payoffFrom": [497, 498, 499],
+    "thematicLinks": [504, 505, 589, 906]
+  },
+  "quotes": [
+    {
+      "text": "I'll go back... if you promise not to hurt them!",
+      "speaker": "Sabo",
+      "context": "Sabo sacrificing his freedom to save Ace and Luffy",
+      "timestamp": "12:15"
+    },
+    {
+      "text": "It was decided months ago in the upper echelon to set the Gray Terminal on fire the next day. The World Nobles are coming in three days, and they don't want them to see the eyesore of the country.",
+      "speaker": "Sterry",
+      "context": "Revealing the nobles' genocidal plot to Sabo",
+      "timestamp": "17:00"
+    },
+    {
+      "text": "Run! Ace! Luffy!",
+      "speaker": "Sabo",
+      "context": "Sabo's desperate cry as he races to warn his brothers",
+      "timestamp": "21:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Class Warfare and Social Injustice",
+      "description": "The episode starkly contrasts the opulent High Town with the squalid Gray Terminal, exposing how the nobility maintains its pristine image through the systematic oppression and elimination of the poor. The nobles' plan to literally burn away their 'shame' represents the ultimate expression of class-based dehumanization.",
+      "symbolism": "The Great Gate separating High Town from Gray Terminal symbolizes the insurmountable class barrier, while the planned fire represents how the powerful will destroy the powerless to maintain appearances.",
+      "culturalReferences": ["Class stratification in feudal societies", "Historical instances of forced displacement and genocide for urban beautification", "The concept of 'out of sight, out of mind' in social policy"]
+    },
+    {
+      "theme": "Sacrifice and Brotherhood",
+      "description": "Sabo's willingness to give up his freedom and dreams to protect Ace and Luffy demonstrates the true meaning of brotherhood. His sacrifice is made even more poignant by the fact that his brothers don't witness it, yet he makes it without hesitation or expectation of recognition.",
+      "symbolism": "The telescope Sabo found represents the dreams and adventures the brothers shared, which Sabo gives up to save his brothers' lives.",
+      "culturalReferences": ["The concept of self-sacrifice for family in Japanese culture", "The idea that true love requires sacrifice"]
+    },
+    {
+      "theme": "Moral Corruption of the Nobility",
+      "description": "The episode exposes how wealth and privilege can corrupt morality entirely. The nobles don't just tolerate evil—they orchestrate it while maintaining a facade of civilization and refinement. Their casual acceptance of genocide reveals complete moral bankruptcy.",
+      "symbolism": "High Town's beautiful appearance masks the rot within, while Gray Terminal's ugliness hides people with more humanity than the nobles.",
+      "culturalReferences": ["Critiques of aristocratic privilege", "The banality of evil", "Social Darwinism and its justifications for inequality"]
+    },
+    {
+      "theme": "The Illusion of Freedom",
+      "description": "Sabo's 'return' to his noble family is not freedom but imprisonment in luxury. Meanwhile, Ace and Luffy's 'freedom' in Gray Terminal is constrained by poverty and the machinations of the powerful. The episode questions what true freedom means.",
+      "symbolism": "Sabo's physical movement from Gray Terminal to High Town represents the loss of freedom despite material comfort, while the destroyed hideout symbolizes the fragility of freedom for the powerless.",
+      "culturalReferences": ["Gilded cage metaphor", "Freedom vs. security debates in political philosophy"]
+    },
+    {
+      "theme": "Genocide and State Violence",
+      "description": "The nobles' plan to burn Gray Terminal represents state-sanctioned genocide motivated by aesthetics and the desire to impress visiting World Nobles. The episode shows how systems of power can normalize atrocities when they serve the interests of the ruling class.",
+      "symbolism": "The fire that will consume Gray Terminal represents how the powerful literally erase the poor from existence when they become inconvenient.",
+      "culturalReferences": ["Historical instances of genocide and ethnic cleansing", "Urban renewal projects that displaced poor communities", "The Holocaust and other systematic eliminations of 'undesirables'"]
+    }
+  ],
+  "emotionalTone": ["Tense", "Heartbreaking", "Dark", "Foreboding", "Tragic"],
+  "characterSpotlights": [
+    {
+      "characterId": "sabo-young",
+      "role": "Protagonist and tragic hero",
+      "development": "This episode represents Sabo's greatest moment of sacrifice and his most painful confrontation with the corruption of noble society. His choice to surrender his freedom for his brothers defines his character and his eventual revolutionary path.",
+      "keyActions": [
+        "Gets captured by Bluejam Pirates while finding a telescope",
+        "Sacrifices his freedom to save Ace and Luffy's lives",
+        "Returns to High Town and meets his replacement, Sterry",
+        "Discovers the nobles' plot to burn Gray Terminal",
+        "Escapes to warn Ace and Luffy despite the danger"
+      ],
+      "quotes": ["I'll go back... if you promise not to hurt them!", "Run! Ace! Luffy!"]
+    },
+    {
+      "characterId": "sterry-young",
+      "role": "Antagonistic foil to Sabo",
+      "development": "Sterry is introduced as Sabo's replacement, an ambitious boy molded by noble society into the perfect heir. His casual revelation of the genocide plot shows how thoroughly he's absorbed noble values, demonstrating what Sabo would have become had he stayed.",
+      "keyActions": [
+        "Debuts as Sabo's adopted brother",
+        "Acts respectfully in front of parents while showing contempt for Sabo privately",
+        "Casually reveals the plan to burn Gray Terminal",
+        "Demonstrates complete indifference to mass murder"
+      ],
+      "quotes": ["It was decided months ago in the upper echelon to set the Gray Terminal on fire the next day."]
+    },
+    {
+      "characterId": "outlook-iii",
+      "role": "Antagonist and embodiment of noble corruption",
+      "development": "Outlook III is shown as a father who views his son as property and an asset rather than a person. His hiring of the Bluejam Pirates and his involvement in the genocide plot establish him as a symbol of noble moral bankruptcy.",
+      "keyActions": [
+        "Hires Bluejam Pirates to capture his son and 'take care of' Ace and Luffy",
+        "Forces Sabo to return to High Town",
+        "Participates in discussions about the Gray Terminal burning",
+        "Shows complete indifference to his son's feelings and the lives of Gray Terminal residents"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "bluejam",
+      "role": "Antagonist and enforcer of noble will",
+      "development": "Bluejam is revealed as a tool of the nobles, willing to commit genocide in exchange for a promised title. His manipulation of Ace and Luffy shows his ruthless pragmatism, while his role highlights how the powerful use criminals to do their dirty work.",
+      "keyActions": [
+        "Captures Sabo, Ace, and Luffy on behalf of Outlook III",
+        "Reveals he was hired by Sabo's father",
+        "Accepts the job to burn down Gray Terminal",
+        "Manipulates Ace and Luffy into helping distribute explosives"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "ace-young",
+      "role": "Supporting character and victim of manipulation",
+      "development": "Ace is shown trusting Bluejam and unknowingly helping to set up the massacre. His inability to protect Sabo from being taken shows his powerlessness against the system despite his strength.",
+      "keyActions": [
+        "Attempts to rescue Sabo but is captured",
+        "Watches helplessly as Sabo is taken away",
+        "Agrees to work for Bluejam",
+        "Unknowingly helps distribute explosives throughout Gray Terminal"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "luffy-young",
+      "role": "Supporting character",
+      "development": "Young Luffy shows his loyalty by trying to help when Sabo is surrounded, but like Ace, he's powerless against the machinations of the nobles and is manipulated into helping Bluejam.",
+      "keyActions": [
+        "Arrives in a barrel to help Sabo but is captured",
+        "Agrees to work for Bluejam",
+        "Unknowingly helps move explosives around Gray Terminal"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends the emotional impact of Sabo's capture and his conversation with Outlook III, adding more dialogue and reaction shots to emphasize the tragedy of the moment.",
+      "episodeTimestamp": "10:00-12:15",
+      "mangaReference": "Chapter 585-586",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "The scene of Sabo questioning the High Town residents about the fire is expanded in the anime to show multiple conversations, emphasizing the systemic nature of the indifference.",
+      "episodeTimestamp": "19:30",
+      "mangaReference": "Chapter 586",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episode 500 is a milestone episode for One Piece, marking the series' 500th episode. To celebrate, Funimation uploaded episodes 1-202 on their official website for one week.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_500",
+          "title": "Episode 500 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-15"
+        }
+      ]
+    },
+    {
+      "fact": "This episode covers portions of manga chapters 585-586, specifically from the end of chapter 585 (pages 18-19) and the first half of chapter 586 (pages 2-12).",
+      "category": "MANGA_ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_500",
+          "title": "Episode 500 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-15"
+        }
+      ]
+    },
+    {
+      "fact": "The opening theme 'Fight Together' by Namie Amuro was the 14th opening of the One Piece anime and the last opening before the two-year time skip. It's considered one of the most emotional openings in the series.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Fight_Together",
+          "title": "Fight Together - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-15"
+        }
+      ]
+    },
+    {
+      "fact": "Sterry, who debuts in this episode, eventually becomes the King of Goa Kingdom after the suspicious deaths of the previous king and prince. His rise to power is revealed much later in the series.",
+      "category": "WORLD_BUILDING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Sterry",
+          "title": "Sterry - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-15"
+        }
+      ]
+    },
+    {
+      "fact": "The Gray Terminal burning plot in this episode is based on a real historical practice where cities would hide or remove poor populations before important visitors arrived, reflecting Oda's social commentary through One Piece.",
+      "category": "REAL_WORLD_INSPIRATION",
+      "sources": []
+    },
+    {
+      "fact": "This episode takes place entirely in flashback, as part of the Post-War Arc where Luffy remembers his childhood with Ace and Sabo while recovering from the trauma of Ace's death at Marineford.",
+      "category": "NARRATIVE_STRUCTURE",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Post-War_Arc",
+          "title": "Post-War Arc - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-15"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

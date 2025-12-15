@@ -1,0 +1,383 @@
+{
+  "episodeNumber": 503,
+  "episodeTitle": "Take Good Care of Him! A Letter from the Brother!",
+  "description": "Sabo's ship is destroyed by a Celestial Dragon. Ace and Dadan return from the Gray Terminal fire. When Dogra brings news of Sabo's death, Ace receives a final letter from his brother asking him to take care of Luffy. The two brothers grieve together and vow to live without regrets.",
+  "airDate": "2011-06-19",
+  "airDateJapan": "2011-06-19",
+  "airDateUS": "2011-06-18",
+  "arcName": "Post-War Arc",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Fight Together",
+    "artist": "Namie Amuro",
+    "episodeRange": [493, 516]
+  },
+  "endingSong": null,
+  "credits": {
+    "director": "Aya Komaki",
+    "screenplay": "Yoshiyuki Suga",
+    "artDirector": "Ryūji Yoshiike",
+    "animationDirector": "Toshio Deguchi",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Portgas D. Ace",
+        "actor": "Toshio Furukawa"
+      },
+      {
+        "character": "Sabo",
+        "actor": "Tōru Furuya"
+      },
+      {
+        "character": "Curly Dadan",
+        "actor": "Noriko Uemura"
+      },
+      {
+        "character": "Dogra",
+        "actor": "Yasuhiro Takato"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Portgas D. Ace",
+        "actor": "Travis Willingham"
+      },
+      {
+        "character": "Sabo",
+        "actor": "Vic Mignogna"
+      },
+      {
+        "character": "Curly Dadan",
+        "actor": "Pam Dougherty"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep503-event-001",
+      "episodeNumber": 503,
+      "timestamp": "02:30",
+      "eventType": "DEATH",
+      "severity": "CRITICAL",
+      "title": "Sabo's Ship Destroyed by Celestial Dragon",
+      "description": "Saint Jalmack, a Celestial Dragon, fires a bazooka at Sabo's small fishing boat as it passes his ship. The attack destroys Sabo's vessel and apparently kills him, witnessed by horrified onlookers at the port.",
+      "significance": "This tragic event marks Sabo's apparent death and demonstrates the absolute power and cruelty of the Celestial Dragons. It becomes a defining trauma for both Ace and Luffy, shaping their understanding of the world's injustice.",
+      "characterIds": ["sabo", "saint-jalmack"],
+      "locationIds": ["goa-kingdom-port"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [502],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep503-event-002",
+      "episodeNumber": 503,
+      "timestamp": "05:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Ace and Dadan Return from Gray Terminal",
+      "description": "After being trapped in the Gray Terminal fire, Ace and Dadan finally return to the mountain bandit hideout. Dadan is severely burned from running through the flames to create an escape path for herself and Ace after they defeated Bluejam.",
+      "significance": "Their safe return provides temporary relief to Luffy and the bandits, though this happiness is short-lived. Dadan's injuries demonstrate her deep love for Ace despite her tough exterior.",
+      "characterIds": ["ace", "dadan", "luffy", "magra"],
+      "locationIds": ["mt-colubo", "dadan-hideout"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [501, 502],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [501]
+    },
+    {
+      "id": "ep503-event-003",
+      "episodeNumber": 503,
+      "timestamp": "08:45",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Dogra Brings News of Sabo's Death",
+      "description": "Dogra returns from town with devastating news: Sabo's ship was destroyed by a Celestial Dragon and he is presumed dead. The news shocks everyone at the hideout, with Luffy unable to comprehend it and Ace overwhelmed with grief and rage.",
+      "significance": "This moment delivers the confirmation of Sabo's fate to the brothers, triggering intense emotional reactions. It reveals the powerlessness felt when facing the World Nobles and sets up Ace's rage-fueled response.",
+      "characterIds": ["dogra", "ace", "luffy", "dadan", "magra"],
+      "locationIds": ["dadan-hideout"],
+      "quotes": [
+        {
+          "text": "Sabo's ship... it was destroyed by a Celestial Dragon.",
+          "speaker": "Dogra",
+          "context": "Delivering the tragic news to Ace and Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [502],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep503-event-004",
+      "episodeNumber": 503,
+      "timestamp": "10:20",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Ace's Rage and Attempt to Attack the Celestial Dragon",
+      "description": "Consumed by rage and grief, Ace attacks Dogra for bringing the news and then tries to leave to kill the Celestial Dragon responsible for Sabo's death. Dadan and the bandits physically restrain him and tie him to a tree to prevent him from making a suicidal attempt.",
+      "significance": "This moment shows Ace's intense protective nature toward his brothers and his willingness to sacrifice himself for vengeance. Dadan's intervention saves Ace's life, as attacking a Celestial Dragon would have resulted in an Admiral being dispatched.",
+      "characterIds": ["ace", "dogra", "dadan", "magra"],
+      "locationIds": ["dadan-hideout"],
+      "quotes": [
+        {
+          "text": "I'm going to kill that Celestial Dragon!",
+          "speaker": "Ace",
+          "context": "Ace's grief-fueled rage after learning of Sabo's death"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep503-event-005",
+      "episodeNumber": 503,
+      "timestamp": "14:30",
+      "eventType": "TREASURE_DISCOVERY",
+      "severity": "CRITICAL",
+      "title": "Sabo's Final Letter Delivered to Ace",
+      "description": "Ace receives a letter from Sabo that was written before he set out to sea. The letter asks Ace to take care of Luffy and watch over their younger brother. Upon reading it, Ace breaks down in tears, finally allowing himself to grieve.",
+      "significance": "Sabo's letter becomes his final testament and binds Ace to his promise to protect Luffy. This letter deeply impacts Ace's future actions and his relationship with Luffy. The moment represents Sabo's enduring love for his brothers despite his apparent death.",
+      "characterIds": ["ace", "sabo", "luffy"],
+      "locationIds": ["dadan-hideout"],
+      "quotes": [
+        {
+          "text": "Take care of Luffy for me.",
+          "speaker": "Sabo",
+          "context": "Sabo's final written request to Ace in the letter"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [497, 498, 499, 500]
+    },
+    {
+      "id": "ep503-event-006",
+      "episodeNumber": 503,
+      "timestamp": "17:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Ace Consoles Luffy About Living Freely",
+      "description": "After both brothers grieve Sabo's death, Ace consoles Luffy and tells him they must live without regrets, something Sabo was unable to achieve. He encourages Luffy to live freely and pursue his dreams, honoring Sabo's memory.",
+      "significance": "This conversation establishes the brothers' resolve to live freely and without regrets, which becomes a core motivation for both characters. It shows Ace taking on the role Sabo requested and demonstrates the brothers' determination to honor their fallen brother's wishes.",
+      "characterIds": ["ace", "luffy"],
+      "locationIds": ["mt-colubo"],
+      "quotes": [
+        {
+          "text": "We have to live without regrets, Luffy. That's something Sabo couldn't do.",
+          "speaker": "Ace",
+          "context": "Ace consoling Luffy and encouraging him to live freely"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep503-event-007",
+      "episodeNumber": 503,
+      "timestamp": "19:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "The Brothers' Renewed Bond",
+      "description": "Through their shared grief over Sabo's death and Ace's promise to protect Luffy, the two remaining brothers strengthen their bond. They commit to living freely and achieving their dreams as a way to honor Sabo's memory.",
+      "significance": "This moment cements the deep brotherhood between Ace and Luffy that will define their relationship throughout the series. It establishes the emotional foundation for future events involving both characters.",
+      "characterIds": ["ace", "luffy", "sabo"],
+      "locationIds": ["mt-colubo"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [493, 494, 495, 496, 497, 498, 499, 500, 501, 502],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [504],
+    "payoffFrom": [501, 502],
+    "thematicLinks": [459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490]
+  },
+  "quotes": [
+    {
+      "text": "Sabo's ship... it was destroyed by a Celestial Dragon.",
+      "speaker": "Dogra",
+      "context": "Delivering tragic news to the brothers",
+      "timestamp": "08:45"
+    },
+    {
+      "text": "I'm going to kill that Celestial Dragon!",
+      "speaker": "Ace",
+      "context": "Ace's rage after learning of Sabo's death",
+      "timestamp": "10:20"
+    },
+    {
+      "text": "Take care of Luffy for me.",
+      "speaker": "Sabo",
+      "context": "Sabo's final letter to Ace",
+      "timestamp": "14:30"
+    },
+    {
+      "text": "We have to live without regrets, Luffy. That's something Sabo couldn't do.",
+      "speaker": "Ace",
+      "context": "Ace consoling Luffy about Sabo's death",
+      "timestamp": "17:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Brotherhood and Loss",
+      "description": "The episode explores the devastating impact of losing a loved one and how the bond between brothers can help them endure tragedy. Ace and Luffy's grief over Sabo demonstrates the depth of their connection.",
+      "symbolism": "Sabo's letter represents his enduring presence in their lives and his wishes for their future, serving as both a farewell and a promise.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Injustice and Powerlessness",
+      "description": "The Celestial Dragon's casual destruction of Sabo's ship exemplifies the absolute power of the World Nobles and the injustice inherent in the world's social structure. Ace's inability to seek revenge highlights the powerlessness of ordinary people against the system.",
+      "symbolism": "Saint Jalmack's attack on Sabo represents the World Government's oppression and the nobles' disregard for human life.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Living Without Regrets",
+      "description": "Ace encourages Luffy to live freely and without regrets, honoring Sabo's memory by achieving the freedom Sabo dreamed of but couldn't attain. This becomes a driving philosophy for both brothers.",
+      "symbolism": "The decision to live freely represents their rebellion against the system that killed Sabo and their determination to achieve their dreams.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Maternal Love and Sacrifice",
+      "description": "Dadan's severe burns from protecting Ace in the Gray Terminal fire demonstrate her deep love for the boys despite her tough bandit exterior. She risks her life to save Ace and later restrains him to prevent his suicide mission.",
+      "symbolism": "Dadan's scars represent the sacrifices made by those who truly care for the brothers.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tragic", "Devastating", "Grief-Stricken", "Bittersweet", "Resolute"],
+  "characterSpotlights": [
+    {
+      "characterId": "ace",
+      "role": "Primary emotional focus",
+      "development": "Ace experiences intense grief and rage over Sabo's death, but ultimately channels these emotions into a promise to protect Luffy and live without regrets. This episode shows his evolution from a grief-stricken boy to a protective older brother taking on Sabo's final request.",
+      "keyActions": [
+        "Returns safely from Gray Terminal fire with Dadan",
+        "Learns of Sabo's death from Dogra",
+        "Attacks Dogra in grief and rage",
+        "Attempts to kill the Celestial Dragon responsible",
+        "Receives Sabo's final letter",
+        "Breaks down crying over the letter",
+        "Consoles Luffy and encourages him to live freely"
+      ],
+      "quotes": [
+        "I'm going to kill that Celestial Dragon!",
+        "We have to live without regrets, Luffy. That's something Sabo couldn't do."
+      ]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Supporting emotional focus",
+      "development": "Luffy experiences profound grief over Sabo's death, unable to stop crying. Through Ace's consolation, he begins to understand the importance of living freely without regrets, which becomes a core part of his character.",
+      "keyActions": [
+        "Worried about Ace and Dadan before their return",
+        "Relieved when they return safely",
+        "Devastated by news of Sabo's death",
+        "Cannot stop crying",
+        "Receives comfort and guidance from Ace"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "dadan",
+      "role": "Supporting - maternal figure",
+      "development": "Dadan's severe burns and her actions to protect Ace demonstrate the depth of her love for the boys. Despite being a bandit, she serves as their true mother figure, willing to sacrifice herself for their safety.",
+      "keyActions": [
+        "Returns from Gray Terminal with severe burns",
+        "Ran through fire to create escape path for Ace",
+        "Physically restrains Ace to prevent his suicide mission",
+        "Ties Ace to tree to keep him safe"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "sabo",
+      "role": "Deceased - catalyst for events",
+      "development": "Though Sabo dies early in the episode, his final letter reveals his deep love for his brothers and his understanding of what they meant to each other. His death becomes the catalyst for Ace and Luffy's resolve to live freely.",
+      "keyActions": [
+        "Ship destroyed by Saint Jalmack",
+        "Apparently killed in the attack",
+        "Letter delivered to Ace posthumously"
+      ],
+      "quotes": [
+        "Take care of Luffy for me."
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends several emotional scenes, particularly Ace's grief and the brothers' consolation scene, adding more visual and musical emphasis compared to the manga panels.",
+      "episodeTimestamp": "14:30-19:30",
+      "mangaReference": "Chapters 588-589",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode aired on June 19, 2011 in Japan, exactly 3 years and 10 months after the manga chapter (588) depicting these events was first published on August 4, 2010.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_503",
+          "title": "Episode 503 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-15"
+        }
+      ]
+    },
+    {
+      "fact": "The episode achieved a TV rating of 10.2% and ranked #4 in viewership for its timeslot, demonstrating the emotional impact and popularity of the Sabo flashback arc.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_503",
+          "title": "Episode 503 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-15"
+        }
+      ]
+    },
+    {
+      "fact": "This episode is part of the Post-War Arc flashback sequence that ran from episodes 493-516, showing Luffy's childhood with Ace and Sabo as a way to deepen the emotional impact of Ace's death in the Marineford War.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "From episodes 279 to 1070, the One Piece anime did not include ending theme songs, so this episode has no ending theme despite the opening 'Fight Together' by Namie Amuro.",
+      "category": "MUSIC",
+      "sources": []
+    },
+    {
+      "fact": "Sabo's apparent death in this episode would remain canon until the Dressrosa Arc (episodes 629-746), when it's revealed he actually survived and was rescued by the Revolutionary Army.",
+      "category": "STORY",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

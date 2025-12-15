@@ -1,0 +1,124 @@
+[
+  {
+    "name": {
+      "english": "Gray Terminal",
+      "japanese": "グレイ・ターミナル",
+      "romanized": "Gurei Tāminaru"
+    },
+    "locationType": "SETTLEMENT",
+    "seaRegion": "EAST_BLUE",
+    "islandName": "Dawn Island",
+    "debutEpisode": 497,
+    "debutChapter": 582,
+    "description": "A massive slum district and junk heap on the outskirts of the Goa Kingdom, where society's outcasts and impoverished people live among piles of trash and discarded goods. The nobles view it as an eyesore and the people living there as 'trash' to be eliminated.",
+    "episodeAppearances": [501],
+    "keyEvents": [
+      {
+        "episodeNumber": 501,
+        "eventId": "ep501-event-001",
+        "eventType": "MAJOR_DECISION",
+        "title": "Nobles Order Gray Terminal Burned",
+        "description": "The nobles of the Goa Kingdom order the complete destruction of Gray Terminal by fire to prepare for a Celestial Dragon's visit.",
+        "significance": "Marks the beginning of a massacre and reveals the nobility's cruel disregard for human life.",
+        "timestamp": "03:15"
+      },
+      {
+        "episodeNumber": 501,
+        "eventId": "ep501-event-004",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Gray Terminal Fire Begins",
+        "description": "Bluejam's men set fire to the entire slum district, creating a massive inferno that traps thousands of residents with no escape.",
+        "significance": "A horrific act of mass murder that serves as a turning point for multiple characters and showcases the depths of the nobility's cruelty.",
+        "timestamp": "10:20"
+      },
+      {
+        "episodeNumber": 501,
+        "eventId": "ep501-event-008",
+        "eventType": "BATTLE_START",
+        "title": "Bluejam Confronts Ace and Luffy in Burning Gray Terminal",
+        "description": "In the midst of the fire, Bluejam finds Ace and Luffy and demands they reveal their treasure's location.",
+        "significance": "Sets up the climactic battle and Ace's first use of Conqueror's Haki.",
+        "timestamp": "19:20"
+      }
+    ],
+    "status": "DESTROYED",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 497,
+        "episodeEnd": 501,
+        "reason": "Gray Terminal functioned as a slum district until it was burned"
+      },
+      {
+        "status": "DESTROYED",
+        "episodeStart": 501,
+        "episodeEnd": "present",
+        "reason": "Completely destroyed by fire ordered by the Goa nobility"
+      }
+    ],
+    "parentLocation": "Dawn Island",
+    "childLocations": [],
+    "relatedCharacters": ["sabo", "ace", "luffy", "bluejam"],
+    "relatedCrews": ["bluejam-pirates", "dadan-family"],
+    "relatedArcs": ["Post-War Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Goa Kingdom",
+      "japanese": "ゴア王国",
+      "romanized": "Goa Ōkoku"
+    },
+    "locationType": "KINGDOM",
+    "seaRegion": "EAST_BLUE",
+    "islandName": "Dawn Island",
+    "debutEpisode": 324,
+    "debutChapter": 432,
+    "description": "Known as the 'most beautiful kingdom in the East Blue,' the Goa Kingdom is a highly stratified society with extreme class divisions. The nobility live in luxury within the walled city while the poor are segregated to Gray Terminal. The kingdom is known for its pristine appearance, which it maintains through brutal oppression and elimination of the poor.",
+    "episodeAppearances": [501],
+    "keyEvents": [
+      {
+        "episodeNumber": 501,
+        "eventId": "ep501-event-001",
+        "eventType": "MAJOR_DECISION",
+        "title": "Goa Nobility Orders Mass Murder of Gray Terminal Residents",
+        "description": "The King and nobles of Goa Kingdom order the burning of Gray Terminal and its residents to maintain appearances for a Celestial Dragon's visit.",
+        "significance": "Reveals the depths of the kingdom's corruption and the nobility's complete disregard for human life in favor of maintaining their pristine image.",
+        "timestamp": "03:15"
+      },
+      {
+        "episodeNumber": 501,
+        "eventId": "ep501-event-002",
+        "eventType": "MAJOR_DECISION",
+        "title": "Sabo Imprisoned by Noble Father",
+        "description": "Sabo is captured and imprisoned by his father within the noble district to prevent him from interfering with the Gray Terminal massacre.",
+        "significance": "Shows the oppressive control the nobility exerts even over their own children.",
+        "timestamp": "05:30"
+      },
+      {
+        "episodeNumber": 501,
+        "eventId": "ep501-event-006",
+        "eventType": "RELATIONSHIP_REVEAL",
+        "title": "Dragon Reveals He Was Born in Goa Kingdom",
+        "description": "Dragon tells Sabo that he too was born in the Goa Kingdom, explaining his understanding of its corruption.",
+        "significance": "Provides crucial backstory for Dragon's motivation to become a revolutionary and form the Revolutionary Army.",
+        "timestamp": "15:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 324,
+        "episodeEnd": "present",
+        "reason": "Kingdom continues to exist and function"
+      }
+    ],
+    "parentLocation": "Dawn Island",
+    "childLocations": ["Gray Terminal"],
+    "relatedCharacters": ["sabo", "outlook-iii", "dragon", "goa-king"],
+    "relatedCrews": [],
+    "relatedArcs": ["Post-War Arc"],
+    "images": []
+  }
+]

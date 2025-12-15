@@ -1,0 +1,455 @@
+{
+  "episodeNumber": 501,
+  "episodeTitle": "The Fire Has Been Set! The Gray Terminal in Crisis!",
+  "episodeTitleJapanese": "放たれた炎 グレイ・ターミナルの危機",
+  "episodeTitleRomanized": "Hanatareta Honō - Gurei Tāminaru no Kiki",
+  "description": "A devastating fire engulfs the Gray Terminal slum district as the nobles' cruel plan unfolds. Sabo desperately tries to warn his brothers and save the residents, but finds himself confronted by his father's men and the harsh reality of his world. Meanwhile, Ace and Luffy face off against the betrayed Bluejam Pirates.",
+  "airDate": "2011-06-05",
+  "airDateJapan": "2011-06-05",
+  "airDateUS": "2011-06-04",
+  "arcName": "Post-War Arc",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Fight Together",
+    "artist": "Namie Amuro",
+    "episodeRange": [493, 516]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Atsuko Kawamura",
+    "episodeDirector": "Yoshihiro Ueda",
+    "artDirector": "Ryūji Yoshiike",
+    "screenplay": "Jin Tanaka",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy (Young)",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Portgas D. Ace (Young)",
+        "actor": "Daisuke Sakaguchi"
+      },
+      {
+        "character": "Sabo (Young)",
+        "actor": "Junko Takeuchi"
+      },
+      {
+        "character": "Monkey D. Dragon",
+        "actor": "Hidekatsu Shibata"
+      },
+      {
+        "character": "Bluejam",
+        "actor": "Yūsei Oda"
+      },
+      {
+        "character": "Curly Dadan",
+        "actor": "Noriko Uemura"
+      },
+      {
+        "character": "Outlook III",
+        "actor": "Masaya Takatsuka"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy (Young)",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Portgas D. Ace (Young)",
+        "actor": "Chris Burnett"
+      },
+      {
+        "character": "Sabo (Young)",
+        "actor": "Morgan Lauré Garrett"
+      },
+      {
+        "character": "Monkey D. Dragon",
+        "actor": "Bryan Massey"
+      },
+      {
+        "character": "Bluejam",
+        "actor": "Kenny Green"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep501-event-001",
+      "episodeNumber": 501,
+      "timestamp": "03:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Nobles Order Gray Terminal Burned",
+      "description": "The nobles of the Goa Kingdom, in preparation for a Celestial Dragon's visit, order the complete destruction of Gray Terminal by fire. Bluejam and his crew are tasked with setting the blaze, with promises of nobility that will prove to be lies.",
+      "significance": "Reveals the depths of the nobility's cruelty and their willingness to murder an entire population to maintain appearances. This event catalyzes Sabo's eventual departure from the kingdom.",
+      "characterIds": ["bluejam", "goa-king"],
+      "locationIds": ["gray-terminal", "goa-kingdom"],
+      "crewIds": ["bluejam-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [500],
+      "payoffInEpisodes": [502, 503],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep501-event-002",
+      "episodeNumber": 501,
+      "timestamp": "05:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Sabo Recaptured by His Father",
+      "description": "After learning about the planned fire, Sabo rushes to warn Ace and Luffy but is intercepted and captured by his father Outlook III and his men. They forcibly take him back to his noble home.",
+      "significance": "Demonstrates the control and oppression Sabo faces from his noble family, preventing him from saving his brothers and the Gray Terminal residents.",
+      "characterIds": ["sabo", "outlook-iii"],
+      "locationIds": ["goa-kingdom"],
+      "quotes": [
+        {
+          "text": "Let me go! I have to warn Ace and Luffy!",
+          "speaker": "Sabo",
+          "context": "Sabo desperately tries to escape his father's men to warn his brothers"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [500],
+      "payoffInEpisodes": [502],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep501-event-003",
+      "episodeNumber": 501,
+      "timestamp": "07:45",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Sabo Imprisoned in Wine Cellar",
+      "description": "Sabo's father locks him in a wine cellar to prevent him from interfering with the nobility's plans. This scene, added by the anime, shows the extent of his father's control and Sabo's desperation to help others.",
+      "significance": "An anime-original scene that emphasizes Sabo's imprisonment and his family's complicity in the Gray Terminal massacre. Shows the stark class divide in the Goa Kingdom.",
+      "characterIds": ["sabo", "outlook-iii"],
+      "locationIds": ["goa-kingdom"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [500],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep501-event-004",
+      "episodeNumber": 501,
+      "timestamp": "10:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Gray Terminal Fire Begins",
+      "description": "Bluejam's men shoot flaming arrows at barrels of oil and explosives throughout Gray Terminal. The entire slum district is quickly engulfed in a massive inferno, trapping thousands of residents inside with no escape.",
+      "significance": "A horrific act of mass murder orchestrated by the nobility, representing one of the darkest moments in the Goa Kingdom's history and a turning point for multiple characters.",
+      "characterIds": ["bluejam"],
+      "locationIds": ["gray-terminal"],
+      "crewIds": ["bluejam-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [500],
+      "payoffInEpisodes": [502],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep501-event-005",
+      "episodeNumber": 501,
+      "timestamp": "12:50",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Sabo Escapes to Save Gray Terminal Residents",
+      "description": "Sabo breaks out of the wine cellar and races toward Gray Terminal's gates, desperately trying to warn the residents and help them escape. Despite his efforts, he finds the gates locked and residents trapped inside the burning slum.",
+      "significance": "Shows Sabo's compassion and moral courage, willing to defy his noble family to save the 'trash' of society. This moment defines his character and future path.",
+      "characterIds": ["sabo"],
+      "locationIds": ["gray-terminal", "goa-kingdom"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [500],
+      "payoffInEpisodes": [502],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep501-event-006",
+      "episodeNumber": 501,
+      "timestamp": "15:30",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Sabo Meets Dragon at the Gate",
+      "description": "At the locked gates of Gray Terminal, a beaten and desperate Sabo encounters a mysterious hooded figure who reveals himself to be Monkey D. Dragon. Sabo confides in him about the nobility's atrocities and expresses his shame at being born noble. Dragon reveals he too was born in the Goa Kingdom and sympathizes deeply with Sabo's plight.",
+      "significance": "First meeting between Dragon and Sabo, establishing a connection that will eventually lead to Sabo joining the Revolutionary Army. Dragon's shock at the kingdom's cruelty reinforces his revolutionary ideals.",
+      "characterIds": ["sabo", "dragon"],
+      "locationIds": ["gray-terminal", "goa-kingdom"],
+      "quotes": [
+        {
+          "text": "This kingdom smells worse than Gray Terminal. I'm ashamed that I was born a noble.",
+          "speaker": "Sabo",
+          "context": "Sabo expressing his disgust with the nobility to Dragon"
+        },
+        {
+          "text": "I understand. I too was born in this kingdom.",
+          "speaker": "Dragon",
+          "context": "Dragon revealing his connection to the Goa Kingdom and sympathizing with Sabo"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [500],
+      "payoffInEpisodes": [504, 663],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep501-event-007",
+      "episodeNumber": 501,
+      "timestamp": "17:45",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Bluejam's Betrayal by the Nobility",
+      "description": "After successfully burning down Gray Terminal, Bluejam and his crew approach the gates expecting to be granted nobility as promised by the Goa King. However, the gates remain locked, and Bluejam realizes he and his men have been betrayed and left to die in the fire they started.",
+      "significance": "Demonstrates that the nobility will betray even their own tools, showing the depth of their corruption. This betrayal sets up Bluejam's desperate confrontation with Ace and Luffy.",
+      "characterIds": ["bluejam", "goa-king"],
+      "locationIds": ["gray-terminal"],
+      "crewIds": ["bluejam-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [500],
+      "payoffInEpisodes": [502],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep501-event-008",
+      "episodeNumber": 501,
+      "timestamp": "19:20",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Bluejam Confronts Ace and Luffy",
+      "description": "Enraged by his betrayal and desperate to escape the fire, Bluejam finds Ace and Luffy and demands they reveal the location of the treasure they stole from his crew. When the brothers refuse, Bluejam threatens them with violence.",
+      "significance": "Sets up the climactic battle where Ace will demonstrate his latent Conqueror's Haki for the first time, protecting Luffy from mortal danger.",
+      "characterIds": ["bluejam", "ace", "luffy"],
+      "locationIds": ["gray-terminal"],
+      "crewIds": ["bluejam-pirates"],
+      "quotes": [
+        {
+          "text": "Tell me where you hid the treasure, or I'll kill you both right here!",
+          "speaker": "Bluejam",
+          "context": "Bluejam threatening Ace and Luffy in desperation"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [500],
+      "payoffInEpisodes": [502],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep501-event-009",
+      "episodeNumber": 501,
+      "timestamp": "20:45",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Ace Unleashes Conqueror's Haki for the First Time",
+      "description": "When Bluejam's crew threatens to kill Luffy, 10-year-old Ace unconsciously releases a powerful wave of Conqueror's Haki (Supreme King Haki), instantly knocking out all of Bluejam's crew except Bluejam himself. This is the first time Ace displays this rare ability.",
+      "significance": "Marks Ace as one of the rare individuals with Conqueror's Haki, inherited from his father Gol D. Roger. This ability confirms Ace's potential as a future great pirate and foreshadows his significant role in the world. Only a select few possess this power.",
+      "characterIds": ["ace", "luffy", "bluejam"],
+      "locationIds": ["gray-terminal"],
+      "crewIds": ["bluejam-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [502],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep501-event-010",
+      "episodeNumber": 501,
+      "timestamp": "21:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Bluejam Captures Ace at Gunpoint",
+      "description": "Despite losing all his crew members to Ace's Haki, Bluejam himself resists the effect and retaliates by grabbing Ace and holding a gun to his head. The episode ends with Ace and Luffy in mortal danger, surrounded by flames.",
+      "significance": "Creates a cliffhanger ending that sets up the next episode's dramatic rescue and battle. Shows that Conqueror's Haki alone isn't enough against determined enemies with strong will.",
+      "characterIds": ["bluejam", "ace", "luffy"],
+      "locationIds": ["gray-terminal"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [500],
+      "payoffInEpisodes": [502],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["ahho-zurako", "ahho-desunen-ix"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["conquerors-haki-ace"]
+  },
+  "episodeRelationships": {
+    "setupFor": [502, 503],
+    "payoffFrom": [500],
+    "thematicLinks": [497, 498, 499, 500]
+  },
+  "quotes": [
+    {
+      "text": "This kingdom smells worse than Gray Terminal. I'm ashamed that I was born a noble.",
+      "speaker": "Sabo",
+      "context": "Sabo expressing his disgust with the nobility to Dragon",
+      "timestamp": "15:30"
+    },
+    {
+      "text": "I understand. I too was born in this kingdom.",
+      "speaker": "Dragon",
+      "context": "Dragon revealing his connection to the Goa Kingdom",
+      "timestamp": "15:45"
+    },
+    {
+      "text": "Tell me where you hid the treasure, or I'll kill you both right here!",
+      "speaker": "Bluejam",
+      "context": "Bluejam threatening Ace and Luffy after being betrayed",
+      "timestamp": "19:20"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Class Divide and Social Injustice",
+      "description": "The episode starkly portrays the brutal class system of the Goa Kingdom, where nobles are willing to commit mass murder to maintain appearances and social order. The Gray Terminal represents society's outcasts, deemed 'trash' by the privileged class.",
+      "symbolism": "The fire itself symbolizes the nobility's attempt to erase poverty and 'undesirables' rather than address systemic inequality. The locked gates represent the insurmountable barriers between social classes.",
+      "culturalReferences": ["Social stratification and class warfare", "The burning of slums for urban 'beautification' echoes real-world gentrification and displacement"]
+    },
+    {
+      "theme": "Freedom vs. Oppression",
+      "description": "Sabo's desperate attempt to save Gray Terminal residents despite his noble birth represents the fight for freedom against systematic oppression. Dragon's presence reinforces this theme as the leader of the Revolutionary Army.",
+      "symbolism": "The wine cellar prison represents the gilded cage of nobility, while the burning Gray Terminal represents the violent oppression of the lower class.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Inherited Will and Destiny",
+      "description": "Ace's manifestation of Conqueror's Haki at age 10 demonstrates his inherited potential from his father Gol D. Roger, showing that greatness and power can be passed down even when the inheritor doesn't know their lineage.",
+      "symbolism": "The Conqueror's Haki is a physical manifestation of inherited will and kingly ambition.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Moral Courage and Compassion",
+      "description": "Sabo's willingness to defy his father and risk everything to save people deemed 'trash' by society demonstrates true nobility of character over nobility of birth.",
+      "symbolism": "Sabo's beaten and bloodied state from trying to help others contrasts with his clean noble upbringing, showing that true worth comes from actions, not status.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tragic", "Desperate", "Intense", "Dark", "Emotional"],
+  "characterSpotlights": [
+    {
+      "characterId": "sabo",
+      "role": "Emotional center and moral compass",
+      "development": "This episode showcases Sabo's deep compassion and moral courage as he desperately tries to save the Gray Terminal residents despite his noble status. His shame at being born noble and his meeting with Dragon sets up his future as a Revolutionary.",
+      "keyActions": [
+        "Attempts to warn Ace and Luffy about the fire",
+        "Gets captured and imprisoned by his father",
+        "Escapes and rushes to help Gray Terminal residents",
+        "Encounters Dragon and expresses his shame at the nobility's actions"
+      ],
+      "quotes": ["This kingdom smells worse than Gray Terminal. I'm ashamed that I was born a noble."]
+    },
+    {
+      "characterId": "ace",
+      "role": "Protector and latent powerhouse",
+      "development": "Ace demonstrates his inherited Conqueror's Haki for the first time when protecting Luffy, showing his potential as someone with the qualities of a king and confirming his connection to his father's legacy.",
+      "keyActions": [
+        "Refuses to reveal treasure location to Bluejam",
+        "Unconsciously unleashes Conqueror's Haki to protect Luffy",
+        "Knocks out all of Bluejam's crew with his Haki"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "dragon",
+      "role": "Mysterious revolutionary observer",
+      "development": "Dragon's encounter with Sabo and his revelation about being born in the Goa Kingdom provides insight into what may have motivated him to become a revolutionary. His sympathy for Sabo foreshadows their future relationship.",
+      "keyActions": [
+        "Observes the Gray Terminal fire",
+        "Meets and consoles Sabo at the gate",
+        "Reveals his own origin in the Goa Kingdom"
+      ],
+      "quotes": ["I understand. I too was born in this kingdom."]
+    },
+    {
+      "characterId": "bluejam",
+      "role": "Antagonist and cautionary tale",
+      "development": "Bluejam's betrayal by the nobles demonstrates that even those who serve the corrupt system are ultimately disposable. His desperation and rage drive the episode's climactic confrontation.",
+      "keyActions": [
+        "Orders his crew to set Gray Terminal on fire",
+        "Discovers he's been betrayed by the nobles",
+        "Confronts Ace and Luffy demanding treasure",
+        "Captures Ace at gunpoint after resisting his Haki"
+      ],
+      "quotes": ["Tell me where you hid the treasure, or I'll kill you both right here!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime added an extended scene of Sabo being imprisoned in a wine cellar by his father, which was not shown in the manga.",
+      "episodeTimestamp": "07:45",
+      "mangaReference": "Chapter 586",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "The anime expanded Sabo's attempts to rescue Gray Terminal residents at the gate with more detail than the manga provided.",
+      "episodeTimestamp": "12:50",
+      "mangaReference": "Chapter 586",
+      "type": "EXPANDED_SCENE"
+    },
+    {
+      "difference": "Additional scenes showing the fire being set with flaming arrows and barrels were added for dramatic effect.",
+      "episodeTimestamp": "10:20",
+      "mangaReference": "Chapter 586",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the first chronological appearance of Ace using Conqueror's Haki, though it's shown in flashback. He was only 10 years old at the time.",
+      "category": "POWER_SYSTEM",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_501",
+          "title": "Episode 501 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-15"
+        }
+      ]
+    },
+    {
+      "fact": "The episode adapts portions of manga chapters 586-587, part of the Post-War Arc which was one of the most emotionally intense arcs in One Piece.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_501",
+          "title": "Episode 501 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-15"
+        }
+      ]
+    },
+    {
+      "fact": "Dragon's revelation that he was born in the Goa Kingdom is significant backstory that helps explain his motivation for forming the Revolutionary Army.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "The opening theme 'Fight Together' by Namie Amuro was particularly fitting for this arc, as it deals with the themes of brotherhood and standing together through hardship.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Fight_Together",
+          "title": "Fight Together - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-15"
+        }
+      ]
+    },
+    {
+      "fact": "This episode originally aired in Japan on June 5, 2011, and was simulcast in the US on June 4, 2011 (due to time zone difference), showing Funimation's commitment to same-day releases during this period.",
+      "category": "PRODUCTION",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

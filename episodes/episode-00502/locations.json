@@ -1,0 +1,142 @@
+[
+  {
+    "name": {
+      "english": "Gray Terminal",
+      "japanese": "グレイ・ターミナル",
+      "romanized": "Gurei Tāminaru"
+    },
+    "locationType": "JUNKYARD",
+    "seaRegion": "EAST_BLUE",
+    "islandName": "Dawn Island",
+    "debutEpisode": 493,
+    "debutChapter": 582,
+    "description": "A massive junkyard and slum outside the walls of Goa Kingdom where the poorest residents live among trash and waste. The Gray Terminal was intentionally burned by the nobles to 'clean up' before a Celestial Dragon's visit.",
+    "episodeAppearances": [502],
+    "keyEvents": [
+      {
+        "episodeNumber": 502,
+        "eventId": "ep502-event-002",
+        "eventType": "BATTLE_START",
+        "title": "Dadan and Ace vs Bluejam in Gray Terminal",
+        "description": "Dadan and Ace stay behind to fight Bluejam in the burning Gray Terminal while Luffy and the others escape.",
+        "significance": "The climactic battle between Dadan, Ace, and Bluejam takes place in the burning ruins of the Gray Terminal.",
+        "timestamp": "05:45"
+      },
+      {
+        "episodeNumber": 502,
+        "eventId": "ep502-event-003",
+        "eventType": "LOCATION_DEPARTURE",
+        "title": "Luffy Escapes Gray Terminal",
+        "description": "Luffy and the Dadan Family bandits escape from the burning Gray Terminal.",
+        "significance": "Luffy's escape ensures his safety during the fire.",
+        "timestamp": "08:30"
+      },
+      {
+        "episodeNumber": 502,
+        "eventId": "ep502-event-004",
+        "eventType": "WORLD_LORE",
+        "title": "Revolutionary Army Rescues Gray Terminal Residents",
+        "description": "Dragon, Kuma, and Ivankov create a wind path to save the Gray Terminal residents trapped in the flames.",
+        "significance": "Demonstrates the Revolutionary Army's mission and Dragon's powers.",
+        "timestamp": "11:20"
+      },
+      {
+        "episodeNumber": 502,
+        "eventId": "ep502-event-010",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Gray Terminal Burns Completely",
+        "description": "The fire completely engulfs and destroys the Gray Terminal as part of the Goa Kingdom nobles' plan to 'clean up' before the Celestial Dragon's visit.",
+        "significance": "Shows the cruelty of the nobles willing to burn alive the poor to maintain appearances.",
+        "timestamp": "21:00"
+      }
+    ],
+    "status": "DESTROYED",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 493,
+        "episodeEnd": 501,
+        "reason": "Functioning as a junkyard and slum"
+      },
+      {
+        "status": "DESTROYED",
+        "episodeStart": 502,
+        "episodeEnd": "present",
+        "reason": "Burned down by the Goa Kingdom nobles"
+      }
+    ],
+    "parentLocation": "Dawn Island",
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "ace", "sabo", "dadan", "bluejam", "dragon", "kuma", "ivankov"],
+    "relatedCrews": ["dadan-family", "bluejam-pirates", "revolutionary-army"],
+    "relatedArcs": ["Post-War Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Goa Kingdom",
+      "japanese": "ゴア王国",
+      "romanized": "Goa Ōkoku"
+    },
+    "locationType": "KINGDOM",
+    "seaRegion": "EAST_BLUE",
+    "islandName": "Dawn Island",
+    "debutEpisode": 493,
+    "debutChapter": 582,
+    "description": "A kingdom on Dawn Island known as the 'most beautiful kingdom in East Blue' due to its practice of hiding poverty and waste in the Gray Terminal outside its walls. The kingdom is ruled by a corrupt nobility that values appearances over human life.",
+    "episodeAppearances": [502],
+    "keyEvents": [
+      {
+        "episodeNumber": 502,
+        "eventId": "ep502-event-001",
+        "eventType": "MAJOR_DECISION",
+        "title": "Sabo Confined in Goa Kingdom",
+        "description": "Sabo is confined by his noble family with guards to prevent his escape from the kingdom.",
+        "significance": "Shows the oppressive control of the Goa Kingdom nobility.",
+        "timestamp": "03:15"
+      },
+      {
+        "episodeNumber": 502,
+        "eventId": "ep502-event-005",
+        "eventType": "MAJOR_DECISION",
+        "title": "Sabo Escapes Goa Kingdom",
+        "description": "Sabo steals a fishing boat and sails away from Goa Kingdom on the day the Celestial Dragon arrives.",
+        "significance": "Sabo's final departure from the kingdom and his noble family.",
+        "timestamp": "14:10"
+      },
+      {
+        "episodeNumber": 502,
+        "eventId": "ep502-event-006",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Saint Jalmack Arrives in Goa Kingdom",
+        "description": "Celestial Dragon Saint Jalmack arrives in Goa Kingdom on his massive ship for a visit.",
+        "significance": "The Celestial Dragon's visit is the reason the nobles burned the Gray Terminal.",
+        "timestamp": "16:45"
+      },
+      {
+        "episodeNumber": 502,
+        "eventId": "ep502-event-007",
+        "eventType": "DEATH",
+        "title": "Jalmack Shoots Down Sabo Near Goa Kingdom",
+        "description": "As Sabo sails away from Goa Kingdom, Saint Jalmack shoots down his boat with a bazooka for crossing in front of his ship.",
+        "significance": "The tragic event that appears to kill Sabo and demonstrates Celestial Dragon cruelty.",
+        "timestamp": "17:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 493,
+        "episodeEnd": "present",
+        "reason": "Kingdom continues to exist after the Gray Terminal incident"
+      }
+    ],
+    "parentLocation": "Dawn Island",
+    "childLocations": ["Gray Terminal"],
+    "relatedCharacters": ["luffy", "ace", "sabo", "outlook-iii", "didit", "sterry", "jalmack"],
+    "relatedCrews": [],
+    "relatedArcs": ["Post-War Arc"],
+    "images": []
+  }
+]
