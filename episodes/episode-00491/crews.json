@@ -1,0 +1,140 @@
+[
+  {
+    "name": {
+      "english": "Heart Pirates",
+      "japanese": "ハートの海賊団",
+      "romanized": "Hāto no Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "trafalgar-law",
+    "debutEpisode": 392,
+    "debutChapter": 498,
+    "episodeAppearances": [491],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 491,
+        "eventId": "ep491-event-003",
+        "momentType": "LOCATION_ARRIVAL",
+        "title": "Heart Pirates Arrive at Amazon Lily",
+        "description": "The Heart Pirates arrive at Amazon Lily with the unconscious Luffy aboard their submarine, meeting with the Kuja Pirates' ship.",
+        "significance": "Shows Law's commitment to helping Luffy recover from the Marineford War.",
+        "timestamp": "05:30"
+      },
+      {
+        "episodeNumber": 491,
+        "eventId": "ep491-event-006",
+        "momentType": "MAJOR_DECISION",
+        "title": "Heart Pirates Permitted to Dock at Amazon Lily",
+        "description": "After negotiations between Hancock and Nyon, the Heart Pirates are allowed to dock at the bay of Amazon Lily despite Kuja laws against men.",
+        "significance": "Demonstrates the unusual cooperation and the seriousness of Luffy's condition.",
+        "timestamp": "10:30"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Polar Tang",
+        "episodeAcquired": 392,
+        "episodeLost": null,
+        "description": "The Heart Pirates' submarine, which was partially destroyed when Luffy awakened"
+      }
+    ],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull with a fur hat bearing two spotted circles",
+      "episodeFirstSeen": 392,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": ["straw-hat-pirates"],
+      "enemies": [],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Kuja Pirates",
+      "japanese": "九蛇海賊団",
+      "romanized": "Kuja Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "boa-hancock",
+    "debutEpisode": 408,
+    "debutChapter": 516,
+    "episodeAppearances": [491],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 491,
+        "eventId": "ep491-event-003",
+        "momentType": "LOCATION_ARRIVAL",
+        "title": "Kuja Pirates Return to Amazon Lily",
+        "description": "The Kuja Pirates return to Amazon Lily with Boa Hancock, bringing the unconscious Luffy for treatment.",
+        "significance": "Shows Hancock's use of her position to help Luffy.",
+        "timestamp": "05:30"
+      }
+    ],
+    "ships": [],
+    "bases": ["Amazon Lily"],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "Nine snake-like creatures forming a pattern",
+      "episodeFirstSeen": 408,
+      "imageUrl": ""
+    },
+    "mainColor": "#FF1493",
+    "relationships": {
+      "allies": [],
+      "enemies": [],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Brownbeard Pirates",
+      "japanese": "茶ひげ海賊団",
+      "romanized": "Chahige Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "brownbeard",
+    "debutEpisode": 491,
+    "debutChapter": 581,
+    "episodeAppearances": [491],
+    "members": [
+      {
+        "characterId": "brownbeard",
+        "role": "Captain",
+        "episodeJoined": 491,
+        "episodeLeft": null,
+        "joinCircumstances": "Leader of the crew that seized Foodvalten Island"
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 491,
+        "eventId": "ep491-event-001",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Brownbeard Pirates Seize Foodvalten",
+        "description": "The Brownbeard Pirates take over Foodvalten Island after Whitebeard's death, with Brownbeard declaring himself the new ruler.",
+        "significance": "First appearance of the crew, showing opportunistic pirates taking advantage of the power vacuum.",
+        "timestamp": "02:15"
+      }
+    ],
+    "ships": [],
+    "bases": ["Foodvalten Island"],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "Unknown",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "",
+    "relationships": {
+      "allies": [],
+      "enemies": [],
+      "parentOrganization": null
+    }
+  }
+]

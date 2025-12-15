@@ -1,0 +1,405 @@
+{
+  "episodeNumber": 495,
+  "episodeTitle": "I Won't Run - Ace's Desperate Rescue Operation",
+  "description": "In a flashback to their childhood, Ace and Sabo rescue young Luffy from the brutal interrogation by Porchemy. Despite being tortured, Luffy refuses to betray his friends. After defeating Porchemy, the three boys begin to bond as brothers, and Sabo decides to join the Dadan Family.",
+  "airDate": "2011-04-24",
+  "airDateJapan": "2011-04-24",
+  "airDateUS": "2011-04-23",
+  "arcName": "Post-War Arc",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Fight Together",
+    "artist": "Namie Amuro",
+    "episodeRange": [493, 516]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Yoshihiro Ueda",
+    "screenplayWriter": "Hirohiko Kamisaka",
+    "artDirector": "Ryūji Yoshiike",
+    "keyAnimators": ["Megumi Yamashita"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy (Young)",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Portgas D. Ace (Young)",
+        "actor": "Toshio Furukawa"
+      },
+      {
+        "character": "Sabo (Young)",
+        "actor": "Junko Takeuchi"
+      },
+      {
+        "character": "Porchemy",
+        "actor": "Masashi Sugawara"
+      },
+      {
+        "character": "Bluejam",
+        "actor": "Keiichi Sonobe"
+      },
+      {
+        "character": "Curly Dadan",
+        "actor": "Noriko Uemura"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy (Young)",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Portgas D. Ace (Young)",
+        "actor": "Chris Burnett"
+      },
+      {
+        "character": "Sabo (Young)",
+        "actor": "Morgan Lauré Garrett"
+      },
+      {
+        "character": "Porchemy",
+        "actor": "Patrick Camacho"
+      },
+      {
+        "character": "Bluejam",
+        "actor": "John Swasey"
+      },
+      {
+        "character": "Curly Dadan",
+        "actor": "Trina Nishimura"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep495-event-001",
+      "episodeNumber": 495,
+      "timestamp": "05:30",
+      "eventType": "VILLAIN_ACTION",
+      "severity": "MAJOR",
+      "title": "Porchemy Tortures Luffy",
+      "description": "Porchemy brutally interrogates and tortures seven-year-old Luffy at an abandoned ship in Gray Terminal, using spiked gloves and other torture methods to extract information about the treasure stolen by Ace and Sabo. Despite the extreme pain and violence, Luffy refuses to say anything about his friends.",
+      "significance": "This scene establishes Luffy's core character trait of absolute loyalty to his friends, even as a child. His refusal to betray Ace and Sabo despite torture demonstrates the strength of character that defines him throughout the entire series. This moment is what convinces Ace and Sabo that Luffy is worthy of their friendship.",
+      "characterIds": ["luffy", "porchemy"],
+      "locationIds": ["gray-terminal"],
+      "quotes": [
+        {
+          "text": "I won't tell you anything! Not even if you kill me!",
+          "speaker": "Luffy",
+          "context": "Luffy's defiant response to Porchemy's torture, refusing to betray Ace and Sabo"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [494],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep495-event-002",
+      "episodeNumber": 495,
+      "timestamp": "11:00",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Ace and Sabo Rescue Luffy",
+      "description": "Ace and Sabo arrive at the location where Porchemy is holding Luffy captive. They burst into the room and immediately engage in combat with Porchemy and his men to rescue Luffy.",
+      "significance": "This rescue operation marks the turning point in the relationship between Ace, Sabo, and Luffy. It shows that Ace and Sabo care enough about Luffy to risk their own safety, even though they had previously treated him as an annoyance.",
+      "characterIds": ["ace", "sabo", "luffy", "porchemy"],
+      "locationIds": ["gray-terminal"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [494],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep495-event-003",
+      "episodeNumber": 495,
+      "timestamp": "11:20",
+      "eventType": "CHARACTER_DEVELOPMENT",
+      "severity": "CRITICAL",
+      "title": "Ace Refuses to Run from a Fight",
+      "description": "When Sabo suggests they grab Luffy and escape, Ace refuses, declaring that he never runs away from a fight. He chooses to stay and confront Porchemy directly, even when outnumbered. This prompts Sabo to also stay and fight alongside Ace.",
+      "significance": "This is a defining moment that establishes Ace's core philosophy: he never runs from a fight. This character trait becomes central to Ace's identity and ultimately leads to his fate at Marineford when he turns back to face Akainu's insult about Whitebeard. This flashback scene provides crucial context for understanding Ace's later actions.",
+      "characterIds": ["ace", "sabo"],
+      "locationIds": ["gray-terminal"],
+      "quotes": [
+        {
+          "text": "I never run away from a fight!",
+          "speaker": "Ace",
+          "context": "Ace's response when Sabo suggests they escape, establishing his core character philosophy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [483],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep495-event-004",
+      "episodeNumber": 495,
+      "timestamp": "13:45",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Ace and Sabo Defeat Porchemy",
+      "description": "Working together, Ace and Sabo successfully defeat Porchemy and his men, rescuing Luffy from captivity. The two young boys prove their strength by taking down a full-grown pirate with a bounty.",
+      "significance": "This victory demonstrates the teamwork and combat abilities of Ace and Sabo, and it serves as proof of Luffy's loyalty when they discover he didn't reveal their location despite being tortured.",
+      "characterIds": ["ace", "sabo", "porchemy", "luffy"],
+      "locationIds": ["gray-terminal"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [494],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep495-event-005",
+      "episodeNumber": 495,
+      "timestamp": "15:30",
+      "eventType": "DEATH",
+      "severity": "CRITICAL",
+      "title": "Bluejam Executes Porchemy",
+      "description": "After finding Porchemy badly wounded from his defeat by Ace and Sabo, Captain Bluejam is disgusted that his crew member was beaten by mere children. He shoots and kills Porchemy with a flintlock pistol as punishment for his failure.",
+      "significance": "This brutal execution establishes Bluejam as a ruthless and cruel antagonist who has no tolerance for failure. It demonstrates the harsh reality of the pirate world and foreshadows the danger that Ace, Sabo, and Luffy will face from Bluejam. Porchemy's death also shows that the stakes in this flashback arc are real and deadly.",
+      "characterIds": ["bluejam", "porchemy"],
+      "locationIds": ["gray-terminal"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep495-event-006",
+      "episodeNumber": 495,
+      "timestamp": "18:45",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "The Three Brothers Begin to Bond",
+      "description": "After the rescue, Ace and Sabo start to accept Luffy as a true friend. Luffy expresses his feelings to Ace, telling him not to die because he is his only family apart from Garp. The three boys begin to form the brotherly bond that will define their relationships.",
+      "significance": "This marks the official beginning of the brotherhood between Luffy, Ace, and Sabo - one of the most important relationships in the entire One Piece story. This bond will influence major events throughout the series, including Luffy's actions during the Marineford War.",
+      "characterIds": ["luffy", "ace", "sabo"],
+      "locationIds": ["gray-terminal"],
+      "quotes": [
+        {
+          "text": "Don't die! You're my only family apart from Garp!",
+          "speaker": "Luffy",
+          "context": "Luffy expressing his feelings to Ace, establishing their brotherly bond"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [494],
+      "payoffInEpisodes": [483, 663],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep495-event-007",
+      "episodeNumber": 495,
+      "timestamp": "20:15",
+      "eventType": "CREW_JOIN",
+      "severity": "MAJOR",
+      "title": "Sabo Joins the Dadan Family",
+      "description": "After the incident with Porchemy and the conflict with the Bluejam Pirates, Sabo makes the decision to stay at Mt. Colubo with the Dadan Family, joining Ace and Luffy. Curly Dadan accepts him into the household.",
+      "significance": "This decision cements Sabo's place in the trio and establishes Mt. Colubo as the home base where the three brothers will train and grow together. It represents Sabo choosing the life of freedom with his brothers over his previous circumstances.",
+      "characterIds": ["sabo", "dadan", "ace", "luffy"],
+      "locationIds": ["mt-colubo", "dadan-family-hideout"],
+      "crewIds": ["dadan-family"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [494],
+      "payoffInEpisodes": [496, 497],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep495-event-008",
+      "episodeNumber": 495,
+      "timestamp": "21:30",
+      "eventType": "FORESHADOWING",
+      "severity": "MAJOR",
+      "title": "Bluejam Pirates Continue Pursuit",
+      "description": "The episode concludes with the revelation that the Bluejam Pirates are still actively searching for Ace, Sabo, and Luffy, setting up ongoing conflict.",
+      "significance": "This sets up future confrontations between the three brothers and the Bluejam Pirates, maintaining tension and foreshadowing upcoming events in the flashback arc.",
+      "characterIds": ["bluejam"],
+      "locationIds": ["gray-terminal"],
+      "crewIds": ["bluejam-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [494],
+      "payoffInEpisodes": [496, 497, 498],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [496, 497, 498],
+    "payoffFrom": [494],
+    "thematicLinks": [483, 663]
+  },
+  "quotes": [
+    {
+      "text": "I won't tell you anything! Not even if you kill me!",
+      "speaker": "Luffy",
+      "context": "Luffy refusing to betray Ace and Sabo despite Porchemy's torture",
+      "timestamp": "05:30"
+    },
+    {
+      "text": "I never run away from a fight!",
+      "speaker": "Ace",
+      "context": "Ace declaring his philosophy when Sabo suggests they escape",
+      "timestamp": "11:20"
+    },
+    {
+      "text": "Don't die! You're my only family apart from Garp!",
+      "speaker": "Luffy",
+      "context": "Luffy expressing his feelings to Ace after being rescued",
+      "timestamp": "18:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Loyalty and Brotherhood",
+      "description": "The episode deeply explores the themes of loyalty and brotherhood. Luffy's refusal to betray Ace and Sabo despite torture, and Ace and Sabo's willingness to risk themselves to rescue Luffy, establish the unbreakable bond between the three brothers.",
+      "symbolism": "The torture scene symbolizes the trials that test true friendship, while the rescue represents the protective nature of brotherhood.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Never Running from Battle",
+      "description": "Ace's declaration that he never runs from a fight establishes a core philosophy that defines his character throughout the series. This theme foreshadows his ultimate fate at Marineford.",
+      "symbolism": "Ace's stance represents pride and determination, but also hints at the stubbornness that will later lead to tragedy.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Cruelty of the Pirate World",
+      "description": "Porchemy's torture of a child and Bluejam's execution of his own crew member demonstrate the harsh and brutal reality of the pirate world that Luffy will eventually enter.",
+      "symbolism": "The violence serves as a stark reminder of the dangers that await pirates, contrasting with the more lighthearted moments in the series.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Found Family",
+      "description": "Sabo's decision to join the Dadan Family and stay with Ace and Luffy represents the theme of found family - choosing your own family based on bonds rather than blood.",
+      "symbolism": "The Dadan Family hideout becomes a symbol of home and belonging for three boys who each have complicated family situations.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Intense", "Emotional", "Dramatic", "Heartwarming"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Torture victim who proves his loyalty",
+      "development": "This episode reveals Luffy's core character trait - absolute loyalty to his friends - was present even as a young child. His refusal to betray Ace and Sabo despite brutal torture establishes him as worthy of their brotherhood.",
+      "keyActions": [
+        "Endures torture without betraying Ace and Sabo",
+        "Expresses his feelings about family to Ace",
+        "Begins bonding with Ace and Sabo as true brothers"
+      ],
+      "quotes": ["I won't tell you anything! Not even if you kill me!", "Don't die! You're my only family apart from Garp!"]
+    },
+    {
+      "characterId": "ace",
+      "role": "Rescuer and brother figure",
+      "development": "Ace's philosophy of never running from a fight is established in this episode. This character-defining moment foreshadows his actions at Marineford and helps viewers understand why he made the choices he did. He also begins to truly accept Luffy as a brother.",
+      "keyActions": [
+        "Refuses to run away when rescuing Luffy",
+        "Defeats Porchemy alongside Sabo",
+        "Accepts Luffy as a true friend and brother"
+      ],
+      "quotes": ["I never run away from a fight!"]
+    },
+    {
+      "characterId": "sabo",
+      "role": "Loyal friend and new family member",
+      "development": "Sabo demonstrates his loyalty by fighting alongside Ace and makes the significant decision to leave his previous life behind to stay with the Dadan Family. This episode shows his commitment to his new brothers.",
+      "keyActions": [
+        "Helps Ace rescue and defeat Porchemy",
+        "Chooses to fight rather than flee",
+        "Decides to permanently join the Dadan Family"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "porchemy",
+      "role": "Antagonist and torture victim of circumstance",
+      "development": "Porchemy's character arc concludes in this episode. He goes from being a threatening torturer to a defeated pirate who is executed by his own captain, demonstrating the brutal hierarchy of the pirate world.",
+      "keyActions": [
+        "Tortures Luffy for information",
+        "Is defeated by Ace and Sabo",
+        "Is executed by Bluejam for his failure"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "bluejam",
+      "role": "Main antagonist and ruthless captain",
+      "development": "Bluejam is established as a truly cruel and dangerous villain through his execution of Porchemy. This act demonstrates that he is a serious threat to the three brothers and sets up future conflict.",
+      "keyActions": [
+        "Executes Porchemy for failing",
+        "Continues to hunt for Ace, Sabo, and Luffy"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended several scenes from the manga chapter, particularly the torture sequence and the emotional moments between the brothers, to add more dramatic impact.",
+      "episodeTimestamp": "Various",
+      "mangaReference": "Chapter 584, pages 8-16",
+      "type": "PACING_EXTENDED"
+    },
+    {
+      "difference": "Episode 495 covers approximately 8 pages of Chapter 584 (pages 8-16), which is typical pacing for One Piece anime during this period.",
+      "episodeTimestamp": "Full episode",
+      "mangaReference": "Chapter 584",
+      "type": "PACING_EXTENDED"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Pandaman makes a brief background appearance in a scene at Gray Terminal, continuing his tradition of cameo appearances throughout the series.",
+      "category": "EASTER_EGG",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_495",
+          "title": "Episode 495 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-15"
+        }
+      ]
+    },
+    {
+      "fact": "The preview for the next episode was shortened from its standard length in this episode.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_495",
+          "title": "Episode 495 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-15"
+        }
+      ]
+    },
+    {
+      "fact": "This episode is part of the flashback arc that was animated during the aftermath of the Marineford War, providing crucial backstory for Ace, Luffy, and Sabo's relationship.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "Ace's declaration 'I never run away from a fight' in this flashback episode directly foreshadows his actions in Episode 483 when he turns back to face Akainu at Marineford, leading to his death.",
+      "category": "FORESHADOWING",
+      "sources": []
+    },
+    {
+      "fact": "The episode aired in the US (via Funimation simulcast) one day before it aired in Japan, which was unusual for the time.",
+      "category": "RELEASE",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
