@@ -1,0 +1,456 @@
+{
+  "episodeNumber": 485,
+  "episodeTitle": "Ending the Matter! Whitebeard vs. The Blackbeard Pirates!",
+  "description": "The climactic confrontation between Whitebeard and Blackbeard unfolds at Marineford. Despite being mortally wounded, Whitebeard delivers a devastating blow to Blackbeard before succumbing to an overwhelming assault from the Blackbeard Pirates. In his final moments, Whitebeard declares that the One Piece is real, shaking the world with his last words before dying on his feet.",
+  "airDate": "2011-01-30",
+  "airDateJapan": "2011-01-30",
+  "airDateUS": "2011-01-29",
+  "arcName": "Marineford Arc",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "HIGH",
+  "openingSong": {
+    "title": "One day",
+    "artist": "The ROOTLESS",
+    "episodeRange": [459, 492]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Kenji Yokoyama",
+    "director": "Katsumi Tokoro",
+    "writer": "Hirohiko Kamisaka",
+    "artDirector": "Ryūji Yoshiike",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Edward Newgate (Whitebeard)",
+        "actor": "Kinryu Arimoto"
+      },
+      {
+        "character": "Marshall D. Teach (Blackbeard)",
+        "actor": "Akio Otsuka"
+      },
+      {
+        "character": "Marco",
+        "actor": "Masakazu Morita"
+      },
+      {
+        "character": "Sengoku",
+        "actor": "Takkō Ishimori"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Daisuke Gōri"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Edward Newgate (Whitebeard)",
+        "actor": "R. Bruce Elliott"
+      },
+      {
+        "character": "Marshall D. Teach (Blackbeard)",
+        "actor": "Cole Brown"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep485-event-001",
+      "episodeNumber": 485,
+      "timestamp": "03:45",
+      "eventType": "BATTLE_START",
+      "severity": "CRITICAL",
+      "title": "Whitebeard Confronts Blackbeard",
+      "description": "Despite his mortal wounds and weakened state, Whitebeard faces off against Marshall D. Teach (Blackbeard) and his crew. Whitebeard declares his intention to settle the score for the deaths of his sons Ace and Thatch.",
+      "significance": "The beginning of the final battle between the world's strongest man and the man who betrayed the Whitebeard Pirates.",
+      "characterIds": ["whitebeard", "blackbeard"],
+      "locationIds": ["marineford"],
+      "crewIds": ["whitebeard-pirates", "blackbeard-pirates"],
+      "quotes": [
+        {
+          "text": "Teach... You're the only one I won't call my son!",
+          "speaker": "Whitebeard",
+          "context": "Whitebeard expressing his hatred for Blackbeard's betrayal"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [483, 484],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [325, 459]
+    },
+    {
+      "id": "ep485-event-002",
+      "episodeNumber": 485,
+      "timestamp": "06:20",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Blackbeard Nullifies Whitebeard's Powers",
+      "description": "Blackbeard uses the Yami Yami no Mi's power to nullify Whitebeard's Gura Gura no Mi abilities, demonstrating his Devil Fruit's unique capability to negate other Devil Fruit powers through darkness.",
+      "significance": "Showcases the terrifying strategic advantage of the Yami Yami no Mi in combat against other Devil Fruit users.",
+      "characterIds": ["blackbeard", "whitebeard"],
+      "devilFruitIds": ["yami-yami-no-mi", "gura-gura-no-mi"],
+      "quotes": [
+        {
+          "text": "Your earthquake powers are useless against my darkness!",
+          "speaker": "Blackbeard",
+          "context": "Blackbeard boasting about his Devil Fruit advantage"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [325, 459],
+      "payoffInEpisodes": [486],
+      "callbacksToEpisodes": [325]
+    },
+    {
+      "id": "ep485-event-003",
+      "episodeNumber": 485,
+      "timestamp": "09:15",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Whitebeard's Bisento Strike",
+      "description": "Despite Blackbeard's darkness nullifying his Devil Fruit powers, Whitebeard delivers a devastating bisento slash to Blackbeard, cutting deep into his body and demonstrating that pure physical strength and haki can overcome Devil Fruit abilities.",
+      "significance": "Proves that Whitebeard's strength isn't solely dependent on his Devil Fruit, and shows the importance of haki and physical prowess in battle.",
+      "characterIds": ["whitebeard", "blackbeard"],
+      "quotes": [
+        {
+          "text": "You're a hundred years too early to kill me, Teach!",
+          "speaker": "Whitebeard",
+          "context": "Whitebeard striking Blackbeard with his bisento"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep485-event-004",
+      "episodeNumber": 485,
+      "timestamp": "11:45",
+      "eventType": "BATTLE_END",
+      "severity": "CRITICAL",
+      "title": "Blackbeard Pirates' Cowardly Assault",
+      "description": "The Blackbeard Pirates swarm Whitebeard, attacking him with guns and blades in a brutal, cowardly assault. Despite already being mortally wounded from his battle with the Marines and Akainu, Whitebeard endures the onslaught from multiple enemies at once.",
+      "significance": "Demonstrates the dishonorable tactics of the Blackbeard Pirates and highlights Whitebeard's incredible endurance even in his final moments.",
+      "characterIds": ["whitebeard", "blackbeard", "jesus-burgess", "van-augur", "doc-q", "laffitte", "shiryu"],
+      "crewIds": ["blackbeard-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep485-event-005",
+      "episodeNumber": 485,
+      "timestamp": "14:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Whitebeard's Memory of Roger",
+      "description": "In his final moments, Whitebeard reflects on his past encounters with Gol D. Roger and their conversations about the One Piece and the Will of D. This flashback provides insight into the relationship between the two legendary pirates.",
+      "significance": "Reveals the deep mutual respect between Whitebeard and Roger, and hints at Whitebeard's knowledge of the true history.",
+      "characterIds": ["whitebeard", "gol-d-roger"],
+      "quotes": [
+        {
+          "text": "You're not the one Roger was waiting for, Teach...",
+          "speaker": "Whitebeard",
+          "context": "Whitebeard rejecting Blackbeard as Roger's successor"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep485-event-006",
+      "episodeNumber": 485,
+      "timestamp": "16:15",
+      "eventType": "WORLD_LORE",
+      "severity": "ULTRA_SECRET",
+      "title": "Whitebeard Declares The One Piece Is Real",
+      "description": "With his dying breath, Whitebeard shouts to the world that the One Piece truly exists, fulfilling Gol D. Roger's will and reigniting the Great Pirate Era. His declaration is broadcast across the world, reaching Sabaody Archipelago and beyond.",
+      "significance": "This moment confirms the existence of the One Piece to the entire world and ensures that Roger's legacy and the Great Pirate Era will continue. It is one of the most pivotal moments in the entire series.",
+      "characterIds": ["whitebeard"],
+      "quotes": [
+        {
+          "text": "The One Piece... The One Piece is real!",
+          "speaker": "Whitebeard",
+          "context": "Whitebeard's final declaration to the world"
+        },
+        {
+          "text": "Someone will appear, carrying Ace's will... You may eradicate their bloodline, but their flame never dies... It has been passed down since ancient times... And one day, someone will appear bearing the history of all those decades... Sengoku... You people, the Marines, and the World Government... One day will face a battle that will engulf the entire world! That day will come!",
+          "speaker": "Whitebeard",
+          "context": "Whitebeard's prophecy about the future war"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [1, 400]
+    },
+    {
+      "id": "ep485-event-007",
+      "episodeNumber": 485,
+      "timestamp": "18:20",
+      "eventType": "DEATH",
+      "severity": "ULTRA_SECRET",
+      "title": "The Death of Edward Newgate (Whitebeard)",
+      "description": "Edward Newgate, known as Whitebeard, the World's Strongest Man, dies standing on his feet. He sustained 267 sword wounds, 152 gunshot wounds, and 46 cannonball wounds during the battle, yet his body never collapsed. Remarkably, there was not a single scar on his back, as he never ran from battle.",
+      "significance": "The death of one of the Four Emperors marks a major turning point in the world's power balance. Whitebeard's death standing up becomes legendary, cementing his status as the strongest pirate of his generation.",
+      "characterIds": ["whitebeard"],
+      "locationIds": ["marineford"],
+      "quotes": [
+        {
+          "text": "Thank you for loving me... this good-for-nothing father of yours. I have one last order for you all... You and I will now part ways! All of you, survive and return to the New World safely!",
+          "speaker": "Whitebeard",
+          "context": "Whitebeard's final words to his crew"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [151, 461, 484],
+      "payoffInEpisodes": [486, 487],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep485-event-008",
+      "episodeNumber": 485,
+      "timestamp": "19:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "CRITICAL",
+      "title": "Whitebeard Dies Without a Scar on His Back",
+      "description": "Marines and pirates alike observe in awe that despite all of Whitebeard's injuries, there is not a single wound on his back. This detail emphasizes that throughout his entire life as a pirate, Whitebeard never once fled from battle or turned his back on an enemy.",
+      "significance": "This iconic detail becomes part of Whitebeard's legend and represents the ideal of a true warrior who never retreats. It symbolizes honor, courage, and unwavering determination.",
+      "characterIds": ["whitebeard"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep485-event-009",
+      "episodeNumber": 485,
+      "timestamp": "20:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Whitebeard Pirates Mourn Their Captain",
+      "description": "The surviving members of the Whitebeard Pirates, including Marco and other division commanders, break down in tears as they witness the death of their beloved captain and father figure. Their collective grief showcases the deep bond between Whitebeard and his crew.",
+      "significance": "Demonstrates the familial nature of the Whitebeard Pirates and the profound impact of Whitebeard's death on those who called him their father.",
+      "characterIds": ["marco", "whitebeard"],
+      "crewIds": ["whitebeard-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [486],
+      "callbacksToEpisodes": [461, 462]
+    },
+    {
+      "id": "ep485-event-010",
+      "episodeNumber": 485,
+      "timestamp": "21:15",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "CRITICAL",
+      "title": "Whitebeard's Prophecy of a Great War",
+      "description": "Before dying, Whitebeard prophesies that when someone discovers the One Piece, it will turn the world upside down and lead to a massive war that will engulf the entire world, terrifying the World Government and Marines.",
+      "significance": "Foreshadows the final war arc and establishes that finding the One Piece will trigger world-changing events. This prophecy continues to loom over the series.",
+      "characterIds": ["whitebeard", "sengoku"],
+      "quotes": [
+        {
+          "text": "And when that treasure is found, the world will be turned upside down! Someone will find it! That day will come!",
+          "speaker": "Whitebeard",
+          "context": "Whitebeard's prophecy about the future"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [486, 487],
+    "payoffFrom": [483, 484],
+    "thematicLinks": [400, 461, 462]
+  },
+  "quotes": [
+    {
+      "text": "The One Piece... The One Piece is real!",
+      "speaker": "Whitebeard",
+      "context": "Whitebeard's legendary final declaration",
+      "timestamp": "16:15"
+    },
+    {
+      "text": "Thank you for loving me... this good-for-nothing father of yours.",
+      "speaker": "Whitebeard",
+      "context": "Whitebeard's final words to his crew",
+      "timestamp": "18:20"
+    },
+    {
+      "text": "You're not the one Roger was waiting for, Teach...",
+      "speaker": "Whitebeard",
+      "context": "Whitebeard denying Blackbeard as Roger's successor",
+      "timestamp": "14:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Legacy and Inherited Will",
+      "description": "Whitebeard's final words emphasize that Ace's will and the dreams of those who have fallen will be carried on by future generations. His declaration that the One Piece is real ensures Roger's legacy continues.",
+      "symbolism": "Whitebeard dying on his feet symbolizes his unbreakable will and serves as inspiration for the next generation of pirates.",
+      "culturalReferences": ["The concept of inherited will is central to One Piece's philosophy"]
+    },
+    {
+      "theme": "Family and Bonds",
+      "description": "Whitebeard's relationship with his crew as his sons is explored through his final moments, showing the depth of familial bonds that transcend blood.",
+      "symbolism": "Whitebeard's final words thanking his sons for loving him demonstrates the mutual love and respect between captain and crew.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Honor and Courage",
+      "description": "The revelation that Whitebeard has no scars on his back emphasizes his code of honor and his refusal to ever flee from battle, even in the face of certain death.",
+      "symbolism": "The unscarred back represents the ideal of a warrior who never retreats.",
+      "culturalReferences": ["This concept relates to samurai bushido code and honor"]
+    }
+  ],
+  "emotionalTone": ["Tragic", "Epic", "Inspirational", "Heartbreaking"],
+  "characterSpotlights": [
+    {
+      "characterId": "whitebeard",
+      "role": "Dying hero delivering final message",
+      "development": "Whitebeard's final moments showcase his strength, wisdom, and the depth of his character. His prophecy and declaration ensure his legacy will live on.",
+      "keyActions": [
+        "Battles Blackbeard despite mortal wounds",
+        "Strikes Blackbeard with his bisento",
+        "Declares the One Piece is real",
+        "Prophesies a great war",
+        "Thanks his sons and dies standing"
+      ],
+      "quotes": ["The One Piece... The One Piece is real!", "Thank you for loving me... this good-for-nothing father of yours."]
+    },
+    {
+      "characterId": "blackbeard",
+      "role": "Antagonist claiming his prize",
+      "development": "Blackbeard's ruthless nature is on full display as he and his crew brutally attack the dying Whitebeard. His rejection by Whitebeard as Roger's successor highlights his role as a dark reflection of the inherited will theme.",
+      "keyActions": [
+        "Uses Yami Yami no Mi to nullify Whitebeard's powers",
+        "Gets slashed by Whitebeard's bisento",
+        "Orders his crew to attack Whitebeard",
+        "Witnesses Whitebeard's final declaration"
+      ],
+      "quotes": ["Your earthquake powers are useless against my darkness!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "In the manga, Whitebeard had several swords stuck in his body piercing through to his back. In the anime, these were removed and his back remains visibly uninjured for censorship.",
+      "episodeTimestamp": "18:20",
+      "mangaReference": "Chapter 576",
+      "type": "CENSORSHIP"
+    },
+    {
+      "difference": "Blackbeard's bisento wound was less graphic in the anime compared to the manga version.",
+      "episodeTimestamp": "09:15",
+      "mangaReference": "Chapter 576",
+      "type": "CENSORSHIP"
+    },
+    {
+      "difference": "The anime added a visual effect of Whitebeard's body turning red with steam (similar to Luffy's Gear Second) to represent his fury and fighting spirit.",
+      "episodeTimestamp": "08:00",
+      "mangaReference": "Chapter 576",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "Whitebeard's final speech was extended in the anime with additional dialogue.",
+      "episodeTimestamp": "16:15",
+      "mangaReference": "Chapter 576",
+      "type": "ANIME_EXPANSION"
+    },
+    {
+      "difference": "Blackbeard's commentary on Whitebeard's dying words was added in the anime.",
+      "episodeTimestamp": "17:30",
+      "mangaReference": "Chapter 576",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "Jinbe briefly turning around when Whitebeard died was anime-original.",
+      "episodeTimestamp": "19:00",
+      "mangaReference": "Chapter 576",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "A recap showing all of Whitebeard's injuries (267 sword wounds, 152 gun wounds, 46 cannon shots) and his attacks on Akainu was added in the anime.",
+      "episodeTimestamp": "19:30",
+      "mangaReference": "Chapter 576",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "The episode did not include the usual opening narration, prioritizing Whitebeard's final moments instead.",
+      "episodeTimestamp": "00:00",
+      "mangaReference": "Chapter 576",
+      "type": "ANIME_PACING"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episode 485 received a TV rating of 10.4%, ranking 3rd for its timeslot that week in Japan.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_485",
+          "title": "Episode 485 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-15"
+        }
+      ]
+    },
+    {
+      "fact": "This episode adapts Chapter 576 pages 4-17, making it one of the slower-paced episodes to allow the emotional weight of Whitebeard's death to resonate.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_485",
+          "title": "Episode 485 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-15"
+        }
+      ]
+    },
+    {
+      "fact": "Whitebeard's declaration 'The One Piece is real!' became one of the most iconic and memed moments in One Piece history.",
+      "category": "CULTURAL_IMPACT",
+      "sources": []
+    },
+    {
+      "fact": "The detail about Whitebeard having no scars on his back became legendary among fans as a representation of his unwavering courage and honor.",
+      "category": "CHARACTER",
+      "sources": []
+    },
+    {
+      "fact": "As of this episode, the opening animation was updated to include the expanded Blackbeard Pirates crew, including the Level 6 Impel Down prisoners.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_485",
+          "title": "Episode 485 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-15"
+        }
+      ]
+    },
+    {
+      "fact": "Kinryu Arimoto, Whitebeard's voice actor, delivered one of his most memorable performances in this episode. He continued voicing the character until episode 962.",
+      "category": "VOICE_ACTING",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
