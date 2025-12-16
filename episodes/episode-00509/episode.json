@@ -1,0 +1,414 @@
+{
+  "episodeNumber": 509,
+  "episodeTitle": "Encounter! The Great Swordsman Mihawk! Zoro's Self-Willed Deadly Struggle!",
+  "description": "Zoro attempts to leave Kuraigana Island but faces humandrills who have learned his Three Sword Style. Brook is captured by the Longarm Tribe on Nakamura Island. Luffy decides to return to Marineford with Rayleigh's guidance.",
+  "airDate": "2011-08-07",
+  "airDateJapan": "2011-08-07",
+  "airDateUS": "2011-08-06",
+  "arcName": "Post-War Arc",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Fight Together",
+    "artist": "Namie Amuro",
+    "episodeRange": [493, 516]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Kenji Yokoyama",
+    "director": "Yoshihiro Ueda",
+    "screenplay": "Yoshiyuki Suga",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Dracule Mihawk",
+        "actor": "Takeshi Aono"
+      },
+      {
+        "character": "Perona",
+        "actor": "Kumiko Nishihara"
+      },
+      {
+        "character": "Brook",
+        "actor": "Chō"
+      },
+      {
+        "character": "Silvers Rayleigh",
+        "actor": "Keiichi Sonobe"
+      },
+      {
+        "character": "Boa Hancock",
+        "actor": "Kotono Mitsuishi"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Katsuhisa Hōki"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Dracule Mihawk",
+        "actor": "John Gremillion"
+      },
+      {
+        "character": "Perona",
+        "actor": "Felecia Angelle"
+      },
+      {
+        "character": "Brook",
+        "actor": "Ian Sinclair"
+      },
+      {
+        "character": "Silvers Rayleigh",
+        "actor": "Bruce Carey"
+      },
+      {
+        "character": "Boa Hancock",
+        "actor": "Lydia Mackay"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Daniel Baugh"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep509-event-001",
+      "episodeNumber": 509,
+      "timestamp": "03:15",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Perona Learns of Moria's Reported Death",
+      "description": "Perona is crying at Mihawk's castle after learning news reports of Gecko Moria's death at Marineford. Mihawk tries to reassure her that the reports may be false, as Moria was still alive when he left the Summit War.",
+      "significance": "Reveals Perona's deep emotional connection to Moria, whom she views as a father figure. Also establishes the uncertain fate of Gecko Moria following the war.",
+      "characterIds": ["perona", "mihawk", "gecko-moria"],
+      "locationIds": ["kuraigana-island"],
+      "quotes": [
+        {
+          "text": "Moria's death may not be for real. When I left the Summit War of Marineford, Moria was still alive.",
+          "speaker": "Mihawk",
+          "context": "Mihawk trying to comfort Perona about the news of Moria's death"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [483, 484],
+      "payoffInEpisodes": [581],
+      "callbacksToEpisodes": [483]
+    },
+    {
+      "id": "ep509-event-002",
+      "episodeNumber": 509,
+      "timestamp": "05:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Zoro Attempts to Leave Kuraigana Island",
+      "description": "Zoro asks Mihawk about news of Luffy and requests a way to leave the island. Mihawk tells him he knows nothing more about Luffy but provides Zoro with a small boat to escape.",
+      "significance": "Shows Zoro's immediate concern for his captain and his desire to reunite with the crew, setting up his confrontation with the humandrills.",
+      "characterIds": ["zoro", "mihawk"],
+      "locationIds": ["kuraigana-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [505, 506],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [505]
+    },
+    {
+      "id": "ep509-event-003",
+      "episodeNumber": 509,
+      "timestamp": "07:45",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Zoro Confronts the Humandrills",
+      "description": "While dragging his boat through the forest, Zoro is attacked by humandrills. He realizes with shock that the creatures have learned to copy his Three Sword Style technique.",
+      "significance": "First demonstration of the humandrills' unique ability to mimic combat techniques. Shows that Zoro faces a significant obstacle in leaving the island.",
+      "characterIds": ["zoro"],
+      "locationIds": ["kuraigana-island"],
+      "quotes": [
+        {
+          "text": "They've copied my own sword style... Three Sword Style!",
+          "speaker": "Zoro",
+          "context": "Zoro's shocked realization upon seeing the humandrills use his techniques"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [515],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep509-event-004",
+      "episodeNumber": 509,
+      "timestamp": "10:20",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Mihawk Explains the Humandrills' Origins",
+      "description": "Mihawk appears and explains to Zoro how the humandrills learned their violent behavior by observing humans. He reveals that the Shikkearu Kingdom had a major war years before he moved to the island, and the humandrills learned to fight and use weapons by watching.",
+      "significance": "Provides important world-building about Kuraigana Island's history and explains the humandrills' unique mimicry abilities. Also reveals information about the former Shikkearu Kingdom.",
+      "characterIds": ["mihawk", "zoro"],
+      "locationIds": ["kuraigana-island"],
+      "quotes": [
+        {
+          "text": "The humandrills learned their violent behavior by observing humans. The Shikkearu Kingdom had a big war a few years before I moved in, from which the humandrills learned how to fight and use weapons.",
+          "speaker": "Mihawk",
+          "context": "Explaining the history of Kuraigana Island and how the humandrills became fighters"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep509-event-005",
+      "episodeNumber": 509,
+      "timestamp": "12:40",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Zoro Refuses to Return to the Castle",
+      "description": "Mihawk tells Zoro to return to the castle and rest, but Zoro declines the invitation and continues fighting the humandrills, showing his determination.",
+      "significance": "Demonstrates Zoro's stubborn pride and determination to overcome obstacles through his own strength. This defiance sets up his eventual training under Mihawk.",
+      "characterIds": ["zoro", "mihawk"],
+      "locationIds": ["kuraigana-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [515],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep509-event-006",
+      "episodeNumber": 509,
+      "timestamp": "14:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Brook's Peace Attempt on Nakamura Island",
+      "description": "Brook attempts to make peace between the Longarm Tribe and the local cultists on Nakamura Island. He performs music and gives a speech about how fighting is pointless, inadvertently empowering the locals.",
+      "significance": "Shows Brook's pacifist nature and his musical talents. The scene is anime-original content that expands on Brook's situation during the crew's separation.",
+      "characterIds": ["brook"],
+      "locationIds": ["nakamura-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [506],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep509-event-007",
+      "episodeNumber": 509,
+      "timestamp": "16:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Introduction of the Longarm Tribe Kidnappers",
+      "description": "Members of the Longarm Tribe, including Sancrin, capture Brook despite his attempts at peaceful negotiation. They tie him up and take him away.",
+      "significance": "Sets up Brook's storyline during the timeskip where he becomes a famous rock star. The longarms who capture him will later become his managers.",
+      "characterIds": ["brook", "sancrin"],
+      "locationIds": ["nakamura-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [517],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep509-event-008",
+      "episodeNumber": 509,
+      "timestamp": "18:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Luffy Decides to Return to Marineford",
+      "description": "At Amazon Lily, Luffy agrees with Rayleigh's suggestion to return to Marineford, the place where his brother Ace died. He expresses his desire to see his crew.",
+      "significance": "This crucial decision sets up the iconic 3D2Y message that will signal the Straw Hats to wait two years before reuniting. It's a turning point leading to the timeskip.",
+      "characterIds": ["luffy", "rayleigh", "jinbe", "boa-hancock"],
+      "locationIds": ["amazon-lily"],
+      "quotes": [
+        {
+          "text": "I want to meet my crew. I want to go back to Marineford.",
+          "speaker": "Luffy",
+          "context": "Luffy expressing his desire to reunite with his crew and return to where Ace died"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [505, 507, 508],
+      "payoffInEpisodes": [511, 512],
+      "callbacksToEpisodes": [483, 490]
+    }
+  ],
+  "debuts": {
+    "characters": ["sancrin"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [510, 511, 512, 515],
+    "payoffFrom": [505, 506, 507, 508],
+    "thematicLinks": [2, 51, 483, 505]
+  },
+  "quotes": [
+    {
+      "text": "Moria's death may not be for real. When I left the Summit War of Marineford, Moria was still alive.",
+      "speaker": "Mihawk",
+      "context": "Comforting Perona about Moria's reported death",
+      "timestamp": "03:15"
+    },
+    {
+      "text": "They've copied my own sword style... Three Sword Style!",
+      "speaker": "Zoro",
+      "context": "Realizing the humandrills can mimic his techniques",
+      "timestamp": "07:45"
+    },
+    {
+      "text": "The humandrills learned their violent behavior by observing humans. The Shikkearu Kingdom had a big war a few years before I moved in, from which the humandrills learned how to fight and use weapons.",
+      "speaker": "Mihawk",
+      "context": "Explaining Kuraigana Island's history to Zoro",
+      "timestamp": "10:20"
+    },
+    {
+      "text": "I want to meet my crew. I want to go back to Marineford.",
+      "speaker": "Luffy",
+      "context": "Deciding to return to where Ace died",
+      "timestamp": "18:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Determination and Perseverance",
+      "description": "Zoro's refusal to give up despite facing humandrills who can copy his techniques demonstrates his unwavering determination to improve and reunite with his crew.",
+      "symbolism": "The humandrills represent obstacles that mirror one's own strengths, forcing growth through self-confrontation.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Loss and Grief",
+      "description": "Both Perona and Luffy deal with the aftermath of loss - Perona mourning Moria's reported death, and Luffy grappling with Ace's actual death at Marineford.",
+      "symbolism": "The decision to return to Marineford symbolizes Luffy's need to face his grief directly before moving forward.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Mimicry and Learning",
+      "description": "The humandrills' ability to learn by observation serves as a metaphor for how violence and conflict perpetuate themselves across generations.",
+      "symbolism": "Mihawk's explanation about the war creating violent humandrills reflects how exposure to conflict shapes behavior.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Somber", "Determined", "Reflective"],
+  "characterSpotlights": [
+    {
+      "characterId": "zoro",
+      "role": "Primary focus - struggling to leave the island",
+      "development": "Zoro faces the humbling realization that even creatures like humandrills can copy his techniques, setting up his eventual decision to train under Mihawk.",
+      "keyActions": [
+        "Attempts to leave Kuraigana Island with a boat from Mihawk",
+        "Fights humandrills who have copied his Three Sword Style",
+        "Refuses Mihawk's offer to return to the castle",
+        "Continues fighting despite the difficulty"
+      ],
+      "quotes": ["They've copied my own sword style... Three Sword Style!"]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Secondary focus - making a crucial decision",
+      "development": "Luffy accepts Rayleigh's guidance and makes the difficult decision to return to Marineford, showing maturity in his grief and planning for the future.",
+      "keyActions": [
+        "Discusses options with Rayleigh at Amazon Lily",
+        "Decides to return to Marineford",
+        "Expresses desire to reunite with his crew"
+      ],
+      "quotes": ["I want to meet my crew. I want to go back to Marineford."]
+    },
+    {
+      "characterId": "brook",
+      "role": "Tertiary focus - comedic relief and setup",
+      "development": "Brook's peaceful nature leads to his capture by the Longarm Tribe, which will ultimately result in his career as Soul King during the timeskip.",
+      "keyActions": [
+        "Attempts to make peace between longarms and locals",
+        "Performs music for the cultists",
+        "Gets captured and tied up by the Longarm Tribe"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "In the manga (Chapter 592), Zoro's conversation with Mihawk takes place entirely outside the castle, but the anime shows part of it happening inside.",
+      "episodeTimestamp": "03:15",
+      "mangaReference": "Chapter 592, pages 2-7",
+      "type": "SCENE_LOCATION_CHANGE"
+    },
+    {
+      "difference": "The anime shows Brook playing music for the cultists and depicts how the longarms kidnapped Brook in more detail. This appears to be anime-original expanded content.",
+      "episodeTimestamp": "14:15",
+      "mangaReference": "Chapter 592, pages 16-19",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode adapts pages 2-7 and 16-19 of Chapter 592, while Episode 508 covered pages 8-15 of the same chapter.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_509",
+          "title": "Episode 509 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-16"
+        }
+      ]
+    },
+    {
+      "fact": "The humandrills of Kuraigana Island were able to learn combat techniques purely through observation, demonstrating intelligence comparable to humans in terms of learning capacity.",
+      "category": "WORLD_BUILDING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Kuraigana_Island",
+          "title": "Kuraigana Island - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-16"
+        }
+      ]
+    },
+    {
+      "fact": "The Longarm Tribe members who kidnap Brook (including Sancrin) later become his managers when he achieves fame as 'Soul King' during the two-year timeskip.",
+      "category": "FORESHADOWING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Sancrin",
+          "title": "Sancrin - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-16"
+        }
+      ]
+    },
+    {
+      "fact": "This episode aired during a period when One Piece had no ending themes (from Episode 279 to Episode 1070), allowing for extended openings instead.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/One_Piece_Music",
+          "title": "One Piece Music - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-16"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

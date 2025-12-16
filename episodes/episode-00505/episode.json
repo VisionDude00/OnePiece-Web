@@ -1,0 +1,475 @@
+{
+  "episodeNumber": 505,
+  "episodeTitle": "I Want to See Them! Luffy's Tearful Scream",
+  "description": "Devastated by Ace's death, Luffy spirals into despair on Amazon Lily. Jinbe confronts Luffy physically and emotionally, helping him realize what he still has - his crew. Meanwhile, Garp visits Foosha Village, and the Red Hair Pirates join the Whitebeard Pirates to bury Ace and Whitebeard in the New World.",
+  "airDate": "2011-07-03",
+  "airDateJapan": "2011-07-03",
+  "airDateUS": "2016-12-13",
+  "arcName": "Post-War Arc",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Fight Together",
+    "artist": "Namie Amuro",
+    "episodeRange": [493, 516]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Yoshihiro Ueda",
+    "artDirector": "Ryūji Yoshiike",
+    "keyAnimators": ["Takeo Ide"],
+    "screenplay": "Yoshiyuki Suga",
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Katsuhisa Hōki"
+      },
+      {
+        "character": "Monkey D. Garp",
+        "actor": "Hiroshi Naka"
+      },
+      {
+        "character": "Curly Dadan",
+        "actor": "Noriko Uemura"
+      },
+      {
+        "character": "Makino",
+        "actor": "Makiko Ohmoto"
+      },
+      {
+        "character": "Shanks",
+        "actor": "Shūichi Ikeda"
+      },
+      {
+        "character": "Marco",
+        "actor": "Masakazu Morita"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Daniel Baugh"
+      },
+      {
+        "character": "Monkey D. Garp",
+        "actor": "Brian Mathis"
+      },
+      {
+        "character": "Shanks",
+        "actor": "Brandon Potter"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep505-event-001",
+      "episodeNumber": 505,
+      "timestamp": "03:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Garp Arrives at Foosha Village",
+      "description": "Vice Admiral Garp returns to Foosha Village after the war, sinking three pirate ships en route. He visits to check on the village and reassure the residents of their safety under his protection.",
+      "significance": "Shows Garp dealing with the aftermath of Ace's death while maintaining his duty to protect his hometown.",
+      "characterIds": ["garp"],
+      "locationIds": ["foosha-village"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [1, 45, 313]
+    },
+    {
+      "id": "ep505-event-002",
+      "episodeNumber": 505,
+      "timestamp": "05:30",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Dadan Confronts Garp",
+      "description": "Curly Dadan physically attacks Garp, blaming him for failing to save Ace from execution. She breaks down emotionally, expressing her grief over Ace's death and accusing Garp of not doing enough to prevent it.",
+      "significance": "Reveals the deep emotional impact of Ace's death on those who raised him, and shows Garp's guilt and grief as both a Marine and a grandfather.",
+      "characterIds": ["dadan", "garp", "makino"],
+      "locationIds": ["foosha-village"],
+      "quotes": [
+        {
+          "text": "Luffy do not be defeated!",
+          "speaker": "Dadan",
+          "context": "Dadan's emotional declaration of support for Luffy's future as a pirate despite her grief"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [324, 459, 483],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [324, 459, 483]
+    },
+    {
+      "id": "ep505-event-003",
+      "episodeNumber": 505,
+      "timestamp": "06:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Makino Defends Garp's Grief",
+      "description": "Makino intervenes in Dadan's confrontation with Garp, suggesting that Garp is suffering the most from Ace's death. She tearfully recalls memories of Ace and Luffy's childhood, recognizing the complex pain of Garp's position.",
+      "significance": "Highlights the emotional complexity of Garp's situation - torn between his duty as a Marine and his love for his grandsons.",
+      "characterIds": ["makino", "garp", "dadan"],
+      "locationIds": ["foosha-village"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [324, 459]
+    },
+    {
+      "id": "ep505-event-004",
+      "episodeNumber": 505,
+      "timestamp": "09:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "CRITICAL",
+      "title": "Burial of Ace and Whitebeard",
+      "description": "The Red Hair Pirates and the remaining Whitebeard Pirates conduct funeral ceremonies for Portgas D. Ace and Edward Newgate in the New World. Marco expresses gratitude to Shanks for helping them hold the funeral, and the pirates pay their respects to the fallen.",
+      "significance": "A solemn moment marking the final farewell to two of the most important figures in the One Piece world, symbolizing the end of an era.",
+      "characterIds": ["shanks", "marco", "ace", "whitebeard", "benn-beckman", "yasopp", "lucky-roux", "vista", "jozu"],
+      "locationIds": ["new-world"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [483, 484],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [483, 484]
+    },
+    {
+      "id": "ep505-event-005",
+      "episodeNumber": 505,
+      "timestamp": "11:20",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MAJOR",
+      "title": "Shanks' Silent Message to Luffy",
+      "description": "Standing at Ace's grave, Shanks silently communicates his support for Luffy, giving him permission to grieve while encouraging him to move forward. Though not speaking directly to Luffy, Shanks' presence symbolizes his continued faith in Luffy's journey.",
+      "significance": "Shows Shanks' continued role as a spiritual mentor to Luffy, even from afar, and foreshadows their eventual reunion.",
+      "characterIds": ["shanks", "luffy", "ace"],
+      "locationIds": ["new-world"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [4, 45, 316],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [4, 45, 316]
+    },
+    {
+      "id": "ep505-event-006",
+      "episodeNumber": 505,
+      "timestamp": "13:45",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Luffy Attacks Jinbe",
+      "description": "On Amazon Lily, Luffy, consumed by grief and self-blame over Ace's death, lashes out at Jinbe. He attempts to punch Jinbe but misses, leading to a physical confrontation where Luffy bites Jinbe in desperation.",
+      "significance": "Demonstrates the depth of Luffy's emotional trauma and his destructive self-blame for being too weak to save Ace.",
+      "characterIds": ["luffy", "jinbe"],
+      "locationIds": ["amazon-lily"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [504],
+      "payoffInEpisodes": [505],
+      "callbacksToEpisodes": [483, 484]
+    },
+    {
+      "id": "ep505-event-007",
+      "episodeNumber": 505,
+      "timestamp": "15:30",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Jinbe Defeats Luffy",
+      "description": "Jinbe easily overpowers Luffy, pinning him to a rock. Despite Luffy's attempts to fight back, including biting Jinbe, the Fish-Man's superior strength and Luffy's weakened emotional state result in Luffy's defeat.",
+      "significance": "Sets the stage for Jinbe's crucial intervention - he needed to physically subdue Luffy before he could reach him emotionally.",
+      "characterIds": ["jinbe", "luffy"],
+      "locationIds": ["amazon-lily"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [505],
+      "payoffInEpisodes": [505],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep505-event-008",
+      "episodeNumber": 505,
+      "timestamp": "17:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Jinbe's Pivotal Speech to Luffy",
+      "description": "After defeating Luffy, Jinbe delivers a powerful speech that changes Luffy's perspective. He tells Luffy that Ace's body was his own and he was free to make his own choices. Most importantly, Jinbe implores Luffy: 'Do not simply count what you have lost. What's gone is gone! But ask yourself this, What remains?'",
+      "significance": "This is one of the most emotionally powerful moments in One Piece. Jinbe's words pull Luffy from the brink of despair and help him refocus on what he still has - his crew and nakama.",
+      "characterIds": ["jinbe", "luffy"],
+      "locationIds": ["amazon-lily"],
+      "quotes": [
+        {
+          "text": "Do not simply count what you have lost. What's gone is gone! But ask yourself this, What remains?",
+          "speaker": "Jinbe",
+          "context": "Jinbe's crucial speech helping Luffy overcome his grief and self-blame"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [504],
+      "payoffInEpisodes": [511, 590],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep505-event-009",
+      "episodeNumber": 505,
+      "timestamp": "19:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Luffy Realizes What He Still Has",
+      "description": "Hearing Jinbe's words, Luffy pictures all of his crew members - Zoro, Nami, Usopp, Sanji, Chopper, Robin, Franky, and Brook. He hears their voices calling out to him, reminding him that he still has his nakama who are waiting for him.",
+      "significance": "Luffy's emotional turning point. This is the moment he begins to heal from Ace's death by remembering he still has his crew to live for and protect.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky", "brook", "jinbe"],
+      "locationIds": ["amazon-lily"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [511, 517],
+      "callbacksToEpisodes": [1, 2, 3, 19, 20, 30, 44, 68, 284, 337, 381]
+    },
+    {
+      "id": "ep505-event-010",
+      "episodeNumber": 505,
+      "timestamp": "20:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Luffy's Tearful Cry - I Want to See Them",
+      "description": "Overwhelmed by the realization of what he still has, Luffy breaks down in tears and screams out his desperate desire to see his crew again. His mournful cry echoes across Amazon Lily as he finally accepts that he needs to move forward.",
+      "significance": "The climactic emotional moment of the episode and a defining character moment for Luffy. This cry represents his acceptance of Ace's death and his renewed determination to reunite with his crew. It marks the beginning of Luffy's path to recovery and growth.",
+      "characterIds": ["luffy", "jinbe"],
+      "locationIds": ["amazon-lily"],
+      "quotes": [
+        {
+          "text": "I want to see them!",
+          "speaker": "Luffy",
+          "context": "Luffy's tearful realization that he still has his crew to live for"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [504],
+      "payoffInEpisodes": [511, 517],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["chicken"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [506, 507, 511],
+    "payoffFrom": [483, 484, 504],
+    "thematicLinks": [278, 311, 403, 483, 484]
+  },
+  "quotes": [
+    {
+      "text": "Do not simply count what you have lost. What's gone is gone! But ask yourself this, What remains?",
+      "speaker": "Jinbe",
+      "context": "Jinbe's pivotal speech to Luffy about focusing on what he still has",
+      "timestamp": "17:00"
+    },
+    {
+      "text": "I want to see them!",
+      "speaker": "Luffy",
+      "context": "Luffy's tearful realization that he needs to reunite with his crew",
+      "timestamp": "20:30"
+    },
+    {
+      "text": "Luffy do not be defeated!",
+      "speaker": "Dadan",
+      "context": "Dadan's emotional declaration of support for Luffy despite her grief over Ace",
+      "timestamp": "05:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Grief and Loss",
+      "description": "The episode deeply explores how different characters cope with Ace's death - Luffy through self-destructive despair, Garp through silent suffering, and Dadan through anger and grief.",
+      "symbolism": "Ace's burial in the New World symbolizes the end of an era and the finality of death, while Luffy's tears represent the cathartic release needed for healing.",
+      "culturalReferences": ["Japanese concepts of grief and moving forward while honoring the dead"]
+    },
+    {
+      "theme": "The Power of Nakama",
+      "description": "Jinbe's speech emphasizes one of One Piece's central themes - that while we cannot change the past or prevent loss, we can choose to cherish and protect what remains, especially our bonds with others.",
+      "symbolism": "The voices and images of Luffy's crew members represent the invisible bonds that sustain us even when we're separated.",
+      "culturalReferences": ["The concept of nakama (crew/family bonds) as a source of strength and purpose"]
+    },
+    {
+      "theme": "Moving Forward After Trauma",
+      "description": "The episode shows the difficult but necessary process of accepting loss and finding the strength to move forward, not by forgetting what was lost, but by focusing on what we still have and what we can still protect.",
+      "symbolism": "Shanks standing at Ace's grave represents acceptance and the ability to grieve while still moving forward.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Duty vs. Family",
+      "description": "Garp's suffering illustrates the painful conflict between duty and family - he could not save Ace without betraying his position as a Marine, yet not saving him means losing his grandson.",
+      "symbolism": "Dadan's attack on Garp represents the human cost of choosing duty over family.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Grief-stricken", "Emotional", "Cathartic", "Hopeful"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist dealing with trauma",
+      "development": "Luffy experiences his lowest emotional point in the series, consumed by grief and self-blame over Ace's death. Through Jinbe's intervention, he begins the healing process by remembering what he still has - his crew.",
+      "keyActions": [
+        "Attacks Jinbe in grief-fueled rage",
+        "Gets physically defeated and pinned down",
+        "Hears Jinbe's speech about what remains",
+        "Pictures all his crew members",
+        "Cries out his desire to see his crew again"
+      ],
+      "quotes": ["I want to see them!"]
+    },
+    {
+      "characterId": "jinbe",
+      "role": "Mentor and emotional anchor",
+      "development": "Jinbe demonstrates why he will become such an important member of the Straw Hat crew - his wisdom, emotional intelligence, and ability to reach Luffy when no one else can.",
+      "keyActions": [
+        "Fights and defeats Luffy",
+        "Delivers the pivotal 'what remains' speech",
+        "Helps Luffy remember his crew",
+        "Guides Luffy toward emotional recovery"
+      ],
+      "quotes": ["Do not simply count what you have lost. What's gone is gone! But ask yourself this, What remains?"]
+    },
+    {
+      "characterId": "garp",
+      "role": "Grieving grandfather",
+      "development": "We see the depth of Garp's grief and guilt over Ace's death, and how his position as a Marine prevented him from saving his grandson despite his love for him.",
+      "keyActions": [
+        "Returns to Foosha Village",
+        "Endures Dadan's attack",
+        "Silently bears his grief"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "dadan",
+      "role": "Surrogate mother expressing grief",
+      "development": "Dadan shows her deep love for both Ace and Luffy, expressing her grief through anger at Garp while ultimately declaring her support for Luffy's dreams.",
+      "keyActions": [
+        "Attacks Garp in grief and anger",
+        "Breaks down crying over Ace",
+        "Shouts her support for Luffy"
+      ],
+      "quotes": ["Luffy do not be defeated!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime shows Garp sinking three pirate ships, while the manga only depicted one.",
+      "episodeTimestamp": "03:15",
+      "mangaReference": "Chapter 590",
+      "type": "EXPANDED_SCENE"
+    },
+    {
+      "difference": "Extended drinking scene featuring Dadan before Garp's arrival was added in the anime.",
+      "episodeTimestamp": "04:00",
+      "mangaReference": "Chapter 590",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "Dadan's physical confrontation with Garp is shortened compared to the manga version.",
+      "episodeTimestamp": "05:30",
+      "mangaReference": "Chapter 590",
+      "type": "SHORTENED_SCENE"
+    },
+    {
+      "difference": "The scene of Luffy's crew members calling his name is extended with additional dialogue not in the manga.",
+      "episodeTimestamp": "19:15",
+      "mangaReference": "Chapter 590",
+      "type": "EXPANDED_SCENE"
+    },
+    {
+      "difference": "Animation error: Franky briefly appears with a standard nose rather than his metallic prosthetic.",
+      "episodeTimestamp": "19:20",
+      "mangaReference": "Chapter 590",
+      "type": "ANIMATION_ERROR"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode adapts Chapter 590, titled 'My Little Brother', which is one of the most emotionally powerful chapters in the manga.",
+      "category": "MANGA_ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_505",
+          "title": "Episode 505 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-16"
+        }
+      ]
+    },
+    {
+      "fact": "The episode achieved an 8.3% TV rating, ranking 5th for its time slot when it aired in Japan on July 3, 2011.",
+      "category": "VIEWERSHIP",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_505",
+          "title": "Episode 505 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-16"
+        }
+      ]
+    },
+    {
+      "fact": "Jinbe's speech in this episode is consistently ranked as one of the most emotionally impactful moments in the entire One Piece series by fans.",
+      "category": "FAN_RECEPTION",
+      "sources": []
+    },
+    {
+      "fact": "The episode's eyecatcher features Luffy and Nami, symbolically representing Luffy's connection to his crew even while separated.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_505",
+          "title": "Episode 505 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-16"
+        }
+      ]
+    },
+    {
+      "fact": "This is the first episode where we see the aftermath of the war from multiple perspectives - Foosha Village, the New World, and Amazon Lily.",
+      "category": "NARRATIVE",
+      "sources": []
+    },
+    {
+      "fact": "The character 'Chicken' makes their debut in this episode, though they only appear briefly.",
+      "category": "CHARACTER_DEBUT",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_505",
+          "title": "Episode 505 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-16"
+        }
+      ]
+    },
+    {
+      "fact": "The episode preview was shortened from its usual length, possibly to allow more time for the emotional climax.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_505",
+          "title": "Episode 505 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-16"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

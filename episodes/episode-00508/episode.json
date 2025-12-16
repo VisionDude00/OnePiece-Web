@@ -1,0 +1,369 @@
+{
+  "episodeNumber": 508,
+  "episodeTitle": "Back to Our Captain! A Jail Break at the Sky Island and the Incident on the Winter Island!",
+  "description": "Three parallel storylines unfold as the separated Straw Hats face their own challenges: Luffy contemplates Rayleigh's training proposal at Amazon Lily; Nami attempts to escape from Weatheria, expressing her emotional distress over Ace's death and her need to reunite with Luffy; and Franky accidentally triggers a massive explosion at Vegapunk's laboratory on Karakuri Island, an incident that becomes known as the Nightmare of Baldimore.",
+  "airDate": "2011-07-31",
+  "airDateJapan": "2011-07-31",
+  "airDateUS": "2011-07-30",
+  "arcName": "Post-War Arc",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Fight Together",
+    "artist": "Namie Amuro",
+    "episodeRange": [493, 516]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Shigefumi Shingaki",
+    "episodeDirector": "Katsumi Tokoro",
+    "screenplay": "Hirohiko Kamisaka",
+    "artDirection": "Miho Shiraishi",
+    "storyboard": "",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Silvers Rayleigh",
+        "actor": "Keiichi Sonobe"
+      },
+      {
+        "character": "Haredas",
+        "actor": "Masashi Hirose"
+      },
+      {
+        "character": "Boa Hancock",
+        "actor": "Kotono Mitsuishi"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Daisuke Gōri"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Silvers Rayleigh",
+        "actor": "Bruce Carey"
+      },
+      {
+        "character": "Haredas",
+        "actor": "Bill Flynn"
+      },
+      {
+        "character": "Boa Hancock",
+        "actor": "Lydia Mackay"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Daniel Baugh"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep508-event-001",
+      "episodeNumber": 508,
+      "timestamp": "03:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Luffy Struggles with Rayleigh's Proposal",
+      "description": "At Amazon Lily, Luffy wrestles with the difficult decision between honoring his promise to reunite with his crew in three days at Sabaody Archipelago and accepting Rayleigh's offer for extended training. The weight of recent events and his crew's safety weigh heavily on his mind.",
+      "significance": "This internal conflict sets up Luffy's eventual decision to postpone the crew reunion and undergo the two-year training period, a pivotal turning point in the series.",
+      "characterIds": ["luffy", "rayleigh"],
+      "locationIds": ["amazon-lily"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [505, 506, 507],
+      "payoffInEpisodes": [511, 516],
+      "callbacksToEpisodes": [405]
+    },
+    {
+      "id": "ep508-event-002",
+      "episodeNumber": 508,
+      "timestamp": "08:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Nami's Emotional Breakdown Over Ace's Death",
+      "description": "On Weatheria, Nami breaks down in tears while explaining to the island's residents why she desperately needs to escape and reunite with Luffy. She expresses deep anguish over Luffy's failure to save Ace and her understanding of how much Luffy needs his crew during this devastating time.",
+      "significance": "This powerful emotional moment showcases Nami's deep bond with Luffy and her role as a caring crew member who understands her captain's pain. It demonstrates how Ace's death has affected all the Straw Hats.",
+      "characterIds": ["nami", "haredas"],
+      "locationIds": ["weatheria"],
+      "quotes": [
+        {
+          "text": "I need to get off this island to meet my captain! Don't you understand? Luffy failed to rescue his brother... He needs us now more than ever!",
+          "speaker": "Nami",
+          "context": "Nami's tearful plea to the Weatheria residents explaining her desperation to escape"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [490, 505],
+      "payoffInEpisodes": [516, 517],
+      "callbacksToEpisodes": [487, 488]
+    },
+    {
+      "id": "ep508-event-003",
+      "episodeNumber": 508,
+      "timestamp": "09:15",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MINOR",
+      "title": "Nami's Attempted Escape from Weatheria",
+      "description": "After her emotional outburst, Nami attempts to flee Weatheria by taking Haredas hostage and using him as a guide. The island's residents pursue her, suspecting her tears were merely crocodile tears designed to manipulate them into letting her leave.",
+      "significance": "This escape attempt shows Nami's determination to reunite with her crew and marks the beginning of her eventual decision to stay and train in weather science.",
+      "characterIds": ["nami", "haredas"],
+      "locationIds": ["weatheria"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [507],
+      "payoffInEpisodes": [509],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep508-event-004",
+      "episodeNumber": 508,
+      "timestamp": "15:20",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Franky Seeks Help from Kitton",
+      "description": "On Karakuri Island, Franky approaches Kitton and his grandfather, requesting to use their ship to leave the winter island. When they refuse, Kitton's grandfather mentions that there's an icebreaker at Dr. Vegapunk's old laboratory.",
+      "significance": "This conversation inadvertently leads Franky to discover Vegapunk's laboratory, setting in motion the events that will transform him and provide crucial knowledge for his future upgrades.",
+      "characterIds": ["franky", "kitton"],
+      "locationIds": ["karakuri-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [507],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep508-event-005",
+      "episodeNumber": 508,
+      "timestamp": "18:45",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Franky Discovers Vegapunk's Laboratory",
+      "description": "Following the directions he received, Franky locates Dr. Vegapunk's abandoned laboratory on Karakuri Island. Upon approaching the facility, he is pursued by Marine guards who are stationed there to protect the valuable research materials inside.",
+      "significance": "This discovery of Vegapunk's laboratory is a critical moment that will allow Franky to access advanced technology and blueprints, fundamentally changing his capabilities and the Thousand Sunny's features.",
+      "characterIds": ["franky"],
+      "locationIds": ["vegapunk-laboratory", "karakuri-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [516],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep508-event-006",
+      "episodeNumber": 508,
+      "timestamp": "20:30",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "The Nightmare of Baldimore Begins",
+      "description": "After breaking into Vegapunk's laboratory while being chased by Marines, Franky spots a button marked with a skull and crossbones symbol. Mistaking it for a pirate jolly roger and thinking it might activate something helpful, he presses it. The button is actually a self-destruct mechanism, triggering a massive explosion that destroys a significant portion of the laboratory and many of Vegapunk's valuable research blueprints.",
+      "significance": "This catastrophic explosion becomes known worldwide as 'The Nightmare of Baldimore,' a historic incident that destroys priceless scientific research. However, it also gives Franky access to a hidden secondary laboratory containing the blueprints he'll use to upgrade himself and the Thousand Sunny.",
+      "characterIds": ["franky"],
+      "locationIds": ["vegapunk-laboratory", "karakuri-island"],
+      "devilFruitIds": [],
+      "crewIds": [],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [516],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep508-event-007",
+      "episodeNumber": 508,
+      "timestamp": "21:45",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "News of the Nightmare of Baldimore Spreads",
+      "description": "The massive explosion caused by Franky at Vegapunk's laboratory on Karakuri Island sends shockwaves throughout the world. The incident quickly becomes known globally as 'The Nightmare of Baldimore,' with news of the destruction spreading rapidly across the seas.",
+      "significance": "This establishes the explosion as a world-class incident and demonstrates the global importance of Vegapunk's work. It also shows how Franky's actions during the timeskip have far-reaching consequences.",
+      "characterIds": ["franky"],
+      "locationIds": ["karakuri-island", "vegapunk-laboratory"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep508-event-008",
+      "episodeNumber": 508,
+      "timestamp": "05:00",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MINOR",
+      "title": "Hancock's Concern for Luffy",
+      "description": "At Amazon Lily, Boa Hancock continues to show her deep concern and affection for Luffy as he struggles with his difficult decision. Her presence provides emotional support during this challenging time.",
+      "significance": "Reinforces Hancock's devotion to Luffy and shows her continued role as a supportive ally during the post-war period.",
+      "characterIds": ["luffy", "hancock"],
+      "locationIds": ["amazon-lily"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [490, 505],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [417, 418]
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [509, 511, 516],
+    "payoffFrom": [505, 506, 507],
+    "thematicLinks": [517, 590, 591]
+  },
+  "quotes": [
+    {
+      "text": "I need to get off this island to meet my captain! Don't you understand? Luffy failed to rescue his brother... He needs us now more than ever!",
+      "speaker": "Nami",
+      "context": "Nami's emotional plea to escape Weatheria",
+      "timestamp": "08:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Loyalty and Crew Bonds",
+      "description": "The episode emphasizes the deep bonds between the Straw Hat crew members, shown through Nami's desperate desire to reunite with Luffy during his time of grief and Luffy's internal struggle between his promise to his crew and his need to become stronger.",
+      "symbolism": "The physical separation of the crew members mirrors their emotional connection - despite being worlds apart, they all think of each other and their captain.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Growth Through Adversity",
+      "description": "Each Straw Hat faces challenges in their respective locations that will ultimately make them stronger. Franky's accident leads to greater knowledge, Nami's emotional breakdown leads to resolve, and Luffy's indecision leads to commitment.",
+      "symbolism": "The explosion at Vegapunk's lab symbolizes destruction leading to rebirth and transformation, a recurring theme in the timeskip period.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Emotional", "Tense", "Dramatic", "Bittersweet"],
+  "characterSpotlights": [
+    {
+      "characterId": "nami",
+      "role": "Emotional core of the episode",
+      "development": "Nami demonstrates her deep understanding of Luffy's emotional state and her unwavering loyalty to her captain, showing significant emotional maturity and empathy.",
+      "keyActions": [
+        "Attempts to escape from Weatheria",
+        "Breaks down emotionally about Ace's death",
+        "Takes Haredas hostage to flee the island",
+        "Expresses her understanding of Luffy's pain"
+      ],
+      "quotes": ["I need to get off this island to meet my captain! Don't you understand? Luffy failed to rescue his brother... He needs us now more than ever!"]
+    },
+    {
+      "characterId": "franky",
+      "role": "Comic relief and setup for future development",
+      "development": "Franky's characteristic recklessness leads to a catastrophic mistake that paradoxically opens the door to his greatest technological advancement.",
+      "keyActions": [
+        "Seeks help from Kitton to leave the island",
+        "Discovers Vegapunk's laboratory",
+        "Accidentally triggers the self-destruct mechanism",
+        "Causes the Nightmare of Baldimore"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "luffy",
+      "role": "Decision-maker facing internal conflict",
+      "development": "Luffy shows uncharacteristic hesitation and thoughtfulness as he weighs his promise to his crew against Rayleigh's wisdom about becoming stronger.",
+      "keyActions": [
+        "Contemplates Rayleigh's training proposal",
+        "Struggles with breaking his promise to the crew",
+        "Considers the safety and future of his nakama"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends the emotional scenes, particularly Nami's breakdown, with additional dialogue and reactions from the Weatheria residents that weren't in the original manga.",
+      "episodeTimestamp": "08:30",
+      "mangaReference": "Chapter 592",
+      "type": "ANIME_EXPANSION"
+    },
+    {
+      "difference": "The anime adds more detailed sequences of Franky being chased by Marines before entering the laboratory.",
+      "episodeTimestamp": "18:45",
+      "mangaReference": "Chapter 592",
+      "type": "ANIME_EXPANSION"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This is the second time in One Piece where a character mistakes a danger symbol (skull and crossbones) for something else - the first was when Chopper mistook a poisonous mushroom symbol for a pirate emblem.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Nightmare_of_Baldimore",
+          "title": "Nightmare of Baldimore - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-16"
+        }
+      ]
+    },
+    {
+      "fact": "The Nightmare of Baldimore becomes a globally known incident, demonstrating the worldwide significance of Vegapunk's research and the consequences of Franky's actions.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_508",
+          "title": "Episode 508 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-16"
+        }
+      ]
+    },
+    {
+      "fact": "This episode covers only pages 8-15 of Chapter 592, showing the anime's slower pacing during this period.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_508",
+          "title": "Episode 508 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-16"
+        }
+      ]
+    },
+    {
+      "fact": "Fight Together by Namie Amuro, the opening for this episode, was the final opening of the first half of One Piece before the timeskip.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Fight_Together",
+          "title": "Fight Together - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-16"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
