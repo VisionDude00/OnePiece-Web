@@ -1,0 +1,57 @@
+[
+  {
+    "abilityName": "Attack Cuisine",
+    "abilityType": "SPECIAL_SKILL",
+    "episodeFirstMentioned": 514,
+    "episodeFirstUsed": null,
+    "description": "A special type of cooking unique to the Kamabakka Kingdom that makes people's bodies stronger and their hearts purer. Consists of 99 recipes, each held by one of the 99 masters of New Kama Kenpo.",
+    "users": [
+      {
+        "characterId": "sanji",
+        "episodeLearnedOrAcquired": 514,
+        "proficiencyLevel": "LEARNING",
+        "notes": "Sanji begins training to earn the right to learn these recipes by defeating the 99 masters"
+      }
+    ],
+    "relatedAbilities": ["New Kama Kenpo"],
+    "strengths": [
+      {
+        "strength": "Enhances physical strength of those who consume it",
+        "description": "Makes peoples' bodies stronger through special cooking techniques"
+      },
+      {
+        "strength": "Purifies the heart",
+        "description": "Has spiritual/emotional benefits beyond physical strength"
+      }
+    ],
+    "weaknesses": [],
+    "category": "CULINARY_TECHNIQUE",
+    "severity": "MAJOR"
+  },
+  {
+    "abilityName": "New Kama Kenpo",
+    "abilityType": "MARTIAL_ART",
+    "episodeFirstMentioned": 514,
+    "episodeFirstUsed": null,
+    "description": "The signature martial art of the Kamabakka Kingdom, practiced by the okama inhabitants. There are 99 masters of this fighting style, each also holding one recipe for Attack Cuisine.",
+    "users": [
+      {
+        "characterId": "emporio-ivankov",
+        "episodeLearnedOrAcquired": null,
+        "proficiencyLevel": "MASTER",
+        "notes": "Ivankov is a master of New Kama Kenpo"
+      },
+      {
+        "characterId": "sanji",
+        "episodeLearnedOrAcquired": 514,
+        "proficiencyLevel": "LEARNING",
+        "notes": "Sanji will learn techniques through fighting the 99 masters"
+      }
+    ],
+    "relatedAbilities": ["Attack Cuisine"],
+    "strengths": [],
+    "weaknesses": [],
+    "category": "MARTIAL_ART",
+    "severity": "MAJOR"
+  }
+]

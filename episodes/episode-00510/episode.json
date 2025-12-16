@@ -1,0 +1,496 @@
+{
+  "episodeNumber": 510,
+  "episodeTitle": "A Disaster for Sanji! The Queen's Return to the Kingdom!",
+  "description": "The scattered Straw Hat crew members react to shocking news in the newspaper. Luffy, Rayleigh, and Jinbe hijack a Marine battleship and pass through the Gates of Justice. Chopper departs Torino Kingdom on a giant bird and receives the newspaper. Robin reads the news at Tequila Wolf and smiles at Luffy's message. Sanji meets Ivankov at Kamabakka Kingdom, struggles with identity verification due to his poorly-drawn wanted poster, and battles to prove himself. Dragon discusses gathering Revolutionary Army commanders at Baltigo.",
+  "airDate": "2011-08-14",
+  "airDateJapan": "2011-08-14",
+  "airDateUS": "2013-09-21",
+  "arcName": "Post-War Arc",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Fight Together",
+    "artist": "Namie Amuro",
+    "episodeRange": [493, 516]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Masayuki Takagi",
+    "episodeDirector": "Yoshihiro Ueda",
+    "screenplay": "Tomohiro Nakayama",
+    "artDirection": "Miho Shiraishi",
+    "storyboard": "",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Silvers Rayleigh",
+        "actor": "Keiichi Sonobe"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Daisuke Gōri"
+      },
+      {
+        "character": "Emporio Ivankov",
+        "actor": "Mitsuo Iwata"
+      },
+      {
+        "character": "Monkey D. Dragon",
+        "actor": "Hidekatsu Shibata"
+      },
+      {
+        "character": "Inazuma",
+        "actor": "Yūko Kaida"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Silvers Rayleigh",
+        "actor": "Bruce Carey"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Daniel Baugh"
+      },
+      {
+        "character": "Emporio Ivankov",
+        "actor": "Mela Lee"
+      },
+      {
+        "character": "Monkey D. Dragon",
+        "actor": "Bryan Massey"
+      },
+      {
+        "character": "Inazuma",
+        "actor": "Caitlin Glass"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep510-event-001",
+      "episodeNumber": 510,
+      "timestamp": "02:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Luffy, Rayleigh, and Jinbe Hijack Marine Battleship",
+      "description": "Luffy, Rayleigh, and Jinbe capture a Marine battleship and force the crew to contact Marine Headquarters to open the Gates of Justice. The Marines on board are tied up as the three prepare to enter Marineford.",
+      "significance": "This is the beginning of Luffy's secret mission to return to Marineford to deliver a hidden message to his scattered crew members. The scene sets up the important 3D2Y message that will be revealed in the next episode.",
+      "characterIds": ["luffy", "rayleigh", "jinbe"],
+      "locationIds": ["gates-of-justice"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [507, 509],
+      "payoffInEpisodes": [511],
+      "callbacksToEpisodes": [489]
+    },
+    {
+      "id": "ep510-event-002",
+      "episodeNumber": 510,
+      "timestamp": "04:15",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MINOR",
+      "title": "Chopper Leaves Torino Kingdom",
+      "description": "Tony Tony Chopper says goodbye to the villagers and giant birds of Torino Kingdom as he prepares to fly back to Sabaody Archipelago. A giant bird's father agrees to give Chopper a ride through the sky.",
+      "significance": "Chopper's departure from Torino Kingdom marks his desire to reunite with Luffy and the crew after hearing about the events at Marineford. His journey will be interrupted by shocking news.",
+      "characterIds": ["chopper"],
+      "locationIds": ["torino-kingdom"],
+      "quotes": [
+        {
+          "text": "I want to get back to Luffy and help him!",
+          "speaker": "Chopper",
+          "context": "Chopper expresses his desire to reunite with his captain"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [507],
+      "payoffInEpisodes": [517],
+      "callbacksToEpisodes": [507]
+    },
+    {
+      "id": "ep510-event-003",
+      "episodeNumber": 510,
+      "timestamp": "06:45",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Chopper Receives the Newspaper",
+      "description": "While flying on the back of a giant bird, Chopper encounters a News Coo and receives the latest newspaper. He is shocked by what he reads about Luffy's return to Marineford and nearly chokes on his food.",
+      "significance": "Chopper discovers the newspaper containing Luffy's hidden message. This is part of Rayleigh's plan to communicate the new meeting time to all the scattered Straw Hats without alerting the world.",
+      "characterIds": ["chopper"],
+      "locationIds": [],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [509],
+      "payoffInEpisodes": [511, 517],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep510-event-004",
+      "episodeNumber": 510,
+      "timestamp": "09:20",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Robin Departs Tequila Wolf with Revolutionary Army",
+      "description": "Nico Robin travels with the Revolutionary Army in a carriage, leaving Tequila Wolf. Revolutionary member Soran gives Robin a portrait as a parting gift before they separate.",
+      "significance": "Robin's rescue by the Revolutionary Army and her journey with them establishes her connection to Dragon's organization. This will become important for her character development and future story arcs.",
+      "characterIds": ["robin", "soran", "inazuma"],
+      "locationIds": ["tequila-wolf"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [507],
+      "payoffInEpisodes": [519],
+      "callbacksToEpisodes": [455]
+    },
+    {
+      "id": "ep510-event-005",
+      "episodeNumber": 510,
+      "timestamp": "11:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Robin Reads Luffy's Message in the Newspaper",
+      "description": "A crow delivers a newspaper to the Revolutionary Army carriage. Robin reads about Luffy's return to Marineford and finds something amusing that makes her laugh and smile, understanding the hidden message meant for the Straw Hats.",
+      "significance": "Robin, being one of the most intelligent Straw Hats, immediately understands Luffy's coded message. Her smile shows relief that Luffy is safe and her understanding of the new plan to meet in two years instead of three days.",
+      "characterIds": ["robin"],
+      "locationIds": [],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [509],
+      "payoffInEpisodes": [511, 519],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep510-event-006",
+      "episodeNumber": 510,
+      "timestamp": "13:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Caroline's First Appearance",
+      "description": "Caroline, the substitute Queen of Kamabakka Kingdom, appears as Sanji desperately tries to convince them to give him a boat to leave the island. Caroline refuses until they notice a ship approaching.",
+      "significance": "Caroline served as the temporary ruler of Kamabakka Kingdom in Ivankov's absence. Their appearance establishes the hierarchy and situation at the island.",
+      "characterIds": ["sanji", "caroline"],
+      "locationIds": ["kamabakka-kingdom"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [507]
+    },
+    {
+      "id": "ep510-event-007",
+      "episodeNumber": 510,
+      "timestamp": "15:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Ivankov Returns to Kamabakka Kingdom",
+      "description": "Emporio Ivankov returns to Kamabakka Kingdom aboard a battleship in their female form. Sanji gets multiple nosebleeds before Ivankov transforms back to male form. This is Ivankov's first appearance at their kingdom in the Post-War timeline.",
+      "significance": "Ivankov's return to the kingdom after escaping Impel Down and surviving the Paramount War reunites them with their homeland and subjects. This reunion is important for establishing Ivankov's role going forward.",
+      "characterIds": ["ivankov", "sanji", "caroline"],
+      "locationIds": ["kamabakka-kingdom"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [507],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [438, 489]
+    },
+    {
+      "id": "ep510-event-008",
+      "episodeNumber": 510,
+      "timestamp": "17:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Sanji's Wanted Poster Identity Crisis",
+      "description": "Sanji tries to convince Ivankov that he is part of Luffy's crew, but Ivankov refuses to believe him due to the hilariously bad drawing on Sanji's wanted poster. Sanji is initially reluctant to admit the drawn image is him but eventually relents after Ivankov scolds him.",
+      "significance": "This comedic moment references Sanji's poorly-drawn wanted poster, which has been a running gag. It shows the real-world consequences of having an unrecognizable bounty poster.",
+      "characterIds": ["sanji", "ivankov"],
+      "locationIds": ["kamabakka-kingdom"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [45],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [45, 320]
+    },
+    {
+      "id": "ep510-event-009",
+      "episodeNumber": 510,
+      "timestamp": "18:30",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Sanji Battles Ivankov",
+      "description": "To prove himself as one of Luffy's crew members, Sanji engages in a one-on-one fight with Emporio Ivankov. Sanji goes all-out from the beginning, but Ivankov pretends to struggle before ultimately defeating him.",
+      "significance": "This battle demonstrates the vast gap in power between Sanji and a Revolutionary Army commander. It also shows Sanji's determination to learn about Luffy's condition.",
+      "characterIds": ["sanji", "ivankov"],
+      "locationIds": ["kamabakka-kingdom"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [438]
+    },
+    {
+      "id": "ep510-event-010",
+      "episodeNumber": 510,
+      "timestamp": "19:45",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "Ivankov Defeats Sanji",
+      "description": "Emporio Ivankov defeats Sanji in their battle. Satisfied that Sanji has proven his dedication to Luffy, Ivankov decides to tell Sanji about Luffy's status, explaining that it won't harm Luffy since the whole world now knows about him.",
+      "significance": "Ivankov's decision to share information with Sanji shows their recognition of Sanji as a genuine Straw Hat member. This marks the beginning of Sanji learning about recent events.",
+      "characterIds": ["sanji", "ivankov"],
+      "locationIds": ["kamabakka-kingdom"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep510-event-011",
+      "episodeNumber": 510,
+      "timestamp": "20:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Sanji Receives the Newspaper",
+      "description": "After his battle with Ivankov, Sanji receives the newspaper and reads about Luffy's shocking return to Marineford. He is visibly shocked by what he sees in the paper.",
+      "significance": "Like the other Straw Hats, Sanji receives Luffy's hidden message through the newspaper. This moment will lead to his understanding of the new two-year training plan.",
+      "characterIds": ["sanji"],
+      "locationIds": ["kamabakka-kingdom"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [509],
+      "payoffInEpisodes": [511, 517],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep510-event-012",
+      "episodeNumber": 510,
+      "timestamp": "21:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Dragon Calls Ivankov from Baltigo",
+      "description": "At the Revolutionary Army headquarters in Baltigo, Monkey D. Dragon contacts Ivankov via Den Den Mushi to discuss the recent news about his son Luffy. Inazuma informs Ivankov about the call from Dragon.",
+      "significance": "This scene establishes Dragon's awareness and concern for his son Luffy's actions. It shows the connection between the Revolutionary Army leadership and their attention to world events.",
+      "characterIds": ["dragon", "ivankov", "inazuma"],
+      "locationIds": ["baltigo", "kamabakka-kingdom"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [504]
+    },
+    {
+      "id": "ep510-event-013",
+      "episodeNumber": 510,
+      "timestamp": "22:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Dragon Decides to Gather Revolutionary Army Commanders",
+      "description": "Dragon explains to Ivankov that he must gather all the Revolutionary Army commanders because Whitebeard's death will cause major upheaval in the world. The power vacuum left by Whitebeard's demise will create chaos that the Revolutionary Army must prepare for.",
+      "significance": "This decision foreshadows major changes in the One Piece world following Whitebeard's death. The gathering of Revolutionary Army commanders suggests upcoming major operations and the beginning of a new era in the world.",
+      "characterIds": ["dragon", "ivankov"],
+      "locationIds": ["baltigo"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [489],
+      "payoffInEpisodes": [736],
+      "callbacksToEpisodes": [489, 504]
+    }
+  ],
+  "debuts": {
+    "characters": ["caroline", "soran"],
+    "locations": ["baltigo"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [511, 517, 736],
+    "payoffFrom": [507, 509],
+    "thematicLinks": [489, 504, 507, 517]
+  },
+  "quotes": [
+    {
+      "text": "I want to get back to Luffy and help him!",
+      "speaker": "Chopper",
+      "context": "Expressing his desire to reunite with his captain",
+      "timestamp": "04:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Separation and Communication",
+      "description": "The episode focuses on the scattered Straw Hat crew members and their desperate desire to reunite with Luffy. The hidden message in the newspaper represents a creative solution to communicate across vast distances.",
+      "symbolism": "The newspaper serves as a symbol of connection in a world where the crew is separated. Each member's reaction to the news shows their bond despite the physical distance.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Changing World Order",
+      "description": "Dragon's decision to gather the Revolutionary Army commanders in response to Whitebeard's death illustrates how one man's demise has shifted the entire balance of power in the world.",
+      "symbolism": "Whitebeard's death creates a power vacuum that will affect pirates, marines, and revolutionaries alike.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Trust and Identity",
+      "description": "Sanji must prove his identity and loyalty to Ivankov to learn about Luffy. The poorly-drawn wanted poster becomes both a comedic element and a genuine obstacle.",
+      "symbolism": "The wanted poster represents how the world perceives the Straw Hats versus who they truly are.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Hopeful", "Suspenseful", "Comedic", "Dramatic"],
+  "characterSpotlights": [
+    {
+      "characterId": "chopper",
+      "role": "Supporting character showcasing crew loyalty",
+      "development": "Chopper demonstrates his growth and dedication by immediately wanting to help Luffy despite the dangers. His emotional reaction to the newspaper shows his concern for his captain.",
+      "keyActions": [
+        "Departs Torino Kingdom on a giant bird",
+        "Receives newspaper with shocking news",
+        "Reacts with shock to Luffy's return to Marineford"
+      ],
+      "quotes": ["I want to get back to Luffy and help him!"]
+    },
+    {
+      "characterId": "robin",
+      "role": "Supporting character showcasing intelligence",
+      "development": "Robin's ability to immediately understand Luffy's hidden message demonstrates her intelligence and deep understanding of her captain. Her smile shows both relief and confidence in Luffy's plan.",
+      "keyActions": [
+        "Travels with Revolutionary Army away from Tequila Wolf",
+        "Receives portrait from Soran",
+        "Reads newspaper and understands the hidden message",
+        "Smiles knowingly at Luffy's plan"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "sanji",
+      "role": "Main focus showcasing desperation and determination",
+      "development": "Sanji's struggle to prove his identity and his determination to learn about Luffy's condition shows his loyalty to his captain. Despite being defeated by Ivankov, he proves himself worthy of information.",
+      "keyActions": [
+        "Attempts to get a boat from Caroline",
+        "Meets returning Ivankov",
+        "Struggles with wanted poster identity verification",
+        "Battles Ivankov to prove himself",
+        "Receives and reacts to newspaper"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "dragon",
+      "role": "Strategic leader responding to world changes",
+      "development": "Dragon's brief appearance shows his role as a calculating leader who understands the implications of Whitebeard's death. His decision to gather commanders demonstrates his strategic thinking.",
+      "keyActions": [
+        "Contacts Ivankov from Baltigo",
+        "Discusses Luffy's recent actions",
+        "Decides to gather all Revolutionary Army commanders"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime shows Soran giving Robin a portrait, but Soran is an anime-only character not present in the manga. In the manga, these scenes with Soran are omitted.",
+      "episodeTimestamp": "09:20",
+      "mangaReference": "Chapter 593",
+      "type": "ANIME_ORIGINAL_CHARACTER"
+    },
+    {
+      "difference": "The scene of Luffy, Rayleigh, and Jinbe hijacking the Marine battleship and opening the Gates of Justice is extended in the anime. In the manga, this is not shown and they simply appear at Marineford.",
+      "episodeTimestamp": "02:30",
+      "mangaReference": "Chapter 591",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episode 510 aired on August 14, 2011, using 'Fight Together' by Namie Amuro as its opening theme. This was Namie Amuro's contribution to One Piece and was the final opening of the first half of the series.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Fight_Together",
+          "title": "Fight Together - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-16"
+        }
+      ]
+    },
+    {
+      "fact": "This episode had a TV rating of 9.4%, ranking 3rd in its timeslot, showing the strong viewership during the Post-War Arc despite it being a transitional arc.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_510",
+          "title": "Episode 510 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-16"
+        }
+      ]
+    },
+    {
+      "fact": "Sanji's poorly-drawn wanted poster has been a running gag since it was first revealed. This episode capitalizes on that joke by making it a genuine obstacle to Sanji being recognized.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "The episode covers parts of chapters 591 (pages 17-19) and 593 (pages 2-11), showing how the anime sometimes rearranges and combines manga content.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_510",
+          "title": "Episode 510 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-16"
+        }
+      ]
+    },
+    {
+      "fact": "Baltigo, the Revolutionary Army headquarters, makes its first appearance in this episode. The island would later be destroyed in a battle with the Blackbeard Pirates.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "This episode does not have an ending theme song. One Piece stopped using ending themes starting with episode 279, and they would not return until episode 1071 in 2023.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Music_of_One_Piece",
+          "title": "Music of One Piece - Wikipedia",
+          "platform": "Wikipedia",
+          "accessedAt": "2025-12-16"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
