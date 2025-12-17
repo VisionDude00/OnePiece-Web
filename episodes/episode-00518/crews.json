@@ -1,0 +1,152 @@
+[
+  {
+    "name": {
+      "english": "Fake Straw Hat Crew",
+      "japanese": "偽麦わらの一味",
+      "romanized": "Nise Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "demaro-black",
+    "debutEpisode": 518,
+    "debutChapter": 598,
+    "episodeAppearances": [518],
+    "members": [
+      {
+        "characterId": "demaro-black",
+        "role": "Captain (Fake Luffy)",
+        "episodeJoined": 518,
+        "episodeLeft": 518,
+        "joinCircumstances": "Led the fake crew by impersonating Monkey D. Luffy to exploit his reputation."
+      },
+      {
+        "characterId": "caribou",
+        "role": "Member",
+        "episodeJoined": 518,
+        "episodeLeft": 518,
+        "joinCircumstances": "Joined with his brother Coribou with the secret intention of killing the real Straw Hats from inside."
+      },
+      {
+        "characterId": "coribou",
+        "role": "Member",
+        "episodeJoined": 518,
+        "episodeLeft": 518,
+        "joinCircumstances": "Joined with his brother Caribou with the secret intention of killing the real Straw Hats from inside."
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 518,
+        "eventId": "ep518-event-001",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Fake Straw Hat Crew Confronts Real Luffy",
+        "description": "The Fake Straw Hat Crew, led by Demaro Black posing as Luffy, confronts the real Luffy on Sabaody Archipelago.",
+        "significance": "Introduction of the fake crew that has been recruiting pirates by exploiting the real Straw Hats' reputation.",
+        "timestamp": "06:15"
+      },
+      {
+        "episodeNumber": 518,
+        "eventId": "ep518-event-002",
+        "momentType": "BATTLE_END",
+        "title": "Entire Crew Knocked Out by Haki",
+        "description": "Luffy's Conqueror's Haki instantly knocks out Demaro Black and the entire Fake Straw Hat Crew.",
+        "significance": "Demonstrates the complete power gap between the fake and real crews, ending their impersonation scheme.",
+        "timestamp": "08:45"
+      },
+      {
+        "episodeNumber": 518,
+        "eventId": "ep518-event-008",
+        "momentType": "CREW_DEPARTURE",
+        "title": "Crew Disbanded by Marines",
+        "description": "After being knocked out by Luffy, the fake crew is apprehended by Sentomaru and the Marines with Pacifista support.",
+        "significance": "End of the Fake Straw Hat Crew's operation on Sabaody.",
+        "timestamp": "09:45"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [
+      {
+        "totalBounty": 426000000,
+        "episodeNumber": 518,
+        "memberBounties": {
+          "demaro-black": 26000000,
+          "caribou": 210000000,
+          "coribou": 190000000
+        }
+      }
+    ],
+    "jollyRoger": {
+      "description": "A poorly drawn imitation of the Straw Hat Pirates' skull with a straw hat",
+      "episodeFirstSeen": 518,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": [],
+      "enemies": ["straw-hat-pirates"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Caribou Pirates",
+      "japanese": "カリブー海賊団",
+      "romanized": "Karibū Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "caribou",
+    "debutEpisode": 518,
+    "debutChapter": 598,
+    "episodeAppearances": [518],
+    "members": [
+      {
+        "characterId": "caribou",
+        "role": "Co-Captain",
+        "episodeJoined": 518,
+        "episodeLeft": null,
+        "joinCircumstances": "Co-founded the crew with his brother Coribou."
+      },
+      {
+        "characterId": "coribou",
+        "role": "Co-Captain",
+        "episodeJoined": 518,
+        "episodeLeft": null,
+        "joinCircumstances": "Co-founded the crew with his brother Caribou."
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 518,
+        "eventId": "ep518-event-007",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Caribou Pirates Join Fake Straw Hats",
+        "description": "The Caribou Brothers, captains of the Caribou Pirates, are revealed to have joined the Fake Straw Hat Crew as part of their plan to infiltrate and kill the real Straw Hats.",
+        "significance": "Introduction of the Caribou Pirates and their dangerous intentions toward the Straw Hat crew.",
+        "timestamp": "10:15"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [
+      {
+        "totalBounty": 400000000,
+        "episodeNumber": 518,
+        "memberBounties": {
+          "caribou": 210000000,
+          "coribou": 190000000
+        }
+      }
+    ],
+    "jollyRoger": {
+      "description": "Unknown at this time",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "#8B4513",
+    "relationships": {
+      "allies": [],
+      "enemies": ["straw-hat-pirates"],
+      "parentOrganization": null
+    }
+  }
+]

@@ -1,0 +1,441 @@
+{
+  "episodeNumber": 520,
+  "episodeTitle": "Big Guns Assembled! The Danger of the Fake Straw Hats!",
+  "description": "Brook finishes his farewell concert and escapes from the Marines. Meanwhile, the Straw Hat crew members begin reuniting at Sabaody, with Usopp, Chopper, Robin, and Nami meeting Franky and his new upgrades. Luffy encounters the dangerous Fake Straw Hat Crew led by Demaro Black.",
+  "airDate": "2011-10-23",
+  "airDateJapan": "2011-10-23",
+  "airDateUS": "2011-10-22",
+  "arcName": "Return to Sabaody",
+  "sagaName": "Fish-Man Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Go!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [517, 590]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Shigefumi Shingaki",
+    "director": "Gō Koga",
+    "screenplay": "Jin Tanaka",
+    "artDirector": "Miho Shiraishi",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Brook",
+        "actor": "Chō"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Ōtani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Brook",
+        "actor": "Ian Sinclair"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep520-event-001",
+      "episodeNumber": 520,
+      "timestamp": "03:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Brook's Farewell Concert as Soul King",
+      "description": "Brook performs his final concert on Sabaody Archipelago as the world-famous musician 'Soul King' before reuniting with the Straw Hat Pirates. The crowd demands an encore, showing his immense popularity gained during the two-year timeskip.",
+      "significance": "Demonstrates Brook's tremendous growth in fame and influence during the timeskip, establishing him as a globally recognized celebrity who will rejoin the crew.",
+      "characterIds": ["brook"],
+      "locationIds": ["sabaody-archipelago"],
+      "quotes": [
+        {
+          "text": "Thank you all for coming! This will be my final performance!",
+          "speaker": "Brook",
+          "context": "Brook addressing his fans at his farewell concert"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [517],
+      "payoffInEpisodes": [521],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep520-event-002",
+      "episodeNumber": 520,
+      "timestamp": "05:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Brook Performs 'New World' and Declares Luffy is Alive",
+      "description": "During his final song 'New World', Brook publicly declares to the world that the rumors of Straw Hat Luffy's death are false and that Luffy is still alive. This bold proclamation is made despite the Marines' presence, showing Brook's unwavering loyalty to his captain.",
+      "significance": "Brook uses his worldwide platform to announce Luffy's survival to the world, countering the rumors and inspiring hope. This moment showcases Brook's courage and commitment to the Straw Hat Pirates.",
+      "characterIds": ["brook", "luffy"],
+      "locationIds": ["sabaody-archipelago"],
+      "quotes": [
+        {
+          "text": "Straw Hat Luffy... Dead? Ridiculous! Tell this to the world. The Pirate Straw Hat Luffy is ALIVE!",
+          "speaker": "Brook",
+          "context": "Brook's declaration during his performance of 'New World'"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [521],
+      "callbacksToEpisodes": [405, 516]
+    },
+    {
+      "id": "ep520-event-003",
+      "episodeNumber": 520,
+      "timestamp": "07:00",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MINOR",
+      "title": "Brook's Managers Betray Him to the Marines",
+      "description": "Brook's Longarm managers reveal his true identity to the Marines, confirming him as 'Humming Brook' with a 33,000,000 bounty and a member of the Straw Hat Pirates. They betray him because his retirement would cost them money.",
+      "significance": "Shows the mercenary nature of the music industry and sets up Brook's dramatic escape. It also confirms Brook's bounty is still active from 50 years ago.",
+      "characterIds": ["brook"],
+      "locationIds": ["sabaody-archipelago"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep520-event-004",
+      "episodeNumber": 520,
+      "timestamp": "10:00",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MINOR",
+      "title": "Brook Escapes on Flying Fish",
+      "description": "With the help of his concert audience holding off the Marines and his betrayers, Brook finishes his performance and is rescued by one of the Rosy Life Riders on a flying fish, successfully escaping Marine capture.",
+      "significance": "Brook successfully evades arrest and begins his journey to reunite with his crewmates, showing the loyalty of his fanbase and the help of unexpected allies.",
+      "characterIds": ["brook"],
+      "locationIds": ["sabaody-archipelago"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [521],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep520-event-005",
+      "episodeNumber": 520,
+      "timestamp": "12:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Crew Members Begin Reuniting",
+      "description": "Usopp, Chopper, Robin, and Nami arrive at the Thousand Sunny and begin reuniting after two years apart. They are excited to see each other and notice the changes everyone has undergone during the timeskip.",
+      "significance": "Marks the beginning of the Straw Hat Pirates' reunion after their two-year separation, building anticipation for the complete crew reassembly.",
+      "characterIds": ["usopp", "chopper", "robin", "nami"],
+      "locationIds": ["thousand-sunny", "sabaody-archipelago"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [517, 518, 519],
+      "payoffInEpisodes": [521],
+      "callbacksToEpisodes": [405]
+    },
+    {
+      "id": "ep520-event-006",
+      "episodeNumber": 520,
+      "timestamp": "14:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Franky Reveals His Post-Timeskip Modifications",
+      "description": "Franky appears before Usopp and Chopper with his drastically modified body. His appearance has changed dramatically with much larger arms, shoulders, and torso, featuring robotic enhancements including 'BF-37' written on his shoulder joints.",
+      "significance": "First reveal of Franky's major upgrades using Vegapunk's technology, demonstrating the results of his two years on Vegapunk's home island Baldimore and setting up his enhanced capabilities for the New World.",
+      "characterIds": ["franky", "usopp", "chopper"],
+      "locationIds": ["thousand-sunny", "sabaody-archipelago"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [517],
+      "payoffInEpisodes": [521, 522],
+      "callbacksToEpisodes": [405]
+    },
+    {
+      "id": "ep520-event-007",
+      "episodeNumber": 520,
+      "timestamp": "16:00",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Franky Demonstrates 'Franky Hair Salon'",
+      "description": "Franky demonstrates his new ability to change his hairstyle instantly by pressing his nose like a button for more than three seconds. His hair can be styled in various ways, showcasing the versatility of his modifications.",
+      "significance": "Demonstrates the creative and sometimes comedic nature of Franky's self-modifications, showing he hasn't lost his eccentric personality despite his serious upgrades.",
+      "characterIds": ["franky", "usopp", "chopper"],
+      "locationIds": ["thousand-sunny", "sabaody-archipelago"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep520-event-008",
+      "episodeNumber": 520,
+      "timestamp": "17:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "MINOR",
+      "title": "Franky Shows Enlarged Hands and Robotic Voice",
+      "description": "Franky reveals that his hands are now much larger, but he also has concealed normal-sized hands within his giant ones. He can also make his voice sound robotic, adding to his cyborg capabilities.",
+      "significance": "Further showcases the extent of Franky's technological upgrades and his ability to adapt his body for various situations, from combat to delicate work.",
+      "characterIds": ["franky", "usopp", "chopper"],
+      "locationIds": ["thousand-sunny", "sabaody-archipelago"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep520-event-009",
+      "episodeNumber": 520,
+      "timestamp": "18:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Introduction of the Fake Straw Hat Crew",
+      "description": "The Fake Straw Hat Crew is introduced, led by Demaro Black impersonating Luffy. The crew uses the real Straw Hats' reputation to intimidate and recruit other pirates on Sabaody Archipelago.",
+      "significance": "Introduces the antagonists for this arc and shows how the Straw Hats' reputation has grown during the timeskip, becoming valuable enough to impersonate.",
+      "characterIds": ["demaro-black", "manjaro", "chocolat", "turco", "mounblutain", "drip"],
+      "locationIds": ["sabaody-archipelago"],
+      "crewIds": ["fake-straw-hat-crew"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [517],
+      "payoffInEpisodes": [521],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep520-event-010",
+      "episodeNumber": 520,
+      "timestamp": "19:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Demaro Black Appears as Fake Luffy",
+      "description": "Demaro Black, also known as 'Three-Tongued' Demaro Black, appears impersonating Monkey D. Luffy. He is a tall, obese man who shoots anyone who even remotely displeases him, using the real Luffy's reputation to terrorize others.",
+      "significance": "Establishes the main antagonist of the Return to Sabaody Arc and creates dramatic irony as viewers know the real Luffy is present on the island.",
+      "characterIds": ["demaro-black"],
+      "locationIds": ["sabaody-archipelago"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [521],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep520-event-011",
+      "episodeNumber": 520,
+      "timestamp": "20:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Fake Straw Hats Recruit Pirates",
+      "description": "Using the Straw Hat Pirates' feared reputation, Demaro Black successfully recruits multiple pirate crews, totaling about 100 men. This includes some high-bounty pirates who believe they are joining the real Straw Hat crew.",
+      "significance": "Demonstrates how powerful the Straw Hat Pirates' reputation has become after the events at Marineford, and sets up the conflict that will be resolved when the real crew confronts the imposters.",
+      "characterIds": ["demaro-black"],
+      "locationIds": ["sabaody-archipelago"],
+      "crewIds": ["fake-straw-hat-crew"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [521],
+      "callbacksToEpisodes": [405, 516]
+    },
+    {
+      "id": "ep520-event-012",
+      "episodeNumber": 520,
+      "timestamp": "21:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Luffy Encounters Fake Zoro and Fake Sanji",
+      "description": "Luffy wanders around Sabaody and encounters members of the Fake Straw Hat Crew, including the imposters pretending to be Zoro and Sanji, though he doesn't immediately realize they are fakes.",
+      "significance": "Sets up the confrontation between the real and fake Straw Hats, building tension for the next episode's resolution.",
+      "characterIds": ["luffy", "manjaro", "drip"],
+      "locationIds": ["sabaody-archipelago"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [521],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["demaro-black", "manjaro", "chocolat", "turco", "mounblutain", "drip"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": ["fake-straw-hat-crew"],
+    "abilities": ["franky-hair-salon"]
+  },
+  "episodeRelationships": {
+    "setupFor": [521, 522],
+    "payoffFrom": [517, 518, 519],
+    "thematicLinks": [405]
+  },
+  "quotes": [
+    {
+      "text": "Straw Hat Luffy... Dead? Ridiculous! Tell this to the world. The Pirate Straw Hat Luffy is ALIVE!",
+      "speaker": "Brook",
+      "context": "Brook's declaration during his performance of 'New World'",
+      "timestamp": "05:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Reunion and Growth",
+      "description": "The episode focuses on the Straw Hat Pirates beginning to reunite after two years apart, each member having grown significantly in strength, ability, and reputation.",
+      "symbolism": "Brook's farewell concert symbolizes leaving behind the past two years and returning to the crew, while Franky's modifications represent the physical manifestation of growth and preparation for the New World.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Identity and Reputation",
+      "description": "The episode explores how the Straw Hats' reputation has grown so powerful that others impersonate them for personal gain, while also showing the crew members' individual accomplishments during the separation.",
+      "symbolism": "The Fake Straw Hat Crew represents the shadow of the real crew's reputation, showing how far-reaching their influence has become.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Exciting", "Comedic", "Anticipatory", "Triumphant"],
+  "characterSpotlights": [
+    {
+      "characterId": "brook",
+      "role": "Featured Character",
+      "development": "Brook completes his transformation from a forgotten pirate to a world-famous musician, using his final performance to declare his loyalty to Luffy and the crew before escaping to rejoin them.",
+      "keyActions": [
+        "Performs his farewell concert as Soul King",
+        "Declares Luffy is alive to the world",
+        "Escapes from the Marines on a flying fish"
+      ],
+      "quotes": ["Straw Hat Luffy... Dead? Ridiculous! Tell this to the world. The Pirate Straw Hat Luffy is ALIVE!"]
+    },
+    {
+      "characterId": "franky",
+      "role": "Featured Character",
+      "development": "Franky reveals his major body modifications from studying Vegapunk's technology, showcasing both powerful upgrades and humorous features that maintain his eccentric personality.",
+      "keyActions": [
+        "Reunites with Usopp, Chopper, Robin, and Nami",
+        "Reveals his drastically modified post-timeskip body",
+        "Demonstrates new abilities including Franky Hair Salon and enlarged hands"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime expanded Brook's concert performance, adding more detail to his 45-degree pose routine and the crowd's reactions.",
+      "episodeTimestamp": "03:00",
+      "mangaReference": "Chapter 600",
+      "type": "EXPANDED_SCENE"
+    },
+    {
+      "difference": "The anime added scenes depicting Brook's past with the Longarm Tribe and his managers' emotional reactions to reporting him to the Marines.",
+      "episodeTimestamp": "07:00",
+      "mangaReference": "Chapter 600",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episode 520 aired on October 23, 2011 in Japan, marking the beginning of the Straw Hats' reunion after the two-year timeskip.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_520",
+          "title": "Episode 520 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-17"
+        }
+      ]
+    },
+    {
+      "fact": "The episode covers Chapter 600 (pages 8-19), which was a milestone chapter in the manga representing the beginning of the post-timeskip era.",
+      "category": "MANGA_ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_520",
+          "title": "Episode 520 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-17"
+        }
+      ]
+    },
+    {
+      "fact": "Brook's song 'New World' was officially released as a character song on December 21, 2011, featuring Chō (Brook's Japanese voice actor) and Ian Sinclair for the English version.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/New_World_(Song)",
+          "title": "New World (Song) - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-17"
+        }
+      ]
+    },
+    {
+      "fact": "This episode had a TV rating of 12.6% in Japan, ranking 2nd in its timeslot.",
+      "category": "RATINGS",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_520",
+          "title": "Episode 520 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-17"
+        }
+      ]
+    },
+    {
+      "fact": "From Episode 279 onwards, Toei Animation stopped animating ending themes to make room for longer opening sequences, which is why Episode 520 has no ending theme.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/One_Piece_(season_15)",
+          "title": "One Piece season 15 - Wikipedia",
+          "platform": "Wikipedia",
+          "accessedAt": "2025-12-17"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
