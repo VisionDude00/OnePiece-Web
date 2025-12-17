@@ -1,0 +1,628 @@
+{
+  "episodeNumber": 521,
+  "episodeTitle": "The Battle is on! Show Them What You Got From Training!",
+  "description": "After two years of separation, the Straw Hat Pirates reunite at Sabaody Archipelago. When Marines attack the Fake Straw Hat Crew at Grove #46, Sentomaru exposes the impostor Luffy as Demaro Black. The real Luffy then demonstrates his newfound power by single-handedly defeating a Pacifista using Haki and Gear Second, while Zoro and Sanji team up to destroy another Pacifista, showcasing the incredible strength gained during their two-year training.",
+  "airDate": "2011-10-30",
+  "airDateJapan": "2011-10-30",
+  "airDateUS": "2011-10-29",
+  "arcName": "Return to Sabaody",
+  "sagaName": "Fish-Man Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Go!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [517, 590]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Masayuki Takagi",
+    "episodeDirector": "Takashi Ōtsuka",
+    "screenplay": "Hirohiko Kamisaka",
+    "artDirection": "Ryūji Yoshiike",
+    "storyboard": "",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Brook",
+        "actor": "Cho"
+      },
+      {
+        "character": "Silvers Rayleigh",
+        "actor": "Keiichi Sonobe"
+      },
+      {
+        "character": "Sentomaru",
+        "actor": "Kazue Ikura"
+      },
+      {
+        "character": "Caribou",
+        "actor": "Masaki Terasoma"
+      },
+      {
+        "character": "Demaro Black",
+        "actor": "Hiroyuki Yoshino"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Brook",
+        "actor": "Ian Sinclair"
+      },
+      {
+        "character": "Silvers Rayleigh",
+        "actor": "Bruce Carey"
+      },
+      {
+        "character": "Sentomaru",
+        "actor": "Greg Ayres"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep521-event-001",
+      "episodeNumber": 521,
+      "timestamp": "02:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Rayleigh Instructs the Straw Hats at Grove 17",
+      "description": "At Grove 17, Rayleigh meets with Nami, Robin, Franky, Chopper, and Usopp on the Thousand Sunny. He informs them that Luffy has arrived on the island and teaches Nami how to operate a coated ship, instructing her to move the ship to Grove 42 to wait for the full crew assembly.",
+      "significance": "Sets up the crew's reunion point and demonstrates that Rayleigh has successfully completed the ship coating for their journey to Fish-Man Island.",
+      "characterIds": ["rayleigh", "nami", "robin", "franky", "chopper", "usopp"],
+      "locationIds": ["sabaody-archipelago-grove-17"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [517, 518, 519, 520],
+      "payoffInEpisodes": [522],
+      "callbacksToEpisodes": [512]
+    },
+    {
+      "id": "ep521-event-002",
+      "episodeNumber": 521,
+      "timestamp": "05:30",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Marines Attack the Pirates at Grove 46",
+      "description": "At Grove 46, where numerous pirates have gathered following Fake Luffy's recruitment call, Marines arrive to arrest them all. A battle breaks out between the assembled pirates and Marine forces.",
+      "significance": "Creates the chaotic situation that will expose the Fake Straw Hat Crew and set up the demonstration of the real Straw Hats' new powers.",
+      "characterIds": ["demaro-black", "caribou"],
+      "locationIds": ["sabaody-archipelago-grove-46"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [519, 520],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep521-event-003",
+      "episodeNumber": 521,
+      "timestamp": "07:45",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Caribou's Numa Numa no Mi Debut",
+      "description": "When Fake Luffy orders Caribou to use a captured Marine as a shield, Caribou instead kills the Marine scout. A Marine attempts to attack Caribou with a sword but fails, revealing that Caribou possesses a Logia Devil Fruit - the Numa Numa no Mi (Swamp-Swamp Fruit). He uses his swamp powers to smother and shoot the Marine.",
+      "significance": "First Logia-type Devil Fruit and first new Devil Fruit revealed after the two-year timeskip, establishing Caribou as a dangerous pirate despite his later comedic portrayal.",
+      "characterIds": ["caribou"],
+      "locationIds": ["sabaody-archipelago-grove-46"],
+      "devilFruitIds": ["numa-numa-no-mi"],
+      "quotes": [
+        {
+          "text": "I'm a Logia-type Devil Fruit user!",
+          "speaker": "Caribou",
+          "context": "Caribou reveals his Devil Fruit powers while attacking Marines"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [523, 524, 525],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep521-event-004",
+      "episodeNumber": 521,
+      "timestamp": "10:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Sentomaru and Pacifistas Arrive",
+      "description": "Just as the battle seems to favor the Fake Straw Hats and allied pirates, Sentomaru arrives with two Pacifista units (PX-5 and PX-7). His arrival immediately terrifies the assembled pirates who remember the power of these cyborg weapons from two years ago.",
+      "significance": "Reintroduces Sentomaru and the Pacifistas, setting up the contrast between how difficult they were to defeat two years ago versus the ease with which the Straw Hats will defeat them now.",
+      "characterIds": ["sentomaru"],
+      "locationIds": ["sabaody-archipelago-grove-46"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [402, 403, 404, 405]
+    },
+    {
+      "id": "ep521-event-005",
+      "episodeNumber": 521,
+      "timestamp": "12:15",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Sentomaru Exposes Fake Luffy as Demaro Black",
+      "description": "Fake Luffy collides with Sentomaru and begins bragging about being Luffy, claiming to be Dragon's son, Garp's grandson, a participant in the War of the Best, and having a 400 million berry bounty. Sentomaru cuts him off by smashing him with the broadside of his axe, declaring that Luffy is not trash like him. He then orders PX-5 to scan and identify the impostor, revealing him to be 'Three-Tongued' Demaro Black with a bounty of only 26 million berries.",
+      "significance": "Exposes the Fake Straw Hat Crew deception and sets up the appearance of the real Luffy. Demonstrates the massive gap between Luffy's actual reputation and the impostor's true standing.",
+      "characterIds": ["sentomaru", "demaro-black"],
+      "locationIds": ["sabaody-archipelago-grove-46"],
+      "quotes": [
+        {
+          "text": "Luffy ain't a piece of trash like you!",
+          "speaker": "Sentomaru",
+          "context": "Sentomaru rebukes Fake Luffy before exposing his true identity"
+        },
+        {
+          "text": "Target identified: Three-Tongued Demaro Black, bounty 26,000,000 berries.",
+          "speaker": "PX-5",
+          "context": "The Pacifista reveals Fake Luffy's true identity"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [519, 520],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep521-event-006",
+      "episodeNumber": 521,
+      "timestamp": "14:50",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Real Luffy's Identity Revealed at Sabaody",
+      "description": "As PX-5 begins its attack, the real Luffy's disguise falls away, revealing his identity to the shocked crowd. Everyone present, including Sentomaru and the Marines, is stunned to see the actual Monkey D. Luffy standing before them at Grove 46.",
+      "significance": "Marks the official return of Luffy to the world stage after two years, setting up his demonstration of newfound power. This is the moment the world learns that Luffy has returned and is ready for the New World.",
+      "characterIds": ["luffy", "sentomaru"],
+      "locationIds": ["sabaody-archipelago-grove-46"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [517, 518, 519, 520],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [405]
+    },
+    {
+      "id": "ep521-event-007",
+      "episodeNumber": 521,
+      "timestamp": "16:30",
+      "eventType": "BATTLE_START",
+      "severity": "CRITICAL",
+      "title": "Luffy vs PX-5 Battle Begins",
+      "description": "PX-5 is ordered by Sentomaru to attack Luffy. The Pacifista fires three laser beams from its mouth at Luffy, but Luffy effortlessly dodges all attacks. The crowd watches in amazement as Luffy avoids the Pacifista's assaults with ease.",
+      "significance": "Demonstrates immediately that Luffy's speed and observation capabilities have dramatically improved during the timeskip. Sets up his decisive victory.",
+      "characterIds": ["luffy", "sentomaru"],
+      "locationIds": ["sabaody-archipelago-grove-46"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [405]
+    },
+    {
+      "id": "ep521-event-008",
+      "episodeNumber": 521,
+      "timestamp": "18:15",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Luffy Uses Haki-Enhanced Gear Second to Destroy PX-5",
+      "description": "Luffy activates Gear Second and combines it with Armament Haki, his arm turning black with the coating. With a single Haki-enhanced punch (Gomu Gomu no Jet Pistol), Luffy completely destroys PX-5, shattering the Pacifista that took the entire crew's combined efforts to damage two years ago. The assembled pirates and Marines watch in absolute shock.",
+      "significance": "First demonstration of Luffy's post-timeskip Haki abilities in combat. Dramatically illustrates the level of power the Straw Hats have achieved during their training. This single moment proves that Luffy is now ready for the New World and establishes the new power scale for the post-timeskip era.",
+      "characterIds": ["luffy"],
+      "locationIds": ["sabaody-archipelago-grove-46"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [
+        {
+          "text": "Gomu Gomu no... Jet Pistol!",
+          "speaker": "Luffy",
+          "context": "Luffy uses his Haki-enhanced attack to destroy PX-5 in one hit"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [517],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [405]
+    },
+    {
+      "id": "ep521-event-009",
+      "episodeNumber": 521,
+      "timestamp": "19:45",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Zoro and Sanji Encounter PX-7",
+      "description": "As Luffy runs from Grove 46, he encounters Zoro and Sanji. At the same time, PX-7 appears and targets them. Instead of showing fear like they did two years ago, both Zoro and Sanji remain completely calm and confident.",
+      "significance": "Sets up the demonstration that it's not just Luffy who has grown stronger - the entire crew has achieved dramatic power increases.",
+      "characterIds": ["luffy", "zoro", "sanji"],
+      "locationIds": ["sabaody-archipelago"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [405]
+    },
+    {
+      "id": "ep521-event-010",
+      "episodeNumber": 521,
+      "timestamp": "20:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Zoro and Sanji Defeat PX-7 Together",
+      "description": "Zoro and Sanji team up to battle PX-7. Zoro uses a powerful sword technique while Sanji activates his Diable Jambe (though the flames aren't shown hitting PX-7 in the anime). Together, they completely destroy the Pacifista with ease, demonstrating their post-timeskip strength.",
+      "significance": "Confirms that all the Straw Hat fighters have achieved similar power growth during the timeskip. Pacifistas, which were nearly unbeatable threats two years ago, are now easily defeated by individual crew members.",
+      "characterIds": ["zoro", "sanji"],
+      "locationIds": ["sabaody-archipelago"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [517, 518],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [405]
+    },
+    {
+      "id": "ep521-event-011",
+      "episodeNumber": 521,
+      "timestamp": "21:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "The Straw Hats Run Together Toward the Sunny",
+      "description": "Luffy, Zoro, and Sanji run together through Sabaody Archipelago toward the Thousand Sunny and their waiting crewmates. The three of them move in sync, showcasing their reunion and readiness to set sail for the New World.",
+      "significance": "Symbolic moment showing the Monster Trio reunited and moving forward together. Represents the crew's return to action as a unified force.",
+      "characterIds": ["luffy", "zoro", "sanji"],
+      "locationIds": ["sabaody-archipelago"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [522],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep521-event-012",
+      "episodeNumber": 521,
+      "timestamp": "22:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Luffy Thanks Rayleigh and Reaffirms His Dream",
+      "description": "As they run toward the ship, Luffy stops momentarily because he senses Rayleigh nearby. He turns and shouts his gratitude to Rayleigh for everything he did during the past two years of training. He then loudly declares that he will definitely become the Pirate King. Rayleigh watches with a smile, with tears in his eyes (in the manga).",
+      "significance": "Emotional payoff to Rayleigh's training arc. Demonstrates Luffy's growth not just in power but in gratitude and determination. Rayleigh's response shows his faith in Luffy's potential to achieve his dream.",
+      "characterIds": ["luffy", "rayleigh"],
+      "locationIds": ["sabaody-archipelago"],
+      "quotes": [
+        {
+          "text": "Thank you for everything, Rayleigh! I'm definitely going to become the Pirate King!",
+          "speaker": "Luffy",
+          "context": "Luffy's final declaration to Rayleigh before departing for the New World"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [517],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [400, 401, 402, 403, 404, 405]
+    }
+  ],
+  "debuts": {
+    "characters": ["caribou", "demaro-black"],
+    "locations": [],
+    "devilFruits": ["numa-numa-no-mi"],
+    "crews": ["fake-straw-hat-crew"],
+    "abilities": ["haki-armament-luffy", "numa-numa-abilities"]
+  },
+  "episodeRelationships": {
+    "setupFor": [522, 523],
+    "payoffFrom": [517, 518, 519, 520],
+    "thematicLinks": [405, 517]
+  },
+  "quotes": [
+    {
+      "text": "Luffy ain't a piece of trash like you!",
+      "speaker": "Sentomaru",
+      "context": "Sentomaru rebukes Fake Luffy before exposing his true identity",
+      "timestamp": "12:15"
+    },
+    {
+      "text": "Target identified: Three-Tongued Demaro Black, bounty 26,000,000 berries.",
+      "speaker": "PX-5",
+      "context": "The Pacifista reveals Fake Luffy's true identity",
+      "timestamp": "12:30"
+    },
+    {
+      "text": "Gomu Gomu no... Jet Pistol!",
+      "speaker": "Luffy",
+      "context": "Luffy uses his Haki-enhanced attack to destroy PX-5 in one hit",
+      "timestamp": "18:15"
+    },
+    {
+      "text": "Thank you for everything, Rayleigh! I'm definitely going to become the Pirate King!",
+      "speaker": "Luffy",
+      "context": "Luffy's final declaration to Rayleigh before departing for the New World",
+      "timestamp": "22:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Growth and Progress",
+      "description": "The episode heavily emphasizes the dramatic growth the Straw Hat Pirates have achieved during their two-year separation. What once required the entire crew's combined strength now falls easily to individual members.",
+      "symbolism": "The Pacifistas serve as a measuring stick for the crew's growth - they were nearly unstoppable two years ago but are now easily defeated.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Mentorship and Gratitude",
+      "description": "Luffy's relationship with Rayleigh is highlighted, showing the importance of mentorship and the gratitude students owe their teachers.",
+      "symbolism": "Rayleigh watching Luffy depart represents the passing of the torch from one generation to the next.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Truth vs Deception",
+      "description": "The contrast between Fake Luffy and the real Luffy demonstrates that true strength cannot be imitated. Reputation must be earned through genuine accomplishment.",
+      "symbolism": "Demaro Black's exposure represents how frauds are revealed when confronted with reality.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Reunion and Moving Forward",
+      "description": "After two years apart, the crew reunites stronger than ever and ready to face the New World together.",
+      "symbolism": "The Monster Trio running together toward the Thousand Sunny symbolizes the crew's unified forward momentum.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Triumphant", "Exciting", "Nostalgic", "Inspirational"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist demonstrating post-timeskip power",
+      "development": "Luffy reveals his mastery of Haki and improved Gear Second techniques, showing he has achieved the strength needed for the New World. His gratitude toward Rayleigh also shows emotional maturity.",
+      "keyActions": [
+        "Identity revealed at Grove 46",
+        "Effortlessly dodges PX-5's laser attacks",
+        "Destroys PX-5 with a single Haki-enhanced Gomu Gomu no Jet Pistol",
+        "Thanks Rayleigh and reaffirms his dream to become Pirate King"
+      ],
+      "quotes": [
+        "Gomu Gomu no... Jet Pistol!",
+        "Thank you for everything, Rayleigh! I'm definitely going to become the Pirate King!"
+      ]
+    },
+    {
+      "characterId": "sentomaru",
+      "role": "Antagonist exposing the Fake Straw Hats",
+      "development": "Sentomaru returns as a Marine officer, showing his continued loyalty to his duty and his respect for the real Luffy by calling out the impostor.",
+      "keyActions": [
+        "Arrives with Pacifistas at Grove 46",
+        "Strikes Fake Luffy with his axe",
+        "Orders PX-5 to expose Demaro Black's true identity",
+        "Commands PX-5 to attack the real Luffy"
+      ],
+      "quotes": ["Luffy ain't a piece of trash like you!"]
+    },
+    {
+      "characterId": "caribou",
+      "role": "New antagonist debut",
+      "development": "Caribou is introduced as a cruel pirate with Logia Devil Fruit powers, establishing him as a dangerous threat despite later becoming more comedic.",
+      "keyActions": [
+        "Kills a Marine scout instead of using him as a shield",
+        "Reveals his Numa Numa no Mi powers",
+        "Demonstrates his Logia intangibility and swamp abilities"
+      ],
+      "quotes": ["I'm a Logia-type Devil Fruit user!"]
+    },
+    {
+      "characterId": "demaro-black",
+      "role": "Antagonist exposed as fraud",
+      "development": "Fake Luffy is revealed as Demaro Black, a low-level pirate who tried to exploit Luffy's reputation. His exposure demonstrates the vast gap between imitation and reality.",
+      "keyActions": [
+        "Orders Caribou to use Marine as shield",
+        "Collides with Sentomaru",
+        "Brags about being Luffy and his accomplishments",
+        "Gets struck by Sentomaru and exposed by PX-5"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "zoro",
+      "role": "Supporting character demonstrating growth",
+      "development": "Zoro shows his post-timeskip strength by easily helping defeat a Pacifista that would have been a serious threat two years ago.",
+      "keyActions": [
+        "Encounters Luffy while traveling through Sabaody",
+        "Faces PX-7 without fear",
+        "Teams up with Sanji to destroy PX-7",
+        "Runs with Luffy and Sanji toward the Thousand Sunny"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "sanji",
+      "role": "Supporting character demonstrating growth",
+      "development": "Sanji demonstrates his improved abilities including Diable Jambe, showing his training has paid off significantly.",
+      "keyActions": [
+        "Encounters Luffy while traveling through Sabaody",
+        "Faces PX-7 calmly alongside Zoro",
+        "Uses Diable Jambe to help destroy PX-7",
+        "Runs with Luffy and Zoro toward the Thousand Sunny"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "rayleigh",
+      "role": "Mentor figure",
+      "development": "Rayleigh completes his role as Luffy's mentor, having prepared both Luffy and the Thousand Sunny for their journey to the New World.",
+      "keyActions": [
+        "Instructs Nami on operating a coated ship",
+        "Watches from afar as Luffy defeats the Pacifista",
+        "Smiles as Luffy declares he'll become Pirate King"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "In the manga, Caribou first revealed his Devil Fruit powers against Fake Sanji (Drip), but in the anime he reveals them against a Marine soldier.",
+      "episodeTimestamp": "07:45",
+      "mangaReference": "Chapter 601",
+      "type": "SCENE_CHANGE"
+    },
+    {
+      "difference": "In the manga, when Sentomaru struck Fake Luffy with his axe, he used both hands, while in the anime he only used one hand.",
+      "episodeTimestamp": "12:15",
+      "mangaReference": "Chapter 601",
+      "type": "ANIMATION_DIFFERENCE"
+    },
+    {
+      "difference": "In the manga, PX-5 launched one laser beam from its hand at Luffy, while in the anime it fired three laser beams from its mouth.",
+      "episodeTimestamp": "16:30",
+      "mangaReference": "Chapter 601",
+      "type": "POWER_DISPLAY_DIFFERENCE"
+    },
+    {
+      "difference": "The anime shows Luffy pumping his arm when activating Gear Second. In the manga, Luffy punched PX-5 with his left hand, while in the anime he uses his right hand.",
+      "episodeTimestamp": "18:15",
+      "mangaReference": "Chapter 601",
+      "type": "ANIMATION_DIFFERENCE"
+    },
+    {
+      "difference": "The anime shows Sanji spinning to activate Diable Jambe which was not shown in the manga, but the anime does not show the flames hitting PX-7 as it does in the manga.",
+      "episodeTimestamp": "20:30",
+      "mangaReference": "Chapter 601",
+      "type": "ANIMATION_DIFFERENCE"
+    },
+    {
+      "difference": "In the manga, PX-7 was using its palm lasers against Zoro and Sanji, but in the anime it was using its mouth laser.",
+      "episodeTimestamp": "20:30",
+      "mangaReference": "Chapter 601",
+      "type": "POWER_DISPLAY_DIFFERENCE"
+    },
+    {
+      "difference": "Rayleigh is not shown with tears in his eyes upon Luffy shouting at the end in the anime, but he has tears in the manga.",
+      "episodeTimestamp": "22:45",
+      "mangaReference": "Chapter 601",
+      "type": "EMOTIONAL_DIFFERENCE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the first time Luffy uses Armament Haki in combat in the anime, with his arm turning black when he attacks PX-5.",
+      "category": "POWER_REVEAL",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_521",
+          "title": "Episode 521 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-17"
+        }
+      ]
+    },
+    {
+      "fact": "The Numa Numa no Mi is the first Logia-type Devil Fruit and the first new Devil Fruit of any kind revealed after the two-year timeskip.",
+      "category": "DEVIL_FRUIT",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Numa_Numa_no_Mi",
+          "title": "Numa Numa no Mi - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-17"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 521 adapts Chapter 601 (pages 2-19) of the manga, which is titled 'Romance Dawn for the New World,' marking a fresh start for the series.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_521",
+          "title": "Episode 521 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-17"
+        }
+      ]
+    },
+    {
+      "fact": "This episode had a TV rating of 10.8%, ranking 4th in its time slot when it aired in Japan.",
+      "category": "RATINGS",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_521",
+          "title": "Episode 521 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-17"
+        }
+      ]
+    },
+    {
+      "fact": "The ease with which Luffy defeats PX-5 solo is a dramatic contrast to Episode 405, where it took the entire Straw Hat crew's combined efforts just to damage a Pacifista before Kuma teleported them away.",
+      "category": "CALLBACK",
+      "sources": []
+    },
+    {
+      "fact": "Demaro Black's bounty of 26 million berries is actually higher than Arlong's bounty of 20 million, despite being portrayed as much weaker and more pathetic.",
+      "category": "BOUNTY",
+      "sources": [
+        {
+          "url": "https://gamerant.com/one-piece-fake-luffy-has-a-higher-bounty-than-arlong/",
+          "title": "One Piece: Fake Luffy Has A Higher Bounty Than Arlong",
+          "platform": "GameRant",
+          "accessedAt": "2025-12-17"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
