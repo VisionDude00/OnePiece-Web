@@ -1,0 +1,438 @@
+{
+  "episodeNumber": 436,
+  "episodeTitle": "The Showdown Has Come! Luffy's Desperate Last Attack!",
+  "description": "Luffy battles Warden Magellan in a desperate attempt to reach Ace, but despite using Gear Second, he becomes completely engulfed in deadly poison. Meanwhile, Bentham (Mr. 2 Bon Clay) fights to rescue Buggy and Galdino (Mr. 3) from Vice Warden Hannyabal, declaring them friends worth saving.",
+  "airDate": "2010-01-31",
+  "airDateJapan": "2010-01-31",
+  "airDateUS": "2010-01-30",
+  "arcName": "Impel Down",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Kaze wo Sagashite",
+    "artist": "Mari Yaguchi and Straw Hat",
+    "episodeRange": [426, 458]
+  },
+  "endingSong": null,
+  "credits": {
+    "screenplay": "Jin Tanaka",
+    "artDirection": "Miyuki Sato",
+    "animationDirector": "Shigefumi Shingaki",
+    "episodeDirector": "Hiroaki Miyamoto",
+    "storyboard": "",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Magellan",
+        "actor": "Mitsuaki Hoshino"
+      },
+      {
+        "character": "Bentham (Mr. 2 Bon Clay)",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Buggy",
+        "actor": "Shigeru Chiba"
+      },
+      {
+        "character": "Galdino (Mr. 3)",
+        "actor": "Nobuyuki Hiyama"
+      },
+      {
+        "character": "Hannyabal",
+        "actor": "Masaya Takatsuka"
+      },
+      {
+        "character": "Portgas D. Ace",
+        "actor": "Toshio Furukawa"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Magellan",
+        "actor": "Jeremy Inman"
+      },
+      {
+        "character": "Bentham (Mr. 2 Bon Clay)",
+        "actor": "Barry Yandell"
+      },
+      {
+        "character": "Buggy",
+        "actor": "Mike McFarland"
+      },
+      {
+        "character": "Galdino (Mr. 3)",
+        "actor": "Duncan Brannan"
+      },
+      {
+        "character": "Hannyabal",
+        "actor": "Chuck Huber"
+      },
+      {
+        "character": "Portgas D. Ace",
+        "actor": "Travis Willingham"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep436-event-001",
+      "episodeNumber": 436,
+      "timestamp": "03:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Luffy vs Magellan - Final Showdown Begins",
+      "description": "Luffy confronts Warden Magellan in a desperate battle to break through to Ace. Despite being heavily poisoned from their previous encounter, Luffy refuses to give up and charges at the warden with unwavering determination.",
+      "significance": "This battle represents one of Luffy's most devastating defeats in the series, showing the limits of his power at this point and the immense sacrifice he's willing to make to save his brother.",
+      "characterIds": ["luffy", "magellan"],
+      "locationIds": ["impel-down-level-4"],
+      "quotes": [
+        {
+          "text": "I'm going to save Ace no matter what!",
+          "speaker": "Luffy",
+          "context": "Luffy's declaration of his unwavering resolve to rescue his brother despite facing impossible odds"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [435],
+      "payoffInEpisodes": [437, 438],
+      "callbacksToEpisodes": [430, 435]
+    },
+    {
+      "id": "ep436-event-002",
+      "episodeNumber": 436,
+      "timestamp": "06:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Magellan's Venom Blowfish",
+      "description": "Magellan shoots a concentrated poison ball called Venom Blowfish (Doku Fugu) from his mouth. The deadly projectile forces Luffy to dodge, demonstrating another versatile application of Magellan's Doku Doku no Mi powers.",
+      "significance": "Showcases the versatility of Magellan's poison abilities beyond close-range attacks, making him even more formidable as he can attack from a distance.",
+      "characterIds": ["magellan", "luffy"],
+      "locationIds": ["impel-down-level-4"],
+      "devilFruitIds": ["doku-doku-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [435],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep436-event-003",
+      "episodeNumber": 436,
+      "timestamp": "08:20",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Luffy Activates Gear Second Against Magellan",
+      "description": "In a desperate attempt to land a decisive blow, Luffy activates Gear Second, increasing his speed and power. He charges at Magellan with enhanced abilities, but the warden is prepared with his poison defenses.",
+      "significance": "Demonstrates that even Luffy's enhanced Gear Second abilities are insufficient against Magellan's overwhelming poison, highlighting the vast gap in their current power levels.",
+      "characterIds": ["luffy", "magellan"],
+      "locationIds": ["impel-down-level-4"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [435],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [272, 273]
+    },
+    {
+      "id": "ep436-event-004",
+      "episodeNumber": 436,
+      "timestamp": "09:15",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Magellan's Hydra Poison Attack",
+      "description": "Magellan summons his Hydra technique, creating a massive dragon-like formation of poison that completely engulfs Luffy. The attack is so powerful that it overwhelms even Luffy's determination and Gear Second speed.",
+      "significance": "The Hydra represents one of Magellan's most powerful techniques and becomes the attack that ultimately defeats Luffy in this battle, covering him from head to toe in deadly poison.",
+      "characterIds": ["magellan", "luffy"],
+      "locationIds": ["impel-down-level-4"],
+      "devilFruitIds": ["doku-doku-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [435],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [425]
+    },
+    {
+      "id": "ep436-event-005",
+      "episodeNumber": 436,
+      "timestamp": "11:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Gomu Gomu no Jet Twin Pistol",
+      "description": "Using Gear Second, Luffy unleashes a Jet Twin Pistol attack, attempting to break through Magellan's poison defenses. He manages to blow the warden back momentarily, but the attack proves insufficient to defeat him.",
+      "significance": "Shows Luffy using an enhanced dual-handed version of his Jet Pistol technique, but even this powerful attack cannot overcome Magellan's poison abilities.",
+      "characterIds": ["luffy", "magellan"],
+      "locationIds": ["impel-down-level-4"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [
+        {
+          "text": "Gomu Gomu no... Jet Twin Pistol!",
+          "speaker": "Luffy",
+          "context": "Luffy's desperate attack using Gear Second to try to defeat Magellan"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep436-event-006",
+      "episodeNumber": 436,
+      "timestamp": "13:00",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Magellan's Venom Cloud",
+      "description": "Magellan breathes out large amounts of poisonous breath, creating a fog-like cover called Venom Cloud that fills the area. This poisonous fog blurs Luffy's sight, disorients him, and slowly weakens him as he inhales the toxic fumes.",
+      "significance": "Demonstrates another deadly application of Magellan's poison abilities that attacks the nervous system and senses, making it nearly impossible for opponents to fight effectively.",
+      "characterIds": ["magellan", "luffy"],
+      "locationIds": ["impel-down-level-4"],
+      "devilFruitIds": ["doku-doku-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep436-event-007",
+      "episodeNumber": 436,
+      "timestamp": "15:45",
+      "eventType": "BATTLE_END",
+      "severity": "CRITICAL",
+      "title": "Luffy's Defeat - Completely Poisoned",
+      "description": "Luffy collapses, completely covered in Magellan's deadly poison from head to toe. Magellan declares that Luffy will agonize for 24 hours before dying and descending into 'the real Hell.' The guards prepare to take Luffy's poisoned body to Level 5, Freezing Hell.",
+      "significance": "This marks one of Luffy's most devastating and complete defeats in the entire series. Unlike other battles where he could recover and continue, here he is utterly overwhelmed and faces certain death without intervention. This defeat emphasizes the stakes of the Impel Down arc and Luffy's desperate situation.",
+      "characterIds": ["luffy", "magellan"],
+      "locationIds": ["impel-down-level-4"],
+      "devilFruitIds": ["doku-doku-no-mi"],
+      "quotes": [
+        {
+          "text": "There is no way to neutralize the amount of poison you've absorbed. For 24 hours you will agonize, and then you'll descend into the real Hell.",
+          "speaker": "Magellan",
+          "context": "Magellan's grim pronouncement of Luffy's fate after defeating him with poison"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [435],
+      "payoffInEpisodes": [437, 438, 439],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep436-event-008",
+      "episodeNumber": 436,
+      "timestamp": "17:20",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Bentham's Declaration of Friendship",
+      "description": "After defeating Hannyabal through disguise, Bentham (Mr. 2 Bon Clay) reveals his true identity to Buggy and Galdino. When Buggy questions why he would risk everything to save them, Bentham passionately declares that they are friends and that friendship needs no other reason.",
+      "significance": "This moment showcases Bentham's character growth and establishes the theme of friendship that runs through the Impel Down arc. His selfless dedication to saving his friends, even at great personal risk, becomes crucial to the events that follow.",
+      "characterIds": ["bentham", "buggy", "galdino"],
+      "locationIds": ["impel-down"],
+      "quotes": [
+        {
+          "text": "They are friends! We need no further reason!",
+          "speaker": "Bentham (Mr. 2 Bon Clay)",
+          "context": "Bentham's passionate declaration about why he's risking everything to save Buggy and Mr. 3"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [435],
+      "payoffInEpisodes": [437, 438],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep436-event-009",
+      "episodeNumber": 436,
+      "timestamp": "19:00",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Luffy Taken to Level 5 - Freezing Hell",
+      "description": "The guards transport Luffy's unconscious, poisoned body to Level 5 of Impel Down, known as Freezing Hell. The prisoners immediately recognize his condition as the result of Magellan's poison treatment and declare him as good as dead.",
+      "significance": "This sets up Luffy's location for his eventual rescue by Bentham and treatment by Emporio Ivankov. The extreme cold of Level 5 adds another layer of danger to Luffy's already critical condition.",
+      "characterIds": ["luffy"],
+      "locationIds": ["impel-down-level-5"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [436],
+      "payoffInEpisodes": [437],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep436-event-010",
+      "episodeNumber": 436,
+      "timestamp": "20:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Ace Hears Luffy's Voice",
+      "description": "From his cell in Level 6, Portgas D. Ace raises his head as he hears Luffy's agonized cries echoing through Impel Down. Though isolated and receiving no information about what's happening above, Ace senses something is wrong.",
+      "significance": "This emotional moment emphasizes the bond between the brothers and Ace's helplessness in his current situation. It foreshadows the eventual revelation that Luffy has been fighting desperately to save him.",
+      "characterIds": ["ace", "luffy"],
+      "locationIds": ["impel-down-level-6"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [430],
+      "payoffInEpisodes": [438, 439],
+      "callbacksToEpisodes": [430, 432]
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["venom-blowfish", "jet-twin-pistol", "venom-cloud"]
+  },
+  "episodeRelationships": {
+    "setupFor": [437, 438, 439],
+    "payoffFrom": [435],
+    "thematicLinks": [430, 432, 435]
+  },
+  "quotes": [
+    {
+      "text": "I'm going to save Ace no matter what!",
+      "speaker": "Luffy",
+      "context": "Luffy's unwavering determination to rescue his brother",
+      "timestamp": "03:30"
+    },
+    {
+      "text": "There is no way to neutralize the amount of poison you've absorbed. For 24 hours you will agonize, and then you'll descend into the real Hell.",
+      "speaker": "Magellan",
+      "context": "Magellan's grim declaration after defeating Luffy",
+      "timestamp": "15:45"
+    },
+    {
+      "text": "They are friends! We need no further reason!",
+      "speaker": "Bentham (Mr. 2 Bon Clay)",
+      "context": "Bentham's passionate declaration about the value of friendship",
+      "timestamp": "17:20"
+    },
+    {
+      "text": "Gomu Gomu no... Jet Twin Pistol!",
+      "speaker": "Luffy",
+      "context": "Luffy's desperate Gear Second attack",
+      "timestamp": "11:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Sacrifice and Determination",
+      "description": "Luffy willingly faces certain death from poison in his desperate attempt to reach Ace, showcasing his willingness to sacrifice everything for those he loves. His defeat emphasizes that determination alone isn't always enough.",
+      "symbolism": "The poison covering Luffy represents the overwhelming obstacles and sacrifices required to save someone you love.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Friendship and Loyalty",
+      "description": "Bentham's declaration that friendship needs no reason perfectly encapsulates the arc's theme. He risks his life to save Buggy and Galdino simply because they are friends, mirroring Luffy's quest to save Ace.",
+      "symbolism": "Bentham's actions parallel Luffy's mission, showing that true friendship means being willing to sacrifice for others.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Limits of Power",
+      "description": "Despite using Gear Second, Luffy is completely overwhelmed by Magellan. This episode demonstrates that raw determination and existing abilities aren't always sufficient, foreshadowing Luffy's need to grow stronger.",
+      "symbolism": "Magellan's poison represents obstacles that cannot be overcome through force alone, requiring different approaches and help from others.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Desperate", "Tragic", "Intense", "Heartbreaking"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist facing devastating defeat",
+      "development": "Luffy faces one of his most complete defeats, pushed to the absolute limit of his abilities and beyond. His unwavering determination to save Ace despite certain death showcases his character's core values.",
+      "keyActions": [
+        "Fights Magellan despite heavy poisoning",
+        "Activates Gear Second in desperate attempt to win",
+        "Unleashes Jet Twin Pistol attack",
+        "Becomes completely engulfed in poison and collapses",
+        "Gets taken to Level 5 in critical condition"
+      ],
+      "quotes": ["I'm going to save Ace no matter what!", "Gomu Gomu no... Jet Twin Pistol!"]
+    },
+    {
+      "characterId": "magellan",
+      "role": "Overwhelming antagonist",
+      "development": "Magellan demonstrates why he is considered one of the most formidable opponents in Impel Down, completely defeating Luffy and showcasing multiple poison techniques. His duty-bound nature is emphasized.",
+      "keyActions": [
+        "Uses Venom Blowfish technique",
+        "Summons Hydra poison attack",
+        "Creates Venom Cloud to disorient Luffy",
+        "Completely defeats Luffy with overwhelming poison",
+        "Declares Luffy will die in 24 hours"
+      ],
+      "quotes": ["There is no way to neutralize the amount of poison you've absorbed. For 24 hours you will agonize, and then you'll descend into the real Hell."]
+    },
+    {
+      "characterId": "bentham",
+      "role": "Loyal friend and parallel protagonist",
+      "development": "Bentham shows tremendous character growth, demonstrating that his friendship with Luffy and the others has transformed him. His selfless actions and passionate declaration of friendship become pivotal to the arc.",
+      "keyActions": [
+        "Defeats Hannyabal through disguise",
+        "Reveals true identity to Buggy and Galdino",
+        "Declares them friends worth saving",
+        "Begins planning to rescue Luffy"
+      ],
+      "quotes": ["They are friends! We need no further reason!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends the battle sequences between Luffy and Magellan with additional action scenes and reaction shots not present in the manga.",
+      "episodeTimestamp": "Various throughout episode",
+      "mangaReference": "Chapter 535, pages 2-11",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "Additional dialogue and inner monologue added to emphasize the emotional weight of Luffy's defeat.",
+      "episodeTimestamp": "15:00-16:00",
+      "mangaReference": "Chapter 535",
+      "type": "ANIME_ORIGINAL_DIALOGUE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode adapts only a portion of Chapter 535, with the content split across episodes 436 and 437, allowing for extended battle animation.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_436",
+          "title": "Episode 436 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-10"
+        }
+      ]
+    },
+    {
+      "fact": "Magellan is considered one of the few arc antagonists that Luffy never truly defeats in direct combat, making this one of Luffy's most definitive losses.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "The opening song 'Kaze wo Sagashite' by Mari Yaguchi initially aired without crediting the singer for episodes 426-429, which was corrected on the DVD release.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Kaze_wo_Sagashite",
+          "title": "Kaze wo Sagashite - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-10"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 436 aired on January 31, 2010 in Japan with a TV rating of 10.7%, ranking 3rd for the week.",
+      "category": "RATINGS",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
