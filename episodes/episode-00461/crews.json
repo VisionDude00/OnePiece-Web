@@ -1,0 +1,152 @@
+[
+  {
+    "name": {
+      "english": "Spade Pirates",
+      "japanese": "スペード海賊団",
+      "romanized": "Supēdo Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "ace",
+    "debutEpisode": 461,
+    "debutChapter": 552,
+    "episodeAppearances": [461],
+    "members": [
+      {
+        "characterId": "ace",
+        "role": "Captain",
+        "episodeJoined": 461,
+        "episodeLeft": 461,
+        "joinCircumstances": "Ace founded and led the Spade Pirates before joining the Whitebeard Pirates."
+      },
+      {
+        "characterId": "deuce",
+        "role": "Member",
+        "episodeJoined": 461,
+        "episodeLeft": 461,
+        "joinCircumstances": "Member of the Spade Pirates under Ace's leadership."
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 461,
+        "eventId": "ep461-event-004",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Spade Pirates Revealed in Flashback",
+        "description": "The Spade Pirates appear for the first time in flashback, showing Ace's crew before joining Whitebeard.",
+        "significance": "Establishes Ace's history as an independent captain before becoming part of the Whitebeard Pirates.",
+        "timestamp": "07:00"
+      },
+      {
+        "episodeNumber": 461,
+        "eventId": "ep461-event-007",
+        "momentType": "BATTLE_START",
+        "title": "Spade Pirates Challenge Whitebeard",
+        "description": "The Spade Pirates, led by Ace, challenge Whitebeard after Ace's five-day battle with Jinbe.",
+        "significance": "Shows the crew's loyalty to Ace and their willingness to follow him even against the strongest pirate.",
+        "timestamp": "11:30"
+      },
+      {
+        "episodeNumber": 461,
+        "eventId": "ep461-event-008",
+        "momentType": "BATTLE_END",
+        "title": "Whitebeard Defeats the Spade Pirates",
+        "description": "Whitebeard easily defeats the entire Spade Pirates crew, demonstrating the difference in power.",
+        "significance": "Marks the end of the Spade Pirates as an independent crew before they join the Whitebeard Pirates.",
+        "timestamp": "13:00"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Piece of Spa Diver",
+        "episodeAcquired": null,
+        "episodeLost": null,
+        "description": "The ship used by the Spade Pirates during their journey in the New World."
+      }
+    ],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull with a spade symbol behind it",
+      "episodeFirstSeen": 461,
+      "imageUrl": ""
+    },
+    "mainColor": "#000000",
+    "relationships": {
+      "allies": [],
+      "enemies": ["whitebeard-pirates"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Whitebeard Pirates",
+      "japanese": "白ひげ海賊団",
+      "romanized": "Shirohige Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "whitebeard",
+    "debutEpisode": 151,
+    "debutChapter": 234,
+    "episodeAppearances": [461],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 461,
+        "eventId": "ep461-event-001",
+        "momentType": "BATTLE_START",
+        "title": "Whitebeard Pirates Begin War at Marineford",
+        "description": "The Whitebeard Pirates launch their assault on Marineford to rescue Ace.",
+        "significance": "Marks the beginning of the greatest war in One Piece history.",
+        "timestamp": "03:00"
+      },
+      {
+        "episodeNumber": 461,
+        "eventId": "ep461-event-008",
+        "momentType": "FORMATION",
+        "title": "Spade Pirates Join Whitebeard Pirates",
+        "description": "After defeating the Spade Pirates, Whitebeard recruits them into his crew.",
+        "significance": "Shows how the Whitebeard Pirates grew and how Ace became part of the family.",
+        "timestamp": "13:00"
+      },
+      {
+        "episodeNumber": 461,
+        "eventId": "ep461-event-011",
+        "momentType": "CREW_PROMOTION",
+        "title": "Ace Becomes Second Division Commander",
+        "description": "Ace is promoted to Second Division Commander, one of the highest positions in the crew.",
+        "significance": "Establishes Ace's importance within the Whitebeard Pirates.",
+        "timestamp": "17:30"
+      },
+      {
+        "episodeNumber": 461,
+        "eventId": "ep461-event-013",
+        "momentType": "BETRAYAL",
+        "title": "Blackbeard Betrays and Murders Thatch",
+        "description": "Marshall D. Teach murders Fourth Division Commander Thatch to steal the Yami Yami no Mi.",
+        "significance": "The greatest betrayal in the crew's history, leading to the events of Marineford.",
+        "timestamp": "19:30"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Moby Dick",
+        "episodeAcquired": null,
+        "episodeLost": null,
+        "description": "Whitebeard's main flagship, a massive whale-shaped ship."
+      }
+    ],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull with a white mustache and crossbones",
+      "episodeFirstSeen": 151,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFFFFF",
+    "relationships": {
+      "allies": [],
+      "enemies": ["marines", "blackbeard-pirates"],
+      "parentOrganization": null
+    }
+  }
+]

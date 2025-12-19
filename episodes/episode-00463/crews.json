@@ -1,0 +1,95 @@
+[
+  {
+    "name": {
+      "english": "Little Pirates",
+      "japanese": "リトル海賊団",
+      "romanized": "Ritoru Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "little-oars-jr",
+    "debutEpisode": 463,
+    "debutChapter": 554,
+    "episodeAppearances": [463],
+    "members": [
+      {
+        "characterId": "little-oars-jr",
+        "role": "Captain",
+        "episodeJoined": 463,
+        "episodeLeft": null,
+        "joinCircumstances": "Little Oars Jr. is the captain and founder of the Little Pirates."
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 463,
+        "eventId": "ep463-event-010",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Little Pirates Join Battle of Marineford",
+        "description": "The Little Pirates, led by Little Oars Jr., arrive at Marineford as allies of the Whitebeard Pirates to help save Ace.",
+        "significance": "The crew debuts as subordinate allies of Whitebeard, demonstrating the reach of his influence.",
+        "timestamp": "16:40"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "Unknown",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": null,
+    "relationships": {
+      "allies": ["whitebeard-pirates"],
+      "enemies": ["marines"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Whitebeard Pirates",
+      "japanese": "白ひげ海賊団",
+      "romanized": "Shirohige Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "whitebeard",
+    "debutEpisode": null,
+    "debutChapter": null,
+    "episodeAppearances": [463],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 463,
+        "eventId": "ep463-event-001",
+        "momentType": "BATTLE_MOMENT",
+        "title": "Commanders Showcase Abilities",
+        "description": "The Whitebeard Pirates' division commanders demonstrate their combat prowess and Devil Fruit abilities in the battle.",
+        "significance": "Shows the strength and coordination of Whitebeard's top commanders.",
+        "timestamp": "04:30"
+      },
+      {
+        "episodeNumber": 463,
+        "eventId": "ep463-event-004",
+        "momentType": "BATTLE_MOMENT",
+        "title": "Jozu's Ice Block Attack",
+        "description": "Division Commander Jozu demonstrates his incredible strength by hurling a massive iceberg at the Marines.",
+        "significance": "Showcases the physical might of Whitebeard's commanders.",
+        "timestamp": "09:20"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull with a white mustache and crossbones behind it",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": null,
+    "relationships": {
+      "allies": ["little-pirates"],
+      "enemies": ["marines"],
+      "parentOrganization": null
+    }
+  }
+]
