@@ -1,0 +1,616 @@
+{
+  "episodeNumber": 532,
+  "episodeTitle": "A Coward and a Crybaby! The Princess in the Hard Shell Tower!",
+  "description": "Luffy accidentally finds Princess Shirahoshi in Hard-Shell Tower and saves her from Vander Decken's deadly axe attack. Meanwhile, the Straw Hats face accusations of conspiracy, and on the sea floor, Decken forms a sinister alliance with Hody Jones to destroy Fish-Man Island.",
+  "airDate": "2012-01-22",
+  "airDateJapan": "2012-01-22",
+  "airDateUS": "2022-03-13",
+  "arcName": "Fish-Man Island Arc",
+  "sagaName": "Fish-Man Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Go!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [517, 590]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Aya Komaki",
+    "keyAnimators": ["Toshio Deguchi"],
+    "artDirector": "Miho Shiraishi",
+    "writer": "Tomohiro Nakayama",
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Shirahoshi",
+        "actor": "Yukana"
+      },
+      {
+        "character": "Vander Decken IX",
+        "actor": "Wataru Takagi"
+      },
+      {
+        "character": "Hody Jones",
+        "actor": "Joji Nakata"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Brook",
+        "actor": "Cho"
+      },
+      {
+        "character": "Neptune",
+        "actor": "Minoru Inaba"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Shirahoshi",
+        "actor": "Bryn Apprill"
+      },
+      {
+        "character": "Vander Decken IX",
+        "actor": "Jim Foronda"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep532-event-001",
+      "episodeNumber": 532,
+      "timestamp": "03:15",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Vander Decken's Mark-Mark Fruit Powers Revealed",
+      "description": "On the sea floor, Vander Decken IX demonstrates his Mato Mato no Mi (Mark-Mark Fruit) powers by throwing a giant axe that automatically targets Princess Shirahoshi. The axe relentlessly pursues its marked target through the water.",
+      "significance": "First demonstration of Vander Decken's Devil Fruit ability, establishing the constant threat Shirahoshi has lived under for the past 10 years.",
+      "characterIds": ["vander-decken-ix", "shirahoshi"],
+      "locationIds": ["sea-floor-fishman-island"],
+      "devilFruitIds": ["mato-mato-no-mi"],
+      "quotes": [
+        {
+          "text": "I will make you my wife, Princess Shirahoshi! If you refuse, then you shall die!",
+          "speaker": "Vander Decken IX",
+          "context": "Decken's obsessive declaration while throwing the axe"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [533, 537, 541],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep532-event-002",
+      "episodeNumber": 532,
+      "timestamp": "05:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Minister of the Left Accuses the Straw Hats",
+      "description": "At Ryugu Palace, the Minister of the Left formally accuses the Straw Hat Pirates of conspiracy to destroy Fish-Man Island and kidnap mermaids. The palace guards are ordered to detain them in the castle dungeons.",
+      "significance": "Establishes the Straw Hats as suspects in the ongoing crisis, creating tension between them and the Ryugu Kingdom despite their innocent intentions.",
+      "characterIds": ["minister-of-the-left", "luffy", "zoro", "nami", "usopp", "brook"],
+      "locationIds": ["ryugu-palace"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [528, 529, 530, 531],
+      "payoffInEpisodes": [533, 534],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep532-event-003",
+      "episodeNumber": 532,
+      "timestamp": "08:45",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Zoro Captured by Palace Guards",
+      "description": "Roronoa Zoro is shown drinking and relaxing before being captured by the palace guards. Despite his strength, he allows himself to be detained rather than fight the kingdom's forces.",
+      "significance": "Shows Zoro's restraint and the Straw Hats' unwillingness to harm their hosts, even when falsely accused.",
+      "characterIds": ["zoro"],
+      "locationIds": ["ryugu-palace"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [534],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep532-event-004",
+      "episodeNumber": 532,
+      "timestamp": "12:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "CRITICAL",
+      "title": "Luffy Meets Princess Shirahoshi",
+      "description": "While searching for food, Luffy accidentally stumbles into Hard-Shell Tower and meets Princess Shirahoshi face-to-face for the first time. He is surprised to discover she is a giant smelt-whiting mermaid who has been crying.",
+      "significance": "The first meeting between Luffy and Shirahoshi marks the beginning of their friendship and sets in motion the events that will help free her from her decade-long imprisonment.",
+      "characterIds": ["luffy", "shirahoshi"],
+      "locationIds": ["hard-shell-tower"],
+      "quotes": [
+        {
+          "text": "You're HUGE! And you're crying? What's wrong?",
+          "speaker": "Luffy",
+          "context": "Luffy's first reaction upon seeing Shirahoshi"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [531],
+      "payoffInEpisodes": [533, 537, 553],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep532-event-005",
+      "episodeNumber": 532,
+      "timestamp": "14:50",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Luffy Saves Shirahoshi from the Axe",
+      "description": "When Vander Decken's giant axe crashes through the tower wall targeting Shirahoshi, Luffy uses his lightning reflexes to stop the axe with his bare hands, saving the princess from certain death.",
+      "significance": "Luffy's heroic action earns Shirahoshi's trust and demonstrates his protective nature toward those in need, regardless of the danger to himself.",
+      "characterIds": ["luffy", "shirahoshi", "vander-decken-ix"],
+      "locationIds": ["hard-shell-tower"],
+      "devilFruitIds": ["mato-mato-no-mi"],
+      "quotes": [
+        {
+          "text": "Don't worry! I won't let it hurt you!",
+          "speaker": "Luffy",
+          "context": "Luffy protecting Shirahoshi from the axe"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [533],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep532-event-006",
+      "episodeNumber": 532,
+      "timestamp": "16:30",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MINOR",
+      "title": "Palace Guards Rush In",
+      "description": "After hearing the commotion from the axe attack, palace guards rush into Shirahoshi's room to investigate. The princess quickly hides Luffy behind her massive body to protect him from being discovered.",
+      "significance": "Shows Shirahoshi's growing trust in Luffy and her willingness to protect him, mirroring how he just saved her life.",
+      "characterIds": ["shirahoshi", "luffy"],
+      "locationIds": ["hard-shell-tower"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep532-event-007",
+      "episodeNumber": 532,
+      "timestamp": "17:45",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Shirahoshi Told About Straw Hats' Detention",
+      "description": "The palace guards inform Princess Shirahoshi that the Straw Hat Pirates will be detained in the castle dungeons as suspects in the conspiracy. Shirahoshi learns that Luffy's crew is being imprisoned.",
+      "significance": "Creates internal conflict for Shirahoshi between obeying palace authority and protecting her new friend Luffy.",
+      "characterIds": ["shirahoshi", "luffy"],
+      "locationIds": ["hard-shell-tower"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [533, 534],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep532-event-008",
+      "episodeNumber": 532,
+      "timestamp": "18:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Shirahoshi Introduces Herself and Apologizes",
+      "description": "After the guards leave, Princess Shirahoshi formally introduces herself to Luffy, apologizing for her rudeness and offering him her food. She reveals her kind and gentle nature despite her fearful demeanor.",
+      "significance": "Establishes Shirahoshi's character as a kind, selfless princess who puts others before herself, even when she is the one suffering.",
+      "characterIds": ["shirahoshi", "luffy"],
+      "locationIds": ["hard-shell-tower"],
+      "quotes": [
+        {
+          "text": "I am so sorry for my rudeness. My name is Shirahoshi. Please, have some of my food.",
+          "speaker": "Shirahoshi",
+          "context": "Shirahoshi's formal introduction to Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep532-event-009",
+      "episodeNumber": 532,
+      "timestamp": "19:45",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Shirahoshi Reveals 10 Years of Imprisonment",
+      "description": "Shirahoshi reveals to Luffy that she has been locked in Hard-Shell Tower for 10 years, unable to leave because of the constant threats from Vander Decken IX. This is the first time she has told anyone outside the royal family about her situation.",
+      "significance": "Reveals the tragic extent of Shirahoshi's suffering and isolation, explaining why she is so timid and emotional. This revelation motivates Luffy to help her.",
+      "characterIds": ["shirahoshi", "luffy", "vander-decken-ix"],
+      "locationIds": ["hard-shell-tower"],
+      "quotes": [
+        {
+          "text": "I have been in this tower for 10 years... I cannot leave because he keeps sending weapons to kill me.",
+          "speaker": "Shirahoshi",
+          "context": "Shirahoshi explaining her imprisonment to Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [533, 537],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep532-event-010",
+      "episodeNumber": 532,
+      "timestamp": "20:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Luffy Accidentally Insults Shirahoshi",
+      "description": "Luffy accidentally calls Shirahoshi a 'weakling crybaby,' causing her to burst into tears. Despite the insult, this honest interaction begins to break down the walls of her isolation.",
+      "significance": "Shows Luffy's blunt but honest personality and marks the beginning of his influence on Shirahoshi to become stronger and braver.",
+      "characterIds": ["luffy", "shirahoshi"],
+      "locationIds": ["hard-shell-tower"],
+      "quotes": [
+        {
+          "text": "You're such a weakling! And a crybaby too!",
+          "speaker": "Luffy",
+          "context": "Luffy's unfiltered assessment of Shirahoshi"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [553],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep532-event-011",
+      "episodeNumber": 532,
+      "timestamp": "21:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Shirahoshi Reveals Her Dream to See Places",
+      "description": "Through her tears, Shirahoshi confesses to Luffy that despite being locked away for 10 years, she desperately wants to see many places and experience the world outside her tower.",
+      "significance": "Reveals Shirahoshi's inner strength and desire for freedom, establishing her true wish that will drive the next part of the arc.",
+      "characterIds": ["shirahoshi", "luffy"],
+      "locationIds": ["hard-shell-tower"],
+      "quotes": [
+        {
+          "text": "I... I want to see so many places! I want to go outside!",
+          "speaker": "Shirahoshi",
+          "context": "Shirahoshi revealing her deepest wish to Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [533, 537, 546],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep532-event-012",
+      "episodeNumber": 532,
+      "timestamp": "21:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Luffy Orders Shirahoshi to Leave with Him",
+      "description": "Immediately after hearing Shirahoshi's wish, Luffy decisively tells her to stop crying and leave the tower with him. He takes it upon himself to grant her wish and protect her from Vander Decken.",
+      "significance": "Marks the turning point where Luffy commits to helping Shirahoshi escape her imprisonment, setting up their journey together in the next episodes.",
+      "characterIds": ["luffy", "shirahoshi"],
+      "locationIds": ["hard-shell-tower"],
+      "quotes": [
+        {
+          "text": "Then let's go! Stop crying and come with me! I'll take you wherever you want to go!",
+          "speaker": "Luffy",
+          "context": "Luffy's decisive declaration to help Shirahoshi"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [533, 534, 537],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep532-event-013",
+      "episodeNumber": 532,
+      "timestamp": "22:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Decken Arrives at Noah",
+      "description": "On the sea floor, Vander Decken IX arrives at the massive ship Noah, an ancient vessel of tremendous size that has been resting on the ocean floor near Fish-Man Island.",
+      "significance": "Introduces Noah as a key location and foreshadows its importance to Decken's plans and the ancient history of Fish-Man Island.",
+      "characterIds": ["vander-decken-ix"],
+      "locationIds": ["noah"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [541, 544, 560],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep532-event-014",
+      "episodeNumber": 532,
+      "timestamp": "23:00",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Hody Jones and Vander Decken Form Alliance",
+      "description": "Vander Decken IX meets with Hody Jones at Noah and the two form an alliance to destroy Fish-Man Island. Decken puts on a glove before shaking hands with Hody, as his Devil Fruit powers would mark anyone he touches with his bare hands.",
+      "significance": "The alliance between these two antagonists represents the greatest threat to Fish-Man Island and sets up the major conflict of the arc. This partnership combines Hody's military force with Decken's Devil Fruit abilities.",
+      "characterIds": ["vander-decken-ix", "hody-jones"],
+      "locationIds": ["noah"],
+      "crewIds": ["new-fishman-pirates", "flying-pirates"],
+      "quotes": [
+        {
+          "text": "Together, we shall bring about the complete destruction of the Ryugu Kingdom!",
+          "speaker": "Hody Jones",
+          "context": "Hody proposing the alliance to Decken"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [528, 529, 530, 531],
+      "payoffInEpisodes": [533, 534, 541, 544],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep532-event-015",
+      "episodeNumber": 532,
+      "timestamp": "23:45",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "CRITICAL",
+      "title": "The Plot to Destroy Fish-Man Island Begins",
+      "description": "As the episode ends, Hody Jones and Vander Decken IX finalize their sinister plan to overthrow King Neptune, crush the Neptune Army, and bring about the total destruction of Fish-Man Island and the Ryugu Kingdom.",
+      "significance": "Establishes the main antagonistic plot of the Fish-Man Island Arc and creates dramatic tension knowing the island faces imminent danger from within.",
+      "characterIds": ["hody-jones", "vander-decken-ix"],
+      "locationIds": ["noah"],
+      "crewIds": ["new-fishman-pirates", "flying-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [533, 541, 544, 560],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["shirahoshi"],
+    "locations": ["hard-shell-tower"],
+    "devilFruits": ["mato-mato-no-mi"],
+    "crews": [],
+    "abilities": ["mato-mato-mark"]
+  },
+  "episodeRelationships": {
+    "setupFor": [533, 534, 537, 541],
+    "payoffFrom": [528, 529, 530, 531],
+    "thematicLinks": [553, 560]
+  },
+  "quotes": [
+    {
+      "text": "I will make you my wife, Princess Shirahoshi! If you refuse, then you shall die!",
+      "speaker": "Vander Decken IX",
+      "context": "Decken's obsessive declaration",
+      "timestamp": "03:15"
+    },
+    {
+      "text": "You're HUGE! And you're crying? What's wrong?",
+      "speaker": "Luffy",
+      "context": "First meeting with Shirahoshi",
+      "timestamp": "12:20"
+    },
+    {
+      "text": "I am so sorry for my rudeness. My name is Shirahoshi. Please, have some of my food.",
+      "speaker": "Shirahoshi",
+      "context": "Introducing herself to Luffy",
+      "timestamp": "18:30"
+    },
+    {
+      "text": "I have been in this tower for 10 years... I cannot leave because he keeps sending weapons to kill me.",
+      "speaker": "Shirahoshi",
+      "context": "Revealing her imprisonment",
+      "timestamp": "19:45"
+    },
+    {
+      "text": "Then let's go! Stop crying and come with me! I'll take you wherever you want to go!",
+      "speaker": "Luffy",
+      "context": "Deciding to help Shirahoshi escape",
+      "timestamp": "21:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Freedom and Captivity",
+      "description": "The episode explores the contrast between physical and emotional imprisonment through Shirahoshi's 10-year confinement in Hard-Shell Tower and her inner desire for freedom.",
+      "symbolism": "Hard-Shell Tower represents both protection and prison, while Luffy embodies the freedom Shirahoshi desperately seeks.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Courage vs. Fear",
+      "description": "Luffy's fearless nature contrasts sharply with Shirahoshi's timid personality, highlighting the episode's central message about overcoming fear through support and determination.",
+      "symbolism": "The giant axe represents the fears that have controlled Shirahoshi's life, while Luffy stopping it symbolizes facing one's fears head-on.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Friendship and Trust",
+      "description": "Despite just meeting, Luffy and Shirahoshi quickly form a bond based on mutual trust, with each protecting the other even at personal risk.",
+      "symbolism": "The sharing of food and the act of hiding Luffy represent traditional signs of trust and friendship in Japanese culture.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Obsession and Control",
+      "description": "Vander Decken's unhealthy obsession with Shirahoshi and his use of the Mark-Mark Fruit to control and threaten her life represents toxic possession disguised as love.",
+      "symbolism": "The mark itself is a symbol of unwanted attention and stalking, while the weapons represent violence born from rejection.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Dramatic", "Emotional", "Tense", "Hopeful"],
+  "characterSpotlights": [
+    {
+      "characterId": "shirahoshi",
+      "role": "Deuteragonist - Princess in distress",
+      "development": "Shirahoshi is introduced as a giant, timid, and emotional mermaid princess who has been imprisoned for 10 years. Despite her fearful nature, we see glimpses of her inner strength and desire for freedom.",
+      "keyActions": [
+        "Saved from Vander Decken's axe by Luffy",
+        "Hides Luffy from palace guards",
+        "Reveals her 10-year imprisonment",
+        "Confesses her dream to see the outside world",
+        "Shares her food with Luffy"
+      ],
+      "quotes": [
+        "I have been in this tower for 10 years...",
+        "I want to see so many places! I want to go outside!"
+      ]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Protagonist - The liberator",
+      "development": "Luffy demonstrates his characteristic impulsiveness and compassion by immediately deciding to help Shirahoshi escape her imprisonment after learning of her wish for freedom.",
+      "keyActions": [
+        "Accidentally finds Shirahoshi while looking for food",
+        "Saves Shirahoshi from the giant axe",
+        "Listens to her story without judgment",
+        "Calls her a 'weakling crybaby' but with good intentions",
+        "Decisively orders her to leave with him"
+      ],
+      "quotes": [
+        "You're HUGE! And you're crying?",
+        "Then let's go! Stop crying and come with me!"
+      ]
+    },
+    {
+      "characterId": "vander-decken-ix",
+      "role": "Antagonist - The obsessed stalker",
+      "development": "Vander Decken is established as a dangerous and obsessive antagonist who has tormented Shirahoshi for a decade. His Devil Fruit powers and willingness to kill her if she refuses him make him a serious threat.",
+      "keyActions": [
+        "Demonstrates Mato Mato no Mi powers",
+        "Throws giant axe at Shirahoshi",
+        "Travels to Noah",
+        "Forms alliance with Hody Jones",
+        "Plots destruction of Fish-Man Island"
+      ],
+      "quotes": [
+        "I will make you my wife, Princess Shirahoshi! If you refuse, then you shall die!"
+      ]
+    },
+    {
+      "characterId": "hody-jones",
+      "role": "Antagonist - The revolutionary extremist",
+      "development": "Hody Jones is shown forming a strategic alliance with Vander Decken, revealing his willingness to use any means necessary to achieve his goal of destroying the Ryugu Kingdom.",
+      "keyActions": [
+        "Meets with Vander Decken at Noah",
+        "Forms alliance to destroy Fish-Man Island",
+        "Plans to overthrow King Neptune"
+      ],
+      "quotes": [
+        "Together, we shall bring about the complete destruction of the Ryugu Kingdom!"
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended the scene of Vander Decken throwing the axe, showing more of its journey through the water toward Hard-Shell Tower.",
+      "episodeTimestamp": "03:15",
+      "mangaReference": "Chapter 613",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "Zoro being shown drinking and then captured was added in the anime. The manga does not show this scene in Chapter 613.",
+      "episodeTimestamp": "08:45",
+      "mangaReference": "Chapter 613",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "The anime added a longer introduction format with recap material not present in the manga chapter.",
+      "episodeTimestamp": "00:00",
+      "mangaReference": "Chapter 613",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "The scene showing the Minister of the Left informing the crew about their detention was extended with additional dialogue in the anime.",
+      "episodeTimestamp": "05:30",
+      "mangaReference": "Chapter 613",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode adapts Chapter 613 of the manga (pages 2-17), covering approximately 15 pages of manga content.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_532",
+          "title": "Episode 532 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-19"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 532 achieved a TV rating of 11.1% in Japan, ranking #3 for its timeslot.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_532",
+          "title": "Episode 532 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-19"
+        }
+      ]
+    },
+    {
+      "fact": "This episode marks the official debut of Princess Shirahoshi, who later becomes one of the most important characters in One Piece lore as the Ancient Weapon Poseidon.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "Shirahoshi is voiced by Yukana in Japanese, who is also known for voicing C.C. in Code Geass and Teletha Testarossa in Full Metal Panic.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://www.behindthevoiceactors.com/tv-shows/One-Piece/Shirahoshi/",
+          "title": "Shirahoshi Voice - One Piece - Behind The Voice Actors",
+          "platform": "Behind The Voice Actors",
+          "accessedAt": "2025-12-19"
+        }
+      ]
+    },
+    {
+      "fact": "The Mark-Mark Fruit (Mato Mato no Mi) is one of the rare Devil Fruits consumed by a fish-man, which is particularly notable since Devil Fruit users cannot swim.",
+      "category": "DEVIL_FRUIT",
+      "sources": []
+    },
+    {
+      "fact": "Vander Decken's voice actors (Jim Foronda in English, Wataru Takagi in Japanese) both also voice Claptrap from Borderlands in their respective languages.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://x.com/JimForonda/status/1768405859267219597",
+          "title": "Jim Foronda on X about Vander Decken",
+          "platform": "Twitter/X",
+          "accessedAt": "2025-12-19"
+        }
+      ]
+    },
+    {
+      "fact": "The opening theme 'We Go!' by Hiroshi Kitadani is his second opening for One Piece, with his first being the iconic 'We Are!' from episodes 1-47.",
+      "category": "MUSIC",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
