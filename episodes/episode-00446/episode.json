@@ -1,0 +1,485 @@
+{
+  "episodeNumber": 446,
+  "episodeTitle": "No Price Too High! Serious Hannyabal!",
+  "episodeTitleAlternate": "Refusal to be Defeated! Serious Hannyabal",
+  "episodeTitleJapanese": "意地でも倒れぬ！本気のハンニャバル",
+  "episodeTitleRomanized": "Iji demo Taorenu! Honki no Hannyabaru",
+  "description": "Hannyabal confronts Luffy and the escapees, engaging in a fierce battle despite being outmatched. After delivering a powerful speech about justice and protecting innocent citizens, Hannyabal is crushed by the arrival of Blackbeard. Luffy learns that Blackbeard is responsible for Ace's capture and attacks him in rage using Gear 2.",
+  "airDate": "2010-04-11",
+  "airDateJapan": "2010-04-11",
+  "airDateUS": "2010-04-10",
+  "arcName": "Impel Down Arc",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Kaze wo Sagashite",
+    "artist": "Mari Yaguchi with Strawhat",
+    "episodeRange": [426, 458]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Yutaka Nakashima",
+    "screenplay": "Jin Tanaka",
+    "artDirector": "Ryūji Yoshiike",
+    "animator": "Toshio Deguchi",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Hannyabal",
+        "actor": "Tetsuo Goto"
+      },
+      {
+        "character": "Marshall D. Teach (Blackbeard)",
+        "actor": "Akio Otsuka"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Daisuke Gori"
+      },
+      {
+        "character": "Emporio Ivankov",
+        "actor": "Mitsuo Iwata"
+      },
+      {
+        "character": "Crocodile",
+        "actor": "Ryuzaburo Otomo"
+      },
+      {
+        "character": "Buggy",
+        "actor": "Shigeru Chiba"
+      },
+      {
+        "character": "Inazuma",
+        "actor": "Tomoko Naka"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Hannyabal",
+        "actor": "Brad Jackson"
+      },
+      {
+        "character": "Marshall D. Teach (Blackbeard)",
+        "actor": "Cole Brown"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep446-event-001",
+      "episodeNumber": 446,
+      "timestamp": "04:00",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Hannyabal Confronts the Escapees",
+      "description": "Hannyabal emerges from the Level 3 door to confront Luffy and the escaped prisoners. Despite knowing he is outmatched, he declares he will not allow them to escape and engages Luffy in combat.",
+      "significance": "Shows Hannyabal's determination to fulfill his duty as Vice Warden despite the overwhelming odds against him, setting up one of the arc's most memorable character moments.",
+      "characterIds": ["luffy", "hannyabal", "jinbe", "ivankov", "crocodile", "buggy", "inazuma"],
+      "locationIds": ["impel-down-level-3"],
+      "quotes": [
+        {
+          "text": "I will not let scum like you escape onto the seas!",
+          "speaker": "Hannyabal",
+          "context": "Hannyabal's declaration as he confronts the escapees"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [444, 445],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep446-event-002",
+      "episodeNumber": 446,
+      "timestamp": "06:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Luffy Uses Jet Gatling on Hannyabal",
+      "description": "Luffy, demonstrating his superior strength, unleashes a devastating Jet Gatling attack that sends Hannyabal crashing to the ground. Despite this overwhelming blow, Hannyabal refuses to stay down.",
+      "significance": "Demonstrates the power gap between Luffy and Hannyabal, while also foreshadowing Hannyabal's incredible willpower and determination.",
+      "characterIds": ["luffy", "hannyabal"],
+      "locationIds": ["impel-down-level-3"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep446-event-003",
+      "episodeNumber": 446,
+      "timestamp": "08:15",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MINOR",
+      "title": "Hannyabal's Flashback with Olive",
+      "description": "As Hannyabal struggles to his feet, he recalls his early days as a jailer when he encountered the pirate Olive. The beautiful woman charmed him before knocking him unconscious, after which Magellan imprisoned her.",
+      "significance": "Provides backstory for Hannyabal's character and his experiences with pirates, adding depth to his motivations for preventing escapes.",
+      "characterIds": ["hannyabal", "olive", "magellan"],
+      "locationIds": ["impel-down"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep446-event-004",
+      "episodeNumber": 446,
+      "timestamp": "10:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Olive's Debut in Flashback",
+      "description": "Olive, a beautiful female pirate, appears in Hannyabal's flashback. She charmed the young jailer before knocking him out and being captured by Magellan.",
+      "significance": "Introduces a new character through flashback, showing Hannyabal's vulnerability and inexperience in his early days at Impel Down.",
+      "characterIds": ["olive", "hannyabal", "magellan"],
+      "locationIds": ["impel-down"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep446-event-005",
+      "episodeNumber": 446,
+      "timestamp": "11:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Hannyabal Uses Hannya Carnival: Shonetsu Jigoku Guruma",
+      "description": "Hannyabal demonstrates his signature fighting technique, Hannya Carnival: Shonetsu Jigoku Guruma (Burning Hell Wheel), showing his determination to stop the escapees despite being outmatched.",
+      "significance": "Reveals Hannyabal's fighting technique and his refusal to give up despite knowing he cannot win.",
+      "characterIds": ["hannyabal", "luffy"],
+      "locationIds": ["impel-down-level-3"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep446-event-006",
+      "episodeNumber": 446,
+      "timestamp": "13:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Hannyabal's Justice Speech",
+      "description": "Despite being beaten and bloodied, Hannyabal delivers a powerful speech about justice. He condemns pirates not as enemies of the World Government, but because they cause fear and suffering to innocent citizens. He declares that Impel Down exists to protect the weak by keeping evildoers locked away, and if it falls, the world will be plunged into darkness.",
+      "significance": "One of the most important moral moments in One Piece, presenting a legitimate opposing viewpoint to the protagonists. Hannyabal's speech highlights the genuine consequences of piracy on innocent people, adding moral complexity to the narrative.",
+      "characterIds": ["hannyabal", "luffy", "jinbe", "ivankov", "crocodile", "buggy"],
+      "locationIds": ["impel-down-level-3"],
+      "quotes": [
+        {
+          "text": "You have no right to save your brother! Pirates are the scum of the world! Many people are scared just by pirates being alive! Impel Down is the fortress of Hell that if destroyed would plummet the world into darkness!",
+          "speaker": "Hannyabal",
+          "context": "Hannyabal's speech about the purpose of Impel Down and the threat pirates pose to innocent citizens"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep446-event-007",
+      "episodeNumber": 446,
+      "timestamp": "15:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "CRITICAL",
+      "title": "Blackbeard Arrives and Crushes Hannyabal",
+      "description": "Marshall D. Teach (Blackbeard) suddenly arrives on the scene and brutally stomps down Hannyabal, crushing him into the ground and ending his confrontation with Luffy. Blackbeard mocks Hannyabal's speech about justice, declaring there is no clear answer about justice and evil in the world.",
+      "significance": "Marks the first direct confrontation between Luffy and Blackbeard since their meeting in Jaya (Episode 146), exactly 300 episodes prior. This encounter sets up their future rivalry.",
+      "characterIds": ["blackbeard", "hannyabal", "luffy", "jinbe"],
+      "locationIds": ["impel-down-level-3"],
+      "quotes": [
+        {
+          "text": "There is no answer about justice and evil no matter where you look in the world.",
+          "speaker": "Blackbeard",
+          "context": "Blackbeard's response to Hannyabal's justice speech before knocking him out"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [146],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [146]
+    },
+    {
+      "id": "ep446-event-008",
+      "episodeNumber": 446,
+      "timestamp": "16:45",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Jinbe Identifies Blackbeard",
+      "description": "Jinbe identifies Marshall D. Teach by his notorious nickname 'Blackbeard', shocking the group. Luffy immediately recalls Ace mentioning that he was pursuing someone named Blackbeard.",
+      "significance": "Connects the dots for Luffy and the audience about Blackbeard's role in Ace's capture, setting up the emotional confrontation that follows.",
+      "characterIds": ["jinbe", "blackbeard", "luffy", "ace"],
+      "locationIds": ["impel-down-level-3"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [146, 325],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [146, 325]
+    },
+    {
+      "id": "ep446-event-009",
+      "episodeNumber": 446,
+      "timestamp": "17:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Blackbeard Reveals His Role in Ace's Capture",
+      "description": "Blackbeard reveals to Luffy that he is directly responsible for Ace's current predicament. He states that if it wasn't for Ace, it would be Luffy heading for execution instead, implying that Ace sacrificed himself to protect his brother.",
+      "significance": "This revelation is the catalyst for Luffy's rage and their subsequent fight. It confirms Blackbeard's role as the primary antagonist responsible for the Summit War arc's events.",
+      "characterIds": ["blackbeard", "luffy", "ace"],
+      "locationIds": ["impel-down-level-3"],
+      "quotes": [
+        {
+          "text": "If it wasn't for Ace, it would be you heading for execution!",
+          "speaker": "Blackbeard",
+          "context": "Blackbeard revealing to Luffy that he captured Ace"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [325],
+      "payoffInEpisodes": [447],
+      "callbacksToEpisodes": [325]
+    },
+    {
+      "id": "ep446-event-010",
+      "episodeNumber": 446,
+      "timestamp": "18:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Luffy's Rage: Declaring He Will Kill Blackbeard",
+      "description": "Upon learning that Blackbeard is responsible for Ace's capture and impending execution, Luffy is consumed with fury. He declares that he will kill Blackbeard, marking one of the rare times Luffy has expressed genuine killing intent toward an enemy.",
+      "significance": "Shows the depth of Luffy's emotions regarding Ace's situation and establishes the intense personal rivalry between Luffy and Blackbeard that will define future arcs.",
+      "characterIds": ["luffy", "blackbeard"],
+      "locationIds": ["impel-down-level-3"],
+      "quotes": [
+        {
+          "text": "I'm going to kill you, Blackbeard!",
+          "speaker": "Luffy",
+          "context": "Luffy's declaration of intent to kill Blackbeard upon learning of his role in Ace's capture"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [447],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep446-event-011",
+      "episodeNumber": 446,
+      "timestamp": "19:15",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Luffy Activates Gear 2 in Rage",
+      "description": "Consumed by rage against Blackbeard, Luffy activates his Gear 2 technique, his body steaming as he prepares to attack the man responsible for Ace's capture.",
+      "significance": "Demonstrates Luffy's emotional state and his willingness to use his full power against Blackbeard, even though he is racing against time to save Ace.",
+      "characterIds": ["luffy", "blackbeard"],
+      "locationIds": ["impel-down-level-3"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [447],
+      "callbacksToEpisodes": [272]
+    },
+    {
+      "id": "ep446-event-012",
+      "episodeNumber": 446,
+      "timestamp": "19:45",
+      "eventType": "BATTLE_START",
+      "severity": "CRITICAL",
+      "title": "Luffy Strikes Blackbeard with Jet Pistol",
+      "description": "Using Gear 2, Luffy launches a devastating Jet Pistol attack at Blackbeard, striking him with all his fury and rage. This marks the beginning of their first true combat since meeting in Jaya, exactly 300 episodes earlier.",
+      "significance": "The first blow in what will eventually become one of the series' most important rivalries. This attack sets up the continuing battle in the next episode and foreshadows their eventual final confrontation.",
+      "characterIds": ["luffy", "blackbeard"],
+      "locationIds": ["impel-down-level-3"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [146],
+      "payoffInEpisodes": [447],
+      "callbacksToEpisodes": [146]
+    }
+  ],
+  "debuts": {
+    "characters": ["olive"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["hannya-carnival-shonetsu-jigoku-guruma"]
+  },
+  "episodeRelationships": {
+    "setupFor": [447],
+    "payoffFrom": [146, 325, 444, 445],
+    "thematicLinks": [146, 272, 325]
+  },
+  "quotes": [
+    {
+      "text": "I will not let scum like you escape onto the seas!",
+      "speaker": "Hannyabal",
+      "context": "Hannyabal's declaration as he confronts the escapees",
+      "timestamp": "04:00"
+    },
+    {
+      "text": "You have no right to save your brother! Pirates are the scum of the world! Many people are scared just by pirates being alive! Impel Down is the fortress of Hell that if destroyed would plummet the world into darkness!",
+      "speaker": "Hannyabal",
+      "context": "Hannyabal's powerful speech about justice and protecting innocent citizens from pirates",
+      "timestamp": "13:00"
+    },
+    {
+      "text": "There is no answer about justice and evil no matter where you look in the world.",
+      "speaker": "Blackbeard",
+      "context": "Blackbeard's response to Hannyabal's justice speech before crushing him",
+      "timestamp": "15:30"
+    },
+    {
+      "text": "If it wasn't for Ace, it would be you heading for execution!",
+      "speaker": "Blackbeard",
+      "context": "Blackbeard revealing to Luffy his role in Ace's capture",
+      "timestamp": "17:30"
+    },
+    {
+      "text": "I'm going to kill you, Blackbeard!",
+      "speaker": "Luffy",
+      "context": "Luffy's rare declaration of killing intent upon learning Blackbeard captured Ace",
+      "timestamp": "18:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Moral Ambiguity and Justice",
+      "description": "Hannyabal's speech presents a legitimate moral challenge to the protagonists' actions, highlighting that pirates do cause real harm to innocent people. His perspective forces viewers to confront the consequences of the Straw Hats' lifestyle.",
+      "symbolism": "Hannyabal represents the voice of ordinary citizens who suffer from piracy, while Luffy represents the freedom-seeking individual fighting against oppression.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Duty and Sacrifice",
+      "description": "Despite being hopelessly outmatched, Hannyabal continues to fight because of his duty to protect innocent people from dangerous criminals. His willingness to sacrifice himself shows genuine heroism.",
+      "symbolism": "Hannyabal's battered body rising again and again symbolizes the strength of conviction and duty.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Rage and Vengeance",
+      "description": "Luffy's fury upon learning Blackbeard's role in Ace's capture shows the depth of his emotional bond with his brother and sets up the theme of vengeance that will continue through the arc.",
+      "symbolism": "Gear 2's steam represents Luffy's boiling rage and his inability to control his emotions when Ace is threatened.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Cost of Freedom",
+      "description": "The episode explores the tension between personal freedom (Luffy rescuing Ace) and public safety (Hannyabal preventing dangerous criminals from escaping).",
+      "symbolism": "Impel Down itself symbolizes society's attempt to contain chaos and protect the innocent from those who would harm them.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Intense", "Dramatic", "Morally Complex", "Rage-filled"],
+  "characterSpotlights": [
+    {
+      "characterId": "hannyabal",
+      "role": "Moral antagonist and defender of justice",
+      "development": "Hannyabal is revealed to be more than a comedic character seeking promotion. His speech and determination show he genuinely cares about protecting innocent people from pirates, making him a sympathetic antagonist with legitimate concerns.",
+      "keyActions": [
+        "Confronts Luffy and the escapees despite being outmatched",
+        "Withstands Luffy's Jet Gatling and continues fighting",
+        "Delivers powerful speech about protecting innocent citizens from pirates",
+        "Uses Hannya Carnival technique",
+        "Gets crushed by Blackbeard but maintains his conviction"
+      ],
+      "quotes": [
+        "I will not let scum like you escape onto the seas!",
+        "You have no right to save your brother! Pirates are the scum of the world! Many people are scared just by pirates being alive! Impel Down is the fortress of Hell that if destroyed would plummet the world into darkness!"
+      ]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Protagonist driven by rage and determination",
+      "development": "Luffy's emotional state reaches a breaking point when he learns Blackbeard is responsible for Ace's capture. His declaration of killing intent is rare and shows how deeply Ace's situation affects him.",
+      "keyActions": [
+        "Fights Hannyabal with Jet Gatling",
+        "Encounters Blackbeard for the first time since Jaya",
+        "Learns Blackbeard captured Ace",
+        "Declares he will kill Blackbeard",
+        "Activates Gear 2 and attacks with Jet Pistol"
+      ],
+      "quotes": [
+        "I'm going to kill you, Blackbeard!"
+      ]
+    },
+    {
+      "characterId": "blackbeard",
+      "role": "Antagonist and catalyst",
+      "development": "Blackbeard's arrival shifts the episode's tone dramatically. His philosophical response to Hannyabal's justice speech and revelation about Ace establishes him as a complex villain with his own worldview.",
+      "keyActions": [
+        "Arrives at Level 3 entrance",
+        "Crushes Hannyabal into the ground",
+        "Responds to Hannyabal's justice speech with moral relativism",
+        "Reveals his role in Ace's capture to Luffy",
+        "Faces Luffy's Jet Pistol attack"
+      ],
+      "quotes": [
+        "There is no answer about justice and evil no matter where you look in the world.",
+        "If it wasn't for Ace, it would be you heading for execution!"
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The episode adapts Chapter 543 pages 8-19, focusing specifically on Hannyabal's fight and speech, and Blackbeard's arrival. The anime may have extended some scenes for dramatic effect.",
+      "episodeTimestamp": "00:00-21:00",
+      "mangaReference": "Chapter 543: Straw Hat and Blackbeard",
+      "type": "PACING"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks exactly 300 episodes since Blackbeard's debut in Episode 146, when Luffy first met him in Jaya.",
+      "category": "MILESTONE",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_446",
+          "title": "Episode 446 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-12"
+        }
+      ]
+    },
+    {
+      "fact": "Hannyabal's justice speech is considered one of the most important moral moments in One Piece, as it presents a legitimate opposing viewpoint to the protagonists and highlights the genuine consequences of piracy on innocent people.",
+      "category": "THEMATIC",
+      "sources": [
+        {
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/Recap/OnePieceImpelDownArc",
+          "title": "One Piece - Impel Down Arc Recap - TV Tropes",
+          "platform": "TV Tropes",
+          "accessedAt": "2025-12-12"
+        }
+      ]
+    },
+    {
+      "fact": "The eyecatcher for this episode featured Robin and Nami.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "This is one of the rare occasions where Luffy explicitly states he wants to kill someone, showing the depth of his rage toward Blackbeard for capturing Ace.",
+      "category": "CHARACTER",
+      "sources": []
+    },
+    {
+      "fact": "Since episode 279, One Piece stopped using ending themes, so this episode has no ending song.",
+      "category": "PRODUCTION",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

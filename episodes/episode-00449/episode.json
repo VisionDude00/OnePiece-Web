@@ -1,0 +1,612 @@
+{
+  "episodeNumber": 449,
+  "episodeTitle": "Magellan's Tricky Move! A Foiled Escape Plan!",
+  "description": "The escaped prisoners reach Level 1 and discover Magellan has ordered the Marine ships away. Luffy teams up with Mr. 3 who creates wax armor allowing him to fight Magellan without being poisoned. Meanwhile, Jinbe uses Fish-Man Jujutsu to launch Buggy, Crocodile, and Mr. 1 onto a battleship.",
+  "airDate": "2010-05-02",
+  "airDateJapan": "2010-05-02",
+  "airDateUS": "2010-05-01",
+  "arcName": "Impel Down",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Kaze wo Sagashite",
+    "artist": "Mari Yaguchi with Straw Hat",
+    "episodeRange": [426, 458]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Masayuki Takagi",
+    "artDirector": "Ryūji Yoshiike",
+    "director": "Hiroyuki Satō",
+    "screenplay": "Jin Tanaka",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Magellan",
+        "actor": "Mitsuaki Hoshino"
+      },
+      {
+        "character": "Galdino (Mr. 3)",
+        "actor": "Nobuyuki Hiyama"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Daisuke Gōri"
+      },
+      {
+        "character": "Bentham (Bon Clay)",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Crocodile",
+        "actor": "Ryūzaburō Ōtomo"
+      },
+      {
+        "character": "Buggy",
+        "actor": "Shigeru Chiba"
+      },
+      {
+        "character": "Emporio Ivankov",
+        "actor": "Norio Imamura"
+      },
+      {
+        "character": "Daz Bonez (Mr. 1)",
+        "actor": "Tetsu Inada"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Magellan",
+        "actor": "Jeremy Inman"
+      },
+      {
+        "character": "Galdino (Mr. 3)",
+        "actor": "Duncan Brannan"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Daniel Baugh"
+      },
+      {
+        "character": "Bentham (Bon Clay)",
+        "actor": "Barry Yandell"
+      },
+      {
+        "character": "Crocodile",
+        "actor": "John Swasey"
+      },
+      {
+        "character": "Buggy",
+        "actor": "Mike McFarland"
+      },
+      {
+        "character": "Emporio Ivankov",
+        "actor": "Randy Pearlman"
+      },
+      {
+        "character": "Daz Bonez (Mr. 1)",
+        "actor": "Brett Weaver"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep449-event-001",
+      "episodeNumber": 449,
+      "timestamp": "03:45",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Luffy Learns of Ivankov and Inazuma's Defeat",
+      "description": "Luffy is informed that Emporio Ivankov and Inazuma were defeated by Magellan while holding him off to buy time for the prisoners' escape. Both were poisoned but survived.",
+      "significance": "This enrages Luffy and demonstrates Magellan's overwhelming power. It also shows the sacrifice made by Ivankov and Inazuma for the escape plan.",
+      "characterIds": ["luffy", "ivankov", "inazuma", "magellan", "jinbe", "bon-clay"],
+      "locationIds": ["impel-down-level-3"],
+      "quotes": [
+        {
+          "text": "Iva and Inazuma... they were defeated by Magellan!",
+          "speaker": "Prisoner",
+          "context": "Breaking the news to Luffy about his allies' defeat"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [447, 448],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep449-event-002",
+      "episodeNumber": 449,
+      "timestamp": "05:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Luffy Convinced to Prioritize Escape",
+      "description": "Despite his rage, Luffy is persuaded by Mr. 2 (Bon Clay) and Jinbe that escaping takes priority over fighting Magellan, as they need to save Ace with only 4.5 hours remaining.",
+      "significance": "Shows Luffy's character growth in controlling his emotions for a greater goal. The time constraint adds urgency to the escape attempt.",
+      "characterIds": ["luffy", "jinbe", "bon-clay"],
+      "locationIds": ["impel-down-level-1"],
+      "quotes": [
+        {
+          "text": "We have four and a half hours remaining until Ace's execution!",
+          "speaker": "Jinbe",
+          "context": "Reminding Luffy of the time constraint"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep449-event-003",
+      "episodeNumber": 449,
+      "timestamp": "07:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Mr. 3 Creates Candle Wall Against Magellan",
+      "description": "Galdino (Mr. 3) uses his Doru Doru no Mi powers to create a Candle Wall that successfully blocks Magellan's poisonous Hydra attack, demonstrating that his wax can resist the poison.",
+      "significance": "This reveals that Mr. 3's wax can counter Magellan's poison, setting up the strategy that allows Luffy to fight the warden. It also shows Mr. 3's loyalty and willingness to help.",
+      "characterIds": ["mr-3", "magellan", "luffy"],
+      "locationIds": ["impel-down-level-1"],
+      "devilFruitIds": ["doru-doru-no-mi"],
+      "quotes": [
+        {
+          "text": "My wax can block his poison!",
+          "speaker": "Mr. 3",
+          "context": "Discovering his wax's resistance to Magellan's poison"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep449-event-004",
+      "episodeNumber": 449,
+      "timestamp": "09:20",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Champion Luffy Debuts - Candle Armor Created",
+      "description": "Mr. 3 coats Luffy's fists and feet with wax armor, creating 'Champion Luffy.' This allows Luffy to physically strike Magellan without being poisoned by his Doku Doku no Mi powers.",
+      "significance": "This is a pivotal moment that gives Luffy a fighting chance against Magellan. The teamwork between former enemies (Luffy and Mr. 3) demonstrates the unusual alliances formed during the prison break.",
+      "characterIds": ["luffy", "mr-3"],
+      "locationIds": ["impel-down-level-1"],
+      "devilFruitIds": ["doru-doru-no-mi", "gomu-gomu-no-mi"],
+      "quotes": [
+        {
+          "text": "I'll coat your fists and feet with wax so you can hit Magellan!",
+          "speaker": "Mr. 3",
+          "context": "Creating the Candle Armor strategy for Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [76]
+    },
+    {
+      "id": "ep449-event-005",
+      "episodeNumber": 449,
+      "timestamp": "10:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Gomu Gomu no Champion Rifle",
+      "description": "Luffy uses his first Champion attack, the Champion Rifle, combining his Gomu Gomu no Pistol with Mr. 3's wax armor to land a direct hit on Magellan.",
+      "significance": "First successful attack by Luffy against Magellan in their rematch. Demonstrates the effectiveness of the wax armor strategy.",
+      "characterIds": ["luffy", "magellan"],
+      "locationIds": ["impel-down-level-1"],
+      "devilFruitIds": ["gomu-gomu-no-mi", "doru-doru-no-mi"],
+      "quotes": [
+        {
+          "text": "Gomu Gomu no... Champion Rifle!",
+          "speaker": "Luffy",
+          "context": "First use of Champion Rifle technique"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep449-event-006",
+      "episodeNumber": 449,
+      "timestamp": "11:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Gomu Gomu no Champion Bazooka",
+      "description": "Luffy unleashes Champion Bazooka, his signature two-handed attack enhanced with Mr. 3's wax armor, against Magellan.",
+      "significance": "Demonstrates the full potential of the Champion Luffy combination, showing Luffy can use his full arsenal of techniques with the wax armor.",
+      "characterIds": ["luffy", "magellan"],
+      "locationIds": ["impel-down-level-1"],
+      "devilFruitIds": ["gomu-gomu-no-mi", "doru-doru-no-mi"],
+      "quotes": [
+        {
+          "text": "Gomu Gomu no... Champion Bazooka!",
+          "speaker": "Luffy",
+          "context": "Launching a powerful two-handed attack against Magellan"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep449-event-007",
+      "episodeNumber": 449,
+      "timestamp": "13:00",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Magellan Orders Marine Ships Relocated",
+      "description": "Magellan executes his clever scheme by ordering the Marine warships to move away from Impel Down, trapping the escaped prisoners with no means of escape.",
+      "significance": "This strategic move by Magellan threatens to foil the entire escape plan and demonstrates his tactical intelligence, not just his overwhelming power.",
+      "characterIds": ["magellan"],
+      "locationIds": ["impel-down"],
+      "crewIds": ["marines"],
+      "quotes": [
+        {
+          "text": "Move all battleships away from Impel Down immediately!",
+          "speaker": "Magellan",
+          "context": "Ordering the Marine ships to relocate to trap the escapees"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep449-event-008",
+      "episodeNumber": 449,
+      "timestamp": "14:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Prisoners Reach Impel Down Exit",
+      "description": "The escaped prisoners finally reach the exterior of Impel Down at Level 1, only to discover the vast Calm Belt with dangerous Sea Kings and no Marine ships in sight.",
+      "significance": "The prisoners' moment of hope turns to despair as they realize Magellan's plan has worked. They face the choice between staying in prison or facing the deadly Calm Belt.",
+      "characterIds": ["luffy", "buggy", "crocodile", "mr-1", "jinbe"],
+      "locationIds": ["impel-down-level-1", "calm-belt"],
+      "quotes": [
+        {
+          "text": "There are no ships! We're trapped!",
+          "speaker": "Prisoner",
+          "context": "Discovering Magellan's scheme has worked"
+        },
+        {
+          "text": "Ten battleships outside, with 800 Marines stationed on each one... but they're all gone.",
+          "speaker": "Crocodile",
+          "context": "Assessing the situation"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep449-event-009",
+      "episodeNumber": 449,
+      "timestamp": "16:00",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Jinbe Uses Fish-Man Jujutsu: Mizugokoro",
+      "description": "Jinbe demonstrates the Fish-Man Jujutsu technique Mizugokoro (Water Heart), physically manipulating the water currents in the Calm Belt by creating a glowing blue-white orb of water.",
+      "significance": "First demonstration of Jinbe's Fish-Man Jujutsu abilities (distinct from Fish-Man Karate). This technique allows manipulation of water itself, showcasing Jinbe's mastery as a Fish-Man.",
+      "characterIds": ["jinbe"],
+      "locationIds": ["impel-down-exterior", "calm-belt"],
+      "quotes": [
+        {
+          "text": "Fish-Man Jujutsu: Mizugokoro!",
+          "speaker": "Jinbe",
+          "context": "Using water manipulation to create a current"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep449-event-010",
+      "episodeNumber": 449,
+      "timestamp": "17:15",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Jinbe Uses Kairyu Ipponzeoi",
+      "description": "Following Mizugokoro, Jinbe performs Kairyu Ipponzeoi (Sea Current Lifter), heaving the water current upward to erupt from the ocean surface as a towering stream. He uses this to launch a door carrying Buggy, Crocodile, and Mr. 1 onto a distant Marine battleship.",
+      "significance": "Demonstrates Jinbe's incredible power and ingenuity in securing the escape route. This technique shows the strategic applications of Fish-Man abilities beyond direct combat.",
+      "characterIds": ["jinbe", "buggy", "crocodile", "mr-1"],
+      "locationIds": ["calm-belt", "marine-battleship"],
+      "quotes": [
+        {
+          "text": "Kairyu Ipponzeoi!",
+          "speaker": "Jinbe",
+          "context": "Launching the makeshift raft onto the battleship"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep449-event-011",
+      "episodeNumber": 449,
+      "timestamp": "18:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Jinbe's Fish-Man Karate: Spear Wave",
+      "description": "After landing the three pirates on the battleship, Jinbe uses Fish-Man Karate: Uchimizu (Spear Wave), creating a water projectile that pierces diagonally through the entire Marine warship.",
+      "significance": "Demonstrates the destructive power of Fish-Man Karate and Jinbe's long-range capabilities. Shows his concern for his allies despite the distance.",
+      "characterIds": ["jinbe"],
+      "locationIds": ["marine-battleship"],
+      "quotes": [
+        {
+          "text": "Fish-Man Karate: Uchimizu!",
+          "speaker": "Jinbe",
+          "context": "Attacking the Marines from a distance to help his allies"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep449-event-012",
+      "episodeNumber": 449,
+      "timestamp": "19:45",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Luffy vs Magellan Round 2 Begins",
+      "description": "With the wax armor protection, Luffy heads back to Level 2 to confront Magellan for a second time. Their fists clash as the rematch begins.",
+      "significance": "Sets up the climactic confrontation between Luffy and Magellan. Unlike their first battle where Luffy was completely overwhelmed, he now has a fighting chance with the Champion armor.",
+      "characterIds": ["luffy", "magellan"],
+      "locationIds": ["impel-down-level-2"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [425],
+      "payoffInEpisodes": [450],
+      "callbacksToEpisodes": [425]
+    },
+    {
+      "id": "ep449-event-013",
+      "episodeNumber": 449,
+      "timestamp": "21:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Magellan's Ominous Warning",
+      "description": "As their fists collide, Magellan asks Luffy if he remembers what happened in their last battle. When Luffy says he doesn't, Magellan ominously responds 'Then I will not let you forget.'",
+      "significance": "Creates dramatic tension and recalls their previous encounter where Magellan easily defeated Luffy. This callback emphasizes how dangerous Magellan remains despite Luffy's new strategy.",
+      "characterIds": ["luffy", "magellan"],
+      "locationIds": ["impel-down-level-2"],
+      "quotes": [
+        {
+          "text": "Do you remember what happened in our last battle?",
+          "speaker": "Magellan",
+          "context": "Confronting Luffy during their rematch"
+        },
+        {
+          "text": "No, I don't!",
+          "speaker": "Luffy",
+          "context": "Responding to Magellan's question"
+        },
+        {
+          "text": "Then I will not let you forget.",
+          "speaker": "Magellan",
+          "context": "Ominous warning before their battle continues"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [425],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [425]
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["champion-luffy", "champion-rifle", "champion-bazooka", "mizugokoro", "kairyu-ipponzeoi"]
+  },
+  "episodeRelationships": {
+    "setupFor": [450, 451],
+    "payoffFrom": [447, 448],
+    "thematicLinks": [425, 452]
+  },
+  "quotes": [
+    {
+      "text": "We have four and a half hours remaining until Ace's execution!",
+      "speaker": "Jinbe",
+      "context": "Reminding Luffy of the urgency to escape and save Ace",
+      "timestamp": "05:15"
+    },
+    {
+      "text": "I'll coat your fists and feet with wax so you can hit Magellan!",
+      "speaker": "Mr. 3",
+      "context": "Creating the Champion Luffy strategy",
+      "timestamp": "09:20"
+    },
+    {
+      "text": "Then I will not let you forget.",
+      "speaker": "Magellan",
+      "context": "Ominous warning to Luffy about their previous battle",
+      "timestamp": "21:00"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Unlikely Alliances",
+      "description": "The episode showcases how former enemies like Luffy and Mr. 3, and Luffy and Crocodile, work together for a common goal. Their cooperation demonstrates that shared circumstances can overcome past conflicts.",
+      "symbolism": "Mr. 3's wax armor represents how former adversaries can strengthen each other when they unite.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Strategic Thinking vs Brute Force",
+      "description": "Magellan's clever scheme to relocate the Marine ships shows that intelligence and planning can be as powerful as raw strength. Similarly, Luffy's use of the wax armor shows he's learning to fight smarter.",
+      "symbolism": "The wax armor symbolizes adaptation and creative problem-solving in the face of seemingly insurmountable obstacles.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Sacrifice and Loyalty",
+      "description": "Ivankov and Inazuma's willingness to face Magellan alone to buy time for the escapees demonstrates the bonds formed between the prisoners and their commitment to the escape plan.",
+      "symbolism": "Their defeat and poisoning represents the heavy cost of pursuing freedom.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Time Pressure and Urgency",
+      "description": "The constant reminder of Ace's impending execution creates a ticking clock that drives the narrative tension. Every obstacle faced becomes more critical with limited time remaining.",
+      "symbolism": "The countdown to Ace's execution represents the race against fate itself.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Desperate", "Strategic", "Action-packed"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist fighting for his allies",
+      "development": "Shows emotional maturity by controlling his rage and prioritizing the mission to save Ace over immediate revenge. Demonstrates adaptability by utilizing Mr. 3's wax armor strategy.",
+      "keyActions": [
+        "Controls his anger after learning of Ivankov and Inazuma's defeat",
+        "Teams up with Mr. 3 to create the Champion Luffy armor",
+        "Uses Champion Rifle and Champion Bazooka against Magellan",
+        "Confronts Magellan in a rematch"
+      ],
+      "quotes": ["Gomu Gomu no... Champion Rifle!", "No, I don't!"]
+    },
+    {
+      "characterId": "mr-3",
+      "role": "Unlikely ally providing crucial support",
+      "development": "Demonstrates his loyalty to Luffy and reveals the utility of his Doru Doru no Mi powers beyond combat. His wax becomes the key to fighting Magellan.",
+      "keyActions": [
+        "Creates Candle Wall to block Magellan's Hydra",
+        "Coats Luffy's fists and feet with wax armor",
+        "Enables Luffy to fight Magellan without being poisoned"
+      ],
+      "quotes": ["My wax can block his poison!", "I'll coat your fists and feet with wax so you can hit Magellan!"]
+    },
+    {
+      "characterId": "jinbe",
+      "role": "Strategic leader and powerhouse",
+      "development": "Showcases his Fish-Man abilities including both Fish-Man Jujutsu and Fish-Man Karate. Demonstrates leadership by finding solutions when the escape seems impossible.",
+      "keyActions": [
+        "Convinces Luffy to prioritize escape over revenge",
+        "Uses Mizugokoro to manipulate water currents",
+        "Launches Buggy, Crocodile, and Mr. 1 onto a battleship with Kairyu Ipponzeoi",
+        "Uses Uchimizu to attack the Marines from a distance"
+      ],
+      "quotes": ["We have four and a half hours remaining until Ace's execution!", "Fish-Man Jujutsu: Mizugokoro!", "Kairyu Ipponzeoi!"]
+    },
+    {
+      "characterId": "magellan",
+      "role": "Formidable antagonist",
+      "development": "Demonstrates not just overwhelming power but also tactical intelligence with his scheme to relocate the Marine ships. His presence looms over the entire episode.",
+      "keyActions": [
+        "Orders Marine battleships to move away from Impel Down",
+        "Confronts Luffy in a rematch",
+        "Warns Luffy about their previous encounter"
+      ],
+      "quotes": ["Move all battleships away from Impel Down immediately!", "Do you remember what happened in our last battle?", "Then I will not let you forget."]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends the confrontation between Luffy and Magellan with additional dialogue and action sequences not present in the manga chapters.",
+      "episodeTimestamp": "09:20-12:00",
+      "mangaReference": "Chapter 546",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "The anime shows more detailed animation of Jinbe's Fish-Man Jujutsu techniques, particularly the visual effects of Mizugokoro and Kairyu Ipponzeoi.",
+      "episodeTimestamp": "16:00-17:15",
+      "mangaReference": "Chapter 546",
+      "type": "ENHANCED_ANIMATION"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode adapts parts of chapters 545 and 546 of the manga, covering the escape from Impel Down Level 1.",
+      "category": "MANGA_ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_449",
+          "title": "Episode 449 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-12"
+        }
+      ]
+    },
+    {
+      "fact": "The Champion Luffy concept is a callback to Episode 76 where Mr. 3 first used his Candle Champion armor against Luffy during the Little Garden Arc.",
+      "category": "CALLBACK",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Galdino",
+          "title": "Galdino - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-12"
+        }
+      ]
+    },
+    {
+      "fact": "This episode aired with an 11.0% TV rating in Japan, ranking #2 for its timeslot.",
+      "category": "VIEWERSHIP",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_449",
+          "title": "Episode 449 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-12"
+        }
+      ]
+    },
+    {
+      "fact": "Norio Imamura voiced Emporio Ivankov in this episode. He would later be replaced by Mitsuo Iwata in July 2010 after stepping down from the role.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://www.behindthevoiceactors.com/characters/One-Piece/Emporio-Ivankov/",
+          "title": "Emporio Ivankov Voices - Behind The Voice Actors",
+          "platform": "Behind The Voice Actors",
+          "accessedAt": "2025-12-12"
+        }
+      ]
+    },
+    {
+      "fact": "The episode contains several minor animation inconsistencies including background prisoner transparency issues and missing character tattoos, typical of the One Piece anime's production schedule during this period.",
+      "category": "ANIMATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_449",
+          "title": "Episode 449 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-12"
+        }
+      ]
+    },
+    {
+      "fact": "Fish-Man Jujutsu is distinct from Fish-Man Karate - Jujutsu focuses on water manipulation and grappling techniques while Karate emphasizes striking. Jinbe demonstrates both styles in this episode.",
+      "category": "ABILITIES",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Fish-Man_Jujutsu",
+          "title": "Fish-Man Jujutsu - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-12"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
