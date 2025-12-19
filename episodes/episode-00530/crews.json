@@ -1,0 +1,164 @@
+[
+  {
+    "name": {
+      "english": "Gyro Pirates",
+      "japanese": "ジャイロ海賊団",
+      "romanized": "Jairo Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "gyro",
+    "debutEpisode": 530,
+    "debutChapter": 611,
+    "episodeAppearances": [530],
+    "members": [
+      {
+        "characterId": "gyro",
+        "role": "Captain",
+        "episodeJoined": 530,
+        "episodeLeft": null,
+        "joinCircumstances": "Gyro is the founder and captain of the Gyro Pirates from South Blue."
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 530,
+        "eventId": "ep530-event-001",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Gyro Pirates Debut",
+        "description": "The Gyro Pirates appear fleeing from Hody Jones after refusing to join the New Fish-Man Pirates as enslaved subordinates.",
+        "significance": "Introduces the crew and demonstrates the threat posed by the New Fish-Man Pirates.",
+        "timestamp": "02:30"
+      },
+      {
+        "episodeNumber": 530,
+        "eventId": "ep530-event-002",
+        "momentType": "DEFEAT",
+        "title": "Gyro Pirates' Ship Destroyed",
+        "description": "The Gyro Pirates' ship is completely destroyed by Hody Jones, with only some crew members surviving to spread word of Hody's power.",
+        "significance": "Demonstrates Hody's overwhelming power and establishes the New Fish-Man Pirates as a major threat.",
+        "timestamp": "04:15"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Gyro's Ship",
+        "episodeAcquired": 530,
+        "episodeLost": 530,
+        "description": "The Gyro Pirates' ship that was destroyed by Hody Jones in the waters near Fish-Man Island."
+      }
+    ],
+    "bases": [],
+    "totalBountyProgression": [
+      {
+        "totalBounty": 73000000,
+        "episodeNumber": 530,
+        "memberBounties": {
+          "gyro": 73000000
+        }
+      }
+    ],
+    "jollyRoger": {
+      "description": "Unknown",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "originSea": "South Blue",
+    "relationships": {
+      "allies": [],
+      "enemies": ["new-fish-man-pirates"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "New Fish-Man Pirates",
+      "japanese": "新魚人海賊団",
+      "romanized": "Shin Gyojin Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "hody-jones",
+    "debutEpisode": 529,
+    "debutChapter": 611,
+    "episodeAppearances": [530],
+    "members": [
+      {
+        "characterId": "hody-jones",
+        "role": "Captain",
+        "episodeJoined": 529,
+        "episodeLeft": null,
+        "joinCircumstances": "Hody Jones founded the New Fish-Man Pirates."
+      },
+      {
+        "characterId": "zeo",
+        "role": "Officer",
+        "episodeJoined": 530,
+        "episodeLeft": null,
+        "joinCircumstances": "Zeo is one of Hody's officers, having been close to him since childhood."
+      },
+      {
+        "characterId": "dosun",
+        "role": "Officer",
+        "episodeJoined": 530,
+        "episodeLeft": null,
+        "joinCircumstances": "Dosun is one of Hody's officers, having been close to him since childhood."
+      },
+      {
+        "characterId": "daruma",
+        "role": "Officer",
+        "episodeJoined": 530,
+        "episodeLeft": null,
+        "joinCircumstances": "Daruma is one of Hody's officers, having been close to him since childhood."
+      },
+      {
+        "characterId": "ikaros-much",
+        "role": "Officer",
+        "episodeJoined": 530,
+        "episodeLeft": null,
+        "joinCircumstances": "Ikaros Much is one of Hody's officers, having been close to him since childhood."
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 530,
+        "eventId": "ep530-event-002",
+        "momentType": "POWER_DISPLAY",
+        "title": "Hody Destroys Gyro's Ship",
+        "description": "Hody Jones demonstrates the New Fish-Man Pirates' power by destroying Gyro's ship using only his jaws while chained, enhanced by Energy Steroids.",
+        "significance": "Establishes the crew as an overwhelming threat and shows their reliance on Energy Steroids for power.",
+        "timestamp": "04:15"
+      },
+      {
+        "episodeNumber": 530,
+        "eventId": "ep530-event-003",
+        "momentType": "EXPOSITION",
+        "title": "Energy Steroid Mechanics Revealed",
+        "description": "Zeo explains that fish-men have 10 times human strength and that Energy Steroids double their power with each pill, revealing the source of the crew's enhanced abilities.",
+        "significance": "Provides crucial information about the crew's power source and establishes the danger they pose.",
+        "timestamp": "06:45"
+      },
+      {
+        "episodeNumber": 530,
+        "eventId": "ep530-event-009",
+        "momentType": "MAJOR_DECISION",
+        "title": "New Fish-Man Pirates Advance on Fish-Man Island",
+        "description": "Hody Jones declares his plan to kill King Neptune and orders the entire crew to advance on Fish-Man Island to begin their takeover.",
+        "significance": "Sets the crew on a collision course with the Straw Hats and establishes the main conflict of the arc.",
+        "timestamp": "16:00"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "Unknown",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "ideology": "Fish-men supremacy over humans",
+    "relationships": {
+      "allies": [],
+      "enemies": ["ryugu-kingdom", "straw-hat-pirates", "gyro-pirates"],
+      "parentOrganization": null
+    }
+  }
+]

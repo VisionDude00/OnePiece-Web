@@ -1,0 +1,649 @@
+[
+  {
+    "name": {
+      "english": "Gyro",
+      "japanese": "ジャイロ",
+      "romanized": "Jairo"
+    },
+    "debutEpisode": 530,
+    "debutChapter": 611,
+    "episodeAppearances": [530],
+    "keyMoments": [
+      {
+        "episodeNumber": 530,
+        "eventId": "ep530-event-001",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Gyro's First Appearance",
+        "description": "Gyro, captain of the Gyro Pirates, attempts to escape from Hody Jones after refusing to join the New Fish-Man Pirates as enslaved subordinates.",
+        "significance": "Introduces Gyro as a victim of Hody's brutality and demonstrates the threat Hody poses to anyone who opposes him.",
+        "timestamp": "02:30",
+        "quote": ""
+      },
+      {
+        "episodeNumber": 530,
+        "eventId": "ep530-event-002",
+        "momentType": "DEFEAT",
+        "title": "Gyro's Ship Destroyed by Hody",
+        "description": "Gyro's ship is completely destroyed by Hody Jones using only his jaws while chained, with Gyro and his crew barely escaping with their lives.",
+        "significance": "Establishes the overwhelming power difference between Hody and regular pirates, showing the threat level of the New Fish-Man Pirates.",
+        "timestamp": "04:15",
+        "quote": ""
+      }
+    ],
+    "status": "ALIVE",
+    "statusHistory": [
+      {
+        "status": "ALIVE",
+        "episodeStart": 530,
+        "episodeEnd": "present"
+      }
+    ],
+    "occupations": ["Pirate", "Captain"],
+    "affiliations": [
+      {
+        "crewId": "gyro-pirates",
+        "role": "Captain",
+        "episodeJoined": 530,
+        "episodeLeft": null
+      }
+    ],
+    "bounties": [
+      {
+        "amount": 73000000,
+        "episodeRevealed": 530,
+        "reason": "Pirate captain from South Blue"
+      }
+    ],
+    "reveals": [
+      {
+        "infoType": "BACKGROUND",
+        "information": "Captain of the Gyro Pirates from South Blue, known as 'Crab-Hand' Gyro",
+        "episodeRevealed": 530,
+        "severity": "MINOR"
+      },
+      {
+        "infoType": "CONFLICT",
+        "information": "Refused to join the New Fish-Man Pirates as enslaved subordinates",
+        "episodeRevealed": 530,
+        "severity": "MINOR"
+      }
+    ],
+    "relationships": [
+      {
+        "targetCharacterId": "hody-jones",
+        "relationshipType": "ENEMY",
+        "description": "Gyro is hunted and defeated by Hody Jones for refusing to submit to the New Fish-Man Pirates.",
+        "episodeEstablished": 530,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 530,
+            "description": "Hody destroys Gyro's ship after he attempts to escape.",
+            "newRelationshipType": "ENEMY"
+          }
+        ]
+      }
+    ],
+    "voiceActors": {
+      "japanese": "Unknown",
+      "english": "Unknown"
+    }
+  },
+  {
+    "name": {
+      "english": "Neptune",
+      "japanese": "ネプチューン",
+      "romanized": "Nepuchūn"
+    },
+    "debutEpisode": 530,
+    "debutChapter": 612,
+    "episodeAppearances": [530],
+    "keyMoments": [
+      {
+        "episodeNumber": 530,
+        "eventId": "ep530-event-006",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "King Neptune's Grand Entrance",
+        "description": "King Neptune makes his first appearance riding Megalo, introducing himself as the king of the Ryugu Kingdom in a theatrical and grand manner.",
+        "significance": "Introduces the legitimate ruler of Fish-Man Island and establishes him as a benevolent and hospitable leader who welcomes the Straw Hats.",
+        "timestamp": "10:30",
+        "quote": "I am Neptune, King of the Ryugu Kingdom! I welcome you to Fish-Man Island!"
+      },
+      {
+        "episodeNumber": 530,
+        "eventId": "ep530-event-007",
+        "momentType": "DIPLOMATIC_ACTION",
+        "title": "Invitation to Ryugu Palace",
+        "description": "Neptune formally invites the Straw Hat Pirates to a banquet at Ryugu Palace as a gesture of hospitality and gratitude.",
+        "significance": "Establishes Neptune's friendly relationship with the Straw Hats and sets up their visit to Ryugu Palace.",
+        "timestamp": "12:00",
+        "quote": "I would be honored if you would join me for a banquet at Ryugu Palace!"
+      }
+    ],
+    "status": "ALIVE",
+    "statusHistory": [
+      {
+        "status": "ALIVE",
+        "episodeStart": 530,
+        "episodeEnd": "present"
+      }
+    ],
+    "occupations": ["King", "Ruler"],
+    "affiliations": [
+      {
+        "organizationId": "ryugu-kingdom",
+        "role": "King",
+        "episodeJoined": 530,
+        "episodeLeft": null
+      }
+    ],
+    "species": "Coelacanth Merman",
+    "reveals": [
+      {
+        "infoType": "IDENTITY",
+        "information": "King of the Ryugu Kingdom and Fish-Man Island",
+        "episodeRevealed": 530,
+        "severity": "MAJOR"
+      },
+      {
+        "infoType": "TITLE",
+        "information": "Known as the 'Great Knight of the Sea' and 'God of the Sea'",
+        "episodeRevealed": 530,
+        "severity": "MINOR"
+      },
+      {
+        "infoType": "PERSONALITY",
+        "information": "Theatrical, hospitable, and kind ruler who welcomes visitors",
+        "episodeRevealed": 530,
+        "severity": "MINOR"
+      }
+    ],
+    "relationships": [
+      {
+        "targetCharacterId": "luffy",
+        "relationshipType": "ALLY",
+        "description": "Neptune welcomes Luffy and the Straw Hats to Fish-Man Island and invites them to his palace.",
+        "episodeEstablished": 530,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 530,
+            "description": "Neptune makes a grand entrance and formally invites the Straw Hats to Ryugu Palace.",
+            "newRelationshipType": "ALLY"
+          }
+        ]
+      },
+      {
+        "targetCharacterId": "megalo",
+        "relationshipType": "COMPANION",
+        "description": "Neptune rides Megalo, showing a close relationship with the shark.",
+        "episodeEstablished": 530,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 530,
+            "description": "Neptune appears riding Megalo.",
+            "newRelationshipType": "COMPANION"
+          }
+        ]
+      }
+    ],
+    "voiceActors": {
+      "japanese": "Minoru Inaba",
+      "english": "Bruce DuBose"
+    }
+  },
+  {
+    "name": {
+      "english": "Megalo",
+      "japanese": "メガロ",
+      "romanized": "Megaro"
+    },
+    "debutEpisode": 530,
+    "debutChapter": 612,
+    "episodeAppearances": [530],
+    "keyMoments": [
+      {
+        "episodeNumber": 530,
+        "eventId": "ep530-event-006",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Megalo's First Appearance",
+        "description": "Megalo, a large shark, appears carrying King Neptune on his back during Neptune's grand entrance to meet the Straw Hats.",
+        "significance": "Introduces Megalo as Neptune's companion and mount, showing the relationship between the king and sea creatures.",
+        "timestamp": "10:30",
+        "quote": ""
+      }
+    ],
+    "status": "ALIVE",
+    "statusHistory": [
+      {
+        "status": "ALIVE",
+        "episodeStart": 530,
+        "episodeEnd": "present"
+      }
+    ],
+    "species": "Shark",
+    "reveals": [
+      {
+        "infoType": "IDENTITY",
+        "information": "A large shark that serves as King Neptune's mount and companion",
+        "episodeRevealed": 530,
+        "severity": "MINOR"
+      }
+    ],
+    "relationships": [
+      {
+        "targetCharacterId": "neptune",
+        "relationshipType": "COMPANION",
+        "description": "Megalo serves as Neptune's loyal mount and companion.",
+        "episodeEstablished": 530,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 530,
+            "description": "Megalo carries Neptune during his entrance.",
+            "newRelationshipType": "COMPANION"
+          }
+        ]
+      }
+    ],
+    "voiceActors": {
+      "japanese": "Unknown",
+      "english": "Unknown"
+    }
+  },
+  {
+    "name": {
+      "english": "Zeo",
+      "japanese": "ゼオ",
+      "romanized": "Zeo"
+    },
+    "debutEpisode": 530,
+    "debutChapter": 611,
+    "episodeAppearances": [530],
+    "keyMoments": [
+      {
+        "episodeNumber": 530,
+        "eventId": "ep530-event-004",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Zeo's First Appearance",
+        "description": "Zeo, a Japanese wobbegong fish-man and one of Hody Jones's officers, appears and explains the mechanics of Energy Steroids to demonstrate the New Fish-Man Pirates' power.",
+        "significance": "Introduces one of Hody's key subordinates and provides crucial exposition about Energy Steroids.",
+        "timestamp": "07:30",
+        "quote": "Fish-men are born with ten times the strength of humans. And Energy Steroids double our power with each pill we take."
+      },
+      {
+        "episodeNumber": 530,
+        "eventId": "ep530-event-003",
+        "momentType": "EXPOSITION",
+        "title": "Zeo Explains Energy Steroid Mechanics",
+        "description": "Zeo provides detailed information about fish-men's natural strength advantage over humans and how Energy Steroids exponentially increase their power.",
+        "significance": "Establishes the scientific/biological foundation for understanding the threat level of the New Fish-Man Pirates.",
+        "timestamp": "06:45",
+        "quote": "Fish-men are born with ten times the strength of humans. And Energy Steroids double our power with each pill we take."
+      }
+    ],
+    "status": "ALIVE",
+    "statusHistory": [
+      {
+        "status": "ALIVE",
+        "episodeStart": 530,
+        "episodeEnd": "present"
+      }
+    ],
+    "occupations": ["Pirate", "Officer"],
+    "affiliations": [
+      {
+        "crewId": "new-fish-man-pirates",
+        "role": "Officer",
+        "episodeJoined": 530,
+        "episodeLeft": null
+      }
+    ],
+    "species": "Japanese Wobbegong Fish-Man",
+    "reveals": [
+      {
+        "infoType": "IDENTITY",
+        "information": "Officer of the New Fish-Man Pirates under Hody Jones",
+        "episodeRevealed": 530,
+        "severity": "MINOR"
+      },
+      {
+        "infoType": "KNOWLEDGE",
+        "information": "Knowledgeable about Energy Steroids and fish-men biology",
+        "episodeRevealed": 530,
+        "severity": "MINOR"
+      }
+    ],
+    "relationships": [
+      {
+        "targetCharacterId": "hody-jones",
+        "relationshipType": "SUBORDINATE",
+        "description": "Zeo serves as one of Hody Jones's loyal officers in the New Fish-Man Pirates.",
+        "episodeEstablished": 530,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 530,
+            "description": "Zeo appears alongside Hody as one of his officers.",
+            "newRelationshipType": "SUBORDINATE"
+          }
+        ]
+      }
+    ],
+    "voiceActors": {
+      "japanese": "Unknown",
+      "english": "Unknown"
+    }
+  },
+  {
+    "name": {
+      "english": "Dosun",
+      "japanese": "ドスン",
+      "romanized": "Dosun"
+    },
+    "debutEpisode": 530,
+    "debutChapter": 611,
+    "episodeAppearances": [530],
+    "keyMoments": [
+      {
+        "episodeNumber": 530,
+        "eventId": "ep530-event-005",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Dosun's First Appearance",
+        "description": "Dosun, a hammerhead shark fish-man, appears as one of Hody Jones's officers in the New Fish-Man Pirates.",
+        "significance": "Introduces one of the main antagonist group's officers.",
+        "timestamp": "08:00",
+        "quote": ""
+      }
+    ],
+    "status": "ALIVE",
+    "statusHistory": [
+      {
+        "status": "ALIVE",
+        "episodeStart": 530,
+        "episodeEnd": "present"
+      }
+    ],
+    "occupations": ["Pirate", "Officer"],
+    "affiliations": [
+      {
+        "crewId": "new-fish-man-pirates",
+        "role": "Officer",
+        "episodeJoined": 530,
+        "episodeLeft": null
+      }
+    ],
+    "species": "Hammerhead Shark Fish-Man",
+    "reveals": [
+      {
+        "infoType": "IDENTITY",
+        "information": "Officer of the New Fish-Man Pirates",
+        "episodeRevealed": 530,
+        "severity": "MINOR"
+      }
+    ],
+    "relationships": [
+      {
+        "targetCharacterId": "hody-jones",
+        "relationshipType": "SUBORDINATE",
+        "description": "Dosun serves as one of Hody Jones's officers.",
+        "episodeEstablished": 530,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 530,
+            "description": "Dosun appears alongside Hody as one of his officers.",
+            "newRelationshipType": "SUBORDINATE"
+          }
+        ]
+      }
+    ],
+    "voiceActors": {
+      "japanese": "Unknown",
+      "english": "Unknown"
+    }
+  },
+  {
+    "name": {
+      "english": "Daruma",
+      "japanese": "ダルマ",
+      "romanized": "Daruma"
+    },
+    "debutEpisode": 530,
+    "debutChapter": 611,
+    "episodeAppearances": [530],
+    "keyMoments": [
+      {
+        "episodeNumber": 530,
+        "eventId": "ep530-event-005",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Daruma's First Appearance",
+        "description": "Daruma, a cookie-cutter shark fish-man, appears as one of Hody Jones's officers in the New Fish-Man Pirates.",
+        "significance": "Introduces one of the main antagonist group's officers.",
+        "timestamp": "08:00",
+        "quote": ""
+      }
+    ],
+    "status": "ALIVE",
+    "statusHistory": [
+      {
+        "status": "ALIVE",
+        "episodeStart": 530,
+        "episodeEnd": "present"
+      }
+    ],
+    "occupations": ["Pirate", "Officer"],
+    "affiliations": [
+      {
+        "crewId": "new-fish-man-pirates",
+        "role": "Officer",
+        "episodeJoined": 530,
+        "episodeLeft": null
+      }
+    ],
+    "species": "Cookie-Cutter Shark Fish-Man",
+    "reveals": [
+      {
+        "infoType": "IDENTITY",
+        "information": "Officer of the New Fish-Man Pirates",
+        "episodeRevealed": 530,
+        "severity": "MINOR"
+      }
+    ],
+    "relationships": [
+      {
+        "targetCharacterId": "hody-jones",
+        "relationshipType": "SUBORDINATE",
+        "description": "Daruma serves as one of Hody Jones's officers.",
+        "episodeEstablished": 530,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 530,
+            "description": "Daruma appears alongside Hody as one of his officers.",
+            "newRelationshipType": "SUBORDINATE"
+          }
+        ]
+      }
+    ],
+    "voiceActors": {
+      "japanese": "Unknown",
+      "english": "Unknown"
+    }
+  },
+  {
+    "name": {
+      "english": "Ikaros Much",
+      "japanese": "イカロス・ムッヒ",
+      "romanized": "Ikarosu Muhhi"
+    },
+    "debutEpisode": 530,
+    "debutChapter": 611,
+    "episodeAppearances": [530],
+    "keyMoments": [
+      {
+        "episodeNumber": 530,
+        "eventId": "ep530-event-005",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Ikaros Much's First Appearance",
+        "description": "Ikaros Much, a giant squid fish-man, appears as one of Hody Jones's officers in the New Fish-Man Pirates.",
+        "significance": "Introduces one of the main antagonist group's officers.",
+        "timestamp": "08:00",
+        "quote": ""
+      }
+    ],
+    "status": "ALIVE",
+    "statusHistory": [
+      {
+        "status": "ALIVE",
+        "episodeStart": 530,
+        "episodeEnd": "present"
+      }
+    ],
+    "occupations": ["Pirate", "Officer"],
+    "affiliations": [
+      {
+        "crewId": "new-fish-man-pirates",
+        "role": "Officer",
+        "episodeJoined": 530,
+        "episodeLeft": null
+      }
+    ],
+    "species": "Giant Squid Fish-Man",
+    "reveals": [
+      {
+        "infoType": "IDENTITY",
+        "information": "Officer of the New Fish-Man Pirates",
+        "episodeRevealed": 530,
+        "severity": "MINOR"
+      }
+    ],
+    "relationships": [
+      {
+        "targetCharacterId": "hody-jones",
+        "relationshipType": "SUBORDINATE",
+        "description": "Ikaros Much serves as one of Hody Jones's officers.",
+        "episodeEstablished": 530,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 530,
+            "description": "Ikaros Much appears alongside Hody as one of his officers.",
+            "newRelationshipType": "SUBORDINATE"
+          }
+        ]
+      }
+    ],
+    "voiceActors": {
+      "japanese": "Unknown",
+      "english": "Unknown"
+    }
+  },
+  {
+    "name": {
+      "english": "Hody Jones",
+      "japanese": "ホーディ・ジョーンズ",
+      "romanized": "Hōdi Jōnzu"
+    },
+    "debutEpisode": 529,
+    "debutChapter": 611,
+    "episodeAppearances": [530],
+    "keyMoments": [
+      {
+        "episodeNumber": 530,
+        "eventId": "ep530-event-002",
+        "momentType": "POWER_DISPLAY",
+        "title": "Hody Destroys Gyro's Ship",
+        "description": "Hody uses Energy Steroid-enhanced strength to completely destroy Gyro's ship using only his jaws while chained, demonstrating his overwhelming power.",
+        "significance": "Establishes Hody as an immensely powerful threat and shows the devastating effects of Energy Steroids.",
+        "timestamp": "04:15",
+        "quote": "Let them escape. They'll spread the word of my power."
+      },
+      {
+        "episodeNumber": 530,
+        "eventId": "ep530-event-008",
+        "momentType": "BACKSTORY_REVEAL",
+        "title": "Hody's Motivation Revealed",
+        "description": "Hody reveals his motivation, claiming to be the successor to Fisher Tiger and Arlong's wills in fighting against humans.",
+        "significance": "Establishes Hody's ideological foundation and connects him to previous antagonists, showing how he perverts their legacies.",
+        "timestamp": "14:30",
+        "quote": "Fisher Tiger and Arlong... both of their wills were destroyed by humans. But I will succeed where they failed!"
+      },
+      {
+        "episodeNumber": 530,
+        "eventId": "ep530-event-009",
+        "momentType": "MAJOR_DECISION",
+        "title": "Hody Vows to Kill Neptune",
+        "description": "Hody declares his plan to assassinate King Neptune and establish fish-men as the superior race, ordering his crew to advance on Fish-Man Island.",
+        "significance": "Sets up the main conflict of the Fish-Man Island Arc.",
+        "timestamp": "16:00",
+        "quote": "I will kill Neptune and prove that fish-men are the superior race! All forces, advance to Fish-Man Island!"
+      }
+    ],
+    "status": "ALIVE",
+    "statusHistory": [
+      {
+        "status": "ALIVE",
+        "episodeStart": 530,
+        "episodeEnd": "present"
+      }
+    ],
+    "occupations": ["Pirate", "Captain"],
+    "affiliations": [
+      {
+        "crewId": "new-fish-man-pirates",
+        "role": "Captain",
+        "episodeJoined": 529,
+        "episodeLeft": null
+      }
+    ],
+    "species": "Great White Shark Fish-Man",
+    "abilities": [
+      {
+        "abilityName": "Energy Steroid Enhancement",
+        "abilityType": "DRUG_ENHANCEMENT",
+        "episodeFirstUsed": 530,
+        "description": "Hody uses Energy Steroids to exponentially increase his already formidable fish-man strength."
+      }
+    ],
+    "reveals": [
+      {
+        "infoType": "MOTIVATION",
+        "information": "Seeks to avenge Fisher Tiger and Arlong by killing Neptune and establishing fish-men supremacy",
+        "episodeRevealed": 530,
+        "severity": "MAJOR"
+      },
+      {
+        "infoType": "PLAN",
+        "information": "Plans to assassinate King Neptune and take over Fish-Man Island",
+        "episodeRevealed": 530,
+        "severity": "CRITICAL"
+      }
+    ],
+    "relationships": [
+      {
+        "targetCharacterId": "neptune",
+        "relationshipType": "ENEMY",
+        "description": "Hody plans to assassinate Neptune and overthrow his rule.",
+        "episodeEstablished": 530,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 530,
+            "description": "Hody declares his intention to kill Neptune.",
+            "newRelationshipType": "ENEMY"
+          }
+        ]
+      },
+      {
+        "targetCharacterId": "gyro",
+        "relationshipType": "ENEMY",
+        "description": "Hody pursues and defeats Gyro for refusing to join the New Fish-Man Pirates.",
+        "episodeEstablished": 530,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 530,
+            "description": "Hody destroys Gyro's ship.",
+            "newRelationshipType": "ENEMY"
+          }
+        ]
+      }
+    ],
+    "voiceActors": {
+      "japanese": "Joji Nakata",
+      "english": "Larry Brantley"
+    }
+  }
+]
