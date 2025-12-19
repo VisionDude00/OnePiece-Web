@@ -1,0 +1,491 @@
+{
+  "episodeNumber": 441,
+  "episodeTitle": "Luffy's Back! Ivan-san Begins the Breakout Plan!!",
+  "description": "After recovering from Magellan's poison through intensive eating, Luffy reveals to Ivankov that Dragon is his father. Shocked by this revelation, Ivankov decides to help Luffy rescue Ace. Meanwhile, Ace is being transported from Level 6 to Marineford for his execution. Ivankov uses Emporio Tension Hormones to give Luffy strength, and together with Inazuma, they begin their descent through Impel Down's levels with only 6 hours remaining until Ace's execution.",
+  "airDate": "2010-03-07",
+  "airDateJapan": "2010-03-07",
+  "airDateUS": "2016-01-26",
+  "arcName": "Impel Down",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Kaze wo Sagashite",
+    "artist": "Mari Yaguchi with Straw Hat",
+    "episodeRange": [426, 458]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Masayuki Takagi",
+    "episodeDirector": "Katsumi Tokoro",
+    "screenplay": "Jin Tanaka",
+    "artDirection": "Miho Shiraishi",
+    "storyboard": "",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Emporio Ivankov",
+        "actor": "Norio Imamura"
+      },
+      {
+        "character": "Portgas D. Ace",
+        "actor": "Toshio Furukawa"
+      },
+      {
+        "character": "Bentham (Mr. 2 Bon Clay)",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Inazuma",
+        "actor": "Kenji Hamada"
+      },
+      {
+        "character": "Magellan",
+        "actor": "Mitsuaki Hoshino"
+      },
+      {
+        "character": "Monkey D. Dragon",
+        "actor": "Hidekatsu Shibata"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Emporio Ivankov",
+        "actor": "Randy Pearlman"
+      },
+      {
+        "character": "Portgas D. Ace",
+        "actor": "Travis Willingham"
+      },
+      {
+        "character": "Bentham (Mr. 2 Bon Clay)",
+        "actor": "Barry Yandell"
+      },
+      {
+        "character": "Inazuma",
+        "actor": "Christopher Wehkamp"
+      },
+      {
+        "character": "Magellan",
+        "actor": "Jeremy Inman"
+      },
+      {
+        "character": "Monkey D. Dragon",
+        "actor": "Bryan Massey"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep441-event-001",
+      "episodeNumber": 441,
+      "timestamp": "03:45",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Luffy's Recovery Through Food",
+      "description": "After eating massive amounts of food for over half an hour, Luffy's body returns to normal from his emaciated state caused by Magellan's poison treatment. The newkamas of Level 5.5 celebrate his miraculous recovery.",
+      "significance": "Demonstrates Luffy's extraordinary metabolism and willpower to survive despite the deadly poison. This recovery is essential for him to continue his mission to save Ace.",
+      "characterIds": ["luffy", "ivankov"],
+      "locationIds": ["impel-down-level-5-5"],
+      "quotes": [
+        {
+          "text": "I'm full! Thanks for the food!",
+          "speaker": "Luffy",
+          "context": "Luffy's declaration after eating massive amounts of food to recover"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [440],
+      "payoffInEpisodes": [442],
+      "callbacksToEpisodes": [438, 440]
+    },
+    {
+      "id": "ep441-event-002",
+      "episodeNumber": 441,
+      "timestamp": "08:30",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Luffy Reveals Dragon is His Father",
+      "description": "In conversation with Ivankov, Luffy casually mentions that Monkey D. Dragon is his father. This revelation shocks Ivankov, who is one of Dragon's commanders in the Revolutionary Army. Ivankov recalls how Dragon would always face east - toward the East Blue where Luffy was born.",
+      "significance": "This is a crucial moment that cements the alliance between Luffy and Ivankov. The revelation that Luffy is the son of the Revolutionary Army's leader provides context for Luffy's willpower and destiny, and motivates Ivankov to fully commit to helping rescue Ace.",
+      "characterIds": ["luffy", "ivankov", "dragon"],
+      "locationIds": ["impel-down-level-5-5"],
+      "quotes": [
+        {
+          "text": "Dragon is my dad.",
+          "speaker": "Luffy",
+          "context": "Luffy's casual revelation about his parentage"
+        },
+        {
+          "text": "You're Dragon-boy's son?!",
+          "speaker": "Ivankov",
+          "context": "Ivankov's shocked reaction to learning Luffy's parentage"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [314],
+      "payoffInEpisodes": [504, 505],
+      "callbacksToEpisodes": [314]
+    },
+    {
+      "id": "ep441-event-003",
+      "episodeNumber": 441,
+      "timestamp": "11:15",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Ivankov's Connection to the Revolutionary Army",
+      "description": "Ivankov explains his role as a commander in the Revolutionary Army and his close relationship with Dragon. He reveals that this connection to Dragon is the reason he was imprisoned in Impel Down by the World Government.",
+      "significance": "Provides important background on Ivankov's character and establishes the Revolutionary Army's importance in the One Piece world. This connection gives weight to Ivankov's decision to help Luffy.",
+      "characterIds": ["ivankov", "dragon"],
+      "locationIds": ["impel-down-level-5-5"],
+      "quotes": [
+        {
+          "text": "I am one of Dragon's allies, a leader in the Revolutionary Army. That's the reason I was imprisoned here.",
+          "speaker": "Ivankov",
+          "context": "Ivankov explaining his background to Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [438],
+      "payoffInEpisodes": [442, 504],
+      "callbacksToEpisodes": [314]
+    },
+    {
+      "id": "ep441-event-004",
+      "episodeNumber": 441,
+      "timestamp": "13:45",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Dragon's Eastern Gaze",
+      "description": "Ivankov recalls a specific memory of Dragon always facing east, regardless of their location. Now understanding that Dragon was looking toward the East Blue where his son Luffy was, this detail adds emotional depth to Dragon's character.",
+      "significance": "This touching detail humanizes Dragon and shows his connection to Luffy despite their physical separation. It reinforces the father-son bond even though they've barely interacted in the series.",
+      "characterIds": ["dragon", "luffy", "ivankov"],
+      "locationIds": [],
+      "quotes": [
+        {
+          "text": "Dragon always faced east... Now I understand why.",
+          "speaker": "Ivankov",
+          "context": "Ivankov connecting Dragon's behavior to Luffy's origin in East Blue"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [314],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [314]
+    },
+    {
+      "id": "ep441-event-005",
+      "episodeNumber": 441,
+      "timestamp": "16:20",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Ivankov Commits to the Rescue Mission",
+      "description": "After learning that Luffy is Dragon's son, Ivankov makes the decision to fully support Luffy's mission to rescue Ace. He declares that he cannot let his friend's son die and will accompany Luffy to Level 6.",
+      "significance": "This decision marks a turning point in the Impel Down arc, as Luffy gains a powerful ally with unique abilities. Ivankov's support significantly increases their chances of success.",
+      "characterIds": ["ivankov", "luffy"],
+      "locationIds": ["impel-down-level-5-5"],
+      "quotes": [
+        {
+          "text": "I will support you whether you like it or not because I cannot see my friend's own son die in front of me!",
+          "speaker": "Ivankov",
+          "context": "Ivankov's declaration of support for Luffy's rescue mission"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [440],
+      "payoffInEpisodes": [442, 443],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep441-event-006",
+      "episodeNumber": 441,
+      "timestamp": "18:50",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MAJOR",
+      "title": "Ace's Transfer to Marineford Begins",
+      "description": "Magellan escorts Portgas D. Ace from Level 6 of Impel Down to begin his transfer to Marineford. Ace is heavily shackled and surrounded by guards. Five warships and five Vice Admirals, including Onigumo, await to transport him to his execution.",
+      "significance": "This marks the beginning of Ace's journey to his execution at Marineford, creating intense time pressure for Luffy's rescue attempt. The heavy security demonstrates how seriously the Marines are taking Ace's execution.",
+      "characterIds": ["ace", "magellan", "onigumo"],
+      "locationIds": ["impel-down-level-6", "impel-down"],
+      "crewIds": [],
+      "quotes": [
+        {
+          "text": "It's time, Portgas D. Ace. Your execution awaits at Marineford.",
+          "speaker": "Magellan",
+          "context": "Magellan informing Ace that his transfer is beginning"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [430, 440],
+      "payoffInEpisodes": [456, 457],
+      "callbacksToEpisodes": [430]
+    },
+    {
+      "id": "ep441-event-007",
+      "episodeNumber": 441,
+      "timestamp": "20:15",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Six Hours Until Execution",
+      "description": "It is announced that Ace's execution at Marineford is scheduled for 3:00 PM, and only six hours remain. This creates an urgent deadline for Luffy's rescue attempt.",
+      "significance": "Establishes the critical time constraint that drives the urgency of the Impel Down escape and sets up the Marineford War arc. Every moment counts in the race to save Ace.",
+      "characterIds": ["ace"],
+      "locationIds": ["impel-down", "marineford"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [440],
+      "payoffInEpisodes": [456, 457],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep441-event-008",
+      "episodeNumber": 441,
+      "timestamp": "21:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Emporio Tension Hormone Technique Debut",
+      "description": "Ivankov uses his Emporio Tension Hormone technique on Luffy, injecting him with hormones that provide a full day's worth of adrenaline and energy. This gives Luffy the strength to continue despite his body's weakened state from the poison treatment.",
+      "significance": "Debuts an important technique from Ivankov's Horu Horu no Mi arsenal. While this provides immediate benefits, it also has consequences as it reduces Luffy's lifespan - a recurring theme of Luffy sacrificing his body for his goals.",
+      "characterIds": ["ivankov", "luffy"],
+      "locationIds": ["impel-down-level-5-5"],
+      "devilFruitIds": ["horu-horu-no-mi"],
+      "quotes": [
+        {
+          "text": "Emporio Tension Hormone!",
+          "speaker": "Ivankov",
+          "context": "Ivankov using his hormone technique to give Luffy energy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [438, 440],
+      "payoffInEpisodes": [442, 477],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep441-event-009",
+      "episodeNumber": 441,
+      "timestamp": "22:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Inazuma Creates New Clothes for Luffy",
+      "description": "Using his Choki Choki no Mi powers, Inazuma creates new clothes for Luffy and returns his precious straw hat. Luffy is grateful to have his hat back.",
+      "significance": "Shows Inazuma's practical use of his Devil Fruit abilities and highlights the importance of Luffy's straw hat as his most treasured possession, a symbol of his promise to Shanks.",
+      "characterIds": ["inazuma", "luffy"],
+      "locationIds": ["impel-down-level-5-5"],
+      "devilFruitIds": ["choki-choki-no-mi"],
+      "quotes": [
+        {
+          "text": "My hat! Thanks!",
+          "speaker": "Luffy",
+          "context": "Luffy's joy at getting his straw hat back from Inazuma"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [438],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [4]
+    },
+    {
+      "id": "ep441-event-010",
+      "episodeNumber": 441,
+      "timestamp": "23:50",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MAJOR",
+      "title": "Descent from Level 5.5 Begins",
+      "description": "Luffy, Ivankov, and Inazuma leave the safety of New Kama Land (Level 5.5) and enter Level 5 (Freezing Hell) to begin their journey to Level 6. They immediately face attacks from the Wolf Unit guarding the level.",
+      "significance": "Marks the beginning of the active breakout attempt from Impel Down. The trio must fight through multiple levels of the prison while racing against time to reach Ace before he leaves for Marineford.",
+      "characterIds": ["luffy", "ivankov", "inazuma"],
+      "locationIds": ["impel-down-level-5-5", "impel-down-level-5"],
+      "quotes": [
+        {
+          "text": "Let's go! We're heading to Level 6!",
+          "speaker": "Luffy",
+          "context": "Luffy leading the charge as they leave Level 5.5"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [440],
+      "payoffInEpisodes": [442, 443],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["emporio-tension-hormone"]
+  },
+  "episodeRelationships": {
+    "setupFor": [442, 443, 444],
+    "payoffFrom": [438, 440],
+    "thematicLinks": [314, 504, 505]
+  },
+  "quotes": [
+    {
+      "text": "Dragon is my dad.",
+      "speaker": "Luffy",
+      "context": "Luffy casually revealing his parentage to Ivankov",
+      "timestamp": "08:30"
+    },
+    {
+      "text": "You're Dragon-boy's son?!",
+      "speaker": "Ivankov",
+      "context": "Ivankov's shocked reaction",
+      "timestamp": "08:35"
+    },
+    {
+      "text": "I will support you whether you like it or not because I cannot see my friend's own son die in front of me!",
+      "speaker": "Ivankov",
+      "context": "Ivankov committing to help Luffy",
+      "timestamp": "16:20"
+    },
+    {
+      "text": "Emporio Tension Hormone!",
+      "speaker": "Ivankov",
+      "context": "Using his hormone technique on Luffy",
+      "timestamp": "21:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Family Bonds and Legacy",
+      "description": "The episode heavily explores the theme of family connections, particularly through Luffy's relationship with his father Dragon. Despite never really knowing his father, Luffy's lineage plays a crucial role in gaining Ivankov's support.",
+      "symbolism": "Dragon facing east represents the unspoken bond between father and son, showing that even across great distances, family connections remain strong.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Sacrifice and Determination",
+      "description": "Luffy continues to push his body beyond its limits, accepting treatments that reduce his lifespan in order to save Ace. This demonstrates his unwavering determination to protect those he loves, regardless of personal cost.",
+      "symbolism": "The Emporio Tension Hormones represent Luffy's willingness to sacrifice his future for the present moment, a recurring theme in his character.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Time Pressure and Urgency",
+      "description": "The six-hour countdown to Ace's execution creates intense pressure and urgency. Every moment counts, driving the rapid pace of the breakout attempt.",
+      "symbolism": "The ticking clock represents the inevitability of fate and the challenge of defying destiny.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Emotional", "Determined", "Urgent"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist",
+      "development": "Luffy demonstrates his characteristic determination and willingness to sacrifice his health for his goals. His casual revelation about Dragon shows how little he thinks about his own lineage, focused instead on his personal relationships and immediate objectives.",
+      "keyActions": [
+        "Recovers from poison through massive food consumption",
+        "Reveals Dragon is his father",
+        "Accepts Emporio Tension Hormone treatment",
+        "Leads the charge into Level 5"
+      ],
+      "quotes": [
+        "Dragon is my dad.",
+        "Let's go! We're heading to Level 6!"
+      ]
+    },
+    {
+      "characterId": "ivankov",
+      "role": "Supporting Ally",
+      "development": "Ivankov's character is deepened through the revelation of his connection to Dragon and the Revolutionary Army. His decision to help Luffy shows both his loyalty to Dragon and his own sense of justice. His shock at learning Luffy's identity reveals emotional depth beneath his flamboyant exterior.",
+      "keyActions": [
+        "Learns Luffy is Dragon's son",
+        "Commits fully to helping rescue Ace",
+        "Uses Emporio Tension Hormone on Luffy",
+        "Joins the breakout attempt to Level 6"
+      ],
+      "quotes": [
+        "You're Dragon-boy's son?!",
+        "I will support you whether you like it or not because I cannot see my friend's own son die in front of me!"
+      ]
+    },
+    {
+      "characterId": "ace",
+      "role": "Catalyst",
+      "development": "Though Ace has limited screen time, his transfer to Marineford serves as the driving force for all action in the episode. His impending execution creates the urgency that propels the plot forward.",
+      "keyActions": [
+        "Is escorted from Level 6",
+        "Begins transfer to Marineford"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends several scenes showing Luffy eating and the newkamas celebrating, adding more comedic moments than in the manga.",
+      "episodeTimestamp": "03:00-05:00",
+      "mangaReference": "Chapter 539, pages 5-7",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "The anime adds additional flashback sequences of Dragon facing east, expanding on Ivankov's memory beyond what was shown in the manga.",
+      "episodeTimestamp": "13:45",
+      "mangaReference": "Chapter 539, page 12",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode adapts Chapter 539 'Emporio Tension Hormone' (pages 5-19), which is also the title of Ivankov's technique that debuts in this episode.",
+      "category": "MANGA_ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_441",
+          "title": "Episode 441 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-12"
+        }
+      ]
+    },
+    {
+      "fact": "Norio Imamura voiced Ivankov in this episode, but was later replaced by Mitsuo Iwata after legal issues in July 2010. This was one of Imamura's final performances as the character.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://www.behindthevoiceactors.com/characters/One-Piece/Emporio-Ivankov/",
+          "title": "Emporio Ivankov Voices - Behind The Voice Actors",
+          "platform": "Behind The Voice Actors",
+          "accessedAt": "2025-12-12"
+        }
+      ]
+    },
+    {
+      "fact": "The opening theme 'Kaze wo Sagashite' by Mari Yaguchi began at episode 426 and was used through episode 458, covering the entire Impel Down arc.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Kaze_wo_Sagashite",
+          "title": "Kaze wo Sagashite - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-12"
+        }
+      ]
+    },
+    {
+      "fact": "This episode achieved a 13.0% TV rating in Japan, ranking 3rd for its time slot, showing strong viewer interest in the Impel Down arc.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_441",
+          "title": "Episode 441 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-12"
+        }
+      ]
+    },
+    {
+      "fact": "The episode's Japanese title uses 'Iwa-san' as an affectionate nickname for Ivankov, similar to how characters in One Piece often have their names shortened with honorifics.",
+      "category": "LANGUAGE",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

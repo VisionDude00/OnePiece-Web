@@ -1,0 +1,135 @@
+[
+  {
+    "name": {
+      "english": "Impel Down - Level 5.5 (New Kama Land)",
+      "japanese": "インペルダウン - レベル5.5 (ニューカマーランド)",
+      "romanized": "Inperu Daun - Reberu 5.5 (Nyūkamā Rando)"
+    },
+    "type": "Prison - Hidden Level",
+    "debutEpisode": 438,
+    "debutChapter": 537,
+    "episodeAppearances": [441],
+    "parentLocation": "impel-down",
+    "keyEvents": [
+      {
+        "episodeNumber": 441,
+        "eventId": "ep441-event-001",
+        "eventType": "POWER_REVEAL",
+        "title": "Luffy's Recovery",
+        "description": "Luffy completes his recovery from Magellan's poison by eating massive amounts of food in New Kama Land.",
+        "significance": "Level 5.5 serves as a safe haven for Luffy's recovery before the breakout attempt.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 441,
+        "eventId": "ep441-event-002",
+        "eventType": "RELATIONSHIP_REVEAL",
+        "title": "Dragon Revelation",
+        "description": "Luffy reveals to Ivankov that Dragon is his father while in New Kama Land.",
+        "significance": "This location serves as the setting for one of the most important revelations in the Impel Down arc.",
+        "timestamp": "08:30"
+      },
+      {
+        "episodeNumber": 441,
+        "eventId": "ep441-event-010",
+        "eventType": "LOCATION_DEPARTURE",
+        "title": "Departure from Level 5.5",
+        "description": "Luffy, Ivankov, and Inazuma leave the safety of New Kama Land to begin their descent to Level 6.",
+        "significance": "Marks the end of the safe haven and the beginning of the dangerous breakout attempt.",
+        "timestamp": "23:50"
+      }
+    ],
+    "description": "A hidden level between Level 5 and Level 6 of Impel Down, carved out by a prisoner with tunneling Devil Fruit powers. Ruled by Emporio Ivankov and known as the Okama Paradise where prisoners party in secret.",
+    "status": "ACTIVE",
+    "inhabitants": ["ivankov", "inazuma"],
+    "reveals": []
+  },
+  {
+    "name": {
+      "english": "Impel Down - Level 5 (Freezing Hell)",
+      "japanese": "インペルダウン - レベル5 (極寒地獄)",
+      "romanized": "Inperu Daun - Reberu 5 (Gokukan Jigoku)"
+    },
+    "type": "Prison Level",
+    "debutEpisode": 438,
+    "debutChapter": 532,
+    "episodeAppearances": [441],
+    "parentLocation": "impel-down",
+    "keyEvents": [
+      {
+        "episodeNumber": 441,
+        "eventId": "ep441-event-010",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Entry into Level 5",
+        "description": "Luffy, Ivankov, and Inazuma enter Level 5 from Level 5.5 and immediately face attacks from the Wolf Unit.",
+        "significance": "The beginning of their dangerous journey through the prison levels to reach Ace.",
+        "timestamp": "23:50"
+      }
+    ],
+    "description": "The fifth level of Impel Down, known as Freezing Hell. An extremely cold environment where prisoners freeze and wolves hunt the inmates.",
+    "status": "ACTIVE",
+    "inhabitants": [],
+    "reveals": []
+  },
+  {
+    "name": {
+      "english": "Impel Down - Level 6 (Eternal Hell)",
+      "japanese": "インペルダウン - レベル6 (無限地獄)",
+      "romanized": "Inperu Daun - Reberu 6 (Mugen Jigoku)"
+    },
+    "type": "Prison Level",
+    "debutEpisode": 425,
+    "debutChapter": 525,
+    "episodeAppearances": [441],
+    "parentLocation": "impel-down",
+    "keyEvents": [
+      {
+        "episodeNumber": 441,
+        "eventId": "ep441-event-006",
+        "eventType": "LOCATION_DEPARTURE",
+        "title": "Ace's Departure from Level 6",
+        "description": "Portgas D. Ace is escorted from Level 6 by Magellan to begin his transfer to Marineford.",
+        "significance": "Ace leaving Level 6 creates urgent time pressure for Luffy's rescue attempt.",
+        "timestamp": "18:50"
+      }
+    ],
+    "description": "The sixth and deepest level of Impel Down, known as Eternal Hell. Reserved for the most dangerous criminals whose existence is often erased from history.",
+    "status": "ACTIVE",
+    "inhabitants": [],
+    "reveals": []
+  },
+  {
+    "name": {
+      "english": "Marineford",
+      "japanese": "マリンフォード",
+      "romanized": "Marinfōdo"
+    },
+    "type": "Marine Headquarters",
+    "debutEpisode": 151,
+    "debutChapter": 234,
+    "episodeAppearances": [441],
+    "parentLocation": null,
+    "keyEvents": [
+      {
+        "episodeNumber": 441,
+        "eventId": "ep441-event-007",
+        "eventType": "WORLD_LORE",
+        "title": "Ace's Execution Scheduled",
+        "description": "Ace's execution is scheduled to take place at Marineford at 3:00 PM, with only six hours remaining.",
+        "significance": "Establishes Marineford as the site of Ace's impending execution and sets up the Marineford War arc.",
+        "timestamp": "20:15"
+      }
+    ],
+    "description": "The headquarters of the Marines, where major events and executions take place. Ace is being transported here for his public execution.",
+    "status": "ACTIVE",
+    "inhabitants": [],
+    "reveals": [
+      {
+        "infoType": "WORLD_LORE",
+        "information": "Ace's execution is scheduled at Marineford with heavy Marine security including five Vice Admirals",
+        "episodeRevealed": 441,
+        "severity": "CRITICAL"
+      }
+    ]
+  }
+]

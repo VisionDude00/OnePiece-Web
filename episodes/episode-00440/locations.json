@@ -1,0 +1,188 @@
+[
+  {
+    "name": {
+      "english": "New Kama Land",
+      "japanese": "ニューカマーランド",
+      "romanized": "Nyū Kamā Rando",
+      "aliases": ["Level 5.5", "Newkama Land", "Prisoners' Secret Flower Garden"]
+    },
+    "type": "HIDDEN_SANCTUARY",
+    "debutEpisode": 438,
+    "debutChapter": 537,
+    "episodeAppearances": [440],
+    "parentLocation": "Impel Down",
+    "geography": {
+      "region": "Grand Line",
+      "climate": "Temperate (artificially maintained)",
+      "description": "A hidden level between Level 5 (Freezing Hell) and Level 6 (Eternal Hell) of Impel Down, carved out by a prisoner with tunneling abilities."
+    },
+    "keyEvents": [
+      {
+        "episodeNumber": 440,
+        "eventId": "ep440-event-002",
+        "eventType": "WORLD_LORE",
+        "title": "Origin of New Kama Land Revealed",
+        "description": "Ivankov reveals that New Kama Land was built by a prisoner who had tunneling abilities and exists as a secret sanctuary between prison levels.",
+        "timestamp": "04:30"
+      },
+      {
+        "episodeNumber": 440,
+        "eventId": "ep440-event-006",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Bon Clay Begins His Vigil",
+        "description": "Bon Clay stays outside Luffy's treatment room and begins his ten-hour vigil, cheering for Luffy's recovery.",
+        "timestamp": "10:30"
+      },
+      {
+        "episodeNumber": 440,
+        "eventId": "ep440-event-009",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "New Kama Residents Unite in Cheering",
+        "description": "All the New Kama Land residents join Bon Clay in cheering for Luffy's miraculous recovery.",
+        "timestamp": "18:30"
+      },
+      {
+        "episodeNumber": 440,
+        "eventId": "ep440-event-010",
+        "eventType": "MAJOR_DECISION",
+        "title": "Luffy's Miraculous Recovery",
+        "description": "Luffy recovers from Magellan's poison in New Kama Land, defying medical expectations.",
+        "timestamp": "20:15"
+      }
+    ],
+    "significantResidents": [
+      {
+        "characterId": "emporio-ivankov",
+        "role": "Queen/Leader",
+        "episodeEstablished": 438
+      },
+      {
+        "characterId": "inazuma",
+        "role": "Resident",
+        "episodeEstablished": 438
+      }
+    ],
+    "reveals": [
+      {
+        "infoType": "LOCATION_HISTORY",
+        "information": "New Kama Land was created by a prisoner with tunneling Devil Fruit abilities",
+        "episodeRevealed": 440,
+        "severity": "MAJOR"
+      },
+      {
+        "infoType": "LOCATION_PURPOSE",
+        "information": "Serves as a hidden sanctuary for prisoners who have been 'demoned away' from the official prison records",
+        "episodeRevealed": 440,
+        "severity": "MAJOR"
+      }
+    ]
+  },
+  {
+    "name": {
+      "english": "Impel Down Level 6",
+      "japanese": "インペルダウン レベル6",
+      "romanized": "Inperu Daun Reberu 6",
+      "aliases": ["Level 6", "Eternal Hell"]
+    },
+    "type": "PRISON",
+    "debutEpisode": 430,
+    "debutChapter": 528,
+    "episodeAppearances": [440],
+    "parentLocation": "Impel Down",
+    "geography": {
+      "region": "Grand Line",
+      "climate": "Unknown",
+      "description": "The deepest level of Impel Down where the most dangerous criminals whose very existence is hidden from the world are imprisoned. Prisoners here are either jailed for life or until their execution."
+    },
+    "keyEvents": [
+      {
+        "episodeNumber": 440,
+        "eventId": "ep440-event-003",
+        "eventType": "WORLD_LORE",
+        "title": "Level 6 Prisoners Revealed to Bon Clay",
+        "description": "Bon Clay learns that Crocodile, Ace, and Jinbe are all being held in Level 6, revealing the location of these major characters.",
+        "timestamp": "05:45"
+      },
+      {
+        "episodeNumber": 440,
+        "eventId": "ep440-event-004",
+        "eventType": "BACKSTORY_REVEAL",
+        "title": "Shiryu's Imprisonment Revealed",
+        "description": "Flashback shows that Shiryu, the former Head Jailer, was imprisoned in Level 6 for his bloodlust and excessive killing of prisoners.",
+        "timestamp": "06:20"
+      },
+      {
+        "episodeNumber": 440,
+        "eventId": "ep440-event-012",
+        "eventType": "WORLD_LORE",
+        "title": "Ace and Jinbe's Conversation",
+        "description": "Ace talks with Jinbe about Luffy while imprisoned and awaiting execution.",
+        "timestamp": "07:30"
+      }
+    ],
+    "significantResidents": [
+      {
+        "characterId": "portgas-d-ace",
+        "role": "Prisoner (Death Row)",
+        "episodeEstablished": 430
+      },
+      {
+        "characterId": "jinbe",
+        "role": "Prisoner (Temporary)",
+        "episodeEstablished": 430
+      },
+      {
+        "characterId": "crocodile",
+        "role": "Prisoner (Life Sentence)",
+        "episodeEstablished": 440
+      },
+      {
+        "characterId": "shiryu",
+        "role": "Prisoner",
+        "episodeEstablished": 440
+      }
+    ],
+    "reveals": [
+      {
+        "infoType": "PRISONER_LOCATION",
+        "information": "Crocodile is confirmed to be imprisoned in Level 6",
+        "episodeRevealed": 440,
+        "severity": "MAJOR"
+      },
+      {
+        "infoType": "PRISONER_LOCATION",
+        "information": "Shiryu is imprisoned in Level 6 after being arrested for excessive violence",
+        "episodeRevealed": 440,
+        "severity": "MAJOR"
+      }
+    ]
+  },
+  {
+    "name": {
+      "english": "Impel Down",
+      "japanese": "インペルダウン",
+      "romanized": "Inperu Daun",
+      "aliases": ["The Great Prison", "The Underwater Prison"]
+    },
+    "type": "PRISON",
+    "debutEpisode": 422,
+    "debutChapter": 525,
+    "episodeAppearances": [440],
+    "geography": {
+      "region": "Grand Line",
+      "climate": "Varies by level",
+      "description": "A massive underwater prison facility with six official levels, plus the hidden Level 5.5. Home to the world's most dangerous criminals."
+    },
+    "keyEvents": [
+      {
+        "episodeNumber": 440,
+        "eventId": "ep440-event-010",
+        "eventType": "MAJOR_DECISION",
+        "title": "Luffy's Recovery Allows Breakout to Continue",
+        "description": "Luffy's miraculous recovery in New Kama Land allows the rescue mission to continue despite the approaching execution deadline.",
+        "timestamp": "20:15"
+      }
+    ],
+    "reveals": []
+  }
+]
