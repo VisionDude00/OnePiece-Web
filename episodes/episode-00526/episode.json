@@ -1,0 +1,534 @@
+{
+  "episodeNumber": 526,
+  "episodeTitle": "Undersea Volcanic Eruption! Drifting to the Fish-Man Island!",
+  "description": "As the Straw Hats descend toward Fish-Man Island, they encounter the Flying Dutchman and its captain Vander Decken IX. After Surume defeats Wadatsumi, an undersea volcano erupts. Usopp uses his new Pop Green technique 'Sargasso' to protect the crew from falling debris. When Surume is knocked unconscious, the crew finally reaches Fish-Man Island but is confronted by Hammond and the New Fish-Man Pirates.",
+  "airDate": "2011-12-04",
+  "airDateJapan": "2011-12-04",
+  "airDateUS": "2011-12-03",
+  "arcName": "Fish-Man Island Arc",
+  "sagaName": "Fish-Man Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Go!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [517, 590]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Takahiro Imamura",
+    "writer": "Yoshiyuki Suga",
+    "artDirector": "Miho Shiraishi",
+    "keyAnimators": ["Atsuko Kawamura"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Brook",
+        "actor": "Cho"
+      },
+      {
+        "character": "Vander Decken IX",
+        "actor": "Wataru Takagi"
+      },
+      {
+        "character": "Wadatsumi",
+        "actor": "Koki Miyata"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Brook",
+        "actor": "Ian Sinclair"
+      },
+      {
+        "character": "Vander Decken IX",
+        "actor": "Jim Foronda"
+      },
+      {
+        "character": "Wadatsumi",
+        "actor": "Trina Nishimura"
+      },
+      {
+        "character": "Surume",
+        "actor": "Jessie James Grelle"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep526-event-001",
+      "episodeNumber": 526,
+      "timestamp": "03:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Flying Dutchman Appears",
+      "description": "The legendary ghost ship Flying Dutchman emerges from the depths, captained by Vander Decken IX. The massive ship approaches the Thousand Sunny as it descends toward Fish-Man Island.",
+      "significance": "Introduction of the Flying Dutchman, a legendary vessel that plays a significant role in the Fish-Man Island arc and Vander Decken IX's pursuit of Princess Shirahoshi.",
+      "characterIds": ["vander-decken-ix"],
+      "locationIds": ["deep-sea"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep526-event-002",
+      "episodeNumber": 526,
+      "timestamp": "04:30",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Vander Decken Orders Attack on Thousand Sunny",
+      "description": "Vander Decken IX commands his giant fish-man subordinate Wadatsumi to destroy the Thousand Sunny and capture the Straw Hat Pirates.",
+      "significance": "First hostile encounter with Vander Decken IX's forces, demonstrating the dangers lurking in the deep sea before reaching Fish-Man Island.",
+      "characterIds": ["vander-decken-ix", "wadatsumi"],
+      "crewIds": ["flying-pirates", "straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "Wadatsumi, crush that ship!",
+          "speaker": "Vander Decken IX",
+          "context": "Ordering Wadatsumi to attack the Thousand Sunny"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep526-event-003",
+      "episodeNumber": 526,
+      "timestamp": "05:45",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "Surume Defeats Wadatsumi",
+      "description": "The Kraken Surume, under Luffy's control, intercepts and defeats Wadatsumi with a powerful punch, protecting the Thousand Sunny from destruction.",
+      "significance": "Demonstrates Surume's loyalty to Luffy and the Kraken's immense strength, capable of defeating even giant fish-men like Wadatsumi.",
+      "characterIds": ["surume", "wadatsumi", "luffy"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [524, 525],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [524]
+    },
+    {
+      "id": "ep526-event-004",
+      "episodeNumber": 526,
+      "timestamp": "06:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Ankoro the Giant Anglerfish Appears",
+      "description": "Ankoro, a massive anglerfish under Vander Decken IX's command, attempts to devour the Thousand Sunny but is stopped by Wadatsumi.",
+      "significance": "Introduction of another sea creature in Vander Decken's arsenal, showcasing the various dangers of the deep sea.",
+      "characterIds": ["ankoro", "wadatsumi"],
+      "locationIds": ["deep-sea"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep526-event-005",
+      "episodeNumber": 526,
+      "timestamp": "08:00",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Undersea Volcanic Eruption",
+      "description": "A massive undersea volcano suddenly erupts, creating chaos and forcing the Straw Hats to flee downward. The eruption triggers an avalanche of rocks and debris that threatens to crush the crew and their ship.",
+      "significance": "Major environmental hazard that tests the crew's abilities and leads to Usopp's new technique debut. The volcanic activity is a natural obstacle on the path to Fish-Man Island.",
+      "characterIds": ["luffy", "nami", "usopp", "zoro", "sanji", "chopper", "robin", "franky", "brook"],
+      "locationIds": ["deep-sea"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "The volcano is erupting! We need to get out of here!",
+          "speaker": "Nami",
+          "context": "Warning the crew about the eruption"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep526-event-006",
+      "episodeNumber": 526,
+      "timestamp": "09:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Usopp Debuts Green Star: Sargasso",
+      "description": "As massive rocks fall toward the Thousand Sunny, Usopp debuts his new Pop Green technique 'Green Star: Sargasso.' He fires a Pop Green that explodes into a massive array of resilient seaweed, strong enough to temporarily hold back the avalanche of rocks and debris.",
+      "significance": "First use of Usopp's Sargasso technique, demonstrating his improved abilities after the two-year time skip. This defensive technique showcases the versatility of Pop Greens and Usopp's growth as a warrior of the sea.",
+      "characterIds": ["usopp"],
+      "locationIds": ["deep-sea"],
+      "devilFruitIds": [],
+      "quotes": [
+        {
+          "text": "Green Star: Sargasso!",
+          "speaker": "Usopp",
+          "context": "Deploying his new Pop Green technique to protect the crew from falling debris"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep526-event-007",
+      "episodeNumber": 526,
+      "timestamp": "11:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Surume Jumps Off Cliff to Escape",
+      "description": "With the volcanic eruption creating chaos, Surume makes the decision to jump off an underwater cliff to escape the falling debris and reach safety below.",
+      "significance": "Surume's quick thinking helps the crew escape immediate danger, though it leads to new challenges as they descend.",
+      "characterIds": ["surume", "luffy"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep526-event-008",
+      "episodeNumber": 526,
+      "timestamp": "12:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Surume Knocked Unconscious",
+      "description": "As the Straw Hats celebrate surviving the avalanche, a large rock strikes Surume's head, knocking the Kraken unconscious. The crew begins to descend uncontrollably toward the depths.",
+      "significance": "Loss of their guide and protector leaves the Straw Hats vulnerable as they approach Fish-Man Island, setting up their confrontation with Hammond.",
+      "characterIds": ["surume"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [527],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep526-event-009",
+      "episodeNumber": 526,
+      "timestamp": "14:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "First Sight of Fish-Man Island",
+      "description": "At the bottom of the underwater cliff, the Straw Hat Pirates finally lay eyes on Fish-Man Island, the legendary underwater kingdom protected by a massive bubble. The island appears beautiful and mystical, glowing in the depths of the ocean.",
+      "significance": "The crew reaches their long-awaited destination after their journey through the deep sea. This is a major milestone in their New World journey, as Fish-Man Island is the gateway to the New World.",
+      "characterIds": ["luffy", "nami", "usopp", "zoro", "sanji", "chopper", "robin", "franky", "brook"],
+      "locationIds": ["fish-man-island"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "So that's Fish-Man Island!",
+          "speaker": "Luffy",
+          "context": "Seeing Fish-Man Island for the first time"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [1, 2, 3],
+      "payoffInEpisodes": [527],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep526-event-010",
+      "episodeNumber": 526,
+      "timestamp": "15:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Hammond and the New Fish-Man Pirates Confront the Straw Hats",
+      "description": "As the Straw Hats approach Fish-Man Island's entrance, they are intercepted by Hammond, a daggertooth pike conger fish-man, riding on sea beasts with other members of the New Fish-Man Pirates. Hammond addresses the crew, revealing he knows about their past actions.",
+      "significance": "First appearance of Hammond and introduction of the New Fish-Man Pirates as antagonists. This confrontation sets up the conflict that will dominate the Fish-Man Island arc.",
+      "characterIds": ["hammond", "luffy", "zoro", "sanji"],
+      "locationIds": ["fish-man-island"],
+      "crewIds": ["new-fish-man-pirates", "straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "You're the Straw Hat Pirates who crushed Arlong's ambitions!",
+          "speaker": "Hammond",
+          "context": "Confronting the Straw Hats at Fish-Man Island's entrance"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [527, 528],
+      "callbacksToEpisodes": [31, 43, 44]
+    },
+    {
+      "id": "ep526-event-011",
+      "episodeNumber": 526,
+      "timestamp": "17:00",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Hammond Acknowledges the Straw Hats' Past",
+      "description": "Hammond reveals that the New Fish-Man Pirates know about the Straw Hats' history: defeating Arlong, protecting Hatchan, and assaulting a World Noble. He acknowledges these conflicting actions.",
+      "significance": "Establishes that the crew's reputation has reached Fish-Man Island and that their past actions have complex implications among fish-men, both positive and negative.",
+      "characterIds": ["hammond", "luffy"],
+      "crewIds": ["new-fish-man-pirates", "straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "You defeated Arlong, protected Hatchan, and even struck a World Noble. Your actions are... complicated.",
+          "speaker": "Hammond",
+          "context": "Explaining why the New Fish-Man Pirates know of the Straw Hats"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [44, 385, 396],
+      "payoffInEpisodes": [527],
+      "callbacksToEpisodes": [44, 396]
+    },
+    {
+      "id": "ep526-event-012",
+      "episodeNumber": 526,
+      "timestamp": "18:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Hammond's Ultimatum: Join or Die",
+      "description": "Hammond presents the Straw Hat Pirates with an ultimatum: join the New Fish-Man Pirates as subordinates, or be destroyed before they can enter Fish-Man Island.",
+      "significance": "Sets up the immediate conflict with the New Fish-Man Pirates and forces a confrontation that will continue into the next episode. This ultimatum demonstrates the hostile reception awaiting the Straw Hats.",
+      "characterIds": ["hammond", "luffy"],
+      "crewIds": ["new-fish-man-pirates", "straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "You have two choices: join us as subordinates, or be sunk right here!",
+          "speaker": "Hammond",
+          "context": "Giving the Straw Hats an ultimatum"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [527],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["hammond", "ankoro"],
+    "locations": ["fish-man-island"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["green-star-sargasso"]
+  },
+  "episodeRelationships": {
+    "setupFor": [527, 528],
+    "payoffFrom": [524, 525],
+    "thematicLinks": [44, 396]
+  },
+  "quotes": [
+    {
+      "text": "Green Star: Sargasso!",
+      "speaker": "Usopp",
+      "context": "Deploying his new Pop Green technique",
+      "timestamp": "09:30"
+    },
+    {
+      "text": "So that's Fish-Man Island!",
+      "speaker": "Luffy",
+      "context": "First sight of the underwater kingdom",
+      "timestamp": "14:30"
+    },
+    {
+      "text": "You have two choices: join us as subordinates, or be sunk right here!",
+      "speaker": "Hammond",
+      "context": "Confronting the Straw Hats",
+      "timestamp": "18:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Overcoming Natural Obstacles",
+      "description": "The episode showcases the crew facing natural dangers like volcanic eruptions and underwater avalanches, testing their skills and teamwork.",
+      "symbolism": "The volcanic eruption represents the unpredictable dangers of the New World and the deep sea.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Growth and New Abilities",
+      "description": "Usopp's debut of the Sargasso technique demonstrates the crew's growth during the two-year time skip and their new capabilities.",
+      "symbolism": "The Pop Greens represent Usopp's journey from a cowardly liar to a brave warrior with unique abilities.",
+      "culturalReferences": ["Sargasso Sea - a real oceanic region known for its seaweed"]
+    },
+    {
+      "theme": "Reputation and Consequences",
+      "description": "The episode explores how the Straw Hats' past actions have created a complex reputation that precedes them to Fish-Man Island.",
+      "symbolism": "Hammond's knowledge of their deeds represents how their actions ripple across the world.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Journey's Milestone",
+      "description": "Reaching Fish-Man Island marks a significant milestone in the crew's journey toward the New World.",
+      "symbolism": "Fish-Man Island as the gateway to the New World represents the threshold between their past adventures and future challenges.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Adventurous", "Tense", "Exciting", "Ominous"],
+  "characterSpotlights": [
+    {
+      "characterId": "usopp",
+      "role": "Supporting Hero",
+      "development": "Usopp demonstrates his growth and new abilities by successfully protecting the crew with his Pop Green technique, showing increased confidence and capability.",
+      "keyActions": [
+        "Deploys Green Star: Sargasso to protect the Thousand Sunny",
+        "Successfully holds back an underwater avalanche",
+        "Demonstrates mastery of Pop Greens"
+      ],
+      "quotes": ["Green Star: Sargasso!"]
+    },
+    {
+      "characterId": "hammond",
+      "role": "Antagonist Introduction",
+      "development": "Hammond is introduced as a member of the New Fish-Man Pirates, establishing himself as an immediate threat and obstacle to the Straw Hats' entry into Fish-Man Island.",
+      "keyActions": [
+        "Confronts the Straw Hats at Fish-Man Island's entrance",
+        "Reveals knowledge of their past deeds",
+        "Issues an ultimatum to join or die"
+      ],
+      "quotes": ["You have two choices: join us as subordinates, or be sunk right here!"]
+    },
+    {
+      "characterId": "surume",
+      "role": "Ally and Transportation",
+      "development": "Surume continues to help the Straw Hats but becomes incapacitated, leaving them vulnerable at a critical moment.",
+      "keyActions": [
+        "Defeats Wadatsumi to protect the crew",
+        "Makes quick decisions to escape danger",
+        "Gets knocked unconscious by falling debris"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended several scenes of the volcanic eruption and the crew's reactions for dramatic effect.",
+      "episodeTimestamp": "08:00-12:00",
+      "mangaReference": "Chapters 606-607",
+      "type": "EXPANDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the first visual appearance of Fish-Man Island, a location that has been mentioned and built up since the very early episodes of One Piece.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_526",
+          "title": "Episode 526 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-19"
+        }
+      ]
+    },
+    {
+      "fact": "The Sargasso technique is named after the Sargasso Sea, a real region of the Atlantic Ocean known for its distinctive brown Sargassum seaweed.",
+      "category": "REAL_WORLD_CONNECTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Usopp_Tactics/Kuro_Kabuto",
+          "title": "Usopp Tactics - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-19"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 526 adapted content from manga chapters 606-607, maintaining a relatively fast pace of approximately 2 chapters per episode.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_526",
+          "title": "Episode 526 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-19"
+        }
+      ]
+    },
+    {
+      "fact": "The preview for episode 527 was shortened from the standard length.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_526",
+          "title": "Episode 526 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-19"
+        }
+      ]
+    },
+    {
+      "fact": "Hammond's character design includes both the Arlong Pirates tattoo and the New Fish-Man Pirates emblem, indicating a connection between the two crews.",
+      "category": "CHARACTER_DESIGN",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Hammond",
+          "title": "Hammond - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-19"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

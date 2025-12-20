@@ -1,0 +1,459 @@
+{
+  "episodeNumber": 527,
+  "episodeTitle": "Landing at the Fish-Man Island! Beautiful Mermaids!",
+  "description": "The Straw Hat Pirates encounter Hammond and the New Fish-Man Pirates, who demand they join or die. Franky launches Coup de Burst to escape, but the crew gets separated. Luffy, Sanji, Usopp, and Chopper reunite with Camie and visit Mermaid Cove, where they meet beautiful mermaids.",
+  "airDate": "2011-12-11",
+  "airDateJapan": "2011-12-11",
+  "airDateUS": "2011-12-10",
+  "arcName": "Fish-Man Island Arc",
+  "sagaName": "Fish-Man Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Go!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [517, 590]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Yutaka Nakashima",
+    "screenplay": "Hirohiko Kamisaka",
+    "artDirector": "Ryūji Yoshiike",
+    "keyAnimators": ["Kenji Yokoyama"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Hammond",
+        "actor": "Isshin Chiba"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Hammond",
+        "actor": "Jay Hickman"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep527-event-001",
+      "episodeNumber": 527,
+      "timestamp": "04:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Hammond's First Appearance",
+      "description": "Hammond, a daggertooth pike conger fish-man and member of the New Fish-Man Pirates, appears alongside Hyouzou and Kasagon riding sea beasts. He confronts the Straw Hat Pirates as they approach Fish-Man Island.",
+      "significance": "Introduces Hammond as a representative of the antagonist crew for this arc and sets up the conflict on Fish-Man Island.",
+      "characterIds": ["hammond", "luffy", "nami", "franky"],
+      "locationIds": ["fish-man-island-entrance"],
+      "crewIds": ["new-fish-man-pirates", "straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep527-event-002",
+      "episodeNumber": 527,
+      "timestamp": "04:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Hyouzou's First Appearance",
+      "description": "Hyouzou, a poisonous blue-ringed octopus merman and renowned swordsman, makes his debut as the assassin of the New Fish-Man Pirates. He is known as the best swordsman on Fish-Man Island.",
+      "significance": "Introduces a major antagonist and skilled fighter who will later clash with Zoro. His reputation as the island's best swordsman foreshadows future battles.",
+      "characterIds": ["hyouzou", "hammond"],
+      "locationIds": ["fish-man-island-entrance"],
+      "crewIds": ["new-fish-man-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep527-event-003",
+      "episodeNumber": 527,
+      "timestamp": "05:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Kasagon's First Appearance",
+      "description": "Kasagon (Kasagoba), a marbled rockfish fish-man, appears as a member of the New Fish-Man Pirates alongside Hammond and Hyouzou.",
+      "significance": "Establishes another member of the New Fish-Man Pirates crew, showing the organization's reach.",
+      "characterIds": ["kasagon", "hammond", "hyouzou"],
+      "locationIds": ["fish-man-island-entrance"],
+      "crewIds": ["new-fish-man-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep527-event-004",
+      "episodeNumber": 527,
+      "timestamp": "06:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Hammond's Ultimatum: Join or Die",
+      "description": "Hammond confronts the Straw Hats and presents them with a choice: join the New Fish-Man Pirates under their captain or have their ship sunk. He references their past actions including beating Arlong, defending Hachi, and Luffy punching a World Noble.",
+      "significance": "Establishes the immediate conflict and shows that the New Fish-Man Pirates are aware of the Straw Hats' history and reputation. The mention of past deeds connects to previous arcs.",
+      "characterIds": ["hammond", "luffy", "nami"],
+      "locationIds": ["fish-man-island-entrance"],
+      "crewIds": ["new-fish-man-pirates", "straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "Join the New Fish-Man Pirates or die!",
+          "speaker": "Hammond",
+          "context": "Hammond's ultimatum to the Straw Hat crew"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [8, 312],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [8, 312, 396]
+    },
+    {
+      "id": "ep527-event-005",
+      "episodeNumber": 527,
+      "timestamp": "08:00",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Franky Uses Coup de Burst to Escape",
+      "description": "Facing Hammond's ultimatum, Franky activates the Thousand Sunny's Coup de Burst, using three barrels of cola to fire a giant cannon downward and rocket the ship forward at incredible speed, breaking through Fish-Man Island's protective bubble.",
+      "significance": "First use of Coup de Burst to enter Fish-Man Island, demonstrating the Sunny's special capabilities. This emergency escape mechanism becomes a recurring tactical option for the crew.",
+      "characterIds": ["franky", "luffy", "nami"],
+      "locationIds": ["fish-man-island-entrance"],
+      "devilFruitIds": [],
+      "quotes": [
+        {
+          "text": "Coup de Burst!",
+          "speaker": "Franky",
+          "context": "Franky activates the Thousand Sunny's escape mechanism"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep527-event-006",
+      "episodeNumber": 527,
+      "timestamp": "09:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Straw Hats Break Through to Fish-Man Island",
+      "description": "The Thousand Sunny breaks through the massive bubble surrounding Fish-Man Island, entering the underwater paradise. However, the powerful water currents separate the crew members from their ship and from each other.",
+      "significance": "The Straw Hats officially arrive at Fish-Man Island, a major milestone location. The separation sets up individual storylines and reunions throughout the arc.",
+      "characterIds": ["luffy", "nami", "zoro", "sanji", "usopp", "chopper", "robin", "franky", "brook"],
+      "locationIds": ["fish-man-island"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [385],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [385, 490]
+    },
+    {
+      "id": "ep527-event-007",
+      "episodeNumber": 527,
+      "timestamp": "11:00",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Luffy's Group Wakes at Camie's Home",
+      "description": "Luffy, Sanji, Usopp, and Chopper regain consciousness in Camie's apartment after being separated from the crew. They discover they've been rescued and are safe within Fish-Man Island.",
+      "significance": "Reunites a portion of the crew and establishes Camie's continued role as a guide and ally on Fish-Man Island. Shows the hospitality of Fish-Man Island's friendly residents.",
+      "characterIds": ["luffy", "sanji", "usopp", "chopper", "camie"],
+      "locationIds": ["camie-apartment"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [385, 386]
+    },
+    {
+      "id": "ep527-event-008",
+      "episodeNumber": 527,
+      "timestamp": "13:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Medaka Mermaid Quintuplets Debut",
+      "description": "The Medaka Mermaid Quintuplets—five identical young Japanese rice fish mermaids named Ichika, Nika, Sanka, Yonka, and Yonka Two—appear at Camie's apartment. They return the Straw Hats' dried clothes and are introduced to the group.",
+      "significance": "Introduces friendly mermaid characters who help establish the welcoming nature of Mermaid Cove and contrast with the hostile New Fish-Man Pirates.",
+      "characterIds": ["medaka-quintuplets", "camie", "luffy", "sanji", "usopp", "chopper"],
+      "locationIds": ["camie-apartment"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep527-event-009",
+      "episodeNumber": 527,
+      "timestamp": "15:00",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Arrival at Mermaid Cove",
+      "description": "Camie guides Luffy, Sanji, Usopp, and Chopper to Mermaid Cove, specifically the girls' dormitory area. This beautiful location is home to many young mermaids living on Fish-Man Island.",
+      "significance": "Introduces Mermaid Cove, a key location on Fish-Man Island that showcases the beauty and culture of mermaid society. This location becomes important for character interactions and world-building.",
+      "characterIds": ["luffy", "sanji", "usopp", "chopper", "camie"],
+      "locationIds": ["mermaid-cove"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep527-event-010",
+      "episodeNumber": 527,
+      "timestamp": "16:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Ishilly and Other Mermaids Debut",
+      "description": "Ishilly, a striped beakfish mermaid, greets the group along with other mermaids including Lulis, Fillonce, Kairen, Hiramera, Adele, Mero, Seira, and Sora. They warmly welcome the Straw Hat crew members to Mermaid Cove.",
+      "significance": "Establishes the friendly mermaid community and provides a peaceful contrast to the earlier confrontation with the New Fish-Man Pirates.",
+      "characterIds": ["ishilly", "lulis", "fillonce", "kairen", "hiramera", "adele", "mero", "seira", "sora", "camie"],
+      "locationIds": ["mermaid-cove"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep527-event-011",
+      "episodeNumber": 527,
+      "timestamp": "17:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Sanji's Extreme Reaction to Mermaids",
+      "description": "Sanji has an over-the-top comedic reaction to being surrounded by beautiful mermaids at Mermaid Cove, experiencing extreme joy and excitement. His nosebleed becomes dangerously severe.",
+      "significance": "A comedic character moment that establishes a running gag throughout the Fish-Man Island arc. Sanji's reactions to mermaids become a plot point later in the arc.",
+      "characterIds": ["sanji", "chopper", "luffy", "usopp"],
+      "locationIds": ["mermaid-cove"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [528],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep527-event-012",
+      "episodeNumber": 527,
+      "timestamp": "19:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "CRITICAL",
+      "title": "Hody Jones Shadowed Appearance",
+      "description": "Hammond reports the Straw Hats' arrival to the leader of the New Fish-Man Pirates. Though shown only in shadow, this is the first appearance of Hody Jones, the main antagonist of the Fish-Man Island arc.",
+      "significance": "Introduces the arc's primary villain (though not fully revealed), building mystery and tension. Hody's orders to bring the Straw Hats to him sets up future conflicts.",
+      "characterIds": ["hody-jones", "hammond"],
+      "locationIds": ["fish-man-district"],
+      "crewIds": ["new-fish-man-pirates"],
+      "quotes": [
+        {
+          "text": "Bring the Straw Hats to me immediately.",
+          "speaker": "Hody Jones",
+          "context": "Hody's first command regarding the Straw Hat Pirates"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [528, 529, 530],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep527-event-013",
+      "episodeNumber": 527,
+      "timestamp": "03:00",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "New Fish-Man Pirates' Awareness of Straw Hats' History",
+      "description": "Hammond demonstrates detailed knowledge of the Straw Hats' past actions, specifically mentioning their defeat of Arlong, protection of Hachi, and Luffy's assault on a World Noble at Sabaody. This shows the New Fish-Man Pirates have been monitoring surface world events.",
+      "significance": "Connects the Fish-Man Island arc to previous storylines and shows that the crew's reputation has spread even to the depths of the ocean. The specific mention of Arlong hints at deeper connections to Fish-Man Island politics.",
+      "characterIds": ["hammond", "luffy"],
+      "locationIds": ["fish-man-island-entrance"],
+      "crewIds": ["new-fish-man-pirates", "straw-hat-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [8, 312, 396],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [8, 312, 396]
+    }
+  ],
+  "debuts": {
+    "characters": ["hammond", "hyouzou", "kasagon", "medaka-quintuplets", "ishilly", "lulis", "fillonce", "kairen", "hiramera", "adele", "mero", "seira", "sora", "hody-jones"],
+    "locations": ["mermaid-cove", "camie-apartment", "fish-man-district"],
+    "devilFruits": [],
+    "crews": ["new-fish-man-pirates"],
+    "abilities": ["coup-de-burst-entry"]
+  },
+  "episodeRelationships": {
+    "setupFor": [528, 529, 530],
+    "payoffFrom": [385, 386, 490],
+    "thematicLinks": [8, 312]
+  },
+  "quotes": [
+    {
+      "text": "Join the New Fish-Man Pirates or die!",
+      "speaker": "Hammond",
+      "context": "Hammond's ultimatum to the Straw Hats",
+      "timestamp": "06:00"
+    },
+    {
+      "text": "Coup de Burst!",
+      "speaker": "Franky",
+      "context": "Activating the Thousand Sunny's emergency escape mechanism",
+      "timestamp": "08:00"
+    },
+    {
+      "text": "Bring the Straw Hats to me immediately.",
+      "speaker": "Hody Jones",
+      "context": "Hody's first order regarding the Straw Hat Pirates",
+      "timestamp": "19:00"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Cultural Divide and Prejudice",
+      "description": "The episode introduces the tension between humans and fish-men through the New Fish-Man Pirates' hostile attitude, contrasted with the friendly mermaids of Mermaid Cove.",
+      "symbolism": "The two different receptions the Straw Hats receive represent the divided nature of Fish-Man Island society.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Reputation and Consequences",
+      "description": "The Straw Hats' past actions follow them to Fish-Man Island, with Hammond specifically citing their history with Arlong and the World Nobles.",
+      "symbolism": "Their growing fame brings both opportunities and dangers.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Beauty and Paradise vs. Hidden Darkness",
+      "description": "Mermaid Cove represents the beautiful, welcoming side of Fish-Man Island, while the shadowed Hody Jones represents lurking danger.",
+      "symbolism": "The contrast between the peaceful mermaids and the aggressive New Fish-Man Pirates foreshadows the arc's central conflict.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Adventurous", "Comedic", "Tense", "Wondrous"],
+  "characterSpotlights": [
+    {
+      "characterId": "hammond",
+      "role": "Antagonist introduction",
+      "development": "Hammond is introduced as a confrontational member of the New Fish-Man Pirates who knows the Straw Hats' history and presents them with an ultimatum.",
+      "keyActions": [
+        "Confronts the Straw Hats on sea beasts",
+        "Presents ultimatum to join or die",
+        "References their past victories",
+        "Reports to Hody Jones"
+      ],
+      "quotes": ["Join the New Fish-Man Pirates or die!"]
+    },
+    {
+      "characterId": "franky",
+      "role": "Protector and shipwright",
+      "development": "Franky demonstrates the Thousand Sunny's capabilities by using Coup de Burst to escape danger and enter Fish-Man Island.",
+      "keyActions": [
+        "Activates Coup de Burst",
+        "Propels the ship through Fish-Man Island's bubble"
+      ],
+      "quotes": ["Coup de Burst!"]
+    },
+    {
+      "characterId": "sanji",
+      "role": "Comic relief",
+      "development": "Sanji's extreme reaction to the mermaids provides comedy and sets up his ongoing struggle with nosebleeds throughout the arc.",
+      "keyActions": [
+        "Wakes up at Camie's apartment",
+        "Visits Mermaid Cove",
+        "Has extreme reaction to mermaids"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "camie",
+      "role": "Guide and friend",
+      "development": "Camie helps the separated Straw Hats by providing shelter and guiding them to Mermaid Cove, showing her role as a bridge between humans and fish-folk.",
+      "keyActions": [
+        "Rescues Luffy's group",
+        "Provides shelter in her apartment",
+        "Guides them to Mermaid Cove",
+        "Introduces them to the Medaka Quintuplets and other mermaids"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended scenes at Mermaid Cove with additional mermaid interactions and Sanji reactions that were briefer in the manga.",
+      "episodeTimestamp": "15:00-18:00",
+      "mangaReference": "Chapter 608",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "The confrontation with Hammond and the sea beasts was given more action sequences and dialogue in the anime.",
+      "episodeTimestamp": "04:00-08:00",
+      "mangaReference": "Chapter 607, 608",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the Straw Hats' arrival at Fish-Man Island, a location that was first mentioned way back in the Arlong Park arc over 300 episodes earlier.",
+      "category": "STORY_CONNECTION",
+      "sources": []
+    },
+    {
+      "fact": "Hyouzou is voiced by Isshin Chiba in Japanese, the same voice actor who voices Hammond, meaning one actor plays two different New Fish-Man Pirates members.",
+      "category": "VOICE_ACTING",
+      "sources": []
+    },
+    {
+      "fact": "The episode aired on December 11, 2011 in Japan, exactly 12 years after the anime's debut in 1999.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "Coup de Burst, first introduced earlier, uses three barrels of cola to propel the Thousand Sunny up to 1 kilometer forward.",
+      "category": "WORLD_BUILDING",
+      "sources": []
+    },
+    {
+      "fact": "The Medaka Mermaid Quintuplets all wear cowboy hats and can float in the air using bubble rings, a unique design choice by Oda.",
+      "category": "CHARACTER_DESIGN",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
