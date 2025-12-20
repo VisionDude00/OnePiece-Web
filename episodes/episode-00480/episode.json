@@ -1,0 +1,523 @@
+{
+  "episodeNumber": 480,
+  "episodeTitle": "Each on Different Paths! Luffy vs. Garp!",
+  "description": "Luffy confronts his grandfather Garp in an emotional battle to reach Ace. With Mr. 3's help, Luffy successfully frees Ace from his Sea Stone cuffs as Sengoku reveals his Buddha Devil Fruit transformation.",
+  "airDate": "2010-12-19",
+  "airDateJapan": "2010-12-19",
+  "airDateUS": "2010-12-18",
+  "arcName": "Marineford Arc",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "EXCELLENT",
+  "openingSong": {
+    "title": "One day",
+    "artist": "The ROOTLESS",
+    "episodeRange": [459, 491]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Takahiro Imamura",
+    "scriptWriter": "Yoshiyuki Suga",
+    "artDirector": "Ryūji Yoshiike",
+    "keyAnimators": ["Masayuki Takagi"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Monkey D. Garp",
+        "actor": "Hiroshi Naka"
+      },
+      {
+        "character": "Portgas D. Ace",
+        "actor": "Toshio Furukawa"
+      },
+      {
+        "character": "Sengoku",
+        "actor": "Takkō Ishimori"
+      },
+      {
+        "character": "Borsalino (Kizaru)",
+        "actor": "Unshō Ishizuka"
+      },
+      {
+        "character": "Galdino (Mr. 3)",
+        "actor": "Nobuyuki Hiyama"
+      },
+      {
+        "character": "Boa Hancock",
+        "actor": "Kotono Mitsuishi"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Monkey D. Garp",
+        "actor": "Brian Mathis"
+      },
+      {
+        "character": "Portgas D. Ace",
+        "actor": "Travis Willingham"
+      },
+      {
+        "character": "Sengoku",
+        "actor": "Ed Blaylock"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep480-event-001",
+      "episodeNumber": 480,
+      "timestamp": "03:15",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Garp's Training Flashback - Young Luffy",
+      "description": "Flashback scenes show young Luffy training under Garp's supervision, attempting to fight monkeys and declaring his dream to become Pirate King despite Garp's wishes for him to become a Marine.",
+      "significance": "Provides emotional context for the upcoming confrontation between grandfather and grandson, highlighting the different paths they chose and the deep bond they share despite their opposing positions.",
+      "characterIds": ["luffy", "garp"],
+      "locationIds": ["dawn-island"],
+      "quotes": [
+        {
+          "text": "I want to become the Pirate King!",
+          "speaker": "Young Luffy",
+          "context": "Luffy defiantly declaring his dream to Garp during training"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [1, 45, 313]
+    },
+    {
+      "id": "ep480-event-002",
+      "episodeNumber": 480,
+      "timestamp": "07:45",
+      "eventType": "BATTLE_START",
+      "severity": "CRITICAL",
+      "title": "Luffy vs. Garp Confrontation",
+      "description": "Garp positions himself as the final obstacle between Luffy and Ace on the execution platform. The emotional confrontation begins as Luffy must fight the grandfather who raised and trained him.",
+      "significance": "One of the most emotional moments in the series as family bonds clash with chosen paths. Garp's internal struggle between duty and family reaches its climax.",
+      "characterIds": ["luffy", "garp"],
+      "locationIds": ["marineford", "execution-platform"],
+      "quotes": [
+        {
+          "text": "If you want to pass, you'll have to kill me!",
+          "speaker": "Garp",
+          "context": "Garp blocking Luffy's path to Ace"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [459, 460, 478, 479],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep480-event-003",
+      "episodeNumber": 480,
+      "timestamp": "10:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Luffy Strikes Garp",
+      "description": "Luffy reluctantly punches Garp with full force. Garp, remembering young Luffy and Ace as children, chooses to take the punch and falls, allowing Luffy to pass.",
+      "significance": "Garp's sacrifice demonstrates his internal conflict and ultimate choice to prioritize his grandsons over his Marine duty. This moment allows Luffy to proceed toward saving Ace.",
+      "characterIds": ["luffy", "garp"],
+      "locationIds": ["marineford"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [479],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep480-event-004",
+      "episodeNumber": 480,
+      "timestamp": "12:00",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "CRITICAL",
+      "title": "Luffy Reaches the Execution Platform",
+      "description": "After defeating Garp, Luffy jumps across the collapsing bridge rubble and successfully reaches the execution scaffold where Ace is chained.",
+      "significance": "The culmination of Luffy's desperate journey through Marineford. After fighting through countless Marines and obstacles, he finally reaches his brother.",
+      "characterIds": ["luffy", "ace"],
+      "locationIds": ["execution-platform"],
+      "quotes": [
+        {
+          "text": "Ace!",
+          "speaker": "Luffy",
+          "context": "Luffy calling out to Ace as he reaches the platform"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [457, 458, 459, 479],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep480-event-005",
+      "episodeNumber": 480,
+      "timestamp": "13:20",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Hancock's Key Revealed",
+      "description": "Luffy produces the key to Ace's Sea Stone handcuffs, which Boa Hancock had secretly given to him earlier.",
+      "significance": "Reveals Hancock's crucial contribution to the rescue mission. The key represents hope for Ace's freedom.",
+      "characterIds": ["luffy", "ace", "hancock"],
+      "locationIds": ["execution-platform"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [461, 462],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep480-event-006",
+      "episodeNumber": 480,
+      "timestamp": "14:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Kizaru Destroys the Key",
+      "description": "Admiral Kizaru uses his light-speed abilities to shoot a laser beam that splits Hancock's key in half, preventing Luffy from unlocking Ace's cuffs.",
+      "significance": "A devastating setback that seemingly destroys any hope of freeing Ace with the key. Creates dramatic tension at the climactic moment.",
+      "characterIds": ["kizaru", "luffy", "ace"],
+      "devilFruitIds": ["pika-pika-no-mi"],
+      "locationIds": ["execution-platform"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep480-event-007",
+      "episodeNumber": 480,
+      "timestamp": "15:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Sengoku's Buddha Form Transformation",
+      "description": "Fleet Admiral Sengoku transforms into a giant golden Buddha figure, revealing his Hito Hito no Mi, Model: Daibutsu Devil Fruit powers for the first time in the series.",
+      "significance": "First reveal of Sengoku's Mythical Zoan Devil Fruit ability. Demonstrates why Sengoku holds the position of Fleet Admiral and raises the stakes of the battle.",
+      "characterIds": ["sengoku"],
+      "devilFruitIds": ["hito-hito-no-mi-model-daibutsu"],
+      "locationIds": ["execution-platform"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep480-event-008",
+      "episodeNumber": 480,
+      "timestamp": "16:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Mr. 3 Reveals Himself as Executioner",
+      "description": "Galdino (Mr. 3), who had been disguised as one of Ace's executioners, reveals his true identity and his plan to help rescue Ace.",
+      "significance": "Unexpected twist revealing Mr. 3's infiltration and his decision to help Luffy. Shows the impact of Bon Clay's friendship with Luffy extending to other Baroque Works members.",
+      "characterIds": ["galdino", "ace", "luffy"],
+      "locationIds": ["execution-platform"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [130, 452]
+    },
+    {
+      "id": "ep480-event-009",
+      "episodeNumber": 480,
+      "timestamp": "17:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Luffy Uses Gigant Fusen Against Sengoku",
+      "description": "Luffy inflates his body into a massive rubber balloon (Gomu Gomu no Gigant Fusen) to defend against Sengoku's powerful Buddha shockwave attack.",
+      "significance": "Demonstrates Luffy's Gear Third defensive capabilities against one of the strongest Marines. Shows the extent of Luffy's determination to protect Ace.",
+      "characterIds": ["luffy", "sengoku"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "locationIds": ["execution-platform"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [304]
+    },
+    {
+      "id": "ep480-event-010",
+      "episodeNumber": 480,
+      "timestamp": "18:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Mr. 3 Creates Wax Key",
+      "description": "As everyone falls from the collapsing execution platform, Galdino uses his Doru Doru no Mi powers to create a replacement key from wax for Ace's Sea Stone handcuffs.",
+      "significance": "Mr. 3's quick thinking and wax abilities save the rescue mission. His motivation is revealed to be avenging Bon Clay (Mr. 2), who helped Luffy in Impel Down.",
+      "characterIds": ["galdino", "luffy", "ace"],
+      "devilFruitIds": ["doru-doru-no-mi"],
+      "locationIds": ["execution-platform"],
+      "quotes": [
+        {
+          "text": "I'm doing this for Bon-chan!",
+          "speaker": "Mr. 3",
+          "context": "Mr. 3 explaining his motivation for helping Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [452],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [130]
+    },
+    {
+      "id": "ep480-event-011",
+      "episodeNumber": 480,
+      "timestamp": "20:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Ace is Freed from His Handcuffs",
+      "description": "Using Mr. 3's wax key, Luffy successfully unlocks Ace's Sea Stone handcuffs as they fall from the destroyed execution platform. Ace is finally free after being imprisoned since his capture.",
+      "significance": "The climactic moment of the Marineford rescue operation. After countless sacrifices and battles, Ace is freed, seemingly making the rescue mission a success.",
+      "characterIds": ["luffy", "ace", "galdino"],
+      "locationIds": ["execution-platform"],
+      "quotes": [
+        {
+          "text": "Luffy... thank you.",
+          "speaker": "Ace",
+          "context": "Ace's gratitude as his handcuffs are removed"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [457, 458, 459, 460, 479],
+      "payoffInEpisodes": [481, 482, 483],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep480-event-012",
+      "episodeNumber": 480,
+      "timestamp": "21:00",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Ace Uses Fire Powers After Liberation",
+      "description": "Immediately after being freed from the Sea Stone handcuffs that nullified his abilities, Ace demonstrates his Mera Mera no Mi fire powers, creating flames to break their fall.",
+      "significance": "Marks Ace regaining his Devil Fruit abilities and his return to active combat. Shows the immediate effect of removing Sea Stone restraints.",
+      "characterIds": ["ace"],
+      "devilFruitIds": ["mera-mera-no-mi"],
+      "locationIds": ["marineford"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [481, 482],
+      "callbacksToEpisodes": [94, 95]
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": ["hito-hito-no-mi-model-daibutsu"],
+    "crews": [],
+    "abilities": ["gigant-fusen", "buddha-shockwave"]
+  },
+  "episodeRelationships": {
+    "setupFor": [481, 482, 483],
+    "payoffFrom": [457, 458, 459, 460, 478, 479],
+    "thematicLinks": [313, 459, 483, 484]
+  },
+  "quotes": [
+    {
+      "text": "I want to become the Pirate King!",
+      "speaker": "Young Luffy",
+      "context": "Flashback to Luffy's training with Garp",
+      "timestamp": "03:15"
+    },
+    {
+      "text": "If you want to pass, you'll have to kill me!",
+      "speaker": "Garp",
+      "context": "Garp blocking Luffy's path to Ace",
+      "timestamp": "07:45"
+    },
+    {
+      "text": "I'm doing this for Bon-chan!",
+      "speaker": "Mr. 3",
+      "context": "Mr. 3 explaining his motivation for helping Luffy",
+      "timestamp": "18:30"
+    },
+    {
+      "text": "Luffy... thank you.",
+      "speaker": "Ace",
+      "context": "Ace's gratitude as his handcuffs are removed",
+      "timestamp": "20:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Family vs. Duty",
+      "description": "The episode powerfully explores the conflict between familial love and professional duty through Garp's impossible choice between his grandsons and his Marine responsibilities.",
+      "symbolism": "Garp allowing himself to be defeated represents choosing family over duty, while maintaining the appearance of having done his job.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Sacrifice and Determination",
+      "description": "Multiple characters make significant sacrifices - Garp sacrifices his duty, Mr. 3 risks his life for a friend's cause, and Luffy pushes beyond his limits despite the emotional cost of fighting his grandfather.",
+      "symbolism": "The destroyed execution platform represents the shattering of Marine authority and the triumph of personal bonds over institutional power.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Power of Friendship",
+      "description": "Mr. 3's intervention is motivated by Bon Clay's friendship with Luffy, showing how bonds of friendship can inspire others and create ripple effects of loyalty and support.",
+      "symbolism": "The wax key represents how unexpected allies and friendships can be the key to overcoming impossible obstacles.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Intense", "Emotional", "Dramatic", "Hopeful", "Bittersweet"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist in emotional battle",
+      "development": "Luffy faces one of his most difficult emotional challenges - fighting the grandfather who raised him. His determination to save Ace is strong enough to overcome even this bond.",
+      "keyActions": [
+        "Confronts Garp in battle",
+        "Strikes Garp to reach Ace",
+        "Reaches the execution platform",
+        "Produces Hancock's key",
+        "Uses Gigant Fusen against Sengoku",
+        "Successfully frees Ace with Mr. 3's wax key"
+      ],
+      "quotes": ["Ace!"]
+    },
+    {
+      "characterId": "garp",
+      "role": "Conflicted antagonist",
+      "development": "Garp's internal struggle reaches its climax. He positions himself as an obstacle but ultimately chooses to allow Luffy to pass by taking the punch, showing his true priorities lie with his grandsons.",
+      "keyActions": [
+        "Blocks Luffy's path to Ace",
+        "Challenges Luffy to get past him",
+        "Remembers young Luffy and Ace",
+        "Allows himself to be knocked down"
+      ],
+      "quotes": ["If you want to pass, you'll have to kill me!"]
+    },
+    {
+      "characterId": "ace",
+      "role": "Captive awaiting rescue",
+      "development": "Ace witnesses Luffy's determination and the sacrifices made for him, leading to his eventual liberation. His gratitude and relief are palpable.",
+      "keyActions": [
+        "Watches Luffy fight Garp",
+        "Reacts to the key being destroyed",
+        "Has his handcuffs removed by Luffy",
+        "Uses fire powers to save everyone from falling"
+      ],
+      "quotes": ["Luffy... thank you."]
+    },
+    {
+      "characterId": "galdino",
+      "role": "Unexpected savior",
+      "development": "Mr. 3 reveals his infiltration and proves instrumental in the rescue. His motivation stems from loyalty to Bon Clay's friendship with Luffy.",
+      "keyActions": [
+        "Reveals himself from executioner disguise",
+        "Creates wax key to replace the destroyed one",
+        "Helps Luffy free Ace"
+      ],
+      "quotes": ["I'm doing this for Bon-chan!"]
+    },
+    {
+      "characterId": "sengoku",
+      "role": "Powerful antagonist",
+      "development": "Sengoku reveals his true power by transforming into his Buddha form, showing why he holds the position of Fleet Admiral.",
+      "keyActions": [
+        "Transforms into Buddha form",
+        "Attacks the execution platform with shockwave",
+        "Destroys the scaffold in attempt to stop the rescue"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime added extended flashback sequences of Luffy's training with Garp that were shorter in the manga.",
+      "episodeTimestamp": "03:15",
+      "mangaReference": "Chapter 571",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "The confrontation between Luffy and Garp is extended with additional dialogue and emotional beats compared to the manga.",
+      "episodeTimestamp": "07:45",
+      "mangaReference": "Chapter 571",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode has an IMDb rating of 9.6/10, making it one of the highest-rated episodes in the entire series with approximately 8,000 votes.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://www.imdb.com/title/tt1799489/",
+          "title": "One Piece Episode 480 - IMDb",
+          "platform": "IMDb",
+          "accessedAt": "2025-12-14"
+        }
+      ]
+    },
+    {
+      "fact": "The episode originally aired in Japan on December 19, 2010, with a TV rating of 13.8%, ranking 3rd in ratings for that week.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_480",
+          "title": "Episode 480 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-14"
+        }
+      ]
+    },
+    {
+      "fact": "This is the first time Sengoku's Devil Fruit ability is shown in the anime. Many Marines stated they had never seen him use this power before.",
+      "category": "POWER_DEBUT",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Hito_Hito_no_Mi,_Model:_Daibutsu",
+          "title": "Hito Hito no Mi, Model: Daibutsu - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-14"
+        }
+      ]
+    },
+    {
+      "fact": "The episode covers Chapter 571 of the manga, titled 'The Execution Platform', pages 2-17.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chapter_571",
+          "title": "Chapter 571 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-14"
+        }
+      ]
+    },
+    {
+      "fact": "Mr. 3's rescue motivation (avenging Bon Clay) adds emotional weight to his appearance and connects back to the Impel Down arc.",
+      "category": "STORY_DETAIL",
+      "sources": [
+        {
+          "url": "https://gamerant.com/one-piece-mr-3-deserves-more-credit/",
+          "title": "One Piece: Mr. 3 Deserves More Credit",
+          "platform": "Game Rant",
+          "accessedAt": "2025-12-14"
+        }
+      ]
+    },
+    {
+      "fact": "All 33 episodes of the Marineford Arc (Episodes 457-489) received ratings above 9.0 on IMDb, an unprecedented achievement for the series.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://fandomwire.com/eiichiro-oda-made-the-greatest-war-arc-in-anime-with-an-imdb-rating-streak-others-can-only-dream-of/",
+          "title": "Eiichiro Oda Made the Greatest War Arc in Anime",
+          "platform": "FandomWire",
+          "accessedAt": "2025-12-14"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
