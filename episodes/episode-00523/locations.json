@@ -1,0 +1,158 @@
+[
+  {
+    "name": {
+      "english": "Underwater Route to Fish-Man Island",
+      "japanese": "魚人島への海底ルート",
+      "romanized": "Gyojin-tō e no Kaitei Rūto"
+    },
+    "locationType": "ROUTE",
+    "seaRegion": "PARADISE_TO_NEW_WORLD",
+    "islandName": null,
+    "debutEpisode": 523,
+    "debutChapter": 603,
+    "description": "The underwater route from Sabaody Archipelago to Fish-Man Island, 10,000 meters beneath the sea. Ships must be coated with special resin bubbles from Sabaody to survive the journey through these dangerous depths.",
+    "episodeAppearances": [523],
+    "keyEvents": [
+      {
+        "episodeNumber": 523,
+        "eventId": "ep523-event-004",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Straw Hats Begin Underwater Journey",
+        "description": "The Straw Hat Pirates begin their descent through the underwater route to Fish-Man Island aboard the bubble-coated Thousand Sunny.",
+        "significance": "Marks the beginning of a dangerous journey into the depths and represents entering truly unknown territory for the crew.",
+        "timestamp": "08:45"
+      },
+      {
+        "episodeNumber": 523,
+        "eventId": "ep523-event-008",
+        "eventType": "BATTLE_START",
+        "title": "Caribou Pirates Attack",
+        "description": "The Caribou Pirates attack the Thousand Sunny while traveling through the underwater route.",
+        "significance": "Shows the dangers present even on the journey to Fish-Man Island.",
+        "timestamp": "19:20"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 523,
+        "episodeEnd": "present",
+        "reason": "Route is actively being traveled during this episode"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky", "brook", "caribou"],
+    "relatedCrews": ["straw-hat-pirates", "caribou-pirates"],
+    "relatedArcs": ["Fish-Man Island Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Thousand Sunny",
+      "japanese": "サウザンドサニー号",
+      "romanized": "Sauzando Sanī-gō"
+    },
+    "locationType": "SHIP",
+    "seaRegion": "PARADISE_TO_NEW_WORLD",
+    "islandName": null,
+    "debutEpisode": null,
+    "debutChapter": null,
+    "description": "The Straw Hat Pirates' second ship, built by Franky and powered by cola. In this episode, it travels underwater with bubble coating toward Fish-Man Island.",
+    "episodeAppearances": [523],
+    "keyEvents": [
+      {
+        "episodeNumber": 523,
+        "eventId": "ep523-event-005",
+        "eventType": "BACKSTORY_REVEAL",
+        "title": "Kuma's Protection Revealed",
+        "description": "Franky reveals that Bartholomew Kuma protected the Thousand Sunny for two years while the crew was separated, fighting off Marine attacks.",
+        "significance": "Explains how the ship survived the two-year timeskip and reveals Kuma's incredible sacrifice.",
+        "timestamp": "11:30"
+      },
+      {
+        "episodeNumber": 523,
+        "eventId": "ep523-event-006",
+        "eventType": "BACKSTORY_REVEAL",
+        "title": "Hatchan and Duval's Protection",
+        "description": "It's revealed that Hatchan and Duval sustained heavy injuries protecting the Sunny from Marines before Kuma arrived.",
+        "significance": "Shows the loyalty of the Straw Hats' allies during the timeskip.",
+        "timestamp": "14:15"
+      },
+      {
+        "episodeNumber": 523,
+        "eventId": "ep523-event-004",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Begins Underwater Journey",
+        "description": "The Thousand Sunny, coated with resin bubbles, begins its descent to Fish-Man Island.",
+        "significance": "Marks the ship's first major underwater journey in the New World saga.",
+        "timestamp": "08:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 523,
+        "episodeEnd": "present",
+        "reason": "Ship is operational and traveling underwater"
+      }
+    ],
+    "parentLocation": "underwater-route",
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky", "brook", "bartholomew-kuma", "hatchan", "duval"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Fish-Man Island Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Sabaody Archipelago",
+      "japanese": "シャボンディ諸島",
+      "romanized": "Shabondi Shotō"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "PARADISE",
+    "islandName": "Sabaody Archipelago",
+    "debutEpisode": null,
+    "debutChapter": null,
+    "description": "An archipelago of trees that forms the final island before the New World. The Straw Hats departed from here to begin their underwater journey.",
+    "episodeAppearances": [523],
+    "keyEvents": [
+      {
+        "episodeNumber": 523,
+        "eventId": "ep523-event-003",
+        "eventType": "BACKSTORY_REVEAL",
+        "title": "Rayleigh Reflects on Straw Hats' Departure",
+        "description": "Rayleigh and Shakky talk at the coast where the Straw Hats departed, with Rayleigh reminiscing about Roger.",
+        "significance": "Provides a reflective moment connecting the old and new generation of pirates.",
+        "timestamp": "06:20"
+      },
+      {
+        "episodeNumber": 523,
+        "eventId": "ep523-event-005",
+        "eventType": "BACKSTORY_REVEAL",
+        "title": "Location of Kuma's Protection",
+        "description": "Revealed as the location where Kuma protected the Thousand Sunny for two years against Marine attacks.",
+        "significance": "Site of Kuma's sacrifice and the allies' protection of the ship.",
+        "timestamp": "11:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 523,
+        "episodeEnd": "present",
+        "reason": "Location remains active in flashbacks and references"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": [],
+    "relatedCharacters": ["silvers-rayleigh", "shakuyaku", "bartholomew-kuma", "hatchan", "duval", "sentomaru"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Fish-Man Island Arc"],
+    "images": []
+  }
+]
