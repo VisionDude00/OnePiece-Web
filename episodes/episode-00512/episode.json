@@ -1,0 +1,698 @@
+{
+  "episodeNumber": 512,
+  "episodeTitle": "With Hopes It Will Reach My Friends! Big News Spreading Fast!",
+  "titleJapanese": "仲間に届け かけめぐる大ニュース！",
+  "titleRomanized": "Nakama ni Todoke - Kakemeguru Dai-nyūsu!",
+  "description": "News of Luffy's return to Marineford spreads across the world. The Straw Hat Pirates, scattered across various islands, each receive and decipher Luffy's hidden 3D2Y message. Meanwhile, allies and former enemies react to the news, while Duval's Rosy Life Riders defend the Thousand Sunny from the Coffee Monkeys at Sabaody Archipelago.",
+  "airDate": "2011-08-28",
+  "airDateJapan": "2011-08-28",
+  "airDateUS": "2011-08-27",
+  "arcName": "Post-War Arc",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Fight Together",
+    "artist": "Namie Amuro",
+    "episodeRange": [493, 516]
+  },
+  "endingSong": null,
+  "credits": {
+    "director": "Yutaka Nakashima",
+    "writer": "Hirohiko Kamisaka",
+    "artDirector": "Miho Shiraishi",
+    "animator": "Eisaku Inoue",
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Brook",
+        "actor": "Cho"
+      },
+      {
+        "character": "Silvers Rayleigh",
+        "actor": "Keiichi Sonobe"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Katsuhisa Houki"
+      },
+      {
+        "character": "Buggy",
+        "actor": "Shigeru Chiba"
+      },
+      {
+        "character": "Alvida",
+        "actor": "Yuko Kato"
+      },
+      {
+        "character": "Crocodile",
+        "actor": "Ryuzaburo Otomo"
+      },
+      {
+        "character": "Nefertari Vivi",
+        "actor": "Misa Watanabe"
+      },
+      {
+        "character": "Duval",
+        "actor": "Koji Haramaki"
+      },
+      {
+        "character": "Curly Dadan",
+        "actor": "Noriko Uemura"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Brook",
+        "actor": "Ian Sinclair"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep512-event-001",
+      "episodeNumber": 512,
+      "timestamp": "02:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "News Spreads Across the World",
+      "description": "The newspaper article about Luffy's return to Marineford with the 16 Rings of the Ox Bell ceremony spreads across the world. Characters from Luffy's past, including allies from Impel Down, former adversaries, and scattered Straw Hat crew members, all receive and react to the news.",
+      "significance": "This event marks the beginning of widespread understanding of Luffy's message to his crew and demonstrates how Luffy's actions at Marineford have captured global attention.",
+      "characterIds": ["luffy", "rayleigh", "jinbe"],
+      "locationIds": [],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [510, 511],
+      "payoffInEpisodes": [513, 514, 515, 516],
+      "callbacksToEpisodes": [505, 506]
+    },
+    {
+      "id": "ep512-event-002",
+      "episodeNumber": 512,
+      "timestamp": "04:15",
+      "eventType": "CULTURAL_MOMENT",
+      "title": "Buggy Receives News About Luffy and Rayleigh",
+      "description": "Alvida informs Buggy about Luffy's escapade at Marineford. Buggy boasts about his connection to Luffy, showing off Captain John's treasure mark that Luffy gave him, claiming that fortune favors him.",
+      "significance": "Demonstrates Buggy's inflated ego and his tendency to exaggerate his importance, while also showing the ripple effects of Luffy's actions reaching even minor characters from his journey.",
+      "characterIds": ["buggy", "alvida", "luffy"],
+      "locationIds": [],
+      "quotes": [
+        {
+          "text": "The wind does not blow east or west but blows directly to me!",
+          "speaker": "Buggy",
+          "context": "Buggy boasting about his fortune and connection to Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [1, 2, 3, 430],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [430, 436]
+    },
+    {
+      "id": "ep512-event-003",
+      "episodeNumber": 512,
+      "timestamp": "05:45",
+      "eventType": "CULTURAL_MOMENT",
+      "title": "Vivi's Confusion Over Luffy's Tattoo",
+      "description": "Princess Vivi receives the news about Luffy with joy, initially happy that he and the crew are safe. However, she becomes perplexed when examining the photograph of Luffy's arm, questioning whether the markings are numbers, symbols, or some new fashion trend. She is unable to decipher the hidden message.",
+      "significance": "Shows Vivi's continued care for the Straw Hat Pirates while highlighting that the 3D2Y message was specifically coded for the crew members who would understand its meaning.",
+      "characterIds": ["vivi", "igaram", "cobra", "luffy"],
+      "locationIds": ["arabasta"],
+      "quotes": [
+        {
+          "text": "What is on Luffy's arm? Are they numbers, marks, or some new fashion?",
+          "speaker": "Vivi",
+          "context": "Vivi trying to understand Luffy's tattoo in the newspaper photo"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [92, 93, 130],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [130]
+    },
+    {
+      "id": "ep512-event-004",
+      "episodeNumber": 512,
+      "timestamp": "06:30",
+      "eventType": "CULTURAL_MOMENT",
+      "title": "Crocodile's Observation",
+      "description": "On a remote island, Crocodile reads the newspaper and comments on the events, noting that it has been three weeks since the war. Having barely escaped death himself, he wonders what Luffy, Jinbe, and Rayleigh are planning.",
+      "significance": "Demonstrates that even former antagonists are keeping track of Luffy's movements, and shows Crocodile's continued strategic mindset even in defeat.",
+      "characterIds": ["crocodile", "luffy", "jinbe", "rayleigh"],
+      "locationIds": [],
+      "quotes": [
+        {
+          "text": "It has been three weeks since the war and barely escaping death, I wonder what they are up to.",
+          "speaker": "Crocodile",
+          "context": "Crocodile pondering Luffy's actions after Marineford"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [479, 480, 483],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [479]
+    },
+    {
+      "id": "ep512-event-005",
+      "episodeNumber": 512,
+      "timestamp": "08:00",
+      "eventType": "BATTLE_START",
+      "title": "Coffee Monkeys Attack the Thousand Sunny",
+      "description": "At Sabaody Archipelago Grove 44, the Coffee Monkeys, a gang of human traffickers, demand that Duval's Rosy Life Riders hand over the Thousand Sunny, hoping to receive a large reward from the Marines for capturing the Straw Hat Pirates' ship.",
+      "significance": "Establishes the immediate danger facing the Straw Hat Pirates' ship while they are separated, and sets up the conflict that demonstrates the loyalty of Duval and his crew.",
+      "characterIds": ["duval"],
+      "locationIds": ["sabaody-archipelago"],
+      "crewIds": ["rosy-life-riders", "coffee-monkeys"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [399, 400]
+    },
+    {
+      "id": "ep512-event-006",
+      "episodeNumber": 512,
+      "timestamp": "09:30",
+      "eventType": "BATTLE_END",
+      "title": "Rosy Life Riders Defend the Thousand Sunny",
+      "description": "Duval and the Rosy Life Riders successfully fight off the Coffee Monkeys, preventing them from capturing the Thousand Sunny. Despite being outnumbered, Duval easily defeats the Coffee Monkeys' forces to protect the ship of his benefactors.",
+      "significance": "Demonstrates Duval's gratitude and loyalty to the Straw Hat Pirates, particularly to Sanji who changed his life by fixing his face. It also shows that the Thousand Sunny is being protected during the crew's two-year separation.",
+      "characterIds": ["duval"],
+      "locationIds": ["sabaody-archipelago"],
+      "crewIds": ["rosy-life-riders", "coffee-monkeys"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [399, 400]
+    },
+    {
+      "id": "ep512-event-007",
+      "episodeNumber": 512,
+      "timestamp": "11:00",
+      "eventType": "LOCATION_ARRIVAL",
+      "title": "Luffy Travels with Kuja Pirates",
+      "description": "Luffy, Rayleigh, and Jinbe are shown aboard the Kuja Pirates' ship, being led to Luffy's training location. The Kuja women pull on Luffy's stretchy skin while ensuring he is resting properly as per their captain Boa Hancock's orders.",
+      "significance": "Shows the journey to Luffy's training location and demonstrates Hancock's continued care for Luffy through her crew's attentiveness.",
+      "characterIds": ["luffy", "rayleigh", "jinbe", "hancock"],
+      "locationIds": [],
+      "crewIds": ["kuja-pirates"],
+      "quotes": [
+        {
+          "text": "We are used to long travels. We have to make sure you are resting as per our captain's orders.",
+          "speaker": "Kuja Pirates",
+          "context": "The Kuja Pirates ensuring Luffy rests during the journey"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [511],
+      "payoffInEpisodes": [516],
+      "callbacksToEpisodes": [410, 411, 412]
+    },
+    {
+      "id": "ep512-event-008",
+      "episodeNumber": 512,
+      "timestamp": "12:15",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "title": "Luffy Worries About His Message",
+      "description": "Luffy expresses concern about whether his crew will understand the hidden message he sent through the newspaper. Rayleigh reassures him, confidently stating that his crew will understand, though he mentions there might be one among them who seems a bit dense.",
+      "significance": "Sets up the reveal of each crew member's understanding (or lack thereof) of the 3D2Y message, and foreshadows Zoro's difficulty in comprehending it due to his poor sense of direction and general denseness.",
+      "characterIds": ["luffy", "rayleigh", "zoro"],
+      "locationIds": [],
+      "quotes": [
+        {
+          "text": "Don't worry, they will understand the message. Although there is one amongst them who seemed dull.",
+          "speaker": "Rayleigh",
+          "context": "Rayleigh reassuring Luffy about his crew understanding the message while subtly referencing Zoro"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [510, 511],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep512-event-009",
+      "episodeNumber": 512,
+      "timestamp": "13:30",
+      "eventType": "MAJOR_DECISION",
+      "title": "Chopper Understands the Message",
+      "description": "On Torino Kingdom (the island of giant birds), Tony Tony Chopper receives the newspaper while sitting on the back of one of the birds. Upon reading the article and seeing the photograph, he immediately understands Luffy's hidden 3D2Y message.",
+      "significance": "Demonstrates Chopper's growth and intelligence, showing that despite his often naive personality, he can decipher complex hidden messages from his captain.",
+      "characterIds": ["chopper", "luffy"],
+      "locationIds": ["torino-kingdom"],
+      "quotes": [
+        {
+          "text": "Luffy! I understand the message!",
+          "speaker": "Chopper",
+          "context": "Chopper exclaiming his understanding of Luffy's coded message"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [511],
+      "payoffInEpisodes": [516, 517],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep512-event-010",
+      "episodeNumber": 512,
+      "timestamp": "14:45",
+      "eventType": "MAJOR_DECISION",
+      "title": "Robin Deciphers the Hidden Instruction",
+      "description": "Nico Robin, riding in a horse-drawn carriage in Tequila Wolf, reads the newspaper and immediately understands Luffy's hidden message. She acknowledges the coded instruction with her characteristic calm intelligence.",
+      "significance": "Robin's ability to decipher the message is particularly fitting given her expertise in interpreting ancient texts and hidden meanings, showcasing her intellectual capabilities.",
+      "characterIds": ["robin", "luffy"],
+      "locationIds": ["tequila-wolf"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [511],
+      "payoffInEpisodes": [516, 517],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep512-event-011",
+      "episodeNumber": 512,
+      "timestamp": "15:30",
+      "eventType": "MAJOR_DECISION",
+      "title": "Sanji Understands the Message",
+      "description": "In the Kamabakka Kingdom, Sanji reads the newspaper and indicates that he understood Luffy's 3D2Y message despite his difficult circumstances surrounded by the okama.",
+      "significance": "Shows that even in his predicament in the Kamabakka Kingdom, Sanji remains mentally sharp and connected to his crew, understanding Luffy's intentions.",
+      "characterIds": ["sanji", "luffy"],
+      "locationIds": ["kamabakka-kingdom"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [511],
+      "payoffInEpisodes": [516, 517],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep512-event-012",
+      "episodeNumber": 512,
+      "timestamp": "16:15",
+      "eventType": "MAJOR_DECISION",
+      "title": "Usopp Gets the Message",
+      "description": "After failing to escape the Boin Archipelago once again, Usopp is eating when a newspaper falls near him. Upon reading it and seeing Luffy's photograph, he also demonstrates that he understood the hidden 3D2Y message.",
+      "significance": "Despite his often comedic failures, Usopp shows his intelligence and understanding of his captain, proving his worth as a member of the crew.",
+      "characterIds": ["usopp", "luffy"],
+      "locationIds": ["boin-archipelago"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [511],
+      "payoffInEpisodes": [516, 517],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep512-event-013",
+      "episodeNumber": 512,
+      "timestamp": "17:00",
+      "eventType": "MAJOR_DECISION",
+      "title": "Nami Understands but Complains",
+      "description": "In Weatheria, Nami attempts to escape when Haredas stops her, pointing to the newspaper. Upon reading it, Nami understands the hidden message but comments on how selfish Luffy is for deciding on his own without considering their feelings.",
+      "significance": "Characteristically shows Nami's dual nature - her intelligence in understanding the message immediately, combined with her emotional response to Luffy's unilateral decision-making.",
+      "characterIds": ["nami", "luffy", "haredas"],
+      "locationIds": ["weatheria"],
+      "quotes": [
+        {
+          "text": "How selfish! Deciding on his own without thinking of our feelings again!",
+          "speaker": "Nami",
+          "context": "Nami's reaction after understanding Luffy's message to wait two years"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [511],
+      "payoffInEpisodes": [516, 517],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep512-event-014",
+      "episodeNumber": 512,
+      "timestamp": "18:00",
+      "eventType": "MAJOR_DECISION",
+      "title": "Franky Understands Despite His Injuries",
+      "description": "On Karakuri Island, Franky, having survived the massive explosion from accidentally self-destructing Vegapunk's laboratory and heavily damaged as a result, reads the news and exclaims that he understood Luffy's message.",
+      "significance": "Even in his severely damaged state, Franky's mind remains sharp enough to decipher the code, demonstrating his technical intelligence and loyalty to the crew.",
+      "characterIds": ["franky", "luffy"],
+      "locationIds": ["karakuri-island"],
+      "quotes": [
+        {
+          "text": "I understood the message from Luffy!",
+          "speaker": "Franky",
+          "context": "Franky exclaiming his understanding despite being heavily damaged"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [511],
+      "payoffInEpisodes": [516, 517],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep512-event-015",
+      "episodeNumber": 512,
+      "timestamp": "18:30",
+      "eventType": "CULTURAL_MOMENT",
+      "title": "Brook Imprisoned and Reading News",
+      "description": "Brook is shown imprisoned, muttering to himself about needing to escape his current situation. The scene implies he has also received the news about Luffy.",
+      "significance": "Sets up Brook's predicament and his need to escape from captivity in order to reunite with the crew after the two-year period.",
+      "characterIds": ["brook", "luffy"],
+      "locationIds": ["namakura-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [511],
+      "payoffInEpisodes": [516, 517],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep512-event-016",
+      "episodeNumber": 512,
+      "timestamp": "19:15",
+      "eventType": "CULTURAL_MOMENT",
+      "title": "Zoro Fails to Understand the Message",
+      "description": "Roronoa Zoro, in stark contrast to his crewmates, completely fails to interpret Luffy's hidden message due to his notorious habit of getting directions wrong and being easily confused. This confirms Rayleigh's earlier comment about one crew member being 'dense.'",
+      "significance": "Provides comedic relief while also being true to Zoro's character. Despite being the crew's strongest fighter after Luffy, his terrible sense of direction and occasional denseness are highlighted, making him the one person who doesn't understand the coded message.",
+      "characterIds": ["zoro", "luffy", "perona"],
+      "locationIds": ["kuraigana-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [511],
+      "payoffInEpisodes": [516, 517],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep512-event-017",
+      "episodeNumber": 512,
+      "timestamp": "20:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "title": "Dadan Family Cries for Ace",
+      "description": "The Dadan Family goes to Ace and Luffy's old treehouse in the forest. Dadan and her crew cry out to Ace's spirit, telling him that his brother whom he died saving is alive and that he should rest in peace.",
+      "significance": "This emotional scene demonstrates the deep impact Ace's death had on those who raised him and Luffy. It also shows the community's relief that Luffy survived and is honoring Ace's sacrifice by continuing to live.",
+      "characterIds": ["dadan", "ace", "luffy"],
+      "locationIds": ["mt-colubo", "windmill-village"],
+      "quotes": [
+        {
+          "text": "Ace! Your brother whom you died saving is alive! You should rest in peace!",
+          "speaker": "Dadan",
+          "context": "Dadan crying out to Ace's spirit at the old treehouse"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [504, 505],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [504, 505]
+    },
+    {
+      "id": "ep512-event-018",
+      "episodeNumber": 512,
+      "timestamp": "21:45",
+      "eventType": "WORLD_LORE",
+      "title": "The Meaning of 3D2Y Explained",
+      "description": "The episode reveals the full meaning of Luffy's coded message: the '3D' crossed out with an 'X' and replaced with '2Y' means that instead of meeting in 3 days as originally planned at Sabaody Archipelago, the crew should meet in 2 years. This gives everyone time to train and become stronger.",
+      "significance": "This is a pivotal moment in the series, establishing the two-year time skip that allows all the Straw Hat Pirates to train and develop new abilities. It shows Luffy's growth as a captain, recognizing that his crew needs to become stronger before continuing their journey in the New World.",
+      "characterIds": ["luffy", "rayleigh"],
+      "locationIds": [],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [405, 510, 511],
+      "payoffInEpisodes": [516, 517],
+      "callbacksToEpisodes": [405]
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": [],
+    "organizations": ["coffee-monkeys"]
+  },
+  "episodeRelationships": {
+    "setupFor": [513, 514, 515, 516, 517],
+    "payoffFrom": [505, 506, 510, 511],
+    "thematicLinks": [405, 516]
+  },
+  "quotes": [
+    {
+      "text": "Don't worry, they will understand the message. Although there is one amongst them who seemed dull.",
+      "speaker": "Rayleigh",
+      "context": "Reassuring Luffy about his crew understanding the 3D2Y message",
+      "timestamp": "12:15"
+    },
+    {
+      "text": "Luffy! I understand the message!",
+      "speaker": "Chopper",
+      "context": "Chopper's excited realization of the hidden meaning",
+      "timestamp": "13:30"
+    },
+    {
+      "text": "How selfish! Deciding on his own without thinking of our feelings again!",
+      "speaker": "Nami",
+      "context": "Nami's complaint after understanding the message",
+      "timestamp": "17:00"
+    },
+    {
+      "text": "Ace! Your brother whom you died saving is alive! You should rest in peace!",
+      "speaker": "Dadan",
+      "context": "Dadan crying at Ace and Luffy's old treehouse",
+      "timestamp": "20:30"
+    },
+    {
+      "text": "The wind does not blow east or west but blows directly to me!",
+      "speaker": "Buggy",
+      "context": "Buggy boasting about his fortune and connection to Luffy",
+      "timestamp": "04:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Communication and Understanding",
+      "description": "The episode explores how the Straw Hat Pirates, despite being scattered across the world, remain connected through their deep understanding of each other. Luffy's coded message demonstrates his growth as a captain and his crew's intelligence in deciphering it.",
+      "symbolism": "The 3D2Y tattoo represents both a message and a promise - a commitment to reunite stronger than before.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Grief and Moving Forward",
+      "description": "Through Dadan's emotional scene at the treehouse, the episode shows how those affected by Ace's death are beginning to process their grief. Luffy's survival and message give them hope and a reason to believe Ace's sacrifice wasn't in vain.",
+      "symbolism": "The old treehouse represents the past and childhood memories, while the newspaper represents the present and future.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Loyalty and Protection",
+      "description": "Duval's defense of the Thousand Sunny demonstrates the loyalty Luffy inspires in people. Even those who were once enemies become devoted allies willing to protect what matters to him.",
+      "symbolism": "The Thousand Sunny being protected symbolizes the preservation of the crew's dreams during their separation.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Bittersweet", "Hopeful", "Emotional", "Comedic"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Central figure whose message drives the episode",
+      "development": "Shows Luffy's growth as a captain, making difficult decisions for the good of his crew and trusting them to understand his intentions.",
+      "keyActions": [
+        "Travels with Rayleigh and Jinbe to training location",
+        "Worries about whether his crew will understand his message",
+        "His coded message reaches all his scattered crew members"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "rayleigh",
+      "role": "Mentor and reassuring presence",
+      "development": "Demonstrates his understanding of the Straw Hat crew's capabilities and his confidence in Luffy's judgment.",
+      "keyActions": [
+        "Reassures Luffy about his crew's intelligence",
+        "Travels with Luffy to the training location",
+        "Subtly references Zoro's denseness"
+      ],
+      "quotes": ["Don't worry, they will understand the message. Although there is one amongst them who seemed dull."]
+    },
+    {
+      "characterId": "zoro",
+      "role": "Comedic relief through his inability to understand the message",
+      "development": "Despite being one of the strongest crew members, Zoro's directional challenges and occasional denseness are highlighted.",
+      "keyActions": [
+        "Fails to interpret Luffy's coded message",
+        "Confirms Rayleigh's prediction about one 'dull' crew member"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "dadan",
+      "role": "Emotional anchor representing those grieving Ace",
+      "development": "Shows her processing of grief over Ace's death and relief at Luffy's survival.",
+      "keyActions": [
+        "Goes to Ace and Luffy's old treehouse with her crew",
+        "Cries out to Ace's spirit about Luffy being alive"
+      ],
+      "quotes": ["Ace! Your brother whom you died saving is alive! You should rest in peace!"]
+    },
+    {
+      "characterId": "duval",
+      "role": "Protector of the Thousand Sunny",
+      "development": "Demonstrates his continued loyalty to the Straw Hat Pirates, especially after Sanji changed his life.",
+      "keyActions": [
+        "Defends the Thousand Sunny from the Coffee Monkeys",
+        "Easily defeats the human traffickers threatening the ship"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime expands on the reactions of various characters receiving the news, showing more detailed scenes of each Straw Hat member's location and reaction.",
+      "episodeTimestamp": "throughout",
+      "mangaReference": "Chapters 593-594",
+      "type": "EXPANDED_SCENE"
+    },
+    {
+      "difference": "The anime adds more emotional depth to Dadan's scene at the treehouse, expanding her dialogue and showing more of the Dadan Family's grief.",
+      "episodeTimestamp": "20:30",
+      "mangaReference": "Chapter 594",
+      "type": "EXPANDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the beginning of the countdown to the two-year time skip, one of the most significant narrative jumps in One Piece history.",
+      "category": "NARRATIVE",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_512",
+          "title": "Episode 512 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-16"
+        }
+      ]
+    },
+    {
+      "fact": "The opening theme 'Fight Together' by Namie Amuro was specifically chosen for the Post-War Arc to reflect the themes of separation and the promise to reunite.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Fight_Together",
+          "title": "Fight Together - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-16"
+        }
+      ]
+    },
+    {
+      "fact": "Rayleigh's comment about 'one dull crew member' is a humorous reference to Zoro, who despite being vice-captain material, has terrible directional sense and sometimes misses obvious clues.",
+      "category": "CHARACTER",
+      "sources": []
+    },
+    {
+      "fact": "Episode 512 had a TV rating of 11.0%, ranking 3rd in its time slot when it aired in Japan.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_512",
+          "title": "Episode 512 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-16"
+        }
+      ]
+    },
+    {
+      "fact": "This episode adapts portions of two manga chapters (593 and 594) rather than a single complete chapter, showing the anime's pacing strategy during this arc.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_512",
+          "title": "Episode 512 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-16"
+        }
+      ]
+    },
+    {
+      "fact": "The Coffee Monkeys are human traffickers, not bounty hunters, reflecting the darker criminal elements present in Sabaody Archipelago.",
+      "category": "WORLD_BUILDING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Coffee_Monkeys",
+          "title": "Coffee Monkeys - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-16"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": [],
+  "mangaChapters": [
+    {
+      "chapterNumber": 593,
+      "pages": "12-19",
+      "title": "News",
+      "volume": 60
+    },
+    {
+      "chapterNumber": 594,
+      "pages": "15-17",
+      "title": "Message",
+      "volume": 60
+    }
+  ]
+}
