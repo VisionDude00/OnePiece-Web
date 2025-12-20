@@ -1,0 +1,138 @@
+[
+  {
+    "name": {
+      "english": "Bluejam Pirates",
+      "japanese": "ブルージャム海賊団",
+      "romanized": "Burūjamu Kaizokudan"
+    },
+    "debutEpisode": 494,
+    "debutChapter": 583,
+    "episodeAppearances": [495],
+    "captainId": "bluejam",
+    "members": [
+      {
+        "characterId": "bluejam",
+        "role": "Captain",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "status": "ACTIVE"
+      },
+      {
+        "characterId": "porchemy",
+        "role": "Member",
+        "episodeJoined": null,
+        "episodeLeft": 495,
+        "status": "DECEASED"
+      }
+    ],
+    "affiliationType": "PIRATE_CREW",
+    "baseLocation": "Gray Terminal",
+    "seaRegion": "EAST_BLUE",
+    "keyMoments": [
+      {
+        "episodeNumber": 495,
+        "eventId": "ep495-event-005",
+        "momentType": "MEMBER_DEATH",
+        "title": "Bluejam Executes Porchemy",
+        "description": "Captain Bluejam kills his own crew member Porchemy for failing to retrieve information from Luffy and being defeated by children.",
+        "significance": "Demonstrates the ruthless nature of the Bluejam Pirates and their captain's lack of mercy for failure.",
+        "timestamp": "15:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 495,
+        "episodeEnd": "present",
+        "reason": "The crew continues to operate in Gray Terminal"
+      }
+    ],
+    "enemyCrews": ["dadan-family"],
+    "allyCrews": [],
+    "goals": ["Searching for treasure stolen by Ace and Sabo", "Controlling Gray Terminal"],
+    "jollyRoger": ""
+  },
+  {
+    "name": {
+      "english": "Dadan Family",
+      "japanese": "ダダン一家",
+      "romanized": "Dadan Ikka"
+    },
+    "debutEpisode": 494,
+    "debutChapter": 582,
+    "episodeAppearances": [495],
+    "captainId": "dadan",
+    "members": [
+      {
+        "characterId": "dadan",
+        "role": "Leader",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "status": "ACTIVE"
+      },
+      {
+        "characterId": "ace",
+        "role": "Ward",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "status": "ACTIVE"
+      },
+      {
+        "characterId": "luffy",
+        "role": "Ward",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "status": "ACTIVE"
+      },
+      {
+        "characterId": "sabo",
+        "role": "Member",
+        "episodeJoined": 495,
+        "episodeLeft": null,
+        "status": "ACTIVE"
+      },
+      {
+        "characterId": "dogra",
+        "role": "Member",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "status": "ACTIVE"
+      },
+      {
+        "characterId": "magra",
+        "role": "Member",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "status": "ACTIVE"
+      }
+    ],
+    "affiliationType": "MOUNTAIN_BANDITS",
+    "baseLocation": "Mt. Colubo",
+    "seaRegion": "EAST_BLUE",
+    "keyMoments": [
+      {
+        "episodeNumber": 495,
+        "eventId": "ep495-event-006",
+        "momentType": "CREW_JOIN",
+        "title": "Sabo Joins the Dadan Family",
+        "description": "Sabo decides to stay at Mt. Colubo with the Dadan Family, joining Ace and Luffy as part of their household.",
+        "significance": "Completes the trio of brothers who will train together and establishes their shared home base.",
+        "timestamp": "20:15"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 495,
+        "episodeEnd": "present",
+        "reason": "The Dadan Family continues to operate on Mt. Colubo"
+      }
+    ],
+    "enemyCrews": ["bluejam-pirates"],
+    "allyCrews": [],
+    "goals": ["Protecting and raising Ace, Luffy, and Sabo"],
+    "jollyRoger": ""
+  }
+]

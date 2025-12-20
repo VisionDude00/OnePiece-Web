@@ -1,0 +1,513 @@
+{
+  "episodeNumber": 494,
+  "episodeTitle": "Here Comes Sabo! The Boy at the Gray Terminal!",
+  "episodeTitleJapanese": "サボ登場！不確かな物の終着駅の少年",
+  "episodeTitleRomanized": "Sabo Tōjō! Gurei Tāminaru no Shōnen",
+  "description": "While searching for Ace in the forest, young Luffy discovers Gray Terminal, a lawless slum filled with trash and homeless people. He witnesses Ace stealing treasure from pirates and follows him to meet Sabo. After accidentally discovering their secret treasure stash, Luffy is captured and brutally tortured by Porchemy of the Bluejam Pirates, but refuses to betray his new friends.",
+  "airDate": "2011-04-17",
+  "airDateJapan": "2011-04-17",
+  "airDateUS": "2014-06-17",
+  "airDateUSFunimation": "2011-04-16",
+  "arcName": "Post-War Arc",
+  "sagaName": "Fish-Man Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Fight Together",
+    "titleJapanese": "ファイト・トゥギャザー",
+    "artist": "Namie Amuro",
+    "composer": "Sho Sakakura",
+    "lyricist": "Michico",
+    "episodeRange": [493, 516]
+  },
+  "endingSong": null,
+  "credits": {
+    "director": "Katsumi Tokoro",
+    "screenplay": "Jin Tanaka",
+    "artDirector": "Miho Shiraishi",
+    "animationDirector": "Kenji Yokoyama",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy (Young)",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Portgas D. Ace (Young)",
+        "actor": "Daisuke Sakaguchi"
+      },
+      {
+        "character": "Sabo (Young)",
+        "actor": "Tōru Furuya"
+      },
+      {
+        "character": "Porchemy",
+        "actor": "Yasuhiro Takato"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy (Young)",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Portgas D. Ace (Young)",
+        "actor": "Jesse Hooker"
+      },
+      {
+        "character": "Sabo (Young)",
+        "actor": "Vic Mignogna"
+      },
+      {
+        "character": "Porchemy",
+        "actor": "Ben Phillips"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep494-event-001",
+      "episodeNumber": 494,
+      "timestamp": "03:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Luffy Discovers Gray Terminal",
+      "description": "Young Luffy reaches the edge of the forest and discovers Gray Terminal, a massive lawless slum and junkyard where the trash and unwanted people of Goa Kingdom are dumped. He observes the poor inhabitants searching through garbage for valuables.",
+      "significance": "First introduction to Gray Terminal, which becomes a crucial location in understanding the dark side of the supposedly beautiful Goa Kingdom and the harsh reality of class division in the One Piece world.",
+      "characterIds": ["luffy"],
+      "locationIds": ["gray-terminal"],
+      "quotes": [
+        {
+          "text": "What is this place? It's full of trash!",
+          "speaker": "Luffy",
+          "context": "Luffy's first reaction upon seeing Gray Terminal"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [493],
+      "payoffInEpisodes": [495, 496, 497],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep494-event-002",
+      "episodeNumber": 494,
+      "timestamp": "05:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "CRITICAL",
+      "title": "Sabo's First Appearance",
+      "description": "Sabo is introduced for the first time as a 10-year-old blond boy who works with Ace, robbing thieves and pirates around Gray Terminal. He and Ace have been collecting treasure for their dream of becoming pirates.",
+      "significance": "The debut of Sabo, the third brother of the ASL trio, who will become a crucial character in Luffy's backstory and future storylines. This marks the beginning of one of One Piece's most emotional character arcs.",
+      "characterIds": ["sabo", "ace"],
+      "locationIds": ["gray-terminal"],
+      "quotes": [
+        {
+          "text": "Did you get the treasure, Ace?",
+          "speaker": "Sabo",
+          "context": "Sabo's first words in the series, asking Ace about their latest heist"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [493],
+      "payoffInEpisodes": [495, 496, 497, 663, 664],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep494-event-003",
+      "episodeNumber": 494,
+      "timestamp": "06:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Ace and Sabo Rob Bluejam Pirates",
+      "description": "Ace successfully robs two members of the Bluejam Pirates who were transporting treasure. The stolen loot is added to Ace and Sabo's secret savings for their future as pirates.",
+      "significance": "Demonstrates the survival tactics Ace and Sabo use in Gray Terminal and establishes the conflict with the Bluejam Pirates that will drive the episode's main conflict.",
+      "characterIds": ["ace", "sabo"],
+      "crewIds": ["bluejam-pirates"],
+      "locationIds": ["gray-terminal"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [494],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep494-event-004",
+      "episodeNumber": 494,
+      "timestamp": "08:20",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Luffy Discovers the Secret Treasure Stash",
+      "description": "Following Ace through the forest, Luffy accidentally stumbles upon Ace and Sabo's secret treasure hiding spot, a hollow tree where they've been storing all their stolen loot for years. Ace and Sabo panic upon realizing their secret has been discovered.",
+      "significance": "This discovery sets up the central conflict of the episode and tests whether Luffy can be trusted, ultimately becoming the catalyst for the formation of the three brothers' bond.",
+      "characterIds": ["luffy", "ace", "sabo"],
+      "locationIds": ["forest"],
+      "quotes": [
+        {
+          "text": "So this is where you've been hiding all that treasure!",
+          "speaker": "Luffy",
+          "context": "Luffy reveals he found their secret stash"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [493],
+      "payoffInEpisodes": [494],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep494-event-005",
+      "episodeNumber": 494,
+      "timestamp": "10:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Ace and Sabo Tie Luffy to a Tree",
+      "description": "To prevent Luffy from revealing the location of their treasure, Ace and Sabo tie him to a tree. Despite having never killed before, they debate whether they should kill Luffy to protect their secret, though neither knows how to go through with it.",
+      "significance": "Shows the moral conflict between survival necessity and their fundamental inability to kill, especially a child. This moment highlights the desperation of their situation in Gray Terminal.",
+      "characterIds": ["luffy", "ace", "sabo"],
+      "locationIds": ["forest"],
+      "quotes": [
+        {
+          "text": "What should we do? We've never killed anyone before...",
+          "speaker": "Sabo",
+          "context": "Sabo and Ace debate what to do with Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [494],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep494-event-006",
+      "episodeNumber": 494,
+      "timestamp": "12:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Porchemy's Debut",
+      "description": "Porchemy, a large and violent member of the Bluejam Pirates, appears searching for the ones who stole his crew's treasure. When Luffy starts screaming while tied to the tree, Porchemy discovers all three boys.",
+      "significance": "Introduces Porchemy as an antagonist and sets up the torture scene that will test Luffy's loyalty and willpower.",
+      "characterIds": ["porchemy", "luffy", "ace", "sabo"],
+      "crewIds": ["bluejam-pirates"],
+      "locationIds": ["forest"],
+      "quotes": [
+        {
+          "text": "I found you! You're the ones who stole from the Bluejam Pirates!",
+          "speaker": "Porchemy",
+          "context": "Porchemy confronts the boys after hearing Luffy's screams"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [494, 495],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep494-event-007",
+      "episodeNumber": 494,
+      "timestamp": "14:00",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Porchemy Captures Luffy",
+      "description": "While Ace and Sabo manage to escape, Luffy is captured by Porchemy and taken to a secluded shack. Porchemy begins interrogating Luffy about the location of the stolen treasure.",
+      "significance": "Begins one of the most brutal sequences in young Luffy's flashback, setting up a pivotal character-defining moment.",
+      "characterIds": ["luffy", "porchemy"],
+      "locationIds": ["gray-terminal"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [494],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep494-event-008",
+      "episodeNumber": 494,
+      "timestamp": "15:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "CRITICAL",
+      "title": "Luffy's Torture Begins",
+      "description": "Porchemy brutally tortures 10-year-old Luffy to extract information about the treasure's location. He starts with a large mallet, and when that fails due to Luffy's rubber body, switches to spiked gloves to beat Luffy for hours. Despite the intense pain and suffering, Luffy refuses to reveal anything about Ace and Sabo's treasure.",
+      "significance": "One of the darkest and most character-defining moments in Luffy's childhood. This scene establishes Luffy's incredible willpower, loyalty, and ability to endure suffering rather than betray his friends - traits that become fundamental to his character throughout the series.",
+      "characterIds": ["luffy", "porchemy"],
+      "locationIds": ["gray-terminal"],
+      "quotes": [
+        {
+          "text": "I don't know anything about any treasure!",
+          "speaker": "Luffy",
+          "context": "Luffy's repeated response despite being tortured"
+        },
+        {
+          "text": "Tell me where the treasure is, or I'll beat you to death!",
+          "speaker": "Porchemy",
+          "context": "Porchemy threatening Luffy during the torture"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [494],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep494-event-009",
+      "episodeNumber": 494,
+      "timestamp": "18:45",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Ace and Sabo Realize Luffy's Loyalty",
+      "description": "Ace and Sabo, hiding nearby and listening to Luffy's screams, realize that despite hours of brutal torture, Luffy has not revealed the location of their treasure. They are deeply moved by Luffy's unwavering loyalty to them, even though they had just met.",
+      "significance": "This is the turning point where Ace and Sabo recognize Luffy as someone worthy of their trust and friendship. Luffy's actions prove his character and earn their respect, laying the foundation for their brotherhood.",
+      "characterIds": ["ace", "sabo", "luffy"],
+      "locationIds": ["gray-terminal"],
+      "quotes": [
+        {
+          "text": "He... he didn't tell them anything. Even after all that...",
+          "speaker": "Sabo",
+          "context": "Sabo realizes Luffy kept their secret"
+        },
+        {
+          "text": "We have to save him!",
+          "speaker": "Ace",
+          "context": "Ace decides they must rescue Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [494, 495],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep494-event-010",
+      "episodeNumber": 494,
+      "timestamp": "20:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Ace and Sabo Storm Porchemy's Hideout",
+      "description": "Determined to save Luffy, Ace and Sabo launch a rescue mission, bursting into the shack where Porchemy is holding Luffy captive. They confront Porchemy to free their new friend.",
+      "significance": "Demonstrates Ace and Sabo's growing bond with Luffy and their willingness to fight a dangerous adult pirate to protect him.",
+      "characterIds": ["ace", "sabo", "porchemy", "luffy"],
+      "locationIds": ["gray-terminal"],
+      "quotes": [
+        {
+          "text": "Let him go, Porchemy!",
+          "speaker": "Ace",
+          "context": "Ace confronts Porchemy to rescue Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [495],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep494-event-011",
+      "episodeNumber": 494,
+      "timestamp": "21:45",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Ace and Sabo Defeat Porchemy",
+      "description": "Working together, Ace and Sabo manage to defeat Porchemy and rescue Luffy from his captivity. Despite being children fighting an adult pirate, their teamwork and determination allow them to overcome Porchemy.",
+      "significance": "Shows the strength and capability of young Ace and Sabo, and marks the beginning of their acceptance of Luffy as part of their group.",
+      "characterIds": ["ace", "sabo", "porchemy", "luffy"],
+      "locationIds": ["gray-terminal"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [495],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep494-event-012",
+      "episodeNumber": 494,
+      "timestamp": "23:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Bluejam Mentioned",
+      "description": "The captain of the Bluejam Pirates, Bluejam himself, is mentioned and established as the leader of the crew operating in Gray Terminal, setting up his appearance in future episodes.",
+      "significance": "Establishes Bluejam as a future antagonist and the main threat in the Gray Terminal area.",
+      "characterIds": ["bluejam"],
+      "crewIds": ["bluejam-pirates"],
+      "locationIds": ["gray-terminal"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [495, 496, 497],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["sabo", "porchemy", "bluejam"],
+    "locations": ["gray-terminal"],
+    "devilFruits": [],
+    "crews": ["bluejam-pirates"],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [495, 496, 497],
+    "payoffFrom": [493],
+    "thematicLinks": [1, 583, 663, 664]
+  },
+  "quotes": [
+    {
+      "text": "I don't know anything about any treasure!",
+      "speaker": "Luffy",
+      "context": "Luffy refuses to betray Ace and Sabo despite brutal torture",
+      "timestamp": "16:00"
+    },
+    {
+      "text": "He didn't tell them anything. Even after all that...",
+      "speaker": "Sabo",
+      "context": "Sabo realizes Luffy's unwavering loyalty",
+      "timestamp": "18:45"
+    },
+    {
+      "text": "We have to save him!",
+      "speaker": "Ace",
+      "context": "Ace decides to rescue Luffy from Porchemy",
+      "timestamp": "19:00"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Loyalty and Brotherhood",
+      "description": "The episode explores the formation of bonds through loyalty. Luffy proves his trustworthiness by enduring torture rather than betraying Ace and Sabo, earning their respect and friendship.",
+      "symbolism": "Luffy's refusal to speak represents the unwavering loyalty that will define his relationships throughout the series.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Class Division and Social Injustice",
+      "description": "Gray Terminal represents the dark underbelly of the supposedly beautiful Goa Kingdom, showing how society discards both its waste and its unwanted people to the same place.",
+      "symbolism": "The trash heap symbolizes how the nobility views the lower class as disposable.",
+      "culturalReferences": ["Inspired by Smokey Mountain in the Philippines, a real-world garbage slum"]
+    },
+    {
+      "theme": "Willpower and Endurance",
+      "description": "At just 10 years old, Luffy demonstrates the incredible willpower that will become his defining trait, enduring hours of brutal torture without breaking.",
+      "symbolism": "The torture scene foreshadows Luffy's future ability to endure seemingly impossible challenges.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Dark", "Intense", "Emotional", "Tragic"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist (Young)",
+      "development": "Luffy proves his character by enduring torture rather than betraying his new friends. This establishes the core of who Luffy is - someone who values his friends above his own safety.",
+      "keyActions": [
+        "Discovers Gray Terminal",
+        "Finds Ace and Sabo's treasure",
+        "Refuses to reveal the treasure's location despite brutal torture",
+        "Gets rescued by Ace and Sabo"
+      ],
+      "quotes": ["I don't know anything about any treasure!"]
+    },
+    {
+      "characterId": "sabo",
+      "role": "Deuteragonist (First Appearance)",
+      "development": "Sabo is introduced as Ace's partner in their life as young thieves in Gray Terminal. His initial distrust of Luffy turns to respect after witnessing Luffy's loyalty.",
+      "keyActions": [
+        "Works with Ace to steal from pirates",
+        "Debates killing Luffy to protect their secret",
+        "Realizes Luffy won't betray them",
+        "Rescues Luffy from Porchemy"
+      ],
+      "quotes": ["He didn't tell them anything. Even after all that..."]
+    },
+    {
+      "characterId": "ace",
+      "role": "Deuteragonist",
+      "development": "Young Ace is shown as a skilled thief who initially sees Luffy as a nuisance but comes to respect him after seeing his unwavering loyalty.",
+      "keyActions": [
+        "Robs treasure from Bluejam Pirates",
+        "Ties Luffy to a tree",
+        "Decides to rescue Luffy",
+        "Defeats Porchemy with Sabo"
+      ],
+      "quotes": ["We have to save him!"]
+    },
+    {
+      "characterId": "porchemy",
+      "role": "Antagonist",
+      "development": "Porchemy serves as the episode's villain, a brutal pirate who tortures a child for information about stolen treasure.",
+      "keyActions": [
+        "Searches for the treasure thieves",
+        "Captures Luffy",
+        "Brutally tortures Luffy",
+        "Gets defeated by Ace and Sabo"
+      ],
+      "quotes": ["Tell me where the treasure is, or I'll beat you to death!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime expanded the Gray Terminal exploration sequences with additional scenes of Luffy observing the slum inhabitants.",
+      "episodeTimestamp": "03:15",
+      "mangaReference": "Chapter 583",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "The anime added extended scenes of Ace robbing the Bluejam Pirates members, showing more detail of the heist.",
+      "episodeTimestamp": "06:45",
+      "mangaReference": "Chapter 583",
+      "type": "ANIME_EXPANSION"
+    },
+    {
+      "difference": "The torture scene was extended in the anime with more detailed depiction of Porchemy's methods and Luffy's suffering.",
+      "episodeTimestamp": "15:30",
+      "mangaReference": "Chapter 584",
+      "type": "ANIME_EXPANSION"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode adapts manga chapters 583-584, covering Sabo's introduction and the torture scene.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_494",
+          "title": "Episode 494 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-15"
+        }
+      ]
+    },
+    {
+      "fact": "The torture scene in this episode is considered one of the darkest moments in One Piece, particularly impactful because Luffy is only 10 years old.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://www.tumblr.com/populationgo/5261136345/anime-review-one-piece-494-496",
+          "title": "Anime Review: One Piece 494-496",
+          "platform": "Tumblr",
+          "accessedAt": "2025-12-15"
+        }
+      ]
+    },
+    {
+      "fact": "Tōru Furuya voiced young Sabo in this episode. He continued in the role until 2024 when Miyu Irino took over following Furuya's resignation.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://www.behindthevoiceactors.com/characters/One-Piece/Sabo/",
+          "title": "Sabo Voices - One Piece",
+          "platform": "Behind The Voice Actors",
+          "accessedAt": "2025-12-15"
+        }
+      ]
+    },
+    {
+      "fact": "Gray Terminal was inspired by Smokey Mountain in the Philippines, a real garbage slum where people live and work sorting through trash.",
+      "category": "REAL_WORLD_INSPIRATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Goa_Kingdom",
+          "title": "Goa Kingdom - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-15"
+        }
+      ]
+    },
+    {
+      "fact": "From Episode 279 to Episode 1070 (except Episode 590), One Piece episodes did not feature ending themes, which is why this episode has no ending song.",
+      "category": "PRODUCTION",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

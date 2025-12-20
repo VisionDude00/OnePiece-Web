@@ -1,0 +1,161 @@
+[
+  {
+    "name": {
+      "english": "Marineford",
+      "japanese": "マリンフォード",
+      "romanized": "Marinfōdo"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Marineford",
+    "debutEpisode": 151,
+    "debutChapter": 234,
+    "description": "The headquarters of the Marines, site of the recent Summit War. After the war, it remains the location where aftermath events unfold, including the attack on Gecko Moria.",
+    "episodeAppearances": [490],
+    "keyEvents": [
+      {
+        "episodeNumber": 490,
+        "eventId": "ep490-event-001",
+        "eventType": "WORLD_LORE",
+        "title": "Impel Down Level 6 Breakout Revealed at Marineford",
+        "description": "Sengoku learns about the catastrophic Impel Down breakout and the World Government's cover-up order while at Marineford.",
+        "significance": "Shows the aftermath of the war and the continuing consequences at Marine Headquarters.",
+        "timestamp": "03:00"
+      },
+      {
+        "episodeNumber": 490,
+        "eventId": "ep490-event-007",
+        "eventType": "BATTLE_START",
+        "title": "Doflamingo Attacks Moria in Marineford Backstreets",
+        "description": "In the backstreets of Marineford, Gecko Moria is attacked by Pacifistas under Doflamingo's command.",
+        "significance": "Reveals the dark operations happening even at Marine Headquarters.",
+        "timestamp": "11:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 151,
+        "episodeEnd": 490,
+        "reason": "Functioning as Marine Headquarters"
+      },
+      {
+        "status": "DAMAGED",
+        "episodeStart": 490,
+        "episodeEnd": "present",
+        "reason": "Heavily damaged from the Summit War, eventually relocated"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": [],
+    "relatedCharacters": ["sengoku", "brannew", "doflamingo", "gecko-moria"],
+    "relatedCrews": ["marines", "blackbeard-pirates"],
+    "relatedArcs": ["Marineford Arc", "Post-War Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Polar Tang",
+      "japanese": "ポーラータング号",
+      "romanized": "Pōrā Tangu-gō"
+    },
+    "locationType": "SHIP",
+    "seaRegion": "GRAND_LINE",
+    "islandName": null,
+    "debutEpisode": 392,
+    "debutChapter": 504,
+    "description": "Trafalgar Law's submarine, where Luffy is being treated after the Summit War. The Heart Pirates' vessel serves as a safe haven from pursuing Marines.",
+    "episodeAppearances": [490],
+    "keyEvents": [
+      {
+        "episodeNumber": 490,
+        "eventId": "ep490-event-011",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Hancock Reaches Law's Submarine",
+        "description": "Boa Hancock tracks down and lands on the Polar Tang to check on Luffy's condition.",
+        "significance": "Shows the submarine as Luffy's current location and refuge.",
+        "timestamp": "17:30"
+      },
+      {
+        "episodeNumber": 490,
+        "eventId": "ep490-event-013",
+        "eventType": "BACKSTORY_REVEAL",
+        "title": "Jinbe Emerges from Submarine",
+        "description": "Jinbe comes out from the submarine to express his guilt and shame over failing to protect his comrades.",
+        "significance": "Establishes the submarine as the location where both Luffy and Jinbe are recovering.",
+        "timestamp": "19:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 392,
+        "episodeEnd": "present",
+        "reason": "Serving as the Heart Pirates' main vessel"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": [],
+    "relatedCharacters": ["trafalgar-law", "boa-hancock", "jinbe", "bepo", "luffy", "emporio-ivankov"],
+    "relatedCrews": ["heart-pirates"],
+    "relatedArcs": ["Post-War Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Impel Down",
+      "japanese": "インペルダウン",
+      "romanized": "Inperu Daun"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "CALM_BELT",
+    "islandName": "Impel Down",
+    "debutEpisode": 422,
+    "debutChapter": 525,
+    "description": "The world's greatest prison, now in catastrophic condition after Blackbeard's raid and mass Level 6 prisoner escape. Magellan is severely injured and many dangerous criminals are now loose.",
+    "episodeAppearances": [490],
+    "keyEvents": [
+      {
+        "episodeNumber": 490,
+        "eventId": "ep490-event-001",
+        "eventType": "WORLD_LORE",
+        "title": "Impel Down Level 6 Breakout Revealed",
+        "description": "The full extent of the Impel Down breakout is revealed, with many Level 6 prisoners escaped and Magellan severely injured.",
+        "significance": "Shows the catastrophic consequences of Blackbeard's infiltration and the World Government's cover-up.",
+        "timestamp": "03:00"
+      },
+      {
+        "episodeNumber": 490,
+        "eventId": "ep490-event-002",
+        "eventType": "CREW_JOIN",
+        "title": "Blackbeard's Level 6 Recruitment Revealed",
+        "description": "Blackbeard's brutal death match recruitment process in Level 6 is revealed, showing how he selected his new crew members.",
+        "significance": "Establishes Impel Down as the source of the world's newest major threats.",
+        "timestamp": "05:30"
+      }
+    ],
+    "status": "DAMAGED",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 422,
+        "episodeEnd": 452,
+        "reason": "Functioning as the world's greatest prison"
+      },
+      {
+        "status": "DAMAGED",
+        "episodeStart": 452,
+        "episodeEnd": "present",
+        "reason": "Catastrophically damaged from Blackbeard's raid and mass prisoner escape"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": [],
+    "relatedCharacters": ["blackbeard", "magellan", "catarina-devon", "vasco-shot", "sanjuan-wolf", "avalo-pizarro", "shiryu"],
+    "relatedCrews": ["blackbeard-pirates"],
+    "relatedArcs": ["Impel Down Arc", "Post-War Arc"],
+    "images": []
+  }
+]

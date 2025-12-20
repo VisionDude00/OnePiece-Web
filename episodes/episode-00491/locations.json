@@ -1,0 +1,141 @@
+[
+  {
+    "name": {
+      "english": "Amazon Lily",
+      "japanese": "女ヶ島",
+      "romanized": "Nyōgashima"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "CALM_BELT",
+    "islandName": "Amazon Lily",
+    "debutEpisode": 408,
+    "debutChapter": 514,
+    "description": "The island of women, home to the Kuja tribe and ruled by Boa Hancock. Located in the Calm Belt, it is protected from most outsiders by Sea Kings and the Kuja's strict laws against men.",
+    "episodeAppearances": [491],
+    "keyEvents": [
+      {
+        "episodeNumber": 491,
+        "eventId": "ep491-event-003",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Heart Pirates and Hancock Arrive with Luffy",
+        "description": "Boa Hancock and the Heart Pirates arrive at Amazon Lily with the unconscious Luffy to treat him after the Marineford War.",
+        "significance": "Amazon Lily serves as the safe haven where Luffy will recover from the trauma of Marineford.",
+        "timestamp": "05:30"
+      },
+      {
+        "episodeNumber": 491,
+        "eventId": "ep491-event-007",
+        "eventType": "MAJOR_DECISION",
+        "title": "Luffy Awakens and Destroys Submarine",
+        "description": "Luffy wakes up at Amazon Lily and violently destroys the Heart Pirates' submarine while searching for Ace.",
+        "significance": "The beginning of Luffy's emotional breakdown at this location.",
+        "timestamp": "12:15"
+      },
+      {
+        "episodeNumber": 491,
+        "eventId": "ep491-event-008",
+        "eventType": "MAJOR_DECISION",
+        "title": "Luffy's Rampage in Amazon Lily Forest",
+        "description": "Luffy runs into the Amazon Lily forest, destroying trees and vegetation in his grief-stricken rage.",
+        "significance": "The forest becomes the setting for Luffy's darkest emotional moment.",
+        "timestamp": "14:45"
+      },
+      {
+        "episodeNumber": 491,
+        "eventId": "ep491-event-009",
+        "eventType": "MAJOR_DECISION",
+        "title": "Jinbe Confronts Luffy in the Forest",
+        "description": "In the Amazon Lily forest, Jinbe finds Luffy and helps him confront the reality of Ace's death.",
+        "significance": "A pivotal emotional moment where Luffy accepts his loss.",
+        "timestamp": "17:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [],
+    "parentLocation": "Calm Belt",
+    "childLocations": ["Amazon Lily Forest", "Amazon Lily Bay", "Kuja Palace"],
+    "relatedCharacters": ["boa-hancock", "gloriosa", "marguerite", "kikyo", "luffy", "jinbe"],
+    "relatedCrews": ["kuja-pirates", "heart-pirates"],
+    "relatedArcs": ["Amazon Lily Arc", "Post-War Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Foodvalten Island",
+      "japanese": "フードヴァルテン島",
+      "romanized": "Fūdovaruten-tō"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Foodvalten",
+    "debutEpisode": 491,
+    "debutChapter": 581,
+    "description": "An island in the New World that was formerly under Whitebeard's protection. After his death, it was seized by the pirate Brownbeard.",
+    "episodeAppearances": [491],
+    "keyEvents": [
+      {
+        "episodeNumber": 491,
+        "eventId": "ep491-event-001",
+        "eventType": "WORLD_LORE",
+        "title": "Brownbeard Seizes Foodvalten Island",
+        "description": "Brownbeard declares that Foodvalten is no longer Whitebeard territory and claims it as his own, announcing himself as the new ruler to the islanders.",
+        "significance": "Demonstrates the immediate consequences of Whitebeard's death and the power vacuum in the New World.",
+        "timestamp": "02:15"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "UNDER_WHITEBEARD_PROTECTION",
+        "episodeStart": null,
+        "episodeEnd": 490,
+        "reason": "Island was protected by Whitebeard before his death"
+      },
+      {
+        "status": "SEIZED_BY_BROWNBEARD",
+        "episodeStart": 491,
+        "episodeEnd": "unknown",
+        "reason": "Brownbeard took over after Whitebeard's death"
+      }
+    ],
+    "parentLocation": "New World",
+    "childLocations": [],
+    "relatedCharacters": ["brownbeard"],
+    "relatedCrews": ["brownbeard-pirates"],
+    "relatedArcs": ["Post-War Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Las Camp",
+      "japanese": "ラスキャンプ",
+      "romanized": "Rasu Kyanpu"
+    },
+    "locationType": "VILLAGE",
+    "seaRegion": "WEST_BLUE",
+    "islandName": null,
+    "debutEpisode": 491,
+    "debutChapter": 581,
+    "description": "A village in West Blue that came under attack by rioting pirates in the aftermath of the Marineford War.",
+    "episodeAppearances": [491],
+    "keyEvents": [
+      {
+        "episodeNumber": 491,
+        "eventId": "ep491-event-002",
+        "eventType": "WORLD_LORE",
+        "title": "Las Camp Under Attack",
+        "description": "Marines receive reports that Las Camp is being attacked by rioting pirates, but they are too overwhelmed with the surge of piracy to respond effectively.",
+        "significance": "Shows the widespread chaos across all the Blues following Whitebeard's death and the Marineford War.",
+        "timestamp": "03:45"
+      }
+    ],
+    "status": "UNDER_ATTACK",
+    "statusHistory": [],
+    "parentLocation": "West Blue",
+    "childLocations": [],
+    "relatedCharacters": [],
+    "relatedCrews": [],
+    "relatedArcs": ["Post-War Arc"],
+    "images": []
+  }
+]

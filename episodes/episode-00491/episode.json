@@ -1,0 +1,487 @@
+{
+  "episodeNumber": 491,
+  "episodeTitle": "Landing at the Maiden Island! The Harsh Reality Falls upon Luffy!",
+  "description": "After the Battle of Marineford, Luffy arrives at Amazon Lily aboard the Heart Pirates' submarine with Jinbe and Boa Hancock. Upon waking from unconsciousness, Luffy frantically searches for Ace, destroying the submarine and rampaging through the forest. Jinbe helps Luffy confront the painful reality that Ace is dead, leading to an emotional breakdown. Meanwhile, Brownbeard seizes control of Foodvalten Island, and piracy surges across the seas following Whitebeard's death.",
+  "airDate": "2011-03-27",
+  "airDateJapan": "2011-03-27",
+  "airDateUS": "2011-03-26",
+  "arcName": "Post-War Arc",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "One day",
+    "artist": "The ROOTLESS",
+    "episodeRange": [459, 492]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Masayuki Takagi",
+    "episodeDirector": "Makoto Sonoda",
+    "screenplay": "Yoshiyuki Suga",
+    "artDirection": "Miho Shiraishi",
+    "storyboard": "Eisaku Inoue, Makoto Sonoda",
+    "keyAnimators": ["Masayuki Takagi", "Eisaku Inoue"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Daisuke Gōri"
+      },
+      {
+        "character": "Boa Hancock",
+        "actor": "Kotono Mitsuishi"
+      },
+      {
+        "character": "Trafalgar Law",
+        "actor": "Hiroshi Kamiya"
+      },
+      {
+        "character": "Emporio Ivankov",
+        "actor": "Mitsuo Iwata"
+      },
+      {
+        "character": "Bepo",
+        "actor": "Yasuhiro Takato"
+      },
+      {
+        "character": "Gloriosa (Elder Nyon)",
+        "actor": "Masako Nozawa"
+      },
+      {
+        "character": "Marguerite",
+        "actor": "Masumi Asano"
+      },
+      {
+        "character": "Kikyo",
+        "actor": "Mie Sonozaki"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Daniel Baugh"
+      },
+      {
+        "character": "Boa Hancock",
+        "actor": "Lydia Mackay"
+      },
+      {
+        "character": "Trafalgar Law",
+        "actor": "Matthew Mercer"
+      },
+      {
+        "character": "Emporio Ivankov",
+        "actor": "Megan Hollingshead"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep491-event-001",
+      "episodeNumber": 491,
+      "timestamp": "02:15",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Brownbeard Seizes Foodvalten Island",
+      "description": "Following Whitebeard's death, the pirate Brownbeard declares Foodvalten Island no longer a Whitebeard territory and claims it for himself. He announces to the islanders that he will be their new ruler, taking advantage of the power vacuum left by the fall of the Whitebeard Pirates.",
+      "significance": "Demonstrates the immediate global impact of Whitebeard's death and the beginning of territorial struggles as his protection vanishes. This sets up the lawlessness that will define the Post-War period.",
+      "characterIds": ["brownbeard"],
+      "locationIds": ["foodvalten-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [483, 484],
+      "payoffInEpisodes": [579, 580],
+      "callbacksToEpisodes": [483]
+    },
+    {
+      "id": "ep491-event-002",
+      "episodeNumber": 491,
+      "timestamp": "03:45",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Las Camp Village Under Attack",
+      "description": "Marines receive a report that Las Camp village in West Blue is being attacked by rioting pirates. The Marines are already overwhelmed with the surge of piracy following the war at Marineford and struggle to respond to all the incidents.",
+      "significance": "Shows the widespread chaos across all the Blues following Whitebeard's death and the Marineford War, illustrating how the balance of power has shifted globally.",
+      "characterIds": [],
+      "locationIds": ["las-camp"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [483],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep491-event-003",
+      "episodeNumber": 491,
+      "timestamp": "05:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Heart Pirates and Hancock Arrive at Amazon Lily",
+      "description": "The Kuja Pirates' ship meets with the Heart Pirates' submarine, Polar Tang, in the waters near Amazon Lily. Boa Hancock decides to bring the unconscious Luffy to her home island for treatment. Due to Kuja law forbidding men on the island, the Heart Pirates and Jinbe are permitted to dock at the gulf but cannot enter the palace.",
+      "significance": "Establishes Amazon Lily as the safe haven where Luffy will recover from the trauma of Marineford. Shows Hancock's devotion to Luffy as she bends the rules to help him.",
+      "characterIds": ["luffy", "boa-hancock", "trafalgar-law", "jinbe", "bepo"],
+      "locationIds": ["amazon-lily"],
+      "crewIds": ["heart-pirates", "kuja-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [490],
+      "payoffInEpisodes": [492, 493],
+      "callbacksToEpisodes": [408, 409, 410, 411, 412, 413, 414, 415]
+    },
+    {
+      "id": "ep491-event-004",
+      "episodeNumber": 491,
+      "timestamp": "07:20",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MINOR",
+      "title": "Ivankov Bids Farewell to Jinbe",
+      "description": "Emporio Ivankov thanks Jinbe and says goodbye, expressing gratitude for meeting him through Luffy. The revolutionaries prepare to depart while Luffy remains unconscious under Hancock's care.",
+      "significance": "Shows the bonds formed during the Marineford battle and Ivankov's appreciation for Jinbe's role in saving Luffy. Marks Ivankov's departure from the immediate narrative.",
+      "characterIds": ["emporio-ivankov", "jinbe"],
+      "locationIds": ["amazon-lily"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [438, 439],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [438]
+    },
+    {
+      "id": "ep491-event-005",
+      "episodeNumber": 491,
+      "timestamp": "08:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Hancock and Nyon Argue Over Men on the Island",
+      "description": "Elder Nyon (Gloriosa) and Boa Hancock engage in a heated argument about allowing the Heart Pirates to stay on Amazon Lily. They eventually reach a compromise, permitting the men to dock at the bay but not enter the main island or palace.",
+      "significance": "Demonstrates the tension between Kuja traditions and Hancock's desire to help Luffy. Shows Hancock's growing willingness to bend rules for Luffy's sake.",
+      "characterIds": ["boa-hancock", "gloriosa"],
+      "locationIds": ["amazon-lily"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [411],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [411, 412]
+    },
+    {
+      "id": "ep491-event-006",
+      "episodeNumber": 491,
+      "timestamp": "10:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Heart Pirates Dock at Amazon Lily Bay",
+      "description": "The Heart Pirates enter the harbor and are initially met with hostility from the Kuja warriors. After the compromise is reached, they are allowed to dock at the bay where they receive food and basic hospitality from the Kuja.",
+      "significance": "Shows the unusual cooperation between the all-female Kuja tribe and male pirates, demonstrating Hancock's influence and the seriousness of Luffy's condition.",
+      "characterIds": ["trafalgar-law", "bepo"],
+      "locationIds": ["amazon-lily"],
+      "crewIds": ["heart-pirates", "kuja-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [490],
+      "payoffInEpisodes": [505],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep491-event-007",
+      "episodeNumber": 491,
+      "timestamp": "12:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Luffy Awakens Searching for Ace",
+      "description": "After days of being unconscious, Luffy suddenly awakens inside the Heart Pirates' submarine screaming 'Where is Ace?' He violently destroys the submarine from the inside and pushes away the Heart Pirates crew members who try to restrain him, desperately searching for his brother.",
+      "significance": "The beginning of Luffy's traumatic realization that Ace's death was real and not a nightmare. This marks the start of Luffy's darkest emotional moment in the series and his struggle to accept the loss.",
+      "characterIds": ["luffy", "trafalgar-law", "bepo"],
+      "locationIds": ["amazon-lily"],
+      "quotes": [
+        {
+          "text": "Where is Ace?!",
+          "speaker": "Luffy",
+          "context": "Luffy's first words upon waking, revealing his denial of Ace's death"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [483, 484, 490],
+      "payoffInEpisodes": [492, 493],
+      "callbacksToEpisodes": [483, 484]
+    },
+    {
+      "id": "ep491-event-008",
+      "episodeNumber": 491,
+      "timestamp": "14:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Luffy's Rampage in the Forest",
+      "description": "Unable to find Ace and still in denial, Luffy runs into the Amazon Lily forest, destroying trees and vegetation in anguish. He violently punches and headbutts trees while memories of Ace's death at Marineford flash through his mind, screaming for the memories to disappear.",
+      "significance": "Depicts Luffy's complete emotional breakdown and his desperate attempt to escape the reality of Ace's death. Shows a side of Luffy never seen before - completely overwhelmed by grief and unable to process his loss.",
+      "characterIds": ["luffy"],
+      "locationIds": ["amazon-lily"],
+      "quotes": [
+        {
+          "text": "Disappear! Disappear!",
+          "speaker": "Luffy",
+          "context": "Luffy trying to make the painful memories of Ace's death go away"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [483, 484],
+      "payoffInEpisodes": [492, 493],
+      "callbacksToEpisodes": [483, 484]
+    },
+    {
+      "id": "ep491-event-009",
+      "episodeNumber": 491,
+      "timestamp": "17:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Jinbe Confronts Luffy About Ace's Death",
+      "description": "Jinbe finds Luffy in the forest and attempts to make him face reality. When Jinbe tries to tell Luffy about Ace, Luffy desperately tells him not to speak. However, Jinbe persists, knowing Luffy must confront the truth. Through their conversation, Luffy is forced to acknowledge that Ace is truly dead.",
+      "significance": "A pivotal moment where Jinbe takes on the role of emotional anchor for Luffy, forcing him to face the painful truth. This begins Jinbe's deeper bond with Luffy and establishes him as someone who can reach Luffy during his darkest moments.",
+      "characterIds": ["luffy", "jinbe"],
+      "locationIds": ["amazon-lily"],
+      "quotes": [
+        {
+          "text": "Don't say it! Don't say anything!",
+          "speaker": "Luffy",
+          "context": "Luffy desperately trying to avoid hearing the truth about Ace"
+        },
+        {
+          "text": "Ace... died, didn't he?",
+          "speaker": "Luffy",
+          "context": "Luffy finally forcing himself to say the words and accept reality"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [483, 484, 490],
+      "payoffInEpisodes": [492, 493],
+      "callbacksToEpisodes": [483, 484]
+    },
+    {
+      "id": "ep491-event-010",
+      "episodeNumber": 491,
+      "timestamp": "19:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Luffy's Emotional Breakdown",
+      "description": "After accepting that Ace is truly dead, Luffy breaks down completely, weeping uncontrollably. His anguished cries echo through the Amazon Lily forest as the full weight of his loss crashes down on him. This marks the lowest emotional point in Luffy's journey.",
+      "significance": "One of the most powerful emotional moments in One Piece. Shows Luffy's vulnerability and humanity, contrasting with his usual resilience. This breakdown is necessary for Luffy to eventually heal and find the strength to move forward.",
+      "characterIds": ["luffy", "jinbe"],
+      "locationIds": ["amazon-lily"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [483, 484, 490],
+      "payoffInEpisodes": [492, 493, 505],
+      "callbacksToEpisodes": [483, 484]
+    },
+    {
+      "id": "ep491-event-011",
+      "episodeNumber": 491,
+      "timestamp": "21:00",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Flashback Preview: Luffy Meets Ace",
+      "description": "The episode ends with a brief preview of Luffy's memories, hinting at flashbacks showing how Luffy first met Ace ten years ago. This sets up the upcoming episodes that will explore their brotherhood.",
+      "significance": "Transitions the narrative from Luffy's grief to exploring the deep bond between Luffy and Ace through flashbacks, helping viewers understand the depth of Luffy's loss.",
+      "characterIds": ["luffy", "portgas-d-ace"],
+      "locationIds": [],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [493, 494, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": ["foodvalten-island", "las-camp"],
+    "devilFruits": [],
+    "crews": ["brownbeard-pirates"],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [492, 493, 494, 495],
+    "payoffFrom": [483, 484, 490],
+    "thematicLinks": [483, 484, 505]
+  },
+  "quotes": [
+    {
+      "text": "Where is Ace?!",
+      "speaker": "Luffy",
+      "context": "Luffy's first words upon waking from unconsciousness",
+      "timestamp": "12:15"
+    },
+    {
+      "text": "Disappear! Disappear!",
+      "speaker": "Luffy",
+      "context": "Luffy trying to make the painful memories of Ace's death go away",
+      "timestamp": "14:45"
+    },
+    {
+      "text": "Don't say it! Don't say anything!",
+      "speaker": "Luffy",
+      "context": "Luffy desperately trying to avoid hearing the truth about Ace from Jinbe",
+      "timestamp": "17:30"
+    },
+    {
+      "text": "Ace... died, didn't he?",
+      "speaker": "Luffy",
+      "context": "Luffy finally forcing himself to say the words and accept the reality of Ace's death",
+      "timestamp": "19:00"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Grief and Loss",
+      "description": "The episode focuses entirely on Luffy's struggle to process the death of his brother Ace, depicting the raw pain of losing a loved one and the difficulty of accepting that reality.",
+      "symbolism": "The destroyed submarine and forest represent Luffy's shattered mental state. His violent actions reflect his internal turmoil and inability to contain his grief.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Acceptance and Healing",
+      "description": "Through Jinbe's intervention, Luffy is forced to confront the truth rather than hide from it. This painful acceptance is the first step toward healing.",
+      "symbolism": "Jinbe serves as the steady, grounding presence that Luffy needs, representing the importance of support during times of grief.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Brotherhood and Family Bonds",
+      "description": "The depth of Luffy's grief demonstrates the profound bond between him and Ace. The preview of flashbacks sets up exploration of their relationship.",
+      "symbolism": "Luffy's desperate search for Ace shows how deeply connected they were, and how Ace's loss has left a void in Luffy's life.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Consequences of War",
+      "description": "The episode shows the global aftermath of the Marineford War - increased piracy, territorial disputes, and overwhelmed Marines - while focusing on the personal cost to Luffy.",
+      "symbolism": "Brownbeard seizing territory and Las Camp being attacked symbolize the chaos unleashed by Whitebeard's death.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tragic", "Devastating", "Heartbreaking", "Emotional"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist suffering profound grief",
+      "development": "Luffy experiences his darkest moment as he confronts the death of his brother. This episode shows him at his most vulnerable, completely broken by loss but beginning the painful journey toward acceptance.",
+      "keyActions": [
+        "Wakes up desperately searching for Ace",
+        "Destroys the Heart Pirates' submarine",
+        "Rampages through the Amazon Lily forest",
+        "Attempts to deny reality by refusing to listen to Jinbe",
+        "Finally accepts that Ace is dead",
+        "Breaks down in uncontrollable grief"
+      ],
+      "quotes": ["Where is Ace?!", "Disappear! Disappear!", "Don't say it! Don't say anything!", "Ace... died, didn't he?"]
+    },
+    {
+      "characterId": "jinbe",
+      "role": "Emotional anchor and supporter",
+      "development": "Jinbe takes on a crucial role as the person who can reach Luffy during his darkest moment. He shows wisdom and compassion by forcing Luffy to face reality rather than letting him hide from it.",
+      "keyActions": [
+        "Says farewell to Ivankov",
+        "Stays with Luffy at Amazon Lily",
+        "Tracks down Luffy in the forest",
+        "Confronts Luffy about Ace's death despite Luffy's resistance",
+        "Provides silent support as Luffy grieves"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "boa-hancock",
+      "role": "Caretaker and protector",
+      "development": "Hancock's devotion to Luffy is shown through her willingness to bring him to Amazon Lily and negotiate with Nyon to allow the Heart Pirates to stay, bending Kuja traditions for Luffy's sake.",
+      "keyActions": [
+        "Brings Luffy to Amazon Lily for treatment",
+        "Refuses to eat while Luffy remains unconscious",
+        "Argues with Nyon about allowing men on the island",
+        "Reaches a compromise to help Luffy"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime added an extended scene of the Heart Pirates entering the harbor and being met with initial hostility from the Kuja warriors. This scene also included Hancock and Nyon arguing over whether to allow the men to stay on the island.",
+      "episodeTimestamp": "08:45",
+      "mangaReference": "Chapter 582",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "The conversation between Jinbe and Ivankov about meeting each other thanks to Luffy was expanded in the anime.",
+      "episodeTimestamp": "07:20",
+      "mangaReference": "Chapter 582",
+      "type": "EXPANDED_SCENE"
+    },
+    {
+      "difference": "Luffy's rampage through the forest and his violent destruction of trees was extended in the anime to emphasize his emotional state.",
+      "episodeTimestamp": "14:45",
+      "mangaReference": "Chapter 582",
+      "type": "EXPANDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode aired alongside Dragon Ball Kai episode 97 as part of the Dream 9 program block.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_491",
+          "title": "Episode 491 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-15"
+        }
+      ]
+    },
+    {
+      "fact": "The next episode preview in Episode 491 advertised a special crossover with the Toriko anime rather than the actual Episode 492.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_491",
+          "title": "Episode 491 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-15"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 491 achieved a TV rating of 11.5%, ranking 3rd for that week in Japan.",
+      "category": "VIEWERSHIP",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_491",
+          "title": "Episode 491 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-15"
+        }
+      ]
+    },
+    {
+      "fact": "This is the first episode of the Post-War Arc, which covers the aftermath of the Marineford War.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "Brownbeard was not properly introduced in this episode - only his belt was visible. His full introduction occurs in Episode 492.",
+      "category": "ANIMATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_491",
+          "title": "Episode 491 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-15"
+        }
+      ]
+    },
+    {
+      "fact": "This episode marks the beginning of an extended flashback arc (Episodes 493-504) showing Luffy's childhood with Ace and Sabo.",
+      "category": "STORY",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
