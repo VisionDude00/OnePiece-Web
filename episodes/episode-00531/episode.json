@@ -1,0 +1,571 @@
+{
+  "episodeNumber": 531,
+  "episodeTitle": "The Ryugu Palace! Taken by the Shark that They Saved!",
+  "episodeTitleJapanese": "竜宮城！助けた鮫に連れられて",
+  "episodeTitleRomanized": "Ryūgū-jō! Tasuketa Same ni Tsurerarete",
+  "description": "Luffy, Nami, Usopp, Brook, Camie, and Pappag journey with King Neptune to the magnificent Ryugu Palace. During the trip, Nami recounts how the crew separated, with Franky searching for Tom's relatives and Robin pursuing historical research. Meanwhile, Caribou escapes from his barrel and uses his Numa Numa no Mi powers to kidnap mermaids, causing the Straw Hats to be falsely blamed. Upon reaching the palace, Luffy wanders off in search of food and stumbles into the Hard-Shell Tower, where he encounters the giant Mermaid Princess Shirahoshi for the first time.",
+  "airDate": "2012-01-14",
+  "airDateJapan": "2012-01-15",
+  "airDateUS": "2012-01-14",
+  "airDateUSFunimation": "2017-08-15",
+  "arcName": "Fish-Man Island",
+  "sagaName": "Fish-Man Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Go!",
+    "titleJapanese": "ウィーゴー!",
+    "artist": "Hiroshi Kitadani",
+    "composer": "Kohei Tanaka",
+    "lyricist": "Shoko Fujibayashi",
+    "episodeRange": [517, 590]
+  },
+  "endingSong": null,
+  "credits": {
+    "director": "Gō Koga",
+    "screenplay": "Jin Tanaka",
+    "artDirector": "Ryūji Yoshiike",
+    "artDirectorAssistant": null,
+    "animationDirector": "Masayuki Takagi",
+    "storyboard": "Gō Koga",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Brook",
+        "actor": "Chō"
+      },
+      {
+        "character": "Caribou",
+        "actor": "Masaki Terasoma"
+      },
+      {
+        "character": "King Neptune",
+        "actor": "Minoru Inaba"
+      },
+      {
+        "character": "Shirahoshi",
+        "actor": "Yukana"
+      },
+      {
+        "character": "Minister of the Right",
+        "actor": "Hisao Egawa"
+      },
+      {
+        "character": "Minister of the Left",
+        "actor": "Ryoichi Tanaka"
+      },
+      {
+        "character": "Camie",
+        "actor": "Haruko Momoi"
+      },
+      {
+        "character": "Pappag",
+        "actor": "Takehito Koyasu"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Brook",
+        "actor": "Ian Sinclair"
+      },
+      {
+        "character": "Caribou",
+        "actor": "Scott Gibbs"
+      },
+      {
+        "character": "King Neptune",
+        "actor": "Bruce DuBose"
+      },
+      {
+        "character": "Shirahoshi",
+        "actor": "Bryn Apprill"
+      },
+      {
+        "character": "Minister of the Right",
+        "actor": "Doug Jackson"
+      },
+      {
+        "character": "Minister of the Left",
+        "actor": "Francis Fuselier"
+      },
+      {
+        "character": "Camie",
+        "actor": "Alexis Tipton"
+      },
+      {
+        "character": "Pappag",
+        "actor": "Kent Williams"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep531-event-001",
+      "episodeNumber": 531,
+      "timestamp": "04:15",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Caribou Uses Numa Numa no Mi to Kidnap Mermaids",
+      "description": "Caribou breaks free from his barrel after being freed by curious mermaids Ishilly and Fillonce. Using his Logia-type Numa Numa no Mi (Swamp-Swamp Fruit) powers, he transforms his body into swamp and captures the mermaids who tried to flee, pulling them into his body. This marks his first successful mermaid kidnapping.",
+      "significance": "Establishes Caribou as an active threat on Fish-Man Island and demonstrates the frightening capabilities of his Devil Fruit. The kidnapping sets up a false accusation against the Straw Hats, creating tension between them and the island's inhabitants.",
+      "characterIds": ["caribou", "ishilly"],
+      "locationIds": ["mermaid-cove"],
+      "devilFruitIds": ["numa-numa-no-mi"],
+      "quotes": [
+        {
+          "text": "Kehihihi! Thank you for freeing me, little mermaids. Now you'll be coming with me!",
+          "speaker": "Caribou",
+          "context": "Caribou's sinister declaration after escaping the barrel"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [528, 529, 530],
+      "payoffInEpisodes": [532, 533],
+      "callbacksToEpisodes": [530]
+    },
+    {
+      "id": "ep531-event-002",
+      "episodeNumber": 531,
+      "timestamp": "07:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Straw Hats Blamed for Mermaid Kidnapping",
+      "description": "After Caribou kidnaps Ishilly, Fillonce, and another mermaid, the citizens of Fish-Man Island blame the Straw Hat Pirates for the disappearance. This creates a misunderstanding that could endanger the crew's relationship with the island.",
+      "significance": "Builds tension and complications for the Straw Hats' visit to Fish-Man Island. The false accusation foreshadows future conflicts and demonstrates how Caribou's actions create problems for the crew.",
+      "characterIds": ["caribou", "luffy", "nami", "usopp", "brook"],
+      "locationIds": ["fish-man-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [530],
+      "payoffInEpisodes": [532, 533],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep531-event-003",
+      "episodeNumber": 531,
+      "timestamp": "09:45",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Journey to Ryugu Palace Begins",
+      "description": "King Neptune escorts Luffy, Nami, Usopp, Brook, Camie, and Pappag on a royal transport to the magnificent Ryugu Palace. The group travels through the underwater kingdom, witnessing the grandeur of Fish-Man Island's royal residence.",
+      "significance": "Marks the beginning of the Ryugu Palace arc and showcases the majesty of the underwater kingdom. This journey brings the Straw Hats into direct contact with Fish-Man Island's royalty and sets the stage for meeting Shirahoshi.",
+      "characterIds": ["king-neptune", "luffy", "nami", "usopp", "brook", "camie", "pappag"],
+      "locationIds": ["ryugu-palace"],
+      "quotes": [
+        {
+          "text": "Welcome to Ryugu Palace, the pride of Fish-Man Island!",
+          "speaker": "King Neptune",
+          "context": "Neptune welcoming the Straw Hats to his palace"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [528, 529, 530],
+      "payoffInEpisodes": [532],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep531-event-004",
+      "episodeNumber": 531,
+      "timestamp": "12:00",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MINOR",
+      "title": "Nami Explains Crew Separation",
+      "description": "During the journey to Ryugu Palace, Nami recounts how she, Franky, and Robin parted ways. She explains that Franky went to search for relatives of his former shipwright master Tom, while Robin pursued her research into Fish-Man Island's history and potential Poneglyphs.",
+      "significance": "Provides context for the crew's split and establishes individual character motivations. This explanation sets up Franky and Robin's separate storylines that will unfold later in the arc.",
+      "characterIds": ["nami", "franky", "robin"],
+      "locationIds": ["ryugu-palace"],
+      "quotes": [
+        {
+          "text": "Franky went to find Tom's relatives, and Robin wanted to research the island's history.",
+          "speaker": "Nami",
+          "context": "Nami explaining why the crew split up"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [530],
+      "payoffInEpisodes": [533, 534, 535],
+      "callbacksToEpisodes": [235, 236, 237]
+    },
+    {
+      "id": "ep531-event-005",
+      "episodeNumber": 531,
+      "timestamp": "15:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Minister of the Right Debuts",
+      "description": "The Minister of the Right, a seahorse merman who serves as one of King Neptune's chief advisors, makes his first appearance. He is shown as a loyal and dedicated royal minister who helps manage the affairs of Ryugu Palace.",
+      "significance": "Introduces a key member of the Ryugu Kingdom's government. The Minister of the Right plays an important role in the political structure of Fish-Man Island and appears throughout the arc.",
+      "characterIds": ["minister-of-the-right", "king-neptune"],
+      "locationIds": ["ryugu-palace"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [532, 533],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep531-event-006",
+      "episodeNumber": 531,
+      "timestamp": "15:25",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Minister of the Left Debuts",
+      "description": "The Minister of the Left, a catfish merman who serves as one of King Neptune's chief advisors alongside the Minister of the Right, makes his first appearance. He is characterized by his formal demeanor and loyalty to the royal family.",
+      "significance": "Introduces another key governmental figure of the Ryugu Kingdom. The Minister of the Left provides counsel and administrative support throughout the Fish-Man Island arc.",
+      "characterIds": ["minister-of-the-left", "king-neptune"],
+      "locationIds": ["ryugu-palace"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [532, 533],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep531-event-007",
+      "episodeNumber": 531,
+      "timestamp": "18:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Arrival at Ryugu Palace",
+      "description": "The group arrives at the magnificent Ryugu Palace, the royal residence of the Neptune family. The palace's grandeur and beauty are on full display, with its ornate architecture and underwater splendor impressing the Straw Hat members.",
+      "significance": "Establishes Ryugu Palace as a major location in the arc. The palace becomes the central setting for many important events and serves as the home of Shirahoshi, one of the arc's most important characters.",
+      "characterIds": ["luffy", "nami", "usopp", "brook", "king-neptune"],
+      "locationIds": ["ryugu-palace"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [528, 529, 530],
+      "payoffInEpisodes": [532, 533, 534],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep531-event-008",
+      "episodeNumber": 531,
+      "timestamp": "20:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Luffy Wanders Off in Search of Food",
+      "description": "True to his character, Luffy abandons the formal palace tour and wanders off on his own, following his nose in search of food. His casual disregard for royal protocol demonstrates his carefree nature and sets up his unexpected encounter with Shirahoshi.",
+      "significance": "This moment of comic relief showcases Luffy's unchanging personality even in the presence of royalty. His food-driven exploration leads directly to one of the arc's most important meetings.",
+      "characterIds": ["luffy"],
+      "locationIds": ["ryugu-palace"],
+      "quotes": [
+        {
+          "text": "I smell meat! Food! Where's the food?!",
+          "speaker": "Luffy",
+          "context": "Luffy abandoning the palace tour to search for food"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [531, 532],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep531-event-009",
+      "episodeNumber": 531,
+      "timestamp": "21:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "CRITICAL",
+      "title": "Luffy Meets Princess Shirahoshi",
+      "description": "Luffy stumbles into the Hard-Shell Tower and encounters the giant Mermaid Princess Shirahoshi for the first time. The massive princess is initially frightened, believing Luffy is an assassin like the others who have targeted her. She asks him fearfully if he has come to kill her.",
+      "significance": "This is one of the most pivotal moments in the Fish-Man Island arc. Shirahoshi is later revealed to be the ancient weapon Poseidon, making this encounter significant for the entire One Piece storyline. Her meeting with Luffy begins a relationship that will have far-reaching consequences.",
+      "characterIds": ["luffy", "shirahoshi"],
+      "locationIds": ["hard-shell-tower", "ryugu-palace"],
+      "quotes": [
+        {
+          "text": "Are you... are you here to kill me like all the others?",
+          "speaker": "Shirahoshi",
+          "context": "Shirahoshi's fearful first words to Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [528, 529, 530],
+      "payoffInEpisodes": [532, 533],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep531-event-010",
+      "episodeNumber": 531,
+      "timestamp": "22:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Luffy Remarks on Shirahoshi's Tearful Nature",
+      "description": "The episode concludes with Luffy observing Shirahoshi's extremely emotional and tearful demeanor. Despite her enormous size, she is easily frightened and quick to cry, earning her the nickname of being a crybaby.",
+      "significance": "Establishes Shirahoshi's character trait as emotionally sensitive despite her physical power. This contrast between her size and timid personality becomes a recurring theme and sets up her character development throughout the arc.",
+      "characterIds": ["luffy", "shirahoshi"],
+      "locationIds": ["hard-shell-tower"],
+      "quotes": [
+        {
+          "text": "You sure cry a lot for someone so big!",
+          "speaker": "Luffy",
+          "context": "Luffy's blunt observation of Shirahoshi's personality"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [532, 533],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["shirahoshi", "minister-of-the-right", "minister-of-the-left", "octopako"],
+    "locations": ["ryugu-palace", "hard-shell-tower"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [532, 533, 534, 535],
+    "payoffFrom": [528, 529, 530],
+    "thematicLinks": [235, 236, 237, 490, 491, 492]
+  },
+  "quotes": [
+    {
+      "text": "Kehihihi! Thank you for freeing me, little mermaids. Now you'll be coming with me!",
+      "speaker": "Caribou",
+      "context": "Caribou's sinister declaration after escaping from his barrel",
+      "timestamp": "04:15"
+    },
+    {
+      "text": "Welcome to Ryugu Palace, the pride of Fish-Man Island!",
+      "speaker": "King Neptune",
+      "context": "Neptune welcoming the Straw Hats to his magnificent palace",
+      "timestamp": "09:45"
+    },
+    {
+      "text": "Franky went to find Tom's relatives, and Robin wanted to research the island's history.",
+      "speaker": "Nami",
+      "context": "Explaining why the crew separated after arriving on Fish-Man Island",
+      "timestamp": "12:00"
+    },
+    {
+      "text": "I smell meat! Food! Where's the food?!",
+      "speaker": "Luffy",
+      "context": "Luffy abandoning the formal palace tour to search for food",
+      "timestamp": "20:15"
+    },
+    {
+      "text": "Are you... are you here to kill me like all the others?",
+      "speaker": "Shirahoshi",
+      "context": "Shirahoshi's fearful first words upon meeting Luffy",
+      "timestamp": "21:30"
+    },
+    {
+      "text": "You sure cry a lot for someone so big!",
+      "speaker": "Luffy",
+      "context": "Luffy's blunt observation of Shirahoshi's emotional nature",
+      "timestamp": "22:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "First Impressions and Hidden Depths",
+      "description": "The episode explores how first impressions can be deceiving. Shirahoshi appears as a giant, powerful princess but is revealed to be timid and fearful. Similarly, the beautiful Ryugu Palace masks the underlying threats and tensions on Fish-Man Island.",
+      "symbolism": "Shirahoshi's massive size contrasting with her fearful personality symbolizes hidden strength waiting to be unlocked.",
+      "culturalReferences": [
+        "The episode's title and Ryugu Palace are direct references to the Japanese folktale of Urashima Tarō, where a fisherman visits an underwater palace called Ryūgū-jō"
+      ]
+    },
+    {
+      "theme": "Separation and Individual Purpose",
+      "description": "The crew's separation demonstrates how each member has their own motivations and goals beyond just adventure. Franky seeks connections to his past, while Robin pursues knowledge and history.",
+      "symbolism": "The crew splitting up represents individual growth and the pursuit of personal dreams alongside shared goals.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Mistaken Identity and False Accusations",
+      "description": "The Straw Hats being blamed for Caribou's crimes explores themes of prejudice and how reputations can lead to false assumptions. As pirates, they are automatically suspected despite their innocence.",
+      "symbolism": "The false accusation represents the broader prejudice between humans and fish-men that defines the arc.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Adventurous", "Mysterious", "Tense", "Comedic"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Adventurous protagonist",
+      "development": "Luffy demonstrates his characteristic disregard for formality and protocol by wandering off from the royal tour. His food-driven exploration leads him to Shirahoshi, beginning what will become an important relationship in the arc.",
+      "keyActions": [
+        "Travels to Ryugu Palace with King Neptune",
+        "Wanders off in search of food",
+        "Stumbles into the Hard-Shell Tower",
+        "Meets Princess Shirahoshi for the first time",
+        "Bluntly comments on Shirahoshi's crying"
+      ],
+      "quotes": [
+        "I smell meat! Food! Where's the food?!",
+        "You sure cry a lot for someone so big!"
+      ]
+    },
+    {
+      "characterId": "shirahoshi",
+      "role": "Debut character - Fearful princess",
+      "development": "Shirahoshi is introduced as the giant Mermaid Princess who has been confined to the Hard-Shell Tower. Despite her enormous size, she is extremely fearful and emotional, immediately asking Luffy if he's come to kill her like previous assassins.",
+      "keyActions": [
+        "First appearance in the Hard-Shell Tower",
+        "Encounters Luffy for the first time",
+        "Fearfully asks if he's an assassin",
+        "Cries easily, displaying her emotional nature"
+      ],
+      "quotes": [
+        "Are you... are you here to kill me like all the others?"
+      ]
+    },
+    {
+      "characterId": "caribou",
+      "role": "Antagonist - Criminal kidnapper",
+      "development": "Caribou demonstrates his villainous nature by kidnapping mermaids using his Devil Fruit powers. His actions create problems for the Straw Hats who are falsely blamed for the disappearances.",
+      "keyActions": [
+        "Breaks free from his barrel prison",
+        "Uses Numa Numa no Mi to kidnap Ishilly and other mermaids",
+        "Begins his mermaid kidnapping scheme",
+        "Causes the Straw Hats to be blamed for the crimes"
+      ],
+      "quotes": [
+        "Kehihihi! Thank you for freeing me, little mermaids. Now you'll be coming with me!"
+      ]
+    },
+    {
+      "characterId": "nami",
+      "role": "Navigator and expositor",
+      "development": "Nami serves as the voice of reason, explaining to the others why Franky and Robin separated from the group. She helps provide context for the crew's individual pursuits.",
+      "keyActions": [
+        "Travels to Ryugu Palace with the group",
+        "Explains Franky and Robin's separate missions",
+        "Observes the grandeur of Ryugu Palace"
+      ],
+      "quotes": [
+        "Franky went to find Tom's relatives, and Robin wanted to research the island's history."
+      ]
+    },
+    {
+      "characterId": "king-neptune",
+      "role": "Royal host",
+      "development": "King Neptune acts as the gracious host, escorting the Straw Hats to his palace and welcoming them to Fish-Man Island's royal residence.",
+      "keyActions": [
+        "Escorts the Straw Hats to Ryugu Palace",
+        "Welcomes them to his home",
+        "Demonstrates royal hospitality"
+      ],
+      "quotes": [
+        "Welcome to Ryugu Palace, the pride of Fish-Man Island!"
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime originally omitted the 'Hatchan's Sea Floor Stroll' cover story arc, making Octopako's appearance in this episode his anime debut, whereas manga readers were already familiar with the character.",
+      "episodeTimestamp": "15:30",
+      "mangaReference": "Chapter 612",
+      "type": "ANIME_ORIGINAL_ADDITION"
+    },
+    {
+      "difference": "The anime introduces Bubbly Corals earlier than in the manga timeline, where they weren't shown until after Hody's takeover of the palace.",
+      "episodeTimestamp": "10:00",
+      "mangaReference": "Chapter 612",
+      "type": "TIMELINE_CHANGE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episode 531 aired on January 15, 2012, in Japan, marking the continuation of the highly anticipated Fish-Man Island arc after the two-year time skip.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_531",
+          "title": "Episode 531 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-19"
+        }
+      ]
+    },
+    {
+      "fact": "This episode adapts Chapter 612 of the manga (pages 3-19), titled 'Assistance'.",
+      "category": "MANGA_ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chapter_612",
+          "title": "Chapter 612 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-19"
+        }
+      ]
+    },
+    {
+      "fact": "Shirahoshi's debut in this episode is significant as she is later revealed to be Poseidon, one of the three Ancient Weapons, making her one of the most important characters in the entire One Piece storyline.",
+      "category": "NARRATIVE",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Shirahoshi",
+          "title": "Shirahoshi - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-19"
+        }
+      ]
+    },
+    {
+      "fact": "The opening theme 'We Go!' by Hiroshi Kitadani played from episodes 517-590, making it the longest-running opening in One Piece history with 74 episodes.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/We_Go!",
+          "title": "We Go! - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-19"
+        }
+      ]
+    },
+    {
+      "fact": "The episode's title and Ryugu Palace directly reference the Japanese folktale of Urashima Tarō, where a fisherman is taken to an underwater dragon palace called Ryūgū-jō (Dragon Palace).",
+      "category": "CULTURAL_REFERENCE",
+      "sources": []
+    },
+    {
+      "fact": "Yukana, Shirahoshi's Japanese voice actress, is known for her roles in other popular anime including Code Geass (C.C.) and Pretty Cure (Cure White).",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://www.behindthevoiceactors.com/tv-shows/One-Piece/Shirahoshi/",
+          "title": "Shirahoshi Voice - One Piece",
+          "platform": "Behind The Voice Actors",
+          "accessedAt": "2025-12-19"
+        }
+      ]
+    },
+    {
+      "fact": "The episode had a TV rating of 9.9% in Japan and ranked #4 for the week, showing strong viewership during the Fish-Man Island arc.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "This episode marks the first time the Straw Hats are formally welcomed into a royal palace as honored guests rather than infiltrators or fugitives.",
+      "category": "WORLD_BUILDING",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
