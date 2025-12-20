@@ -1,0 +1,578 @@
+{
+  "episodeNumber": 516,
+  "episodeTitle": "Luffy's Training Begins! To the Place We Promised in 2 Years!",
+  "description": "Jinbe departs as Rayleigh takes Luffy to Rusukaina, a deadly island in the Calm Belt, to begin two years of intensive training. Rayleigh demonstrates the three types of Haki, showing Luffy what he must master to survive in the New World.",
+  "airDate": "2011-09-25",
+  "airDateJapan": "2011-09-25",
+  "airDateUS": "2011-09-24",
+  "arcName": "Post-War Arc",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Fight Together",
+    "artist": "Namie Amuro",
+    "episodeRange": [493, 516]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Katsumi Tokoro",
+    "screenplayWriter": "Hirohiko Kamisaka",
+    "artDirector": "Miho Shiraishi",
+    "animationSupervisor": "Yukiko Nakatani",
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Silvers Rayleigh",
+        "actor": "Keiichi Sonobe"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Katsuhisa Houki"
+      },
+      {
+        "character": "Boa Hancock",
+        "actor": "Kotono Mitsuishi"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Silvers Rayleigh",
+        "actor": "Bruce Carey"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Daniel Baugh"
+      },
+      {
+        "character": "Boa Hancock",
+        "actor": "Lydia Mackay"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep516-event-001",
+      "episodeNumber": 516,
+      "timestamp": "02:30",
+      "eventType": "CREW_DEPARTURE",
+      "severity": "MAJOR",
+      "title": "Jinbe Departs from Luffy",
+      "description": "Jinbe says farewell to Luffy on the Kuja Pirates' ship, entrusting him to Rayleigh's care. He promises to meet Luffy again at Fish-Man Island in two years, marking the beginning of the Straw Hats' separation period.",
+      "significance": "Establishes the two-year promise and officially begins the timeskip period. Jinbe's departure marks the end of Luffy's post-war recovery phase and the start of his training.",
+      "characterIds": ["luffy", "jinbe", "rayleigh"],
+      "locationIds": ["kuja-pirates-ship"],
+      "quotes": [
+        {
+          "text": "I'll see you at Fish-Man Island in two years!",
+          "speaker": "Jinbe",
+          "context": "Jinbe's promise to reunite with Luffy after the timeskip"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [505, 515],
+      "payoffInEpisodes": [517, 523],
+      "callbacksToEpisodes": [513]
+    },
+    {
+      "id": "ep516-event-002",
+      "episodeNumber": 516,
+      "timestamp": "04:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Arrival at Rusukaina Island",
+      "description": "Rayleigh and Hancock bring Luffy to Rusukaina, an uninhabited island in the Calm Belt northwest of Amazon Lily. The island is revealed to have 48 seasons that change weekly and is home to over 500 beasts stronger than Luffy's current level.",
+      "significance": "Introduces the setting where Luffy will spend the next two years training. The island's extreme conditions and powerful beasts make it the perfect training ground for mastering Haki and becoming stronger.",
+      "characterIds": ["luffy", "rayleigh", "boa-hancock"],
+      "locationIds": ["rusukaina"],
+      "quotes": [
+        {
+          "text": "This island has 48 seasons in a year. They change almost weekly.",
+          "speaker": "Rayleigh",
+          "context": "Rayleigh explaining Rusukaina's unique climate"
+        },
+        {
+          "text": "There are about 500 beasts on this island that you won't be able to defeat unless you get stronger.",
+          "speaker": "Rayleigh",
+          "context": "Establishing the challenge Luffy faces"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [517],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep516-event-003",
+      "episodeNumber": 516,
+      "timestamp": "06:45",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Giant Elephant Attacks",
+      "description": "A massive elephant emerges from the jungle and attacks Luffy and Rayleigh. Luffy attempts to fight it using Gear 2, but his attacks prove completely ineffective against the enormous beast.",
+      "significance": "Demonstrates the gap between Luffy's current strength and what he needs to achieve. Shows that even his Gear 2 is insufficient against the island's inhabitants, emphasizing the need for Haki training.",
+      "characterIds": ["luffy", "rayleigh"],
+      "locationIds": ["rusukaina"],
+      "quotes": [
+        {
+          "text": "Gear 2!",
+          "speaker": "Luffy",
+          "context": "Luffy activating Gear 2 against the elephant"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [272, 309]
+    },
+    {
+      "id": "ep516-event-004",
+      "episodeNumber": 516,
+      "timestamp": "08:20",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Rayleigh Demonstrates Observation Haki",
+      "description": "Rayleigh demonstrates the first type of Haki - Observation Haki (also known as Mantra or Kenbunshoku Haki). He predicts the elephant's attacks with his eyes closed, showing Luffy the power to sense and predict enemy movements.",
+      "significance": "First formal demonstration of Observation Haki to Luffy, introducing one of the three fundamental powers he must master to survive in the New World. This is a pivotal moment in Luffy's development as a pirate.",
+      "characterIds": ["rayleigh", "luffy"],
+      "locationIds": ["rusukaina"],
+      "devilFruitIds": [],
+      "quotes": [
+        {
+          "text": "This is Observation Haki. It allows you to sense the presence of others and predict their movements.",
+          "speaker": "Rayleigh",
+          "context": "Rayleigh explaining Observation Haki while dodging the elephant's attacks"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [151, 403],
+      "payoffInEpisodes": [517, 697],
+      "callbacksToEpisodes": [151, 403]
+    },
+    {
+      "id": "ep516-event-005",
+      "episodeNumber": 516,
+      "timestamp": "09:45",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Rayleigh Demonstrates Armament Haki",
+      "description": "Rayleigh demonstrates the second type of Haki - Armament Haki (Busoshoku Haki). He creates an invisible armor that allows him to block the elephant's trunk and deliver a devastating counter-attack, showing how Haki can enhance both offense and defense.",
+      "significance": "Introduces Armament Haki, which will become one of Luffy's most important abilities in the New World. This power allows users to bypass Devil Fruit defenses and is essential for fighting Logia users and powerful enemies.",
+      "characterIds": ["rayleigh", "luffy"],
+      "locationIds": ["rusukaina"],
+      "quotes": [
+        {
+          "text": "This is Armament Haki. It creates an invisible armor to enhance your attack and defense.",
+          "speaker": "Rayleigh",
+          "context": "Rayleigh explaining Armament Haki while demonstrating it"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [410, 413],
+      "payoffInEpisodes": [517, 605],
+      "callbacksToEpisodes": [410, 413]
+    },
+    {
+      "id": "ep516-event-006",
+      "episodeNumber": 516,
+      "timestamp": "11:10",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Rayleigh Demonstrates Conqueror's Haki",
+      "description": "Rayleigh demonstrates the rarest and most powerful type of Haki - Conqueror's Haki (Haoshoku Haki). With a burst of his willpower alone, he knocks the giant elephant unconscious without physically touching it, revealing the power that only one in several million people possess.",
+      "significance": "Reveals the most important type of Haki and confirms that Luffy possesses this rare ability. Conqueror's Haki becomes central to Luffy's identity as a future great pirate and is key to his ultimate goal of becoming Pirate King.",
+      "characterIds": ["rayleigh", "luffy"],
+      "locationIds": ["rusukaina"],
+      "quotes": [
+        {
+          "text": "And this is Conqueror's Haki. Only one in several million people can use this power.",
+          "speaker": "Rayleigh",
+          "context": "Rayleigh demonstrating the rarest form of Haki"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [389, 397],
+      "payoffInEpisodes": [570, 877],
+      "callbacksToEpisodes": [389, 397, 465]
+    },
+    {
+      "id": "ep516-event-007",
+      "episodeNumber": 516,
+      "timestamp": "12:30",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Rayleigh Explains the Three Types of Haki",
+      "description": "Rayleigh provides a comprehensive explanation of the three types of Haki: Observation Haki (sensing presence and predicting movements), Armament Haki (creating invisible armor for attack and defense), and Conqueror's Haki (overwhelming others with willpower). He warns that improper use of Conqueror's Haki can harm innocent people.",
+      "significance": "This is the first complete exposition of the Haki system, one of the most important power systems in One Piece. Understanding and mastering these abilities is essential for surviving in the New World and fighting against the strongest pirates.",
+      "characterIds": ["rayleigh", "luffy"],
+      "locationIds": ["rusukaina"],
+      "quotes": [
+        {
+          "text": "These are the three types of Haki. You must master them all if you want to survive in the New World.",
+          "speaker": "Rayleigh",
+          "context": "Rayleigh explaining the importance of Haki mastery"
+        },
+        {
+          "text": "Conqueror's Haki cannot be controlled through training alone. You must grow as a person.",
+          "speaker": "Rayleigh",
+          "context": "Warning about the nature of Conqueror's Haki"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [151, 389, 410],
+      "payoffInEpisodes": [517, 684, 726],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep516-event-008",
+      "episodeNumber": 516,
+      "timestamp": "15:20",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Hancock Offers to Bring Food Daily",
+      "description": "Boa Hancock enthusiastically offers to bring Luffy food every day during his training. However, Rayleigh firmly tells her that women are not allowed on the island during the training period, which frustrates Hancock but she ultimately accepts for Luffy's benefit.",
+      "significance": "Shows Hancock's deep devotion to Luffy and adds a touch of humor to the serious training setup. Rayleigh's restriction ensures Luffy will focus completely on his training without distractions.",
+      "characterIds": ["boa-hancock", "rayleigh", "luffy"],
+      "locationIds": ["rusukaina"],
+      "quotes": [
+        {
+          "text": "I'll bring you food every day from Amazon Lily!",
+          "speaker": "Boa Hancock",
+          "context": "Hancock's desire to stay close to Luffy during training"
+        },
+        {
+          "text": "While Luffy is training, women are not allowed on this island.",
+          "speaker": "Rayleigh",
+          "context": "Rayleigh setting boundaries for Luffy's training"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [411, 413],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [417, 421]
+    },
+    {
+      "id": "ep516-event-009",
+      "episodeNumber": 516,
+      "timestamp": "17:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Luffy Places His Straw Hat in the Safe Zone",
+      "description": "Luffy places his precious straw hat and Rayleigh's Vivre Card in the only safe area on Rusukaina - a tree that animals naturally avoid. This symbolic act shows Luffy putting aside his identity as a pirate captain to become a student, ready to train seriously.",
+      "significance": "Extremely symbolic moment. The straw hat represents Luffy's promise to Shanks and his identity. Placing it in a safe location shows his commitment to training and willingness to temporarily set aside his pirate journey to become stronger.",
+      "characterIds": ["luffy", "rayleigh"],
+      "locationIds": ["rusukaina"],
+      "quotes": [
+        {
+          "text": "I'll leave my hat here where it's safe.",
+          "speaker": "Luffy",
+          "context": "Luffy securing his most precious possession before training begins"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [4, 45, 312],
+      "payoffInEpisodes": [517],
+      "callbacksToEpisodes": [1, 4, 45, 312, 405]
+    },
+    {
+      "id": "ep516-event-010",
+      "episodeNumber": 516,
+      "timestamp": "18:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Luffy Begins Two-Year Training",
+      "description": "With his straw hat safely stored and Rayleigh by his side, Luffy officially begins his two-year training regimen on Rusukaina. He commits himself fully to mastering the three types of Haki and becoming strong enough to protect his crew in the New World.",
+      "significance": "Marks the official beginning of the two-year timeskip, one of the most significant transitions in the entire series. This training period will transform Luffy from a rookie pirate into a force capable of challenging the New World's strongest powers.",
+      "characterIds": ["luffy", "rayleigh"],
+      "locationIds": ["rusukaina"],
+      "quotes": [
+        {
+          "text": "I'll get stronger! Strong enough to protect everyone!",
+          "speaker": "Luffy",
+          "context": "Luffy's determination to become stronger after losing Ace"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [483, 505, 511],
+      "payoffInEpisodes": [517, 523],
+      "callbacksToEpisodes": [485, 505]
+    },
+    {
+      "id": "ep516-event-011",
+      "episodeNumber": 516,
+      "timestamp": "19:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Straw Hat Crew Montage - Two Years Promise",
+      "description": "The episode shows a montage of each Straw Hat crew member in their respective locations, reflecting on their separation and the promise to reunite at Sabaody Archipelago in two years. Each member is shown training or preparing in their own way.",
+      "significance": "Emotional moment that reminds viewers of the entire crew's commitment to reunite and become stronger. Shows that while physically separated, the Straw Hats are united in purpose and determination to meet their captain's expectations.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky", "brook"],
+      "locationIds": ["rusukaina", "kuraigana-island", "weatheria", "boin-archipelago", "kamabakka-kingdom", "torino-kingdom", "tequila-wolf", "karakuri-island", "namakura-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [512, 513, 514, 515],
+      "payoffInEpisodes": [517],
+      "callbacksToEpisodes": [405, 407]
+    },
+    {
+      "id": "ep516-event-012",
+      "episodeNumber": 516,
+      "timestamp": "21:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Special Ending Card - 'Go To New World'",
+      "description": "Instead of the usual 'To Be Continued' ending card, Episode 516 displays a special 'Go To New World' message, signaling the end of the first half of One Piece and the beginning of a new chapter in the Straw Hats' journey.",
+      "significance": "Historic moment marking the official end of the series' first half. The special ending card emphasizes the narrative transition and builds anticipation for the Straw Hats' post-timeskip adventures in the New World.",
+      "characterIds": [],
+      "locationIds": [],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [517],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": ["rusukaina"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["observation-haki", "armament-haki", "conquerors-haki"]
+  },
+  "episodeRelationships": {
+    "setupFor": [517, 518, 519],
+    "payoffFrom": [505, 511, 512, 513, 514, 515],
+    "thematicLinks": [1, 45, 312, 405, 483, 485]
+  },
+  "quotes": [
+    {
+      "text": "I'll see you at Fish-Man Island in two years!",
+      "speaker": "Jinbe",
+      "context": "Jinbe's farewell promise to Luffy",
+      "timestamp": "02:30"
+    },
+    {
+      "text": "This island has 48 seasons in a year. They change almost weekly.",
+      "speaker": "Rayleigh",
+      "context": "Introducing Rusukaina's unique climate",
+      "timestamp": "04:15"
+    },
+    {
+      "text": "There are about 500 beasts on this island that you won't be able to defeat unless you get stronger.",
+      "speaker": "Rayleigh",
+      "context": "Establishing the training challenge",
+      "timestamp": "04:30"
+    },
+    {
+      "text": "These are the three types of Haki. You must master them all if you want to survive in the New World.",
+      "speaker": "Rayleigh",
+      "context": "Explaining the importance of Haki",
+      "timestamp": "12:30"
+    },
+    {
+      "text": "Conqueror's Haki cannot be controlled through training alone. You must grow as a person.",
+      "speaker": "Rayleigh",
+      "context": "Teaching about Conqueror's Haki",
+      "timestamp": "13:00"
+    },
+    {
+      "text": "I'll get stronger! Strong enough to protect everyone!",
+      "speaker": "Luffy",
+      "context": "Luffy's determination to train",
+      "timestamp": "18:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Growth and Training",
+      "description": "The episode focuses on Luffy's commitment to becoming stronger through rigorous training, acknowledging his current limitations and dedicating himself to mastering Haki over two years.",
+      "symbolism": "Luffy placing his straw hat in the safe zone symbolizes temporarily setting aside his pirate identity to become a student, showing maturity and commitment to growth.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Sacrifice and Separation",
+      "description": "The two-year separation from his crew represents a significant sacrifice for Luffy, who values his nakama above all else. This choice shows his growth as a captain, recognizing that becoming stronger individually will help protect his crew.",
+      "symbolism": "The montage of separated crew members emphasizes the painful but necessary sacrifice each member makes for the collective good.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Mentorship and Legacy",
+      "description": "Rayleigh's role as Luffy's mentor mirrors his relationship with Gol D. Roger, creating a legacy where the old generation passes knowledge to the new. This theme reinforces the cyclical nature of piracy in One Piece.",
+      "symbolism": "Rayleigh teaching Luffy represents the passing of the torch from Roger's era to the new generation of pirates.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Determination and Willpower",
+      "description": "The introduction of Conqueror's Haki as a manifestation of willpower emphasizes that true strength comes from one's spirit and determination, not just physical ability.",
+      "symbolism": "Conqueror's Haki itself symbolizes the indomitable will required to become Pirate King.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Determined", "Reflective", "Hopeful", "Bittersweet"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist - Student",
+      "development": "Luffy transitions from a defeated, grieving pirate to a determined student ready to train. He shows maturity by accepting the need for a two-year separation from his crew and committing to rigorous training.",
+      "keyActions": [
+        "Says farewell to Jinbe",
+        "Arrives at Rusukaina with Rayleigh",
+        "Witnesses Rayleigh demonstrate all three types of Haki",
+        "Places his straw hat in the safe zone",
+        "Begins two-year training"
+      ],
+      "quotes": [
+        "I'll get stronger! Strong enough to protect everyone!"
+      ]
+    },
+    {
+      "characterId": "rayleigh",
+      "role": "Mentor",
+      "development": "Rayleigh takes on the role of Luffy's master, demonstrating his vast knowledge and power. He shows both the strict discipline of a teacher and the care of a mentor invested in his student's success.",
+      "keyActions": [
+        "Takes custody of Luffy from Jinbe",
+        "Brings Luffy to Rusukaina",
+        "Defeats the giant elephant while demonstrating all three types of Haki",
+        "Explains the Haki system comprehensively",
+        "Sets boundaries for Luffy's training environment"
+      ],
+      "quotes": [
+        "These are the three types of Haki. You must master them all if you want to survive in the New World.",
+        "Conqueror's Haki cannot be controlled through training alone. You must grow as a person."
+      ]
+    },
+    {
+      "characterId": "jinbe",
+      "role": "Supporting - Departing Ally",
+      "development": "Jinbe completes his role as Luffy's protector and supporter during the post-war period, entrusting him to Rayleigh and making a promise to reunite at Fish-Man Island.",
+      "keyActions": [
+        "Says farewell to Luffy",
+        "Entrusts Luffy to Rayleigh's care",
+        "Makes promise to meet in two years"
+      ],
+      "quotes": [
+        "I'll see you at Fish-Man Island in two years!"
+      ]
+    },
+    {
+      "characterId": "boa-hancock",
+      "role": "Supporting - Devoted Admirer",
+      "development": "Hancock continues to show her devotion to Luffy by facilitating his training, though she struggles with being separated from him. Her acceptance of Rayleigh's restrictions shows her understanding of what's best for Luffy.",
+      "keyActions": [
+        "Transports Luffy and Rayleigh to Rusukaina",
+        "Offers to bring food daily",
+        "Reluctantly accepts being forbidden from the island"
+      ],
+      "quotes": [
+        "I'll bring you food every day from Amazon Lily!"
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime expands on the Haki demonstration scene with more detailed animation of each type of Haki being used against the elephant.",
+      "episodeTimestamp": "08:20",
+      "mangaReference": "Chapter 597",
+      "type": "EXPANDED_SCENE"
+    },
+    {
+      "difference": "The montage of the Straw Hat crew members is extended in the anime with additional visual callbacks to their recent adventures and training locations.",
+      "episodeTimestamp": "19:30",
+      "mangaReference": "Chapter 597",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "The special 'Go To New World' ending card is an anime-original addition not present in the manga.",
+      "episodeTimestamp": "21:15",
+      "mangaReference": "Chapter 597",
+      "type": "ANIME_ORIGINAL_CONTENT"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episode 516 is the final episode of the first half of One Piece, marking a major milestone in the series that had been running for nearly 12 years at this point.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_516",
+          "title": "Episode 516 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-17"
+        }
+      ]
+    },
+    {
+      "fact": "This is the last episode to use 'Fight Together' by Namie Amuro as the opening theme. Episode 517 introduces a new opening for the post-timeskip era.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Fight_Together",
+          "title": "Fight Together - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-17"
+        }
+      ]
+    },
+    {
+      "fact": "The ending card displays 'Go To New World' instead of the usual 'To Be Continued', making it one of the very few episodes with a unique ending message.",
+      "category": "ANIMATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_516",
+          "title": "Episode 516 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-17"
+        }
+      ]
+    },
+    {
+      "fact": "The TV special '3D2Y: Overcome Ace's Death! Luffy's Vow to His Friends' takes place during the two-year timeskip that begins in this episode, providing additional context for Luffy's training period.",
+      "category": "RELATED_MEDIA",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/3D2Y",
+          "title": "3D2Y - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-17"
+        }
+      ]
+    },
+    {
+      "fact": "This episode adapts the latter portion of Chapter 597, which in the manga featured a color spread showing the Straw Hats' appearance similar to the montage in the episode.",
+      "category": "MANGA_ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chapter_597",
+          "title": "Chapter 597 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-17"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 516 aired on September 25, 2011, exactly 515 weeks after Episode 1 premiered on October 20, 1999.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "Rusukaina's name comes from the Japanese word 'rusu' (留守) meaning 'absence' or 'away from home', fitting for the island where Luffy trains away from his crew.",
+      "category": "TRIVIA",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Rusukaina",
+          "title": "Rusukaina - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-17"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

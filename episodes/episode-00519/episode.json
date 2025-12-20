@@ -1,0 +1,471 @@
+{
+  "episodeNumber": 519,
+  "episodeTitle": "The Navy Has Set Out! The Straw Hats in Danger!",
+  "titleJapanese": "海軍出動 狙われた麦わらの一味",
+  "titleRomanized": "Kaigun Shutsudō - Nerawareta Mugiwara no Ichimi",
+  "description": "The Straw Hat crew continues to reunite at Sabaody Archipelago. Robin and Franky meet at the newly coated Thousand Sunny. Chopper mistakenly encounters the Fake Straw Hat Pirates and discovers their cruel nature before reuniting with the real Nami and Usopp. Meanwhile, the Marines mobilize upon spotting what they believe is the Straw Hat crew, and Sentomaru arrives with Pacifista units PX-5 and PX-7.",
+  "airDate": "2011-10-16",
+  "airDateJapan": "2011-10-16",
+  "airDateUS": "2011-10-15",
+  "arcName": "Return to Sabaody",
+  "sagaName": "Fish-Man Island Saga",
+  "animationQuality": "STANDARD",
+  "mangaChapters": [599, 600],
+  "openingSong": {
+    "title": "We Go!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [517, 590],
+    "notes": "This episode features the revised version of Opening 15 with action sequences instead of slideshow memories"
+  },
+  "endingSong": {
+    "title": "Memories",
+    "artist": "Maki Otsuki",
+    "episodeRange": [1, 30]
+  },
+  "credits": {
+    "animationDirector": "Yutaka Nakashima",
+    "screenplayWriter": "Tomohiro Nakayama",
+    "artDirector": "Ryūji Yoshiike",
+    "keyAnimators": ["Kenji Yokoyama"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Ōtani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sentomaru",
+        "actor": "Kazue Ikura"
+      },
+      {
+        "character": "Demalo Black",
+        "actor": "Hideo Ishikawa"
+      },
+      {
+        "character": "Caribou",
+        "actor": "Masaki Terasoma"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep519-event-001",
+      "episodeNumber": 519,
+      "timestamp": "03:45",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Robin Arrives at the Thousand Sunny",
+      "description": "Nico Robin arrives at the Thousand Sunny and reunites with Franky, who shows off his new cyborg upgrades. They discuss the ship's coating and whether Brook will return to piracy after his musical success.",
+      "significance": "Marks the reunion of two Straw Hat members and reveals Franky's post-timeskip modifications.",
+      "characterIds": ["robin", "franky"],
+      "locationIds": ["thousand-sunny", "sabaody-archipelago"],
+      "quotes": [
+        {
+          "text": "The ship is fully coated and ready for the journey to the New World.",
+          "speaker": "Franky",
+          "context": "Franky explaining the Thousand Sunny's preparations"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [517, 518],
+      "payoffInEpisodes": [520, 521],
+      "callbacksToEpisodes": [405]
+    },
+    {
+      "id": "ep519-event-002",
+      "episodeNumber": 519,
+      "timestamp": "06:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Chopper Encounters Fake Straw Hats",
+      "description": "Tony Tony Chopper mistakenly approaches the Fake Straw Hat Pirates, believing Fake Zoro, Fake Sanji, and Fake Robin to be his real crewmates. The imposters decide to take Chopper with them to make their ruse more convincing.",
+      "significance": "Sets up the confusion between the real and fake Straw Hat crews, and demonstrates how drastically the real crew has changed in appearance after two years.",
+      "characterIds": ["chopper", "demalo-black", "manjaro", "drip", "cocoa"],
+      "locationIds": ["sabaody-archipelago"],
+      "quotes": [
+        {
+          "text": "Zoro! Sanji! Robin! I finally found you!",
+          "speaker": "Chopper",
+          "context": "Chopper mistaking the fake crew for his real friends"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [517],
+      "payoffInEpisodes": [519, 520],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep519-event-003",
+      "episodeNumber": 519,
+      "timestamp": "09:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Caribou and Coribou Debut",
+      "description": "The Caribou Brothers, notorious rookie pirates with bounties exceeding 190 million berries each, make their first appearance. They are shown attacking a Marine spy, with Caribou stabbing him with a spear while Coribou prepares to bury the body.",
+      "significance": "Introduces major antagonists for the upcoming Fish-Man Island arc and demonstrates the dangerous nature of the new generation of pirates.",
+      "characterIds": ["caribou", "coribou"],
+      "locationIds": ["sabaody-archipelago"],
+      "quotes": [
+        {
+          "text": "Let's give this Marine a proper burial at sea.",
+          "speaker": "Coribou",
+          "context": "Coribou preparing to dispose of the Marine spy they killed"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [520, 535, 545],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep519-event-004",
+      "episodeNumber": 519,
+      "timestamp": "11:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Albion and Lip Doughty Debut",
+      "description": "Two more rookie pirates, 'Gashed' Albion with a bounty of 92 million berries and 'Lip Service' Doughty with 88 million berries, are recruited by the Fake Straw Hat crew at Grove 46.",
+      "significance": "Shows the influence and reach of the Straw Hat name, as even imposters can recruit powerful pirates by pretending to be them.",
+      "characterIds": ["albion", "lip-doughty", "demalo-black"],
+      "locationIds": ["sabaody-archipelago"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [520],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep519-event-005",
+      "episodeNumber": 519,
+      "timestamp": "13:20",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MINOR",
+      "title": "Chopper Discovers Fake Crew's Cruelty",
+      "description": "Chopper becomes upset when Fake Luffy decides to abandon Fake Robin (Cocoa) after she is kidnapped, refusing to rescue her. This angers Chopper, who doesn't yet realize these are imposters, and he storms off to rescue her himself.",
+      "significance": "Demonstrates Chopper's loyalty and the stark difference between the real Straw Hats' values and the fake crew's selfishness.",
+      "characterIds": ["chopper", "demalo-black", "cocoa"],
+      "locationIds": ["sabaody-archipelago"],
+      "quotes": [
+        {
+          "text": "How can you just abandon your own crewmate?! I'll save Robin myself!",
+          "speaker": "Chopper",
+          "context": "Chopper's outrage at Fake Luffy's decision to abandon Fake Robin"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [519],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep519-event-006",
+      "episodeNumber": 519,
+      "timestamp": "15:45",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Chopper Reunites with Real Nami and Usopp",
+      "description": "After leaving the fake crew, Chopper finds the real Nami and Usopp. This marks the first time Chopper sees his actual crewmates after the two-year separation, revealing their post-timeskip appearances.",
+      "significance": "Important reunion moment showing the real Straw Hats coming back together and Chopper's first encounter with his transformed crewmates.",
+      "characterIds": ["chopper", "nami", "usopp"],
+      "locationIds": ["sabaody-archipelago"],
+      "quotes": [
+        {
+          "text": "Nami! Usopp! It's really you!",
+          "speaker": "Chopper",
+          "context": "Chopper finally reuniting with his real crewmates"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [517, 518],
+      "payoffInEpisodes": [520],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep519-event-007",
+      "episodeNumber": 519,
+      "timestamp": "17:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Marines Mobilize Against the Straw Hats",
+      "description": "The Marines spot what they believe to be the Straw Hat Pirates and mobilize their forces. Sentomaru is dispatched with two Pacifista units, PX-5 and PX-7, warning his troops not to underestimate the crew as they may have gotten stronger over the past two years.",
+      "significance": "Escalates the tension and sets up the upcoming confrontation between the Marines and both the real and fake Straw Hat crews. Also shows that the Marines are aware the Straw Hats have likely become more powerful.",
+      "characterIds": ["sentomaru"],
+      "locationIds": ["sabaody-archipelago"],
+      "crewIds": ["marines"],
+      "quotes": [
+        {
+          "text": "Don't underestimate them! They may have gotten much stronger in the last two years, especially their captain, Luffy!",
+          "speaker": "Sentomaru",
+          "context": "Sentomaru warning Marines about the Straw Hats' potential growth"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [517, 518],
+      "payoffInEpisodes": [520],
+      "callbacksToEpisodes": [405, 511]
+    },
+    {
+      "id": "ep519-event-008",
+      "episodeNumber": 519,
+      "timestamp": "19:00",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Sentomaru Arrives with Pacifistas PX-5 and PX-7",
+      "description": "Sentomaru appears on Sabaody Archipelago commanding two Pacifista units, PX-5 and PX-7. This is the first time the Straw Hats will face Pacifistas since their devastating defeat two years ago.",
+      "significance": "Sets up a critical test of the Straw Hats' new strength and serves as a callback to their previous humiliating encounter with Pacifistas before the timeskip.",
+      "characterIds": ["sentomaru"],
+      "locationIds": ["sabaody-archipelago"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [405, 511],
+      "payoffInEpisodes": [520, 521],
+      "callbacksToEpisodes": [405]
+    },
+    {
+      "id": "ep519-event-009",
+      "episodeNumber": 519,
+      "timestamp": "20:15",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Fake Straw Hats Recruit Powerful Pirates",
+      "description": "The Fake Straw Hat crew successfully recruits numerous rookie pirates with significant bounties, including Caribou, Coribou, Albion, and Lip Doughty. This demonstrates how powerful the Straw Hat name has become in the pirate world.",
+      "significance": "Shows the legendary status the Straw Hat crew has achieved, as even imposters can gather a formidable force simply by claiming to be them.",
+      "characterIds": ["demalo-black", "caribou", "coribou", "albion", "lip-doughty"],
+      "locationIds": ["sabaody-archipelago"],
+      "crewIds": ["fake-straw-hat-crew", "caribou-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [518],
+      "payoffInEpisodes": [520],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep519-event-010",
+      "episodeNumber": 519,
+      "timestamp": "04:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "MINOR",
+      "title": "Franky Shows Off Post-Timeskip Upgrades",
+      "description": "Franky displays his new cyborg modifications to Robin, showing off his bulkier, more powerful post-timeskip design with enhanced capabilities.",
+      "significance": "Reveals the first glimpse of Franky's technological improvements gained during the timeskip on Vegapunk's island.",
+      "characterIds": ["franky", "robin"],
+      "locationIds": ["thousand-sunny"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [517],
+      "payoffInEpisodes": [520, 521],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["caribou", "coribou", "albion", "lip-doughty"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": ["caribou-pirates"],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [520, 521, 522],
+    "payoffFrom": [517, 518],
+    "thematicLinks": [405, 511]
+  },
+  "quotes": [
+    {
+      "text": "Don't underestimate them! They may have gotten much stronger in the last two years, especially their captain, Luffy!",
+      "speaker": "Sentomaru",
+      "context": "Warning Marines about the Straw Hats' growth during the timeskip",
+      "timestamp": "17:30"
+    },
+    {
+      "text": "How can you just abandon your own crewmate?! I'll save Robin myself!",
+      "speaker": "Chopper",
+      "context": "Chopper's outrage at Fake Luffy abandoning a crewmate",
+      "timestamp": "13:20"
+    },
+    {
+      "text": "Zoro! Sanji! Robin! I finally found you!",
+      "speaker": "Chopper",
+      "context": "Chopper mistaking the fake crew for his real friends",
+      "timestamp": "06:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Identity and Recognition",
+      "description": "The episode explores themes of identity through the contrast between the real and fake Straw Hat crews. Chopper's inability to recognize his own crewmates highlights how much they've changed, while the imposters' success in recruiting shows how legendary the Straw Hat name has become.",
+      "symbolism": "The fake crew represents the gap between reputation and reality, while the real crew's transformations symbolize genuine growth and development.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Growth and Transformation",
+      "description": "The episode emphasizes the massive changes the Straw Hats have undergone during the two-year timeskip, both in appearance and ability. The Marines' wariness and Sentomaru's warnings acknowledge this growth.",
+      "symbolism": "Franky's upgraded body represents the visible, tangible improvements all the Straw Hats have made during their training.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Loyalty and Crew Bonds",
+      "description": "Chopper's reaction to the fake Luffy abandoning a crewmate demonstrates the core values of the real Straw Hat crew - they never abandon their own, no matter what.",
+      "symbolism": "The contrast between fake and real crews highlights the importance of genuine bonds over superficial association.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Anticipation", "Reunion", "Tension", "Comedic", "Suspenseful"],
+  "characterSpotlights": [
+    {
+      "characterId": "chopper",
+      "role": "Primary focus character",
+      "development": "Chopper experiences confusion and disappointment when encountering the fake crew, but his core values shine through when he refuses to accept abandoning a crewmate. His reunion with the real Nami and Usopp shows his joy at finding his true friends.",
+      "keyActions": [
+        "Mistakes the Fake Straw Hats for his real crewmates",
+        "Becomes angry when Fake Luffy abandons Fake Robin",
+        "Storms off to rescue who he thinks is Robin",
+        "Reunites with the real Nami and Usopp"
+      ],
+      "quotes": [
+        "Zoro! Sanji! Robin! I finally found you!",
+        "How can you just abandon your own crewmate?! I'll save Robin myself!"
+      ]
+    },
+    {
+      "characterId": "robin",
+      "role": "Supporting character",
+      "development": "Robin reunites with Franky and sees the Thousand Sunny's coating, preparing for the journey to the New World. Her calm demeanor reflects her maturity after the timeskip.",
+      "keyActions": [
+        "Arrives at the Thousand Sunny",
+        "Reunites with Franky",
+        "Discusses Brook's musical career and their upcoming journey"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "sentomaru",
+      "role": "Antagonist mobilization",
+      "development": "Sentomaru demonstrates his tactical awareness by recognizing that the Straw Hats have likely become much stronger, showing he learned from their previous encounter.",
+      "keyActions": [
+        "Mobilizes Marine forces against the Straw Hats",
+        "Commands Pacifista units PX-5 and PX-7",
+        "Warns troops not to underestimate the Straw Hats"
+      ],
+      "quotes": [
+        "Don't underestimate them! They may have gotten much stronger in the last two years, especially their captain, Luffy!"
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended scenes with Chopper and the fake crew, showing more of their interaction and Chopper's confusion.",
+      "episodeTimestamp": "06:30-13:00",
+      "mangaReference": "Chapter 599",
+      "type": "ANIME_EXTENDED_SCENE"
+    },
+    {
+      "difference": "The appearances of Pacifista units PX-5 and PX-7 are shown more clearly in the anime with additional animation sequences.",
+      "episodeTimestamp": "19:00",
+      "mangaReference": "Chapter 600",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "Added sequences for shopping and character separation scenes not present in the manga.",
+      "episodeTimestamp": "Various",
+      "mangaReference": "Chapters 599-600",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode features the revised version of Opening 15 ('We Go!') with action sequences instead of the previous slideshow of memories.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_519",
+          "title": "Episode 519 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-17"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 519 marks the first appearance of Chopper in Walk Point form after the timeskip.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chapter_600",
+          "title": "Chapter 600 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-17"
+        }
+      ]
+    },
+    {
+      "fact": "Caribou and Coribou both have bounties exceeding 190 million berries, making them part of the 'Eleven Supernovas' generation of powerful rookie pirates.",
+      "category": "WORLD_BUILDING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Caribou",
+          "title": "Caribou - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-17"
+        }
+      ]
+    },
+    {
+      "fact": "This is the third episode of the Return to Sabaody Arc, which consists of only 6 episodes total (517-522).",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Return_to_Sabaody_Arc",
+          "title": "Return to Sabaody Arc - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-17"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

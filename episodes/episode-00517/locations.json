@@ -1,0 +1,131 @@
+[
+  {
+    "name": {
+      "english": "Sabaody Archipelago",
+      "japanese": "シャボンディ諸島",
+      "romanized": "Shabondi Shotō"
+    },
+    "locationType": "ISLAND_GROUP",
+    "seaRegion": "PARADISE",
+    "islandName": "Sabaody Archipelago",
+    "debutEpisode": 385,
+    "debutChapter": 496,
+    "description": "A unique archipelago made up of enormous mangrove trees whose roots have grown so large they formed a grove. The trees secrete special resin that forms bubbles. Located near the Red Line, it's the last stop before the New World.",
+    "episodeAppearances": [517],
+    "keyEvents": [
+      {
+        "episodeNumber": 517,
+        "eventId": "ep517-event-004",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Straw Hats Return to Sabaody",
+        "description": "After two years, the Straw Hat Pirates begin arriving at Sabaody Archipelago to reunite as promised.",
+        "significance": "Marks the reunion point where the crew promised to meet after their separation. This return symbolizes the beginning of their journey to the New World.",
+        "timestamp": "08:20"
+      },
+      {
+        "episodeNumber": 517,
+        "eventId": "ep517-event-006",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Fake Straw Hat Crew Activities",
+        "description": "The Fake Straw Hat Crew operates on Sabaody, recruiting pirates and exploiting the real crew's reputation.",
+        "significance": "Shows how the Straw Hats' legend has grown during their absence, with imposters attempting to capitalize on their fame.",
+        "timestamp": "11:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 517,
+        "episodeEnd": "present",
+        "reason": "The archipelago continues to function as a major hub"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["shakkys-bar", "grove-41", "grove-42"],
+    "relatedCharacters": ["luffy", "zoro", "nami", "usopp", "sanji", "robin", "franky", "chopper", "brook", "rayleigh", "shakuyaku", "demaro-black"],
+    "relatedCrews": ["straw-hat-pirates", "fake-straw-hat-crew"],
+    "relatedArcs": ["Return to Sabaody"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Shakky's Rip-off Bar",
+      "japanese": "シャッキーのぼったくりBAR",
+      "romanized": "Shakkī no Bottakuri Bā"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "PARADISE",
+    "islandName": "Sabaody Archipelago",
+    "debutEpisode": 392,
+    "debutChapter": 498,
+    "description": "A bar on Sabaody Archipelago run by Shakuyaku (Shakky), a former pirate. Located on Grove 13, it serves as Rayleigh's residence and a meeting point for the Straw Hats.",
+    "episodeAppearances": [517],
+    "keyEvents": [
+      {
+        "episodeNumber": 517,
+        "eventId": "ep517-event-004",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Zoro Arrives at Shakky's Bar",
+        "description": "Zoro becomes the first Straw Hat to arrive at the designated meeting point, surprising Rayleigh and Shakky.",
+        "significance": "First reunion location where crew members begin gathering. Zoro's miraculous arrival first despite his poor direction sense becomes legendary.",
+        "timestamp": "08:20"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 517,
+        "episodeEnd": "present",
+        "reason": "Bar continues operating"
+      }
+    ],
+    "parentLocation": "sabaody-archipelago",
+    "childLocations": [],
+    "relatedCharacters": ["zoro", "rayleigh", "shakuyaku"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Return to Sabaody"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Ruskaina",
+      "japanese": "ルスカイナ",
+      "romanized": "Rusukaina"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "CALM_BELT",
+    "islandName": "Ruskaina",
+    "debutEpisode": 516,
+    "debutChapter": 597,
+    "description": "A deserted island northwest of Amazon Lily in the Calm Belt. The island has 48 seasons that change weekly, creating a harsh and unpredictable environment. It's inhabited by dangerous beasts stronger than those on the main island of Amazon Lily.",
+    "episodeAppearances": [517],
+    "keyEvents": [
+      {
+        "episodeNumber": 517,
+        "eventId": "ep517-event-002",
+        "eventType": "LOCATION_DEPARTURE",
+        "title": "Luffy Departs Ruskaina",
+        "description": "After two years of intense training on Ruskaina, Luffy completes his preparation and departs the island to reunite with his crew.",
+        "significance": "Marks the completion of Luffy's intensive two-year training period under Rayleigh's guidance. His departure symbolizes his readiness for the New World.",
+        "timestamp": "03:15"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 517,
+        "episodeEnd": "present",
+        "reason": "Island remains inhabited by dangerous beasts"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "rayleigh"],
+    "relatedCrews": [],
+    "relatedArcs": ["Return to Sabaody"],
+    "images": []
+  }
+]
