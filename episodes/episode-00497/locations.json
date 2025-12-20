@@ -1,0 +1,152 @@
+[
+  {
+    "id": "brothers-hideout",
+    "name": {
+      "english": "Luffy, Ace, and Sabo's Hideout",
+      "japanese": "ルフィ、エース、サボの秘密基地",
+      "romanized": "Rufi, Ēsu, Sabo no Himitsu Kichi"
+    },
+    "locationType": "HIDEOUT",
+    "seaRegion": "EAST_BLUE",
+    "islandName": "Dawn Island",
+    "debutEpisode": 497,
+    "debutChapter": 585,
+    "description": "An elaborate treehouse hideout built by Luffy, Ace, and Sabo atop a huge tree in the forest of Mt. Colubo. The structure is designed to resemble a pirate ship, complete with booby traps to protect it from intruders.",
+    "episodeAppearances": [497],
+    "keyEvents": [
+      {
+        "episodeNumber": 497,
+        "eventId": "ep497-event-004",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Construction of the Pirate Ship Hideout",
+        "description": "The three brothers build their hideout using materials from Gray Terminal, designing it to look like a pirate ship.",
+        "significance": "This hideout becomes the brothers' base of operations and symbolizes their shared dream of becoming pirates.",
+        "timestamp": "11:30"
+      },
+      {
+        "episodeNumber": 497,
+        "eventId": "ep497-event-005",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Setting Up Booby Traps",
+        "description": "The brothers set up elaborate Rube Goldberg-style traps around the hideout.",
+        "significance": "Shows the brothers' creativity and desire to protect their shared space.",
+        "timestamp": "14:45"
+      },
+      {
+        "episodeNumber": 497,
+        "eventId": "ep497-event-008",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Dadan Triggers the Trap",
+        "description": "Dadan finds the hideout and accidentally triggers the booby trap, getting hit with a mallet.",
+        "significance": "Comedic payoff to the trap setup and shows Dadan's dedication to finding the boys.",
+        "timestamp": "20:35"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 497,
+        "episodeEnd": "present",
+        "reason": "Hideout constructed and in use by the three brothers"
+      }
+    ],
+    "parentLocation": "Mt. Colubo",
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "ace", "sabo"],
+    "relatedCrews": [],
+    "relatedArcs": ["Post-War Arc"],
+    "images": []
+  },
+  {
+    "id": "gray-terminal",
+    "name": {
+      "english": "Gray Terminal",
+      "japanese": "グレイ・ターミナル",
+      "romanized": "Gurei Tāminaru"
+    },
+    "locationType": "JUNKYARD",
+    "seaRegion": "EAST_BLUE",
+    "islandName": "Dawn Island",
+    "debutEpisode": 494,
+    "debutChapter": 583,
+    "description": "A massive junkyard located on Dawn Island, north of Mt. Colubo and just outside the great gate of Goa Kingdom. Filled with unwanted goods and people ejected from the city of Goa, it is a lawless community without proper medical care. Based on Smokey Mountain, a famous slum in Manila.",
+    "episodeAppearances": [497],
+    "keyEvents": [
+      {
+        "episodeNumber": 497,
+        "eventId": "ep497-event-003",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Gathering Materials from Gray Terminal",
+        "description": "Luffy, Ace, and Sabo visit Gray Terminal to collect scrap materials for building their hideout.",
+        "significance": "Shows the resourcefulness of the brothers and highlights the Gray Terminal's role as a source of materials.",
+        "timestamp": "08:15"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 494,
+        "episodeEnd": 501,
+        "reason": "Junkyard is operational and inhabited"
+      }
+    ],
+    "parentLocation": "Goa Kingdom",
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "ace", "sabo", "bluejam"],
+    "relatedCrews": ["bluejam-pirates"],
+    "relatedArcs": ["Post-War Arc"],
+    "images": []
+  },
+  {
+    "id": "mt-colubo",
+    "name": {
+      "english": "Mt. Colubo",
+      "japanese": "コルボ山",
+      "romanized": "Korubo Yama"
+    },
+    "locationType": "MOUNTAIN",
+    "seaRegion": "EAST_BLUE",
+    "islandName": "Dawn Island",
+    "debutEpisode": 494,
+    "debutChapter": 582,
+    "description": "A mountain on Dawn Island in the East Blue, located behind Foosha Village. It serves as the home of Curly Dadan and her gang of bandits. Because of the mountain's closeness to the Midway Forest, many dangerous animals inhabit the area.",
+    "episodeAppearances": [497],
+    "keyEvents": [
+      {
+        "episodeNumber": 497,
+        "eventId": "ep497-event-001",
+        "eventType": "MAJOR_DECISION",
+        "title": "Garp Attacks the Brothers",
+        "description": "Garp confronts and attacks Luffy, Ace, and Sabo at Mt. Colubo for wanting to be pirates.",
+        "significance": "Sets in motion the brothers' decision to build their own hideout.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 497,
+        "eventId": "ep497-event-007",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Dadan Worries About the Brothers",
+        "description": "At Dadan's bandit hideout on Mt. Colubo, Dadan worries when the boys don't return during a storm.",
+        "significance": "Shows Dadan's maternal concern for the boys.",
+        "timestamp": "18:10"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 494,
+        "episodeEnd": "present",
+        "reason": "Mountain and Dadan's hideout are operational"
+      }
+    ],
+    "parentLocation": "Dawn Island",
+    "childLocations": ["brothers-hideout"],
+    "relatedCharacters": ["luffy", "ace", "sabo", "dadan", "garp"],
+    "relatedCrews": ["dadan-family"],
+    "relatedArcs": ["Post-War Arc"],
+    "images": []
+  }
+]

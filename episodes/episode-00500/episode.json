@@ -1,0 +1,431 @@
+{
+  "episodeNumber": 500,
+  "episodeTitle": "Freedom Taken Away! The Nobles' Plot Closing in on the Brothers!",
+  "description": "Luffy, Ace, and Sabo search Gray Terminal for supplies when they are captured by the Bluejam Pirates. Sabo is forced to return to High Town where he discovers the nobles' sinister plan to burn down Gray Terminal.",
+  "airDate": "2011-05-29",
+  "airDateJapan": "2011-05-29",
+  "airDateUS": "2015-02-28",
+  "arcName": "Post-War Arc",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Fight Together",
+    "artist": "Namie Amuro",
+    "episodeRange": [493, 516]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Eisaku Inoue",
+    "artDirector": "Miho Shiraishi",
+    "writer": "Yoshiyuki Suga",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Portgas D. Ace",
+        "actor": "Toshio Furukawa"
+      },
+      {
+        "character": "Sabo",
+        "actor": "Tōru Furuya"
+      },
+      {
+        "character": "Bluejam",
+        "actor": "Keiichi Sonobe"
+      },
+      {
+        "character": "Outlook III",
+        "actor": "Shuichi Ikeda"
+      },
+      {
+        "character": "Sterry",
+        "actor": "Nobuyuki Hiyama"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Portgas D. Ace",
+        "actor": "Travis Willingham"
+      },
+      {
+        "character": "Sabo",
+        "actor": "Vic Mignogna"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep500-event-001",
+      "episodeNumber": 500,
+      "timestamp": "03:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Brothers Search Gray Terminal",
+      "description": "After their hideout is destroyed by a storm, Luffy, Ace, and Sabo arrive at Gray Terminal to search for materials to rebuild. Luffy expresses his desire to find a telescope.",
+      "significance": "Sets up the episode's central conflict as the brothers unknowingly walk into a trap set by the nobles and Bluejam Pirates.",
+      "characterIds": ["luffy", "ace", "sabo"],
+      "locationIds": ["gray-terminal"],
+      "quotes": [
+        {
+          "text": "I want a telescope!",
+          "speaker": "Luffy",
+          "context": "Luffy's innocent desire while searching through the garbage of Gray Terminal"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [499],
+      "payoffInEpisodes": [500],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep500-event-002",
+      "episodeNumber": 500,
+      "timestamp": "06:45",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MAJOR",
+      "title": "Sabo Finds the Telescope",
+      "description": "While searching for parts, Sabo discovers a telescope but is immediately surrounded by the Bluejam Pirates. The telescope will become a symbol of Sabo's broken dreams.",
+      "significance": "The telescope represents Luffy's wish and becomes a powerful symbol when it breaks, marking the end of Sabo's freedom and dreams with his brothers.",
+      "characterIds": ["sabo", "luffy", "bluejam"],
+      "locationIds": ["gray-terminal"],
+      "crewIds": ["bluejam-pirates"],
+      "quotes": [
+        {
+          "text": "I didn't know one of the three infamous brats was a Noble.",
+          "speaker": "Bluejam",
+          "context": "Bluejam reveals he knows Sabo's secret identity"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [500],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep500-event-003",
+      "episodeNumber": 500,
+      "timestamp": "10:20",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Three Brothers Fight Bluejam Pirates",
+      "description": "Ace and Luffy appear to help Sabo, and all three brothers put up a fierce fight against the Bluejam Pirates until Bluejam pulls out a gun and they are overpowered.",
+      "significance": "Demonstrates the brothers' bond and their fighting skills, but also shows they are still children who can be overwhelmed by adult pirates with firearms.",
+      "characterIds": ["luffy", "ace", "sabo", "bluejam"],
+      "locationIds": ["gray-terminal"],
+      "crewIds": ["bluejam-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep500-event-004",
+      "episodeNumber": 500,
+      "timestamp": "12:30",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Outlook III Arrives to Claim Sabo",
+      "description": "Sabo's biological father, Outlook III, arrives at Gray Terminal having hired the Bluejam Pirates to retrieve his runaway son. He shows disgust when Ace's blood touches him.",
+      "significance": "Reveals the class divide and prejudice that exists in the Goa Kingdom, and shows why Sabo ran away from his noble family.",
+      "characterIds": ["sabo", "outlook-iii", "ace"],
+      "locationIds": ["gray-terminal"],
+      "quotes": [
+        {
+          "text": "You got your trashy kid's blood all over me!",
+          "speaker": "Outlook III",
+          "context": "Outlook III's disgust when blood from Ace gets on him, showing his contempt for non-nobles"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [496, 497],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep500-event-005",
+      "episodeNumber": 500,
+      "timestamp": "14:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Sabo's Sacrifice for His Brothers",
+      "description": "Fearing that Bluejam will kill Ace and Luffy, Sabo tearfully agrees to return with his father, sacrificing his freedom and dreams to protect his brothers. He drops and breaks the telescope.",
+      "significance": "This is a pivotal character moment showing Sabo's love for his brothers and his willingness to sacrifice everything for them. The broken telescope symbolizes his shattered dreams of freedom.",
+      "characterIds": ["sabo", "luffy", "ace", "outlook-iii"],
+      "locationIds": ["gray-terminal"],
+      "quotes": [
+        {
+          "text": "They are my brothers!",
+          "speaker": "Sabo",
+          "context": "Sabo's declaration as he agrees to go with his father to save Ace and Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [501, 502, 503],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep500-event-006",
+      "episodeNumber": 500,
+      "timestamp": "16:30",
+      "eventType": "CREW_JOIN",
+      "severity": "MINOR",
+      "title": "Ace and Luffy Join Bluejam's Crew",
+      "description": "Taken to Bluejam's hideout, Ace and Luffy are offered positions on his pirate crew. They accept, unaware they are being used in the nobles' plot to burn Gray Terminal.",
+      "significance": "Sets up the brothers' unwitting involvement in the Gray Terminal fire, showing how the Bluejam Pirates manipulate them.",
+      "characterIds": ["luffy", "ace", "bluejam"],
+      "locationIds": ["bluejam-hideout"],
+      "crewIds": ["bluejam-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [501],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep500-event-007",
+      "episodeNumber": 500,
+      "timestamp": "17:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Sterry's First Appearance",
+      "description": "Sabo returns to High Town and meets Sterry, the boy his parents adopted to replace him as their heir. Sterry is condescending and reveals he knows about the nobles' plans.",
+      "significance": "Introduces Sterry, who will later become a significant character in the story, and shows the calculating nature of Sabo's family.",
+      "characterIds": ["sabo", "sterry"],
+      "locationIds": ["outlook-mansion"],
+      "quotes": [
+        {
+          "text": "You had the devil's luck.",
+          "speaker": "Sterry",
+          "context": "Sterry's first words to Sabo, hinting at the danger Sabo escaped"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep500-event-008",
+      "episodeNumber": 500,
+      "timestamp": "19:15",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Discovery of the Gray Terminal Fire Plot",
+      "description": "Sterry cryptically tells Sabo that Gray Terminal will be burned to make the country 'clean' for an upcoming World Noble visit. Sabo realizes the horrifying scope of the nobles' plan to eliminate everyone in Gray Terminal.",
+      "significance": "Reveals the depths of the nobles' cruelty and their willingness to commit mass murder for appearances. This is a major world-building moment showing the dark side of the World Government's influence.",
+      "characterIds": ["sabo", "sterry"],
+      "locationIds": ["outlook-mansion"],
+      "quotes": [
+        {
+          "text": "If there is a fire at the Gray Terminal, then this country will be clean.",
+          "speaker": "Sterry",
+          "context": "Sterry reveals the nobles' plan to burn Gray Terminal"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [501, 502],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep500-event-009",
+      "episodeNumber": 500,
+      "timestamp": "20:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Sabo Escapes to Warn His Brothers",
+      "description": "Upon learning of the plot, Sabo immediately escapes from his mansion to warn Ace and Luffy. He overhears his father's men confirming that the Bluejam Pirates will execute the fire.",
+      "significance": "Shows Sabo's determination to save his brothers despite having just sacrificed everything to return home. Demonstrates his true priorities and courage.",
+      "characterIds": ["sabo"],
+      "locationIds": ["outlook-mansion", "high-town"],
+      "quotes": [
+        {
+          "text": "Run! Ace! Luffy!",
+          "speaker": "Sabo",
+          "context": "Sabo's desperate cry as he runs to warn his brothers, ending the episode"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [501],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["sterry"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [501, 502, 503],
+    "payoffFrom": [496, 497, 498, 499],
+    "thematicLinks": [504, 589, 737]
+  },
+  "quotes": [
+    {
+      "text": "They are my brothers!",
+      "speaker": "Sabo",
+      "context": "Sabo's declaration as he sacrifices his freedom to protect Ace and Luffy",
+      "timestamp": "14:45"
+    },
+    {
+      "text": "I didn't know one of the three infamous brats was a Noble.",
+      "speaker": "Bluejam",
+      "context": "Bluejam reveals he knows Sabo's secret",
+      "timestamp": "06:45"
+    },
+    {
+      "text": "If there is a fire at the Gray Terminal, then this country will be clean.",
+      "speaker": "Sterry",
+      "context": "Revealing the nobles' genocidal plan",
+      "timestamp": "19:15"
+    },
+    {
+      "text": "Run! Ace! Luffy!",
+      "speaker": "Sabo",
+      "context": "Sabo's desperate cry ending the episode",
+      "timestamp": "20:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Sacrifice and Brotherhood",
+      "description": "Sabo sacrifices his freedom and dreams to protect Ace and Luffy, demonstrating the depth of their brotherly bond.",
+      "symbolism": "The broken telescope represents Sabo's shattered dreams and the price of his sacrifice for his brothers.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Class Inequality and Injustice",
+      "description": "The episode starkly contrasts the lives of nobles in High Town with the poor residents of Gray Terminal, showing the cruel indifference of the upper class.",
+      "symbolism": "Gray Terminal itself symbolizes how the nobles view the poor as 'trash' to be discarded and eliminated.",
+      "culturalReferences": [
+        "Reflects real-world class struggles and the dehumanization of the poor by the wealthy"
+      ]
+    },
+    {
+      "theme": "Loss of Freedom",
+      "description": "Sabo's forced return to noble life represents the loss of freedom and the crushing of dreams under societal expectations.",
+      "symbolism": "Sabo being taken from Gray Terminal back to High Town symbolizes the loss of freedom and being trapped by birthright.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Corruption and Evil in Power",
+      "description": "The nobles' plan to burn Gray Terminal reveals the depths of corruption and evil that those in power can commit.",
+      "symbolism": "The planned fire represents the powerful literally burning away those they deem unworthy.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tragic", "Tense", "Heartbreaking", "Ominous"],
+  "characterSpotlights": [
+    {
+      "characterId": "sabo",
+      "role": "Episode protagonist",
+      "development": "Sabo faces the ultimate test of his character, choosing to sacrifice his freedom to protect his brothers, then risking everything again to warn them of the nobles' plot. Shows his growth from a runaway noble to someone who truly values bonds over status.",
+      "keyActions": [
+        "Finds the telescope for Luffy",
+        "Fights the Bluejam Pirates alongside his brothers",
+        "Sacrifices his freedom to save Ace and Luffy",
+        "Discovers the Gray Terminal fire plot",
+        "Escapes to warn his brothers"
+      ],
+      "quotes": [
+        "They are my brothers!",
+        "Run! Ace! Luffy!"
+      ]
+    },
+    {
+      "characterId": "outlook-iii",
+      "role": "Antagonist",
+      "development": "Revealed as a cruel, classist noble who sees non-nobles as trash and is willing to use pirates to retrieve his son for the sake of family reputation.",
+      "keyActions": [
+        "Hires Bluejam Pirates to capture Sabo",
+        "Shows disgust when Ace's blood touches him",
+        "Forces Sabo to return to High Town"
+      ],
+      "quotes": [
+        "You got your trashy kid's blood all over me!"
+      ]
+    },
+    {
+      "characterId": "sterry",
+      "role": "Supporting antagonist",
+      "development": "Introduced as Sabo's adopted replacement, showing calculating intelligence and complicity with the nobles' cruel plans.",
+      "keyActions": [
+        "Meets Sabo for the first time",
+        "Reveals knowledge of the Gray Terminal fire plot",
+        "Shows his cruel, elitist worldview"
+      ],
+      "quotes": [
+        "If there is a fire at the Gray Terminal, then this country will be clean."
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended several scenes for pacing, including the brothers' search through Gray Terminal and the confrontation with Bluejam.",
+      "episodeTimestamp": "03:15-12:30",
+      "mangaReference": "Chapters 585-586",
+      "type": "PACING"
+    },
+    {
+      "difference": "Additional dialogue was added to Sterry's conversation with Sabo to make the nobles' plot more explicit.",
+      "episodeTimestamp": "17:45-19:15",
+      "mangaReference": "Chapter 586",
+      "type": "EXPANDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episode 500 marks a significant milestone as the 500th episode of the One Piece anime, though it focuses on a flashback rather than present-day events.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_500",
+          "title": "Episode 500 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-15"
+        }
+      ]
+    },
+    {
+      "fact": "The broken telescope in this episode becomes one of the most poignant symbols in the Sabo flashback arc, representing shattered dreams and lost childhood.",
+      "category": "SYMBOLISM",
+      "sources": []
+    },
+    {
+      "fact": "This episode adapts Chapter 585 (pages 18-19) and Chapter 586 (pages 2-12), showing the slower pacing typical of the Post-War Arc.",
+      "category": "MANGA_ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_500",
+          "title": "Episode 500 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-15"
+        }
+      ]
+    },
+    {
+      "fact": "To celebrate the 500th episode milestone, Funimation uploaded episodes 1-202 (all dubbed episodes at the time) to their website.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "Sterry, who debuts in this episode, later becomes the King of Goa Kingdom, making his first appearance here particularly significant.",
+      "category": "CHARACTER",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
