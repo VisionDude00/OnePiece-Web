@@ -1,0 +1,612 @@
+{
+  "episodeNumber": 487,
+  "episodeTitle": "The Insatiable Akainu! Lava Fists Pummel Luffy!",
+  "episodeTitleJapanese": "赤犬の執念！ルフィを襲うマグマの拳",
+  "episodeTitleRomanized": "Akainu no Shūnen! Rufi o Osou Maguma no Kobushi",
+  "description": "As Marineford crumbles, Blackbeard threatens to destroy the entire island with Whitebeard's stolen power, but Sengoku counters with a devastating shockwave. Meanwhile, Akainu relentlessly pursues the escaping Luffy and Jinbe, gravely wounding both. Crocodile and the Whitebeard Commanders intervene to protect Luffy, while Trafalgar Law arrives offering medical assistance.",
+  "airDate": "2011-02-13",
+  "airDateJapan": "2011-02-13",
+  "airDateUS": "2011-02-12",
+  "airDateUSFunimation": null,
+  "arcName": "Marineford Arc",
+  "sagaName": "Summit War Saga",
+  "animationQuality": "ENHANCED",
+  "openingSong": {
+    "title": "One day",
+    "titleJapanese": "One day",
+    "artist": "The ROOTLESS",
+    "composer": "The ROOTLESS",
+    "lyricist": "The ROOTLESS",
+    "episodeRange": [459, 492]
+  },
+  "endingSong": null,
+  "credits": {
+    "director": "Gō Koga",
+    "screenplay": "Jin Tanaka",
+    "artDirector": "Miyuki Sato",
+    "animationDirector": "Takeo Ide",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Katsuhisa Houki"
+      },
+      {
+        "character": "Akainu (Sakazuki)",
+        "actor": "Fumihiko Tachiki"
+      },
+      {
+        "character": "Crocodile",
+        "actor": "Ryūzaburō Ōtomo"
+      },
+      {
+        "character": "Trafalgar Law",
+        "actor": "Hiroshi Kamiya"
+      },
+      {
+        "character": "Blackbeard (Marshall D. Teach)",
+        "actor": "Akio Ōtsuka"
+      },
+      {
+        "character": "Sengoku",
+        "actor": "Takkō Ishimori"
+      },
+      {
+        "character": "Marco",
+        "actor": "Masakazu Morita"
+      },
+      {
+        "character": "Vista",
+        "actor": "Masaya Takatsuka"
+      },
+      {
+        "character": "Buggy",
+        "actor": "Shigeru Chiba"
+      },
+      {
+        "character": "Koby",
+        "actor": "Mika Doi"
+      },
+      {
+        "character": "Ivankov",
+        "actor": "Norio Imamura"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Daniel Baugh"
+      },
+      {
+        "character": "Akainu (Sakazuki)",
+        "actor": "Andrew Love"
+      },
+      {
+        "character": "Crocodile",
+        "actor": "John Swasey"
+      },
+      {
+        "character": "Trafalgar Law",
+        "actor": "Matthew Mercer"
+      },
+      {
+        "character": "Blackbeard (Marshall D. Teach)",
+        "actor": "Cole Brown"
+      },
+      {
+        "character": "Sengoku",
+        "actor": "Ed Blaylock"
+      },
+      {
+        "character": "Marco",
+        "actor": "Jeff Johnson"
+      },
+      {
+        "character": "Buggy",
+        "actor": "Mike McFarland"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep487-event-001",
+      "episodeNumber": 487,
+      "timestamp": "02:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Marineford Headquarters Begins to Collapse",
+      "description": "The main building of Marineford Headquarters starts to crumble and collapse after the devastating battle. Marines flee as the top part of the building breaks apart, with civilians and Marines watching in shock and tears from Sabaody Archipelago.",
+      "significance": "Symbolizes the end of an era and the physical destruction caused by the Summit War. The collapse of Marine HQ represents the Marines' loss despite their victory.",
+      "characterIds": [],
+      "locationIds": ["marineford"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [472, 473, 474],
+      "payoffInEpisodes": [489],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep487-event-002",
+      "episodeNumber": 487,
+      "timestamp": "04:15",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Blackbeard Tests Whitebeard's Earthquake Power",
+      "description": "Marshall D. Teach demonstrates Whitebeard's stolen Gura Gura no Mi power, declaring he will sink Marineford to its core as a demonstration of his new abilities. The battlefield becomes uneven as he creates tremor shockwaves.",
+      "significance": "First demonstration of Blackbeard actively using Whitebeard's Devil Fruit power after stealing it. Shows his intent to destroy everything and marks his rise as a major threat.",
+      "characterIds": ["blackbeard"],
+      "locationIds": ["marineford"],
+      "devilFruitIds": ["gura-gura-no-mi"],
+      "quotes": [
+        {
+          "text": "How should I begin using my new powers? I know - I'll sink Marineford to its core!",
+          "speaker": "Blackbeard",
+          "context": "Blackbeard testing Whitebeard's earthquake power"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [485],
+      "payoffInEpisodes": [577, 1059],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep487-event-003",
+      "episodeNumber": 487,
+      "timestamp": "05:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Sengoku Attacks Blackbeard Pirates with Shockwave",
+      "description": "Sengoku transforms into his Buddha form and delivers a powerful shockwave palm thrust to the Blackbeard Pirates, sending the entire crew flying. His golden shockwaves clash with Blackbeard's tremor shockwaves, and he delivers a rousing speech to raise the Marines' spirits.",
+      "significance": "Demonstrates Sengoku's immense power and leadership as Fleet Admiral. Shows that despite their losses, the Marines still have the strength to fight back against new threats.",
+      "characterIds": ["sengoku", "blackbeard"],
+      "devilFruitIds": ["hito-hito-no-mi-model-daibutsu", "gura-gura-no-mi"],
+      "quotes": [
+        {
+          "text": "Do not let them escape! We will not allow evil to triumph here!",
+          "speaker": "Sengoku",
+          "context": "Sengoku rallying the Marines after attacking Blackbeard"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep487-event-004",
+      "episodeNumber": 487,
+      "timestamp": "08:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Koby Questions Marine Justice",
+      "description": "Koby becomes confused about the Marines' concept of Justice as he witnesses the continued slaughter of pirates after the war has clearly been won. He experiences tormenting Haki visions as he hears the 'voices' of dying people around him.",
+      "significance": "Marks Koby's moral awakening and the beginning of his Observation Haki manifestation. Questions the black-and-white morality of Marine justice, setting up his future development.",
+      "characterIds": ["koby"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [2, 313, 459],
+      "payoffInEpisodes": [488],
+      "callbacksToEpisodes": [2]
+    },
+    {
+      "id": "ep487-event-005",
+      "episodeNumber": 487,
+      "timestamp": "11:20",
+      "eventType": "BATTLE_START",
+      "severity": "CRITICAL",
+      "title": "Akainu Relentlessly Pursues Luffy and Jinbe",
+      "description": "Akainu continues his pursuit of the fleeing Luffy and Jinbe with intense determination. He declares that he cannot let Luffy escape as the son of Dragon, showing his absolute commitment to eliminating this threat.",
+      "significance": "Demonstrates Akainu's ruthless nature and unwavering sense of absolute justice. His pursuit will lead to one of Luffy's most severe injuries.",
+      "characterIds": ["akainu", "luffy", "jinbe"],
+      "quotes": [
+        {
+          "text": "I cannot let the son of Dragon escape! He must die here!",
+          "speaker": "Akainu",
+          "context": "Akainu's justification for pursuing Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [483],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep487-event-006",
+      "episodeNumber": 487,
+      "timestamp": "13:50",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Ivankov Attempts to Stop Akainu",
+      "description": "Emporio Ivankov intervenes to protect Luffy and Jinbe, fighting against Akainu. The scene is extended from the manga, showing more of their confrontation.",
+      "significance": "Shows the Revolutionary Army's commitment to protecting Luffy, Dragon's son. Demonstrates the alliances formed to help Luffy escape.",
+      "characterIds": ["ivankov", "akainu", "luffy", "jinbe"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep487-event-007",
+      "episodeNumber": 487,
+      "timestamp": "16:30",
+      "eventType": "DEATH",
+      "severity": "CRITICAL",
+      "title": "Akainu's Magma Punch Pierces Jinbe and Severely Wounds Luffy",
+      "description": "Akainu catches up to Jinbe and Luffy, punching through Jinbe's chest with his magma fist. The attack is so powerful that it goes through Jinbe and burns Luffy's chest, creating the iconic X-shaped scar. Both fall to the ice, critically injured and unconscious.",
+      "significance": "This is the moment Luffy receives his permanent chest scar, a lasting reminder of the Marineford War and Ace's death. One of the worst injuries Luffy has ever suffered. Jinbe nearly dies protecting Luffy.",
+      "characterIds": ["akainu", "jinbe", "luffy"],
+      "devilFruitIds": ["magu-magu-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [505, 516, 517],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep487-event-008",
+      "episodeNumber": 487,
+      "timestamp": "18:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Crocodile Saves Luffy and Jinbe from Akainu",
+      "description": "As Akainu approaches the fallen Luffy and Jinbe, Crocodile appears behind him and splits him in two with Desert Grande Espada. He then uses Sables to launch Jinbe and Luffy high into the air, away from danger, and yells for someone to get them onto a ship.",
+      "significance": "Unexpected alliance showing Crocodile's complex character development. Despite being Luffy's former enemy, he saves his life. This moment cements the temporary alliance formed during the war.",
+      "characterIds": ["crocodile", "akainu", "luffy", "jinbe"],
+      "devilFruitIds": ["suna-suna-no-mi", "magu-magu-no-mi"],
+      "quotes": [
+        {
+          "text": "If you want to protect someone, you have to do it right!",
+          "speaker": "Crocodile",
+          "context": "Crocodile scolding Jinbe while saving them from Akainu"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [461, 462],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [127]
+    },
+    {
+      "id": "ep487-event-009",
+      "episodeNumber": 487,
+      "timestamp": "19:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Buggy Accidentally Catches Luffy and Jinbe",
+      "description": "The airborne Luffy and Jinbe collide with a fleeing Buggy, who catches them. His Impel Down followers praise him for heroically saving them, completely misinterpreting his cowardice. Buggy is terrified and unsure what to do.",
+      "significance": "Comic relief in a tense moment. Continues Buggy's running gag of accidentally becoming a hero through cowardice and gaining followers who misunderstand his actions.",
+      "characterIds": ["buggy", "luffy", "jinbe"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [434, 461],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep487-event-010",
+      "episodeNumber": 487,
+      "timestamp": "19:45",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Akainu Attacks Buggy with Molten Fist",
+      "description": "Akainu launches a giant molten magma fist attack at Buggy and his unwanted package (Luffy and Jinbe). They barely escape the devastating attack.",
+      "significance": "Shows Akainu's relentlessness and determination to kill Luffy at any cost, even attacking through other pirates.",
+      "characterIds": ["akainu", "buggy", "luffy", "jinbe"],
+      "devilFruitIds": ["magu-magu-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep487-event-011",
+      "episodeNumber": 487,
+      "timestamp": "20:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Whitebeard Commanders and Crocodile Confront Akainu",
+      "description": "Marco, Vista, and the other Whitebeard Division Commanders stand before Akainu alongside Crocodile, blocking his path to Luffy. Vista declares that Luffy is the one Ace loved and Whitebeard recognized. They prepare to fight Akainu to cover Luffy's escape.",
+      "significance": "The Whitebeard Pirates honor their captain's and Ace's wishes by protecting Luffy. Shows the bonds formed during the war and the respect Whitebeard's crew has for Luffy.",
+      "characterIds": ["marco", "vista", "crocodile", "akainu", "luffy"],
+      "crewIds": ["whitebeard-pirates"],
+      "quotes": [
+        {
+          "text": "Strawhat Luffy is the one Ace loved and Whitebeard recognized. We won't let you have him!",
+          "speaker": "Vista",
+          "context": "Vista explaining why the Whitebeard Pirates will protect Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [151, 459, 460],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep487-event-012",
+      "episodeNumber": 487,
+      "timestamp": "21:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "CRITICAL",
+      "title": "Trafalgar Law Arrives at Marineford",
+      "description": "A voice calls out to Buggy, telling the flying clown to bring 'Mister Strawhat' to him. Trafalgar Law emerges from his submarine, the Polar Tang, announcing that he is a doctor and offering to save Luffy's life.",
+      "significance": "Law's dramatic entrance marks the beginning of his crucial role in saving Luffy's life. This is a pivotal moment that establishes the alliance between Law and Luffy, which will continue throughout the series.",
+      "characterIds": ["trafalgar-law", "luffy"],
+      "crewIds": ["heart-pirates"],
+      "locationIds": ["marineford"],
+      "quotes": [
+        {
+          "text": "I'm a doctor. Bring Mister Strawhat over to me!",
+          "speaker": "Trafalgar Law",
+          "context": "Law's first words upon arriving at Marineford"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [505, 516, 577, 588],
+      "callbacksToEpisodes": [398, 399]
+    },
+    {
+      "id": "ep487-event-013",
+      "episodeNumber": 487,
+      "timestamp": "22:10",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Polar Tang Submarine Debut",
+      "description": "The Heart Pirates' yellow submarine, the Polar Tang, surfaces at Marineford. The submarine is lined with torpedo cannons and has a distinctive light green underside.",
+      "significance": "Introduction of Law's iconic submarine that will be used throughout the series. The vessel's arrival provides the means for Luffy's escape and medical treatment.",
+      "characterIds": ["trafalgar-law"],
+      "crewIds": ["heart-pirates"],
+      "locationIds": ["marineford"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [505, 516],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep487-event-014",
+      "episodeNumber": 487,
+      "timestamp": "22:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Happygun Debut",
+      "description": "Happygun, a New World pirate with long black hair and a distinctive triple-pointed chin, is shown watching in horror as Akainu punches through Jinbe to attack Luffy. He appears alongside fellow New World pirates Ninth and Pavlik.",
+      "significance": "Minor character introduction showing other New World pirates present at Marineford witnessing the war's climax.",
+      "characterIds": ["happygun"],
+      "locationIds": ["marineford"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["happygun"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["desert-grande-espada"]
+  },
+  "episodeRelationships": {
+    "setupFor": [488, 489, 505],
+    "payoffFrom": [483, 484, 485],
+    "thematicLinks": [312, 459, 516]
+  },
+  "quotes": [
+    {
+      "text": "How should I begin using my new powers? I know - I'll sink Marineford to its core!",
+      "speaker": "Blackbeard",
+      "context": "Testing Whitebeard's stolen earthquake power",
+      "timestamp": "04:15"
+    },
+    {
+      "text": "Do not let them escape! We will not allow evil to triumph here!",
+      "speaker": "Sengoku",
+      "context": "Rallying Marines after attacking Blackbeard",
+      "timestamp": "05:30"
+    },
+    {
+      "text": "I cannot let the son of Dragon escape! He must die here!",
+      "speaker": "Akainu",
+      "context": "Pursuing Luffy with absolute determination",
+      "timestamp": "11:20"
+    },
+    {
+      "text": "If you want to protect someone, you have to do it right!",
+      "speaker": "Crocodile",
+      "context": "Saving Luffy and Jinbe from Akainu",
+      "timestamp": "18:00"
+    },
+    {
+      "text": "Strawhat Luffy is the one Ace loved and Whitebeard recognized. We won't let you have him!",
+      "speaker": "Vista",
+      "context": "Whitebeard Commanders confronting Akainu",
+      "timestamp": "20:30"
+    },
+    {
+      "text": "I'm a doctor. Bring Mister Strawhat over to me!",
+      "speaker": "Trafalgar Law",
+      "context": "Arriving at Marineford to save Luffy",
+      "timestamp": "21:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Justice and Morality",
+      "description": "The episode explores different interpretations of justice through Akainu's absolute justice, Koby's moral questioning, and the Marines' continued slaughter after winning the war.",
+      "symbolism": "The collapsing Marineford headquarters symbolizes the crumbling of black-and-white concepts of justice.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Sacrifice and Protection",
+      "description": "Multiple characters risk their lives to protect Luffy - Jinbe takes a devastating blow, Ivankov fights Akainu, Crocodile intervenes, and the Whitebeard Commanders make a stand.",
+      "symbolism": "Luffy's scar becomes a permanent symbol of the sacrifices made to save him.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Unlikely Alliances",
+      "description": "Former enemies like Crocodile work together with Luffy's allies to ensure his survival, showing how the war created unexpected bonds.",
+      "symbolism": "Enemies becoming temporary allies represents the complexity of the One Piece world beyond simple good vs evil.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Changing of an Era",
+      "description": "Blackbeard demonstrates his new power, Marineford collapses, and new players like Law enter the stage, all signaling the shift to a new era of piracy.",
+      "symbolism": "The physical destruction of Marine HQ represents the old order being replaced.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Intense", "Desperate", "Dramatic", "Shocking"],
+  "characterSpotlights": [
+    {
+      "characterId": "akainu",
+      "role": "Primary Antagonist",
+      "development": "Akainu's ruthless pursuit of Luffy showcases his unwavering commitment to absolute justice, even after the war is won. His relentlessness makes him one of the most fearsome antagonists.",
+      "keyActions": [
+        "Relentlessly pursues Luffy and Jinbe",
+        "Punches through Jinbe's chest to wound Luffy",
+        "Attacks Buggy with molten fist",
+        "Confronts Whitebeard Commanders and Crocodile"
+      ],
+      "quotes": ["I cannot let the son of Dragon escape! He must die here!"]
+    },
+    {
+      "characterId": "crocodile",
+      "role": "Unexpected Savior",
+      "development": "Crocodile's decision to save Luffy demonstrates his complex character. Despite being a former enemy, he respects strength and recognizes something special in Luffy worth protecting.",
+      "keyActions": [
+        "Attacks Akainu with Desert Grande Espada",
+        "Launches Luffy and Jinbe to safety with Sables",
+        "Stands with Whitebeard Commanders against Akainu"
+      ],
+      "quotes": ["If you want to protect someone, you have to do it right!"]
+    },
+    {
+      "characterId": "trafalgar-law",
+      "role": "Mysterious Savior",
+      "development": "Law's dramatic entrance and offer to save Luffy establishes him as a crucial figure. His motivations remain mysterious, setting up future storylines.",
+      "keyActions": [
+        "Arrives at Marineford in the Polar Tang submarine",
+        "Offers to save Luffy as a doctor"
+      ],
+      "quotes": ["I'm a doctor. Bring Mister Strawhat over to me!"]
+    },
+    {
+      "characterId": "jinbe",
+      "role": "Protector",
+      "development": "Jinbe's willingness to sacrifice his life to protect Luffy shows his complete dedication to honoring Ace's final wish and his growing bond with Luffy.",
+      "keyActions": [
+        "Carries unconscious Luffy while fleeing Akainu",
+        "Takes Akainu's magma punch through his chest to protect Luffy",
+        "Nearly dies from his injuries"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "koby",
+      "role": "Moral Questioner",
+      "development": "Koby begins to awaken his Observation Haki as he questions the Marines' actions, setting up his important moment in the next episode.",
+      "keyActions": [
+        "Questions Marine justice",
+        "Experiences Haki visions of dying voices"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended the fight between Ivankov and Akainu, showing more of their confrontation.",
+      "episodeTimestamp": "13:50",
+      "mangaReference": "Chapter 578",
+      "type": "ANIME_EXTENSION"
+    },
+    {
+      "difference": "The scene where Akainu attacked Jinbe and Luffy was extended and more detailed in the anime.",
+      "episodeTimestamp": "16:30",
+      "mangaReference": "Chapter 578",
+      "type": "ANIME_EXTENSION"
+    },
+    {
+      "difference": "The conversation between Akainu and the Whitebeard Commanders and Crocodile was extended from the manga version.",
+      "episodeTimestamp": "20:30",
+      "mangaReference": "Chapter 578",
+      "type": "ANIME_EXTENSION"
+    },
+    {
+      "difference": "A new scene showing the Heart Pirates approaching Marineford in their submarine was added in the anime.",
+      "episodeTimestamp": "21:45",
+      "mangaReference": "Chapter 578",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode received an 11.1% viewership rating in Japan, ranking #3 for the week, showing the intense fan engagement during the Marineford Arc climax.",
+      "category": "RATINGS",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_487",
+          "title": "Episode 487 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-15"
+        }
+      ]
+    },
+    {
+      "fact": "The episode title references Akainu's 'tenacity' or 'obsession' (執念, shūnen), emphasizing his relentless pursuit of absolute justice.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "This is the episode where Luffy receives his iconic X-shaped chest scar that he carries throughout the rest of the series after the timeskip.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "Happygun makes his first and only anime appearance in this episode, though his name is not revealed until supplementary material (One Piece Green: Secret Pieces).",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Happygun",
+          "title": "Happygun - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-15"
+        }
+      ]
+    },
+    {
+      "fact": "The eyecatcher for this episode features Monkey D. Luffy and Nico Robin, an interesting choice given Robin doesn't appear in the episode.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "This episode adapts Chapter 578 of the manga, titled 'A Gift for the New Era', covering pages 3-19.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chapter_578",
+          "title": "Chapter 578 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-15"
+        }
+      ]
+    },
+    {
+      "fact": "The opening 'One day' by The ROOTLESS was described as more somber in tone compared to previous One Piece openings, fitting the dark events of the Marineford Arc.",
+      "category": "MUSIC",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
