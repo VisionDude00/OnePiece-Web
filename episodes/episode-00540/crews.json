@@ -1,0 +1,116 @@
+[
+  {
+    "name": {
+      "english": "Sun Pirates",
+      "japanese": "タイヨウの海賊団",
+      "romanized": "Taiyō no Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "fisher-tiger",
+    "debutEpisode": 540,
+    "debutChapter": 620,
+    "episodeAppearances": [540],
+    "members": [
+      {
+        "characterId": "fisher-tiger",
+        "role": "Captain/Founder",
+        "episodeJoined": 540,
+        "episodeLeft": null,
+        "joinCircumstances": "Founded the Sun Pirates after freeing slaves from Mary Geoise and returning to Fish-Man Island as a hero."
+      },
+      {
+        "characterId": "jinbe",
+        "role": "Member (later Second Captain)",
+        "episodeJoined": 540,
+        "episodeLeft": null,
+        "joinCircumstances": "Inspired by Fisher Tiger's heroic actions, Jinbe left the Neptune Army to join the Sun Pirates."
+      },
+      {
+        "characterId": "arlong",
+        "role": "Member",
+        "episodeJoined": 540,
+        "episodeLeft": 544,
+        "joinCircumstances": "Arlong and his gang from the Fish-Man District joined the Sun Pirates under Tiger's leadership."
+      },
+      {
+        "characterId": "macro",
+        "role": "Member",
+        "episodeJoined": 540,
+        "episodeLeft": 544,
+        "joinCircumstances": "Macro and his subordinates joined the Sun Pirates when it was formed."
+      },
+      {
+        "characterId": "aladine",
+        "role": "Doctor/First Mate",
+        "episodeJoined": 540,
+        "episodeLeft": null,
+        "joinCircumstances": "As a former slave freed by Tiger, Aladine joined the Sun Pirates and serves as the crew's doctor."
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 540,
+        "eventId": "ep540-event-010",
+        "momentType": "FORMATION",
+        "title": "Formation of the Sun Pirates",
+        "description": "Fisher Tiger establishes the Sun Pirates after his legendary raid on Mary Geoise, creating a crew primarily of freed fish-men slaves.",
+        "significance": "Creates one of the most important pirate crews in One Piece history, symbolizing freedom from slavery.",
+        "timestamp": "17:00"
+      },
+      {
+        "episodeNumber": 540,
+        "eventId": "ep540-event-011",
+        "momentType": "CREW_JOIN",
+        "title": "Jinbe Joins",
+        "description": "Jinbe leaves the Neptune Army to join the Sun Pirates, inspired by Tiger's heroism.",
+        "significance": "Beginning of Jinbe's pirate journey that leads to his eventual Warlord status.",
+        "timestamp": "18:00"
+      },
+      {
+        "episodeNumber": 540,
+        "eventId": "ep540-event-012",
+        "momentType": "CREW_JOIN",
+        "title": "Arlong Joins",
+        "description": "Arlong and his gang join the Sun Pirates.",
+        "significance": "Establishes Arlong's backstory and connection to the crew before his East Blue activities.",
+        "timestamp": "18:30"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Unknown",
+        "episodeAcquired": 540,
+        "episodeLost": null,
+        "description": "The Sun Pirates' ship, details not fully shown in this episode."
+      }
+    ],
+    "bases": [
+      {
+        "locationId": "fish-man-island",
+        "episodeEstablished": 540,
+        "episodeAbandoned": 541,
+        "description": "Fish-Man Island served as the initial base before the crew set out to sea."
+      }
+    ],
+    "totalBountyProgression": [
+      {
+        "totalBounty": 230000000,
+        "episodeNumber": 541,
+        "memberBounties": {
+          "fisher-tiger": 230000000
+        }
+      }
+    ],
+    "jollyRoger": {
+      "description": "A sun symbol with a face in the center, representing freedom from the slave brand and new beginning. The design completely covers the Hoof of the Soaring Dragon slave mark.",
+      "episodeFirstSeen": 540,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": ["ryugu-kingdom"],
+      "enemies": ["world-government", "marines"],
+      "parentOrganization": null
+    }
+  }
+]

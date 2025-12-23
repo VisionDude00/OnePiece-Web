@@ -1,0 +1,142 @@
+[
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "episodeAppearances": [537],
+    "keyMoments": [
+      {
+        "episodeNumber": 537,
+        "eventId": "ep537-event-002",
+        "momentType": "BATTLE_START",
+        "title": "Captured by Fish-Man Island Locals",
+        "description": "Luffy, Chopper, Hatchan, and Sanji are captured and tied up by local fish-men who believe they're kidnapping Princess Shirahoshi.",
+        "significance": "Demonstrates the ongoing tension and mistrust between the Straw Hats and the fish-men populace.",
+        "timestamp": "05:20"
+      },
+      {
+        "episodeNumber": 537,
+        "eventId": "ep537-event-005",
+        "momentType": "TECHNIQUE_DEBUT",
+        "title": "Luffy Debuts Jet Hammer Technique",
+        "description": "Luffy showcases his post-timeskip strength by debuting Gomu Gomu no Jet Hammer to defeat Vander Decken IX.",
+        "significance": "Demonstrates the crew's increased power after the two-year timeskip.",
+        "timestamp": "12:10"
+      },
+      {
+        "episodeNumber": 537,
+        "eventId": "ep537-event-007",
+        "momentType": "LOCATION_DEPARTURE",
+        "title": "Escape to the Sea Forest",
+        "description": "Luffy and part of the crew escape with Shirahoshi on Megalo, heading to the Sea Forest.",
+        "significance": "Advances the crew's involvement in protecting Shirahoshi and sets up the meeting with Jinbe.",
+        "timestamp": "16:20"
+      },
+      {
+        "episodeNumber": 537,
+        "eventId": "ep537-event-009",
+        "momentType": "BATTLE_END",
+        "title": "Zoro Defeats Hody Jones",
+        "description": "Zoro demonstrates the crew's post-timeskip power by easily defeating Hody Jones underwater.",
+        "significance": "Shows that the Straw Hats have grown strong enough to handle the threats on Fish-Man Island.",
+        "timestamp": "19:30"
+      }
+    ],
+    "relationships": {
+      "allies": ["shirahoshi", "neptune", "camie", "hatchan"],
+      "enemies": ["flying-pirates", "new-fish-man-pirates"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Flying Pirates",
+      "japanese": "フライング海賊団",
+      "romanized": "Furaingu Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "vander-decken-ix",
+    "episodeAppearances": [537],
+    "keyMoments": [
+      {
+        "episodeNumber": 537,
+        "eventId": "ep537-event-003",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Vander Decken Confronts Shirahoshi",
+        "description": "Captain Vander Decken IX appears in person to confront Princess Shirahoshi, escalating his pursuit from distant threats to direct confrontation.",
+        "significance": "Brings the Flying Pirates into direct conflict with the Straw Hats who are protecting Shirahoshi.",
+        "timestamp": "07:15"
+      },
+      {
+        "episodeNumber": 537,
+        "eventId": "ep537-event-005",
+        "momentType": "BATTLE_END",
+        "title": "Captain Defeated by Luffy",
+        "description": "Vander Decken IX is defeated by Luffy's Gomu Gomu no Jet Hammer technique.",
+        "significance": "First major defeat for the Flying Pirates' captain, though he will recover and continue his pursuit.",
+        "timestamp": "12:10"
+      },
+      {
+        "episodeNumber": 537,
+        "eventId": "ep537-event-006",
+        "momentType": "BATTLE_START",
+        "title": "Wadatsumi Attempts to Stop Escape",
+        "description": "Crew member Wadatsumi attempts to prevent the Straw Hats' escape but is struck by Luffy's Jet Pistol.",
+        "significance": "Shows the power difference between the Flying Pirates and the post-timeskip Straw Hats.",
+        "timestamp": "14:45"
+      }
+    ],
+    "relationships": {
+      "allies": ["new-fish-man-pirates"],
+      "enemies": ["straw-hat-pirates", "neptune"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "New Fish-Man Pirates",
+      "japanese": "新魚人海賊団",
+      "romanized": "Shin Gyojin Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "hody-jones",
+    "episodeAppearances": [537],
+    "keyMoments": [
+      {
+        "episodeNumber": 537,
+        "eventId": "ep537-event-008",
+        "momentType": "LOCATION_DEPARTURE",
+        "title": "Hody Dismisses Nami and Camie's Escape",
+        "description": "When informed that Nami and Camie escaped from Ryugu Palace, Captain Hody Jones dismisses it as unimportant.",
+        "significance": "Shows Hody's arrogance and underestimation of the Straw Hats, which will prove to be a mistake.",
+        "timestamp": "18:05"
+      },
+      {
+        "episodeNumber": 537,
+        "eventId": "ep537-event-009",
+        "momentType": "BATTLE_END",
+        "title": "Captain Defeated by Zoro",
+        "description": "Hody Jones is seemingly defeated by Zoro's Lion Strike technique at Ryugu Palace.",
+        "significance": "Demonstrates that without Energy Steroids, the New Fish-Man Pirates' captain is no match for the Straw Hats.",
+        "timestamp": "19:30"
+      },
+      {
+        "episodeNumber": 537,
+        "eventId": "ep537-event-010",
+        "momentType": "PROPHECY_FORESHADOWING",
+        "title": "Energy Steroids Recognized as Threat",
+        "description": "King Neptune recognizes that the Energy Steroids used by the New Fish-Man Pirates are a serious threat.",
+        "significance": "Foreshadows the crew's reliance on the dangerous Energy Steroids and the devastating effects they will have.",
+        "timestamp": "20:45"
+      }
+    ],
+    "relationships": {
+      "allies": ["flying-pirates"],
+      "enemies": ["straw-hat-pirates", "neptune"],
+      "parentOrganization": null
+    }
+  }
+]
