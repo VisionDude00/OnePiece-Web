@@ -1,0 +1,429 @@
+{
+  "episodeNumber": 544,
+  "episodeTitle": "The Pirates Split - Jinbe vs. Arlong",
+  "description": "Following Fisher Tiger's death, Arlong seeks revenge on Koala's village but is defeated by Vice-Admiral Borsalino. Jinbe accepts an offer to become a Shichibukai to promote peace between species. Upon Arlong's release, tensions explode as Jinbe and Arlong clash, leading to the Sun Pirates splitting into three factions. Meanwhile, Queen Otohime's petition efforts suffer major setbacks.",
+  "airDate": "2012-04-22",
+  "airDateJapan": "2012-04-22",
+  "airDateUS": "2017-10-10",
+  "simulcastDate": "2012-04-21",
+  "toonamiDate": "2022-04-24",
+  "arcName": "Fish-Man Island Arc",
+  "sagaName": "Fish-Man Island Saga",
+  "animationQuality": "STANDARD",
+  "mangaChapters": [
+    {
+      "chapterNumber": 623,
+      "pages": "19"
+    },
+    {
+      "chapterNumber": 624,
+      "pages": "2-16"
+    }
+  ],
+  "openingSong": {
+    "title": "We Go!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [517, 590]
+  },
+  "endingSong": null,
+  "credits": {
+    "screenplay": "Jin Tanaka",
+    "direction": "Takahiro Imamura",
+    "artDirection": "Ryūji Yoshiike",
+    "animation": "Toshio Deguchi",
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Katsuhisa Hōki"
+      },
+      {
+        "character": "Arlong",
+        "actor": "Jūrōta Kosugi"
+      },
+      {
+        "character": "Queen Otohime",
+        "actor": "Michiko Neya"
+      },
+      {
+        "character": "Borsalino (Kizaru)",
+        "actor": "Unshō Ishizuka"
+      },
+      {
+        "character": "King Neptune",
+        "actor": "Minoru Inaba"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Daniel Baugh"
+      },
+      {
+        "character": "Arlong",
+        "actor": "Chris Rager"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep544-event-001",
+      "episodeNumber": 544,
+      "timestamp": "03:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Arlong Attempts Revenge on Koala's Village",
+      "description": "Enraged by Fisher Tiger's death, Arlong betrays Tiger's last wishes and attempts to attack and kill the villagers of Koala's village, believing they betrayed Tiger to the Marines.",
+      "significance": "Shows Arlong's descent into hatred and his rejection of Fisher Tiger's philosophy of breaking the cycle of revenge. This moment establishes Arlong's character as someone who will later terrorize the East Blue.",
+      "characterIds": ["arlong", "koala"],
+      "locationIds": ["koala-village"],
+      "crewIds": ["sun-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [543],
+      "payoffInEpisodes": [31, 32, 43, 44],
+      "callbacksToEpisodes": [542, 543]
+    },
+    {
+      "id": "ep544-event-002",
+      "episodeNumber": 544,
+      "timestamp": "04:30",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Vice-Admiral Borsalino Defeats Arlong",
+      "description": "Vice-Admiral Borsalino (future Admiral Kizaru) easily defeats Arlong when he attempts to attack Koala's village. Arlong is captured and taken into Marine custody for interrogation.",
+      "significance": "First appearance of Borsalino in a flashback context, showing his power before becoming an Admiral. This prevents Arlong from committing mass murder and sets up his interrogation.",
+      "characterIds": ["borsalino", "arlong"],
+      "locationIds": ["koala-village"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep544-event-003",
+      "episodeNumber": 544,
+      "timestamp": "06:45",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Arlong's Lie About Fisher Tiger's Death",
+      "description": "During Marine interrogation at the G-2 Base, Arlong lies about the circumstances of Fisher Tiger's death, claiming humans killed Tiger by refusing him a blood transfusion. He omits the truth that Tiger refused human blood. Jinbe later notes this lie preserved Tiger's honor as a fish-man.",
+      "significance": "Arlong manipulates the narrative to protect Tiger's reputation while fueling anti-human sentiment. This lie becomes propaganda that spreads throughout the fish-man community and justifies Arlong's hatred.",
+      "characterIds": ["arlong", "jinbe", "fisher-tiger"],
+      "locationIds": ["marine-base-g2"],
+      "quotes": [
+        {
+          "text": "The humans refused to give Fisher Tiger a blood transfusion and let him die!",
+          "speaker": "Arlong",
+          "context": "Arlong's lie to the Marines about Tiger's death"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [543],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [543]
+    },
+    {
+      "id": "ep544-event-004",
+      "episodeNumber": 544,
+      "timestamp": "08:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Jinbe Receives Shichibukai Invitation",
+      "description": "Jinbe receives an invitation from the World Government to become one of the Seven Warlords of the Sea (Shichibukai). This offer comes with a pardon for all members of the Sun Pirates, including Arlong.",
+      "significance": "A pivotal moment that will define Jinbe's path and create conflict within the Sun Pirates. This decision represents Jinbe's commitment to peaceful coexistence between humans and fish-men.",
+      "characterIds": ["jinbe"],
+      "crewIds": ["sun-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep544-event-005",
+      "episodeNumber": 544,
+      "timestamp": "10:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Jinbe Accepts Shichibukai Position",
+      "description": "Jinbe accepts the World Government's offer to become a Shichibukai to further bolster relations between humans and fish-men, supporting Queen Otohime's dream. His acceptance pardons all Sun Pirates members, including Arlong who is released from Impel Down.",
+      "significance": "Jinbe chooses diplomacy and peace over piracy, becoming a government ally. This decision splits the crew ideologically and leads directly to the Sun Pirates' dissolution. It also shows Jinbe's dedication to Otohime's vision.",
+      "characterIds": ["jinbe", "otohime"],
+      "crewIds": ["sun-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [528, 529],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep544-event-006",
+      "episodeNumber": 544,
+      "timestamp": "11:45",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Neptune and Otohime Receive News of Tiger's Death",
+      "description": "Jinbe sends a letter to King Neptune and Queen Otohime informing them of Fisher Tiger's death. The news devastates Otohime and impacts her ongoing petition efforts.",
+      "significance": "Tiger's death becomes public knowledge on Fish-Man Island, affecting the political climate and Otohime's peace campaign.",
+      "characterIds": ["neptune", "otohime", "jinbe", "fisher-tiger"],
+      "locationIds": ["ryugu-palace", "fish-man-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [543],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [543]
+    },
+    {
+      "id": "ep544-event-007",
+      "episodeNumber": 544,
+      "timestamp": "13:20",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Otohime's Petition Signatures Withdrawn",
+      "description": "Following the news of Fisher Tiger's death, many Fish-Man Island citizens and their children withdraw their signatures from Otohime's petition for peaceful coexistence with humans. Citizens express that they only listened because she's queen but cannot truly live with humans.",
+      "significance": "Shows how Tiger's death reinforces prejudice and fear, undermining years of Otohime's work. Out of 5 million islanders, she only had 1,000 signatures and now loses even those.",
+      "characterIds": ["otohime"],
+      "locationIds": ["fish-man-island"],
+      "quotes": [
+        {
+          "text": "There are 5 million people on the island and I only have 1,000 signatures, but I still have a long way to go.",
+          "speaker": "Otohime",
+          "context": "Otohime reflects on the difficulty of her mission"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [538, 539, 540],
+      "payoffInEpisodes": [545, 546],
+      "callbacksToEpisodes": [540]
+    },
+    {
+      "id": "ep544-event-008",
+      "episodeNumber": 544,
+      "timestamp": "15:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Otohime's Drunken Broadcast",
+      "description": "Devastated by the petition setbacks, Otohime returns to the palace in a drunken depression, ranting about her ambitions. Her rant is broadcast to the entire country, which surprisingly changes the views of some citizens.",
+      "significance": "Despite her despair, Otohime's raw emotion and honest passion begin to reach some hearts. Shows her humanity and vulnerability, making her more relatable to her subjects.",
+      "characterIds": ["otohime"],
+      "locationIds": ["ryugu-palace", "fish-man-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [545, 546],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep544-event-009",
+      "episodeNumber": 544,
+      "timestamp": "16:30",
+      "eventType": "CREW_DEPARTURE",
+      "severity": "MAJOR",
+      "title": "Arlong Released and Rejoins Sun Pirates",
+      "description": "Thanks to Jinbe's pardon as a Shichibukai, Arlong is released from Impel Down and returns to the Sun Pirates. The crew initially rejoices at his return.",
+      "significance": "Arlong's release is a direct result of Jinbe's Shichibukai status, but will immediately lead to conflict as Arlong rejects Jinbe's path.",
+      "characterIds": ["arlong", "jinbe"],
+      "locationIds": ["impel-down"],
+      "crewIds": ["sun-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep544-event-010",
+      "episodeNumber": 544,
+      "timestamp": "17:45",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Arlong Declares He's Leaving the Sun Pirates",
+      "description": "Arlong announces his intention to leave the Sun Pirates and form his own crew, the Arlong Pirates. He denounces Jinbe as a 'dog of the government' and declares he will become the rage of fish-men, doing whatever he wants.",
+      "significance": "The ideological split between Jinbe's path of peace and Arlong's path of vengeance becomes irreconcilable. This decision will lead Arlong to the East Blue where he will terrorize Nami's village.",
+      "characterIds": ["arlong", "jinbe"],
+      "crewIds": ["sun-pirates", "arlong-pirates"],
+      "quotes": [
+        {
+          "text": "I will become the rage of Fish-Men!",
+          "speaker": "Arlong",
+          "context": "Arlong declares his intentions upon leaving the Sun Pirates"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [31, 32, 33, 37, 43, 44],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep544-event-011",
+      "episodeNumber": 544,
+      "timestamp": "19:00",
+      "eventType": "BATTLE_START",
+      "severity": "CRITICAL",
+      "title": "Jinbe vs. Arlong - The Final Confrontation",
+      "description": "Jinbe, finally losing his temper with Arlong's denouncement and dangerous ideology, brutally beats Arlong half-dead with his fists. However, due to their shared history and brotherhood, Jinbe cannot bring himself to kill Arlong and lets him go.",
+      "significance": "This fight represents the fracture of the Sun Pirates and the failure to maintain Fisher Tiger's united vision. Jinbe's mercy allows Arlong to go on to commit atrocities in the East Blue. It's a tragic moment showing that friendship and ideology can't always coexist.",
+      "characterIds": ["jinbe", "arlong"],
+      "crewIds": ["sun-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [31, 43, 44],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep544-event-012",
+      "episodeNumber": 544,
+      "timestamp": "21:15",
+      "eventType": "CREW_DEPARTURE",
+      "severity": "CRITICAL",
+      "title": "The Sun Pirates Split Into Three Factions",
+      "description": "The Sun Pirates officially split into three separate crews: Jinbe's Sun Pirates, the Arlong Pirates led by Arlong, and the Macro Pirates. The once-mighty crew founded by Fisher Tiger dissolves due to ideological differences.",
+      "significance": "The end of Fisher Tiger's dream of a united fish-man crew fighting for freedom. Each faction represents different responses to oppression: Jinbe chooses diplomacy, Arlong chooses revenge, and Macro chooses neutrality.",
+      "characterIds": ["jinbe", "arlong", "macro"],
+      "crewIds": ["sun-pirates", "arlong-pirates", "macro-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [537, 538, 539, 540, 541, 543],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": ["koala-village", "marine-base-g2"],
+    "devilFruits": [],
+    "crews": ["arlong-pirates", "macro-pirates"],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [545, 546],
+    "payoffFrom": [537, 538, 539, 540, 541, 542, 543],
+    "thematicLinks": [31, 43, 44, 77]
+  },
+  "quotes": [
+    {
+      "text": "I will become the rage of Fish-Men!",
+      "speaker": "Arlong",
+      "context": "Arlong's declaration when leaving the Sun Pirates",
+      "timestamp": "17:45"
+    },
+    {
+      "text": "There are 5 million people on the island and I only have 1,000 signatures, but I still have a long way to go.",
+      "speaker": "Otohime",
+      "context": "Otohime reflects on the difficulty of her peace campaign",
+      "timestamp": "13:20"
+    },
+    {
+      "text": "The humans refused to give Fisher Tiger a blood transfusion and let him die!",
+      "speaker": "Arlong",
+      "context": "Arlong's lie during Marine interrogation",
+      "timestamp": "06:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Cycles of Hatred and Revenge",
+      "description": "The episode explores how trauma and loss perpetuate cycles of hatred. Arlong's rage over Fisher Tiger's death drives him to reject peace and seek revenge, while Jinbe chooses the harder path of diplomacy.",
+      "symbolism": "The splitting of the Sun Pirates symbolizes how a single traumatic event can fracture a community along ideological lines.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Cost of Peace",
+      "description": "Both Jinbe and Otohime sacrifice their relationships and face ridicule to pursue peace between species. Otohime loses signatures and respect, while Jinbe is called a 'government dog' and loses crew members.",
+      "symbolism": "The withdrawn petition signatures represent how easily fear can overcome hope.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Ideology vs. Brotherhood",
+      "description": "Jinbe and Arlong's friendship cannot survive their opposing worldviews. Jinbe's choice to spare Arlong despite beating him shows that their bond still matters, but it's not enough to keep them together.",
+      "symbolism": "The fight between Jinbe and Arlong represents the internal conflict within the fish-man community.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tragic", "Intense", "Heartbreaking", "Dramatic"],
+  "characterSpotlights": [
+    {
+      "characterId": "jinbe",
+      "role": "Protagonist - Making difficult choices for peace",
+      "development": "Jinbe accepts the burden of becoming a Shichibukai, knowing it will cost him friendships and crew loyalty. He shows restraint by not killing Arlong despite understanding the danger he poses.",
+      "keyActions": [
+        "Accepts Shichibukai position",
+        "Sends letter to Neptune and Otohime about Tiger's death",
+        "Fights and defeats Arlong",
+        "Spares Arlong's life despite everything",
+        "Watches the Sun Pirates split"
+      ],
+      "quotes": ["(Jinbe notes Arlong's lie about Tiger's death)"]
+    },
+    {
+      "characterId": "arlong",
+      "role": "Antagonist - Consumed by hatred",
+      "development": "Arlong's grief over Fisher Tiger transforms into pure rage and hatred for humans. He rejects any path of coexistence and commits to becoming an embodiment of fish-man vengeance.",
+      "keyActions": [
+        "Attempts to massacre Koala's village",
+        "Defeated by Borsalino",
+        "Lies to Marines about Tiger's death",
+        "Released from Impel Down",
+        "Denounces Jinbe and leaves Sun Pirates",
+        "Forms the Arlong Pirates"
+      ],
+      "quotes": ["I will become the rage of Fish-Men!"]
+    },
+    {
+      "characterId": "otohime",
+      "role": "Supporting - Symbol of perseverance",
+      "development": "Otohime faces devastating setbacks as her years of work unravel due to Tiger's death. Despite falling into depression, her passionate broadcast begins to reach some hearts.",
+      "keyActions": [
+        "Receives news of Fisher Tiger's death",
+        "Watches petition signatures withdrawn",
+        "Falls into drunken depression",
+        "Broadcasts her passionate rant to the nation"
+      ],
+      "quotes": ["There are 5 million people on the island and I only have 1,000 signatures, but I still have a long way to go."]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended some of the emotional scenes between Jinbe and Arlong to emphasize their history together.",
+      "episodeTimestamp": "19:00",
+      "mangaReference": "Chapter 624",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode features Borsalino (Kizaru) as a Vice-Admiral in a flashback, showing him before his promotion to Admiral.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_544",
+          "title": "Episode 544 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-23"
+        }
+      ]
+    },
+    {
+      "fact": "The episode title 'Jinbe vs. Arlong' mirrors their first meeting and partnership under Fisher Tiger, but now as enemies.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "This episode adapts Chapter 623 (page 19) and Chapter 624 (pages 2-16), showing the aftermath of Fisher Tiger's death.",
+      "category": "MANGA_ADAPTATION",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
