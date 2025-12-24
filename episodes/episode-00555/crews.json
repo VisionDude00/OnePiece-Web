@@ -1,0 +1,104 @@
+[
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "luffy",
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [555],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 555,
+        "eventId": "ep555-event-001",
+        "momentType": "BATTLE_START",
+        "title": "Straw Hats Launch Coordinated Assault",
+        "description": "The Straw Hat Pirates launch their full assault against the New Fish-Man Pirates in Gyoncorde Plaza, with Luffy, Zoro, and Sanji leading the charge.",
+        "significance": "First major coordinated battle showcasing all crew members' post-timeskip abilities.",
+        "timestamp": "03:15"
+      },
+      {
+        "episodeNumber": 555,
+        "eventId": "ep555-event-011",
+        "momentType": "BATTLE_START",
+        "title": "Full Crew Engagement",
+        "description": "Following Zoro and Sanji's displays, the entire crew engages the New Fish-Man Pirates, working together as a coordinated team.",
+        "significance": "Demonstrates the crew's enhanced teamwork and tactical coordination after the timeskip.",
+        "timestamp": "23:00"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull wearing a straw hat with crossed bones behind it",
+      "episodeFirstSeen": 45,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": [],
+      "enemies": ["new-fish-man-pirates"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "New Fish-Man Pirates",
+      "japanese": "新魚人海賊団",
+      "romanized": "Shin Gyojin Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "hody-jones",
+    "debutEpisode": 548,
+    "debutChapter": 611,
+    "episodeAppearances": [555],
+    "members": [
+      {
+        "characterId": "jean-noueilles",
+        "role": "Sea Urchin Armor Spine Squad Commander",
+        "episodeJoined": 555,
+        "episodeLeft": null,
+        "joinCircumstances": "Revealed as commander of a specialized unit within the crew."
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 555,
+        "eventId": "ep555-event-002",
+        "momentType": "CULTURAL_MOMENT",
+        "title": "Zeo Rallies Retreating Forces",
+        "description": "As the New Fish-Man Pirates begin to retreat after Luffy's Haki display, officer Zeo rallies them by reframing their losses and declaring the Straw Hats their worst enemy.",
+        "significance": "Shows the deep-seated hatred and determination of the New Fish-Man Pirates despite overwhelming odds.",
+        "timestamp": "05:40"
+      },
+      {
+        "episodeNumber": 555,
+        "eventId": "ep555-event-006",
+        "momentType": "BATTLE_START",
+        "title": "Sea Urchin Armor Spine Squad Attacks",
+        "description": "Jean Noueilles leads the Sea Urchin Armor Spine Squad in an attack against Sanji, but their spike-based strategy backfires.",
+        "significance": "Reveals specialized units within the New Fish-Man Pirates and their tactical approach.",
+        "timestamp": "15:10"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "",
+    "relationships": {
+      "allies": [],
+      "enemies": ["straw-hat-pirates"],
+      "parentOrganization": null
+    }
+  }
+]

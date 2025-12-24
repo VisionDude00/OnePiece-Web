@@ -1,0 +1,430 @@
+{
+  "episodeNumber": 551,
+  "episodeTitle": "The Battle is on! At Conchcorde Plaza!",
+  "episodeTitleJapanese": "決戦始まる ギョンコルド広場！",
+  "episodeTitleRomanized": "Kessen Hajimaru - Gyonkorudo Hiroba!",
+  "description": "At Gyoncorde Plaza, the three princes of the Ryugu Kingdom arrive to challenge Hody Jones and his New Fish-Man Pirates. Despite their initial success against the sea beasts and Fukaboshi's impassioned speech about peace and coexistence, the princes are overwhelmed when Hody's officers consume Energy Steroids and attack with enhanced strength.",
+  "airDate": "2012-06-10",
+  "airDateJapan": "2012-06-10",
+  "airDateUS": "2012-06-09",
+  "arcName": "Fish-Man Island Arc",
+  "sagaName": "Fish-Man Island Saga",
+  "chapterAdapted": "Chapter 631 (pages 2-19)",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Go!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [517, 590]
+  },
+  "endingSong": null,
+  "credits": {
+    "director": "Tetsuya Endō",
+    "screenplay": "Jin Tanaka",
+    "animationDirector": "Katsumi Ishizuka",
+    "artDirector": "Miho Shiraishi",
+    "voiceActorsJP": [
+      {
+        "character": "Hody Jones",
+        "actor": "Joji Nakata"
+      },
+      {
+        "character": "Fukaboshi",
+        "actor": "Kentarō Itō"
+      },
+      {
+        "character": "Neptune",
+        "actor": "Minoru Inaba"
+      },
+      {
+        "character": "Vander Decken IX",
+        "actor": "Takehito Koyasu"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Hody Jones",
+        "actor": "Larry Brantley"
+      },
+      {
+        "character": "Fukaboshi",
+        "actor": "Jarrod Greene"
+      },
+      {
+        "character": "Neptune",
+        "actor": "Bruce DuBose"
+      },
+      {
+        "character": "Ryuboshi",
+        "actor": "Alex Ross"
+      },
+      {
+        "character": "Manboshi",
+        "actor": "Troy Hughes"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep551-event-001",
+      "episodeNumber": 551,
+      "timestamp": "03:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Vander Decken's Despair and New Plot",
+      "description": "Vander Decken IX, devastated by Shirahoshi's rejection, shaves his head in grief. However, he quickly formulates a sinister new plan involving the Flying Dutchman ship to destroy everything.",
+      "significance": "Sets up the impending threat from Vander Decken that will escalate the crisis at Fish-Man Island.",
+      "characterIds": ["vander-decken-ix"],
+      "locationIds": ["fish-man-district"],
+      "quotes": [
+        {
+          "text": "I've got an idea to destroy everything!",
+          "speaker": "Vander Decken IX",
+          "context": "After shaving his head in grief, Decken formulates his destructive plan"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [552, 553],
+      "callbacksToEpisodes": [548, 549, 550]
+    },
+    {
+      "id": "ep551-event-002",
+      "episodeNumber": 551,
+      "timestamp": "06:30",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Neptune's Army Defeated",
+      "description": "The New Fish-Man Pirates completely overwhelm and defeat Neptune's military forces. Both ministers suffer critical injuries, leaving King Neptune captive with no immediate rescue.",
+      "significance": "Demonstrates the overwhelming power of the Energy Steroid-enhanced New Fish-Man Pirates and raises the stakes for the princes' arrival.",
+      "characterIds": ["hody-jones", "neptune", "neptune-army"],
+      "locationIds": ["gyoncorde-plaza"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [548, 549, 550],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep551-event-003",
+      "episodeNumber": 551,
+      "timestamp": "08:45",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Hody's Transformed Appearance Revealed",
+      "description": "Hody Jones displays his drastically transformed physical appearance after overdosing on Energy Steroids. He has become significantly more muscular with bleached-white hair, and demonstrates his newfound strength by launching a water attack that travels across the entire island.",
+      "significance": "Showcases the extreme power boost from Energy Steroids and foreshadows the dangerous side effects of their abuse.",
+      "characterIds": ["hody-jones"],
+      "locationIds": ["gyoncorde-plaza"],
+      "devilFruitIds": [],
+      "quotes": [
+        {
+          "text": "Neptune, you used yourself as a shield to protect your own soldiers from harm. You are unworthy to be king!",
+          "speaker": "Hody Jones",
+          "context": "Hody taunts the captive Neptune about his leadership"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [549, 550],
+      "payoffInEpisodes": [560, 561, 562],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep551-event-004",
+      "episodeNumber": 551,
+      "timestamp": "12:20",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "The Three Princes Arrive at Gyoncorde Plaza",
+      "description": "Fukaboshi, Ryuboshi, and Manboshi, the three princes of the Ryugu Kingdom, dramatically arrive at Gyoncorde Plaza on their mount, ready to challenge the New Fish-Man Pirates and rescue their father.",
+      "significance": "The arrival of the royal family's strongest warriors provides hope for the citizens and sets up the major battle of the episode.",
+      "characterIds": ["fukaboshi", "ryuboshi", "manboshi"],
+      "locationIds": ["gyoncorde-plaza"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [548, 549, 550],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep551-event-005",
+      "episodeNumber": 551,
+      "timestamp": "13:45",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Princes Easily Defeat the Sea Beasts",
+      "description": "The three princes demonstrate their combat prowess by effortlessly defeating all of the Energy Steroid-enhanced sea beasts. Each prince takes down two sea beasts, with their mount defeating the sea-bear, leaving the citizens in awe.",
+      "significance": "Establishes the princes as formidable warriors and shows that even drug-enhanced creatures are no match for the royal family's elite fighters.",
+      "characterIds": ["fukaboshi", "ryuboshi", "manboshi"],
+      "locationIds": ["gyoncorde-plaza"],
+      "quotes": [
+        {
+          "text": "Be careful of the beasts and the officers! They all have taken Energy Steroids!",
+          "speaker": "Neptune",
+          "context": "Neptune warns his sons about their enhanced enemies"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep551-event-006",
+      "episodeNumber": 551,
+      "timestamp": "16:30",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Fukaboshi's Speech on Peace and Discrimination",
+      "description": "Fukaboshi delivers an impassioned speech to Hody Jones and the people of Fish-Man Island. He emphasizes that the citizens have transcended discrimination by signing petitions for peace, enduring the pain of losing Fisher Tiger and Queen Otohime. He declares that Hody and his followers are 'the weakest on the island' because they cling to hatred and revenge.",
+      "significance": "Articulates the central philosophical conflict of the Fish-Man Island arc: the choice between perpetuating cycles of hatred or working toward reconciliation and peace.",
+      "characterIds": ["fukaboshi", "hody-jones"],
+      "locationIds": ["gyoncorde-plaza"],
+      "quotes": [
+        {
+          "text": "You and your folk are the weakest on the island! The people try to ignore their history of discrimination by humans and endure the pain of losing Fisher Tiger and Queen Otohime to humans. You will never understand their kindness!",
+          "speaker": "Fukaboshi",
+          "context": "Fukaboshi condemns Hody's ideology of hatred"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [528, 529, 538, 539, 540],
+      "payoffInEpisodes": [552, 568, 569],
+      "callbacksToEpisodes": [538, 539, 540, 541]
+    },
+    {
+      "id": "ep551-event-007",
+      "episodeNumber": 551,
+      "timestamp": "18:00",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Officers Consume Energy Steroids",
+      "description": "Hody's officers—Daruma, Dosun, Zeo, and Hyouzou—each consume Energy Steroid pills to enhance their strength before engaging the princes in battle.",
+      "significance": "Demonstrates the widespread use of Energy Steroids among the New Fish-Man Pirates and sets up the unnatural power advantage that will defeat the princes.",
+      "characterIds": ["daruma", "dosun", "zeo", "hyouzou"],
+      "locationIds": ["gyoncorde-plaza"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [549, 550],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep551-event-008",
+      "episodeNumber": 551,
+      "timestamp": "19:30",
+      "eventType": "BATTLE_END",
+      "severity": "CRITICAL",
+      "title": "The Three Princes Defeated",
+      "description": "Enhanced by Energy Steroids, Hody's officers attack the three princes with overwhelming speed and merciless force. Despite their skill and natural strength, the princes are brutally defeated, suffering heavy injuries along with their mount. Neptune watches helplessly as his sons lie defeated while Hody laughs in victory.",
+      "significance": "A crushing defeat that eliminates the royal family's strongest defenders and leaves Fish-Man Island without hope of conventional rescue. Establishes that only the Straw Hat Pirates can save the kingdom.",
+      "characterIds": ["fukaboshi", "ryuboshi", "manboshi", "daruma", "dosun", "zeo", "hyouzou", "hody-jones", "neptune"],
+      "locationIds": ["gyoncorde-plaza"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [552, 553, 560],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep551-event-009",
+      "episodeNumber": 551,
+      "timestamp": "21:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "First Use of Sanji's Post-Timeskip Eyecatcher",
+      "description": "This episode marks the inaugural use of Sanji's post-timeskip eyecatcher design in the anime series.",
+      "significance": "A production milestone that updates Sanji's visual branding to reflect his post-timeskip appearance.",
+      "characterIds": ["sanji"],
+      "locationIds": [],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [552, 553, 560, 561],
+    "payoffFrom": [548, 549, 550],
+    "thematicLinks": [538, 539, 540, 541, 568, 569]
+  },
+  "quotes": [
+    {
+      "text": "I've got an idea to destroy everything!",
+      "speaker": "Vander Decken IX",
+      "context": "Vander Decken formulates his destructive plan after being rejected by Shirahoshi",
+      "timestamp": "03:15"
+    },
+    {
+      "text": "Be careful of the beasts and the officers! They all have taken Energy Steroids!",
+      "speaker": "Neptune",
+      "context": "Neptune warns his sons about their enhanced enemies",
+      "timestamp": "13:45"
+    },
+    {
+      "text": "You and your folk are the weakest on the island! The people try to ignore their history of discrimination by humans and endure the pain of losing Fisher Tiger and Queen Otohime to humans. You will never understand their kindness!",
+      "speaker": "Fukaboshi",
+      "context": "Fukaboshi's speech condemning Hody's ideology of hatred",
+      "timestamp": "16:30"
+    },
+    {
+      "text": "Neptune, you used yourself as a shield to protect your own soldiers from harm. You are unworthy to be king!",
+      "speaker": "Hody Jones",
+      "context": "Hody taunts the captive Neptune about his compassionate leadership",
+      "timestamp": "08:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Cycles of Hatred vs. Peace and Reconciliation",
+      "description": "The episode explores the central conflict between those who perpetuate hatred (Hody and the New Fish-Man Pirates) and those who work toward peace and coexistence (Fukaboshi and the citizens who signed Otohime's petitions).",
+      "symbolism": "Gyoncorde Plaza itself serves as a symbolic stage - the same location where Queen Otohime was assassinated becomes the battleground where her vision of peace is tested against violent extremism.",
+      "culturalReferences": [
+        "The theme mirrors real-world struggles with racism, discrimination, and the challenge of breaking cycles of intergenerational hatred."
+      ]
+    },
+    {
+      "theme": "The Price of Power",
+      "description": "Energy Steroids provide immense strength but at a terrible cost - accelerated aging, physical deterioration, and moral corruption. The episode shows how the pursuit of power through shortcuts leads to hollow victories.",
+      "symbolism": "Hody's bleached white hair and muscular transformation represent the unnatural and unstable nature of drug-enhanced power.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Leadership and Sacrifice",
+      "description": "Neptune's willingness to use himself as a shield for his soldiers is contrasted with Hody's cruel mockery. The episode examines what true leadership means - protecting others even at personal cost.",
+      "symbolism": "The royal family's defeat demonstrates that good intentions and noble leadership aren't always enough without sufficient power to back them up.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Dramatic", "Tragic", "Desperate"],
+  "characterSpotlights": [
+    {
+      "characterId": "fukaboshi",
+      "role": "Heroic Prince and Voice of Reason",
+      "development": "Fukaboshi emerges as the philosophical heart of the resistance, articulating the peaceful ideology his mother Queen Otohime championed. Despite his noble words and impressive combat skills, he faces the harsh reality that idealism alone cannot overcome drug-enhanced violence.",
+      "keyActions": [
+        "Arrives at Gyoncorde Plaza with his brothers",
+        "Easily defeats Energy Steroid-enhanced sea beasts",
+        "Delivers impassioned speech about peace and rejecting hatred",
+        "Fights against the New Fish-Man Pirates officers",
+        "Suffers brutal defeat despite his natural strength and skill"
+      ],
+      "quotes": [
+        "You and your folk are the weakest on the island! The people try to ignore their history of discrimination by humans and endure the pain of losing Fisher Tiger and Queen Otohime to humans. You will never understand their kindness!"
+      ]
+    },
+    {
+      "characterId": "hody-jones",
+      "role": "Primary Antagonist",
+      "development": "Hody demonstrates the full extent of his transformed power and his complete rejection of the peaceful path. His mockery of Neptune's compassionate leadership and his officers' brutal defeat of the princes show how deeply corrupted he has become by hatred and Energy Steroids.",
+      "keyActions": [
+        "Displays his transformed appearance after Energy Steroid overdose",
+        "Demonstrates extreme strength with island-spanning water attack",
+        "Taunts Neptune about his leadership style",
+        "Watches as his officers defeat the three princes",
+        "Laughs in victory over the royal family's defeat"
+      ],
+      "quotes": [
+        "Neptune, you used yourself as a shield to protect your own soldiers from harm. You are unworthy to be king!"
+      ]
+    },
+    {
+      "characterId": "vander-decken-ix",
+      "role": "Secondary Antagonist and Catalyst",
+      "development": "Driven to madness by Shirahoshi's rejection, Vander Decken transitions from obsessed suitor to destructive nihilist, plotting to destroy everything if he cannot have what he wants.",
+      "keyActions": [
+        "Shaves his head in grief over rejection",
+        "Formulates plan to use the Flying Dutchman for destruction",
+        "Sets up the next phase of the crisis"
+      ],
+      "quotes": [
+        "I've got an idea to destroy everything!"
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "In the manga, Vander Decken's conversation with his subordinates happens in Hody's hideout, but in the anime, it happens on the Flying Dutchman.",
+      "episodeTimestamp": "03:15",
+      "mangaReference": "Chapter 631",
+      "type": "LOCATION_CHANGE"
+    },
+    {
+      "difference": "The anime extends some battle sequences and reaction shots compared to the manga's pacing.",
+      "episodeTimestamp": "Various",
+      "mangaReference": "Chapter 631",
+      "type": "PACING_CHANGE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the first use of Sanji's post-timeskip eyecatcher design in the series.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_551",
+          "title": "Episode 551 | One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 551 adapts Chapter 631, titled 'Gyoncorde Plaza,' which is a pun on the Japanese word for 'fish' (魚, gyo) and the Concorde Plaza in Paris, where King Louis XVI was executed.",
+      "category": "CULTURAL_REFERENCE",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chapter_631",
+          "title": "Chapter 631 | One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "fact": "This episode is the second consecutive episode without any Straw Hat Pirates appearances (excluding flashbacks).",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_551",
+          "title": "Episode 551 | One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "fact": "Joji Nakata, who voices Hody Jones in Japanese, is renowned for voicing villainous characters including Alucard in Hellsing and Kirei Kotomine in Fate/stay night.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://www.behindthevoiceactors.com/characters/One-Piece/Hody-Jones/",
+          "title": "Hody Jones Voice Actors",
+          "platform": "Behind The Voice Actors",
+          "accessedAt": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "fact": "The episode aired on Toonami on May 22, 2022, ten years after its original Japanese broadcast.",
+      "category": "BROADCAST",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_551",
+          "title": "Episode 551 | One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-24"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

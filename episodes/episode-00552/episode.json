@@ -1,0 +1,470 @@
+{
+  "episodeNumber": 552,
+  "episodeTitle": "A Surprising Confession! The Truth Behind the Assassination of Otohime!",
+  "description": "Jinbe and Shirahoshi are captured and brought to Gyoncorde Plaza where Hody Jones makes a shocking confession: he was the one who assassinated Queen Otohime ten years ago. Meanwhile, Vander Decken IX sends the massive ship Noah toward Fish-Man Island.",
+  "airDate": "2012-06-17",
+  "airDateJapan": "2012-06-17",
+  "airDateUS": "2012-06-16",
+  "arcName": "Fish-Man Island Arc",
+  "sagaName": "Fish-Man Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Go!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [517, 578]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Aya Komaki",
+    "screenplay": "Yoshiyuki Suga",
+    "artDirector": "Ryūji Yoshiike",
+    "keyAnimators": ["Shigefumi Shingaki"],
+    "voiceActorsJP": [
+      {
+        "character": "Hody Jones",
+        "actor": "Jōji Nakata"
+      },
+      {
+        "character": "Shirahoshi",
+        "actor": "Megumi Hayashibara"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Katsuhisa Hōki"
+      },
+      {
+        "character": "Neptune",
+        "actor": "Minoru Inaba"
+      },
+      {
+        "character": "Vander Decken IX",
+        "actor": "Tōru Ōkawa"
+      },
+      {
+        "character": "Shyarly",
+        "actor": "Romi Park"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Hody Jones",
+        "actor": "Tyson Rinehart"
+      },
+      {
+        "character": "Shirahoshi",
+        "actor": "Bryn Apprill"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Daniel Baugh"
+      },
+      {
+        "character": "Neptune",
+        "actor": "John Burgmeier"
+      },
+      {
+        "character": "Vander Decken IX",
+        "actor": "Brook Chalmers"
+      },
+      {
+        "character": "Shyarly",
+        "actor": "Anastasia Munoz"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep552-event-001",
+      "episodeNumber": 552,
+      "timestamp": "03:45",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Shirahoshi and Jinbe Captured",
+      "description": "Jinbe and Shirahoshi fall into a trap set by the New Fish-Man Pirates using a balloon duplicate of King Neptune. The trap easily fools Shirahoshi and Megalo, resulting in their capture.",
+      "significance": "This capture brings all the royal family members into Hody's control, setting the stage for his public confession about Otohime's assassination.",
+      "characterIds": ["shirahoshi", "jinbe", "megalo", "hody-jones"],
+      "locationIds": ["gyoncorde-plaza"],
+      "crewIds": ["new-fish-man-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [551],
+      "payoffInEpisodes": [553, 554],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep552-event-002",
+      "episodeNumber": 552,
+      "timestamp": "06:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "The Royal Family Imprisoned at Gyoncorde Plaza",
+      "description": "All members of the Neptune royal family including the three princes (Fukaboshi, Manboshi, and Ryuboshi), King Neptune, Jinbe, Shirahoshi, and Megalo are now chained and imprisoned at Gyoncorde Plaza. The New Fish-Man Pirates chant for their deaths.",
+      "significance": "This represents the complete takeover of Fish-Man Island's leadership by Hody Jones and his crew, with all legitimate authority now in chains.",
+      "characterIds": ["fukaboshi", "manboshi", "ryuboshi", "neptune", "shirahoshi", "jinbe", "megalo", "hody-jones"],
+      "locationIds": ["gyoncorde-plaza"],
+      "crewIds": ["new-fish-man-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [550, 551],
+      "payoffInEpisodes": [553, 554],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep552-event-003",
+      "episodeNumber": 552,
+      "timestamp": "09:15",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MAJOR",
+      "title": "Shyarly's Prediction About Luffy",
+      "description": "Madame Shyarly arrives at Gyoncorde Plaza and publicly declares that her prediction shows it is Luffy, not Hody, who will destroy Fish-Man Island. The citizens confirm her predictions have never been wrong, which devastates Hody's credibility.",
+      "significance": "This prophecy becomes a major plot point, undermining Hody's authority and foreshadowing Luffy's role in the island's fate. It also establishes the conflict between destiny and intention.",
+      "characterIds": ["shyarly", "hody-jones", "luffy"],
+      "locationIds": ["gyoncorde-plaza"],
+      "quotes": [
+        {
+          "text": "The one who will destroy Fish-Man Island is not you, Hody. It's Straw Hat Luffy.",
+          "speaker": "Shyarly",
+          "context": "Shyarly publicly contradicts Hody's claim to be the island's savior"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [536, 537],
+      "payoffInEpisodes": [560, 561],
+      "callbacksToEpisodes": [536]
+    },
+    {
+      "id": "ep552-event-004",
+      "episodeNumber": 552,
+      "timestamp": "10:45",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Hody Attacks Shyarly",
+      "description": "Enraged by Shyarly's prediction that contradicts his narrative, Hody Jones attacks her with a water bullet, demonstrating his violent response to opposition.",
+      "significance": "Shows Hody's true nature and his willingness to attack anyone who challenges his authority, even respected community members like Shyarly.",
+      "characterIds": ["hody-jones", "shyarly"],
+      "locationIds": ["gyoncorde-plaza"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep552-event-005",
+      "episodeNumber": 552,
+      "timestamp": "12:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Hody Confesses to Assassinating Queen Otohime",
+      "description": "Hody Jones publicly confesses that he was the one who assassinated Queen Otohime ten years ago. He reveals that his plan to conquer Fish-Man Island began with her death, shocking everyone present including the royal family and citizens.",
+      "significance": "This is the pivotal revelation of the Fish-Man Island arc, exposing the truth behind the tragedy that has shaped the island's recent history and revealing Hody as the true villain behind the island's suffering.",
+      "characterIds": ["hody-jones", "otohime", "shirahoshi", "neptune", "fukaboshi", "manboshi", "ryuboshi", "jinbe"],
+      "locationIds": ["gyoncorde-plaza"],
+      "quotes": [
+        {
+          "text": "I was the assassin who killed Queen Otohime!",
+          "speaker": "Hody Jones",
+          "context": "Hody's shocking confession about the assassination"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [528, 529, 530],
+      "payoffInEpisodes": [553, 554],
+      "callbacksToEpisodes": [528, 529, 530]
+    },
+    {
+      "id": "ep552-event-006",
+      "episodeNumber": 552,
+      "timestamp": "14:20",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "The Details of Otohime's Assassination Plot",
+      "description": "Hody Jones reveals the full details of his assassination plot: he paid a human pirate to burn the box of petition signatures, then shot Otohime during the confusion, and finally killed the human pirate to frame him and fool the entire island into blaming humans.",
+      "significance": "This revelation exposes the manipulation and conspiracy that turned Fish-Man Island's citizens against humans, showing how Hody exploited tragedy to advance his radical agenda and increase hatred.",
+      "characterIds": ["hody-jones", "otohime"],
+      "locationIds": ["gyoncorde-plaza"],
+      "quotes": [
+        {
+          "text": "I paid that pirate to burn the box of signatures, and I shot Otohime in the confusion and killed the human to fool the island.",
+          "speaker": "Hody Jones",
+          "context": "Hody explaining his elaborate assassination plot"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [528, 529, 530],
+      "payoffInEpisodes": [553],
+      "callbacksToEpisodes": [528, 529, 530]
+    },
+    {
+      "id": "ep552-event-007",
+      "episodeNumber": 552,
+      "timestamp": "15:45",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Hody Shoots Neptune",
+      "description": "After confessing to killing Otohime, Hody shoots King Neptune with a water bullet when the king expresses his rage at his wife's killer.",
+      "significance": "This demonstrates Hody's complete disregard for the royal family and his willingness to kill to maintain control, escalating the violence.",
+      "characterIds": ["hody-jones", "neptune"],
+      "locationIds": ["gyoncorde-plaza"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [553],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep552-event-008",
+      "episodeNumber": 552,
+      "timestamp": "17:00",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Shirahoshi Reveals She Already Knew",
+      "description": "When Hody taunts Shirahoshi about killing her mother, the princess tearfully reveals that she already knew the truth about who killed Otohime. This shocks everyone present, including Hody Jones, Neptune, and Jinbe.",
+      "significance": "This revelation shows Shirahoshi's incredible strength and compassion - she kept the secret to honor her mother's dying wish not to seek revenge, demonstrating maturity beyond her years and commitment to Otohime's peaceful ideals.",
+      "characterIds": ["shirahoshi", "hody-jones", "otohime", "neptune", "jinbe"],
+      "locationIds": ["gyoncorde-plaza"],
+      "quotes": [
+        {
+          "text": "I already knew.",
+          "speaker": "Shirahoshi",
+          "context": "Shirahoshi's tearful revelation that she knew Hody killed her mother"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [530],
+      "payoffInEpisodes": [553],
+      "callbacksToEpisodes": [530]
+    },
+    {
+      "id": "ep552-event-009",
+      "episodeNumber": 552,
+      "timestamp": "19:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Vander Decken Lifts the Noah",
+      "description": "At the Fish-Man District, Vander Decken IX uses his Mato Mato no Mi Devil Fruit power to place his hand on the massive ship Noah, causing it to lift up and fly toward Fish-Man Island with Shirahoshi as its target.",
+      "significance": "This sets up the climactic threat to Fish-Man Island - the ancient ship Noah heading toward the island could destroy it entirely, forcing the Straw Hats to intervene and fulfilling Shyarly's prophecy about destruction.",
+      "characterIds": ["vander-decken-ix", "shirahoshi"],
+      "locationIds": ["fish-man-district", "fish-man-island"],
+      "devilFruitIds": ["mato-mato-no-mi"],
+      "quotes": [
+        {
+          "text": "I will destroy Fish-Man Island and Shirahoshi with it!",
+          "speaker": "Vander Decken IX",
+          "context": "Decken's declaration as he sends Noah toward the island"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [536, 537, 551],
+      "payoffInEpisodes": [558, 559, 560, 561],
+      "callbacksToEpisodes": [536, 537]
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [553, 554, 558, 559, 560],
+    "payoffFrom": [528, 529, 530, 536, 537, 550, 551],
+    "thematicLinks": [528, 529, 530, 561]
+  },
+  "quotes": [
+    {
+      "text": "I was the assassin who killed Queen Otohime!",
+      "speaker": "Hody Jones",
+      "context": "Hody's shocking public confession",
+      "timestamp": "12:30"
+    },
+    {
+      "text": "I already knew.",
+      "speaker": "Shirahoshi",
+      "context": "Shirahoshi's tearful revelation",
+      "timestamp": "17:00"
+    },
+    {
+      "text": "The one who will destroy Fish-Man Island is not you, Hody. It's Straw Hat Luffy.",
+      "speaker": "Shyarly",
+      "context": "Shyarly's prophecy contradicting Hody",
+      "timestamp": "09:15"
+    },
+    {
+      "text": "I will destroy Fish-Man Island and Shirahoshi with it!",
+      "speaker": "Vander Decken IX",
+      "context": "Decken sending Noah toward the island",
+      "timestamp": "19:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Truth and Consequences",
+      "description": "The episode centers on the revelation of long-hidden truths - Hody's confession about Otohime's assassination and Shirahoshi's knowledge of this truth. These revelations have profound consequences for everyone involved.",
+      "symbolism": "The public confession at Gyoncorde Plaza represents truth being brought to light in the most public way possible, forcing all of Fish-Man Island to confront the real source of their suffering.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Cycles of Hatred and Revenge",
+      "description": "Hody's assassination of Otohime was designed to perpetuate hatred between fish-men and humans. However, Shirahoshi's refusal to reveal the truth or seek revenge shows her commitment to breaking this cycle, honoring her mother's peaceful ideals.",
+      "symbolism": "Shirahoshi's tears and her decision to keep silent represent the painful choice between revenge and peace, showing incredible maturity and strength.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Prophecy and Destiny",
+      "description": "Shyarly's prediction that Luffy, not Hody, will destroy Fish-Man Island introduces questions about fate and destiny, challenging Hody's narrative about his role in the island's future.",
+      "symbolism": "The contrast between Hody's forced attempt to control the island's destiny and Shyarly's vision of what is truly fated to happen.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Manipulation and Propaganda",
+      "description": "Hody's elaborate plot to frame a human for Otohime's death demonstrates how leaders can manipulate tragedy to advance their own agendas and control public opinion.",
+      "symbolism": "The burned petition signatures represent how those who seek power will destroy symbols of hope and unity to achieve their goals.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Shocking", "Tragic", "Tense", "Dramatic"],
+  "characterSpotlights": [
+    {
+      "characterId": "hody-jones",
+      "role": "Antagonist confession",
+      "development": "Hody reveals the full extent of his villainy by confessing to Otohime's assassination and explaining his manipulative plot. His violent response to Shyarly's prophecy shows his instability when his authority is challenged.",
+      "keyActions": [
+        "Captures Shirahoshi and Jinbe",
+        "Attacks Shyarly with a water bullet",
+        "Confesses to assassinating Otohime",
+        "Reveals the details of his conspiracy",
+        "Shoots King Neptune"
+      ],
+      "quotes": [
+        "I was the assassin who killed Queen Otohime!",
+        "I paid that pirate to burn the box of signatures, and I shot Otohime in the confusion and killed the human to fool the island."
+      ]
+    },
+    {
+      "characterId": "shirahoshi",
+      "role": "Emotional revelation",
+      "development": "Shirahoshi demonstrates incredible strength by revealing she already knew Hody killed her mother but kept silent to honor Otohime's dying wish not to seek revenge. This shows her growth and commitment to peace over vengeance.",
+      "keyActions": [
+        "Is captured and brought to Gyoncorde Plaza in chains",
+        "Hears Hody's confession about killing her mother",
+        "Reveals she already knew the truth",
+        "Becomes the target of Vander Decken's Noah attack"
+      ],
+      "quotes": ["I already knew."]
+    },
+    {
+      "characterId": "shyarly",
+      "role": "Prophet delivering uncomfortable truth",
+      "development": "Shyarly publicly stands by her prophecy that Luffy will destroy the island, even when it contradicts Hody's narrative and puts her in danger.",
+      "keyActions": [
+        "Arrives at Gyoncorde Plaza",
+        "Publicly declares Luffy will destroy Fish-Man Island",
+        "Is attacked by Hody for her prophecy"
+      ],
+      "quotes": ["The one who will destroy Fish-Man Island is not you, Hody. It's Straw Hat Luffy."]
+    },
+    {
+      "characterId": "vander-decken-ix",
+      "role": "Secondary antagonist escalation",
+      "development": "Vander Decken escalates the threat by using his Devil Fruit power to send the massive Noah ship toward Fish-Man Island, creating an existential threat to the entire island.",
+      "keyActions": [
+        "Places his hand on the ship Noah",
+        "Uses his Mato Mato no Mi power to send Noah flying toward Shirahoshi",
+        "Declares his intention to destroy the island"
+      ],
+      "quotes": ["I will destroy Fish-Man Island and Shirahoshi with it!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended the scene showing Hody bragging about killing Otohime, adding more dialogue and reactions.",
+      "episodeTimestamp": "13:00",
+      "mangaReference": "Chapter 632",
+      "type": "ANIME_EXTENDED_SCENE"
+    },
+    {
+      "difference": "The anime showed Hody paying off the human pirate and the pirate demanding the rest of his payment before being shot, which was only briefly mentioned in the manga.",
+      "episodeTimestamp": "14:30",
+      "mangaReference": "Chapter 632",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "The capture sequence of Jinbe, Shirahoshi, and Megalo was shown more explicitly in the anime, whereas the manga showed it as a brief flashback after they were already at the plaza.",
+      "episodeTimestamp": "03:45",
+      "mangaReference": "Chapter 632",
+      "type": "ANIME_EXPANDED_SCENE"
+    },
+    {
+      "difference": "The surprised reactions of the New Fish-Man Pirates' underlings at Hody's confession were not shown in the anime but were present in the manga.",
+      "episodeTimestamp": "12:30",
+      "mangaReference": "Chapter 632",
+      "type": "ANIME_REMOVED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episode 552 adapts Chapter 632 pages 2-19. The chapter is titled 'I Knew', referring to Shirahoshi's revelation.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_552",
+          "title": "Episode 552 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "fact": "This episode aired on June 17, 2012 in Japan, with the US simulcast airing the day before on June 16, 2012.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_552",
+          "title": "Episode 552 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "fact": "Hody Jones is considered one of the most controversial villains in One Piece because he has no tragic backstory or personal trauma to explain his hatred - he simply hates humans because he was raised to do so, representing the cycle of inherited prejudice.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://gamerant.com/one-piece-most-pitiful-villain/",
+          "title": "One Piece: The Most Pitiful Villain In The Series - Game Rant",
+          "platform": "Game Rant",
+          "accessedAt": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "fact": "The Fish-Man Island arc has been recently remastered (2024-2025), condensing 57 episodes into 21 episodes with improved animation and pacing, leading to renewed appreciation for the arc's narrative.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://screenrant.com/one-piece-anime-remaster-pacing/",
+          "title": "One Piece's Anime Remaster Is Great - ScreenRant",
+          "platform": "ScreenRant",
+          "accessedAt": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "fact": "Before she died, Otohime made Shirahoshi promise not to seek revenge against her murderer, which is why Shirahoshi kept Hody's identity secret for ten years despite knowing the truth.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Otohime",
+          "title": "Otohime - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-24"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
