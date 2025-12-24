@@ -1,0 +1,395 @@
+{
+  "episodeNumber": 548,
+  "episodeTitle": "The Kingdom in Shock! An Order to Execute Neptune Issued!",
+  "description": "Hody Jones broadcasts his takeover plan across Fish-Man Island, announcing King Neptune's execution in three hours and declaring himself the new ruler. Robin discovers Joy Boy's apology on a Poneglyph in the Sea Forest while Luffy and Jinbe clash over who should fight Hody.",
+  "airDate": "2012-05-20",
+  "airDateJapan": "2012-05-20",
+  "airDateUS": "2017-10-10",
+  "arcName": "Fish-Man Island Arc",
+  "sagaName": "Fish-Man Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Go!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [517, 590]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Yoshihiro Ueda",
+    "keyAnimators": ["Megumi Yamashita"],
+    "artDirector": "Ryūji Yoshiike",
+    "screenplay": "Jin Tanaka",
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Hody Jones",
+        "actor": "Jōji Nakata"
+      },
+      {
+        "character": "King Neptune",
+        "actor": "Minoru Inaba"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Katsuhisa Hōki"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Shirahoshi",
+        "actor": "Megumi Hayashibara"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Hody Jones",
+        "actor": "Josh Martin"
+      },
+      {
+        "character": "King Neptune",
+        "actor": "John Swasey"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Daniel Baugh"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep548-event-001",
+      "episodeNumber": 548,
+      "timestamp": "03:15",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Joy Boy's First Mention - Apology Revealed on Poneglyph",
+      "description": "Nico Robin deciphers the Poneglyph in the Sea Forest and discovers it contains an apology letter from Joy Boy to the people of Fish-Man Island. Joy Boy made a promise involving the massive ship Noah but failed to fulfill it during the Void Century.",
+      "significance": "This is the first mention of Joy Boy in the anime, introducing a crucial figure who becomes central to the series' overarching narrative and lore. The apology hints at an ancient promise that will be fulfilled by someone in the future.",
+      "characterIds": ["nico-robin", "joy-boy"],
+      "locationIds": ["sea-forest"],
+      "quotes": [
+        {
+          "text": "This is an apology... from someone named Joy Boy.",
+          "speaker": "Nico Robin",
+          "context": "Robin reading the Poneglyph in the Sea Forest"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [507],
+      "payoffInEpisodes": [569, 1015],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep548-event-002",
+      "episodeNumber": 548,
+      "timestamp": "06:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Hody's Broadcast - Execution Announcement",
+      "description": "Hody Jones broadcasts his message across all of Fish-Man Island, announcing his coup d'état. He declares that King Neptune will be executed in three hours at Gyoncorde Plaza and proclaims himself as the new ruler of the Ryugu Kingdom.",
+      "significance": "Hody's public declaration escalates the conflict and forces the Straw Hats to take action. This marks the full-scale takeover attempt of Fish-Man Island.",
+      "characterIds": ["hody-jones", "neptune"],
+      "locationIds": ["gyoncorde-plaza", "fish-man-island"],
+      "crewIds": ["new-fish-man-pirates"],
+      "quotes": [
+        {
+          "text": "In three hours, I will execute King Neptune at Gyoncorde Plaza! I will become the new king of the Ryugu Kingdom!",
+          "speaker": "Hody Jones",
+          "context": "Hody's broadcast to all of Fish-Man Island"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [545, 546, 547],
+      "payoffInEpisodes": [554, 555, 560],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep548-event-003",
+      "episodeNumber": 548,
+      "timestamp": "08:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Citizens Forced to Desecrate Queen Otohime's Memorial",
+      "description": "The New Fish-Man Pirates force the citizens of Fish-Man Island to step on portraits of Queen Otohime (fumi-e), threatening execution for those who refuse. Citizens who signed Otohime's petition for peace with humans are declared enemies and face exile or death.",
+      "significance": "This scene references historical Japanese persecution of Christians and demonstrates Hody's complete rejection of Otohime's vision of peace. It forces citizens to publicly renounce the queen's dream of coexistence with humans.",
+      "characterIds": ["hody-jones", "otohime"],
+      "locationIds": ["fish-man-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [541, 542, 543, 544],
+      "payoffInEpisodes": [560],
+      "callbacksToEpisodes": [541]
+    },
+    {
+      "id": "ep548-event-004",
+      "episodeNumber": 548,
+      "timestamp": "12:20",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Hody Threatens to Execute the Straw Hat Pirates",
+      "description": "Hody announces his intention to execute the Straw Hat Pirates as an example to all surface humans. He reveals that Zoro, Usopp, and Brook are captive and will be drowned as warnings against human interference in Fish-Man Island affairs.",
+      "significance": "This directly threatens the Straw Hat crew and escalates the personal stakes for Luffy, forcing him to take action despite Jinbe's concerns about human involvement worsening Fish-Man/human relations.",
+      "characterIds": ["hody-jones", "luffy", "zoro", "usopp", "brook"],
+      "crewIds": ["straw-hat-pirates", "new-fish-man-pirates"],
+      "quotes": [
+        {
+          "text": "The Straw Hats will serve as an example to all humans from the surface. They will be executed!",
+          "speaker": "Hody Jones",
+          "context": "Hody's broadcast threatening the Straw Hat Pirates"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [547],
+      "payoffInEpisodes": [549, 554],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep548-event-005",
+      "episodeNumber": 548,
+      "timestamp": "16:40",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Luffy and Jinbe's Disagreement Escalates",
+      "description": "Luffy insists on fighting Hody Jones to save his crew, but Jinbe opposes him, fearing that human involvement will increase resentment toward Fish-Men and undermine everything Queen Otohime worked for. Their disagreement begins to escalate into a physical confrontation.",
+      "significance": "This conflict represents a clash between Luffy's loyalty to his crew and Jinbe's concern for the larger implications of Fish-Man/human relations. It sets up their duel in the next episode and explores the complex racial tensions at the heart of the arc.",
+      "characterIds": ["luffy", "jinbe"],
+      "locationIds": ["sea-forest"],
+      "quotes": [
+        {
+          "text": "I don't care about that! My crew is in danger!",
+          "speaker": "Luffy",
+          "context": "Luffy refusing to back down when Jinbe asks him not to fight Hody"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [547],
+      "payoffInEpisodes": [549],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep548-event-006",
+      "episodeNumber": 548,
+      "timestamp": "14:30",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "CRITICAL",
+      "title": "Neptune's Knowledge of the Ancient Promise",
+      "description": "King Neptune contemplates the ancient promise made by Joy Boy, a legend passed down through the royal family. He knows that one day someone will come to fulfill Joy Boy's promise, though the details remain a mystery.",
+      "significance": "This establishes that the royal family has been guarding a secret related to Joy Boy's promise for centuries, setting up future revelations about Luffy's role in fulfilling this ancient prophecy.",
+      "characterIds": ["neptune", "joy-boy"],
+      "locationIds": ["fish-man-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [569, 626, 1015],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep548-event-007",
+      "episodeNumber": 548,
+      "timestamp": "10:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Togare, Gotan, and Luca Make Their Debuts",
+      "description": "Several Fish-Man Island citizens make their first appearances, including Togare (a fish-man living in Coral Hill), Gotan (whose name is mentioned as a supporter of Otohime), and Luca among other background characters caught up in Hody's coup.",
+      "significance": "These characters represent the ordinary citizens of Fish-Man Island who are caught between Hody's violent ideology and Otohime's dream of peace.",
+      "characterIds": ["togare", "gotan"],
+      "locationIds": ["fish-man-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["togare", "gotan", "joy-boy"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [549, 554, 555, 560, 569],
+    "payoffFrom": [541, 542, 543, 544, 545, 546, 547],
+    "thematicLinks": [569, 626, 1015]
+  },
+  "quotes": [
+    {
+      "text": "This is an apology... from someone named Joy Boy.",
+      "speaker": "Nico Robin",
+      "context": "Reading the Poneglyph in the Sea Forest",
+      "timestamp": "03:15"
+    },
+    {
+      "text": "In three hours, I will execute King Neptune at Gyoncorde Plaza! I will become the new king of the Ryugu Kingdom!",
+      "speaker": "Hody Jones",
+      "context": "Broadcast announcement to Fish-Man Island",
+      "timestamp": "06:30"
+    },
+    {
+      "text": "The Straw Hats will serve as an example to all humans from the surface. They will be executed!",
+      "speaker": "Hody Jones",
+      "context": "Threatening the Straw Hat Pirates during his broadcast",
+      "timestamp": "12:20"
+    },
+    {
+      "text": "I don't care about that! My crew is in danger!",
+      "speaker": "Luffy",
+      "context": "Refusing Jinbe's request not to fight Hody",
+      "timestamp": "16:40"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Racism and Prejudice",
+      "description": "The episode heavily explores the deep-seated racism between humans and Fish-Men. Hody's forced desecration of Otohime's memorial symbolizes the rejection of peace and coexistence, while Jinbe's concerns about human involvement reflect the fragile nature of interspecies relations.",
+      "symbolism": "The fumi-e (stepping on Otohime's portrait) directly references Japan's historical persecution of Christians, drawing a parallel between religious persecution and racial discrimination.",
+      "culturalReferences": ["Japanese Edo-period persecution", "Fumi-e practice"]
+    },
+    {
+      "theme": "Legacy and Inherited Will",
+      "description": "Joy Boy's apology introduces the concept of ancient promises being passed down through generations. The royal family's duty to preserve this knowledge and await the promised one parallels other inherited wills throughout One Piece.",
+      "symbolism": "The Poneglyph serves as a permanent record of promises made in the ancient past, showing how history shapes the present.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Loyalty vs. Greater Good",
+      "description": "Luffy's unwavering loyalty to his crew clashes with Jinbe's concern for the broader implications of their actions. This explores the tension between personal bonds and societal responsibility.",
+      "symbolism": "Luffy's determination to save his crew regardless of consequences represents the series' core value that nakama (crewmates) come first.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Dramatic", "Serious", "Foreboding"],
+  "characterSpotlights": [
+    {
+      "characterId": "nico-robin",
+      "role": "Key reveal - Discovers Joy Boy's apology",
+      "development": "Robin uses her archaeological expertise to decipher the Poneglyph, revealing crucial information about Joy Boy and ancient promises. Her role as the only person who can read Poneglyphs proves essential to understanding the island's history.",
+      "keyActions": [
+        "Deciphers the Poneglyph in the Sea Forest",
+        "Discovers and reads Joy Boy's apology",
+        "Learns about the ancient promise involving Noah"
+      ],
+      "quotes": ["This is an apology... from someone named Joy Boy."]
+    },
+    {
+      "characterId": "hody-jones",
+      "role": "Antagonist - Orchestrates coup and executions",
+      "development": "Hody fully reveals his tyrannical ambitions by broadcasting his takeover plan to all of Fish-Man Island. His cruel methods, including forcing citizens to desecrate Otohime's memory, demonstrate his complete rejection of peace and his violent ideology.",
+      "keyActions": [
+        "Broadcasts coup announcement across Fish-Man Island",
+        "Announces Neptune's execution in three hours",
+        "Declares himself the new king",
+        "Threatens to execute the Straw Hat Pirates",
+        "Forces citizens to step on Otohime's portrait"
+      ],
+      "quotes": ["In three hours, I will execute King Neptune at Gyoncorde Plaza! I will become the new king of the Ryugu Kingdom!"]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Protagonist - Prepares to rescue crew",
+      "development": "Luffy faces a moral dilemma when Jinbe asks him not to fight Hody due to the political implications. However, Luffy's loyalty to his crew overrides all other concerns, showing his unwavering commitment to his nakama.",
+      "keyActions": [
+        "Learns his crew members are in danger",
+        "Disagrees with Jinbe about fighting Hody",
+        "Prepares to confront Hody despite Jinbe's objections"
+      ],
+      "quotes": ["I don't care about that! My crew is in danger!"]
+    },
+    {
+      "characterId": "jinbe",
+      "role": "Mediator - Opposes Luffy's intervention",
+      "development": "Jinbe struggles with the complex situation, understanding Luffy's desire to help but fearing that human involvement will worsen Fish-Man/human relations and dishonor Queen Otohime's legacy. His opposition to Luffy stems from deep concern for his people's future.",
+      "keyActions": [
+        "Opposes Luffy fighting Hody",
+        "Explains the political implications of human involvement",
+        "Begins to clash with Luffy over the issue"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime expanded Hody's broadcast speech to include references to Gol D. Roger's execution and the Great Age of Pirates, adding context not present in the original manga chapter.",
+      "episodeTimestamp": "06:30",
+      "mangaReference": "Chapter 628",
+      "type": "ANIME_EXPANSION"
+    },
+    {
+      "difference": "Additional scenes were added showing Fish-Men discovering that Brook survived being thrown into the water, with more detail about moving the captured Straw Hats.",
+      "episodeTimestamp": "13:00",
+      "mangaReference": "Chapter 628",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the first mention of Joy Boy in the One Piece anime, introducing a character who would become central to the series' endgame and mysteries.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Joy_Boy",
+          "title": "Joy Boy - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "fact": "The fumi-e scene (forcing citizens to step on Otohime's portrait) is a direct historical reference to the Edo-period persecution of Christians in Japan, where suspected Christians were forced to step on images of Jesus or Mary.",
+      "category": "CULTURAL_REFERENCE",
+      "sources": [
+        {
+          "url": "https://www.tumblr.com/kaizokuou-ni-naru/611662314108846080/the-new-fishman-pirates-forcing-citizens-to",
+          "title": "Historical Reference in One Piece Episode 548",
+          "platform": "Tumblr",
+          "accessedAt": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "fact": "This episode adapts Chapter 628 of the manga, specifically pages 3-19.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_548",
+          "title": "Episode 548 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "fact": "The episode achieved an 8.4% TV rating in Japan, ranking 6th among shows in its timeslot.",
+      "category": "VIEWERSHIP",
+      "sources": []
+    },
+    {
+      "fact": "The opening theme 'We Go!' by Hiroshi Kitadani ran for 74 episodes (517-590), making it the longest-running opening in One Piece history at the time.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/We_Go!",
+          "title": "We Go! - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-24"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

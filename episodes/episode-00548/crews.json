@@ -1,0 +1,112 @@
+[
+  {
+    "name": {
+      "english": "New Fish-Man Pirates",
+      "japanese": "新魚人海賊団",
+      "romanized": "Shin Gyojin Kaizoku-dan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "hody-jones",
+    "debutEpisode": 529,
+    "debutChapter": 611,
+    "episodeAppearances": [548],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 548,
+        "eventId": "ep548-event-002",
+        "momentType": "MAJOR_DECISION",
+        "title": "Public Coup Announcement",
+        "description": "The New Fish-Man Pirates execute their coup d'état by broadcasting Hody Jones's takeover announcement across all of Fish-Man Island, declaring Neptune's execution and Hody's rule.",
+        "significance": "This marks the full-scale takeover attempt by the New Fish-Man Pirates and sets the stage for the climactic battle.",
+        "timestamp": "06:30"
+      },
+      {
+        "episodeNumber": 548,
+        "eventId": "ep548-event-003",
+        "momentType": "CULTURAL_MOMENT",
+        "title": "Forcing Citizens to Renounce Otohime",
+        "description": "The New Fish-Man Pirates force citizens across the island to step on portraits of Queen Otohime, threatening death to those who refuse.",
+        "significance": "Demonstrates the crew's tyrannical methods and complete rejection of human-fishman peace.",
+        "timestamp": "08:45"
+      },
+      {
+        "episodeNumber": 548,
+        "eventId": "ep548-event-004",
+        "momentType": "MAJOR_DECISION",
+        "title": "Threatening the Straw Hat Pirates",
+        "description": "The New Fish-Man Pirates hold Zoro, Usopp, and Brook captive and threaten to execute them as examples to surface humans.",
+        "significance": "Directly challenges the Straw Hat Pirates and escalates the conflict to a personal level.",
+        "timestamp": "12:20"
+      }
+    ],
+    "ships": [],
+    "bases": ["Fish-Man Island"],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull with sharp teeth and a crown, representing their ideology of fish-man supremacy",
+      "episodeFirstSeen": 529,
+      "imageUrl": ""
+    },
+    "mainColor": null,
+    "relationships": {
+      "allies": [],
+      "enemies": ["straw-hat-pirates", "ryugu-kingdom"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "luffy",
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [548],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 548,
+        "eventId": "ep548-event-004",
+        "momentType": "MAJOR_DECISION",
+        "title": "Crew Members Held Captive",
+        "description": "Zoro, Usopp, and Brook are held captive by the New Fish-Man Pirates and threatened with execution, forcing Luffy to take action.",
+        "significance": "The threat to crew members drives Luffy's determination to fight despite the political complications.",
+        "timestamp": "12:20"
+      },
+      {
+        "episodeNumber": 548,
+        "eventId": "ep548-event-001",
+        "momentType": "WORLD_LORE",
+        "title": "Robin Discovers Joy Boy's Apology",
+        "description": "Nico Robin, the crew's archaeologist, deciphers the Poneglyph in the Sea Forest and discovers crucial information about Joy Boy and ancient promises.",
+        "significance": "The Straw Hats continue to uncover world-changing historical information through Robin's unique abilities.",
+        "timestamp": "03:15"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Thousand Sunny",
+        "episodeAcquired": 321,
+        "episodeLost": null,
+        "description": "The Straw Hat Pirates' second ship, currently docked at Fish-Man Island"
+      }
+    ],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull wearing a straw hat with crossed bones behind it",
+      "episodeFirstSeen": 45,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": ["jinbe"],
+      "enemies": ["new-fish-man-pirates"],
+      "parentOrganization": null
+    }
+  }
+]
