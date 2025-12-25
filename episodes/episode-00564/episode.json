@@ -1,0 +1,526 @@
+{
+  "episodeNumber": 564,
+  "episodeTitle": "Back to Zero! Earnest Wishes for Luffy!",
+  "description": "Fukaboshi reveals Hody Jones's past through flashbacks, showing how he developed hatred toward humans from childhood propaganda rather than personal experience. The episode culminates with Fukaboshi tearfully asking Luffy to reset Fish-Man Island's history to zero, while the Straw Hats continue their battles against the New Fish-Man Pirates at Gyoncorde Plaza.",
+  "airDate": "2012-09-16",
+  "airDateJapan": "2012-09-16",
+  "airDateUS": "2012-09-15",
+  "arcName": "Fish-Man Island Arc",
+  "sagaName": "Fish-Man Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Go!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [517, 590]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Masayuki Takagi",
+    "episodeDirector": "Tetsuya Endō",
+    "artDirector": "Ryūji Yoshiike",
+    "screenplay": "Hirohiko Kamisaka",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Ōtani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Brook",
+        "actor": "Chō"
+      },
+      {
+        "character": "Hody Jones",
+        "actor": "Jōji Nakata"
+      },
+      {
+        "character": "Hody Jones (Young)",
+        "actor": "Kōichi Tōchika"
+      },
+      {
+        "character": "Fukaboshi",
+        "actor": "Kentarō Itō"
+      },
+      {
+        "character": "Shirahoshi",
+        "actor": "Megumi Hayashibara"
+      },
+      {
+        "character": "Neptune",
+        "actor": "Minoru Inaba"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Brook",
+        "actor": "Ian Sinclair"
+      },
+      {
+        "character": "Hody Jones",
+        "actor": "Larry Brantley"
+      },
+      {
+        "character": "Fukaboshi",
+        "actor": "Jarrod Greene"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep564-event-001",
+      "episodeNumber": 564,
+      "timestamp": "05:00",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Young Hody Absorbs Anti-Human Propaganda",
+      "description": "The flashback reveals young Hody Jones in the Fish-Man District listening to fish-men preach about how humans are an inferior species. Hody and other young fish-men, including the future New Fish-Man Pirates officers, absorb this hateful ideology from their environment rather than from personal experience.",
+      "significance": "This moment establishes that Hody's hatred is environmental and inherited rather than based on personal trauma, making him a unique villain representing systemic racism passed down through generations.",
+      "characterIds": ["hody-jones", "ikaros-much", "dosun", "zeo", "daruma"],
+      "locationIds": ["fish-man-district"],
+      "quotes": [
+        {
+          "text": "Humans are an inferior species running rampant and threatening fish-menkind!",
+          "speaker": "Fish-Man Preacher",
+          "context": "Anti-human propaganda in the Fish-Man District"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [523, 541, 545, 546],
+      "payoffInEpisodes": [565, 566, 568],
+      "callbacksToEpisodes": [541, 546]
+    },
+    {
+      "id": "ep564-event-002",
+      "episodeNumber": 564,
+      "timestamp": "07:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Hody Joins the Neptune Army",
+      "description": "The flashback shows Hody Jones as a Neptune Army soldier. However, he joined solely to gain military knowledge and experience, not out of loyalty. He secretly commits crimes with his crew while serving.",
+      "significance": "Reveals Hody's calculated approach and betrayal of the kingdom he pretended to serve, setting up his eventual coup attempt.",
+      "characterIds": ["hody-jones", "ikaros-much", "dosun", "zeo", "daruma"],
+      "locationIds": ["ryugu-palace"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [560],
+      "payoffInEpisodes": [565],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep564-event-003",
+      "episodeNumber": 564,
+      "timestamp": "09:00",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Hody and Officers Celebrate Otohime's Death",
+      "description": "In a disturbing flashback, Hody and his fellow officers are shown toasting with beer, celebrating Queen Otohime's assassination. They declare that 'the shameless have been judged' and that it's natural for those who yield to humans to die, revealing that they saw her murder as righteous.",
+      "significance": "This moment shows the depth of their hatred and reveals that they celebrated the death of their own queen because she promoted peace with humans. It's a key moment showing how far their ideology had twisted them.",
+      "characterIds": ["hody-jones", "ikaros-much", "dosun", "zeo", "daruma"],
+      "locationIds": ["fish-man-district"],
+      "quotes": [
+        {
+          "text": "The shameless have been judged. It is the natural order for those who yield to humans to die.",
+          "speaker": "Hody Jones and Officers",
+          "context": "Celebrating Otohime's assassination"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [546],
+      "payoffInEpisodes": [565],
+      "callbacksToEpisodes": [546]
+    },
+    {
+      "id": "ep564-event-004",
+      "episodeNumber": 564,
+      "timestamp": "10:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Hody Steals and Begins Producing Energy Steroids",
+      "description": "The flashback reveals that Hody stole a sample of Energy Steroids from the Tamatebako while serving in the Neptune Army. He and his crew then began mass-producing these dangerous enhancement drugs, setting the stage for their future rebellion.",
+      "significance": "This reveals how Hody obtained the power-enhancing drugs that would later allow the New Fish-Man Pirates to challenge the kingdom, and shows his long-term planning.",
+      "characterIds": ["hody-jones"],
+      "locationIds": ["fish-man-district"],
+      "devilFruitIds": [],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [560],
+      "payoffInEpisodes": [565, 566],
+      "callbacksToEpisodes": [530, 560]
+    },
+    {
+      "id": "ep564-event-005",
+      "episodeNumber": 564,
+      "timestamp": "12:00",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Fukaboshi's 'Reset to Zero' Speech",
+      "description": "Fukaboshi tearfully reveals that Hody is a monster born from Fish-Man Island's environment of hatred. He laments that his mother Otohime was killed by the island's own grudge and begs Luffy to reset their history to zero, asking him to purge the hatred that has poisoned their society.",
+      "significance": "This is the emotional and thematic climax of the arc, where Fukaboshi acknowledges that the island's hatred has created monsters like Hody and asks Luffy to break the cycle. It represents the island's desire to move beyond their tragic past.",
+      "characterIds": ["fukaboshi", "luffy", "shirahoshi", "neptune"],
+      "locationIds": ["gyoncorde-plaza"],
+      "quotes": [
+        {
+          "text": "My mother was killed by the hatred of Fish-Man Island itself. Please, Luffy... reset our history to zero!",
+          "speaker": "Fukaboshi",
+          "context": "Fukaboshi's emotional plea to Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [541, 546, 563],
+      "payoffInEpisodes": [565, 573],
+      "callbacksToEpisodes": [546]
+    },
+    {
+      "id": "ep564-event-006",
+      "episodeNumber": 564,
+      "timestamp": "14:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Luffy Accepts Fukaboshi's Request",
+      "description": "Luffy gladly accepts Fukaboshi's request to reset Fish-Man Island to zero. He declares that the island's residents are his friends and reaffirms his vow not to let anyone harm the island, taking on the burden of breaking the cycle of hatred.",
+      "significance": "Luffy's acceptance cements the alliance between the Straw Hats and the Ryugu Kingdom, and shows his willingness to fight not just for victory but to heal the island's deep wounds.",
+      "characterIds": ["luffy", "fukaboshi"],
+      "locationIds": ["gyoncorde-plaza"],
+      "quotes": [
+        {
+          "text": "Leave it to me! You're all my friends!",
+          "speaker": "Luffy",
+          "context": "Accepting Fukaboshi's request"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [563],
+      "payoffInEpisodes": [565, 566, 567, 568, 573],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep564-event-007",
+      "episodeNumber": 564,
+      "timestamp": "16:00",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Franky Fireball Against Ikaros Much",
+      "description": "Franky continues his battle with Ikaros Much and debuts his Franky Fireball technique, shooting a fireball from his mouth. However, he is initially fooled by Ikaros Much's squid ink clone technique.",
+      "significance": "Demonstrates Franky's post-timeskip fire-based abilities and his versatility in combat.",
+      "characterIds": ["franky", "ikaros-much"],
+      "locationIds": ["gyoncorde-plaza"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [561],
+      "payoffInEpisodes": [565],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep564-event-008",
+      "episodeNumber": 564,
+      "timestamp": "17:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "MINOR",
+      "title": "Ikaros Much's Wings and Ink Clone Techniques",
+      "description": "Ikaros Much demonstrates his 'Wings of Ikaros' spitting attack and uses squid ink to create clone doubles to evade Franky's attacks.",
+      "significance": "Reveals the combat abilities of one of the New Fish-Man Pirates officers.",
+      "characterIds": ["ikaros-much", "franky"],
+      "locationIds": ["gyoncorde-plaza"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [561],
+      "payoffInEpisodes": [565],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep564-event-009",
+      "episodeNumber": 564,
+      "timestamp": "18:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Chopper's Heavy Gong",
+      "description": "Chopper reveals his new Heavy Point form and uses Heavy Gong against Dosun's T-Shot attack. The two match each other's power, with Zoro joking that Chopper looks like a monster in this form.",
+      "significance": "Shows Chopper's post-timeskip improvements to his Heavy Point transformation.",
+      "characterIds": ["chopper", "dosun", "zoro"],
+      "locationIds": ["gyoncorde-plaza"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [561],
+      "payoffInEpisodes": [562],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep564-event-010",
+      "episodeNumber": 564,
+      "timestamp": "19:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Zoro Dominates Hyouzou",
+      "description": "Zoro continues his battle with Hyouzou, who is powered by Energy Steroids and alcohol. Despite Hyouzou being considered Fish-Man Island's best swordsman, Zoro effortlessly cuts off several of his swords' blades at the hilts and mocks him, saying he cannot even kill Zoro's boredom.",
+      "significance": "Demonstrates the vast gap in power between Zoro post-timeskip and even Fish-Man Island's strongest swordsman, showing how much the Straw Hats have grown.",
+      "characterIds": ["zoro", "hyouzou"],
+      "locationIds": ["gyoncorde-plaza"],
+      "quotes": [
+        {
+          "text": "You can't even kill my boredom.",
+          "speaker": "Roronoa Zoro",
+          "context": "Zoro mocking Hyouzou during their fight"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [560, 561],
+      "payoffInEpisodes": [565],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep564-event-011",
+      "episodeNumber": 564,
+      "timestamp": "20:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Hody Chases Shirahoshi and Luffy",
+      "description": "Hody Jones, his muscles continuing to expand from Energy Steroid abuse, chases after Luffy and Shirahoshi with hysterical laughter. Shirahoshi remarks that he looks even scarier than before as his transformation continues.",
+      "significance": "Shows the progression of Hody's steroid-induced transformation and sets up the final confrontation.",
+      "characterIds": ["hody-jones", "luffy", "shirahoshi"],
+      "locationIds": ["gyoncorde-plaza"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [560, 563],
+      "payoffInEpisodes": [565, 566, 567],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep564-event-012",
+      "episodeNumber": 564,
+      "timestamp": "21:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Luffy Declares Friendship with Fish-Man Island",
+      "description": "Luffy announces through the intercom to everyone on Fish-Man Island that from the moment the Straw Hats entered the plaza, they decided not to let anyone harm the island. He tells them to leave everything to the crew, adding 'We are friends after all.'",
+      "significance": "This declaration solidifies the bond between the Straw Hats and Fish-Man Island, officially making them allies and showing Luffy's commitment to protecting the island.",
+      "characterIds": ["luffy", "fukaboshi", "shirahoshi", "neptune"],
+      "locationIds": ["fish-man-island", "gyoncorde-plaza"],
+      "quotes": [
+        {
+          "text": "From the moment we entered the plaza, we decided we would not let anyone touch this island. Leave everything to us. We are friends after all!",
+          "speaker": "Monkey D. Luffy",
+          "context": "Luffy's declaration to all of Fish-Man Island"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [563, 564],
+      "payoffInEpisodes": [565, 573],
+      "callbacksToEpisodes": [528, 554]
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["franky-fireball", "heavy-gong", "ikaros-wings", "ink-clone"]
+  },
+  "episodeRelationships": {
+    "setupFor": [565, 566, 567],
+    "payoffFrom": [546, 560, 563],
+    "thematicLinks": [8, 77, 546, 563]
+  },
+  "quotes": [
+    {
+      "text": "My mother was killed by the hatred of Fish-Man Island itself. Please, Luffy... reset our history to zero!",
+      "speaker": "Fukaboshi",
+      "context": "Fukaboshi's emotional plea to Luffy",
+      "timestamp": "12:00"
+    },
+    {
+      "text": "Leave it to me! You're all my friends!",
+      "speaker": "Luffy",
+      "context": "Accepting Fukaboshi's request",
+      "timestamp": "14:00"
+    },
+    {
+      "text": "From the moment we entered the plaza, we decided we would not let anyone touch this island. Leave everything to us. We are friends after all!",
+      "speaker": "Monkey D. Luffy",
+      "context": "Luffy's declaration to all of Fish-Man Island",
+      "timestamp": "21:00"
+    },
+    {
+      "text": "You can't even kill my boredom.",
+      "speaker": "Roronoa Zoro",
+      "context": "Zoro mocking Hyouzou during their fight",
+      "timestamp": "19:30"
+    },
+    {
+      "text": "The shameless have been judged. It is the natural order for those who yield to humans to die.",
+      "speaker": "Hody Jones and Officers",
+      "context": "Celebrating Otohime's assassination in flashback",
+      "timestamp": "09:00"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Inherited Hatred and Environmental Racism",
+      "description": "The episode explores how hatred can be passed down through generations without personal experience. Hody represents systemic racism - he hates humans not because of what they did to him personally, but because of the prejudice he absorbed from his environment.",
+      "symbolism": "Young Hody listening to propaganda represents how children inherit the prejudices of previous generations, perpetuating cycles of hatred.",
+      "culturalReferences": ["Explores themes relevant to real-world racism and how prejudice is learned rather than innate"]
+    },
+    {
+      "theme": "Breaking Cycles of Violence",
+      "description": "Fukaboshi's plea to 'reset to zero' represents the desire to break free from the endless cycle of hatred and revenge between humans and fish-men.",
+      "symbolism": "Resetting to zero symbolizes wiping the slate clean and starting fresh, free from the burdens of past grievances.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Friendship and Alliance",
+      "description": "Luffy's acceptance of Fukaboshi's request and his declaration of friendship shows how genuine bonds can overcome historical divisions.",
+      "symbolism": "Luffy declaring Fish-Man Island as friends represents bridging the gap between species that have been divided for centuries.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Dramatic", "Emotional", "Intense", "Dark"],
+  "characterSpotlights": [
+    {
+      "characterId": "fukaboshi",
+      "role": "Emotional anchor of the episode",
+      "development": "Fukaboshi reveals his deep pain over his mother's death and his understanding that hatred itself, not just humans, is the true enemy. He shows vulnerability and wisdom in asking Luffy to help break the cycle.",
+      "keyActions": [
+        "Reveals Hody's backstory through narration",
+        "Laments that his mother was killed by Fish-Man Island's hatred",
+        "Makes tearful plea to Luffy to reset history to zero"
+      ],
+      "quotes": ["My mother was killed by the hatred of Fish-Man Island itself. Please, Luffy... reset our history to zero!"]
+    },
+    {
+      "characterId": "hody-jones",
+      "role": "Antagonist whose past is revealed",
+      "development": "The flashbacks reveal that Hody's hatred is not based on personal trauma but on absorbed prejudice from his environment, making him a unique villain representing systemic hatred.",
+      "keyActions": [
+        "Shown as a child absorbing anti-human propaganda",
+        "Revealed to have joined Neptune Army to gain knowledge",
+        "Celebrated Otohime's death",
+        "Stole and produced Energy Steroids",
+        "Continues chasing Shirahoshi while transformed"
+      ],
+      "quotes": ["The shameless have been judged. It is the natural order for those who yield to humans to die."]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Hero who accepts the burden",
+      "development": "Luffy accepts the responsibility of helping Fish-Man Island break free from its cycle of hatred, showing his growth as not just a fighter but as someone who can heal communities.",
+      "keyActions": [
+        "Accepts Fukaboshi's request to reset history",
+        "Declares Fish-Man Island as friends",
+        "Announces to entire island that Straw Hats will protect them",
+        "Continues pursuit of Hody"
+      ],
+      "quotes": ["Leave it to me! You're all my friends!", "From the moment we entered the plaza, we decided we would not let anyone touch this island. Leave everything to us. We are friends after all!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime placed the flashback scene of Hody and his companions discussing political circumstances indoors drinking sake, while the manga showed them outdoors.",
+      "episodeTimestamp": "07:30",
+      "mangaReference": "Chapter 644",
+      "type": "VISUAL_CHANGE"
+    },
+    {
+      "difference": "The anime extended some of the battle scenes between the Straw Hats and New Fish-Man Pirates officers for pacing.",
+      "episodeTimestamp": "16:00",
+      "mangaReference": "Chapter 642",
+      "type": "ANIME_PADDING"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode covers portions of manga chapters 642 and 644, skipping chapter 643 which was adapted in episode 563.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_564",
+          "title": "Episode 564 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-25"
+        }
+      ]
+    },
+    {
+      "fact": "The episode's Japanese title 'Zero ni! Rufi e no Atsuki Negai!' directly translates to 'To Zero! A Passionate Wish to Luffy!' emphasizing Fukaboshi's plea.",
+      "category": "TRANSLATION",
+      "sources": []
+    },
+    {
+      "fact": "The revelation that Hody had 'nothing' done to him by humans was considered controversial by some fans who expected a more traditional tragic backstory, but others praised it as a realistic portrayal of inherited prejudice.",
+      "category": "FAN_RECEPTION",
+      "sources": [
+        {
+          "url": "https://neverwatchedonepiece.tumblr.com/post/180187760214/563-564-a-shocking-fact-the-true-identity-of",
+          "title": "Never Watched One Piece - Episodes 563-564 Discussion",
+          "platform": "Tumblr",
+          "accessedAt": "2025-12-25"
+        }
+      ]
+    },
+    {
+      "fact": "The Fish-Man Island Arc was later remastered as 'One Piece Log: Fish-Man Island Saga' starting in 2024, with improved animation and pacing.",
+      "category": "PRODUCTION",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

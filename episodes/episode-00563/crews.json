@@ -1,0 +1,134 @@
+[
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "luffy",
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [563],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 563,
+        "eventId": "ep563-event-003",
+        "momentType": "BATTLE_END",
+        "title": "Robin Defeats Hammond",
+        "description": "Nico Robin defeats Hammond using Doble Clutch, freeing enslaved humans and shifting battle momentum.",
+        "significance": "Demonstrates the crew's combat effectiveness in the Fish-Man Island battle.",
+        "timestamp": "12:45"
+      },
+      {
+        "episodeNumber": 563,
+        "eventId": "ep563-event-004",
+        "momentType": "MAJOR_DECISION",
+        "title": "Officially Backed by Neptune Army",
+        "description": "The Neptune Army officially decides to support the Straw Hats in battle at Gyoncorde Plaza.",
+        "significance": "Government forces officially ally with the Straw Hats, recognizing them as allies rather than threats.",
+        "timestamp": "14:20"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull wearing a straw hat with crossed bones behind it",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": ["ryugu-kingdom"],
+      "enemies": ["new-fish-man-pirates"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "New Fish-Man Pirates",
+      "japanese": "新魚人海賊団",
+      "romanized": "Shin Gyojin Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "hody-jones",
+    "debutEpisode": 529,
+    "debutChapter": 611,
+    "episodeAppearances": [563],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 563,
+        "eventId": "ep563-event-001",
+        "momentType": "BACKSTORY_REVEAL",
+        "title": "Crew's True Nature Exposed",
+        "description": "Fukaboshi broadcasts that Hody and the New Fish-Man Pirates are empty beings perpetuating baseless hatred, with Hody admitting 'Nothing' was done to him by humans.",
+        "significance": "The ideological foundation of the crew is exposed as hollow and based on inherited prejudice rather than genuine grievances.",
+        "timestamp": "04:30"
+      },
+      {
+        "episodeNumber": 563,
+        "eventId": "ep563-event-003",
+        "momentType": "BATTLE_END",
+        "title": "Hammond Defeated, Slaves Freed",
+        "description": "Hammond is defeated by Robin and his slave tank is destroyed, freeing enslaved humans who then fight against the crew.",
+        "significance": "Major loss for the crew as their captives become enemies.",
+        "timestamp": "12:45"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "",
+    "relationships": {
+      "allies": [],
+      "enemies": ["straw-hat-pirates", "ryugu-kingdom"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Ryugu Kingdom",
+      "japanese": "リュウグウ王国",
+      "romanized": "Ryūgū Ōkoku"
+    },
+    "crewType": "GOVERNMENT",
+    "captainId": "neptune",
+    "debutEpisode": 529,
+    "debutChapter": 612,
+    "episodeAppearances": [563],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 563,
+        "eventId": "ep563-event-004",
+        "momentType": "MAJOR_DECISION",
+        "title": "Neptune Army Officially Joins the Straw Hats",
+        "description": "The Minister of the Right and Neptune Army arrive at Gyoncorde Plaza and officially decide to back up the Straw Hat Pirates, acknowledging their previous errors in judgment.",
+        "significance": "Represents a major shift in the kingdom's relationship with the Straw Hats from suspicion to alliance.",
+        "timestamp": "14:20"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "",
+    "relationships": {
+      "allies": ["straw-hat-pirates"],
+      "enemies": ["new-fish-man-pirates"],
+      "parentOrganization": null
+    }
+  }
+]

@@ -1,0 +1,160 @@
+[
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "luffy",
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [560],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 560,
+        "eventId": "ep560-event-003",
+        "momentType": "BATTLE_START",
+        "title": "Luffy Protects Shirahoshi Underwater",
+        "description": "Luffy demonstrates the crew's post-timeskip strength by fighting effectively underwater to protect Shirahoshi from Hody Jones.",
+        "significance": "Shows the results of the two-year training period and the crew's readiness for the New World.",
+        "timestamp": "07:15"
+      },
+      {
+        "episodeNumber": 560,
+        "eventId": "ep560-event-013",
+        "momentType": "BATTLE_START",
+        "title": "Zoro Takes On Hyouzou",
+        "description": "Zoro volunteers to fight the transformed Hyouzou, calling it 'warmup for the New World,' showing the crew's confidence.",
+        "significance": "Demonstrates the crew's confidence in their abilities after training.",
+        "timestamp": "21:00"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull wearing a straw hat with crossed bones behind it",
+      "episodeFirstSeen": 45,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": ["neptune-family", "ryugu-kingdom"],
+      "enemies": ["new-fish-man-pirates"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "New Fish-Man Pirates",
+      "japanese": "新魚人海賊団",
+      "romanized": "Shin Gyojin Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "hody-jones",
+    "debutEpisode": 529,
+    "debutChapter": 611,
+    "episodeAppearances": [560],
+    "members": [
+      {
+        "characterId": "nuru",
+        "role": "Member",
+        "episodeJoined": null,
+        "episodeLeft": 560,
+        "joinCircumstances": "Member who sought to become an officer but was killed by Hyouzou during his rampage."
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 560,
+        "eventId": "ep560-event-001",
+        "momentType": "BATTLE_END",
+        "title": "Hody Defeats Vander Decken",
+        "description": "Hody Jones eliminates his former ally Vander Decken IX, establishing himself as the sole leader of the invasion force.",
+        "significance": "Consolidates Hody's power and removes the unstable alliance.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 560,
+        "eventId": "ep560-event-004",
+        "momentType": "POWER_REVEAL",
+        "title": "Energy Steroid Distribution",
+        "description": "Zeo gives Wadatsumi an Energy Steroid to manipulate him into fighting, showing the crew's reliance on the dangerous pills.",
+        "significance": "Demonstrates the manipulative tactics and dangerous reliance on Energy Steroids.",
+        "timestamp": "10:30"
+      },
+      {
+        "episodeNumber": 560,
+        "eventId": "ep560-event-010",
+        "momentType": "POWER_REVEAL",
+        "title": "Hyouzou's Transformation",
+        "description": "Hyouzou overdoses on Energy Steroids, transforming and losing control, attacking allies and enemies indiscriminately.",
+        "significance": "Shows the severe side effects and loss of control from Energy Steroid abuse.",
+        "timestamp": "18:30"
+      },
+      {
+        "episodeNumber": 560,
+        "eventId": "ep560-event-011",
+        "momentType": "DEATH",
+        "title": "Internal Casualties",
+        "description": "Hyouzou kills crew member Nuru during his rampage, showing the crew's self-destructive nature.",
+        "significance": "Demonstrates that the Energy Steroids cause more harm than good to the crew.",
+        "timestamp": "19:20"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull with sharp teeth and a crown-like head ornament",
+      "episodeFirstSeen": 529,
+      "imageUrl": ""
+    },
+    "mainColor": "#000000",
+    "relationships": {
+      "allies": [],
+      "enemies": ["straw-hat-pirates", "ryugu-kingdom", "neptune-family"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Flying Pirates",
+      "japanese": "フライング海賊団",
+      "romanized": "Furaingu Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "vander-decken-ix",
+    "debutEpisode": 535,
+    "debutChapter": 610,
+    "episodeAppearances": [560],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 560,
+        "eventId": "ep560-event-001",
+        "momentType": "BATTLE_END",
+        "title": "Captain's Defeat",
+        "description": "Captain Vander Decken IX is decisively defeated by Hody Jones, effectively ending the Flying Pirates' involvement in the conflict.",
+        "significance": "Marks the end of the Flying Pirates as a threat in this arc.",
+        "timestamp": "03:45"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "Unknown",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFFFFF",
+    "relationships": {
+      "allies": [],
+      "enemies": ["neptune-family"],
+      "parentOrganization": null
+    }
+  }
+]
