@@ -1,0 +1,119 @@
+[
+  {
+    "name": {
+      "english": "G-5 Marines",
+      "japanese": "G-5海兵",
+      "romanized": "Jī Faibu Kaigun"
+    },
+    "crewType": "MARINE_UNIT",
+    "captainId": "smoker",
+    "debutEpisode": 572,
+    "debutChapter": 652,
+    "episodeAppearances": [572],
+    "members": [
+      {
+        "characterId": "smoker",
+        "role": "Vice Admiral / Commander",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Smoker transferred to G-5 after the timeskip, requesting this posting to be closer to his targets in the New World."
+      },
+      {
+        "characterId": "tashigi",
+        "role": "Captain",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Tashigi was promoted to Captain and transferred to G-5 with Smoker."
+      },
+      {
+        "characterId": "pike",
+        "role": "Marine",
+        "episodeJoined": 572,
+        "episodeLeft": null,
+        "joinCircumstances": "Member of the G-5 unit serving under Smoker."
+      },
+      {
+        "characterId": "bomba",
+        "role": "Marine",
+        "episodeJoined": 572,
+        "episodeLeft": null,
+        "joinCircumstances": "Member of the G-5 unit serving under Smoker."
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 572,
+        "eventId": "ep572-event-009",
+        "momentType": "LOCATION_ARRIVAL",
+        "title": "G-5 Marines Patrol New World Entrance",
+        "description": "Vice Admiral Smoker and the G-5 Marines intercept pirates fleeing from Fish-Man Island and entering the New World.",
+        "significance": "Establishes the G-5 as the first line of defense in the New World and sets up their role in upcoming arcs.",
+        "timestamp": "21:30"
+      }
+    ],
+    "ships": [],
+    "bases": [
+      {
+        "baseName": "G-5 Marine Base",
+        "locationId": "g-5-base",
+        "episodeEstablished": 572,
+        "description": "A Marine base located in the New World near the Red Line, known for having problematic marines according to Aokiji."
+      }
+    ],
+    "totalBountyProgression": [],
+    "jollyRoger": null,
+    "mainColor": "#FFFFFF",
+    "relationships": {
+      "allies": [],
+      "enemies": ["straw-hat-pirates"],
+      "parentOrganization": "marines"
+    }
+  },
+  {
+    "name": {
+      "english": "Big Mom Pirates",
+      "japanese": "ビッグ・マム海賊団",
+      "romanized": "Biggu Mamu Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "big-mom",
+    "debutEpisode": 571,
+    "debutChapter": 651,
+    "episodeAppearances": [572],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 572,
+        "eventId": "ep572-event-003",
+        "momentType": "BATTLE_START",
+        "title": "Pekoms Confronts Caribou",
+        "description": "Big Mom Pirates member Pekoms demonstrates the crew's power by easily defeating Caribou who tried to reclaim his treasure.",
+        "significance": "Showcases the strength of Big Mom's crew members and establishes them as New World-level threats.",
+        "timestamp": "08:45"
+      },
+      {
+        "episodeNumber": 572,
+        "eventId": "ep572-event-002",
+        "momentType": "WORLD_LORE",
+        "title": "Big Mom Pirates Receive Tamate Box",
+        "description": "Pekoms and Baron Tamago successfully collect the Tamate Box treasure from Fish-Man Island for Big Mom, unknowingly receiving a booby-trapped box.",
+        "significance": "Sets up a major plot point that will have consequences in the Whole Cake Island arc.",
+        "timestamp": "05:30"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull wearing a pirate hat with a wide smile and flames on either side",
+      "episodeFirstSeen": 571,
+      "imageUrl": ""
+    },
+    "mainColor": "#FF69B4",
+    "relationships": {
+      "allies": [],
+      "enemies": ["straw-hat-pirates"],
+      "parentOrganization": null
+    }
+  }
+]

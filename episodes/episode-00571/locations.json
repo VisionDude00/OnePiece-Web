@@ -1,0 +1,114 @@
+[
+  {
+    "name": {
+      "english": "Whole Cake Island",
+      "japanese": "ホールケーキアイランド",
+      "romanized": "Hōru Kēki Airando"
+    },
+    "debutEpisode": 571,
+    "debutChapter": 651,
+    "episodeAppearances": [571],
+    "locationType": "Island",
+    "region": "New World",
+    "controlledBy": "big-mom-pirates",
+    "keyEvents": [
+      {
+        "episodeNumber": 571,
+        "eventId": "ep571-event-001",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Whole Cake Island First Appearance",
+        "description": "Whole Cake Island is shown for the first time as Big Mom's base of operations. The island appears to be themed around sweets and desserts.",
+        "significance": "First introduction of the main setting for the future Whole Cake Island arc, one of the most important locations in the New World.",
+        "timestamp": "03:00"
+      },
+      {
+        "episodeNumber": 571,
+        "eventId": "ep571-event-001",
+        "momentType": "WORLD_LORE",
+        "title": "Big Mom's Headquarters",
+        "description": "Established as the headquarters of the Big Mom Pirates and territory of one of the Four Emperors.",
+        "significance": "Reveals the base of operations for one of the most powerful forces in the One Piece world.",
+        "timestamp": "03:00"
+      }
+    ],
+    "inhabitants": ["big-mom", "charlotte-pudding", "bobbin"],
+    "description": "A candy-themed island in the New World that serves as Big Mom's main base of operations. The island and its surroundings are part of Totto Land, Big Mom's territory.",
+    "status": "ACTIVE",
+    "reveals": [
+      {
+        "infoType": "LOCATION_PURPOSE",
+        "information": "Serves as the headquarters of the Big Mom Pirates",
+        "episodeRevealed": 571,
+        "severity": "MAJOR"
+      },
+      {
+        "infoType": "LOCATION_THEME",
+        "information": "The island has a sweets and candy theme, reflecting Big Mom's obsession",
+        "episodeRevealed": 571,
+        "severity": "MINOR"
+      }
+    ]
+  },
+  {
+    "name": {
+      "english": "Candy Factory (Fish-Man Island)",
+      "japanese": "キャンディ工場",
+      "romanized": "Kyandi Kōjō"
+    },
+    "debutEpisode": 568,
+    "debutChapter": 648,
+    "episodeAppearances": [571],
+    "locationType": "Building",
+    "region": "Fish-Man Island",
+    "controlledBy": "fish-man-island",
+    "keyEvents": [
+      {
+        "episodeNumber": 571,
+        "eventId": "ep571-event-006",
+        "momentType": "LOCATION_ARRIVAL",
+        "title": "Pekoms and Tamago at Candy Factory",
+        "description": "Pekoms and Tamago arrive at the candy factory to collect Big Mom's monthly tribute, only to learn it was destroyed by Hody.",
+        "significance": "The candy factory becomes the setting for the confrontation that leads to Luffy's war declaration against Big Mom.",
+        "timestamp": "10:00"
+      },
+      {
+        "episodeNumber": 571,
+        "eventId": "ep571-event-013",
+        "momentType": "MAJOR_DECISION",
+        "title": "Site of Luffy's War Declaration",
+        "description": "The candy factory serves as the location where Luffy declares war on Big Mom and claims Fish-Man Island as his territory.",
+        "significance": "Becomes a historically significant location where a major challenge to a Yonko was issued.",
+        "timestamp": "20:30"
+      }
+    ],
+    "inhabitants": ["minister-of-the-left"],
+    "description": "A candy production facility on Fish-Man Island that was responsible for producing 10 tons of candy monthly as tribute to Big Mom. The factory was destroyed during Hody Jones' attack on the island.",
+    "status": "DESTROYED",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 568,
+        "episodeEnd": 568
+      },
+      {
+        "status": "DESTROYED",
+        "episodeStart": 568,
+        "episodeEnd": "present"
+      }
+    ],
+    "reveals": [
+      {
+        "infoType": "LOCATION_PURPOSE",
+        "information": "Produced 10 tons of candy monthly as tribute to Big Mom for protection of Fish-Man Island",
+        "episodeRevealed": 571,
+        "severity": "MAJOR"
+      },
+      {
+        "infoType": "LOCATION_STATUS",
+        "information": "Destroyed by Hody Jones during his attack, unable to fulfill tribute obligations",
+        "episodeRevealed": 571,
+        "severity": "MAJOR"
+      }
+    ]
+  }
+]
