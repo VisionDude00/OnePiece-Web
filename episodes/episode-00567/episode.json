@@ -1,0 +1,470 @@
+{
+  "episodeNumber": 567,
+  "episodeTitle": "Stop, Noah! Desperate Elephant Gatling!",
+  "description": "After defeating the New Fish-Man Pirates, Luffy unleashes a barrage of Elephant Gatling attacks on Noah to prevent it from destroying Fish-Man Island. As he fights to save the island, citizens recall Whitebeard's past protection. Shirahoshi intervenes when Sea Kings mysteriously arrive to halt Noah's descent, and Luffy collapses from exhaustion.",
+  "airDate": "2012-10-07",
+  "airDateJapan": "2012-10-07",
+  "airDateUS": "2018-05-15",
+  "arcName": "Fish-Man Island Arc",
+  "sagaName": "Fish-Man Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Go!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [517, 590]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Naoki Murakami",
+    "episodeDirector": "Takahiro Imamura",
+    "screenwriter": "Jin Tanaka",
+    "artDirector": "Miho Shiraishi",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Shirahoshi",
+        "actor": "Megumi Hayashibara"
+      },
+      {
+        "character": "Neptune",
+        "actor": "Minoru Inaba"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Katsuhisa Houki"
+      },
+      {
+        "character": "Edward Newgate (Whitebeard)",
+        "actor": "Kinryu Arimoto"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Shirahoshi",
+        "actor": "Bryn Apprill"
+      },
+      {
+        "character": "Neptune",
+        "actor": "Keith Silverstein"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Daniel Baugh"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep567-event-001",
+      "episodeNumber": 567,
+      "timestamp": "02:30",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "New Fish-Man Pirates Defeated",
+      "description": "All members of the New Fish-Man Pirates lie defeated after their battles with the Straw Hat Pirates. Hody Jones, Dosun, Daruma, Zeo, Ikaros Much, Hyouzou, and Wadatsumi are all shown unconscious and beaten.",
+      "significance": "Marks the end of the major conflict with the New Fish-Man Pirates, allowing the focus to shift to saving Fish-Man Island from Noah's descent.",
+      "characterIds": ["hody-jones", "dosun", "daruma", "zeo", "ikaros-much", "hyouzou", "wadatsumi"],
+      "locationIds": ["fish-man-island"],
+      "crewIds": ["new-fish-man-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [560, 561, 562, 563, 564, 565, 566],
+      "payoffInEpisodes": [568],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep567-event-002",
+      "episodeNumber": 567,
+      "timestamp": "04:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Citizens Cheer for Luffy",
+      "description": "The citizens of Fish-Man Island stand their ground and cheer for Luffy to destroy Noah and save them, putting their complete trust in the pirate who defeated their oppressors.",
+      "significance": "Demonstrates the shift in Fish-Man Island citizens' trust from fear to hope, and their acceptance of Luffy as their savior despite him being a human pirate.",
+      "characterIds": ["luffy"],
+      "locationIds": ["fish-man-island"],
+      "quotes": [
+        {
+          "text": "Save us, Straw Hat!",
+          "speaker": "Citizens",
+          "context": "The people of Fish-Man Island put their faith in Luffy to stop Noah"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [560, 565, 566],
+      "payoffInEpisodes": [568],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep567-event-003",
+      "episodeNumber": 567,
+      "timestamp": "06:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Elephant Gatling Barrage",
+      "description": "Luffy uses Gear Third and unleashes a relentless barrage of Elephant Gatling attacks on Noah, striking the massive ship repeatedly with giant fists in an attempt to completely destroy it before it crashes into Fish-Man Island.",
+      "significance": "Showcases Luffy's determination and power post-timeskip, demonstrating his ability to maintain Gear Third for extended periods without the shrinking side effect.",
+      "characterIds": ["luffy"],
+      "locationIds": ["fish-man-island"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [
+        {
+          "text": "Gomu Gomu no... Elephant Gatling!",
+          "speaker": "Luffy",
+          "context": "Luffy's desperate attempt to destroy Noah"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [565, 566],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [421]
+    },
+    {
+      "id": "ep567-event-004",
+      "episodeNumber": 567,
+      "timestamp": "09:20",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Neptune's Apology to Joy Boy",
+      "description": "King Neptune apologizes to the memory of Joy Boy, lamenting that they must break the ancient 800-year-old promise to keep Noah safe. He acknowledges that lives must come first, even if it means destroying the Ship of Promise.",
+      "significance": "Reveals the historical significance of Noah and its connection to Joy Boy's ancient promise with Fish-Man Island, a major piece of world lore tied to the Void Century.",
+      "characterIds": ["neptune"],
+      "locationIds": ["fish-man-island"],
+      "quotes": [
+        {
+          "text": "Forgive us, Joy Boy... We have no choice but to destroy Noah.",
+          "speaker": "Neptune",
+          "context": "Neptune's apology for breaking the ancient promise"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [546, 548],
+      "payoffInEpisodes": [568],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep567-event-005",
+      "episodeNumber": 567,
+      "timestamp": "11:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Whitebeard's Protection Flashback",
+      "description": "A Fish-Man Island citizen recalls how Luffy's actions remind them of when Whitebeard befriended King Neptune and declared the island his territory. The episode shows a flashback of Whitebeard arriving at Fish-Man Island and claiming it under his protection, ending the attacks and discrimination the island faced.",
+      "significance": "Establishes a parallel between Luffy and Whitebeard as protectors of Fish-Man Island, and reveals the historical context of how Whitebeard's protection kept the island safe for decades.",
+      "characterIds": ["edward-newgate", "neptune", "marco", "luffy"],
+      "locationIds": ["fish-man-island"],
+      "crewIds": ["whitebeard-pirates"],
+      "quotes": [
+        {
+          "text": "This island is now under my protection!",
+          "speaker": "Whitebeard",
+          "context": "Whitebeard declares Fish-Man Island as his territory in the flashback"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [461, 462, 465],
+      "payoffInEpisodes": [568, 574],
+      "callbacksToEpisodes": [151, 483]
+    },
+    {
+      "id": "ep567-event-006",
+      "episodeNumber": 567,
+      "timestamp": "16:25",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Shirahoshi Stops Luffy",
+      "description": "Princess Shirahoshi jumps in front of Luffy and begs him to stop attacking Noah. Despite his determination to destroy the ship, Luffy listens to Shirahoshi's plea and halts his assault.",
+      "significance": "Shows Luffy's respect for Shirahoshi's wishes and sets up the reveal of the Sea Kings' intervention, demonstrating the bond between Luffy and Shirahoshi.",
+      "characterIds": ["shirahoshi", "luffy"],
+      "locationIds": ["fish-man-island"],
+      "quotes": [
+        {
+          "text": "Please stop, Luffy! You don't have to destroy it anymore!",
+          "speaker": "Shirahoshi",
+          "context": "Shirahoshi pleading with Luffy to stop attacking Noah"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [568],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep567-event-007",
+      "episodeNumber": 567,
+      "timestamp": "17:45",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Sea Kings Halt Noah",
+      "description": "Six massive Sea Kings appear and grab Noah's chains, bringing the enormous ship to a complete halt. The Sea Kings - Mottled, Birdy, Googly-Eyed, Topknot, Underbite, and Scales - save Fish-Man Island from destruction.",
+      "significance": "First demonstration of Shirahoshi's awakened power to summon and communicate with Sea Kings, revealing her as the Ancient Weapon Poseidon (though not explicitly stated in this episode).",
+      "characterIds": ["shirahoshi", "luffy"],
+      "locationIds": ["fish-man-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [554, 555],
+      "payoffInEpisodes": [568],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep567-event-008",
+      "episodeNumber": 567,
+      "timestamp": "19:10",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Sea Kings Speak to Shirahoshi",
+      "description": "The Sea Kings communicate telepathically with Shirahoshi, explaining that they were guided by her strong feelings to help Luffy. Shirahoshi is surprised, stating she didn't consciously call them, revealing her unconscious connection to these ancient creatures.",
+      "significance": "Confirms Shirahoshi's unique ability to communicate with Sea Kings through the Voice of All Things, a key element identifying her as the Ancient Weapon Poseidon.",
+      "characterIds": ["shirahoshi"],
+      "quotes": [
+        {
+          "text": "We were guided here by your strong feelings to help him.",
+          "speaker": "Sea Kings",
+          "context": "The Sea Kings explain to Shirahoshi how they came to stop Noah"
+        },
+        {
+          "text": "But... I didn't do anything to call you here...",
+          "speaker": "Shirahoshi",
+          "context": "Shirahoshi's confusion about summoning the Sea Kings"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [529],
+      "payoffInEpisodes": [568],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep567-event-009",
+      "episodeNumber": 567,
+      "timestamp": "21:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Luffy's Wounds Reopen",
+      "description": "The intense battle and use of Gear Third causes Luffy's wounds from fighting Hody Jones to reopen. Blood seeps from his injuries, but Luffy remains determined, stating it's okay as long as the ship stopped and everyone is safe.",
+      "significance": "Shows the physical toll of Luffy's heroic actions and his willingness to sacrifice his own well-being for others.",
+      "characterIds": ["luffy"],
+      "quotes": [
+        {
+          "text": "It's okay... as long as the ship stopped and everyone is safe.",
+          "speaker": "Luffy",
+          "context": "Luffy dismissing his injuries after saving Fish-Man Island"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [565, 566],
+      "payoffInEpisodes": [568],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep567-event-010",
+      "episodeNumber": 567,
+      "timestamp": "22:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Luffy Faints from Exhaustion",
+      "description": "Having expended all his energy destroying Noah and with his wounds reopened, Luffy finally loses consciousness and falls back down toward Noah. The hero who saved Fish-Man Island collapses after ensuring everyone's safety.",
+      "significance": "Marks the climactic end of Luffy's battle to save Fish-Man Island, showing both his heroism and human limitations.",
+      "characterIds": ["luffy"],
+      "locationIds": ["fish-man-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [568],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["scales"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [568, 569, 570],
+    "payoffFrom": [560, 565, 566],
+    "thematicLinks": [151, 483, 490]
+  },
+  "quotes": [
+    {
+      "text": "Gomu Gomu no... Elephant Gatling!",
+      "speaker": "Luffy",
+      "context": "Luffy's desperate assault on Noah",
+      "timestamp": "06:45"
+    },
+    {
+      "text": "Forgive us, Joy Boy... We have no choice but to destroy Noah.",
+      "speaker": "Neptune",
+      "context": "Neptune apologizing for breaking the ancient promise",
+      "timestamp": "09:20"
+    },
+    {
+      "text": "This island is now under my protection!",
+      "speaker": "Whitebeard",
+      "context": "Flashback of Whitebeard claiming Fish-Man Island",
+      "timestamp": "11:30"
+    },
+    {
+      "text": "Please stop, Luffy! You don't have to destroy it anymore!",
+      "speaker": "Shirahoshi",
+      "context": "Shirahoshi intervening to stop Luffy",
+      "timestamp": "16:25"
+    },
+    {
+      "text": "We were guided here by your strong feelings to help him.",
+      "speaker": "Sea Kings",
+      "context": "Sea Kings explaining their arrival to Shirahoshi",
+      "timestamp": "19:10"
+    },
+    {
+      "text": "It's okay... as long as the ship stopped and everyone is safe.",
+      "speaker": "Luffy",
+      "context": "Luffy's final words before fainting",
+      "timestamp": "21:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Sacrifice and Heroism",
+      "description": "Luffy pushes his body beyond its limits to save Fish-Man Island, reopening his wounds and ultimately collapsing from exhaustion after ensuring everyone's safety.",
+      "symbolism": "Luffy's willingness to destroy himself to save others mirrors the themes of heroic sacrifice that run throughout One Piece.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Breaking Cycles of Hatred",
+      "description": "The citizens of Fish-Man Island, who have suffered discrimination from humans, now place their complete trust in Luffy, a human pirate, to save them. This parallels Whitebeard's historical protection of the island.",
+      "symbolism": "The parallel between Luffy and Whitebeard symbolizes the passing of the torch from one generation of protectors to the next, and the potential for humans and fish-men to coexist peacefully.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Ancient Promises and Destiny",
+      "description": "Neptune's apology to Joy Boy and the reveal of Noah's significance emphasize the weight of ancient promises and the connection between past and present in the One Piece world.",
+      "symbolism": "Noah represents the unfulfilled promise of the past, while Shirahoshi's awakening power suggests the possibility of fulfilling that promise in the future.",
+      "culturalReferences": ["Biblical Noah's Ark"]
+    },
+    {
+      "theme": "Awakening Power and Destiny",
+      "description": "Shirahoshi unconsciously summons the Sea Kings through her strong emotions, revealing her latent power as the Ancient Weapon Poseidon without fully understanding it herself.",
+      "symbolism": "The Sea Kings responding to Shirahoshi's heart rather than her conscious will symbolizes the idea that true power comes from one's feelings and character.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Heroic", "Dramatic", "Intense", "Hopeful"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Hero saving Fish-Man Island",
+      "development": "Demonstrates post-timeskip power and unwavering determination to protect those he cares about, pushing himself to near-death to save the island.",
+      "keyActions": [
+        "Uses Elephant Gatling repeatedly on Noah",
+        "Continues fighting despite reopened wounds",
+        "Listens to Shirahoshi's plea to stop",
+        "Faints from exhaustion after confirming everyone's safety"
+      ],
+      "quotes": [
+        "Gomu Gomu no... Elephant Gatling!",
+        "It's okay... as long as the ship stopped and everyone is safe."
+      ]
+    },
+    {
+      "characterId": "shirahoshi",
+      "role": "Awakening Ancient Weapon",
+      "development": "Takes decisive action to stop Luffy and unknowingly demonstrates her power as Poseidon by summoning the Sea Kings through her emotions.",
+      "keyActions": [
+        "Jumps in front of Luffy to stop him",
+        "Unconsciously summons the Sea Kings",
+        "Communicates with the Sea Kings telepathically",
+        "Shows concern for both Luffy and Noah"
+      ],
+      "quotes": [
+        "Please stop, Luffy! You don't have to destroy it anymore!",
+        "But... I didn't do anything to call you here..."
+      ]
+    },
+    {
+      "characterId": "neptune",
+      "role": "Keeper of ancient history",
+      "development": "Reveals the emotional weight of breaking the promise to Joy Boy, showing his knowledge of Fish-Man Island's ancient history and responsibilities.",
+      "keyActions": [
+        "Apologizes to Joy Boy's memory",
+        "Makes the difficult decision to prioritize lives over the ancient promise"
+      ],
+      "quotes": [
+        "Forgive us, Joy Boy... We have no choice but to destroy Noah."
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended the Whitebeard flashback sequence with additional scenes of him interacting with Neptune and declaring the island under his protection. The manga showed this more briefly.",
+      "episodeTimestamp": "11:30",
+      "mangaReference": "Chapter 645",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "The anime added more dramatic shots of Luffy's Elephant Gatling attacks hitting Noah, extending the action sequence for several minutes. The manga depicted this more concisely.",
+      "episodeTimestamp": "06:45",
+      "mangaReference": "Chapter 647",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "Additional reaction shots from the Straw Hat Pirates watching Luffy were added in the anime that weren't in the manga.",
+      "episodeTimestamp": "04:15",
+      "mangaReference": "Chapter 647",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode adapts portions of manga chapters 645 (pages 5-8) and 647 (pages 2-19), showing how the anime sometimes spreads content across multiple chapters to maintain pacing.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_567",
+          "title": "Episode 567 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-26"
+        }
+      ]
+    },
+    {
+      "fact": "The Sea Kings that stop Noah - Mottled, Birdy, Googly-Eyed, Topknot, Underbite, and Scales - are among the same Sea Kings that will later discuss the 'promised day' in Episode 568.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_568",
+          "title": "Episode 568 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-26"
+        }
+      ]
+    },
+    {
+      "fact": "This episode demonstrates Luffy's improved control over Gear Third post-timeskip - he no longer shrinks after using it, unlike during the pre-timeskip era.",
+      "category": "POWER_SYSTEM",
+      "sources": []
+    },
+    {
+      "fact": "The character Scales makes their debut appearance in this episode as one of the Sea Kings who stops Noah.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Scales",
+          "title": "Scales - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-26"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

@@ -1,0 +1,155 @@
+[
+  {
+    "name": {
+      "english": "Ryugu Palace",
+      "japanese": "竜宮城",
+      "romanized": "Ryūgū-jō"
+    },
+    "locationType": "PALACE",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Fish-Man Island",
+    "debutEpisode": 527,
+    "debutChapter": 612,
+    "description": "The royal palace of the Ryugu Kingdom on Fish-Man Island, home to King Neptune and the royal family. A grand structure that hosts important state events and celebrations.",
+    "episodeAppearances": [569],
+    "keyEvents": [
+      {
+        "episodeNumber": 569,
+        "eventId": "ep569-event-004",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Grand Banquet at Ryugu Palace",
+        "description": "King Neptune hosts a grand celebration banquet to honor the Straw Hat Pirates for saving Fish-Man Island.",
+        "significance": "Shows the gratitude of the Ryugu Kingdom and provides the setting for crucial revelations about ancient history.",
+        "timestamp": "07:10"
+      },
+      {
+        "episodeNumber": 569,
+        "eventId": "ep569-event-006",
+        "eventType": "WORLD_LORE",
+        "title": "Robin and Neptune Discuss Joy Boy",
+        "description": "Robin privately questions Neptune about Joy Boy and the ancient history of Fish-Man Island.",
+        "significance": "The palace serves as the location where crucial information about the Void Century and ancient weapons is revealed.",
+        "timestamp": "12:45"
+      },
+      {
+        "episodeNumber": 569,
+        "eventId": "ep569-event-008",
+        "eventType": "WORLD_LORE",
+        "title": "Shirahoshi Revealed as Poseidon",
+        "description": "Robin deduces and Neptune confirms that Shirahoshi is the ancient weapon Poseidon.",
+        "significance": "One of the most important revelations in the series occurs at this location.",
+        "timestamp": "17:35"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 527,
+        "episodeEnd": "present",
+        "reason": "Royal palace remains the seat of power for the Ryugu Kingdom"
+      }
+    ],
+    "parentLocation": "fish-man-island",
+    "childLocations": [],
+    "relatedCharacters": ["neptune", "shirahoshi", "fukaboshi", "ryuboshi", "manboshi", "robin"],
+    "relatedCrews": ["ryugu-kingdom", "straw-hat-pirates"],
+    "relatedArcs": ["Fish-Man Island Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Fish-Man Island",
+      "japanese": "魚人島",
+      "romanized": "Gyojin-tō"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Fish-Man Island",
+    "debutEpisode": 523,
+    "debutChapter": 603,
+    "description": "An underwater island located 10,000 meters below sea level, serving as an underwater paradise and the gateway to the New World. Home to both Fish-Men and Merfolk, protected by a massive bubble.",
+    "episodeAppearances": [569],
+    "keyEvents": [
+      {
+        "episodeNumber": 569,
+        "eventId": "ep569-event-001",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Fish-Man Island Victory Celebration",
+        "description": "The entire island celebrates the defeat of Hody Jones and the New Fish-Man Pirates by the Straw Hat Pirates.",
+        "significance": "Marks the end of the immediate threat and establishes the Straw Hats as heroes among the Fish-Men and Merfolk.",
+        "timestamp": "02:30"
+      },
+      {
+        "episodeNumber": 569,
+        "eventId": "ep569-event-008",
+        "eventType": "WORLD_LORE",
+        "title": "Ancient Weapon Poseidon's Location Confirmed",
+        "description": "Robin confirms that the ancient weapon Poseidon mentioned in the Skypiea poneglyph is located on Fish-Man Island in the form of Shirahoshi.",
+        "significance": "Establishes Fish-Man Island as the home of one of the three ancient weapons.",
+        "timestamp": "17:35"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 523,
+        "episodeEnd": "present",
+        "reason": "Island remains inhabited and protected after the defeat of Hody Jones"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["ryugu-palace", "fish-man-district", "sea-forest", "gyoncorde-plaza"],
+    "relatedCharacters": ["neptune", "shirahoshi", "luffy", "jinbe"],
+    "relatedCrews": ["ryugu-kingdom", "straw-hat-pirates"],
+    "relatedArcs": ["Fish-Man Island Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Fish-Man District",
+      "japanese": "魚人街",
+      "romanized": "Gyojin-gai"
+    },
+    "locationType": "DISTRICT",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Fish-Man Island",
+    "debutEpisode": 541,
+    "debutChapter": 621,
+    "description": "A lawless slum district on Fish-Man Island where orphaned Fish-Men grew up in poverty and hatred. Former stronghold of the New Fish-Man Pirates and breeding ground for anti-human sentiment.",
+    "episodeAppearances": [569],
+    "keyEvents": [
+      {
+        "episodeNumber": 569,
+        "eventId": "ep569-event-002",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Fish-Man District Permanently Sealed",
+        "description": "Neptune's forces permanently seal off the Fish-Man District to prevent future conflicts and end the cycle of hatred that bred there.",
+        "significance": "Represents a symbolic end to the cycle of hatred and discrimination that led to the rise of Arlong and Hody Jones.",
+        "timestamp": "03:45"
+      }
+    ],
+    "status": "SEALED",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 541,
+        "episodeEnd": 568,
+        "reason": "Lawless district where the New Fish-Man Pirates operated"
+      },
+      {
+        "status": "SEALED",
+        "episodeStart": 569,
+        "episodeEnd": "present",
+        "reason": "Permanently sealed by Neptune after the defeat of the New Fish-Man Pirates"
+      }
+    ],
+    "parentLocation": "fish-man-island",
+    "childLocations": [],
+    "relatedCharacters": ["hody-jones", "arlong", "neptune"],
+    "relatedCrews": ["new-fish-man-pirates", "arlong-pirates"],
+    "relatedArcs": ["Fish-Man Island Arc"],
+    "images": []
+  }
+]

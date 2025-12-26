@@ -1,0 +1,156 @@
+[
+  {
+    "name": {
+      "english": "Gyoncorde Plaza",
+      "japanese": "ギョンコルド広場",
+      "romanized": "Gyonkorudo Hiroba"
+    },
+    "locationType": "PLAZA",
+    "seaRegion": "UNDERWATER",
+    "islandName": "Fish-Man Island",
+    "description": "The main plaza on Fish-Man Island where the climactic battles of the Fish-Man Island Arc take place. Multiple Straw Hat Pirates members fight against New Fish-Man Pirates officers here.",
+    "episodeAppearances": [566],
+    "keyEvents": [
+      {
+        "episodeNumber": 566,
+        "eventId": "ep566-event-001",
+        "eventType": "BATTLE_END",
+        "title": "Brook Defeats Zeo",
+        "description": "Brook uses ice-based abilities to defeat Zeo at Gyoncorde Plaza.",
+        "significance": "Part of the simultaneous victories by the Straw Hats over the New Fish-Man Pirates officers.",
+        "timestamp": "05:30"
+      },
+      {
+        "episodeNumber": 566,
+        "eventId": "ep566-event-002",
+        "eventType": "BATTLE_END",
+        "title": "Usopp Defeats Daruma",
+        "description": "Usopp uses Pop Green techniques to defeat Daruma at the plaza.",
+        "significance": "Showcases Usopp's botanical combat abilities.",
+        "timestamp": "06:45"
+      },
+      {
+        "episodeNumber": 566,
+        "eventId": "ep566-event-003",
+        "eventType": "POWER_REVEAL",
+        "title": "Chopper's Controlled Monster Point",
+        "description": "Chopper reveals his mastered Monster Point form at Gyoncorde Plaza.",
+        "significance": "Major power upgrade for Chopper.",
+        "timestamp": "08:00"
+      },
+      {
+        "episodeNumber": 566,
+        "eventId": "ep566-event-004",
+        "eventType": "BATTLE_END",
+        "title": "Chopper Defeats Dosun",
+        "description": "Chopper defeats Dosun using his controlled Monster Point.",
+        "significance": "Proves the effectiveness of Chopper's new form.",
+        "timestamp": "10:15"
+      },
+      {
+        "episodeNumber": 566,
+        "eventId": "ep566-event-005",
+        "eventType": "BATTLE_END",
+        "title": "Franky Defeats Ikaros Much",
+        "description": "Franky uses Franky Radical Beam to defeat Ikaros Much.",
+        "significance": "Shows Franky's laser technology upgrades.",
+        "timestamp": "11:30"
+      },
+      {
+        "episodeNumber": 566,
+        "eventId": "ep566-event-006",
+        "eventType": "BATTLE_END",
+        "title": "Jinbe and Sanji Defeat Wadatsumi",
+        "description": "Jinbe and Sanji team up to defeat the giant Wadatsumi.",
+        "significance": "Demonstrates coordination between Jinbe and the Straw Hats.",
+        "timestamp": "13:00"
+      },
+      {
+        "episodeNumber": 566,
+        "eventId": "ep566-event-007",
+        "eventType": "BATTLE_END",
+        "title": "Zoro Defeats Hyouzou",
+        "description": "Zoro easily defeats Fish-Man Island's best swordsman.",
+        "significance": "Shows Zoro's overwhelming superiority after training with Mihawk.",
+        "timestamp": "14:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 566,
+        "episodeEnd": "present",
+        "reason": "Main battlefield for the final confrontation"
+      }
+    ],
+    "parentLocation": "fish-man-island",
+    "childLocations": [],
+    "relatedCharacters": ["brook", "zeo", "usopp", "daruma", "chopper", "dosun", "franky", "ikaros-much", "jinbe", "sanji", "wadatsumi", "zoro", "hyouzou"],
+    "relatedCrews": ["straw-hat-pirates", "new-fish-man-pirates"],
+    "relatedArcs": ["Fish-Man Island Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Noah",
+      "japanese": "ノア",
+      "romanized": "Noa"
+    },
+    "locationType": "SHIP",
+    "seaRegion": "UNDERWATER",
+    "islandName": null,
+    "description": "An enormous ship created during the Void Century, also known as the 'Ship of Promise.' It is almost half the size of Fish-Man Island itself and was built as part of an agreement with Joy Boy to use Poseidon's powers to raise it to the surface.",
+    "episodeAppearances": [566],
+    "keyEvents": [
+      {
+        "episodeNumber": 566,
+        "eventId": "ep566-event-008",
+        "eventType": "POWER_REVEAL",
+        "title": "Hody Attacks Luffy on Noah",
+        "description": "Hody Jones, empowered by Energy Steroids, savagely bites Luffy repeatedly on the Noah.",
+        "significance": "Shows the intensity of the final battle on the ancient ship.",
+        "timestamp": "16:00"
+      },
+      {
+        "episodeNumber": 566,
+        "eventId": "ep566-event-010",
+        "eventType": "TECHNIQUE_DEBUT",
+        "title": "Luffy Defeats Hody with Elephant Gun",
+        "description": "Luffy sends Hody crashing into Noah with his Elephant Gun attack.",
+        "significance": "The decisive blow that defeats the main antagonist on the ancient ship.",
+        "timestamp": "18:30"
+      },
+      {
+        "episodeNumber": 566,
+        "eventId": "ep566-event-011",
+        "eventType": "TECHNIQUE_DEBUT",
+        "title": "Luffy Attacks Noah with Elephant Gatling",
+        "description": "Luffy attempts to destroy Noah with Elephant Gatling to prevent it from destroying Fish-Man Island.",
+        "significance": "Luffy damages the ancient ship to save the island, conflicting with the promise to Joy Boy.",
+        "timestamp": "19:45"
+      }
+    ],
+    "status": "DAMAGED",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 1,
+        "episodeEnd": 566,
+        "reason": "Ancient ship preserved for centuries"
+      },
+      {
+        "status": "DAMAGED",
+        "episodeStart": 566,
+        "episodeEnd": "present",
+        "reason": "Heavily damaged by Luffy's Elephant Gatling attack while trying to stop it from destroying Fish-Man Island"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "hody-jones"],
+    "relatedCrews": ["straw-hat-pirates", "new-fish-man-pirates"],
+    "relatedArcs": ["Fish-Man Island Arc"],
+    "images": []
+  }
+]

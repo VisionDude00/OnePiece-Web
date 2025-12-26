@@ -1,0 +1,550 @@
+{
+  "episodeNumber": 569,
+  "episodeTitle": "The Secret Revealed! The Truth about the Ancient Weapon!",
+  "description": "After defeating Hody Jones and the New Fish-Man Pirates, the Straw Hats celebrate with a banquet at Ryugu Palace. Robin discusses a critical discovery with King Neptune about the ancient weapon Poseidon and reveals that Shirahoshi is its current incarnation, while learning about Joy Boy's broken promise from the Void Century.",
+  "airDate": "2012-10-21",
+  "airDateJapan": "2012-10-21",
+  "airDateUS": "2012-10-20",
+  "arcName": "Fish-Man Island Arc",
+  "sagaName": "Fish-Man Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Go!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [517, 590]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Shigefumi Shingaki",
+    "episodeDirector": "Yoshihiro Ueda",
+    "screenwriter": "Tomohiro Nakayama",
+    "artDirector": "Miho Shiraishi",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Brook",
+        "actor": "Cho"
+      },
+      {
+        "character": "Shirahoshi",
+        "actor": "Yukana"
+      },
+      {
+        "character": "King Neptune",
+        "actor": "Minoru Inaba"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Daisuke Gori"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Brook",
+        "actor": "Ian Sinclair"
+      },
+      {
+        "character": "Shirahoshi",
+        "actor": "Bryn Apprill"
+      },
+      {
+        "character": "King Neptune",
+        "actor": "Keith Silverstein"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Daniel Baugh"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep569-event-001",
+      "episodeNumber": 569,
+      "timestamp": "02:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Fish-Man Island Victory Celebration",
+      "description": "Fish-Man Island citizens celebrate the defeat of Hody Jones and the New Fish-Man Pirates by the Straw Hat Pirates. The island rejoices in their newfound safety and freedom from the terror of the New Fish-Man Pirates.",
+      "significance": "Marks the end of the immediate threat to Fish-Man Island and establishes the Straw Hats as heroes among the Fish-Men and Merfolk, despite being humans.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky", "brook"],
+      "locationIds": ["fish-man-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [560, 561, 562, 563, 564, 565, 566, 567, 568],
+      "payoffInEpisodes": [570, 571, 572, 573],
+      "callbacksToEpisodes": [523, 524]
+    },
+    {
+      "id": "ep569-event-002",
+      "episodeNumber": 569,
+      "timestamp": "03:45",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Fish-Man District Permanently Sealed",
+      "description": "The Fish-Man District, former stronghold of the New Fish-Man Pirates and a breeding ground for hatred against humans, is permanently sealed off by Neptune's forces to prevent future conflicts.",
+      "significance": "Represents a symbolic end to the cycle of hatred and discrimination that led to the rise of Arlong and later Hody Jones.",
+      "characterIds": ["neptune"],
+      "locationIds": ["fish-man-district"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [541, 545],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [541]
+    },
+    {
+      "id": "ep569-event-003",
+      "episodeNumber": 569,
+      "timestamp": "05:20",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Jinbe Postpones Joining the Straw Hat Crew",
+      "description": "Luffy formally invites Jinbe to join the Straw Hat Pirates, but Jinbe reluctantly declines for now, citing unfinished personal business and obligations. He promises to join the crew in the future once his affairs are settled.",
+      "significance": "Establishes Jinbe's eventual recruitment while setting up future story arcs involving his current commitments, particularly his ties to Big Mom's crew.",
+      "characterIds": ["luffy", "jinbe"],
+      "locationIds": ["fish-man-island"],
+      "quotes": [
+        {
+          "text": "I have some things I must take care of first. But when the time comes, if you'll still have me, I'd be honored to join your crew.",
+          "speaker": "Jinbe",
+          "context": "Jinbe's response to Luffy's crew invitation"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [540, 548],
+      "payoffInEpisodes": [863, 976],
+      "callbacksToEpisodes": [540]
+    },
+    {
+      "id": "ep569-event-004",
+      "episodeNumber": 569,
+      "timestamp": "07:10",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Grand Banquet at Ryugu Palace",
+      "description": "King Neptune hosts a grand celebration banquet at Ryugu Palace to honor the Straw Hat Pirates for saving Fish-Man Island from Hody Jones and preventing the destruction of the island.",
+      "significance": "Shows the gratitude of the Ryugu Kingdom and provides a moment of peace and celebration before the Straw Hats continue their journey.",
+      "characterIds": ["neptune", "luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky", "brook", "shirahoshi", "fukaboshi", "ryuboshi", "manboshi"],
+      "locationIds": ["ryugu-palace"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [568],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep569-event-005",
+      "episodeNumber": 569,
+      "timestamp": "09:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Maria Napole's Performance",
+      "description": "Maria Napole, a famous ocean floor diva, performs at the banquet, entertaining the guests with her singing and dancing.",
+      "significance": "Adds cultural richness to Fish-Man Island and showcases the celebratory atmosphere of the banquet.",
+      "characterIds": ["maria-napole"],
+      "locationIds": ["ryugu-palace"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep569-event-006",
+      "episodeNumber": 569,
+      "timestamp": "12:45",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Robin Questions Neptune About Joy Boy",
+      "description": "As the banquet winds down, Robin privately asks King Neptune about Joy Boy and the poneglyph she discovered in the Sea Forest. Neptune explains that Joy Boy was a figure from the surface world during the Void Century who made a promise to the people of Fish-Man Island.",
+      "significance": "Introduces Joy Boy as a major historical figure and establishes his connection to the ancient weapons and the Void Century, setting up crucial world-building for the series.",
+      "characterIds": ["robin", "neptune"],
+      "locationIds": ["ryugu-palace"],
+      "quotes": [
+        {
+          "text": "Joy Boy was a man from the surface who lived during the Void Century. He made a promise to the people of Fish-Man Island, but for some reason, he was unable to keep it. The poneglyph in the Sea Forest is his letter of apology.",
+          "speaker": "Neptune",
+          "context": "Neptune explaining Joy Boy's history to Robin"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [546],
+      "payoffInEpisodes": [1043, 1044, 1045, 1046],
+      "callbacksToEpisodes": [546]
+    },
+    {
+      "id": "ep569-event-007",
+      "episodeNumber": 569,
+      "timestamp": "15:20",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Noah and the Broken Promise",
+      "description": "Neptune reveals that Joy Boy's promise involved the massive ship Noah. The royal family has protected Noah for centuries, waiting for someone to fulfill Joy Boy's promise. The ship's true purpose remains unknown, but it is connected to a promise made 800 years ago.",
+      "significance": "Establishes Noah as a crucial element in the world's ancient history and connects it to Joy Boy's unfulfilled promise, hinting at a future resolution.",
+      "characterIds": ["neptune", "robin"],
+      "locationIds": ["fish-man-island"],
+      "relatedItems": ["noah"],
+      "quotes": [
+        {
+          "text": "Our ancestors promised to watch over Noah until the appointed time. Only when that time comes will Noah's true purpose be revealed.",
+          "speaker": "Neptune",
+          "context": "Explaining the royal family's duty to protect Noah"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [546, 565],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [546, 565]
+    },
+    {
+      "id": "ep569-event-008",
+      "episodeNumber": 569,
+      "timestamp": "17:35",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Shirahoshi Revealed as Ancient Weapon Poseidon",
+      "description": "Robin deduces that Shirahoshi possesses the same ability as the Mermaid Princess from the Void Century - the power to command Sea Kings. She reveals that the ancient weapon Poseidon is not an object but a person with this ability, and that Shirahoshi is the current incarnation of Poseidon. Neptune confirms her theory.",
+      "significance": "One of the most crucial revelations in One Piece, identifying one of the three ancient weapons and establishing that Poseidon is inherited through certain individuals rather than being a physical weapon. This has massive implications for the world's balance of power.",
+      "characterIds": ["robin", "neptune", "shirahoshi"],
+      "locationIds": ["ryugu-palace"],
+      "quotes": [
+        {
+          "text": "The poneglyph I read in Skypiea mentioned that an ancient weapon was located on Fish-Man Island. The Mermaid Princess from the Void Century had the ability to command Sea Kings, and she went by another name... Poseidon.",
+          "speaker": "Robin",
+          "context": "Robin explaining her discovery to Neptune"
+        },
+        {
+          "text": "Shirahoshi has inherited that same ability, which means she has also inherited that name. Your daughter is the ancient weapon Poseidon.",
+          "speaker": "Robin",
+          "context": "Robin revealing Shirahoshi's true identity"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [254, 546, 560],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [254, 546, 560]
+    },
+    {
+      "id": "ep569-event-009",
+      "episodeNumber": 569,
+      "timestamp": "19:15",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Neptune Confirms Shirahoshi's Awakened Power",
+      "description": "Neptune confirms that Shirahoshi's ability to command Sea Kings fully awakened during the recent crisis when she unknowingly summoned them to stop Noah from destroying Fish-Man Island. He expresses concern about this awakening and what it means for her future.",
+      "significance": "Confirms that Shirahoshi's power as Poseidon is now active, making her one of the most powerful beings in the world and a potential target for those seeking to control the ancient weapons.",
+      "characterIds": ["neptune", "robin", "shirahoshi"],
+      "locationIds": ["ryugu-palace"],
+      "quotes": [
+        {
+          "text": "Her power awakened that day when the Sea Kings came to stop Noah. I'm afraid this is not a good thing for Shirahoshi.",
+          "speaker": "Neptune",
+          "context": "Neptune expressing his concerns about Shirahoshi's awakened power"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [565, 566],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [565, 566]
+    },
+    {
+      "id": "ep569-event-010",
+      "episodeNumber": 569,
+      "timestamp": "20:45",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MAJOR",
+      "title": "The Promise Will Be Fulfilled Someday",
+      "description": "Neptune tells Robin that according to legend passed down in the royal family, someone will eventually come to fulfill Joy Boy's promise. The exact nature of the promise remains unknown, but it is tied to Noah and Poseidon's power.",
+      "significance": "Sets up future story developments involving Joy Boy's return (through Luffy) and the fulfillment of the ancient promise, connecting to the overarching narrative of One Piece.",
+      "characterIds": ["neptune", "robin"],
+      "locationIds": ["ryugu-palace"],
+      "quotes": [
+        {
+          "text": "It is said that someday, someone will come to carry out the promise that Joy Boy made. When that time comes, Noah's purpose will finally be revealed.",
+          "speaker": "Neptune",
+          "context": "Discussing the legend passed down through generations"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [546],
+      "payoffInEpisodes": [1043, 1044, 1045],
+      "callbacksToEpisodes": [546]
+    }
+  ],
+  "debuts": {
+    "characters": ["maria-napole", "blakey", "miles"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [570, 571, 572, 573],
+    "payoffFrom": [546, 560, 565, 566, 567, 568],
+    "thematicLinks": [254, 546, 1043, 1044, 1045]
+  },
+  "quotes": [
+    {
+      "text": "Joy Boy was a man from the surface who lived during the Void Century. He made a promise to the people of Fish-Man Island, but for some reason, he was unable to keep it.",
+      "speaker": "Neptune",
+      "context": "Explaining Joy Boy's history",
+      "timestamp": "12:45"
+    },
+    {
+      "text": "The poneglyph I read in Skypiea mentioned that an ancient weapon was located on Fish-Man Island.",
+      "speaker": "Robin",
+      "context": "Beginning her explanation about Poseidon",
+      "timestamp": "17:35"
+    },
+    {
+      "text": "Shirahoshi has inherited that same ability, which means she has also inherited that name. Your daughter is the ancient weapon Poseidon.",
+      "speaker": "Robin",
+      "context": "Revealing Shirahoshi's identity as Poseidon",
+      "timestamp": "18:20"
+    },
+    {
+      "text": "It is said that someday, someone will come to carry out the promise that Joy Boy made.",
+      "speaker": "Neptune",
+      "context": "Discussing the prophecy",
+      "timestamp": "20:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Inherited Will and Destiny",
+      "description": "The episode explores how powers, responsibilities, and promises are passed down through generations, from the original Poseidon to Shirahoshi, and from Joy Boy's promise to its eventual fulfillment.",
+      "symbolism": "Shirahoshi inheriting the name and power of Poseidon symbolizes how certain destinies are predetermined and passed through bloodlines.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Ancient History and Lost Knowledge",
+      "description": "Robin's pursuit of historical truth through poneglyphs reveals crucial information about the Void Century, ancient weapons, and Joy Boy's role in history.",
+      "symbolism": "The poneglyphs serve as permanent records of suppressed history that the World Government cannot erase.",
+      "culturalReferences": ["Biblical Noah's Ark parallel with the ship Noah"]
+    },
+    {
+      "theme": "Burden of Power",
+      "description": "Neptune's concern about Shirahoshi's awakened power highlights how great abilities can be both a blessing and a curse, making her a target for those who would exploit the ancient weapons.",
+      "symbolism": "Shirahoshi's gentle nature contrasts with her designation as a weapon of mass destruction.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Promises and Obligations",
+      "description": "Multiple promises drive the narrative: Joy Boy's broken promise, the royal family's promise to protect Noah, Jinbe's promise to join the crew later, and the implied promise that someone will fulfill Joy Boy's original commitment.",
+      "symbolism": "The ship Noah represents both a broken promise and hope for its future fulfillment.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Celebratory", "Mysterious", "Revelatory", "Foreboding"],
+  "characterSpotlights": [
+    {
+      "characterId": "robin",
+      "role": "Information revealer and archaeologist",
+      "development": "Robin demonstrates her crucial role as the crew's archaeologist by connecting information from different poneglyphs and deducing world-changing secrets about the ancient weapons.",
+      "keyActions": [
+        "Questions Neptune about Joy Boy",
+        "Reveals knowledge from the Skypiea poneglyph",
+        "Deduces that Shirahoshi is the ancient weapon Poseidon",
+        "Connects the dots between the Void Century and the present"
+      ],
+      "quotes": [
+        "Shirahoshi has inherited that same ability, which means she has also inherited that name. Your daughter is the ancient weapon Poseidon."
+      ]
+    },
+    {
+      "characterId": "neptune",
+      "role": "Keeper of ancient knowledge",
+      "development": "Neptune reveals his role as guardian of ancient secrets and protector of his daughter, showing the weight of responsibility passed down through the royal family.",
+      "keyActions": [
+        "Explains Joy Boy's history to Robin",
+        "Confirms Shirahoshi's identity as Poseidon",
+        "Reveals the promise to protect Noah",
+        "Expresses concern for Shirahoshi's future"
+      ],
+      "quotes": [
+        "Joy Boy was a man from the surface who lived during the Void Century."
+      ]
+    },
+    {
+      "characterId": "shirahoshi",
+      "role": "The ancient weapon Poseidon",
+      "development": "Though not present for the revelation, Shirahoshi's importance to the world's fate is established as one of the three ancient weapons capable of changing the world.",
+      "keyActions": [
+        "Revealed to be the current incarnation of Poseidon"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "jinbe",
+      "role": "Future Straw Hat member",
+      "development": "Jinbe's postponement of joining the crew sets up his character arc and future recruitment, showing his sense of responsibility and honor.",
+      "keyActions": [
+        "Declines Luffy's invitation temporarily",
+        "Promises to join once his obligations are fulfilled"
+      ],
+      "quotes": [
+        "I have some things I must take care of first. But when the time comes, if you'll still have me, I'd be honored to join your crew."
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "Extended scenes of the banquet celebration with additional character interactions.",
+      "episodeTimestamp": "07:10",
+      "mangaReference": "Chapter 649",
+      "type": "ANIME_EXTENDED_SCENE"
+    },
+    {
+      "difference": "Additional dialogue from Zoro about heroism and celebrating with sake.",
+      "episodeTimestamp": "08:30",
+      "mangaReference": "Chapter 649",
+      "type": "ANIME_ORIGINAL_DIALOGUE"
+    },
+    {
+      "difference": "Maria Napole's performance is shown in more detail in the anime.",
+      "episodeTimestamp": "09:30",
+      "mangaReference": "Chapter 649",
+      "type": "ANIME_EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode achieved a 9.1% viewership rating in Japan, ranking 6th for the week.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_569",
+          "title": "Episode 569 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-26"
+        }
+      ]
+    },
+    {
+      "fact": "This is the episode where one of the three ancient weapons, Poseidon, is fully revealed to the audience, making it one of the most significant lore episodes in the series.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_569",
+          "title": "Episode 569 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-26"
+        }
+      ]
+    },
+    {
+      "fact": "The revelation about Shirahoshi being Poseidon was first hinted at in Episode 254 when Robin read the poneglyph in Skypiea that mentioned the ancient weapon's location.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Poseidon",
+          "title": "Poseidon - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-26"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 569 covers Chapter 649 of the manga (pages 2-19), titled 'A Proposal'.",
+      "category": "MANGA_ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_569",
+          "title": "Episode 569 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-26"
+        }
+      ]
+    },
+    {
+      "fact": "This episode features character debuts including Maria Napole, an ocean floor diva who performs at the banquet.",
+      "category": "CHARACTERS",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_569",
+          "title": "Episode 569 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-26"
+        }
+      ]
+    },
+    {
+      "fact": "The episode aired on October 21, 2012 in Japan, but the Funimation simulcast was available the previous day on October 20, 2012 in the US.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_569",
+          "title": "Episode 569 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-26"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
