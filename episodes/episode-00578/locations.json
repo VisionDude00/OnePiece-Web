@@ -1,0 +1,125 @@
+[
+  {
+    "name": {
+      "english": "Maubeugemour Sea",
+      "japanese": "モーブゲモー海",
+      "romanized": "Mōbugemō Kai"
+    },
+    "aliases": ["Ill-Tempered Sea"],
+    "locationType": "SEA",
+    "seaRegion": "NEW_WORLD",
+    "islandName": null,
+    "debutEpisode": 575,
+    "debutChapter": null,
+    "description": "A non-canon sea located at the start of the New World, known for its extremely bizarre and dangerous weather phenomena. The weather can change from one extreme to another in a matter of seconds, including giant raindrops, hailstones larger than warships, snowfall like an avalanche, and the ocean spontaneously separating to create deep trenches.",
+    "episodeAppearances": [578],
+    "keyEvents": [
+      {
+        "episodeNumber": 578,
+        "eventId": "ep578-event-003",
+        "eventType": "BATTLE_START",
+        "title": "Final Battle of Z's Ambition Arc",
+        "description": "The climactic battle between Luffy and Shuzo takes place in the Maubeugemour Sea.",
+        "significance": "Serves as the battleground for the arc's conclusion.",
+        "timestamp": "08:00"
+      },
+      {
+        "episodeNumber": 578,
+        "eventId": "ep578-event-012",
+        "eventType": "LOCATION_DEPARTURE",
+        "title": "Straw Hats Leave Maubeugemour Sea",
+        "description": "After defeating Shuzo and enjoying Panz Fry's feast, the Straw Hats sail away from the Maubeugemour Sea.",
+        "significance": "Marks the end of the Z's Ambition Arc.",
+        "timestamp": "21:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 575,
+        "episodeEnd": "present",
+        "reason": "Sea remains active and dangerous"
+      }
+    ],
+    "parentLocation": "new-world",
+    "childLocations": ["maubeugemour-sea-island"],
+    "relatedCharacters": ["luffy", "shuzo", "panz-fry", "lily-enstomach"],
+    "relatedCrews": ["straw-hat-pirates", "neo-marines"],
+    "relatedArcs": ["Z's Ambition"],
+    "climate": "Extremely unstable and dangerous - weather changes rapidly and unpredictably",
+    "specialFeatures": [
+      {
+        "feature": "Thrust Up Stream",
+        "description": "A scaled-down version of the Knock Up Stream, a powerful upward current that can launch ships into the air",
+        "episodeRevealed": 576
+      },
+      {
+        "feature": "Giant Weather Phenomena",
+        "description": "Extreme weather including giant raindrops, hailstones larger than warships, and spontaneous ocean trenches",
+        "episodeRevealed": 575
+      }
+    ],
+    "images": [],
+    "canon": false
+  },
+  {
+    "name": {
+      "english": "Maubeugemour Sea Island",
+      "japanese": "モーブゲモー海の島",
+      "romanized": "Mōbugemō Kai no Shima"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Unnamed Island",
+    "debutEpisode": 577,
+    "debutChapter": null,
+    "description": "A small island within the Maubeugemour Sea where the Straw Hats, Panz Fry, and Lily take refuge. This island becomes the battlefield for the final confrontation between Luffy and Shuzo.",
+    "episodeAppearances": [578],
+    "keyEvents": [
+      {
+        "episodeNumber": 578,
+        "eventId": "ep578-event-001",
+        "eventType": "BATTLE_START",
+        "title": "Neo Marines Torpedo Attack",
+        "description": "Shuzo's men launch themselves as human torpedoes at this island, targeting the Straw Hats and the giants.",
+        "significance": "Initiates the final battle sequence of the arc.",
+        "timestamp": "03:15"
+      },
+      {
+        "episodeNumber": 578,
+        "eventId": "ep578-event-003",
+        "eventType": "BATTLE_START",
+        "title": "Luffy vs. Shuzo Battle",
+        "description": "The main battle between Luffy and Shuzo takes place on this island.",
+        "significance": "Serves as the arena for the arc's climactic battle.",
+        "timestamp": "08:00"
+      },
+      {
+        "episodeNumber": 578,
+        "eventId": "ep578-event-011",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Panz Fry's Farewell Feast",
+        "description": "Panz Fry prepares a magnificent feast on the island for the Straw Hats before they depart.",
+        "significance": "Provides a celebratory conclusion to the arc and shows gratitude.",
+        "timestamp": "20:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 577,
+        "episodeEnd": "present",
+        "reason": "Island remains intact after the battle"
+      }
+    ],
+    "parentLocation": "maubeugemour-sea",
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "shuzo", "panz-fry", "lily-enstomach", "alpacacino"],
+    "relatedCrews": ["straw-hat-pirates", "neo-marines"],
+    "relatedArcs": ["Z's Ambition"],
+    "images": [],
+    "canon": false
+  }
+]

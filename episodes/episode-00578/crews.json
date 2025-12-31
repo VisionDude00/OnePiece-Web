@@ -1,0 +1,91 @@
+[
+  {
+    "name": {
+      "english": "Neo Marines",
+      "japanese": "ネオ海軍",
+      "romanized": "Neo Kaigun"
+    },
+    "crewType": "MILITARY_ORGANIZATION",
+    "captainId": "z",
+    "debutEpisode": 575,
+    "debutChapter": null,
+    "episodeAppearances": [578],
+    "members": [
+      {
+        "characterId": "z",
+        "role": "Supreme Commander",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Founded the Neo Marines after leaving the regular Marines"
+      },
+      {
+        "characterId": "ain",
+        "role": "Second-in-Command",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Followed Z from the Marines to the Neo Marines"
+      },
+      {
+        "characterId": "shuzo",
+        "role": "Commander",
+        "episodeJoined": null,
+        "episodeLeft": 578,
+        "joinCircumstances": "Former Marine Commodore who defected with Z",
+        "leaveCircumstances": "Defeated by Luffy and captured by Marines, sent to Impel Down"
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 578,
+        "eventId": "ep578-event-001",
+        "momentType": "BATTLE_START",
+        "title": "Neo Marines Launch Suicide Torpedo Attack",
+        "description": "Shuzo's Neo Marine subordinates sacrifice themselves as human torpedoes in a desperate attack on the Straw Hats.",
+        "significance": "Demonstrates the fanatical devotion and extremist methods of the Neo Marines.",
+        "timestamp": "03:15"
+      },
+      {
+        "episodeNumber": 578,
+        "eventId": "ep578-event-009",
+        "momentType": "MAJOR_DECISION",
+        "title": "Shuzo Captured by Marines",
+        "description": "One of the Neo Marines' top commanders is defeated and imprisoned, representing a significant loss for the organization.",
+        "significance": "Weakens the Neo Marines but doesn't stop their overall plan.",
+        "timestamp": "18:45"
+      },
+      {
+        "episodeNumber": 578,
+        "eventId": "ep578-event-010",
+        "momentType": "WORLD_LORE",
+        "title": "Neo Marines Continue New World Plan",
+        "description": "Despite Shuzo's defeat, Z declares that the Neo Marines will proceed with their plan to eliminate all pirates from the New World.",
+        "significance": "Sets up the events of One Piece Film Z and shows the organization's unwavering determination.",
+        "timestamp": "19:15"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "Unknown - Neo Marines use military insignia rather than a traditional jolly roger",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "#000080",
+    "relationships": {
+      "allies": [],
+      "enemies": ["straw-hat-pirates", "marines"],
+      "parentOrganization": null
+    },
+    "goals": [
+      {
+        "goal": "Eliminate all pirates from the New World",
+        "episodeEstablished": 575,
+        "episodeAchieved": null,
+        "status": "ACTIVE"
+      }
+    ],
+    "ideology": "Extremist justice - believes all pirates must be eliminated, even if it means using ruthless methods and sacrificing their own members",
+    "canon": false
+  }
+]

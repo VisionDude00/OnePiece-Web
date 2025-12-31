@@ -1,0 +1,501 @@
+{
+  "episodeNumber": 579,
+  "episodeTitle": "Arriving! A Burning Island - Punk Hazard!",
+  "description": "The Straw Hat Pirates receive a distress call from a mysterious burning island. Luffy insists on investigating despite the crew's reluctance. Four crew members venture onto Punk Hazard and encounter a massive fire-breathing dragon.",
+  "airDate": "2013-01-06",
+  "airDateJapan": "2013-01-06",
+  "airDateUS": "2022-09-04",
+  "arcName": "Punk Hazard",
+  "sagaName": "Dressrosa Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Go!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [517, 590]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Unknown",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Brook",
+        "actor": "Cho"
+      },
+      {
+        "character": "Smoker",
+        "actor": "Mahito Ohba"
+      },
+      {
+        "character": "Tashigi",
+        "actor": "Junko Noda"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Brook",
+        "actor": "Ian Sinclair"
+      },
+      {
+        "character": "Smoker",
+        "actor": "Greg Dulcie"
+      },
+      {
+        "character": "Tashigi",
+        "actor": "Monica Rial"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep579-event-001",
+      "episodeNumber": 579,
+      "timestamp": "03:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Straw Hats Discover Burning Island",
+      "description": "The Straw Hat Pirates discover an uncharted volcanic island surrounded by a sea of fire. The island does not appear on their Log Pose, making it mysterious and potentially dangerous. Despite warnings, Luffy insists on investigating.",
+      "significance": "This marks the Straw Hats' first island exploration in the New World and the beginning of the Punk Hazard Arc, which will connect to major plot threads involving Law, Doflamingo, and Kaido.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky", "brook"],
+      "locationIds": ["punk-hazard"],
+      "quotes": [
+        {
+          "text": "It's a sea of fire!",
+          "speaker": "Usopp",
+          "context": "The crew's reaction to seeing the burning sea surrounding Punk Hazard"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep579-event-002",
+      "episodeNumber": 579,
+      "timestamp": "05:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Distress Call from Punk Hazard",
+      "description": "The crew receives a distress call from someone on the burning island. The caller mentions being attacked by a samurai and pleads for help before the transmission cuts off. This reveals the presence of both people and samurai on the supposedly abandoned island.",
+      "significance": "The distress call introduces the concept of samurai in the New World and hints at Wano Country's involvement. The mysterious caller is later revealed to be related to Kin'emon's attack on the island inhabitants.",
+      "characterIds": ["luffy", "nami", "usopp", "sanji", "chopper"],
+      "locationIds": ["punk-hazard"],
+      "quotes": [
+        {
+          "text": "Help! The samurai are going to kill us!",
+          "speaker": "Unknown Caller",
+          "context": "Distress call received by the Straw Hats"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [580, 581],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep579-event-003",
+      "episodeNumber": 579,
+      "timestamp": "08:45",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Brook Explains Wano Country and Samurai",
+      "description": "Brook provides exposition about Wano Country, explaining that it is a nation of samurai that has a closed-door policy to outsiders and is not affiliated with the World Government. This is the crew's first detailed information about Wano.",
+      "significance": "This is one of the first major references to Wano Country, which will become a crucial location later in the series. It establishes Wano as an isolated, mysterious nation.",
+      "characterIds": ["brook", "zoro", "luffy", "usopp", "robin"],
+      "locationIds": [],
+      "quotes": [
+        {
+          "text": "Samurai are the swordsmen of Wano Country, which has a closed-door policy to outsiders and is not affiliated with the World Government.",
+          "speaker": "Brook",
+          "context": "Brook explaining what samurai are after the distress call"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep579-event-004",
+      "episodeNumber": 579,
+      "timestamp": "11:20",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Crew Decides Who Will Explore Punk Hazard",
+      "description": "The crew holds a lottery to determine who will accompany Luffy to explore Punk Hazard. Zoro, Robin, and Usopp are selected through a drawing system involving sticks. The episode features comedic anime-original stick-figure drawing sequences.",
+      "significance": "This decision determines which crew members will encounter the dragon and begin exploring Punk Hazard. The selection will impact how events unfold on the island.",
+      "characterIds": ["luffy", "zoro", "robin", "usopp", "nami", "sanji", "chopper", "franky", "brook"],
+      "locationIds": ["thousand-sunny"],
+      "quotes": [
+        {
+          "text": "HELLO, MY NAME IS MONKEY D. LUFFY AND I WILL BECOME THE PIRATE KING.",
+          "speaker": "Luffy",
+          "context": "Luffy's enthusiastic response to investigating the island"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [580],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep579-event-005",
+      "episodeNumber": 579,
+      "timestamp": "13:45",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Landing Party Reaches Punk Hazard",
+      "description": "Using Nami's weather manipulation abilities, she creates a cloud pathway similar to those from Skypiea. Luffy, Zoro, Robin, and Usopp use this cloud bridge to safely traverse the sea of fire and reach Punk Hazard's shore.",
+      "significance": "This demonstrates creative use of Nami's clima-tact abilities and shows how the crew has grown since Skypiea. It marks the official landing on the first New World island they explore.",
+      "characterIds": ["luffy", "zoro", "robin", "usopp", "nami"],
+      "locationIds": ["punk-hazard"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [195, 196]
+    },
+    {
+      "id": "ep579-event-006",
+      "episodeNumber": 579,
+      "timestamp": "15:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Discovery of Punk Hazard Facility",
+      "description": "The landing party discovers a massive government-controlled facility marked with danger warnings and World Government insignia. The island appears to be a restricted military research station with 'KEEP OUT' warnings posted.",
+      "significance": "This reveals that Punk Hazard is not just a natural volcanic island, but a former World Government facility. This discovery sets up the mystery of what happened here and why it was abandoned.",
+      "characterIds": ["luffy", "zoro", "robin", "usopp"],
+      "locationIds": ["punk-hazard"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep579-event-007",
+      "episodeNumber": 579,
+      "timestamp": "16:45",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MINOR",
+      "title": "Zoro's Flashback to Ryuma and Shusui",
+      "description": "Zoro has a flashback remembering his battle with the samurai zombie Ryuma in Thriller Bark and obtaining the legendary sword Shusui. This anime-original scene connects to the samurai theme of the arc.",
+      "significance": "This flashback foreshadows the importance of Wano Country and samurai in upcoming arcs. Shusui is a national treasure of Wano, which will become relevant later.",
+      "characterIds": ["zoro"],
+      "locationIds": [],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [362, 363]
+    },
+    {
+      "id": "ep579-event-008",
+      "episodeNumber": 579,
+      "timestamp": "18:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Dragon Number Thirteen Appears",
+      "description": "A massive fire-breathing dragon suddenly appears before Luffy, Zoro, Robin, and Usopp. The dragon is revealed to be Dragon Number Thirteen, a creature created by Dr. Vegapunk to guard Punk Hazard. The Straw Hats are shocked to encounter a living dragon.",
+      "significance": "This is the debut of Dragon Number Thirteen and the first of many shocking discoveries on Punk Hazard. The dragon's existence raises questions about Vegapunk's scientific capabilities and sets up the coming battle.",
+      "characterIds": ["luffy", "zoro", "robin", "usopp", "dragon-number-thirteen"],
+      "locationIds": ["punk-hazard"],
+      "devilFruitIds": [],
+      "quotes": [
+        {
+          "text": "A dragon?!",
+          "speaker": "Usopp",
+          "context": "The crew's shocked reaction to seeing the dragon"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [580],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep579-event-009",
+      "episodeNumber": 579,
+      "timestamp": "19:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Smoker and Tashigi Intercept Distress Signal",
+      "description": "Vice Admiral Smoker and Captain Tashigi of the G-5 Marine unit intercept the same distress call from Punk Hazard. Smoker deduces that the Straw Hats will head to the island and orders his crew to set sail for Punk Hazard to intercept them.",
+      "significance": "This sets up the reunion between Smoker and Luffy in the New World. It also establishes that the Marines are tracking the Straw Hats' movements and will play a role in the Punk Hazard Arc.",
+      "characterIds": ["smoker", "tashigi"],
+      "locationIds": ["raijin-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep579-event-010",
+      "episodeNumber": 579,
+      "timestamp": "20:30",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MINOR",
+      "title": "Brook Escapes Gas Attack on Thousand Sunny",
+      "description": "While the landing party explores Punk Hazard, mysterious attackers deploy sleeping gas on the Thousand Sunny. The remaining crew members (Nami, Sanji, Chopper, Franky) succumb to the gas and fall unconscious. Brook, being a skeleton, is unaffected and goes unnoticed by the attackers.",
+      "significance": "This sets up the kidnapping subplot and establishes Brook's immunity to gas attacks due to his undead nature. It also creates immediate danger for the crew left on the ship.",
+      "characterIds": ["nami", "sanji", "chopper", "franky", "brook"],
+      "locationIds": ["thousand-sunny"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [581, 582],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["dragon-number-thirteen"],
+    "locations": ["punk-hazard"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [580, 581, 582],
+    "payoffFrom": [],
+    "thematicLinks": [195, 362]
+  },
+  "quotes": [
+    {
+      "text": "HELLO, MY NAME IS MONKEY D. LUFFY AND I WILL BECOME THE PIRATE KING.",
+      "speaker": "Luffy",
+      "context": "Luffy's enthusiastic response to investigating the mysterious island",
+      "timestamp": "11:20"
+    },
+    {
+      "text": "Help! The samurai are going to kill us!",
+      "speaker": "Unknown Caller",
+      "context": "Distress call that draws the Straw Hats to Punk Hazard",
+      "timestamp": "05:30"
+    },
+    {
+      "text": "Samurai are the swordsmen of Wano Country, which has a closed-door policy to outsiders and is not affiliated with the World Government.",
+      "speaker": "Brook",
+      "context": "Brook explaining what samurai are after the distress call",
+      "timestamp": "08:45"
+    },
+    {
+      "text": "A dragon?!",
+      "speaker": "Usopp",
+      "context": "The crew's shocked reaction to seeing Dragon Number Thirteen",
+      "timestamp": "18:00"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Adventure and Exploration",
+      "description": "The episode emphasizes Luffy's adventurous spirit as he eagerly investigates the mysterious burning island despite the crew's concerns. This reflects the core theme of One Piece about pursuing adventure regardless of danger.",
+      "symbolism": "The burning island surrounded by fire represents the dangerous but exciting nature of the New World.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Mystery and Discovery",
+      "description": "The episode is filled with mysteries: the uncharted island, the distress call, the government facility, and the dragon. Each discovery raises more questions than answers.",
+      "symbolism": "The 'KEEP OUT' signs and government warnings symbolize forbidden knowledge and secrets that the Straw Hats will uncover.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Adventurous", "Mysterious", "Suspenseful", "Comedic"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist - Decision Maker",
+      "development": "Luffy demonstrates his characteristic enthusiasm for adventure and his tendency to rush into dangerous situations to help those in need.",
+      "keyActions": [
+        "Insists on investigating the mysterious island",
+        "Responds to the distress call with determination",
+        "Leads the landing party onto Punk Hazard",
+        "Confronts the dragon without fear"
+      ],
+      "quotes": ["HELLO, MY NAME IS MONKEY D. LUFFY AND I WILL BECOME THE PIRATE KING."]
+    },
+    {
+      "characterId": "brook",
+      "role": "Supporting - Information Provider",
+      "development": "Brook serves as the crew's source of information about Wano Country and samurai, showcasing his knowledge from his long life. He also demonstrates his unique advantage as a skeleton when the gas attack occurs.",
+      "keyActions": [
+        "Explains Wano Country and samurai to the crew",
+        "Remains unaffected by the sleeping gas attack",
+        "Goes unnoticed by the attackers"
+      ],
+      "quotes": ["Samurai are the swordsmen of Wano Country, which has a closed-door policy to outsiders and is not affiliated with the World Government."]
+    },
+    {
+      "characterId": "nami",
+      "role": "Supporting - Navigator and Strategist",
+      "development": "Nami demonstrates her growth and skill by creating a cloud pathway to help the landing party reach the island, using techniques reminiscent of Skypiea.",
+      "keyActions": [
+        "Creates cloud pathway across the sea of fire",
+        "Expresses concern about the mysterious island",
+        "Falls victim to the sleeping gas attack on the ship"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime added an extended comedic sequence with stick-figure drawings when the crew was deciding who would go to the island.",
+      "episodeTimestamp": "11:20",
+      "mangaReference": "Chapter 655",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "Zoro's flashback to his battle with Ryuma and obtaining Shusui from Thriller Bark was added in the anime and not present in the manga.",
+      "episodeTimestamp": "16:45",
+      "mangaReference": "Chapter 655",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "The opening theme 'We Go!' contained a preview for One Piece Film: Z, replacing the battle scenes of the Straw Hat Pirates fighting the Marines.",
+      "episodeTimestamp": "00:00",
+      "mangaReference": "N/A",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "The G-5 Marines' torture of their captive pirate was censored. In the manga, they were shown scorching him, but in the anime they only held torches close to him.",
+      "episodeTimestamp": "19:15",
+      "mangaReference": "Chapter 655",
+      "type": "CENSORSHIP"
+    },
+    {
+      "difference": "In the manga, Smoker predicted the Straw Hats would go to Raijin Island and discussed the first three islands of the New World. In the anime, he instead predicts they would go to Punk Hazard.",
+      "episodeTimestamp": "19:15",
+      "mangaReference": "Chapter 655",
+      "type": "DIALOGUE_CHANGE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the first episode of the Punk Hazard Arc and the Dressrosa Saga, beginning a major story arc that will connect to the Wano Country storyline.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_579",
+          "title": "Episode 579 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-31"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 579 adapts pages 2-19 of Chapter 655, covering roughly one chapter of manga content.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_579",
+          "title": "Episode 579 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-31"
+        }
+      ]
+    },
+    {
+      "fact": "The opening theme 'We Go!' by Hiroshi Kitadani had a special version for this episode that included preview footage for One Piece Film: Z.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/We_Go!",
+          "title": "We Go! - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-31"
+        }
+      ]
+    },
+    {
+      "fact": "This episode aired in the United States on Toonami on September 4, 2022, nearly 10 years after its original Japanese broadcast.",
+      "category": "BROADCAST",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_579",
+          "title": "Episode 579 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-31"
+        }
+      ]
+    },
+    {
+      "fact": "Dragon Number Thirteen is 70 meters in length, making it one of the largest creatures the Straw Hats have encountered at this point in the series.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Dragon_Number_Thirteen",
+          "title": "Dragon Number Thirteen - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-31"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
