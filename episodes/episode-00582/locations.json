@@ -1,0 +1,191 @@
+[
+  {
+    "name": {
+      "english": "Biscuits Room",
+      "japanese": "ビスケットルーム",
+      "romanized": "Bisuketto Rūmu"
+    },
+    "locationType": "ROOM",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 582,
+    "debutChapter": 658,
+    "description": "A room inside Caesar Clown's laboratory on Punk Hazard where the giant children are kept. The room contains beds, toys, and is designed to appear welcoming to the captive children while they undergo experimentation.",
+    "episodeAppearances": [582],
+    "keyEvents": [
+      {
+        "episodeNumber": 582,
+        "eventId": "ep582-event-005",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Discovery of the Biscuits Room",
+        "description": "Franky blasts through a wall and the group discovers the Biscuits Room filled with giant children who have been experimented on by Caesar Clown.",
+        "significance": "Reveals the horrific nature of Caesar's experiments and provides the moral imperative for the Straw Hats to take action.",
+        "timestamp": "10:20"
+      },
+      {
+        "episodeNumber": 582,
+        "eventId": "ep582-event-001",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Mocha's First Appearance",
+        "description": "Mocha and the other giant children are discovered in this room by the Straw Hats.",
+        "significance": "First appearance of the victims of Caesar's gigantification experiments.",
+        "timestamp": "03:15"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 582,
+        "episodeEnd": 625,
+        "reason": "Used by Caesar Clown to house the kidnapped children during experiments"
+      }
+    ],
+    "parentLocation": "punk-hazard",
+    "childLocations": [],
+    "relatedCharacters": ["mocha", "sind", "konbu", "nami", "sanji", "franky", "chopper", "kinemon"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Punk Hazard"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Punk Hazard",
+      "japanese": "パンクハザード",
+      "romanized": "Panku Hazādo"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 579,
+    "debutChapter": 654,
+    "description": "A former government research facility island in the New World that is now divided into two extreme climate zones - one side perpetually burning and the other frozen - as a result of the ten-day battle between Admirals Akainu and Aokiji.",
+    "episodeAppearances": [582],
+    "keyEvents": [
+      {
+        "episodeNumber": 582,
+        "eventId": "ep582-event-011",
+        "eventType": "BACKSTORY_REVEAL",
+        "title": "The Akainu vs Aokiji Duel Revealed",
+        "description": "Smoker explains that Punk Hazard became divided between fire and ice because it was the battleground where Admirals Akainu and Aokiji fought for ten days.",
+        "significance": "Reveals one of the most important events during the timeskip and explains the island's extreme climate conditions.",
+        "timestamp": "19:30"
+      },
+      {
+        "episodeNumber": 582,
+        "eventId": "ep582-event-012",
+        "eventType": "WORLD_LORE",
+        "title": "Punk Hazard's Transformation Explained",
+        "description": "The episode reveals how Punk Hazard was permanently transformed by the Admiral duel - one half burning from Akainu's magma, the other frozen by Aokiji's ice.",
+        "significance": "Demonstrates the overwhelming destructive power of Admiral-level Devil Fruit users.",
+        "timestamp": "20:45"
+      },
+      {
+        "episodeNumber": 582,
+        "eventId": "ep582-event-013",
+        "eventType": "WORLD_LORE",
+        "title": "Punk Hazard's Chemical Weapon Disaster",
+        "description": "Mentioned that four years ago, Vegapunk's failed chemical weapons experiment turned Punk Hazard into a wasteland.",
+        "significance": "Provides backstory about the island's abandonment by the World Government.",
+        "timestamp": "21:30"
+      }
+    ],
+    "status": "ABANDONED",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 579,
+        "episodeEnd": 579,
+        "reason": "Government research facility"
+      },
+      {
+        "status": "DESTROYED",
+        "episodeStart": 579,
+        "episodeEnd": 579,
+        "reason": "Chemical weapons accident four years before current timeline"
+      },
+      {
+        "status": "ABANDONED",
+        "episodeStart": 582,
+        "episodeEnd": "present",
+        "reason": "Abandoned after chemical disaster, later used as battleground for Akainu vs Aokiji, now secretly occupied by Caesar Clown"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["punk-hazard-biscuits-room", "punk-hazard-burning-lands", "punk-hazard-frozen-lands"],
+    "relatedCharacters": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky", "brook", "smoker", "tashigi", "kinemon", "sakazuki", "kuzan", "caesar-clown"],
+    "relatedCrews": ["straw-hat-pirates", "marines"],
+    "relatedArcs": ["Punk Hazard"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Punk Hazard - Burning Lands",
+      "japanese": "パンクハザード - 燃える島",
+      "romanized": "Panku Hazādo - Moeru Shima"
+    },
+    "locationType": "ISLAND_REGION",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 579,
+    "debutChapter": 654,
+    "description": "The southern half of Punk Hazard that is perpetually engulfed in flames due to Akainu's Magu Magu no Mi abilities used during his battle with Aokiji. This region features rivers of lava, burning landscapes, and extreme heat.",
+    "episodeAppearances": [582],
+    "keyEvents": [
+      {
+        "episodeNumber": 582,
+        "eventId": "ep582-event-010",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Smoker and G-5 Marines Land on Punk Hazard",
+        "description": "Vice Admiral Smoker and the G-5 Marines arrive on the burning side of Punk Hazard and encounter poisonous gas.",
+        "significance": "Brings Marine forces to the island, setting up future conflicts.",
+        "timestamp": "18:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 582,
+        "episodeEnd": "present",
+        "reason": "Permanently burning after Akainu vs Aokiji battle"
+      }
+    ],
+    "parentLocation": "punk-hazard",
+    "childLocations": [],
+    "relatedCharacters": ["smoker", "tashigi", "sakazuki"],
+    "relatedCrews": ["marines"],
+    "relatedArcs": ["Punk Hazard"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Punk Hazard - Frozen Lands",
+      "japanese": "パンクハザード - 氷の島",
+      "romanized": "Panku Hazādo - Kōri no Shima"
+    },
+    "locationType": "ISLAND_REGION",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 579,
+    "debutChapter": 654,
+    "description": "The northern half of Punk Hazard that is perpetually frozen with massive ice mountains and freezing winds due to Aokiji's Hie Hie no Mi abilities used during his battle with Akainu. The Straw Hats first landed on this side of the island.",
+    "episodeAppearances": [582],
+    "keyEvents": [],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 582,
+        "episodeEnd": "present",
+        "reason": "Permanently frozen after Akainu vs Aokiji battle"
+      }
+    ],
+    "parentLocation": "punk-hazard",
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "zoro", "usopp", "robin", "brook", "kuzan"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Punk Hazard"],
+    "images": []
+  }
+]

@@ -1,0 +1,175 @@
+[
+  {
+    "name": {
+      "english": "G-5 Marines",
+      "japanese": "G-5支部",
+      "romanized": "Jī Faibu Shibu"
+    },
+    "crewType": "MARINE_UNIT",
+    "captainId": "smoker",
+    "debutEpisode": 581,
+    "debutChapter": 655,
+    "episodeAppearances": [584],
+    "members": [
+      {
+        "characterId": "smoker",
+        "role": "Vice Admiral / Commanding Officer",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Smoker commands the G-5 Marines as Vice Admiral"
+      },
+      {
+        "characterId": "tashigi",
+        "role": "Captain",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Tashigi serves as Captain under Smoker's command"
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 584,
+        "eventId": "ep584-event-006",
+        "momentType": "LOCATION_ARRIVAL",
+        "title": "G-5 Marines Infiltrate Punk Hazard",
+        "description": "Smoker leads the G-5 Marines in blasting through ice barriers and entering Punk Hazard via a hidden river, unaware they're being monitored.",
+        "significance": "The Marines enter the forbidden island to investigate illegal activities, bringing them into conflict with Law and Caesar Clown.",
+        "timestamp": "16:45"
+      },
+      {
+        "episodeNumber": 584,
+        "eventId": "ep584-event-007",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "G-5 Encounters Law as Shichibukai",
+        "description": "The G-5 Marines are shocked and terrified when they encounter Trafalgar Law, learning he is now one of the Seven Warlords of the Sea.",
+        "significance": "Creates immediate tension as the Marines must deal with a powerful Warlord on a forbidden island.",
+        "timestamp": "19:20"
+      }
+    ],
+    "ships": [],
+    "bases": ["G-5 Marine Base"],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "Standard Marine seagull insignia",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFFFFF",
+    "relationships": {
+      "allies": ["marines", "world-government"],
+      "enemies": ["caesar-clown-subordinates", "heart-pirates"],
+      "parentOrganization": "marines"
+    }
+  },
+  {
+    "name": {
+      "english": "Heart Pirates",
+      "japanese": "ハートの海賊団",
+      "romanized": "Hāto no Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "trafalgar-law",
+    "debutEpisode": 398,
+    "debutChapter": 498,
+    "episodeAppearances": [584],
+    "members": [
+      {
+        "characterId": "trafalgar-law",
+        "role": "Captain",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Law founded and leads the Heart Pirates"
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 584,
+        "eventId": "ep584-event-007",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Law's Post-Timeskip Appearance",
+        "description": "Law appears for the first time since the timeskip, now as a Shichibukai stationed at Punk Hazard.",
+        "significance": "Establishes the Heart Pirates' captain's new status and sets up the eventual alliance with the Straw Hats.",
+        "timestamp": "19:20"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull with a fur hat and crossbones, with a smiley face design",
+      "episodeFirstSeen": 398,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": [],
+      "enemies": ["g5-marines"],
+      "parentOrganization": "shichibukai"
+    }
+  },
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "luffy",
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [584],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 584,
+        "eventId": "ep584-event-001",
+        "momentType": "BATTLE_START",
+        "title": "Brook Battles Torso Samurai",
+        "description": "Brook encounters and fights the mysterious torso samurai on the frozen side of Punk Hazard.",
+        "significance": "Brook's first major combat in the Punk Hazard arc.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 584,
+        "eventId": "ep584-event-003",
+        "momentType": "BATTLE_START",
+        "title": "Luffy's Group Attacked by Brownbeard",
+        "description": "Luffy, Zoro, Usopp, and Robin are attacked by Brownbeard and his centaur unit at the lake.",
+        "significance": "First direct combat between the Straw Hats and the island's defenders.",
+        "timestamp": "08:15"
+      },
+      {
+        "episodeNumber": 584,
+        "eventId": "ep584-event-004",
+        "momentType": "CULTURAL_MOMENT",
+        "title": "Chopper Protects the Children",
+        "description": "Chopper fights hazmat soldiers to protect kidnapped children in the laboratory.",
+        "significance": "Demonstrates the Straw Hats' commitment to protecting innocents.",
+        "timestamp": "11:30"
+      },
+      {
+        "episodeNumber": 584,
+        "eventId": "ep584-event-005",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Discovery of Sheep Soldiers",
+        "description": "Sanji and Franky discover the hazmat soldiers are sheep-like creatures.",
+        "significance": "First reveal of Caesar's hybrid experiments.",
+        "timestamp": "14:00"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull wearing a straw hat with crossed bones behind it",
+      "episodeFirstSeen": 45,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": [],
+      "enemies": ["caesar-clown-subordinates"],
+      "parentOrganization": null
+    }
+  }
+]
