@@ -1,0 +1,589 @@
+{
+  "episodeNumber": 591,
+  "episodeTitle": "Chopper's Fury! The Master's Inhumane Experiment!",
+  "description": "Chopper discovers the children have been drugged with the addictive stimulant NHC10, causing withdrawal symptoms. Meanwhile, Caesar Clown receives Smoker's heart from Law and sends the Yeti Cool Brothers after the Straw Hats.",
+  "airDate": "2013-04-14",
+  "airDateJapan": "2013-04-14",
+  "airDateUS": "2013-04-13",
+  "arcName": "Punk Hazard",
+  "sagaName": "Dressrosa Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Hands Up!",
+    "artist": "Kōta Shinzato",
+    "episodeRange": [591, 628]
+  },
+  "endingSong": null,
+  "credits": {
+    "screenplay": "Yoshiyuki Suga",
+    "artDirection": "Ryūji Yoshiike",
+    "animation": "Yukiko Nakatani",
+    "direction": "Aya Komaki",
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Ōtani"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Brook",
+        "actor": "Chō"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Trafalgar Law",
+        "actor": "Hiroshi Kamiya"
+      },
+      {
+        "character": "Caesar Clown",
+        "actor": "Ryūsei Nakao"
+      },
+      {
+        "character": "Smoker",
+        "actor": "Mahito Ōba"
+      },
+      {
+        "character": "Monet",
+        "actor": "Naoko Matsui"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Brook",
+        "actor": "Ian Sinclair"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Trafalgar Law",
+        "actor": "Matthew Mercer"
+      },
+      {
+        "character": "Caesar Clown",
+        "actor": "Jerry Jewell"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep591-event-001",
+      "episodeNumber": 591,
+      "timestamp": "03:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Straw Hats Hide in Cave with Brownbeard",
+      "description": "The Straw Hat Pirates and the children take shelter in a cave on Punk Hazard with a captured Brownbeard, who provides information about the Master.",
+      "significance": "Establishes the temporary refuge location where Chopper will make his critical discovery about the children's condition.",
+      "characterIds": ["luffy", "chopper", "nami", "usopp", "robin", "franky", "brownbeard"],
+      "locationIds": ["punk-hazard-cave"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [590],
+      "payoffInEpisodes": [592],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep591-event-002",
+      "episodeNumber": 591,
+      "timestamp": "05:20",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MINOR",
+      "title": "Zoro, Sanji, and Brook Search for Kin'emon",
+      "description": "Zoro, Sanji, and Brook leave the cave to search for the samurai Kin'emon, specifically looking for his torso after previously finding his legs.",
+      "significance": "Separates these crew members from the group, setting them up to encounter the Yeti Cool Brothers.",
+      "characterIds": ["zoro", "sanji", "brook", "kinemon"],
+      "locationIds": ["punk-hazard-cave", "punk-hazard-mountains"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [590],
+      "payoffInEpisodes": [592],
+      "callbacksToEpisodes": [589]
+    },
+    {
+      "id": "ep591-event-003",
+      "episodeNumber": 591,
+      "timestamp": "07:45",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MINOR",
+      "title": "Children Reveal They Were Normal Sized",
+      "description": "The giant children reveal to the Straw Hats that none of them were actually giants when they arrived on the island. They were all normal-sized children who have been growing progressively larger during their time on Punk Hazard.",
+      "significance": "Critical revelation that exposes the true nature of Caesar Clown's experiments and the children's transformation.",
+      "characterIds": ["chopper", "nami", "usopp", "luffy", "robin", "sind", "mocha", "doran"],
+      "locationIds": ["punk-hazard-cave"],
+      "quotes": [
+        {
+          "text": "None of us were giants. We were all normal size when we first came to the island.",
+          "speaker": "Sind",
+          "context": "Revealing the truth about their condition to the Straw Hats"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [587, 588],
+      "payoffInEpisodes": [593, 595],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep591-event-004",
+      "episodeNumber": 591,
+      "timestamp": "09:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Chopper Theorizes About Pituitary Hormone Growth",
+      "description": "Chopper concludes that the children's rapid growth came from experiments that artificially increased the levels of their pituitary hormones, causing abnormal gigantification.",
+      "significance": "Explains the scientific mechanism behind Caesar's experiments and demonstrates Chopper's medical expertise.",
+      "characterIds": ["chopper", "nami", "robin"],
+      "locationIds": ["punk-hazard-cave"],
+      "quotes": [
+        {
+          "text": "The rapid growth came from experiments that increased the levels of their pituitary hormone.",
+          "speaker": "Chopper",
+          "context": "Explaining the medical basis for the children's gigantification"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [595],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep591-event-005",
+      "episodeNumber": 591,
+      "timestamp": "11:20",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Children Begin Withdrawal Symptoms",
+      "description": "The giant children suddenly begin falling over in severe pain, crying out for candy with bloodshot eyes, runny noses, and drooling. Their bodies are experiencing violent withdrawal symptoms from the drug NHC10.",
+      "significance": "The pivotal moment that reveals the true horror of Caesar's experiments and triggers Chopper's investigation.",
+      "characterIds": ["sind", "mocha", "doran", "uzu", "konbu", "biyo", "ally", "chopper"],
+      "locationIds": ["punk-hazard-cave"],
+      "quotes": [
+        {
+          "text": "Candy! Please! I need candy!",
+          "speaker": "Sind",
+          "context": "Begging for the drug-laced candy during withdrawal"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [592, 593],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep591-event-006",
+      "episodeNumber": 591,
+      "timestamp": "13:45",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Chopper Discovers NHC10 Drug Addiction",
+      "description": "After examining the children, Chopper reveals they have been given NHC10, a powerful and highly addictive stimulant whose use is tightly restricted throughout the world. The children were unknowingly addicted through candy given to them daily, keeping them trapped at the facility.",
+      "significance": "Exposes the darkest aspect of Caesar Clown's experiments - he deliberately addicted kidnapped children to control them. This is one of the most morally reprehensible acts in the Punk Hazard arc.",
+      "characterIds": ["chopper", "luffy", "nami", "usopp", "robin", "franky", "sind", "mocha", "brownbeard"],
+      "locationIds": ["punk-hazard-cave"],
+      "devilFruitIds": [],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "They've been given NHC10, a powerful stimulant. The use of which is tightly restricted throughout the world due to the danger it comes with!",
+          "speaker": "Chopper",
+          "context": "Revealing his diagnosis of the children's condition"
+        },
+        {
+          "text": "The children aren't sick! They're suffering from drug withdrawal!",
+          "speaker": "Chopper",
+          "context": "Angrily confronting the truth about the Master's experiments"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [587, 588, 590],
+      "payoffInEpisodes": [593, 595],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep591-event-007",
+      "episodeNumber": 591,
+      "timestamp": "15:10",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Chopper's Fury at Caesar's Inhumanity",
+      "description": "Chopper becomes enraged upon discovering the children were kidnapped and experimented on. He expresses his desire to save them and return them to their parents, while demanding revenge against the Master for his crimes.",
+      "significance": "Character-defining moment showing Chopper's moral conviction as a doctor and his compassion for the innocent. Demonstrates the Straw Hats' core values.",
+      "characterIds": ["chopper", "luffy", "nami", "brownbeard"],
+      "locationIds": ["punk-hazard-cave"],
+      "quotes": [
+        {
+          "text": "We have to save these children and return them to their parents! I won't forgive the Master for this!",
+          "speaker": "Chopper",
+          "context": "Expressing his determination to help the children"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [593, 595, 600],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep591-event-008",
+      "episodeNumber": 591,
+      "timestamp": "16:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Chopper Refuses to Give Children the Drug",
+      "description": "Despite the children's desperate pleas and suffering, Chopper refuses to provide them with the drug candy, knowing it would only perpetuate their addiction and imprisonment.",
+      "significance": "Shows Chopper making a difficult medical decision, choosing long-term wellbeing over immediate comfort, despite how much it pains him.",
+      "characterIds": ["chopper", "sind", "mocha", "doran", "uzu"],
+      "locationIds": ["punk-hazard-cave"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [592, 593],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep591-event-009",
+      "episodeNumber": 591,
+      "timestamp": "18:20",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Addicted Children Attack the Straw Hats",
+      "description": "The children, driven mad by withdrawal symptoms, attack the Straw Hat Pirates in a desperate attempt to get candy. The Straw Hats struggle to defend themselves without hurting the children.",
+      "significance": "Forces the Straw Hats into an impossible situation where they must protect themselves from victims they're trying to save, highlighting the cruelty of Caesar's experiments.",
+      "characterIds": ["luffy", "chopper", "nami", "usopp", "robin", "franky", "sind", "mocha", "doran"],
+      "locationIds": ["punk-hazard-cave"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep591-event-010",
+      "episodeNumber": 591,
+      "timestamp": "20:15",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Usopp Uses Bakusui Boshi to Sedate Children",
+      "description": "Usopp deploys his Bakusui Boshi (Sleeping Star) technique, shooting a pellet that releases a powerful sleeping gas to peacefully sedate the berserk children without harming them.",
+      "significance": "First use of this technique in the series. Provides a non-violent solution to the crisis and shows Usopp's tactical thinking.",
+      "characterIds": ["usopp", "chopper", "luffy", "sind", "mocha", "doran"],
+      "locationIds": ["punk-hazard-cave"],
+      "quotes": [
+        {
+          "text": "Bakusui Boshi!",
+          "speaker": "Usopp",
+          "context": "Deploying his sleeping star attack to sedate the children"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [593],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep591-event-011",
+      "episodeNumber": 591,
+      "timestamp": "21:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Law Gives Smoker's Heart to Caesar",
+      "description": "In Caesar's research facility, Trafalgar Law hands over Smoker's heart to Caesar Clown, despite showing visible displeasure at his actions. Caesar holds the Vice Admiral's heart in his hand.",
+      "significance": "Major strategic move that gives Caesar leverage over a powerful Marine officer. Demonstrates Law's commitment to his alliance with Caesar while hinting at his inner conflict.",
+      "characterIds": ["trafalgar-law", "caesar-clown", "smoker", "monet"],
+      "locationIds": ["punk-hazard-laboratory"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [589, 590],
+      "payoffInEpisodes": [595, 598],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep591-event-012",
+      "episodeNumber": 591,
+      "timestamp": "22:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Yeti Cool Brothers Introduced",
+      "description": "Caesar Clown dispatches the Yeti Cool Brothers, a pair of mysterious assassin brothers named Rock and Scotch, to eliminate the Straw Hat Pirates. They are described as deadly killers who will murder anyone for the right price.",
+      "significance": "Introduction of new antagonists who will pose a significant threat to the Straw Hats in upcoming episodes.",
+      "characterIds": ["caesar-clown", "rock", "scotch", "monet"],
+      "locationIds": ["punk-hazard-laboratory"],
+      "quotes": [
+        {
+          "text": "Yeti Cool Brothers, eliminate the Straw Hats!",
+          "speaker": "Caesar Clown",
+          "context": "Ordering the assassins to attack"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [592, 593],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep591-event-013",
+      "episodeNumber": 591,
+      "timestamp": "23:30",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Zoro, Sanji, and Brook Found Unconscious",
+      "description": "The episode ends with Zoro, Sanji, and Brook discovered unconscious in the snow, surrounded by gigantic footprints. They have been defeated by an unknown enemy.",
+      "significance": "Cliffhanger ending that establishes the Yeti Cool Brothers as a serious threat capable of defeating even the Monster Trio members. Creates tension for the next episode.",
+      "characterIds": ["zoro", "sanji", "brook"],
+      "locationIds": ["punk-hazard-mountains"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [592, 593],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["rock", "scotch"],
+    "locations": ["punk-hazard-cave"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["bakusui-boshi"],
+    "items": ["nhc10"]
+  },
+  "episodeRelationships": {
+    "setupFor": [592, 593, 595],
+    "payoffFrom": [587, 588, 589, 590],
+    "thematicLinks": [595, 600]
+  },
+  "quotes": [
+    {
+      "text": "They've been given NHC10, a powerful stimulant. The use of which is tightly restricted throughout the world due to the danger it comes with!",
+      "speaker": "Chopper",
+      "context": "Revealing his diagnosis of the children's drug addiction",
+      "timestamp": "13:45"
+    },
+    {
+      "text": "The children aren't sick! They're suffering from drug withdrawal!",
+      "speaker": "Chopper",
+      "context": "Angrily confronting the truth about the Master's experiments",
+      "timestamp": "13:50"
+    },
+    {
+      "text": "We have to save these children and return them to their parents! I won't forgive the Master for this!",
+      "speaker": "Chopper",
+      "context": "Expressing his determination to help the children",
+      "timestamp": "15:10"
+    },
+    {
+      "text": "None of us were giants. We were all normal size when we first came to the island.",
+      "speaker": "Sind",
+      "context": "Revealing the truth about their condition to the Straw Hats",
+      "timestamp": "07:45"
+    },
+    {
+      "text": "Candy! Please! I need candy!",
+      "speaker": "Sind",
+      "context": "Begging for the drug-laced candy during withdrawal",
+      "timestamp": "11:20"
+    },
+    {
+      "text": "Bakusui Boshi!",
+      "speaker": "Usopp",
+      "context": "Deploying his sleeping star attack to sedate the children",
+      "timestamp": "20:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Medical Ethics and Compassion",
+      "description": "The episode explores Chopper's role as a doctor facing a moral crisis. He must make the difficult decision to withhold addictive drugs from suffering children, knowing it's the right long-term choice despite the immediate pain it causes.",
+      "symbolism": "Chopper's fury represents the righteous anger of a healer confronted with deliberate harm inflicted on the innocent.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Child Endangerment and Exploitation",
+      "description": "Caesar Clown's experiments represent one of the darkest villain acts in One Piece - kidnapping children, experimenting on their bodies, and deliberately addicting them to maintain control.",
+      "symbolism": "The candy serves as a dark symbol of manipulation, taking something innocent and turning it into a tool of enslavement.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Scientific Responsibility",
+      "description": "The episode contrasts Chopper's ethical medical practice with Caesar's amoral scientific experimentation, highlighting the importance of using scientific knowledge for good rather than evil.",
+      "symbolism": "The laboratory setting represents the corruption of science when divorced from ethics and humanity.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Dark", "Dramatic", "Tense", "Angry"],
+  "characterSpotlights": [
+    {
+      "characterId": "chopper",
+      "role": "Protagonist - Medical Detective and Moral Compass",
+      "development": "This episode showcases Chopper's growth as a doctor and his moral conviction. His medical expertise allows him to diagnose the children's addiction, while his compassion drives his fury at Caesar's crimes. His refusal to enable the children's addiction, despite their suffering, shows professional integrity.",
+      "keyActions": [
+        "Examines the children and discovers NHC10 in their systems",
+        "Diagnoses drug addiction and withdrawal symptoms",
+        "Refuses to give children the addictive candy",
+        "Vows to save the children and return them to their parents",
+        "Expresses righteous anger at Caesar's experiments"
+      ],
+      "quotes": [
+        "They've been given NHC10, a powerful stimulant. The use of which is tightly restricted throughout the world due to the danger it comes with!",
+        "The children aren't sick! They're suffering from drug withdrawal!",
+        "We have to save these children and return them to their parents! I won't forgive the Master for this!"
+      ]
+    },
+    {
+      "characterId": "usopp",
+      "role": "Supporting - Problem Solver",
+      "development": "Usopp demonstrates his tactical thinking and concern for others by finding a non-violent solution to the crisis with the children.",
+      "keyActions": [
+        "Develops strategy to stop children without harming them",
+        "Uses Bakusui Boshi to peacefully sedate the children"
+      ],
+      "quotes": [
+        "Bakusui Boshi!"
+      ]
+    },
+    {
+      "characterId": "trafalgar-law",
+      "role": "Antagonist (Apparent) - Mysterious Ally",
+      "development": "Law continues his morally ambiguous actions by giving Smoker's heart to Caesar, though his displeasure suggests inner conflict about his alliance.",
+      "keyActions": [
+        "Hands Smoker's heart to Caesar Clown",
+        "Shows visible displeasure at his own actions"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "caesar-clown",
+      "role": "Main Antagonist",
+      "development": "Caesar is revealed as even more villainous through the exposure of his child experimentation and drug addiction scheme.",
+      "keyActions": [
+        "Receives Smoker's heart from Law",
+        "Dispatches the Yeti Cool Brothers to kill the Straw Hats",
+        "Revealed to have deliberately addicted children to NHC10"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "Episode 591 adapted only pages 2-17 of Chapter 665, extending the manga content with additional reaction shots and dialogue.",
+      "episodeTimestamp": "Various",
+      "mangaReference": "Chapter 665 (pages 2-17)",
+      "type": "PACING"
+    },
+    {
+      "difference": "The anime extended scenes of the children's withdrawal symptoms with additional visual effects and longer duration to emphasize the horror of the situation.",
+      "episodeTimestamp": "11:20-18:20",
+      "mangaReference": "Chapter 665",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This is the first episode to use 'Hands Up!' by Kōta Shinzato as the opening theme, replacing 'We Go!' which had been used since episode 517.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Hands_Up!",
+          "title": "Hands Up! - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-03"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 591 aired on April 14, 2013 in Japan but was simulcast on April 13, 2013 for international audiences, one day earlier.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_591",
+          "title": "Episode 591 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-03"
+        }
+      ]
+    },
+    {
+      "fact": "NHC10 is an anime-original name for the drug. In the manga, the specific drug name is not mentioned, only that it's a powerful stimulant.",
+      "category": "ANIME_ORIGINAL",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chapter_665",
+          "title": "Chapter 665 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-03"
+        }
+      ]
+    },
+    {
+      "fact": "The Yeti Cool Brothers make their first appearance in this episode, though they are not fully seen until later episodes.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Yeti_Cool_Brothers",
+          "title": "Yeti Cool Brothers - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-03"
+        }
+      ]
+    },
+    {
+      "fact": "This episode received a 7.4/10 rating on IMDb, which is slightly below average for One Piece episodes, likely due to the slower pacing typical of the Punk Hazard arc.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://www.imdb.com/title/tt3183578/",
+          "title": "One Piece: Chopper Gekido Master Hidounaru Jikken",
+          "platform": "IMDb",
+          "accessedAt": "2026-01-03"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

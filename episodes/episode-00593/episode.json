@@ -1,0 +1,496 @@
+{
+  "episodeNumber": 593,
+  "episodeTitle": "Save Nami! Luffy's Fight on the Snow Mountains",
+  "episodeTitleJapanese": "ナミを救え！ルフィ雪山の戦い",
+  "episodeTitleRomanized": "Nami o Sukue! Rufi Yukiyama no Tatakai",
+  "description": "After learning that Nami in Franky's body has been kidnapped by the Yeti Cool Brothers, Luffy and Franky pursue them across the snowy mountains of Punk Hazard. During the confrontation, Franky consumes a Rumble Ball and transforms uncontrollably. Law intervenes, defeats the Yeti Cool Brothers, and proposes a pirate alliance with Luffy to take down one of the Four Emperors.",
+  "airDate": "2013-04-28",
+  "airDateJapan": "2013-04-28",
+  "airDateUS": "2022-10-23",
+  "airDateUSFunimation": "2020-09-08",
+  "arcName": "Punk Hazard",
+  "sagaName": "Pirate Alliance Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Hands Up!",
+    "titleJapanese": "ハンズアップ!",
+    "artist": "Kota Shinzato",
+    "composer": "Kota Shinzato",
+    "lyricist": "Kota Shinzato",
+    "episodeRange": [591, 628]
+  },
+  "endingSong": null,
+  "credits": {
+    "director": "Yoshihiro Ueda",
+    "screenplay": "Jin Tanaka",
+    "artDirector": "Ryūji Yoshiike",
+    "animationDirector": "Toshio Deguchi",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Trafalgar D. Water Law",
+        "actor": "Hiroshi Kamiya"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Ōtani"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Smoker",
+        "actor": "Mahito Ōba"
+      },
+      {
+        "character": "Tashigi",
+        "actor": "Junko Noda"
+      },
+      {
+        "character": "Caesar Clown",
+        "actor": "Ryūsei Nakao"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Trafalgar D. Water Law",
+        "actor": "Matthew Mercer"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Smoker",
+        "actor": "Greg Dulcie"
+      },
+      {
+        "character": "Tashigi",
+        "actor": "Monica Rial"
+      },
+      {
+        "character": "Caesar Clown",
+        "actor": "Jerry Russell"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep593-event-001",
+      "episodeNumber": 593,
+      "timestamp": "03:15",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Chopper Reports Nami's Kidnapping",
+      "description": "Chopper tells Luffy, Robin, and Usopp that Nami (in Franky's body) has been kidnapped by the Yeti Cool Brothers. He also reports that Brownbeard was attacked and presumably killed by them.",
+      "significance": "Sets the episode's main conflict in motion and establishes the immediate threat of the Yeti Cool Brothers.",
+      "characterIds": ["chopper", "luffy", "robin", "usopp", "nami", "brownbeard"],
+      "locationIds": ["punk-hazard-snow-mountains"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [592],
+      "payoffInEpisodes": [594],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep593-event-002",
+      "episodeNumber": 593,
+      "timestamp": "05:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Luffy's Anger at Caesar's Betrayal",
+      "description": "Upon learning that Caesar Clown ordered the Yeti Cool Brothers to kill Brownbeard after he was captured, Luffy becomes angry at Caesar for betraying his own subordinate.",
+      "significance": "Demonstrates Luffy's strong sense of loyalty and foreshadows his eventual confrontation with Caesar.",
+      "characterIds": ["luffy", "caesar-clown", "brownbeard"],
+      "locationIds": ["punk-hazard-snow-mountains"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [592],
+      "payoffInEpisodes": [610],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep593-event-003",
+      "episodeNumber": 593,
+      "timestamp": "07:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Fen Bock's Debut",
+      "description": "Fen Bock, one of Caesar's satyr henchmen, appears fighting against the G-5 Marines with his gourd-shaped mace.",
+      "significance": "Introduces one of Caesar's subordinates who was transformed into a satyr after losing his legs in the chemical weapon incident.",
+      "characterIds": ["fen-bock"],
+      "locationIds": ["punk-hazard"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep593-event-004",
+      "episodeNumber": 593,
+      "timestamp": "07:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Chappe's Debut",
+      "description": "Chappe, another of Caesar's centaur henchmen, appears fighting the G-5 Marines with his rope whip. He was transformed into a centaur with cow legs after losing his original legs.",
+      "significance": "Introduces another of Caesar's subordinates and demonstrates the results of Law's surgical abilities combined with Caesar's experiments.",
+      "characterIds": ["chappe"],
+      "locationIds": ["punk-hazard"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep593-event-005",
+      "episodeNumber": 593,
+      "timestamp": "09:45",
+      "eventType": "CULTURAL_MOMENT",
+      "title": "Franky Takes Chopper's Rumble Ball",
+      "description": "Franky, still in Chopper's body, takes a Rumble Ball from Chopper wanting to use it in the fight against the Yeti Cool Brothers. However, he cannot control the transformation and goes into Monster Point.",
+      "significance": "Demonstrates the danger of Rumble Balls when used by someone other than Chopper, and adds comedic chaos to the pursuit. This also highlights that Chopper's Monster Point requires special training to control.",
+      "severity": "MINOR",
+      "characterIds": ["franky", "chopper"],
+      "locationIds": ["punk-hazard-snow-mountains"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [591],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep593-event-006",
+      "episodeNumber": 593,
+      "timestamp": "11:20",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Luffy and Franky Pursue the Yeti Cool Brothers",
+      "description": "Luffy and Franky chase after the Yeti Cool Brothers Rock and Scotch through the snowy mountains to rescue Nami. The brothers use their knowledge of the terrain to their advantage.",
+      "significance": "Begins the main confrontation of the episode and showcases the Yeti Cool Brothers' abilities in their natural element.",
+      "characterIds": ["luffy", "franky", "rock", "scotch", "nami"],
+      "locationIds": ["punk-hazard-snow-mountains"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [592],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep593-event-007",
+      "episodeNumber": 593,
+      "timestamp": "13:00",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Luffy Destroys Spike Trap with Busoshoku Haki",
+      "description": "Luffy falls into the Yeti Cool Brothers' Tsurara Kenzan (icicle spike trap) but uses Busoshoku Haki (Armament Haki) to destroy the trap, demonstrating his post-timeskip training.",
+      "significance": "Shows Luffy's mastery of Armament Haki after the two-year training period, one of the key power-ups that allows him to survive in the New World.",
+      "characterIds": ["luffy", "rock", "scotch"],
+      "locationIds": ["punk-hazard-snow-mountains"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [517]
+    },
+    {
+      "id": "ep593-event-008",
+      "episodeNumber": 593,
+      "timestamp": "14:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "MINOR",
+      "title": "Luffy Uses Gear Second Against Rock",
+      "description": "Luffy activates Gear Second and attempts to defeat Rock with enhanced speed, but Rock proves resilient despite being hit.",
+      "significance": "Demonstrates that even Luffy's Gear Second techniques may not be enough against giant opponents with significant durability.",
+      "characterIds": ["luffy", "rock"],
+      "locationIds": ["punk-hazard-snow-mountains"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [273]
+    },
+    {
+      "id": "ep593-event-009",
+      "episodeNumber": 593,
+      "timestamp": "15:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Luffy Deflects Rock's Bullet",
+      "description": "Rock fires an explosive bullet at Luffy, but Luffy uses his rubber abilities to deflect the shot back at Rock with twice the speed, hitting him with his own attack.",
+      "significance": "Shows Luffy's creative use of his Devil Fruit powers in combat and his ability to turn opponents' attacks against them.",
+      "characterIds": ["luffy", "rock"],
+      "locationIds": ["punk-hazard-snow-mountains"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep593-event-010",
+      "episodeNumber": 593,
+      "timestamp": "17:20",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Luffy Uses Gomu Gomu no Elephant Gun",
+      "description": "Franky in Monster Point attacks Luffy uncontrollably. Luffy activates Gear Third with Armament Haki and defeats Franky with Gomu Gomu no Elephant Gun, a powerful Haki-enhanced giant punch.",
+      "significance": "First use of Gomu Gomu no Elephant Gun in the anime, showcasing the combination of Gear Third and Armament Haki that Luffy developed during the timeskip. This technique becomes one of Luffy's signature moves.",
+      "characterIds": ["luffy", "franky"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "locationIds": ["punk-hazard-snow-mountains"],
+      "quotes": [
+        {
+          "text": "Gomu Gomu no... Elephant Gun!",
+          "speaker": "Luffy",
+          "context": "Luffy's first use of this Haki-enhanced Gear Third technique in the anime"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [517]
+    },
+    {
+      "id": "ep593-event-011",
+      "episodeNumber": 593,
+      "timestamp": "18:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Scotch Grabs Nami and Flees",
+      "description": "Scotch, one of the Yeti Cool Brothers, grabs Nami (still in Franky's body) and runs away with her while Luffy is dealing with Franky in Monster Point. Luffy gives chase but starts to fall behind.",
+      "significance": "Raises the tension and sets up Law's dramatic intervention.",
+      "characterIds": ["scotch", "nami", "luffy"],
+      "locationIds": ["punk-hazard-snow-mountains"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep593-event-012",
+      "episodeNumber": 593,
+      "timestamp": "19:15",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Law Defeats Scotch with Counter Shock",
+      "description": "Trafalgar Law appears and intercepts Scotch. Using his Ope Ope no Mi powers, Law slices Scotch in half and defeats him with Counter Shock, a powerful electrical attack similar to a defibrillator.",
+      "significance": "Demonstrates Law's incredible combat abilities and his Ope Ope no Mi techniques. This also marks Law's first major intervention in helping the Straw Hats during the Punk Hazard arc.",
+      "characterIds": ["law", "scotch"],
+      "devilFruitIds": ["ope-ope-no-mi"],
+      "locationIds": ["punk-hazard-snow-mountains"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [579]
+    },
+    {
+      "id": "ep593-event-013",
+      "episodeNumber": 593,
+      "timestamp": "20:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Law Proposes Pirate Alliance to Luffy",
+      "description": "After defeating the Yeti Cool Brothers, Law proposes a pirate alliance to Luffy. He explains there are two ways to survive in the New World: go under an Emperor or fight them. Law suggests they form an alliance to take down one of the Four Emperors and reveals there is a key on Punk Hazard that can upset the balance of the New World.",
+      "significance": "This is one of the most pivotal moments in the entire series. The formation of the Luffy-Law alliance sets in motion events that will lead to the downfall of Doflamingo and eventually Kaido. This alliance fundamentally changes the power dynamics of the New World and propels the story into major arcs.",
+      "characterIds": ["law", "luffy", "nami"],
+      "locationIds": ["punk-hazard-snow-mountains"],
+      "quotes": [
+        {
+          "text": "There are two ways to survive in the New World: going under an Emperor or attempting to fight them.",
+          "speaker": "Law",
+          "context": "Law explaining the harsh reality of the New World to Luffy before proposing their alliance"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [594, 723, 1049],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep593-event-014",
+      "episodeNumber": 593,
+      "timestamp": "08:00",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "G-5 Marines Battle Caesar's Forces",
+      "description": "The G-5 Marines engage in combat with Caesar's centaur and satyr subordinates, including Fen Bock and Chappe. The Marines struggle against the modified henchmen.",
+      "significance": "Shows the ongoing conflict between the Marines and Caesar's forces on Punk Hazard, providing context for the chaotic situation on the island.",
+      "characterIds": ["fen-bock", "chappe"],
+      "crewIds": ["g-5-marines"],
+      "locationIds": ["punk-hazard"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [591],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep593-event-015",
+      "episodeNumber": 593,
+      "timestamp": "21:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Smoker and Tashigi Arrive to Help G-5",
+      "description": "As the G-5 Marines are losing their battle against Caesar's centaur forces, Vice Admiral Smoker and Captain Tashigi arrive on the scene to provide support.",
+      "significance": "Smoker and Tashigi's timely arrival turns the tide for the Marines and sets up their continued involvement in the Punk Hazard conflict.",
+      "characterIds": ["smoker", "tashigi"],
+      "crewIds": ["g-5-marines"],
+      "locationIds": ["punk-hazard"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [579],
+      "payoffInEpisodes": [610],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["fen-bock", "chappe"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["gomu-gomu-no-elephant-gun", "counter-shock", "tsurara-kenzan"]
+  },
+  "episodeRelationships": {
+    "setupFor": [594, 610, 723],
+    "payoffFrom": [591, 592],
+    "thematicLinks": [517, 579]
+  },
+  "quotes": [
+    {
+      "text": "Gomu Gomu no... Elephant Gun!",
+      "speaker": "Luffy",
+      "context": "First use of this powerful Haki-enhanced Gear Third technique",
+      "timestamp": "17:20"
+    },
+    {
+      "text": "There are two ways to survive in the New World: going under an Emperor or attempting to fight them.",
+      "speaker": "Law",
+      "context": "Law explaining the stakes before proposing the alliance",
+      "timestamp": "20:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Alliance and Trust",
+      "description": "The episode centers on Law's proposal to form an alliance with Luffy, exploring the necessity of trust and cooperation in the dangerous New World.",
+      "symbolism": "Law's alliance proposal represents a shift from the individualistic pirate mentality to strategic cooperation for survival.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Loyalty and Betrayal",
+      "description": "Caesar's betrayal of Brownbeard contrasts sharply with Luffy's anger at this betrayal, highlighting Luffy's strong sense of loyalty to subordinates.",
+      "symbolism": "The contrast between Caesar and Luffy's leadership styles foreshadows their eventual confrontation.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Power and Strategy",
+      "description": "The episode showcases both raw power (Luffy's Haki and new techniques) and strategic thinking (Law's alliance proposal and tactical approach).",
+      "symbolism": "The combination of Luffy's strength and Law's strategy represents the complementary nature of their alliance.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Action-packed", "Strategic", "Intense", "Comedic"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist",
+      "development": "Demonstrates his post-timeskip abilities including Armament Haki and the new Gomu Gomu no Elephant Gun technique. Shows his emotional response to Caesar's betrayal of Brownbeard.",
+      "keyActions": [
+        "Pursues Yeti Cool Brothers to save Nami",
+        "Destroys spike trap with Armament Haki",
+        "Defeats Franky in Monster Point with Elephant Gun",
+        "Receives Law's alliance proposal"
+      ],
+      "quotes": ["Gomu Gomu no... Elephant Gun!"]
+    },
+    {
+      "characterId": "law",
+      "role": "Deuteragonist/Ally",
+      "development": "Takes decisive action to help the Straw Hats and proposes the alliance that will define the next several arcs. Demonstrates his tactical thinking and combat prowess.",
+      "keyActions": [
+        "Defeats Scotch with Counter Shock",
+        "Proposes pirate alliance to Luffy",
+        "Explains survival strategies in the New World"
+      ],
+      "quotes": ["There are two ways to survive in the New World: going under an Emperor or attempting to fight them."]
+    },
+    {
+      "characterId": "franky",
+      "role": "Comic Relief/Supporting",
+      "development": "Stuck in Chopper's body, Franky's attempt to use a Rumble Ball leads to comedic chaos as he transforms into an uncontrollable Monster Point.",
+      "keyActions": [
+        "Takes Rumble Ball and transforms into Monster Point",
+        "Attacks Luffy uncontrollably",
+        "Gets defeated by Elephant Gun"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended some battle sequences between Luffy and the Yeti Cool Brothers for pacing.",
+      "episodeTimestamp": "14:00",
+      "mangaReference": "Chapter 668",
+      "type": "ANIME_EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the first appearance of Gomu Gomu no Elephant Gun in the anime, one of Luffy's signature post-timeskip techniques that combines Gear Third with Armament Haki.",
+      "category": "TECHNIQUE",
+      "sources": []
+    },
+    {
+      "fact": "Episode 593 adapts Chapter 668 titled 'Pirate Alliance' from the manga, which was released on May 28, 2012.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "There is a minor animation error where Luffy's glove appears and disappears during the Elephant Gun sequence.",
+      "category": "ANIMATION",
+      "sources": []
+    },
+    {
+      "fact": "The Yeti Cool Brothers Rock and Scotch are named after alcoholic beverages, following a naming pattern common among One Piece characters.",
+      "category": "CHARACTER",
+      "sources": []
+    },
+    {
+      "fact": "Law's alliance proposal in this episode sets in motion events that span multiple major arcs including Dressrosa and Wano Country.",
+      "category": "PLOT",
+      "sources": []
+    },
+    {
+      "fact": "Episode 593 aired without an ending song, as Toei Animation stopped using ending themes from Episode 279 to Episode 1070.",
+      "category": "PRODUCTION",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
