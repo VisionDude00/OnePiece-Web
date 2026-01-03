@@ -1,0 +1,113 @@
+[
+  {
+    "name": {
+      "english": "Punk Hazard",
+      "japanese": "パンクハザード",
+      "romanized": "Panku Hazādo"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 579,
+    "debutChapter": 654,
+    "description": "A forbidden island in the New World split into two halves - one a burning inferno and the other a frozen wasteland - as a result of a battle between Akainu and Aokiji. Formerly a government research facility where dangerous experiments were conducted.",
+    "episodeAppearances": [585],
+    "keyEvents": [
+      {
+        "episodeNumber": 585,
+        "eventId": "ep585-event-001",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Discovery of Frozen Prisoners",
+        "description": "Nami and Chopper discover a room filled with frozen people in prison garments, revealing more of the island's dark past.",
+        "significance": "Reveals the cruel experiments and dark history of Punk Hazard's government research days.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 585,
+        "eventId": "ep585-event-004",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Law and Smoker Confrontation",
+        "description": "Law is revealed to be on Punk Hazard, working with Caesar Clown, leading to a confrontation with Smoker and the Marines.",
+        "significance": "Establishes the three-way conflict between the Straw Hats, Marines, and Law on the island.",
+        "timestamp": "10:30"
+      },
+      {
+        "episodeNumber": 585,
+        "eventId": "ep585-event-009",
+        "eventType": "POWER_REVEAL",
+        "title": "Law Lifts Marine Warship",
+        "description": "Law uses his Room and Tact abilities to lift the G-5 Marine warship, preventing their escape from the island.",
+        "significance": "Demonstrates the scale of battles that will take place on Punk Hazard.",
+        "timestamp": "19:20"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 579,
+        "episodeEnd": "present",
+        "reason": "Island is being used by Caesar Clown for illegal experiments"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": [
+      "punk-hazard-laboratory",
+      "punk-hazard-burning-lands",
+      "punk-hazard-frozen-lands"
+    ],
+    "relatedCharacters": ["law", "caesar-clown", "smoker", "luffy", "nami", "chopper", "franky", "sanji"],
+    "relatedCrews": ["straw-hat-pirates", "marines-g5", "heart-pirates"],
+    "relatedArcs": ["Punk Hazard"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Punk Hazard Laboratory",
+      "japanese": "パンクハザード研究所",
+      "romanized": "Panku Hazādo Kenkyūjo"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 581,
+    "debutChapter": 656,
+    "description": "The main research facility on Punk Hazard where Caesar Clown conducts his experiments on children and develops weapons. Contains frozen prisoners from past experiments.",
+    "episodeAppearances": [585],
+    "keyEvents": [
+      {
+        "episodeNumber": 585,
+        "eventId": "ep585-event-001",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Frozen Prisoner Room Discovery",
+        "description": "Nami and Chopper discover a horrifying room filled with frozen people in prison garments.",
+        "significance": "Reveals the extent of the cruel experiments conducted in the facility.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 585,
+        "eventId": "ep585-event-008",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Straw Hats Escape with Children",
+        "description": "The Straw Hats and rescued children burst out of the laboratory entrance.",
+        "significance": "Marks the escape from the laboratory and the beginning of the outdoor confrontation.",
+        "timestamp": "17:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 581,
+        "episodeEnd": "present",
+        "reason": "Being used by Caesar Clown for experiments"
+      }
+    ],
+    "parentLocation": "punk-hazard",
+    "childLocations": [],
+    "relatedCharacters": ["caesar-clown", "nami", "chopper", "franky", "sanji", "kin-emon"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Punk Hazard"],
+    "images": []
+  }
+]

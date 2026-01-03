@@ -1,0 +1,519 @@
+{
+  "episodeNumber": 586,
+  "episodeTitle": "In a Real Pinch! Luffy Sinks into the Ice-cold Lake!",
+  "description": "The Straw Hats attempt to reach Punk Hazard's ice side but are ambushed by Brownbeard's centaur forces. After escaping the frigid waters, they steal warm coats from the centaurs. Meanwhile, Law uses his Ope Ope no Mi powers to body-swap Sanji, Nami, Franky, and Chopper, creating chaos for the crew.",
+  "airDate": "2013-03-03",
+  "airDateJapan": "2013-03-03",
+  "airDateUS": "2013-03-02",
+  "arcName": "Punk Hazard",
+  "sagaName": "Dressrosa Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Go!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [517, 590]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Katsumi Tokoro",
+    "artDirector": "Ryūji Yoshiike",
+    "keyAnimators": ["Naoki Murakami"],
+    "screenplay": "Jin Tanaka",
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Brook",
+        "actor": "Cho"
+      },
+      {
+        "character": "Trafalgar Law",
+        "actor": "Hiroshi Kamiya"
+      },
+      {
+        "character": "Smoker",
+        "actor": "Mahito Ōba"
+      },
+      {
+        "character": "Tashigi",
+        "actor": "Junko Noda"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Brook",
+        "actor": "Ian Sinclair"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep586-event-001",
+      "episodeNumber": 586,
+      "timestamp": "04:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Straw Hats Approach the Ice Side of Punk Hazard",
+      "description": "Luffy, Zoro, Usopp, and Robin sail toward the frozen side of Punk Hazard on their small boat, attempting to reach the icy terrain of the island.",
+      "significance": "Sets up the encounter with Brownbeard's centaur patrol and establishes the crew's objective to explore both sides of the island.",
+      "characterIds": ["luffy", "zoro", "usopp", "robin"],
+      "locationIds": ["punk-hazard"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [579, 581],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep586-event-002",
+      "episodeNumber": 586,
+      "timestamp": "05:45",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Brownbeard's Centaur Patrol Attacks",
+      "description": "Brownbeard and his centaur patrol unit ambush the Straw Hats at the frozen lake, capsizing their ship and attacking them with gunfire.",
+      "significance": "Introduces Brownbeard as a centaur and leader of Caesar's security forces on Punk Hazard, marking a significant transformation from his previous appearance.",
+      "characterIds": ["luffy", "zoro", "usopp", "robin", "brownbeard"],
+      "locationIds": ["punk-hazard-lake"],
+      "crewIds": ["centaur-patrol-unit"],
+      "quotes": [
+        {
+          "text": "Fire! Don't let those pirates escape!",
+          "speaker": "Brownbeard",
+          "context": "Brownbeard orders his centaur forces to attack the Straw Hats"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [490, 512]
+    },
+    {
+      "id": "ep586-event-003",
+      "episodeNumber": 586,
+      "timestamp": "06:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Brownbeard's Centaur Form Revealed",
+      "description": "Brownbeard appears as an alligator-human centaur hybrid, transformed by Caesar Clown and Trafalgar Law after being crippled by Basil Hawkins in the New World.",
+      "significance": "Reveals the horrifying experiments being conducted on Punk Hazard and demonstrates Law's surgical abilities with his Ope Ope no Mi powers.",
+      "characterIds": ["brownbeard"],
+      "locationIds": ["punk-hazard-lake"],
+      "devilFruitIds": ["ope-ope-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [490, 512],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [490, 512]
+    },
+    {
+      "id": "ep586-event-004",
+      "episodeNumber": 586,
+      "timestamp": "07:15",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Zoro Dragged Underwater by Sharks",
+      "description": "As the Straw Hats fall into the icy lake, Zoro is grabbed and dragged underwater by sharks inhabiting the freezing waters.",
+      "significance": "Creates immediate danger for the crew and reveals that the lake contains ocean water, making it deadly for Devil Fruit users.",
+      "characterIds": ["zoro"],
+      "locationIds": ["punk-hazard-lake"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep586-event-005",
+      "episodeNumber": 586,
+      "timestamp": "08:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Brook's Ice Attack Saves Zoro",
+      "description": "Brook arrives and uses his ice-based soul powers to freeze the centaurs' weapon barrels and save Zoro from the sharks, defeating the aquatic predators.",
+      "significance": "Demonstrates Brook's post-timeskip abilities to use ice techniques and reunites him with Luffy's group.",
+      "characterIds": ["brook", "zoro"],
+      "locationIds": ["punk-hazard-lake"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep586-event-006",
+      "episodeNumber": 586,
+      "timestamp": "10:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Straw Hats Steal Centaurs' Warm Coats",
+      "description": "After escaping the freezing water, the Straw Hats realize the centaurs are wearing warm winter coats and decide to steal them for protection against Punk Hazard's extreme cold.",
+      "significance": "Provides comic relief and practical solution to the harsh climate while establishing the severity of Punk Hazard's environmental conditions.",
+      "characterIds": ["luffy", "zoro", "usopp", "robin", "brook"],
+      "locationIds": ["punk-hazard-lake"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep586-event-007",
+      "episodeNumber": 586,
+      "timestamp": "11:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Lake Formation Revealed",
+      "description": "It is revealed that the central lake on Punk Hazard was formed from the massive crater created during the legendary duel between Admirals Akainu and Aokiji.",
+      "significance": "Connects to the major world event of the admirals' battle for Fleet Admiral position and demonstrates the scale of their powers.",
+      "characterIds": [],
+      "locationIds": ["punk-hazard-lake"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [573],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [573]
+    },
+    {
+      "id": "ep586-event-008",
+      "episodeNumber": 586,
+      "timestamp": "14:20",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Law Destroys the Marine Battleship",
+      "description": "Trafalgar Law uses his Ope Ope no Mi powers to completely bisect the Marine battleship, cutting it in half and rendering it useless.",
+      "significance": "Demonstrates the devastating power of Law's Devil Fruit abilities and establishes him as a serious threat to the Marines on Punk Hazard.",
+      "characterIds": ["trafalgar-law"],
+      "locationIds": ["punk-hazard"],
+      "devilFruitIds": ["ope-ope-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep586-event-009",
+      "episodeNumber": 586,
+      "timestamp": "16:45",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Law's Shambles Body-Swap Technique",
+      "description": "Law uses his Shambles technique to swap the hearts and minds of Sanji, Nami, Franky, and Chopper, placing them in each other's bodies: Sanji in Nami's body, Nami in Franky's body, Franky in Chopper's body, and Chopper in Sanji's body.",
+      "significance": "Introduces one of Law's most versatile and bizarre abilities, creating major complications and comedy for the Straw Hats throughout the Punk Hazard arc.",
+      "characterIds": ["trafalgar-law", "sanji", "nami", "franky", "chopper"],
+      "locationIds": ["punk-hazard"],
+      "devilFruitIds": ["ope-ope-no-mi"],
+      "quotes": [
+        {
+          "text": "Shambles!",
+          "speaker": "Trafalgar Law",
+          "context": "Law activates his body-swapping technique on the Straw Hats"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [594, 597],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep586-event-010",
+      "episodeNumber": 586,
+      "timestamp": "17:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Sanji Realizes He's in Nami's Body",
+      "description": "After the body swap, Sanji slowly realizes he is now in control of Nami's body, leading to a comedic reaction about being in charge of Nami's physical form.",
+      "significance": "Provides significant comic relief and establishes the comedic potential of the body-swap situation that will continue throughout the arc.",
+      "characterIds": ["sanji", "nami"],
+      "locationIds": ["punk-hazard"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep586-event-011",
+      "episodeNumber": 586,
+      "timestamp": "19:15",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Tashigi Challenges Law",
+      "description": "Captain Tashigi attempts to engage Trafalgar Law in sword combat, challenging him despite Smoker's warnings that her Haki is not strong enough.",
+      "significance": "Demonstrates the power gap between Law and the G-5 Marines, setting up Law as a formidable opponent for the arc.",
+      "characterIds": ["tashigi", "trafalgar-law", "smoker"],
+      "locationIds": ["punk-hazard"],
+      "quotes": [
+        {
+          "text": "Your Haki is not strong enough to go up against him, Tashigi!",
+          "speaker": "Smoker",
+          "context": "Smoker warns Tashigi about challenging Law"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [587],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep586-event-012",
+      "episodeNumber": 586,
+      "timestamp": "20:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Law Cuts Tashigi in Half",
+      "description": "Using his Ope Ope no Mi powers within his ROOM, Law cuts Tashigi in half during their confrontation. Despite being bisected, she remains alive due to Law's surgical abilities.",
+      "significance": "Showcases Law's ability to slice people apart without killing them, demonstrating the precise control and devastating nature of his Devil Fruit powers.",
+      "characterIds": ["trafalgar-law", "tashigi"],
+      "locationIds": ["punk-hazard"],
+      "devilFruitIds": ["ope-ope-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [587],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep586-event-013",
+      "episodeNumber": 586,
+      "timestamp": "21:15",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Smoker Confronts Law",
+      "description": "Vice Admiral Smoker steps in to save Tashigi and begins his confrontation with Trafalgar Law, setting up their major battle.",
+      "significance": "Establishes the conflict between Smoker and Law that will continue in the following episode, bringing together two powerful Devil Fruit users.",
+      "characterIds": ["smoker", "trafalgar-law", "tashigi"],
+      "locationIds": ["punk-hazard"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [587],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": ["punk-hazard-lake"],
+    "devilFruits": [],
+    "crews": ["centaur-patrol-unit"],
+    "abilities": ["shambles"]
+  },
+  "episodeRelationships": {
+    "setupFor": [587, 588, 594],
+    "payoffFrom": [490, 512, 573, 579, 581],
+    "thematicLinks": [398, 573]
+  },
+  "quotes": [
+    {
+      "text": "Shambles!",
+      "speaker": "Trafalgar Law",
+      "context": "Law uses his technique to body-swap the Straw Hats",
+      "timestamp": "16:45"
+    },
+    {
+      "text": "Your Haki is not strong enough to go up against him, Tashigi!",
+      "speaker": "Smoker",
+      "context": "Smoker warns Tashigi about challenging Law",
+      "timestamp": "19:15"
+    },
+    {
+      "text": "Fire! Don't let those pirates escape!",
+      "speaker": "Brownbeard",
+      "context": "Brownbeard orders his centaur forces to attack",
+      "timestamp": "05:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Body and Identity",
+      "description": "The episode explores the concept of identity through Law's body-swapping technique, forcing characters to grapple with being in different physical forms.",
+      "symbolism": "The body swap represents the separation of mind and body, questioning what truly defines a person.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Power and Control",
+      "description": "Law demonstrates absolute control within his ROOM, manipulating reality itself and showcasing the terrifying potential of Devil Fruit mastery.",
+      "symbolism": "Law's surgical precision represents ultimate control over life and death without actually killing.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Scientific Ethics",
+      "description": "Brownbeard's transformation into a centaur introduces the theme of unethical human experimentation on Punk Hazard.",
+      "symbolism": "The centaurs represent the violation of natural human form for experimental purposes.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Suspenseful", "Comedic", "Dark", "Action-packed"],
+  "characterSpotlights": [
+    {
+      "characterId": "trafalgar-law",
+      "role": "Antagonist/Wild Card",
+      "development": "Law demonstrates the full extent of his Ope Ope no Mi powers, showcasing both his surgical precision and devastating combat abilities.",
+      "keyActions": [
+        "Destroys Marine battleship",
+        "Body-swaps four Straw Hat members",
+        "Cuts Tashigi in half",
+        "Confronts Smoker"
+      ],
+      "quotes": ["Shambles!"]
+    },
+    {
+      "characterId": "brownbeard",
+      "role": "Minor Antagonist",
+      "development": "Reappears as a centaur after being crippled by Basil Hawkins, now serving as Caesar's security chief on Punk Hazard.",
+      "keyActions": [
+        "Leads centaur patrol unit",
+        "Attacks the Straw Hats",
+        "Reveals transformation"
+      ],
+      "quotes": ["Fire! Don't let those pirates escape!"]
+    },
+    {
+      "characterId": "brook",
+      "role": "Supporting Hero",
+      "development": "Reunites with Luffy's group and demonstrates his post-timeskip ice abilities.",
+      "keyActions": [
+        "Saves Zoro from sharks",
+        "Freezes centaur weapons",
+        "Reunites with the crew"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended the combat sequences with the centaurs and added more detailed reactions to the body-swapping.",
+      "episodeTimestamp": "05:45",
+      "mangaReference": "Chapter 661",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "Brownbeard's character introduction and backstory were expanded in the anime.",
+      "episodeTimestamp": "05:45",
+      "mangaReference": "Chapter 661",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "The scene of Law destroying the ship was given more animation detail in the anime.",
+      "episodeTimestamp": "14:20",
+      "mangaReference": "Chapter 661",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episode 586 adapts Chapter 661 of the manga, titled 'The Lake of Bandits'.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_586",
+          "title": "Episode 586 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-03"
+        }
+      ]
+    },
+    {
+      "fact": "This episode marks the first use of Law's Shambles technique to swap the Straw Hats' bodies, a plot point that continues for several episodes.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "The episode aired in Japan on March 3, 2013, but was available via simulcast in the US on March 2, 2013 due to time zone differences.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "Brownbeard previously appeared as a human pirate captain in Episodes 490 and 512 before his transformation into a centaur.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chadros_Higelyges",
+          "title": "Chadros Higelyges - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-03"
+        }
+      ]
+    },
+    {
+      "fact": "The Punk Hazard lake was created from the crater formed during the ten-day duel between Admirals Akainu and Aokiji for the Fleet Admiral position.",
+      "category": "WORLD_LORE",
+      "sources": []
+    },
+    {
+      "fact": "This episode had a TV rating of 9.1% in Japan, ranking #6 for the week.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "The Funimation English dub for this episode was released on June 9, 2020, over 7 years after the original Japanese broadcast.",
+      "category": "PRODUCTION",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

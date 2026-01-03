@@ -1,0 +1,226 @@
+[
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "luffy",
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [585],
+    "members": [
+      {
+        "characterId": "luffy",
+        "role": "Captain",
+        "episodeJoined": 1,
+        "episodeLeft": null,
+        "joinCircumstances": "Founded the crew"
+      },
+      {
+        "characterId": "zoro",
+        "role": "Combatant/Swordsman",
+        "episodeJoined": 2,
+        "episodeLeft": null,
+        "joinCircumstances": "First crew member"
+      },
+      {
+        "characterId": "nami",
+        "role": "Navigator",
+        "episodeJoined": 44,
+        "episodeLeft": null,
+        "joinCircumstances": "Officially joined after Arlong Park"
+      },
+      {
+        "characterId": "usopp",
+        "role": "Sniper",
+        "episodeJoined": 17,
+        "episodeLeft": null,
+        "joinCircumstances": "Joined at Syrup Village"
+      },
+      {
+        "characterId": "sanji",
+        "role": "Cook",
+        "episodeJoined": 30,
+        "episodeLeft": null,
+        "joinCircumstances": "Joined after Baratie arc"
+      },
+      {
+        "characterId": "chopper",
+        "role": "Doctor",
+        "episodeJoined": 91,
+        "episodeLeft": null,
+        "joinCircumstances": "Joined after Drum Island"
+      },
+      {
+        "characterId": "robin",
+        "role": "Archaeologist",
+        "episodeJoined": 130,
+        "episodeLeft": null,
+        "joinCircumstances": "Joined after Alabasta"
+      },
+      {
+        "characterId": "franky",
+        "role": "Shipwright",
+        "episodeJoined": 322,
+        "episodeLeft": null,
+        "joinCircumstances": "Joined after Enies Lobby"
+      },
+      {
+        "characterId": "brook",
+        "role": "Musician",
+        "episodeJoined": 381,
+        "episodeLeft": null,
+        "joinCircumstances": "Joined after Thriller Bark"
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 585,
+        "eventId": "ep585-event-008",
+        "momentType": "CULTURAL_MOMENT",
+        "title": "Straw Hats Face Law and Marines",
+        "description": "The Straw Hats emerge from the laboratory with rescued children, only to encounter both Trafalgar Law and Vice Admiral Smoker's forces.",
+        "significance": "Creates a tense three-way situation where the Straw Hats must navigate between two powerful opposing forces.",
+        "timestamp": "17:45"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Thousand Sunny",
+        "episodeAcquired": 321,
+        "episodeLost": null,
+        "description": "The Straw Hats' second ship, built by Franky"
+      }
+    ],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull wearing a straw hat with crossed bones behind it",
+      "episodeFirstSeen": 45,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": [],
+      "enemies": ["marines-g5"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "G-5 Marines",
+      "japanese": "G-5支部",
+      "romanized": "Jī Faibu Shibu"
+    },
+    "crewType": "MARINE_UNIT",
+    "captainId": "smoker",
+    "debutEpisode": 579,
+    "debutChapter": 655,
+    "episodeAppearances": [585],
+    "members": [
+      {
+        "characterId": "smoker",
+        "role": "Vice Admiral/Commander",
+        "episodeJoined": 579,
+        "episodeLeft": null,
+        "joinCircumstances": "Transferred to command G-5"
+      },
+      {
+        "characterId": "tashigi",
+        "role": "Captain",
+        "episodeJoined": 579,
+        "episodeLeft": null,
+        "joinCircumstances": "Transferred with Smoker"
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 585,
+        "eventId": "ep585-event-004",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "G-5 Confronts Law",
+        "description": "The G-5 Marines under Smoker confront Trafalgar Law on Punk Hazard, learning he has become a Shichibukai.",
+        "significance": "Establishes the Marines as a major force investigating Punk Hazard's illegal activities.",
+        "timestamp": "10:30"
+      },
+      {
+        "episodeNumber": 585,
+        "eventId": "ep585-event-009",
+        "momentType": "POWER_REVEAL",
+        "title": "Marine Warship Lifted by Law",
+        "description": "Law uses his Devil Fruit powers to lift the G-5 warship into the air, preventing their escape.",
+        "significance": "Demonstrates Law's power and his willingness to directly oppose the Marines.",
+        "timestamp": "19:20"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "G-5 Warship",
+        "episodeAcquired": 579,
+        "episodeLost": null,
+        "description": "Marine warship used by the G-5 unit"
+      }
+    ],
+    "bases": ["G-5 Marine Base"],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "Marine insignia",
+      "episodeFirstSeen": 48,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFFFFF",
+    "relationships": {
+      "allies": ["marines"],
+      "enemies": ["straw-hat-pirates", "heart-pirates"],
+      "parentOrganization": "marines"
+    }
+  },
+  {
+    "name": {
+      "english": "Heart Pirates",
+      "japanese": "ハートの海賊団",
+      "romanized": "Hāto no Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "law",
+    "debutEpisode": 392,
+    "debutChapter": 498,
+    "episodeAppearances": [585],
+    "members": [
+      {
+        "characterId": "law",
+        "role": "Captain",
+        "episodeJoined": 392,
+        "episodeLeft": null,
+        "joinCircumstances": "Founded the crew"
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 585,
+        "eventId": "ep585-event-004",
+        "momentType": "FIRST_APPEARANCE",
+        "title": "Law Represents Heart Pirates on Punk Hazard",
+        "description": "Law's presence on Punk Hazard as a Shichibukai represents the Heart Pirates' activities in the New World.",
+        "significance": "Shows Law's strategic positioning and the crew's involvement in major New World events.",
+        "timestamp": "10:30"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull with a heart-shaped outline and crossbones",
+      "episodeFirstSeen": 392,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": [],
+      "enemies": ["marines-g5"],
+      "parentOrganization": null
+    }
+  }
+]
