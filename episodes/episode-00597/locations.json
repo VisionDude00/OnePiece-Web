@@ -1,0 +1,115 @@
+[
+  {
+    "name": {
+      "english": "Punk Hazard Laboratory",
+      "japanese": "パンクハザード研究所",
+      "romanized": "Panku Hazādo Kenkyūjo"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 579,
+    "debutChapter": 655,
+    "description": "Caesar Clown's research facility on Punk Hazard, where he conducts illegal experiments including the SAD production and human gigantification research.",
+    "episodeAppearances": [597],
+    "keyEvents": [
+      {
+        "episodeNumber": 597,
+        "eventId": "ep597-event-007",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Vergo Confronts Law in the Laboratory",
+        "description": "Vergo appears in the laboratory corridors and confronts Law, revealing their past connection.",
+        "significance": "The laboratory becomes the setting for the revelation of Vergo's identity and his defeat of Law.",
+        "timestamp": "15:30"
+      },
+      {
+        "episodeNumber": 597,
+        "eventId": "ep597-event-009",
+        "eventType": "BATTLE_START",
+        "title": "Law vs Vergo Battle",
+        "description": "Law and Vergo fight in the laboratory, with Vergo quickly overpowering Law.",
+        "significance": "Shows the danger within the laboratory and the threats beyond just Caesar.",
+        "timestamp": "17:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 579,
+        "episodeEnd": "present",
+        "reason": "Laboratory is operational under Caesar's control"
+      }
+    ],
+    "parentLocation": "punk-hazard",
+    "childLocations": [],
+    "relatedCharacters": ["caesar-clown", "trafalgar-law", "vergo", "monet"],
+    "relatedCrews": ["donquixote-pirates"],
+    "relatedArcs": ["Punk Hazard Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Punk Hazard",
+      "japanese": "パンクハザード",
+      "romanized": "Panku Hazādo"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "NEW_WORLD",
+    "islandName": null,
+    "debutEpisode": 579,
+    "debutChapter": 654,
+    "description": "A former government research facility island in the New World, split between fire and ice after a devastating chemical explosion. Now serves as Caesar Clown's base for illegal experiments.",
+    "episodeAppearances": [597],
+    "keyEvents": [
+      {
+        "episodeNumber": 597,
+        "eventId": "ep597-event-001",
+        "eventType": "BATTLE_START",
+        "title": "Luffy vs Caesar Battle",
+        "description": "The exterior of the laboratory becomes a battlefield as Luffy confronts Caesar.",
+        "significance": "Major confrontation location showcasing the island's dangerous environment.",
+        "timestamp": "04:30"
+      },
+      {
+        "episodeNumber": 597,
+        "eventId": "ep597-event-010",
+        "eventType": "WORLD_LORE",
+        "title": "Smiley Threatens the Island",
+        "description": "Smiley, capable of recreating the chemical explosion that devastated Punk Hazard four years ago, is seen by the Straw Hats.",
+        "significance": "References the island's tragic past and threatens to repeat it.",
+        "timestamp": "19:00"
+      },
+      {
+        "episodeNumber": 597,
+        "eventId": "ep597-event-011",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Sanji's Rescue in Poisonous Lake",
+        "description": "Sanji dives into one of Punk Hazard's poisonous lakes to rescue Kin'emon's torso.",
+        "significance": "Demonstrates the hazardous nature of Punk Hazard's environment.",
+        "timestamp": "20:15"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ABANDONED",
+        "episodeStart": null,
+        "episodeEnd": 579,
+        "reason": "Island was abandoned after a chemical explosion four years before the current timeline"
+      },
+      {
+        "status": "ACTIVE",
+        "episodeStart": 579,
+        "episodeEnd": "present",
+        "reason": "Caesar Clown has taken over the island for his experiments"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["punk-hazard-laboratory"],
+    "relatedCharacters": ["caesar-clown", "luffy", "trafalgar-law", "smoker", "kinemon", "vergo"],
+    "relatedCrews": ["straw-hat-pirates", "donquixote-pirates"],
+    "relatedArcs": ["Punk Hazard Arc"],
+    "images": []
+  }
+]

@@ -1,0 +1,579 @@
+{
+  "episodeNumber": 595,
+  "episodeTitle": "Capture M! The Pirate Alliance's Operation Launches!",
+  "description": "The Straw Hats split into groups as their alliance with Law takes action. Zoro, Sanji, and Brook rescue the samurai Kin'emon from freezing water, while Luffy, Franky, and Robin make a bold entrance at Caesar's laboratory to begin their kidnapping operation.",
+  "airDate": "2013-05-12",
+  "airDateJapan": "2013-05-12",
+  "airDateUS": "2022-11-13",
+  "arcName": "Punk Hazard",
+  "sagaName": "Dressrosa Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Hands Up!",
+    "artist": "Kōta Shinzato",
+    "episodeRange": [591, 628]
+  },
+  "endingSong": {
+    "title": "A Thousand Dreamers",
+    "artist": "Tackey & Tsubasa",
+    "episodeRange": [590, 628]
+  },
+  "credits": {
+    "animationDirector": "Masahiro Shimanuki",
+    "director": "Tetsuya Endō",
+    "screenplay": "Yoshiyuki Suga",
+    "artDirector": "Ryūji Yoshiike",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Ōtani"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Brook",
+        "actor": "Chō"
+      },
+      {
+        "character": "Trafalgar Law",
+        "actor": "Hiroshi Kamiya"
+      },
+      {
+        "character": "Caesar Clown",
+        "actor": "Ryūsei Nakao"
+      },
+      {
+        "character": "Smoker",
+        "actor": "Mahito Oba"
+      },
+      {
+        "character": "Tashigi",
+        "actor": "Junko Noda"
+      },
+      {
+        "character": "Kin'emon",
+        "actor": "Kenyu Horiuchi"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      },
+      {
+        "character": "Brook",
+        "actor": "Ian Sinclair"
+      },
+      {
+        "character": "Trafalgar Law",
+        "actor": "Matthew Mercer"
+      },
+      {
+        "character": "Caesar Clown",
+        "actor": "Jerry Jewell"
+      },
+      {
+        "character": "Smoker",
+        "actor": "Greg Dulcie"
+      },
+      {
+        "character": "Tashigi",
+        "actor": "Monica Rial"
+      },
+      {
+        "character": "Kin'emon",
+        "actor": "Chris Ryan"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep595-event-001",
+      "episodeNumber": 595,
+      "timestamp": "03:45",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Caesar's Past Disaster Revealed",
+      "description": "A flashback reveals that four years ago, Caesar Clown detonated an illegal chemical weapon of mass destruction on Punk Hazard when Vegapunk attempted to dismiss him. The explosion devastated the island and killed many researchers.",
+      "significance": "Provides critical background on the tragedy that turned Punk Hazard into a wasteland and establishes Caesar as a dangerous mad scientist willing to sacrifice lives for his experiments.",
+      "characterIds": ["caesar-clown", "vegapunk"],
+      "locationIds": ["punk-hazard"],
+      "quotes": [
+        {
+          "text": "Four years ago, when Vegapunk tried to dismiss me, I detonated my chemical weapon right here on Punk Hazard!",
+          "speaker": "Caesar Clown",
+          "context": "Caesar explaining the origin of the island's destruction"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep595-event-002",
+      "episodeNumber": 595,
+      "timestamp": "05:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Smiley's True Nature Revealed",
+      "description": "Caesar reveals that Smiley, the giant slime creature, is actually the condensed H2S gas from his chemical weapon experiment. One year after returning to Punk Hazard, he compressed the toxic gas into slime form and fed it the Sara Sara no Mi, Model: Axolotl.",
+      "significance": "Reveals the terrifying nature of Smiley as a living chemical weapon and demonstrates the extent of Caesar's dangerous experimentation with Devil Fruits and weapons of mass destruction.",
+      "characterIds": ["caesar-clown", "smiley"],
+      "locationIds": ["punk-hazard"],
+      "devilFruitIds": ["sara-sara-no-mi-model-axolotl"],
+      "quotes": [
+        {
+          "text": "I simply condensed the toxic gas and, not wanting to be wasteful, compressed it into Slime!",
+          "speaker": "Caesar Clown",
+          "context": "Caesar explaining Smiley's creation"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [579, 581, 591],
+      "payoffInEpisodes": [599, 600],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep595-event-003",
+      "episodeNumber": 595,
+      "timestamp": "08:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Zoro, Sanji, and Brook Awaken from KYP Gas",
+      "description": "The trio regains consciousness after being knocked out by the Yeti Cool Brothers' KYP gas. They struggle to remember what happened and how they were defeated by the assassins.",
+      "significance": "Shows the aftermath of their encounter with the Yeti Cool Brothers and sets up their next objective of finding and rescuing the samurai.",
+      "characterIds": ["roronoa-zoro", "sanji", "brook"],
+      "locationIds": ["punk-hazard"],
+      "quotes": [
+        {
+          "text": "How did we get taken down so easily? I can barely remember what happened!",
+          "speaker": "Sanji",
+          "context": "The group trying to recall their defeat"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [593],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [593]
+    },
+    {
+      "id": "ep595-event-004",
+      "episodeNumber": 595,
+      "timestamp": "10:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Discovery of Kin'emon's Frozen Body",
+      "description": "Zoro, Sanji, and Brook find the samurai Kin'emon's legs and head frozen in the snow. Kin'emon explains that his torso is submerged in the saltwater lake, preventing him from swimming due to his Devil Fruit weakness.",
+      "significance": "Highlights the urgent situation and demonstrates how Devil Fruit users are helpless when submerged in water. Sets up the rescue mission for Kin'emon's torso.",
+      "characterIds": ["roronoa-zoro", "sanji", "brook", "kinemon"],
+      "locationIds": ["punk-hazard"],
+      "quotes": [
+        {
+          "text": "My ability prevents me from swimming, and right now it feels like my torso is underwater!",
+          "speaker": "Kin'emon",
+          "context": "Explaining his predicament to the Straw Hats"
+        },
+        {
+          "text": "If he can still feel it, then the sharks haven't eaten the torso yet. We don't have much time!",
+          "speaker": "Roronoa Zoro",
+          "context": "Reasoning about the urgency of the situation"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [591, 592],
+      "payoffInEpisodes": [596],
+      "callbacksToEpisodes": [591]
+    },
+    {
+      "id": "ep595-event-005",
+      "episodeNumber": 595,
+      "timestamp": "12:45",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MINOR",
+      "title": "Kin'emon's Changing Opinion of Pirates",
+      "description": "Despite his initial distrust of pirates, Kin'emon is moved by Sanji, Zoro, and Brook's willingness to help rescue his torso. He begins to reconsider his prejudices against pirates.",
+      "significance": "Marks the beginning of Kin'emon's alliance and friendship with the Straw Hat Pirates, showing character growth and breaking down his anti-pirate bias.",
+      "characterIds": ["kinemon", "sanji", "roronoa-zoro", "brook"],
+      "locationIds": ["punk-hazard"],
+      "quotes": [
+        {
+          "text": "Perhaps... I have been too harsh in my judgment of all pirates.",
+          "speaker": "Kin'emon",
+          "context": "Reflecting on the Straw Hats' generosity"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [591, 592],
+      "payoffInEpisodes": [597, 610],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep595-event-006",
+      "episodeNumber": 595,
+      "timestamp": "15:20",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "G-5 Marines Begin Frontal Assault",
+      "description": "Vice Admiral Smoker leads the G-5 Marines in a frontal assault on Caesar Clown's laboratory. However, they are still dealing with the body-swap situation between Smoker and Tashigi.",
+      "significance": "Initiates the multi-pronged attack on Caesar's lab and shows the challenges of fighting while in swapped bodies.",
+      "characterIds": ["smoker", "tashigi", "g5-marines"],
+      "locationIds": ["caesar-laboratory"],
+      "crewIds": ["g5-marines"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [594],
+      "payoffInEpisodes": [596, 597],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep595-event-007",
+      "episodeNumber": 595,
+      "timestamp": "16:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Tashigi Struggles with Smoker's Powers",
+      "description": "Tashigi, trapped in Smoker's body, attempts to use his smoke-based Devil Fruit abilities but struggles to control them effectively during combat.",
+      "significance": "Provides comedic relief while showing the difficulty of using another person's Devil Fruit powers, especially one as specialized as the Moku Moku no Mi.",
+      "characterIds": ["tashigi", "smoker"],
+      "locationIds": ["caesar-laboratory"],
+      "devilFruitIds": ["moku-moku-no-mi"],
+      "quotes": [
+        {
+          "text": "Why won't this smoke ability work the way I want it to?!",
+          "speaker": "Tashigi (in Smoker's body)",
+          "context": "Struggling to control Smoker's powers"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [594],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [594]
+    },
+    {
+      "id": "ep595-event-008",
+      "episodeNumber": 595,
+      "timestamp": "18:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Law and Chopper's Stealth Infiltration",
+      "description": "Trafalgar Law and Tony Tony Chopper navigate toward Caesar's laboratory from behind, attempting to find the drugs and capture their targets without being detected.",
+      "significance": "Shows the tactical side of the alliance's operation, contrasting with Luffy's more direct approach.",
+      "characterIds": ["trafalgar-law", "tony-tony-chopper"],
+      "locationIds": ["caesar-laboratory"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [594],
+      "payoffInEpisodes": [596, 597],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep595-event-009",
+      "episodeNumber": 595,
+      "timestamp": "20:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Luffy's Dramatic Entrance",
+      "description": "Luffy, Franky, and Robin crash-land at Caesar's laboratory entrance. Luffy boldly announces their plan to beat up and kidnap Caesar ('Master'), completely abandoning any pretense of stealth.",
+      "significance": "Marks the official beginning of the Pirate Alliance's operation and showcases Luffy's characteristic direct approach, much to Law's frustration. This moment defines the contrast between Law's strategic planning and Luffy's impulsive nature.",
+      "characterIds": ["monkey-d-luffy", "franky", "nico-robin"],
+      "locationIds": ["caesar-laboratory"],
+      "quotes": [
+        {
+          "text": "SHOW YOURSELF, MASTER! WE WILL KICK YOUR ASS AND KIDNAP YOU!",
+          "speaker": "Monkey D. Luffy",
+          "context": "Luffy's loud announcement at Caesar's lab entrance"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [594],
+      "payoffInEpisodes": [596, 597, 598],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep595-event-010",
+      "episodeNumber": 595,
+      "timestamp": "20:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Robin Uses Wing Technique",
+      "description": "Nico Robin demonstrates her post-timeskip Wing technique, using her Hana Hana no Mi powers to create wings and gracefully avoid the crash landing that Luffy and Franky experience.",
+      "significance": "First use of Robin's Wing ability in the anime, showcasing her enhanced control over her Devil Fruit powers after the two-year timeskip.",
+      "characterIds": ["nico-robin"],
+      "locationIds": ["caesar-laboratory"],
+      "devilFruitIds": ["hana-hana-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep595-event-011",
+      "episodeNumber": 595,
+      "timestamp": "21:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Law's Frustration with Luffy",
+      "description": "Trafalgar Law expresses extreme irritation at Luffy's conspicuous and loud entrance, which completely undermines the stealth aspect of their operation.",
+      "significance": "Highlights the fundamental difference in approach between the calculating Law and the impulsive Luffy, establishing a recurring theme in their alliance.",
+      "characterIds": ["trafalgar-law", "monkey-d-luffy"],
+      "locationIds": ["caesar-laboratory"],
+      "quotes": [
+        {
+          "text": "What is Straw Hat-ya doing?! This was supposed to be a covert operation!",
+          "speaker": "Trafalgar Law",
+          "context": "Reacting to Luffy's loud entrance"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [594],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep595-event-012",
+      "episodeNumber": 595,
+      "timestamp": "22:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "G-5 and Smoker's Surprise",
+      "description": "The G-5 Marines and Smoker are shocked to see Luffy and the Straw Hats arrive at Caesar's laboratory, not expecting to encounter them during their assault.",
+      "significance": "Sets up the complex three-way conflict between the Straw Hat-Heart Pirate alliance, Caesar's forces, and the Marines.",
+      "characterIds": ["smoker", "g5-marines", "monkey-d-luffy"],
+      "locationIds": ["caesar-laboratory"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [596, 597],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["wing"]
+  },
+  "episodeRelationships": {
+    "setupFor": [596, 597, 598],
+    "payoffFrom": [591, 592, 593, 594],
+    "thematicLinks": [579, 594, 600]
+  },
+  "quotes": [
+    {
+      "text": "SHOW YOURSELF, MASTER! WE WILL KICK YOUR ASS AND KIDNAP YOU!",
+      "speaker": "Monkey D. Luffy",
+      "context": "Luffy's dramatic announcement at Caesar's lab",
+      "timestamp": "20:15"
+    },
+    {
+      "text": "I simply condensed the toxic gas and, not wanting to be wasteful, compressed it into Slime!",
+      "speaker": "Caesar Clown",
+      "context": "Explaining Smiley's creation",
+      "timestamp": "05:20"
+    },
+    {
+      "text": "My ability prevents me from swimming, and right now it feels like my torso is underwater!",
+      "speaker": "Kin'emon",
+      "context": "Explaining his predicament",
+      "timestamp": "10:30"
+    },
+    {
+      "text": "What is Straw Hat-ya doing?! This was supposed to be a covert operation!",
+      "speaker": "Trafalgar Law",
+      "context": "Frustrated by Luffy's loud entrance",
+      "timestamp": "21:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Alliance and Cooperation",
+      "description": "The episode showcases different approaches to teamwork, from the Straw Hats helping Kin'emon despite his initial distrust, to the contrasting styles of Luffy and Law's alliance.",
+      "symbolism": "The multi-pronged attack on Caesar's lab represents different paths to the same goal.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Consequences of Ambition",
+      "description": "Caesar's flashback reveals how his unchecked scientific ambition led to mass casualties and the destruction of Punk Hazard.",
+      "symbolism": "Smiley represents the lasting consequences of Caesar's reckless experimentation.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Breaking Prejudices",
+      "description": "Kin'emon's changing perspective on pirates demonstrates how actions speak louder than preconceptions.",
+      "symbolism": "The Straw Hats' willingness to help a stranger challenges Kin'emon's anti-pirate bias.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Adventurous", "Tense", "Comedic", "Strategic"],
+  "characterSpotlights": [
+    {
+      "characterId": "monkey-d-luffy",
+      "role": "Alliance Leader",
+      "development": "Luffy demonstrates his characteristic direct approach, showing he hasn't changed his methods despite forming an alliance with the strategic Law.",
+      "keyActions": [
+        "Crash-lands at Caesar's laboratory",
+        "Loudly announces plan to capture Caesar",
+        "Frustrates Law with conspicuous entrance"
+      ],
+      "quotes": ["SHOW YOURSELF, MASTER! WE WILL KICK YOUR ASS AND KIDNAP YOU!"]
+    },
+    {
+      "characterId": "caesar-clown",
+      "role": "Antagonist",
+      "development": "Caesar's backstory is revealed, establishing him as a mad scientist who caused the Punk Hazard disaster and continues dangerous experiments.",
+      "keyActions": [
+        "Reveals the truth about Smiley's creation",
+        "Flashback shows his chemical weapon detonation",
+        "Explains his return to Punk Hazard"
+      ],
+      "quotes": ["I simply condensed the toxic gas and, not wanting to be wasteful, compressed it into Slime!"]
+    },
+    {
+      "characterId": "kinemon",
+      "role": "Rescued Ally",
+      "development": "Kin'emon begins to overcome his prejudice against pirates as he witnesses the Straw Hats' kindness firsthand.",
+      "keyActions": [
+        "Found frozen in the snow",
+        "Explains his torso is in the lake",
+        "Begins to trust the Straw Hats"
+      ],
+      "quotes": ["My ability prevents me from swimming, and right now it feels like my torso is underwater!"]
+    },
+    {
+      "characterId": "trafalgar-law",
+      "role": "Strategic Planner",
+      "development": "Law's careful planning is immediately disrupted by Luffy's impulsive nature, foreshadowing challenges in their alliance.",
+      "keyActions": [
+        "Infiltrates with Chopper from behind",
+        "Reacts with frustration to Luffy's entrance"
+      ],
+      "quotes": ["What is Straw Hat-ya doing?! This was supposed to be a covert operation!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime expanded Caesar's flashback with additional scenes of the explosion and its immediate aftermath, showing more detail about the disaster than the manga.",
+      "episodeTimestamp": "03:45",
+      "mangaReference": "Chapter 669",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "Extended scenes of Zoro, Sanji, and Brook recovering from the KYP gas and their conversation with Kin'emon.",
+      "episodeTimestamp": "08:15",
+      "mangaReference": "Chapter 669",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "Additional comedy moments with Tashigi struggling to control Smoker's smoke powers.",
+      "episodeTimestamp": "16:45",
+      "mangaReference": "Chapter 669",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode adapts Chapter 669 of the manga, which was titled 'Commence Operation' in the official English translation.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_595",
+          "title": "Episode 595 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-04"
+        }
+      ]
+    },
+    {
+      "fact": "Robin's Wing technique makes its first appearance in the anime in this episode, though she had already used it in the manga post-timeskip.",
+      "category": "ABILITIES",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chapter_669",
+          "title": "Chapter 669 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-04"
+        }
+      ]
+    },
+    {
+      "fact": "The episode aired on May 12, 2013 in Japan, and was simulcast on May 11, 2013 for international audiences.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_595",
+          "title": "Episode 595 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-04"
+        }
+      ]
+    },
+    {
+      "fact": "Ryūsei Nakao, who voices Caesar Clown, is famous for voicing Frieza in Dragon Ball Z, bringing similar manic energy to both villainous characters.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://www.behindthevoiceactors.com/tv-shows/One-Piece/Caesar-Clown/",
+          "title": "Caesar Clown Voice - One Piece",
+          "platform": "Behind The Voice Actors",
+          "accessedAt": "2026-01-04"
+        }
+      ]
+    },
+    {
+      "fact": "Pandaman makes a cameo appearance in this episode fighting with the G-5 Marines, continuing his tradition of appearing in nearly every episode.",
+      "category": "EASTER_EGGS",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chapter_669",
+          "title": "Chapter 669 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-04"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

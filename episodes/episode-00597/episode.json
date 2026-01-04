@@ -1,0 +1,557 @@
+{
+  "episodeNumber": 597,
+  "episodeTitle": "An Intense Battle! Caesar Exercises His True Power!",
+  "episodeTitleJapanese": "大激戦 シーザー真の能力発動！",
+  "episodeTitleRomanized": "Dai-Gekisen - Shīzā Shin no Nōryoku Hatsudō!",
+  "description": "Luffy battles Caesar Clown, who demonstrates his deadly gas-based abilities. Meanwhile, Law encounters Vergo and suffers a devastating defeat. Sanji rescues Kin'emon's torso, and the samurai reveals his Foxfire Style abilities to cut through fire.",
+  "airDate": "2013-05-26",
+  "airDateJapan": "2013-05-26",
+  "airDateUS": "2013-05-25",
+  "arcName": "Punk Hazard Arc",
+  "sagaName": "Pirate Alliance Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Hands Up!",
+    "artist": "Kōta Shinzato",
+    "episodeRange": [591, 628]
+  },
+  "endingSong": null,
+  "credits": {
+    "writer": "Yoshiyuki Suga",
+    "artDirector": "Ryūji Yoshiike",
+    "keyAnimators": ["Yukiko Nakatani", "Shingo Fujisaki"],
+    "director": "Aya Komaki",
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Caesar Clown",
+        "actor": "Ryūsei Nakao"
+      },
+      {
+        "character": "Trafalgar Law",
+        "actor": "Hiroshi Kamiya"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Brook",
+        "actor": "Chō"
+      },
+      {
+        "character": "Smoker",
+        "actor": "Mahito Ōba"
+      },
+      {
+        "character": "Tashigi",
+        "actor": "Junko Noda"
+      },
+      {
+        "character": "Kin'emon",
+        "actor": "Ken'yū Horiuchi"
+      },
+      {
+        "character": "Vergo",
+        "actor": "Jūrōta Kosugi"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Caesar Clown",
+        "actor": "Jerry Jewell"
+      },
+      {
+        "character": "Trafalgar Law",
+        "actor": "Matthew Mercer"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep597-event-001",
+      "episodeNumber": 597,
+      "timestamp": "04:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Luffy vs Caesar Battle Begins",
+      "description": "Luffy engages Caesar Clown in direct combat, using Armament Haki to grab the Logia user in his intangible gas form. The battle showcases Caesar's deadly gas-based abilities.",
+      "significance": "First major confrontation between Luffy and Caesar, demonstrating both fighters' capabilities and establishing Caesar as a formidable opponent.",
+      "characterIds": ["luffy", "caesar-clown"],
+      "locationIds": ["punk-hazard-laboratory-exterior"],
+      "devilFruitIds": ["gomu-gomu-no-mi", "gasu-gasu-no-mi"],
+      "quotes": [
+        {
+          "text": "Don't underestimate me!",
+          "speaker": "Caesar Clown",
+          "context": "Caesar defending his strength as a scientist and Devil Fruit user"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [596],
+      "payoffInEpisodes": [607],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep597-event-002",
+      "episodeNumber": 597,
+      "timestamp": "06:15",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Luffy's Poison Immunity Revealed",
+      "description": "Luffy reveals that poison doesn't work well on him anymore, having developed immunity during his ordeal with Magellan in Impel Down. Caesar's poisonous gas attacks prove ineffective.",
+      "significance": "Callback to Luffy's Impel Down experience and demonstrates character growth through past hardships. This immunity becomes crucial in fighting Caesar.",
+      "characterIds": ["luffy", "caesar-clown"],
+      "devilFruitIds": ["gasu-gasu-no-mi"],
+      "quotes": [
+        {
+          "text": "Poisons don't work well on me anymore!",
+          "speaker": "Luffy",
+          "context": "Explaining his immunity developed from Magellan's poison"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [438, 439],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [438, 439]
+    },
+    {
+      "id": "ep597-event-003",
+      "episodeNumber": 597,
+      "timestamp": "08:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Caesar Uses Gas Robe Attack",
+      "description": "Caesar Clown demonstrates his Gas Robe technique, generating clouds of poisonous gas and sending them towards enemies. Despite the attack's lethality, it proves ineffective against Luffy's poison immunity.",
+      "significance": "First showcase of Caesar's signature gas-manipulation combat technique.",
+      "characterIds": ["caesar-clown", "luffy"],
+      "devilFruitIds": ["gasu-gasu-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep597-event-004",
+      "episodeNumber": 597,
+      "timestamp": "10:20",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Caesar's Gastanet Explosion",
+      "description": "Caesar fills a pair of castanets with unstable gas and slams them together, creating a massive explosion. He orders Smiley pieces to attach to Luffy, causing a blinding explosion.",
+      "significance": "Demonstrates Caesar's ability to weaponize gas in creative ways, combining sound with explosive chemical reactions.",
+      "characterIds": ["caesar-clown", "luffy"],
+      "devilFruitIds": ["gasu-gasu-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep597-event-005",
+      "episodeNumber": 597,
+      "timestamp": "12:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Luffy Collapses - Caesar's Hidden Ability",
+      "description": "After appearing to gain the upper hand, Luffy spontaneously collapses without warning. Caesar reveals he has lethal abilities beyond his visible gas attacks, shocking observers who thought Luffy was winning.",
+      "significance": "Major turning point in the battle showing Caesar is more dangerous than expected. Demonstrates that even with poison immunity, Luffy is vulnerable to Caesar's oxygen manipulation.",
+      "characterIds": ["luffy", "caesar-clown", "robin", "franky"],
+      "devilFruitIds": ["gasu-gasu-no-mi"],
+      "quotes": [
+        {
+          "text": "Don't underestimate me!",
+          "speaker": "Caesar Clown",
+          "context": "As Luffy falls, Caesar reveals his true power"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [607],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep597-event-006",
+      "episodeNumber": 597,
+      "timestamp": "14:00",
+      "eventType": "BATTLE_END",
+      "severity": "CRITICAL",
+      "title": "Caesar Defeats Multiple Opponents",
+      "description": "Caesar Clown systematically defeats five major characters—Luffy, Robin, Franky, Smoker, and Tashigi—without physically touching them, using his gas powers to incapacitate them all. He orders them restrained with seastone.",
+      "significance": "Establishes Caesar as a genuinely formidable threat capable of defeating multiple powerful fighters simultaneously. Shows the versatility and lethality of the Gasu Gasu no Mi.",
+      "characterIds": ["caesar-clown", "luffy", "robin", "franky", "smoker", "tashigi"],
+      "devilFruitIds": ["gasu-gasu-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [607],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep597-event-007",
+      "episodeNumber": 597,
+      "timestamp": "15:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "CRITICAL",
+      "title": "Vergo Appears Before Law",
+      "description": "Trafalgar Law encounters a mysterious figure in the laboratory who he recognizes. The figure reveals himself as Vergo, greeting Law familiarly while noting how much he has grown.",
+      "significance": "Vergo's introduction (though shadowed) sets up a major antagonist with a past connection to Law. This encounter reveals the deeper conspiracy at Punk Hazard.",
+      "characterIds": ["trafalgar-law", "vergo", "monet"],
+      "locationIds": ["punk-hazard-laboratory"],
+      "quotes": [
+        {
+          "text": "You've grown, Law.",
+          "speaker": "Vergo",
+          "context": "Vergo's first words to Law, implying their shared history"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [610, 611],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep597-event-008",
+      "episodeNumber": 597,
+      "timestamp": "16:45",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Vergo's Connection to Law Revealed",
+      "description": "Vergo reveals he knows Law personally from the past. He explains that he and Monet were sent as spies to Punk Hazard because of distrust of Caesar Clown, revealing a deeper conspiracy.",
+      "significance": "Establishes that Vergo and Law have a shared history, and reveals the existence of a larger organization (Doflamingo's crew) manipulating events at Punk Hazard.",
+      "characterIds": ["vergo", "trafalgar-law", "monet"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [610, 627],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep597-event-009",
+      "episodeNumber": 597,
+      "timestamp": "17:30",
+      "eventType": "BATTLE_START",
+      "severity": "CRITICAL",
+      "title": "Law vs Vergo - Law's Defeat",
+      "description": "Law desperately attempts to fight Vergo but is instantly defeated. Vergo's overwhelming strength and haki abilities prove too much for Law, who is already weakened.",
+      "significance": "Demonstrates Vergo's immense power and establishes him as a serious threat. Shows Law's vulnerability when separated from his heart.",
+      "characterIds": ["trafalgar-law", "vergo"],
+      "locationIds": ["punk-hazard-laboratory"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [610],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep597-event-010",
+      "episodeNumber": 597,
+      "timestamp": "19:00",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Smiley and Shinokuni Explained",
+      "description": "Caesar explains that Smiley is capable of recreating the chemical explosion that devastated Punk Hazard four years ago. Zoro, Sanji, Brook, and Kin'emon see the massive slime creature approaching.",
+      "significance": "Reveals the true danger of Caesar's experiment and the threat Smiley poses to everyone on the island. Sets up the race against time to escape Shinokuni.",
+      "characterIds": ["caesar-clown", "zoro", "sanji", "brook"],
+      "locationIds": ["punk-hazard"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [596],
+      "payoffInEpisodes": [598, 599],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep597-event-011",
+      "episodeNumber": 597,
+      "timestamp": "20:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Sanji's Heroic Dive for Kin'emon",
+      "description": "Sanji dives into a poisonous, freezing lake to rescue Kin'emon's severed torso from being eaten by a shark. Despite the extreme cold and toxic conditions, he successfully retrieves the body using his Joue Shoot technique.",
+      "significance": "Demonstrates Sanji's selfless heroism and introduces his underwater mobility technique. Shows his growth since the timeskip.",
+      "characterIds": ["sanji", "kinemon"],
+      "locationIds": ["punk-hazard"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [596],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep597-event-012",
+      "episodeNumber": 597,
+      "timestamp": "21:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Sanji's Blue Walk Debut",
+      "description": "Sanji uses Blue Walk, a technique that allows him to run on water surfaces, to escape the poisonous lake as it becomes entirely toxic. This showcases his post-timeskip abilities.",
+      "significance": "First appearance of Sanji's Blue Walk technique, demonstrating his underwater combat capabilities learned during the two-year training period.",
+      "characterIds": ["sanji"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep597-event-013",
+      "episodeNumber": 597,
+      "timestamp": "22:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Kin'emon Fully Revealed and Named",
+      "description": "The samurai, now fully reconstructed with his torso reunited with his legs and head, formally introduces himself as Kin'emon of Foxfire from Kuri in Wano Country.",
+      "significance": "First formal introduction of Kin'emon, one of the most important characters in the Wano storyline. Establishes his origin from Wano Country.",
+      "characterIds": ["kinemon", "zoro", "sanji", "brook"],
+      "locationIds": ["punk-hazard"],
+      "quotes": [
+        {
+          "text": "My name is Kin'emon!",
+          "speaker": "Kin'emon",
+          "context": "Kin'emon's formal self-introduction after being fully reassembled"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [591, 592, 596],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep597-event-014",
+      "episodeNumber": 597,
+      "timestamp": "22:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Foxfire Style Demonstrated",
+      "description": "Kin'emon demonstrates his Foxfire Style swordsmanship, a technique that allows him to cut through fire itself. He uses it to destroy parts of Smiley's slime body, protecting the group.",
+      "significance": "Introduction of the Foxfire Style, a legendary Wano sword technique. This ability becomes important for dealing with fire-based threats and later influences Zoro's techniques.",
+      "characterIds": ["kinemon", "zoro"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep597-event-015",
+      "episodeNumber": 597,
+      "timestamp": "23:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Zoro Offers to Help Kin'emon",
+      "description": "Impressed by Kin'emon's Foxfire Style, Zoro expresses interest in the fighting technique and volunteers to help the samurai rescue his son from the laboratory.",
+      "significance": "Establishes the bond between Zoro and Kin'emon, setting up their partnership. Shows Zoro's respect for skilled swordsmen and foreshadows his later interest in Wano techniques.",
+      "characterIds": ["zoro", "kinemon"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["vergo"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["gas-robe", "gastanet", "blue-walk", "foxfire-style"]
+  },
+  "episodeRelationships": {
+    "setupFor": [598, 599, 607, 610],
+    "payoffFrom": [596],
+    "thematicLinks": [438, 439, 610, 627]
+  },
+  "quotes": [
+    {
+      "text": "Don't underestimate me!",
+      "speaker": "Caesar Clown",
+      "context": "Caesar asserting his power as Luffy falls",
+      "timestamp": "12:30"
+    },
+    {
+      "text": "Poisons don't work well on me anymore!",
+      "speaker": "Luffy",
+      "context": "Revealing his immunity from Impel Down",
+      "timestamp": "06:15"
+    },
+    {
+      "text": "You've grown, Law.",
+      "speaker": "Vergo",
+      "context": "Vergo's first words upon encountering Law",
+      "timestamp": "15:30"
+    },
+    {
+      "text": "My name is Kin'emon!",
+      "speaker": "Kin'emon",
+      "context": "Formal introduction after being fully reassembled",
+      "timestamp": "22:00"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Hidden Strengths and Deception",
+      "description": "The episode explores how appearances can be deceiving. Caesar, initially appearing as a weak scientist, proves formidable. Vergo's reveal as a spy shows the hidden threats.",
+      "symbolism": "Caesar's gas powers represent unseen dangers - threats that can't be easily detected or defended against.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Past Consequences Shape Present",
+      "description": "Luffy's poison immunity from Impel Down saves him temporarily. Law's past with Vergo comes back to haunt him. Past experiences define current capabilities.",
+      "symbolism": "The connection between characters' histories and their present struggles.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Honor and Duty",
+      "description": "Kin'emon's determination to save his son, Sanji's selfless rescue attempt, and Zoro's respect for skilled swordsmen all demonstrate the importance of honor.",
+      "symbolism": "The samurai culture represented by Kin'emon embodies traditional values of duty and honor.",
+      "culturalReferences": ["Japanese samurai culture and bushido"]
+    }
+  ],
+  "emotionalTone": ["Intense", "Shocking", "Dramatic", "Suspenseful"],
+  "characterSpotlights": [
+    {
+      "characterId": "caesar-clown",
+      "role": "Primary antagonist",
+      "development": "Caesar is revealed to be far more dangerous than expected, systematically defeating multiple powerful fighters and demonstrating his Gasu Gasu no Mi abilities.",
+      "keyActions": [
+        "Uses Gas Robe and Gastanet techniques",
+        "Defeats Luffy, Robin, Franky, Smoker, and Tashigi",
+        "Demonstrates oxygen manipulation abilities",
+        "Explains Smiley's destructive potential"
+      ],
+      "quotes": ["Don't underestimate me!"]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Protagonist in peril",
+      "development": "Luffy shows his growth through poison immunity but learns Caesar's abilities go beyond simple poisonous gas, leading to his defeat.",
+      "keyActions": [
+        "Battles Caesar using Armament Haki",
+        "Demonstrates poison immunity from Impel Down",
+        "Collapses from Caesar's oxygen manipulation"
+      ],
+      "quotes": ["Poisons don't work well on me anymore!"]
+    },
+    {
+      "characterId": "kinemon",
+      "role": "Ally introduction",
+      "development": "Kin'emon is fully revealed and introduces himself, demonstrating his Foxfire Style abilities and establishing himself as a capable warrior from Wano.",
+      "keyActions": [
+        "Reunited with his torso",
+        "Introduces himself formally",
+        "Demonstrates Foxfire Style",
+        "Cuts through Smiley's slime"
+      ],
+      "quotes": ["My name is Kin'emon!"]
+    },
+    {
+      "characterId": "vergo",
+      "role": "Antagonist introduction",
+      "development": "Vergo is introduced as a mysterious figure with connections to Law's past, immediately establishing himself as a powerful threat by defeating Law.",
+      "keyActions": [
+        "Appears before Law in the laboratory",
+        "Reveals connection to Law's past",
+        "Defeats Law instantly",
+        "Reveals spy mission with Monet"
+      ],
+      "quotes": ["You've grown, Law."]
+    },
+    {
+      "characterId": "sanji",
+      "role": "Supporting hero",
+      "development": "Sanji demonstrates his post-timeskip abilities and selfless nature through his dangerous rescue mission.",
+      "keyActions": [
+        "Dives into poisonous lake",
+        "Rescues Kin'emon's torso from shark",
+        "Uses Blue Walk technique to escape"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended some of the battle sequences between Luffy and Caesar for dramatic effect.",
+      "episodeTimestamp": "10:00",
+      "mangaReference": "Chapter 671",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "Additional reactions from Robin and Franky watching the battle were added in the anime.",
+      "episodeTimestamp": "11:00",
+      "mangaReference": "Chapter 671",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode adapts chapters 671-672 of the manga, titled 'Gasu Gasu no Mi' and 'My Name is Kin'emon!!'",
+      "category": "MANGA_ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_597",
+          "title": "Episode 597 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-04"
+        }
+      ]
+    },
+    {
+      "fact": "Caesar Clown's voice actor, Ryūsei Nakao, is famous for voicing Frieza in Dragon Ball Z, another arrogant and ruthless villain.",
+      "category": "VOICE_ACTING",
+      "sources": []
+    },
+    {
+      "fact": "This episode marks the first full appearance and introduction of Vergo, who becomes a major antagonist in the Punk Hazard arc.",
+      "category": "CHARACTER",
+      "sources": []
+    },
+    {
+      "fact": "The episode achieved an 8.6% TV rating in Japan, ranking 6th in its timeslot.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_597",
+          "title": "Episode 597 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-04"
+        }
+      ]
+    },
+    {
+      "fact": "Sanji's Blue Walk technique shown in this episode is an adaptation of the Fish-Man Karate principle, allowing him to treat water like a tangible surface.",
+      "category": "ABILITY",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
