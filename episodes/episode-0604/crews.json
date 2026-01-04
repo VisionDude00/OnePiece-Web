@@ -1,0 +1,104 @@
+[
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "luffy",
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [604],
+    "keyMoments": [
+      {
+        "episodeNumber": 604,
+        "eventId": "ep604-event-001",
+        "momentType": "BATTLE_START",
+        "title": "Break Into Laboratory",
+        "description": "The Straw Hats successfully breach the laboratory facility to escape the Shinokuni gas.",
+        "significance": "The crew takes action to escape Caesar's trap and continue their mission.",
+        "timestamp": "03:15"
+      },
+      {
+        "episodeNumber": 604,
+        "eventId": "ep604-event-009",
+        "momentType": "CULTURAL_MOMENT",
+        "title": "Alliance Cooperation",
+        "description": "The Straw Hats work alongside Law and the G-5 Marines in an unusual pirate-marine alliance.",
+        "significance": "Demonstrates the crew's ability to form strategic alliances when goals align.",
+        "timestamp": "21:30"
+      }
+    ],
+    "relationships": {
+      "allies": ["heart-pirates", "g5-marines"],
+      "enemies": ["caesar-clown-subordinates"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Heart Pirates",
+      "japanese": "ハートの海賊団",
+      "romanized": "Hāto no Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "law",
+    "debutEpisode": 392,
+    "debutChapter": 498,
+    "episodeAppearances": [604],
+    "keyMoments": [
+      {
+        "episodeNumber": 604,
+        "eventId": "ep604-event-003",
+        "momentType": "MAJOR_DECISION",
+        "title": "Law Reveals Escape Plan",
+        "description": "Law coordinates the alliance's escape through Building R-66.",
+        "significance": "Law demonstrates strategic leadership in the pirate-marine alliance.",
+        "timestamp": "07:45"
+      }
+    ],
+    "relationships": {
+      "allies": ["straw-hat-pirates", "g5-marines"],
+      "enemies": ["caesar-clown-subordinates", "donquixote-pirates"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "G-5 Marines",
+      "japanese": "G-5支部",
+      "romanized": "Jī Faibu Shibu"
+    },
+    "crewType": "MARINE_UNIT",
+    "captainId": "smoker",
+    "debutEpisode": 579,
+    "debutChapter": 655,
+    "episodeAppearances": [604],
+    "keyMoments": [
+      {
+        "episodeNumber": 604,
+        "eventId": "ep604-event-002",
+        "momentType": "WORLD_LORE",
+        "title": "Seal Laboratory Breach",
+        "description": "The G-5 Marines work desperately to seal the hole and prevent gas infiltration.",
+        "significance": "Shows the loyalty and determination of the G-5 unit.",
+        "timestamp": "05:30"
+      },
+      {
+        "episodeNumber": 604,
+        "eventId": "ep604-event-009",
+        "momentType": "CULTURAL_MOMENT",
+        "title": "Alliance with Pirates",
+        "description": "The G-5 Marines cooperate with the Straw Hats and Law to survive and protect the children.",
+        "significance": "Demonstrates that the G-5 Marines prioritize saving innocents over traditional faction rivalry.",
+        "timestamp": "21:30"
+      }
+    ],
+    "relationships": {
+      "allies": ["straw-hat-pirates", "heart-pirates"],
+      "enemies": ["caesar-clown-subordinates"],
+      "parentOrganization": "marines"
+    }
+  }
+]

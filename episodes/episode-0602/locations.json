@@ -1,0 +1,124 @@
+[
+  {
+    "name": {
+      "english": "Punk Hazard",
+      "japanese": "パンクハザード",
+      "romanized": "Panku Hazādo"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 579,
+    "debutChapter": 654,
+    "description": "A former government research facility island that was devastated by Caesar Clown's gas weapon experiment four years ago, leaving it split between a burning side and a frozen side. In this episode, it becomes the stage for the deadly Shinokuni weapon demonstration.",
+    "episodeAppearances": [602],
+    "keyEvents": [
+      {
+        "episodeNumber": 602,
+        "eventId": "ep602-event-001",
+        "eventType": "WORLD_LORE",
+        "title": "Caesar Reveals Punk Hazard's Destruction",
+        "description": "Caesar narrates how he killed Punk Hazard four years ago using the H2S gas bomb, revealing the island's tragic history.",
+        "significance": "Reveals the dark origins of Punk Hazard's current state and establishes Caesar as the architect of its destruction.",
+        "timestamp": "02:30"
+      },
+      {
+        "episodeNumber": 602,
+        "eventId": "ep602-event-003",
+        "eventType": "DEATH",
+        "title": "Death of Smiley",
+        "description": "Smiley dies on Punk Hazard, transforming into the deadly Shinokuni gas that spreads across the island.",
+        "significance": "The island becomes a death trap as Shinokuni spreads, forcing all inhabitants to flee or risk petrification.",
+        "timestamp": "07:45"
+      },
+      {
+        "episodeNumber": 602,
+        "eventId": "ep602-event-005",
+        "eventType": "POWER_REVEAL",
+        "title": "Shinokuni Weapon Unleashed",
+        "description": "The Shinokuni gas spreads across Punk Hazard, petrifying everything in its path and creating a zone of death.",
+        "significance": "Transforms the island into an active war zone where the deadly gas threatens all life.",
+        "timestamp": "09:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "DESTROYED",
+        "episodeStart": null,
+        "episodeEnd": 579,
+        "reason": "Island was devastated by Caesar's H2S gas experiment four years before the current events"
+      },
+      {
+        "status": "ACTIVE",
+        "episodeStart": 579,
+        "episodeEnd": "present",
+        "reason": "Island is currently inhabited by Caesar Clown and his subordinates, as well as the Straw Hat Pirates"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["punk-hazard-laboratory"],
+    "relatedCharacters": ["caesar-clown", "luffy", "law", "smoker"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Punk Hazard"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Punk Hazard Laboratory",
+      "japanese": "パンクハザード研究所",
+      "romanized": "Panku Hazādo Kenkyūjo"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 579,
+    "debutChapter": 654,
+    "description": "Caesar Clown's main research laboratory on Punk Hazard, where he conducts his experiments and houses his subordinates. It serves as the refuge point for the Straw Hats fleeing from Shinokuni.",
+    "episodeAppearances": [602],
+    "keyEvents": [
+      {
+        "episodeNumber": 602,
+        "eventId": "ep602-event-009",
+        "eventType": "MAJOR_DECISION",
+        "title": "Lab Shutters Begin to Close",
+        "description": "The iron shutters of the laboratory begin closing as the Straw Hats approach, threatening to trap them outside with the Shinokuni gas.",
+        "significance": "Creates a tense race against time for the heroes to reach safety.",
+        "timestamp": "18:45"
+      },
+      {
+        "episodeNumber": 602,
+        "eventId": "ep602-event-010",
+        "eventType": "TECHNIQUE_DEBUT",
+        "title": "Kin'emon and Zoro Cut Through Iron Shutters",
+        "description": "Kin'emon and Zoro work together to slice through the heavy iron shutters blocking the entrance.",
+        "significance": "Enables the group's entry into the laboratory and safety from Shinokuni.",
+        "timestamp": "20:15"
+      },
+      {
+        "episodeNumber": 602,
+        "eventId": "ep602-event-011",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "All Allies Reach the Laboratory",
+        "description": "All of the Straw Hats and their allies successfully make it inside Caesar's laboratory just before the Shinokuni gas reaches them.",
+        "significance": "Marks the end of the escape sequence and sets up the next phase of confrontation with Caesar.",
+        "timestamp": "21:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 579,
+        "episodeEnd": "present",
+        "reason": "Laboratory is operational and serves as Caesar's base of operations"
+      }
+    ],
+    "parentLocation": "punk-hazard",
+    "childLocations": [],
+    "relatedCharacters": ["caesar-clown", "luffy", "law"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Punk Hazard"],
+    "images": []
+  }
+]

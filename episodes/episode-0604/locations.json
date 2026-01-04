@@ -1,0 +1,100 @@
+[
+  {
+    "name": {
+      "english": "Punk Hazard Laboratory",
+      "japanese": "パンクハザード研究所",
+      "romanized": "Panku Hazādo Kenkyūjo"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 579,
+    "debutChapter": 655,
+    "description": "Caesar Clown's research facility on Punk Hazard, consisting of multiple buildings connected by passages. The laboratory is where Caesar conducts his illegal experiments and weapons development.",
+    "episodeAppearances": [604],
+    "keyEvents": [
+      {
+        "episodeNumber": 604,
+        "eventId": "ep604-event-001",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Straw Hats Break Into Laboratory",
+        "description": "The protagonists breach the laboratory wall to escape the Shinokuni gas, creating a hole that ironically allows the gas to enter.",
+        "significance": "The laboratory becomes the main setting for the escape and confrontation sequences.",
+        "timestamp": "03:15"
+      },
+      {
+        "episodeNumber": 604,
+        "eventId": "ep604-event-002",
+        "eventType": "WORLD_LORE",
+        "title": "G-5 Marines Seal the Breach",
+        "description": "The G-5 Marines work to seal the hole in the laboratory to prevent gas infiltration.",
+        "significance": "Shows the facility's vulnerability to the deadly gas outside.",
+        "timestamp": "05:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 604,
+        "episodeEnd": "present",
+        "reason": "Facility operational during episode"
+      }
+    ],
+    "parentLocation": "punk-hazard",
+    "childLocations": ["building-r"],
+    "relatedCharacters": ["caesar-clown", "luffy", "law", "smoker", "tashigi", "vergo", "monet"],
+    "relatedCrews": ["straw-hat-pirates", "heart-pirates", "marines"],
+    "relatedArcs": ["Punk Hazard Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Building R",
+      "japanese": "R棟",
+      "romanized": "Āru-tō"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 604,
+    "debutChapter": 678,
+    "description": "A section of the Punk Hazard laboratory that contains the R-66 passage, a transport tunnel that leads directly to the sea. This building serves as the escape route from Caesar's facility.",
+    "episodeAppearances": [604],
+    "keyEvents": [
+      {
+        "episodeNumber": 604,
+        "eventId": "ep604-event-003",
+        "eventType": "WORLD_LORE",
+        "title": "Law Reveals Building R as Escape Route",
+        "description": "Law directs everyone to find the door marked 'R Building 66' as their only safe escape from the facility.",
+        "significance": "Establishes Building R as the critical objective for all protagonists.",
+        "timestamp": "07:45"
+      },
+      {
+        "episodeNumber": 604,
+        "eventId": "ep604-event-008",
+        "eventType": "WORLD_LORE",
+        "title": "Caesar Orders Passage to Building R Sealed",
+        "description": "Caesar attempts to prevent the protagonists from reaching Building R by sealing the passage and releasing gas.",
+        "significance": "Creates the major obstacle and urgency for reaching the escape route.",
+        "timestamp": "19:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 604,
+        "episodeEnd": "present",
+        "reason": "Building revealed as escape route"
+      }
+    ],
+    "parentLocation": "punk-hazard-laboratory",
+    "childLocations": [],
+    "relatedCharacters": ["law", "luffy", "smoker", "tashigi", "caesar-clown"],
+    "relatedCrews": ["straw-hat-pirates", "heart-pirates", "marines"],
+    "relatedArcs": ["Punk Hazard Arc"],
+    "images": []
+  }
+]

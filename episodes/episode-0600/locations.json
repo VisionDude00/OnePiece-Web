@@ -1,0 +1,153 @@
+[
+  {
+    "name": {
+      "english": "Punk Hazard - Ruined Lab",
+      "japanese": "パンクハザード - 廃墟の研究所",
+      "romanized": "Panku Hazādo - Haikyo no Kenkyūjo"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 579,
+    "debutChapter": 655,
+    "description": "The ruined section of Caesar's laboratory on Punk Hazard where Nami and Usopp attempt to protect the children from Caesar.",
+    "episodeAppearances": [600],
+    "keyEvents": [
+      {
+        "episodeNumber": 600,
+        "eventId": "ep600-event-001",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Caesar Arrives at Ruined Lab",
+        "description": "Caesar arrives to retrieve the children from Nami and Usopp.",
+        "significance": "The location of the main confrontation of the episode.",
+        "timestamp": "04:30"
+      },
+      {
+        "episodeNumber": 600,
+        "eventId": "ep600-event-002",
+        "eventType": "POWER_REVEAL",
+        "title": "Caesar Demonstrates Oxygen Removal",
+        "description": "Caesar suffocates Nami and Usopp by removing oxygen from the air.",
+        "significance": "Shows the danger of fighting Caesar in an enclosed space.",
+        "timestamp": "07:15"
+      },
+      {
+        "episodeNumber": 600,
+        "eventId": "ep600-event-004",
+        "eventType": "MAJOR_DECISION",
+        "title": "Brownbeard's Intervention",
+        "description": "Brownbeard appears to save Nami and Usopp and confront Caesar.",
+        "significance": "The ruined lab becomes the site of Brownbeard's turning point.",
+        "timestamp": "11:20"
+      },
+      {
+        "episodeNumber": 600,
+        "eventId": "ep600-event-006",
+        "eventType": "BATTLE_END",
+        "title": "Caesar Defeats the Straw Hats",
+        "description": "Caesar uses Gastanet to knock out Nami and Usopp, securing the children.",
+        "significance": "Caesar successfully captures the children from this location.",
+        "timestamp": "14:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [],
+    "parentLocation": "punk-hazard",
+    "childLocations": [],
+    "relatedCharacters": ["caesar-clown", "nami", "usopp", "brownbeard"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Punk Hazard"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Punk Hazard - Ice Lands",
+      "japanese": "パンクハザード - 氷の大地",
+      "romanized": "Panku Hazādo - Kōri no Daichi"
+    },
+    "locationType": "ISLAND_REGION",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 579,
+    "debutChapter": 655,
+    "description": "The frozen half of Punk Hazard where Zoro's group flees from Smiley, which converges and begins its transformation into Shinokuni.",
+    "episodeAppearances": [600],
+    "keyEvents": [
+      {
+        "episodeNumber": 600,
+        "eventId": "ep600-event-007",
+        "eventType": "BATTLE_START",
+        "title": "Zoro's Group Flees from Smiley",
+        "description": "Zoro, Sanji, Brook, and Kin'emon continue running from Smiley as it converges on the ice lands.",
+        "significance": "The ice lands become the site of Smiley's transformation.",
+        "timestamp": "06:00"
+      },
+      {
+        "episodeNumber": 600,
+        "eventId": "ep600-event-008",
+        "eventType": "MAJOR_DECISION",
+        "title": "Smiley Eats the Giant Candy",
+        "description": "Smiley swallows the giant candy placed on the ice lands.",
+        "significance": "The catalyst for Smiley's transformation into Shinokuni is consumed here.",
+        "timestamp": "08:30"
+      },
+      {
+        "episodeNumber": 600,
+        "eventId": "ep600-event-009",
+        "eventType": "WORLD_LORE",
+        "title": "Smiley's Transformation Begins",
+        "description": "Smiley begins dissolving into deadly petrifying gas on the ice lands.",
+        "significance": "The ice lands become ground zero for the Shinokuni threat.",
+        "timestamp": "10:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [],
+    "parentLocation": "punk-hazard",
+    "childLocations": [],
+    "relatedCharacters": ["zoro", "sanji", "brook", "kinemon"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Punk Hazard"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Caesar's Airship",
+      "japanese": "シーザーの飛行船",
+      "romanized": "Shīzā no Hikōsen"
+    },
+    "locationType": "SHIP",
+    "seaRegion": "NEW_WORLD",
+    "islandName": null,
+    "debutEpisode": 600,
+    "debutChapter": 674,
+    "description": "Caesar Clown's airship from which he boards the children and broadcasts his weapons demonstration to underworld brokers across the New World.",
+    "episodeAppearances": [600],
+    "keyEvents": [
+      {
+        "episodeNumber": 600,
+        "eventId": "ep600-event-010",
+        "eventType": "WORLD_LORE",
+        "title": "Caesar's Broadcast to New World Brokers",
+        "description": "Caesar broadcasts his weapons demonstration announcement from his airship.",
+        "significance": "The airship serves as Caesar's mobile command center for the demonstration.",
+        "timestamp": "16:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 600,
+        "episodeEnd": "present",
+        "reason": "Airship debuts and is used for Caesar's operations"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": [],
+    "relatedCharacters": ["caesar-clown", "monet"],
+    "relatedCrews": [],
+    "relatedArcs": ["Punk Hazard"],
+    "images": []
+  }
+]

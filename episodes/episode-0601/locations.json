@@ -1,0 +1,111 @@
+[
+  {
+    "name": {
+      "english": "Punk Hazard Laboratory",
+      "japanese": "パンクハザード研究所",
+      "romanized": "Panku Hazādo Kenkyūjo"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 579,
+    "debutChapter": 655,
+    "description": "Caesar Clown's laboratory on Punk Hazard where he conducts illegal weapons experiments and holds kidnapped children. The facility serves as both a research center and a prison for Law and Smoker.",
+    "episodeAppearances": [601],
+    "keyEvents": [
+      {
+        "episodeNumber": 601,
+        "eventId": "ep601-event-001",
+        "eventType": "MAJOR_DECISION",
+        "title": "Mocha Regains Her Senses in the Lab",
+        "description": "Mocha begins resisting the addictive drug and remembers the Straw Hats' rescue attempt while in the laboratory room.",
+        "significance": "The lab is where the children are held and drugged, making it the center of Caesar's cruel experiments.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 601,
+        "eventId": "ep601-event-002",
+        "eventType": "BACKSTORY_REVEAL",
+        "title": "Caesar Reveals Heart Swap Deal to Law",
+        "description": "In the laboratory, Caesar reveals to the captive Law that he holds his heart and has been spying on him through Monet.",
+        "significance": "The lab serves as Caesar's seat of power where he holds his prisoners and reveals his schemes.",
+        "timestamp": "05:20"
+      },
+      {
+        "episodeNumber": 601,
+        "eventId": "ep601-event-004",
+        "eventType": "WORLD_LORE",
+        "title": "Caesar Broadcasts from Lab to Underworld Brokers",
+        "description": "Caesar uses the laboratory's broadcasting equipment to transmit his weapons demonstration to underworld brokers worldwide.",
+        "significance": "Reveals the lab's role as a center for illegal arms dealing and weapons development for the New World's criminal underworld.",
+        "timestamp": "10:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [],
+    "parentLocation": "punk-hazard",
+    "childLocations": [],
+    "relatedCharacters": ["caesar-clown", "trafalgar-law", "vergo", "mocha", "smoker", "monet"],
+    "relatedCrews": [],
+    "relatedArcs": ["Punk Hazard"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Punk Hazard",
+      "japanese": "パンクハザード",
+      "romanized": "Panku Hazādo"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 579,
+    "debutChapter": 654,
+    "description": "A devastated island in the New World split between fire and ice, formerly a government research facility that was destroyed by Caesar's poison gas experiment four years ago. Now serves as Caesar's illegal laboratory.",
+    "episodeAppearances": [601],
+    "keyEvents": [
+      {
+        "episodeNumber": 601,
+        "eventId": "ep601-event-005",
+        "eventType": "BACKSTORY_REVEAL",
+        "title": "Caesar Explains Punk Hazard's Destruction",
+        "description": "Caesar reveals that Smiley was created from the H2S poison gas bomb that devastated Punk Hazard four years ago, nearly wiping out all life on the island.",
+        "significance": "Provides crucial backstory about the island's tragic history and Caesar's role in its destruction.",
+        "timestamp": "14:00"
+      },
+      {
+        "episodeNumber": 601,
+        "eventId": "ep601-event-007",
+        "eventType": "PROPHECY_FORESHADOWING",
+        "title": "Giant Candy Placed for Smiley on Punk Hazard",
+        "description": "A massive candy containing the Shinokuni substance is placed on the island for Smiley to consume as part of Caesar's broadcast experiment.",
+        "significance": "Sets up the island-wide catastrophe that will force everyone to flee or be petrified by the spreading Shinokuni gas.",
+        "timestamp": "18:30"
+      },
+      {
+        "episodeNumber": 601,
+        "eventId": "ep601-event-009",
+        "eventType": "POWER_REVEAL",
+        "title": "Smiley Devours the Candy on Punk Hazard",
+        "description": "Smiley consumes the giant candy on the island, triggering the transformation that will threaten all life on Punk Hazard.",
+        "significance": "Begins the countdown to the Shinokuni disaster that will engulf the entire island.",
+        "timestamp": "21:40"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "DESTROYED",
+        "episodeStart": 579,
+        "episodeEnd": "present",
+        "reason": "Island was devastated by Caesar's poison gas experiment four years ago, splitting it between fire and ice after Akainu and Aokiji's battle"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["punk-hazard-lab"],
+    "relatedCharacters": ["caesar-clown", "smiley", "roronoa-zoro", "sanji", "brook", "kinemon"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Punk Hazard"],
+    "images": []
+  }
+]

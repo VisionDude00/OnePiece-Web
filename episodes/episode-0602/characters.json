@@ -1,0 +1,281 @@
+[
+  {
+    "name": {
+      "english": "Caesar Clown",
+      "japanese": "シーザー・クラウン",
+      "romanized": "Shīzā Kuraun"
+    },
+    "debutEpisode": 581,
+    "debutChapter": 658,
+    "episodeAppearances": [602],
+    "keyMoments": [
+      {
+        "episodeNumber": 602,
+        "eventId": "ep602-event-001",
+        "momentType": "WORLD_LORE",
+        "title": "Caesar Reveals Punk Hazard's Destruction",
+        "description": "Caesar narrates how he destroyed Punk Hazard four years ago with the H2S gas bomb, establishing the origins of his weapon demonstration.",
+        "significance": "Reveals Caesar's past crimes and establishes him as a mass murderer willing to kill for scientific advancement.",
+        "timestamp": "02:30",
+        "quote": "Four years ago, I killed this island with the H2S bomb!"
+      },
+      {
+        "episodeNumber": 602,
+        "eventId": "ep602-event-005",
+        "momentType": "POWER_REVEAL",
+        "title": "Shinokuni Weapon Unveiled",
+        "description": "Caesar celebrates the successful transformation of Smiley into Shinokuni, his ultimate weapon of mass destruction.",
+        "significance": "Demonstrates the full extent of Caesar's cruelty and scientific capabilities, creating one of the deadliest weapons in the series.",
+        "timestamp": "09:00",
+        "quote": "Before, my gas weapon could only paralyze the victim but left them alive. However, I created a new type of gas that turns the victim's body to ash and paralyzes them completely!"
+      }
+    ],
+    "status": "ALIVE",
+    "statusHistory": [
+      {
+        "status": "ALIVE",
+        "episodeStart": 581,
+        "episodeEnd": "present"
+      }
+    ],
+    "occupations": ["Scientist", "Former World Government Scientist"],
+    "affiliations": [
+      {
+        "organizationName": "Donquixote Pirates",
+        "role": "Affiliate/Business Partner",
+        "episodeRevealed": 602
+      }
+    ],
+    "devilFruitProgression": {
+      "fruitId": "gasu-gasu-no-mi",
+      "episodeConsumed": null,
+      "episodeLost": null,
+      "awakeningEpisode": null
+    },
+    "abilities": [
+      {
+        "abilityName": "Shinokuni Creation",
+        "abilityType": "SCIENCE",
+        "episodeFirstUsed": 602,
+        "description": "Caesar demonstrates his ability to create the deadly Shinokuni weapon by transforming Smiley into a petrifying gas."
+      }
+    ],
+    "relationships": [
+      {
+        "targetCharacterId": "smiley",
+        "relationshipType": "MASTER",
+        "description": "Caesar created Smiley and uses it as a tool for his weapon demonstration, ultimately sacrificing it to create Shinokuni.",
+        "episodeEstablished": 594,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 602,
+            "description": "Caesar feeds Smiley poisoned candy, killing it to create the Shinokuni weapon.",
+            "newRelationshipType": "BETRAYED"
+          }
+        ]
+      }
+    ],
+    "reveals": [
+      {
+        "infoType": "BACKSTORY",
+        "information": "Caesar killed Punk Hazard four years ago using H2S gas bomb",
+        "episodeRevealed": 602,
+        "severity": "MAJOR"
+      },
+      {
+        "infoType": "ABILITY",
+        "information": "Created Shinokuni, an improved version of his gas weapon that petrifies victims",
+        "episodeRevealed": 602,
+        "severity": "CRITICAL"
+      }
+    ],
+    "voiceActors": {
+      "japanese": "Ryūsei Nakao",
+      "english": "Jerry Jewell"
+    }
+  },
+  {
+    "name": {
+      "english": "Smiley",
+      "japanese": "スマイリー",
+      "romanized": "Sumairī"
+    },
+    "debutEpisode": 594,
+    "debutChapter": 668,
+    "episodeAppearances": [602],
+    "keyMoments": [
+      {
+        "episodeNumber": 602,
+        "eventId": "ep602-event-002",
+        "momentType": "MAJOR_DECISION",
+        "title": "Smiley Disobeys and Eats the Candy",
+        "description": "Smiley eagerly consumes the poisoned candy despite Caesar's instruction to wait, triggering its transformation into Shinokuni.",
+        "significance": "This moment of disobedience triggers Smiley's death and the creation of the Shinokuni weapon.",
+        "timestamp": "05:15",
+        "quote": ""
+      },
+      {
+        "episodeNumber": 602,
+        "eventId": "ep602-event-003",
+        "momentType": "DEATH",
+        "title": "Death of Smiley",
+        "description": "Smiley dissolves completely after consuming the poisoned candy, letting out a final roar before its body breaks down into gas.",
+        "significance": "Smiley's death creates the Shinokuni weapon and demonstrates the first on-screen Devil Fruit reincarnation.",
+        "timestamp": "07:45",
+        "quote": ""
+      }
+    ],
+    "status": "DECEASED",
+    "statusHistory": [
+      {
+        "status": "ALIVE",
+        "episodeStart": 594,
+        "episodeEnd": 602
+      },
+      {
+        "status": "DECEASED",
+        "episodeStart": 602,
+        "episodeEnd": "present",
+        "causeOfDeath": "Poisoned by Caesar Clown's candy to create Shinokuni weapon"
+      }
+    ],
+    "occupations": ["Weapon", "Pet"],
+    "affiliations": [],
+    "devilFruitProgression": {
+      "fruitId": "sara-sara-no-mi-model-axolotl",
+      "episodeConsumed": null,
+      "episodeLost": 602,
+      "awakeningEpisode": null
+    },
+    "abilities": [],
+    "relationships": [
+      {
+        "targetCharacterId": "caesar-clown",
+        "relationshipType": "SERVANT",
+        "description": "Smiley served Caesar Clown loyally until being sacrificed to create the Shinokuni weapon.",
+        "episodeEstablished": 594,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 602,
+            "description": "Caesar betrays Smiley by feeding it poisoned candy, killing it.",
+            "newRelationshipType": "VICTIM"
+          }
+        ]
+      }
+    ],
+    "reveals": [
+      {
+        "infoType": "DEATH",
+        "information": "Smiley dies by consuming poisoned candy, transforming into Shinokuni gas",
+        "episodeRevealed": 602,
+        "severity": "CRITICAL"
+      }
+    ],
+    "voiceActors": {
+      "japanese": null,
+      "english": null
+    }
+  },
+  {
+    "name": {
+      "english": "Monkey D. Luffy",
+      "japanese": "モンキー・D・ルフィ",
+      "romanized": "Monkī Dī Rufi"
+    },
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [602],
+    "keyMoments": [
+      {
+        "episodeNumber": 602,
+        "eventId": "ep602-event-012",
+        "momentType": "MAJOR_DECISION",
+        "title": "Luffy Declares Readiness for Counterattack",
+        "description": "After all allies reach safety in the laboratory, Luffy confirms everyone is present and declares they are ready to begin their counterattack against Caesar.",
+        "significance": "Marks the transition from defensive escape to offensive action against Caesar Clown.",
+        "timestamp": "22:00",
+        "quote": "Everyone is here! Let's begin the counterattack!"
+      }
+    ],
+    "status": "ALIVE",
+    "statusHistory": [],
+    "occupations": [],
+    "affiliations": [],
+    "devilFruitProgression": null,
+    "abilities": [],
+    "relationships": [],
+    "reveals": [],
+    "voiceActors": {
+      "japanese": "Mayumi Tanaka",
+      "english": "Colleen Clinkenbeard"
+    }
+  },
+  {
+    "name": {
+      "english": "Roronoa Zoro",
+      "japanese": "ロロノア・ゾロ",
+      "romanized": "Roronoa Zoro"
+    },
+    "debutEpisode": 2,
+    "debutChapter": 3,
+    "episodeAppearances": [602],
+    "keyMoments": [
+      {
+        "episodeNumber": 602,
+        "eventId": "ep602-event-010",
+        "momentType": "TECHNIQUE_DEBUT",
+        "title": "Zoro and Kin'emon Cut Through Iron Shutters",
+        "description": "Zoro works together with Kin'emon to slice through the heavy iron shutters blocking their entrance to the laboratory.",
+        "significance": "Demonstrates Zoro's swordsmanship prowess and ability to work effectively with other swordsmen.",
+        "timestamp": "20:15",
+        "quote": ""
+      }
+    ],
+    "status": "ALIVE",
+    "statusHistory": [],
+    "occupations": [],
+    "affiliations": [],
+    "devilFruitProgression": null,
+    "abilities": [],
+    "relationships": [],
+    "reveals": [],
+    "voiceActors": {
+      "japanese": "Kazuya Nakai",
+      "english": "Christopher Sabat"
+    }
+  },
+  {
+    "name": {
+      "english": "Kin'emon",
+      "japanese": "錦えもん",
+      "romanized": "Kin'emon"
+    },
+    "debutEpisode": 591,
+    "debutChapter": 656,
+    "episodeAppearances": [602],
+    "keyMoments": [
+      {
+        "episodeNumber": 602,
+        "eventId": "ep602-event-010",
+        "momentType": "TECHNIQUE_DEBUT",
+        "title": "Kin'emon and Zoro Cut Through Iron Shutters",
+        "description": "Kin'emon demonstrates his swordsmanship by working with Zoro to cut through the iron shutters.",
+        "significance": "Shows Kin'emon's combat abilities and his growing cooperation with the Straw Hat crew.",
+        "timestamp": "20:15",
+        "quote": ""
+      }
+    ],
+    "status": "ALIVE",
+    "statusHistory": [],
+    "occupations": [],
+    "affiliations": [],
+    "devilFruitProgression": null,
+    "abilities": [],
+    "relationships": [],
+    "reveals": [],
+    "voiceActors": {
+      "japanese": "Kenyu Horiuchi",
+      "english": null
+    }
+  }
+]
