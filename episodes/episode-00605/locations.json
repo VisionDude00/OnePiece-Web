@@ -1,0 +1,138 @@
+[
+  {
+    "name": {
+      "english": "Punk Hazard Laboratory - Building A",
+      "japanese": "パンクハザード研究所 - 棟A",
+      "romanized": "Panku Hazādo Kenkyūjo - Tō A"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 579,
+    "debutChapter": 655,
+    "description": "Building A is the main entrance of Caesar Clown's laboratory on Punk Hazard. It serves as the only passage connected to Building B and the outside world. The building features multiple corridors and is part of a five-building complex connected by gates designed to prevent hazardous materials from spreading between rooms.",
+    "episodeAppearances": [605],
+    "keyEvents": [
+      {
+        "episodeNumber": 605,
+        "eventId": "ep605-event-001",
+        "eventType": "MAJOR_DECISION",
+        "title": "Building A Sealed Off",
+        "description": "Caesar Clown orders the passage between Building A and Building B to be sealed, trapping the intruders inside.",
+        "significance": "This decision turns Building A into a death trap, setting up the episode's central conflict and the Marines' sacrifice.",
+        "timestamp": "02:15"
+      },
+      {
+        "episodeNumber": 605,
+        "eventId": "ep605-event-008",
+        "eventType": "WORLD_LORE",
+        "title": "Building A Wall Destroyed - Shinokuni Enters",
+        "description": "A cannon blows apart the exterior wall of Building A, allowing the deadly poison gas Shinokuni to flood into the building.",
+        "significance": "This is the moment where the threat becomes immediate and deadly, forcing the desperate escape attempt.",
+        "timestamp": "13:45"
+      },
+      {
+        "episodeNumber": 605,
+        "eventId": "ep605-event-010",
+        "eventType": "DEATH",
+        "title": "Site of the G-5 Marines' Sacrifice",
+        "description": "Several G-5 Marines are petrified by Shinokuni in Building A as they ensure Tashigi escapes to Building B.",
+        "significance": "Building A becomes the site of one of the Punk Hazard arc's most emotional moments, where the Marines create monuments to their bravery with their petrified bodies.",
+        "timestamp": "18:15"
+      }
+    ],
+    "status": "DAMAGED",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 579,
+        "episodeEnd": 605,
+        "reason": "Functioning as part of Caesar's laboratory"
+      },
+      {
+        "status": "DAMAGED",
+        "episodeStart": 605,
+        "episodeEnd": "present",
+        "reason": "Wall destroyed by cannon fire, flooded with Shinokuni poison gas"
+      }
+    ],
+    "parentLocation": "punk-hazard-laboratory",
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "zoro", "chopper", "tashigi", "smoker", "law", "caesar-clown", "bakezo", "run"],
+    "relatedCrews": ["straw-hat-pirates", "marines-g5"],
+    "relatedArcs": ["Punk Hazard"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Punk Hazard Laboratory - Building B",
+      "japanese": "パンクハザード研究所 - 棟B",
+      "romanized": "Panku Hazādo Kenkyūjo - Tō B"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 579,
+    "debutChapter": 655,
+    "description": "Building B is the largest building in Caesar Clown's laboratory complex. It contains research devices, large chemical pipes along the walls, and serves as the central room connected to all other rooms in the lab. It also houses the garrison for Caesar's troops.",
+    "episodeAppearances": [605],
+    "keyEvents": [
+      {
+        "episodeNumber": 605,
+        "eventId": "ep605-event-005",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "The Gate to Building B Begins to Close",
+        "description": "An alarm sounds as the gate between Buildings A and B begins to close, starting the desperate race for survival.",
+        "significance": "This marks the beginning of the episode's main tension and the countdown to the Marines' sacrifice.",
+        "timestamp": "08:30"
+      },
+      {
+        "episodeNumber": 605,
+        "eventId": "ep605-event-011",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Tashigi's Safe Arrival and Breakdown",
+        "description": "Tashigi makes it safely to Building B but immediately breaks down in tears as she watches her subordinates being petrified on the other side of the sealed gate.",
+        "significance": "Building B becomes the place where Tashigi must confront the cost of survival and the sacrifice of her subordinates.",
+        "timestamp": "20:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 579,
+        "episodeEnd": "present",
+        "reason": "Functioning as the central building of Caesar's laboratory"
+      }
+    ],
+    "parentLocation": "punk-hazard-laboratory",
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "smoker", "law", "tashigi"],
+    "relatedCrews": ["straw-hat-pirates", "marines-g5"],
+    "relatedArcs": ["Punk Hazard"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Punk Hazard",
+      "japanese": "パンクハザード",
+      "romanized": "Panku Hazādo"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 579,
+    "debutChapter": 655,
+    "description": "A former government research facility island in the New World, divided into two halves - one side perpetually burning with fire and the other frozen in ice. The island houses Caesar Clown's laboratory where he conducts illegal experiments.",
+    "episodeAppearances": [605],
+    "keyEvents": [],
+    "status": "ACTIVE",
+    "statusHistory": [],
+    "parentLocation": null,
+    "childLocations": ["punk-hazard-laboratory-building-a", "punk-hazard-laboratory-building-b"],
+    "relatedCharacters": ["caesar-clown", "monet", "vergo"],
+    "relatedCrews": ["straw-hat-pirates", "marines-g5"],
+    "relatedArcs": ["Punk Hazard"],
+    "images": []
+  }
+]

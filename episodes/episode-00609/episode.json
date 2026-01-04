@@ -1,0 +1,553 @@
+{
+  "episodeNumber": 609,
+  "episodeTitle": "Luffy Dies from Exposure?! The Spine-chilling Snow Woman Monet!",
+  "episodeTitleJapanese": "ルフィ凍死!? 恐怖の雪女モネ!",
+  "episodeTitleRomanized": "Rufi Tōshi!? Kyōfu no Yuki-On'na Mone!",
+  "description": "Luffy battles Monet who uses her snow powers to freeze him nearly to death, while Law faces brutal torture from Vergo. Chopper struggles to restrain drug-affected children without harming them.",
+  "airDate": "2013-08-25",
+  "airDateJapan": "2013-08-25",
+  "airDateUS": "2023-03-26",
+  "airDateSimulcast": "2013-08-24",
+  "arcName": "Punk Hazard",
+  "sagaName": "Dressrosa Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Hands Up!",
+    "artist": "Kota Shinzato",
+    "episodeRange": [591, 628]
+  },
+  "endingSong": null,
+  "credits": {
+    "screenplay": "Tomohiro Nakayama",
+    "director": "Aya Komaki",
+    "animation": "Takeo Ide",
+    "artDirector": "Ryūji Yoshiike",
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Monet",
+        "actor": "Naoko Matsui"
+      },
+      {
+        "character": "Trafalgar Law",
+        "actor": "Hiroshi Kamiya"
+      },
+      {
+        "character": "Vergo",
+        "actor": "Junichi Suwabe"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Smoker",
+        "actor": "Mahito Oba"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Mocha",
+        "actor": "Mie Sonozaki"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Monet",
+        "actor": "Janelle Lutz"
+      },
+      {
+        "character": "Trafalgar Law",
+        "actor": "Matthew Mercer"
+      },
+      {
+        "character": "Vergo",
+        "actor": "Wes Frazier"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Smoker",
+        "actor": "Greg Dulcie"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep609-event-001",
+      "episodeNumber": 609,
+      "timestamp": "04:20",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Luffy vs Monet Battle Begins",
+      "description": "Monet confronts Luffy in Caesar's lab, creating a ten-layer snow hut barrier (Kamakura Jussoshi) to trap and weaken him with her Yuki Yuki no Mi powers.",
+      "significance": "First major confrontation between Luffy and one of Caesar's executives, showcasing the danger of Logia-type Devil Fruit users.",
+      "characterIds": ["luffy", "monet"],
+      "locationIds": ["punk-hazard-lab"],
+      "devilFruitIds": ["yuki-yuki-no-mi"],
+      "quotes": [
+        {
+          "text": "Ten layers cannot be easily broken!",
+          "speaker": "Monet",
+          "context": "Monet boasts about her snow hut barrier"
+        },
+        {
+          "text": "You're just stalling for time! I'll just break it in a jiffy!",
+          "speaker": "Luffy",
+          "context": "Luffy recognizes Monet's delaying tactics"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [605, 608],
+      "payoffInEpisodes": [610],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep609-event-002",
+      "episodeNumber": 609,
+      "timestamp": "07:35",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Monet's Freezing Embrace",
+      "description": "Monet hugs Luffy with her snow-covered wings, using her body's extreme coldness to drain his strength and consciousness. Luffy begins to freeze and lose consciousness as snow builds up around them.",
+      "significance": "Demonstrates Monet's lethal combat strategy using her Logia powers, showing how a weaker opponent can still threaten Luffy through tactical advantages.",
+      "characterIds": ["luffy", "monet"],
+      "locationIds": ["punk-hazard-lab"],
+      "devilFruitIds": ["yuki-yuki-no-mi"],
+      "quotes": [
+        {
+          "text": "You can no longer escape my hold. The coldness will sap away your strength.",
+          "speaker": "Monet",
+          "context": "Monet explains her deadly technique"
+        },
+        {
+          "text": "You cannot beat me, but don't confuse victory with fighting ability.",
+          "speaker": "Monet",
+          "context": "Monet acknowledges her role is to stall, not defeat Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [609],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep609-event-003",
+      "episodeNumber": 609,
+      "timestamp": "10:15",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Gomu Gomu no Jet Spear Debut",
+      "description": "Nearly frozen to death, Luffy uses Haki to recover his strength and unleashes Gomu Gomu no Jet Spear, a powerful spear-shaped attack that breaks through the floor, creating an opening that leads to the garbage disposal area.",
+      "significance": "Introduction of a new Luffy technique combining his Gear Second speed with his stretching abilities, though it inadvertently causes him to fall into a lower level.",
+      "characterIds": ["luffy", "monet"],
+      "locationIds": ["punk-hazard-lab"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [
+        {
+          "text": "Gomu Gomu no... Jet Spear!",
+          "speaker": "Luffy",
+          "context": "Luffy breaks free from Monet's deadly embrace"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [610],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep609-event-004",
+      "episodeNumber": 609,
+      "timestamp": "11:45",
+      "eventType": "BATTLE_START",
+      "severity": "CRITICAL",
+      "title": "Vergo Brutally Tortures Law",
+      "description": "Vergo confronts Law in the SAD Production room while possessing Law's disembodied heart. He squeezes it repeatedly, causing Law extreme pain, then uses his Haki-hardened fists and bamboo to deliver devastating blows.",
+      "significance": "Reveals the dire situation Law is in and Vergo's ruthless nature and overwhelming power. Shows the vulnerability created by Law's heart being separated from his body.",
+      "characterIds": ["trafalgar-law", "vergo"],
+      "locationIds": ["sad-production-room"],
+      "crewIds": ["donquixote-pirates"],
+      "quotes": [
+        {
+          "text": "What a shame.",
+          "speaker": "Vergo",
+          "context": "Joker's (Doflamingo's) message delivered through Vergo to Law"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [598, 607, 608],
+      "payoffInEpisodes": [610, 611, 612],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep609-event-005",
+      "episodeNumber": 609,
+      "timestamp": "14:20",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Law's Counter Shock",
+      "description": "Despite his injuries and the pain from his heart being squeezed, Law manages to grab Vergo and uses Counter Shock, sending a large electrical surge through Vergo's body. However, the attack does minimal damage due to Vergo's superior Haki.",
+      "significance": "Demonstrates Law's determination and combat abilities, but also highlights the power gap between him and Vergo when Law doesn't have his heart.",
+      "characterIds": ["trafalgar-law", "vergo"],
+      "locationIds": ["sad-production-room"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [610],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep609-event-006",
+      "episodeNumber": 609,
+      "timestamp": "02:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Chopper's Monster Point Struggles",
+      "description": "Chopper transforms into Monster Point to restrain the drug-affected children without harming them. However, he cannot control them effectively without using force, and his Rumble Ball effect wears off, leaving him vulnerable.",
+      "significance": "Shows Chopper's compassion and the dilemma of trying to help the children while they're under Caesar's drug influence.",
+      "characterIds": ["chopper", "mocha"],
+      "locationIds": ["punk-hazard-lab"],
+      "quotes": [
+        {
+          "text": "I can't lay a finger on them! Caesar is trying to make them into big violent fighters!",
+          "speaker": "Chopper",
+          "context": "Chopper expresses his distress at the children's situation"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [602, 605, 608],
+      "payoffInEpisodes": [610, 611],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep609-event-007",
+      "episodeNumber": 609,
+      "timestamp": "05:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Mocha Protects the Candy",
+      "description": "Mocha, having regained her sanity and developed resistance to the NHC10 drug, tries to help Chopper by protecting the dangerous candy from the other children. She runs away with it to prevent them from consuming more of Caesar's addictive substance.",
+      "significance": "Demonstrates Mocha's bravery and the tragic nature of the children's situation. Her resistance to the drug proves that recovery is possible.",
+      "characterIds": ["mocha", "chopper"],
+      "locationIds": ["punk-hazard-lab"],
+      "quotes": [
+        {
+          "text": "Don't eat it! It's evil candy! Chopper is trying to help us. If you don't listen, we won't be able to go home!",
+          "speaker": "Mocha",
+          "context": "Mocha pleads with the other children"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [605, 607, 608],
+      "payoffInEpisodes": [610, 611, 612],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep609-event-008",
+      "episodeNumber": 609,
+      "timestamp": "17:10",
+      "eventType": "BATTLE_START",
+      "severity": "CRITICAL",
+      "title": "Smoker Arrives to Confront Vergo",
+      "description": "After Vergo nearly kills Law, Vice-Admiral Smoker arrives at the SAD Production room and prepares to fight his fellow Vice-Admiral Vergo, knowing that Vergo is a traitor working for Doflamingo.",
+      "significance": "Sets up the major confrontation between two Vice-Admirals and former colleagues, highlighting the betrayal and moral conflict.",
+      "characterIds": ["smoker", "vergo", "trafalgar-law"],
+      "locationIds": ["sad-production-room"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [598, 607, 608],
+      "payoffInEpisodes": [610, 611],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep609-event-009",
+      "episodeNumber": 609,
+      "timestamp": "18:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Luffy Falls into Garbage Disposal",
+      "description": "After breaking through the floor with his Jet Spear attack, Luffy falls into the facility's garbage disposal system. Monet mocks him, noting that he can only escape by flying.",
+      "significance": "Creates a new obstacle for Luffy and separates him from the immediate conflict, setting up future encounters in the lower levels.",
+      "characterIds": ["luffy", "monet"],
+      "locationIds": ["punk-hazard-garbage-room"],
+      "quotes": [
+        {
+          "text": "Farewell. You can only escape by flying.",
+          "speaker": "Monet",
+          "context": "Monet bids farewell to the fallen Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [610, 611],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep609-event-010",
+      "episodeNumber": 609,
+      "timestamp": "19:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Momonosuke Mentioned in Silhouette",
+      "description": "A girl mentions seeing a child who turned into a dragon in the Secret Room, expressing worry for someone named Momonosuke. This marks Momonosuke's first mention in the anime.",
+      "significance": "First reference to Momonosuke, foreshadowing his importance to the arc and his connection to the artificial Devil Fruit experiments.",
+      "characterIds": ["momonosuke"],
+      "locationIds": ["punk-hazard-lab"],
+      "quotes": [
+        {
+          "text": "I peeked into the Secret Room and kept it to myself. I'm worried for Momonosuke!",
+          "speaker": "Girl",
+          "context": "A child reveals information about the dragon transformation"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [611, 612],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep609-event-011",
+      "episodeNumber": 609,
+      "timestamp": "06:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Monet's Kamakura Jussoshi Technique",
+      "description": "Monet demonstrates her Kamakura Jussoshi (Ten-Layered Snow Hut) technique, creating multiple layers of solid snow barriers that she can pass through freely as a Logia user while trapping her opponents.",
+      "significance": "Showcases Monet's strategic use of her Yuki Yuki no Mi Devil Fruit powers and her tactical approach to combat.",
+      "characterIds": ["monet"],
+      "locationIds": ["punk-hazard-lab"],
+      "devilFruitIds": ["yuki-yuki-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep609-event-012",
+      "episodeNumber": 609,
+      "timestamp": "15:00",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Vergo's Full-Body Haki Display",
+      "description": "Vergo demonstrates his advanced Busoshoku Haki by hardening his entire arm and bamboo stick, delivering devastating blows to Law that showcase his mastery of Armament Haki.",
+      "significance": "Establishes Vergo as one of the most proficient Haki users shown at this point in the series, capable of hardening his entire body.",
+      "characterIds": ["vergo"],
+      "locationIds": ["sad-production-room"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [607, 608],
+      "payoffInEpisodes": [610],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["momonosuke"],
+    "locations": ["punk-hazard-garbage-room", "sad-production-room"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["gomu-gomu-no-jet-spear", "kamakura-jussoshi", "counter-shock"]
+  },
+  "episodeRelationships": {
+    "setupFor": [610, 611, 612],
+    "payoffFrom": [605, 607, 608],
+    "thematicLinks": [598, 602, 620]
+  },
+  "quotes": [
+    {
+      "text": "You cannot beat me, but don't confuse victory with fighting ability.",
+      "speaker": "Monet",
+      "context": "Monet explains her tactical role to Luffy",
+      "timestamp": "07:00"
+    },
+    {
+      "text": "What a shame.",
+      "speaker": "Vergo",
+      "context": "Delivering Doflamingo's message to the tortured Law",
+      "timestamp": "14:50"
+    },
+    {
+      "text": "Don't eat it! It's evil candy! If you don't listen, we won't be able to go home!",
+      "speaker": "Mocha",
+      "context": "Mocha pleads with the drug-affected children",
+      "timestamp": "05:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Sacrifice and Protection",
+      "description": "Multiple characters put themselves at risk to protect others: Chopper refuses to harm the children despite them attacking him, Mocha risks herself to keep the candy away from the other children, and Law continues fighting despite being tortured.",
+      "symbolism": "The children's addiction to the candy represents how innocent people can be corrupted and exploited, requiring heroes to make difficult choices to save them.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Power and Strategy",
+      "description": "The episode emphasizes that raw power isn't everything. Monet openly admits she can't defeat Luffy but can still threaten him through tactics. Vergo's advantage comes from possessing Law's heart rather than pure combat superiority.",
+      "symbolism": "The separated heart represents vulnerability and how even the strongest can be brought low through strategic disadvantages.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Betrayal and Loyalty",
+      "description": "Vergo's betrayal of the Marines is highlighted as Smoker prepares to confront his former colleague. The theme of institutional corruption and hidden loyalties runs throughout.",
+      "symbolism": "Vergo's bamboo stick with food on it symbolizes his casual cruelty and how he hides his true nature behind mundane quirks.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Intense", "Desperate", "Dark", "Suspenseful"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist in peril",
+      "development": "Luffy faces a genuine threat from Monet's strategic approach, showing that even powerful fighters can be endangered by environmental and tactical disadvantages.",
+      "keyActions": [
+        "Challenges Monet's snow barrier",
+        "Nearly freezes to death in Monet's embrace",
+        "Uses Haki to recover and unleashes Jet Spear",
+        "Falls through the floor into garbage disposal"
+      ],
+      "quotes": ["You're just stalling for time! I'll just break it in a jiffy!", "Gomu Gomu no... Jet Spear!"]
+    },
+    {
+      "characterId": "monet",
+      "role": "Strategic antagonist",
+      "development": "Demonstrates tactical intelligence by acknowledging her role is to delay rather than defeat Luffy. Shows the effectiveness of using environmental advantages.",
+      "keyActions": [
+        "Creates ten-layered snow hut barrier",
+        "Uses freezing embrace to nearly kill Luffy",
+        "Successfully delays Luffy despite not defeating him"
+      ],
+      "quotes": ["You cannot beat me, but don't confuse victory with fighting ability.", "You can no longer escape my hold. The coldness will sap away your strength."]
+    },
+    {
+      "characterId": "trafalgar-law",
+      "role": "Victim and fighter",
+      "development": "Law's vulnerability is on full display as he's brutally tortured while separated from his heart, yet he still fights back with Counter Shock.",
+      "keyActions": [
+        "Endures Vergo squeezing his heart",
+        "Takes devastating Haki-enhanced attacks",
+        "Attempts Counter Shock against Vergo"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "chopper",
+      "role": "Compassionate doctor",
+      "development": "Chopper's medical ethics and compassion are highlighted as he refuses to harm the children even when they attack him.",
+      "keyActions": [
+        "Uses Monster Point to restrain children non-violently",
+        "Transformation wears off, leaving him vulnerable",
+        "Expresses distress about the children's plight"
+      ],
+      "quotes": ["I can't lay a finger on them! Caesar is trying to make them into big violent fighters!"]
+    },
+    {
+      "characterId": "mocha",
+      "role": "Brave child",
+      "development": "Mocha emerges as a hero among the children, having overcome the drug's effects and now trying to save the others.",
+      "keyActions": [
+        "Shows resistance to the NHC10 drug",
+        "Protects the candy from other children",
+        "Pleads with children to resist the addiction"
+      ],
+      "quotes": ["Don't eat it! It's evil candy! Chopper is trying to help us. If you don't listen, we won't be able to go home!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "In the anime, Chopper is not trampled by the children after returning to his normal form, as shown in the manga.",
+      "episodeTimestamp": "03:15",
+      "mangaReference": "Chapter 683, pages 7-8",
+      "type": "SCENE_MODIFICATION"
+    },
+    {
+      "difference": "The anime extends the Luffy vs Monet fight scenes with additional animation showing Luffy struggling in the cold.",
+      "episodeTimestamp": "08:00",
+      "mangaReference": "Chapter 683",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episode 609 aired on August 25, 2013 in Japan and achieved a 6.2% TV rating, ranking 7th for the week.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_609",
+          "title": "Episode 609 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-04"
+        }
+      ]
+    },
+    {
+      "fact": "This episode marks the first mention of Momonosuke in the anime, though only in silhouette/flashback form. His full appearance comes in Episode 611.",
+      "category": "STORYLINE",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_609",
+          "title": "Episode 609 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-04"
+        }
+      ]
+    },
+    {
+      "fact": "The episode was directed by Aya Komaki with screenplay by Tomohiro Nakayama, and adapted from Chapter 683 of the manga.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_609",
+          "title": "Episode 609 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-04"
+        }
+      ]
+    },
+    {
+      "fact": "This episode aired on Toonami in the US on March 26, 2023, nearly 10 years after its original Japanese broadcast.",
+      "category": "BROADCAST",
+      "sources": [
+        {
+          "url": "https://jcrcomicarts.wordpress.com/2023/03/26/one-piece-ep-609-preview-luffy-dies-from-exposure-the-spin-chilling-snow-woman-monet-tonight-on-toonami/",
+          "title": "One Piece Ep 609 Preview - JCR Comic Arts",
+          "platform": "WordPress",
+          "accessedAt": "2026-01-04"
+        }
+      ]
+    },
+    {
+      "fact": "Naoko Matsui, Monet's Japanese voice actress, is known for her roles in various anime including Candy Candy and bringing a haunting quality to Monet's character.",
+      "category": "VOICE_ACTING",
+      "sources": []
+    },
+    {
+      "fact": "The DVD release for this episode came out on November 10, 2020, as part of the Punk Hazard arc compilation.",
+      "category": "RELEASE",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_609",
+          "title": "Episode 609 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-04"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

@@ -1,0 +1,559 @@
+{
+  "episodeNumber": 607,
+  "episodeTitle": "A Fierce Battle Gets Heated! Luffy vs. Caesar!",
+  "episodeTitleJapanese": "白熱の激戦 ルフィVSシーザー",
+  "episodeTitleRomanized": "Hakunetsu no Gekisen - Rufi tai Shīzā",
+  "description": "Luffy confronts Caesar Clown in a heated battle while Sanji faces off against Vergo. As Caesar attempts to drain oxygen from the room, Luffy activates Gear Second and uses Haki-infused attacks. Meanwhile, Law infiltrates the SAD production facility, and Monet reveals her snow-based Devil Fruit powers to protect Caesar.",
+  "airDate": "2013-08-11",
+  "airDateJapan": "2013-08-11",
+  "airDateUS": "2023-03-12",
+  "simulcastDate": "2013-08-10",
+  "dvdReleaseDate": "2020-11-10",
+  "arcName": "Punk Hazard Arc",
+  "sagaName": "Dressrosa Saga",
+  "season": 16,
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Hands Up!",
+    "artist": "Kota Shinzato",
+    "episodeRange": [591, 628]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Takashi Ōtsuka",
+    "screenplay": "Yoshiyuki Suga",
+    "artDirection": "Ryūji Yoshiike",
+    "keyAnimators": ["Megumi Yamashita", "Kazuya Hisada"],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Caesar Clown",
+        "actor": "Ryusei Nakao"
+      },
+      {
+        "character": "Monet",
+        "actor": "Naoko Matsui"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Vergo",
+        "actor": "Junichi Suwabe"
+      },
+      {
+        "character": "Trafalgar Law",
+        "actor": "Hiroshi Kamiya"
+      },
+      {
+        "character": "Smoker",
+        "actor": "Mahito Ōba"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Caesar Clown",
+        "actor": "Jerry Jewell"
+      },
+      {
+        "character": "Monet",
+        "actor": "Janelle Lutz"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Vergo",
+        "actor": "Ray Chase"
+      },
+      {
+        "character": "Trafalgar Law",
+        "actor": "Matthew Mercer"
+      },
+      {
+        "character": "Smoker",
+        "actor": "Greg Dulcie"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep607-event-001",
+      "episodeNumber": 607,
+      "timestamp": "03:15",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Luffy vs. Caesar Battle Begins",
+      "description": "Luffy finally reaches Caesar's laboratory and immediately launches a powerful punch that sends the scientist crashing into the wall. This marks the beginning of their fierce confrontation as Luffy seeks to capture Caesar for Law's plan.",
+      "significance": "This battle is crucial to the alliance's plan to take down a Yonko. Capturing Caesar is the first step in disrupting Doflamingo's operations and the artificial Devil Fruit production.",
+      "characterIds": ["luffy", "caesar-clown"],
+      "locationIds": ["punk-hazard-laboratory"],
+      "quotes": [
+        {
+          "text": "I'm gonna beat you up and take you with me!",
+          "speaker": "Luffy",
+          "context": "Luffy declares his intention to capture Caesar"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [591, 597],
+      "payoffInEpisodes": [608, 612],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep607-event-002",
+      "episodeNumber": 607,
+      "timestamp": "06:40",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Sanji vs. Vergo Confrontation",
+      "description": "Sanji engages in combat with Vergo at the passage connecting buildings A and B. The two clash as the facility begins its lockdown sequence with poison gas flooding the area.",
+      "significance": "This battle showcases Sanji's growth in the New World and reveals Vergo's formidable power as a Vice Admiral and undercover agent. It also creates tension as both fighters must escape the encroaching poison gas.",
+      "characterIds": ["sanji", "vergo"],
+      "locationIds": ["punk-hazard-passage"],
+      "devilFruitIds": [],
+      "crewIds": [],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [597, 605],
+      "payoffInEpisodes": [611],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep607-event-003",
+      "episodeNumber": 607,
+      "timestamp": "10:25",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Caesar's Karakuni - Oxygen Deprivation Attack",
+      "description": "Caesar attempts to kill Luffy by draining the oxygen from the room using his Gasu Gasu no Mi powers. The technique removes breathable air from the environment to suffocate his opponents.",
+      "significance": "Demonstrates Caesar's lethal fighting style and his willingness to use deadly gas-based attacks. This showcases the danger of his Devil Fruit abilities.",
+      "characterIds": ["caesar-clown", "luffy"],
+      "locationIds": ["punk-hazard-laboratory"],
+      "devilFruitIds": ["gasu-gasu-no-mi"],
+      "quotes": [
+        {
+          "text": "Let's see how long you can last without oxygen, Straw Hat!",
+          "speaker": "Caesar Clown",
+          "context": "Caesar taunts Luffy while draining oxygen from the room"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep607-event-004",
+      "episodeNumber": 607,
+      "timestamp": "11:50",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Luffy Uses Gear Second Against Caesar",
+      "description": "In response to Caesar's oxygen deprivation attack, Luffy activates Gear Second to increase his speed and power. The enhanced blood flow and metabolism allow him to continue fighting despite the lack of oxygen.",
+      "significance": "Shows Luffy's strategic thinking in using Gear Second not just for speed, but to maintain his body's functions in an oxygen-deprived environment. Demonstrates his growth and adaptability in the New World.",
+      "characterIds": ["luffy"],
+      "locationIds": ["punk-hazard-laboratory"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [
+        {
+          "text": "Gear Second!",
+          "speaker": "Luffy",
+          "context": "Luffy activates his power-up to counter Caesar's attack"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [273],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [273]
+    },
+    {
+      "id": "ep607-event-005",
+      "episodeNumber": 607,
+      "timestamp": "13:20",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Luffy Uses Haki-Infused Attacks",
+      "description": "Luffy employs Busoshoku Haki (Armament Haki) in his attacks against Caesar, coating his fists in the invisible armor to strike the Logia Devil Fruit user. This forces Caesar to take damage despite his gas-based intangibility.",
+      "significance": "Reinforces that Luffy has mastered Haki during the timeskip and can now fight Logia users effectively. This is essential for battles in the New World against powerful Devil Fruit users.",
+      "characterIds": ["luffy", "caesar-clown"],
+      "locationIds": ["punk-hazard-laboratory"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [516, 517],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [516, 517]
+    },
+    {
+      "id": "ep607-event-006",
+      "episodeNumber": 607,
+      "timestamp": "15:10",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Sanji's Flanchet Strike",
+      "description": "Sanji debuts his Flanchet Strike technique against Vergo, delivering a powerful kick during their battle in the passage between buildings A and B.",
+      "significance": "Demonstrates Sanji's new techniques developed during the timeskip on Kamabakka Kingdom. Shows his continued growth as a fighter in the New World.",
+      "characterIds": ["sanji", "vergo"],
+      "locationIds": ["punk-hazard-passage"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep607-event-007",
+      "episodeNumber": 607,
+      "timestamp": "16:45",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Vergo's Durability Displayed",
+      "description": "Vergo demonstrates remarkable physical durability and defense, withstanding Sanji's powerful Flanchet Strike. His body appears incredibly tough, hinting at his advanced Haki abilities.",
+      "significance": "Establishes Vergo as a formidable opponent and foreshadows his Full Body Armament Haki abilities. Shows that Vice Admirals in the New World are on a different level.",
+      "characterIds": ["vergo", "sanji"],
+      "locationIds": ["punk-hazard-passage"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [610],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep607-event-008",
+      "episodeNumber": 607,
+      "timestamp": "18:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Caesar's Blue Sword",
+      "description": "Caesar creates an oxygen-based flame sword called Blue Sword by concentrating oxygen on a bladeless weapon that doubles as a lighter. The blue flame blade is extremely hot and can burn opponents while cutting them.",
+      "significance": "Showcases Caesar's creative use of his gas manipulation abilities to create deadly weapons. The technique demonstrates his scientific knowledge combined with Devil Fruit powers.",
+      "characterIds": ["caesar-clown", "luffy"],
+      "locationIds": ["punk-hazard-laboratory"],
+      "devilFruitIds": ["gasu-gasu-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep607-event-009",
+      "episodeNumber": 607,
+      "timestamp": "19:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Caesar's Nenshokei: Miok Gas",
+      "description": "Caesar uses Nenshokei (Combustion System): Miok Gas, concentrating flammable gas in an area and then igniting it with lit matches to create a massive fireball that incinerates everything inside.",
+      "significance": "Reveals the deadly and indiscriminate nature of Caesar's attacks. This technique shows why he's considered extremely dangerous and why capturing him is so important.",
+      "characterIds": ["caesar-clown", "luffy"],
+      "locationIds": ["punk-hazard-laboratory"],
+      "devilFruitIds": ["gasu-gasu-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep607-event-010",
+      "episodeNumber": 607,
+      "timestamp": "21:00",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Law Infiltrates SAD Production Room",
+      "description": "Trafalgar Law successfully infiltrates Building D where the SAD (synthetic Devil Fruit material) is being produced. An emergency broadcast announces his invasion, alerting both Caesar and Vergo to his presence.",
+      "significance": "This is a crucial step in Law's plan to destroy the SAD production and cripple Doflamingo's SMILE factory operations. It reveals Law's true objective on Punk Hazard.",
+      "characterIds": ["trafalgar-law"],
+      "locationIds": ["sad-production-room"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [597, 598],
+      "payoffInEpisodes": [608, 612],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep607-event-011",
+      "episodeNumber": 607,
+      "timestamp": "22:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "CRITICAL",
+      "title": "Monet's Yuki Yuki no Mi Powers Revealed",
+      "description": "Monet reveals her Yuki Yuki no Mi (Snow-Snow Fruit) Devil Fruit powers for the first time in the anime, creating a snow wall (Kamakura) to protect Caesar from Luffy's attacks. This establishes her as a Logia-type Devil Fruit user with snow manipulation abilities.",
+      "significance": "This is the first on-screen appearance of Monet's Devil Fruit abilities in the anime. As a Logia user, she becomes a significant obstacle and showcases the variety of Devil Fruit types Doflamingo has recruited for his operations.",
+      "characterIds": ["monet", "caesar-clown", "luffy"],
+      "locationIds": ["punk-hazard-laboratory"],
+      "devilFruitIds": ["yuki-yuki-no-mi"],
+      "quotes": [
+        {
+          "text": "I can't let you harm Master Caesar. Joker would kill me if anything happened to him.",
+          "speaker": "Monet",
+          "context": "Monet explains her motivation for protecting Caesar"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [613, 616],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep607-event-012",
+      "episodeNumber": 607,
+      "timestamp": "23:15",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Monet's Kamakura",
+      "description": "Monet uses her first demonstrated technique, Kamakura, creating a protective snow wall/dome to shield Caesar from Luffy's attacks. The technique shows her defensive capabilities with her snow powers.",
+      "significance": "First display of Monet's snow manipulation techniques, establishing her combat style and role as Caesar's protector.",
+      "characterIds": ["monet", "caesar-clown", "luffy"],
+      "locationIds": ["punk-hazard-laboratory"],
+      "devilFruitIds": ["yuki-yuki-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep607-event-013",
+      "episodeNumber": 607,
+      "timestamp": "23:50",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Doflamingo's Connection to Punk Hazard Confirmed",
+      "description": "Monet mentions 'Joker' (Doflamingo's underworld alias) when explaining why she must protect Caesar, confirming Doflamingo's direct involvement in Caesar's operations and the SAD production on Punk Hazard.",
+      "significance": "This revelation connects the Punk Hazard arc directly to Doflamingo and sets up the Dressrosa arc. It establishes the larger conspiracy involving a Warlord of the Sea in illegal Devil Fruit production.",
+      "characterIds": ["monet", "caesar-clown", "doflamingo"],
+      "locationIds": ["punk-hazard-laboratory"],
+      "quotes": [
+        {
+          "text": "Joker would kill me if anything happened to him.",
+          "speaker": "Monet",
+          "context": "Monet reveals her fear of Doflamingo's retribution"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [595],
+      "payoffInEpisodes": [608, 629],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep607-event-014",
+      "episodeNumber": 607,
+      "timestamp": "19:00",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MINOR",
+      "title": "Smoker Leaves to Find Vergo",
+      "description": "Smoker departs from Luffy's battle area to search for Vergo, the traitor within the Marines who is working with Caesar and Doflamingo.",
+      "significance": "Sets up the eventual confrontation between Smoker and Vergo, revealing the betrayal within the Marine ranks.",
+      "characterIds": ["smoker"],
+      "locationIds": ["punk-hazard-laboratory"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [605],
+      "payoffInEpisodes": [610],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep607-event-015",
+      "episodeNumber": 607,
+      "timestamp": "17:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Poison Gas Flooding Buildings",
+      "description": "The facility's lockdown causes poison gas to begin flooding into the passages between buildings. Both Sanji and Vergo must flee as the deadly Shinokuni gas spreads through Punk Hazard.",
+      "significance": "Creates urgency and raises the stakes for all characters on Punk Hazard. The spreading gas serves as a ticking clock forcing everyone to escape the island.",
+      "characterIds": ["sanji", "vergo"],
+      "locationIds": ["punk-hazard-passage"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [599, 600],
+      "payoffInEpisodes": [608, 620],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["kamakura", "blue-sword", "nenshokei-miok-gas", "flanchet-strike"]
+  },
+  "episodeRelationships": {
+    "setupFor": [608, 610, 612],
+    "payoffFrom": [591, 597, 605],
+    "thematicLinks": [273, 516]
+  },
+  "quotes": [
+    {
+      "text": "I'm gonna beat you up and take you with me!",
+      "speaker": "Luffy",
+      "context": "Luffy's declaration to Caesar at the start of their battle",
+      "timestamp": "03:15"
+    },
+    {
+      "text": "Let's see how long you can last without oxygen, Straw Hat!",
+      "speaker": "Caesar Clown",
+      "context": "Caesar taunts Luffy while using his oxygen deprivation attack",
+      "timestamp": "10:25"
+    },
+    {
+      "text": "Gear Second!",
+      "speaker": "Luffy",
+      "context": "Luffy activates his power-up to counter Caesar's oxygen attack",
+      "timestamp": "11:50"
+    },
+    {
+      "text": "I can't let you harm Master Caesar. Joker would kill me if anything happened to him.",
+      "speaker": "Monet",
+      "context": "Monet reveals her loyalty to Doflamingo while protecting Caesar",
+      "timestamp": "22:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Scientific Ethics and Responsibility",
+      "description": "The episode highlights Caesar's complete disregard for ethics in his pursuit of scientific achievement, using deadly gas weapons without concern for innocent lives.",
+      "symbolism": "Caesar's laboratory represents the corruption of science when divorced from morality.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Loyalty and Betrayal",
+      "description": "Multiple forms of loyalty are explored: Monet's fearful loyalty to Doflamingo, Vergo's betrayal of the Marines, and Law's commitment to his alliance with Luffy.",
+      "symbolism": "The poison gas flooding the facility symbolizes the toxic nature of betrayal spreading through the organization.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Adaptation and Strategy",
+      "description": "Luffy demonstrates strategic thinking by using Gear Second to counter oxygen deprivation, showing his growth beyond simply overpowering opponents.",
+      "symbolism": "The battle showcases the evolution from brute force to tactical combat in the New World.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Intense", "Action-packed", "Suspenseful", "Dark"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Primary Protagonist",
+      "development": "Luffy demonstrates his post-timeskip abilities, using both Gear Second and Haki strategically against Caesar. His determination to capture Caesar for Law's plan shows his commitment to the alliance.",
+      "keyActions": [
+        "Confronts Caesar directly with a powerful opening punch",
+        "Activates Gear Second to overcome oxygen deprivation",
+        "Uses Armament Haki to strike Caesar's Logia body"
+      ],
+      "quotes": ["I'm gonna beat you up and take you with me!", "Gear Second!"]
+    },
+    {
+      "characterId": "caesar-clown",
+      "role": "Primary Antagonist",
+      "development": "Caesar reveals multiple deadly techniques showcasing his mastery of gas manipulation. His desperation and anger grow as Luffy proves resistant to his attacks.",
+      "keyActions": [
+        "Attempts to suffocate Luffy by removing oxygen",
+        "Creates Blue Sword with concentrated oxygen flames",
+        "Uses Nenshokei: Miok Gas combustion attack",
+        "Retreats under Monet's protection"
+      ],
+      "quotes": ["Let's see how long you can last without oxygen, Straw Hat!"]
+    },
+    {
+      "characterId": "monet",
+      "role": "Supporting Antagonist",
+      "development": "Monet's Devil Fruit powers are revealed for the first time, establishing her as a Logia user and Caesar's dedicated protector. Her fear of Doflamingo's retribution explains her motivation.",
+      "keyActions": [
+        "Reveals Yuki Yuki no Mi (Snow-Snow Fruit) powers",
+        "Uses Kamakura to create protective snow barrier",
+        "Mentions 'Joker' (Doflamingo) confirming his involvement"
+      ],
+      "quotes": ["I can't let you harm Master Caesar. Joker would kill me if anything happened to him."]
+    },
+    {
+      "characterId": "sanji",
+      "role": "Secondary Protagonist",
+      "development": "Sanji engages in serious combat with Vergo, showcasing his post-timeskip techniques. The battle tests his abilities against a Vice Admiral-level opponent.",
+      "keyActions": [
+        "Battles Vergo in the passage between buildings",
+        "Uses Flanchet Strike technique",
+        "Must flee from the approaching poison gas"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "trafalgar-law",
+      "role": "Strategic Mastermind",
+      "development": "Law executes his plan by infiltrating the SAD production facility, revealing his strategic thinking and true objective on Punk Hazard.",
+      "keyActions": [
+        "Successfully infiltrates Building D",
+        "Reaches the SAD production room",
+        "Triggers emergency alert system"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends the battle sequences between Luffy vs. Caesar and Sanji vs. Vergo with additional animation and combat choreography not present in the manga.",
+      "episodeTimestamp": "03:15-20:00",
+      "mangaReference": "Chapter 681",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode adapts material from pages 2-19 of Chapter 681 of the manga.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_607",
+          "title": "Episode 607 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-04"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 607 received a TV rating of 7.3%, ranking 5th in its time slot for the week it aired in Japan.",
+      "category": "RATINGS",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_607",
+          "title": "Episode 607 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-04"
+        }
+      ]
+    },
+    {
+      "fact": "The episode was directed by Takashi Ōtsuka with screenplay by Yoshiyuki Suga, who were part of the regular rotation for the Punk Hazard arc.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "This episode marks the first anime appearance of Monet's Yuki Yuki no Mi Devil Fruit powers, though she had appeared in earlier episodes without using them.",
+      "category": "DEVIL_FRUIT",
+      "sources": []
+    },
+    {
+      "fact": "Ryusei Nakao, who voices Caesar Clown, is also famous for voicing Frieza in Dragon Ball Z and Mayuri Kurotsuchi in Bleach.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://www.behindthevoiceactors.com/tv-shows/One-Piece/Caesar-Clown/",
+          "title": "Caesar Clown Voice - Behind The Voice Actors",
+          "platform": "Behind The Voice Actors",
+          "accessedAt": "2026-01-04"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": [],
+  "mangaChapters": [681]
+}

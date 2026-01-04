@@ -1,0 +1,140 @@
+[
+  {
+    "name": {
+      "english": "Punk Hazard Laboratory",
+      "japanese": "パンクハザード研究所",
+      "romanized": "Panku Hazādo Kenkyūjo"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 579,
+    "debutChapter": 655,
+    "description": "Caesar Clown's laboratory on Punk Hazard where he conducts experiments and produces SAD. The facility contains multiple buildings connected by passages.",
+    "episodeAppearances": [607],
+    "keyEvents": [
+      {
+        "episodeNumber": 607,
+        "eventId": "ep607-event-001",
+        "eventType": "BATTLE_START",
+        "title": "Luffy vs. Caesar Battle",
+        "description": "Luffy confronts Caesar in his laboratory, beginning their fierce battle.",
+        "significance": "The main battle location where Luffy attempts to capture Caesar for the alliance's plan.",
+        "timestamp": "03:15"
+      },
+      {
+        "episodeNumber": 607,
+        "eventId": "ep607-event-011",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Monet's Powers Revealed",
+        "description": "Monet reveals her Yuki Yuki no Mi powers in the laboratory to protect Caesar.",
+        "significance": "First demonstration of Monet's Devil Fruit abilities in this location.",
+        "timestamp": "22:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 579,
+        "episodeEnd": 620,
+        "reason": "Laboratory is operational during Punk Hazard arc"
+      }
+    ],
+    "parentLocation": "Punk Hazard",
+    "childLocations": ["SAD Production Room"],
+    "relatedCharacters": ["caesar-clown", "luffy", "monet", "smoker"],
+    "relatedCrews": [],
+    "relatedArcs": ["Punk Hazard Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Punk Hazard Passage (Buildings A-B Connection)",
+      "japanese": "パンクハザード通路",
+      "romanized": "Panku Hazādo Tsūro"
+    },
+    "locationType": "CORRIDOR",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 599,
+    "debutChapter": 673,
+    "description": "The connecting passage between Buildings A and B of the Punk Hazard facility. During the facility's lockdown, these passages become deadly as poison gas floods through them.",
+    "episodeAppearances": [607],
+    "keyEvents": [
+      {
+        "episodeNumber": 607,
+        "eventId": "ep607-event-002",
+        "eventType": "BATTLE_START",
+        "title": "Sanji vs. Vergo",
+        "description": "Sanji and Vergo battle in the passage as it begins to close and poison gas enters.",
+        "significance": "The dangerous environment adds urgency to the battle as both fighters must escape the gas.",
+        "timestamp": "06:40"
+      },
+      {
+        "episodeNumber": 607,
+        "eventId": "ep607-event-015",
+        "eventType": "WORLD_LORE",
+        "title": "Poison Gas Flooding",
+        "description": "The facility lockdown causes poison gas to flood into the passages, forcing Sanji and Vergo to flee.",
+        "significance": "Creates a time limit for all characters on Punk Hazard to escape.",
+        "timestamp": "17:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 599,
+        "episodeEnd": 620,
+        "reason": "Passage is functional but becoming dangerous due to gas"
+      }
+    ],
+    "parentLocation": "Punk Hazard Laboratory",
+    "childLocations": [],
+    "relatedCharacters": ["sanji", "vergo"],
+    "relatedCrews": [],
+    "relatedArcs": ["Punk Hazard Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "SAD Production Room",
+      "japanese": "SAD製造室",
+      "romanized": "SAD Seizō-shitsu"
+    },
+    "locationType": "ROOM",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 607,
+    "debutChapter": 681,
+    "description": "The room in Building D of Punk Hazard where SAD (the base material for artificial Devil Fruits called SMILEs) is produced. This is Caesar's most important facility and Law's primary target.",
+    "episodeAppearances": [607],
+    "keyEvents": [
+      {
+        "episodeNumber": 607,
+        "eventId": "ep607-event-010",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Law Infiltrates SAD Production",
+        "description": "Trafalgar Law successfully infiltrates the SAD production room in Building D, triggering an emergency alert.",
+        "significance": "This is Law's true objective - to destroy the SAD production and cripple Doflamingo's SMILE operations.",
+        "timestamp": "21:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 607,
+        "episodeEnd": 612,
+        "reason": "Production facility active until Law destroys it"
+      }
+    ],
+    "parentLocation": "Punk Hazard Laboratory",
+    "childLocations": [],
+    "relatedCharacters": ["trafalgar-law", "caesar-clown"],
+    "relatedCrews": [],
+    "relatedArcs": ["Punk Hazard Arc"],
+    "images": []
+  }
+]

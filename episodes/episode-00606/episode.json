@@ -1,0 +1,547 @@
+{
+  "episodeNumber": 606,
+  "episodeTitle": "The Treacherous Vice Admiral! Demon Bamboo Vergo!",
+  "episodeTitleJapanese": "裏切りの中将！鬼竹のヴェルゴ",
+  "episodeTitleRomanized": "Uragiri no Chūjō! Kichiku no Verugo",
+  "description": "Vergo arrives at the Punk Hazard facility and shocks the G-5 Marines by attacking them. After brutally injuring Tashigi, Sanji intervenes to protect her. Meanwhile, Chopper helps Mocha with sedatives, and Luffy reaches Caesar's lab to confront the mad scientist.",
+  "airDate": "2013-07-28",
+  "airDateJapan": "2013-07-28",
+  "airDateUS": "2013-07-27",
+  "arcName": "Punk Hazard Arc",
+  "sagaName": "Dressrosa Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Hands Up!",
+    "artist": "Kota Shinzato",
+    "episodeRange": [591, 628]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Takahiro Imamura",
+    "artDirector": "Miho Shiraishi",
+    "animationSupervisor": "Masahiro Shimanuki",
+    "screenplayWriter": "Shōji Yonemura",
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Vergo",
+        "actor": "Junichi Suwabe"
+      },
+      {
+        "character": "Tashigi",
+        "actor": "Junko Noda"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Smoker",
+        "actor": "Mahito Ōba"
+      },
+      {
+        "character": "Caesar Clown",
+        "actor": "Ryūsei Nakao"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Vergo",
+        "actor": "Wes Frazier"
+      },
+      {
+        "character": "Tashigi",
+        "actor": "Monica Rial"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Smoker",
+        "actor": "Greg Dulcie"
+      },
+      {
+        "character": "Caesar Clown",
+        "actor": "Jerry Jewell"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep606-event-001",
+      "episodeNumber": 606,
+      "timestamp": "03:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Straw Hats Continue Through Passage",
+      "description": "The Straw Hats ride on Brownbeard through the passage connecting Buildings A and B, heading toward their objectives while avoiding dangers in the facility.",
+      "significance": "Shows the continued journey through Punk Hazard's dangerous facility as multiple storylines converge.",
+      "characterIds": ["luffy", "zoro", "robin", "brook", "usopp", "nami", "brownbeard"],
+      "locationIds": ["punk-hazard-building-b-passage"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [605],
+      "payoffInEpisodes": [607],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep606-event-002",
+      "episodeNumber": 606,
+      "timestamp": "04:30",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Dragon Attacks G-5 Marines",
+      "description": "A small dragon attacks the G-5 Marines in the passage. Tashigi and the marines attempt to defend themselves from the hostile creature.",
+      "significance": "Demonstrates the continued danger from Caesar's experimental creatures throughout the facility.",
+      "characterIds": ["tashigi"],
+      "locationIds": ["punk-hazard-building-b-passage"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [581],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [581]
+    },
+    {
+      "id": "ep606-event-003",
+      "episodeNumber": 606,
+      "timestamp": "06:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Vice Admiral Vergo Arrives",
+      "description": "Vice Admiral Vergo arrives at the Punk Hazard facility. The G-5 Marines initially celebrate seeing their beloved base commander, unaware of his true allegiance.",
+      "significance": "Marks Vergo's first physical appearance in the anime after being mentioned in previous episodes, setting up his betrayal reveal.",
+      "characterIds": ["vergo"],
+      "locationIds": ["punk-hazard-building-b-passage"],
+      "quotes": [
+        {
+          "text": "Vice Admiral Vergo!",
+          "speaker": "G-5 Marines",
+          "context": "Marines cheering upon seeing Vergo arrive"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [605],
+      "payoffInEpisodes": [607, 608, 609, 610],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep606-event-004",
+      "episodeNumber": 606,
+      "timestamp": "08:20",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Vergo's Betrayal Revealed",
+      "description": "Vergo shocks everyone by brutally attacking the G-5 Marines using Shigan (Finger Gun), a Rokushiki technique. He reveals his true allegiance to Doflamingo, exposing himself as a traitor to the Marines.",
+      "significance": "Major plot twist revealing that a high-ranking Marine Vice Admiral is actually working for the underworld broker Doflamingo, demonstrating the deep corruption within the World Government.",
+      "characterIds": ["vergo", "tashigi", "smoker"],
+      "locationIds": ["punk-hazard-building-b-passage"],
+      "devilFruitIds": [],
+      "crewIds": [],
+      "quotes": [
+        {
+          "text": "They will all be killed here, and I will pass off their deaths as an accident.",
+          "speaker": "Vergo",
+          "context": "Vergo reveals his intent to kill Smoker, Tashigi, and all G-5 Marines"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [605],
+      "payoffInEpisodes": [607, 610],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep606-event-005",
+      "episodeNumber": 606,
+      "timestamp": "09:45",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Vergo Uses Shigan on Marines",
+      "description": "Vergo demonstrates his mastery of Rokushiki techniques by using Shigan (Finger Gun) to attack multiple G-5 Marines simultaneously, showcasing his formidable combat abilities.",
+      "significance": "Reveals Vergo's advanced Marine combat training and establishes him as a serious physical threat beyond his rank.",
+      "characterIds": ["vergo"],
+      "locationIds": ["punk-hazard-building-b-passage"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [610],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep606-event-006",
+      "episodeNumber": 606,
+      "timestamp": "11:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Tashigi's Flashback of Vergo",
+      "description": "Tashigi recalls her memories of Vergo at the G-5 Marine base, where he frequently claimed to visit a sick younger sister. These memories now reveal his deception as he was likely meeting with Doflamingo during those absences.",
+      "significance": "Provides context for Vergo's infiltration of the Marines and shows how long he's been deceiving his subordinates while working for Doflamingo.",
+      "characterIds": ["vergo", "tashigi"],
+      "locationIds": [],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep606-event-007",
+      "episodeNumber": 606,
+      "timestamp": "13:15",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Tashigi Confronts Vergo",
+      "description": "Despite being outmatched, Tashigi bravely charges at Vergo with her sword to protect the G-5 Marines. Vergo easily blocks her attack with his bare arm and grabs her by the head.",
+      "significance": "Demonstrates Tashigi's courage and sense of justice, even when facing an opponent far stronger than herself.",
+      "characterIds": ["tashigi", "vergo"],
+      "locationIds": ["punk-hazard-building-b-passage"],
+      "quotes": [
+        {
+          "text": "Run! Everyone get away from here!",
+          "speaker": "Tashigi",
+          "context": "Tashigi trying to warn the Marines before confronting Vergo"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [607],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep606-event-008",
+      "episodeNumber": 606,
+      "timestamp": "14:50",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Vergo Brutally Attacks Tashigi",
+      "description": "Vergo delivers a devastating close-range punch to Tashigi, severely injuring her. The brutal attack shocks the G-5 Marines and demonstrates Vergo's merciless nature.",
+      "significance": "Shows the extreme danger Vergo poses and his willingness to harm even his former subordinates, establishing him as a ruthless antagonist.",
+      "characterIds": ["vergo", "tashigi"],
+      "locationIds": ["punk-hazard-building-b-passage"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [607],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep606-event-009",
+      "episodeNumber": 606,
+      "timestamp": "16:25",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "Sanji Hears Tashigi's Tears",
+      "description": "Sanji arrives to rescue Tashigi, claiming he heard her tears falling. This demonstrates his chivalrous nature and exceptional observation abilities when it comes to women in distress.",
+      "significance": "Iconic character moment showcasing Sanji's protective instincts toward women and his ability to sense when they're in danger, even from a distance.",
+      "characterIds": ["sanji", "tashigi"],
+      "locationIds": ["punk-hazard-building-b-passage"],
+      "quotes": [
+        {
+          "text": "I heard a lady's tears falling.",
+          "speaker": "Sanji",
+          "context": "Sanji explaining why he came to rescue Tashigi"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep606-event-010",
+      "episodeNumber": 606,
+      "timestamp": "17:40",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Sanji vs Vergo Begins",
+      "description": "Sanji delivers a powerful flaming kick (Diable Jambe) directly to Vergo's face, initiating their battle. This marks the beginning of a significant fight between the Straw Hat cook and the traitorous Vice Admiral.",
+      "significance": "Sets up one of the major confrontations of the Punk Hazard arc, pitting Sanji against a powerful Marine Vice Admiral and Doflamingo's subordinate.",
+      "characterIds": ["sanji", "vergo"],
+      "locationIds": ["punk-hazard-building-b-passage"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [607],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep606-event-011",
+      "episodeNumber": 606,
+      "timestamp": "10:20",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Chopper Encounters Mocha",
+      "description": "Chopper finds Mocha, one of the children, still hallucinating from the drug effects. He manages to defeat soldiers trying to apprehend her and administers a sedative to calm her down.",
+      "significance": "Shows Chopper's medical expertise and his dedication to helping the drugged children, advancing the subplot about saving them from Caesar's experiments.",
+      "characterIds": ["chopper", "mocha"],
+      "locationIds": ["punk-hazard-facility"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [605],
+      "payoffInEpisodes": [607, 608],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep606-event-012",
+      "episodeNumber": 606,
+      "timestamp": "12:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Chopper Pleads with Mocha for Help",
+      "description": "After calming Mocha down, Chopper desperately pleads with her to help prevent the other children from eating the drugged candy that Caesar has been giving them.",
+      "significance": "Enlists Mocha as an ally in protecting the children, setting up her crucial role in the arc's climax.",
+      "characterIds": ["chopper", "mocha"],
+      "locationIds": ["punk-hazard-facility"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [605],
+      "payoffInEpisodes": [608, 609],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep606-event-013",
+      "episodeNumber": 606,
+      "timestamp": "19:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Luffy and Smoker Reach Caesar's Lab",
+      "description": "Luffy and Smoker race through the facility and successfully arrive at Caesar Clown's private laboratory, ready to confront the mad scientist.",
+      "significance": "Marks the convergence of major characters at Caesar's lab, setting up the confrontation with the arc's main antagonist.",
+      "characterIds": ["luffy", "smoker"],
+      "locationIds": ["caesar-lab-punk-hazard"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [605],
+      "payoffInEpisodes": [607],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep606-event-014",
+      "episodeNumber": 606,
+      "timestamp": "20:45",
+      "eventType": "BATTLE_START",
+      "severity": "CRITICAL",
+      "title": "Luffy Punches Caesar Clown",
+      "description": "Luffy enters Caesar's private room and immediately delivers a blindingly fast and powerful punch to Caesar's stomach, declaring he won't let him escape this time. Caesar turns around in shock, finding Luffy's fist buried in his stomach.",
+      "significance": "Marks the beginning of Luffy's direct confrontation with Caesar Clown, demonstrating Luffy's determination to defeat the scientist who hurt the children.",
+      "characterIds": ["luffy", "caesar-clown"],
+      "locationIds": ["caesar-lab-punk-hazard"],
+      "quotes": [
+        {
+          "text": "I won't let you get away this time!",
+          "speaker": "Luffy",
+          "context": "Luffy declaring his intent to defeat Caesar before punching him"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [599, 605],
+      "payoffInEpisodes": [607, 608],
+      "callbacksToEpisodes": [599]
+    },
+    {
+      "id": "ep606-event-015",
+      "episodeNumber": 606,
+      "timestamp": "21:15",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Doflamingo Revealed as Joker",
+      "description": "The connection between Vergo and his boss 'Joker' is revealed to be Donquixote Doflamingo, one of the Seven Warlords of the Sea. This exposes the link between the underworld broker activities and a powerful World Government-sanctioned pirate.",
+      "significance": "Major revelation connecting Caesar's illegal operations to Doflamingo, establishing the deeper conspiracy and setting up future arcs.",
+      "characterIds": ["vergo", "doflamingo"],
+      "locationIds": [],
+      "quotes": [
+        {
+          "text": "Joker is Donquixote Doflamingo.",
+          "speaker": "Law",
+          "context": "Law revealing Joker's true identity to Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [595, 605],
+      "payoffInEpisodes": [625, 629],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["vergo"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["shigan"]
+  },
+  "episodeRelationships": {
+    "setupFor": [607, 608, 609, 610],
+    "payoffFrom": [605],
+    "thematicLinks": [610]
+  },
+  "quotes": [
+    {
+      "text": "I heard a lady's tears falling.",
+      "speaker": "Sanji",
+      "context": "Sanji's iconic entrance to save Tashigi",
+      "timestamp": "16:25"
+    },
+    {
+      "text": "They will all be killed here, and I will pass off their deaths as an accident.",
+      "speaker": "Vergo",
+      "context": "Vergo revealing his plan to Smoker and Tashigi",
+      "timestamp": "08:20"
+    },
+    {
+      "text": "I won't let you get away this time!",
+      "speaker": "Luffy",
+      "context": "Luffy confronting Caesar in his lab",
+      "timestamp": "20:45"
+    },
+    {
+      "text": "Joker is Donquixote Doflamingo.",
+      "speaker": "Law",
+      "context": "Law revealing Joker's identity",
+      "timestamp": "21:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Betrayal and Corruption",
+      "description": "The episode explores the theme of betrayal as Vergo, a trusted Marine Vice Admiral, reveals himself as a traitor working for Doflamingo, highlighting corruption within the World Government.",
+      "symbolism": "Vergo's attack on his own subordinates symbolizes the deep-rooted corruption and moral decay within supposedly just institutions.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Protection and Chivalry",
+      "description": "Sanji's rescue of Tashigi exemplifies his unwavering code of chivalry and protection of women, even those who were previously opponents.",
+      "symbolism": "Sanji hearing Tashigi's tears represents his deep empathy and sense of justice.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Medical Ethics and Care",
+      "description": "Chopper's dedication to helping the drugged children showcases the medical professional's duty to protect and heal, especially the vulnerable.",
+      "symbolism": "Mocha represents the innocent victims of unethical experimentation that must be saved.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Shocking", "Intense", "Dramatic", "Action-packed"],
+  "characterSpotlights": [
+    {
+      "characterId": "vergo",
+      "role": "Major antagonist reveal",
+      "development": "Vergo is revealed as a major antagonist, showing his true colors as a traitor to the Marines and a subordinate of Doflamingo. His combat prowess and ruthlessness are established.",
+      "keyActions": [
+        "Arrives at Punk Hazard facility",
+        "Attacks G-5 Marines with Shigan",
+        "Reveals betrayal and allegiance to Doflamingo",
+        "Brutally attacks Tashigi",
+        "Engages in battle with Sanji"
+      ],
+      "quotes": ["They will all be killed here, and I will pass off their deaths as an accident."]
+    },
+    {
+      "characterId": "sanji",
+      "role": "Hero and protector",
+      "development": "Sanji demonstrates his chivalrous nature and combat abilities by intervening to save Tashigi from Vergo, setting up a major confrontation.",
+      "keyActions": [
+        "Hears Tashigi's tears from afar",
+        "Arrives to rescue Tashigi",
+        "Delivers flaming kick to Vergo",
+        "Begins battle with Vice Admiral"
+      ],
+      "quotes": ["I heard a lady's tears falling."]
+    },
+    {
+      "characterId": "tashigi",
+      "role": "Victim of betrayal",
+      "development": "Tashigi shows her courage by attempting to fight Vergo despite being outmatched, but suffers a brutal defeat that necessitates Sanji's rescue.",
+      "keyActions": [
+        "Warns Marines about Vergo",
+        "Remembers Vergo's deception",
+        "Bravely confronts Vergo",
+        "Gets severely injured"
+      ],
+      "quotes": ["Run! Everyone get away from here!"]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Determined hero",
+      "development": "Luffy reaches Caesar's lab and immediately attacks, showing his determination to defeat the scientist and save the children.",
+      "keyActions": [
+        "Races to Caesar's lab with Smoker",
+        "Arrives at Caesar's private room",
+        "Punches Caesar in the stomach",
+        "Declares he won't let Caesar escape"
+      ],
+      "quotes": ["I won't let you get away this time!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime expanded the scene of Dragon Number Twenty-One attacking Tashigi and the G-5 Marines, which was not present in the manga.",
+      "episodeTimestamp": "04:30",
+      "mangaReference": "Chapter 680",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "The anime added a scene showing Chopper's encounter with Mocha at the landing pad with more detail than the manga.",
+      "episodeTimestamp": "10:20",
+      "mangaReference": "Chapter 680",
+      "type": "EXPANDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks Vergo's first full appearance in the anime, though he was mentioned in previous episodes.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_606",
+          "title": "Episode 606 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-04"
+        }
+      ]
+    },
+    {
+      "fact": "The episode title 'Demon Bamboo Vergo' refers to Vergo's epithet 'Kichiku no Vergo' (鬼竹のヴェルゴ), with 'kichiku' meaning both 'demon bamboo' and 'brutal/cruel.'",
+      "category": "TRANSLATION",
+      "sources": []
+    },
+    {
+      "fact": "Sanji's line about hearing a lady's tears is one of his most iconic moments in the Punk Hazard arc, showcasing his extreme chivalry.",
+      "category": "CHARACTER",
+      "sources": []
+    },
+    {
+      "fact": "The episode adapted Chapter 680 (pages 2-19) from the manga, which was titled 'Marine G-5 Base Commander Vergo the Demon Bamboo.'",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chapter_680",
+          "title": "Chapter 680 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-04"
+        }
+      ]
+    },
+    {
+      "fact": "No ending theme was used for this episode, as Toei Animation stopped airing endings from episode 279 to episode 1070.",
+      "category": "PRODUCTION",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
