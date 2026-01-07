@@ -1,0 +1,106 @@
+[
+  {
+    "id": "straw-hat-pirates",
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [612],
+    "captain": {
+      "characterId": "luffy",
+      "episodeStarted": 1
+    },
+    "members": [
+      {
+        "characterId": "luffy",
+        "role": "Captain",
+        "episodeJoined": 1,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "zoro",
+        "role": "Combatant/Swordsman",
+        "episodeJoined": 2,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "nami",
+        "role": "Navigator",
+        "episodeJoined": 44,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "robin",
+        "role": "Archaeologist",
+        "episodeJoined": 130,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "chopper",
+        "role": "Doctor",
+        "episodeJoined": 90,
+        "episodeLeft": null
+      },
+      {
+        "characterId": "sanji",
+        "role": "Cook",
+        "episodeJoined": 30,
+        "episodeLeft": null
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 612,
+        "eventId": "ep612-event-003",
+        "description": "Zoro battles Monet to protect Nami, Robin, and Chopper while they pursue Mocha and the drugged children.",
+        "significance": "Shows the crew working together to protect the children on Punk Hazard."
+      },
+      {
+        "episodeNumber": 612,
+        "eventId": "ep612-event-008",
+        "description": "Sanji arrives with G-5 Marines to join the battle against Monet.",
+        "significance": "Demonstrates the crew's alliance with the Marines in fighting Caesar's forces."
+      }
+    ],
+    "status": "ACTIVE",
+    "affiliations": ["Pirates"],
+    "territories": [],
+    "alliances": [
+      {
+        "allyId": "marines",
+        "description": "Temporary alliance with G-5 Marines on Punk Hazard",
+        "episodeFormed": 589,
+        "episodeEnded": null,
+        "status": "TEMPORARY"
+      }
+    ]
+  },
+  {
+    "id": "marines",
+    "name": {
+      "english": "Marines",
+      "japanese": "海軍",
+      "romanized": "Kaigun"
+    },
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [612],
+    "captain": null,
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 612,
+        "eventId": "ep612-event-008",
+        "description": "G-5 Marines arrive with Sanji to fight Monet but become distracted and ineffective.",
+        "significance": "Shows the challenges of the temporary alliance with the Straw Hats."
+      }
+    ],
+    "status": "ACTIVE",
+    "affiliations": ["World Government"],
+    "territories": [],
+    "alliances": []
+  }
+]

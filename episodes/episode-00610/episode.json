@@ -1,0 +1,388 @@
+{
+  "episodeNumber": 610,
+  "episodeTitle": "Clashing Fists! The Battle of Two Vice Admirals",
+  "episodeTitleJapanese": "ぶつかる拳！二人の中将の戦い",
+  "episodeTitleRomanized": "Butsukaru Kobushi! Futari no Chūjō no Tatakai",
+  "description": "Smoker and Vergo engage in an intense battle in the SAD Room while Caesar Clown executes his plan to trap everyone on Punk Hazard. As Shinokuni gas enters the building through a ruptured tank, a crucial flashback reveals the truth about the catastrophic incident four years ago. Meanwhile, Luffy discovers a talking dragon in the basement.",
+  "airDate": "2013-09-01",
+  "airDateJapan": "2013-09-01",
+  "airDateUS": "2013-08-31",
+  "arcName": "Punk Hazard Arc",
+  "sagaName": "Dressrosa Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Hands Up!",
+    "artist": "Kota Shinzato",
+    "episodeRange": [591, 628]
+  },
+  "endingSong": null,
+  "credits": {
+    "episodeDirector": "Yoshihiro Ueda",
+    "animationDirector": "Yukiko Nakatani",
+    "artDirector": "Miho Shiraishi",
+    "writer": "Jin Tanaka",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Smoker",
+        "actor": "Mahito Ohba"
+      },
+      {
+        "character": "Vergo",
+        "actor": "Junichi Suwabe"
+      },
+      {
+        "character": "Caesar Clown",
+        "actor": "Ryūsei Nakao"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tashigi",
+        "actor": "Junko Noda"
+      },
+      {
+        "character": "Momonosuke",
+        "actor": "Ai Orikasa"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Smoker",
+        "actor": "Greg Dulcie"
+      },
+      {
+        "character": "Vergo",
+        "actor": "Wes Frazier"
+      },
+      {
+        "character": "Caesar Clown",
+        "actor": "Jerry Jewell"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tashigi",
+        "actor": "Monica Rial"
+      },
+      {
+        "character": "Momonosuke",
+        "actor": "Corinne Sudberg"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep610-event-001",
+      "episodeNumber": 610,
+      "timestamp": "05:00",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Smoker vs Vergo Battle Begins in SAD Room",
+      "description": "Vice Admiral Smoker confronts Vice Admiral Vergo in the SAD Production Room. The two engage in close combat, with both utilizing their formidable Haki abilities in an intense clash between Marine officers.",
+      "significance": "Reveals the depth of Vergo's betrayal as he fights against a fellow Marine Vice Admiral while protecting Caesar's operations. This battle demonstrates the corruption within the Marines and the Donquixote Pirates' infiltration.",
+      "characterIds": ["smoker", "vergo"],
+      "locationIds": ["sad-room"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [607, 608, 609],
+      "payoffInEpisodes": [612, 613],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep610-event-002",
+      "episodeNumber": 610,
+      "timestamp": "08:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Vergo's Full-Body Armament Haki",
+      "description": "Vergo demonstrates his mastery of Armament Haki by coating his entire body and bamboo staff in hardened black armor. This display of advanced Haki technique showcases his elite combat abilities.",
+      "significance": "Establishes Vergo as one of the most skilled Haki users seen up to this point in the series, demonstrating that full-body Haki hardening is possible for elite fighters.",
+      "characterIds": ["vergo"],
+      "locationIds": ["sad-room"],
+      "devilFruitIds": [],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [612],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep610-event-003",
+      "episodeNumber": 610,
+      "timestamp": "11:00",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Sanji and Tashigi Navigate Battle-Damaged B-Block",
+      "description": "Sanji and Tashigi, along with G-5 Marines, make their way through the heavily damaged B-block section of the research facility, navigating debris and destruction from previous battles.",
+      "significance": "Shows the continued cooperation between the Straw Hats and Marines against the common threat of Caesar Clown, while building tension as they move through dangerous territory.",
+      "characterIds": ["sanji", "tashigi"],
+      "locationIds": ["building-b-block"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [608, 609],
+      "payoffInEpisodes": [611],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep610-event-004",
+      "episodeNumber": 610,
+      "timestamp": "13:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Caesar Closes Gates to Trap Everyone",
+      "description": "Caesar Clown executes his sinister plan by remotely closing the gates to C-block and D-block, effectively trapping all intruders and directing them toward section R where he has prepared additional poisonous gas as a trap.",
+      "significance": "This marks the escalation of Caesar's plan to eliminate all witnesses and demonstrates his ruthless willingness to kill Marines, pirates, and his own subordinates to protect his secrets.",
+      "characterIds": ["caesar-clown"],
+      "locationIds": ["punk-hazard-facility"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [602, 609],
+      "payoffInEpisodes": [611, 612],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep610-event-005",
+      "episodeNumber": 610,
+      "timestamp": "15:20",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Shinokuni Gas Enters B-Block",
+      "description": "A gas tank ruptures in B-block, allowing Caesar's deadly chemical weapon Shinokuni to enter the facility. The poisonous petrifying gas begins spreading through the corridor where Sanji, Tashigi, and the G-5 Marines are located.",
+      "significance": "Introduces immediate mortal danger to multiple characters and raises the stakes dramatically. The Shinokuni gas forces everyone to flee or face petrification and death.",
+      "characterIds": ["caesar-clown", "sanji", "tashigi"],
+      "locationIds": ["building-b-block"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [602],
+      "payoffInEpisodes": [611, 612],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep610-event-006",
+      "episodeNumber": 610,
+      "timestamp": "17:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Caesar Deliberately Caused the Punk Hazard Catastrophe",
+      "description": "A crucial flashback reveals the truth about the catastrophic poison gas incident that devastated Punk Hazard four years ago. Contrary to Caesar's claims that it was an accident, the flashback shows that Caesar Clown deliberately triggered the explosion as part of his experiments.",
+      "significance": "Exposes Caesar as a mass murderer who intentionally killed or maimed hundreds of people for his weapons research. This revelation transforms him from a mad scientist into a genocidal villain and explains why the island became uninhabitable.",
+      "characterIds": ["caesar-clown"],
+      "locationIds": ["punk-hazard"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [581, 591],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [581]
+    },
+    {
+      "id": "ep610-event-007",
+      "episodeNumber": 610,
+      "timestamp": "19:00",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Vegapunk's Former Laboratory Revealed",
+      "description": "The episode reveals that section R of the Punk Hazard facility was originally Dr. Vegapunk's laboratory before the catastrophic incident. This area contained advanced research equipment and experiments from the world's greatest scientist.",
+      "significance": "Establishes the connection between Vegapunk and Punk Hazard, explaining why such advanced research was being conducted on the island and hinting at the legacy of scientific work that Caesar inherited.",
+      "characterIds": [],
+      "locationIds": ["section-r"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep610-event-008",
+      "episodeNumber": 610,
+      "timestamp": "20:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Luffy Discovers the Talking Dragon",
+      "description": "Luffy finds a small dragon in the basement of the research facility that can speak human language. The dragon appears distressed and afraid, unlike the larger dragon the Straw Hats encountered earlier.",
+      "significance": "This is actually Momonosuke in his dragon form, marking a crucial discovery that will reveal the existence of artificial Devil Fruits. The speaking dragon immediately distinguishes itself from normal animals or typical Zoan transformations.",
+      "characterIds": ["luffy", "momonosuke"],
+      "locationIds": ["basement"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [609],
+      "payoffInEpisodes": [611],
+      "callbacksToEpisodes": [591]
+    },
+    {
+      "id": "ep610-event-009",
+      "episodeNumber": 610,
+      "timestamp": "21:30",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Artificial Devil Fruit Introduction",
+      "description": "The episode introduces the concept of artificial Devil Fruits through visual hints and context surrounding the mysterious dragon that Luffy discovers. These synthetic fruits are revealed to be created through scientific manipulation rather than natural means.",
+      "significance": "This introduces one of the most important plot elements of the post-timeskip era: the ability to manufacture Devil Fruit powers artificially. This technology will have major ramifications for the balance of power in the world.",
+      "characterIds": ["momonosuke"],
+      "locationIds": ["basement"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [611],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": ["sad-room", "section-r"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["full-body-armament-haki"]
+  },
+  "episodeRelationships": {
+    "setupFor": [611, 612, 613],
+    "payoffFrom": [602, 607, 608, 609],
+    "thematicLinks": [581, 591]
+  },
+  "quotes": [],
+  "themes": [
+    {
+      "theme": "Betrayal and Corruption",
+      "description": "The episode heavily explores themes of betrayal, particularly Vergo's infiltration of the Marines and Caesar's betrayal of scientific ethics and human decency.",
+      "symbolism": "The battle between two Vice Admirals symbolizes the corruption that has infected the Marines from within.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Cost of Scientific Ambition",
+      "description": "Caesar's flashback reveals the horrific price of unchecked scientific experimentation, showing how ambition without ethics leads to mass casualties and suffering.",
+      "symbolism": "The ruined, toxic landscape of Punk Hazard serves as a permanent reminder of the catastrophe caused by Caesar's hubris.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Unlikely Alliances",
+      "description": "The continued cooperation between Sanji and Tashigi demonstrates how extraordinary circumstances can create partnerships between natural enemies.",
+      "symbolism": "Pirates and Marines working together represents the idea that greater threats require setting aside differences.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Dark", "Action-Packed"],
+  "characterSpotlights": [
+    {
+      "characterId": "smoker",
+      "role": "Key combatant fighting for justice",
+      "development": "Smoker demonstrates his unwavering commitment to justice by confronting Vergo despite the betrayal of a fellow Vice Admiral. His battle showcases both his combat prowess and moral integrity.",
+      "keyActions": [
+        "Engages Vergo in intense hand-to-hand combat",
+        "Uses his Logia abilities and Haki in combination",
+        "Refuses to back down despite Vergo's formidable power"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "vergo",
+      "role": "Primary antagonist and revealed traitor",
+      "development": "Vergo is fully exposed as a Donquixote Pirates operative embedded in the Marines. His combat abilities and ruthlessness are on full display as he attempts to eliminate Smoker.",
+      "keyActions": [
+        "Demonstrates full-body Armament Haki mastery",
+        "Battles Smoker with deadly intent",
+        "Protects Caesar's SAD production operations"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "caesar-clown",
+      "role": "Master manipulator and mass murderer",
+      "development": "The episode reveals the full extent of Caesar's evil through the flashback showing his deliberate murder of hundreds. His current actions trapping everyone show he hasn't changed.",
+      "keyActions": [
+        "Closes gates to trap all intruders",
+        "Deploys Shinokuni gas to kill witnesses",
+        "Shown deliberately causing the catastrophe four years ago"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "luffy",
+      "role": "Adventurer and discoverer",
+      "development": "Luffy's discovery of Momonosuke sets up the revelation of artificial Devil Fruits and adds another dimension to the Punk Hazard mystery.",
+      "keyActions": [
+        "Explores the basement of the facility",
+        "Discovers the talking dragon (Momonosuke)",
+        "Shows concern for the frightened dragon"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime expanded the Smoker vs Vergo fight scenes with additional combat choreography and extended sequences not present in the manga.",
+      "episodeTimestamp": "05:00-10:00",
+      "mangaReference": "Chapter 690",
+      "type": "EXPANDED_SCENE"
+    },
+    {
+      "difference": "Additional scenes showing Sanji and Tashigi navigating through B-block were added for pacing and tension building.",
+      "episodeTimestamp": "11:00",
+      "mangaReference": "Chapter 689-690",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the first full display of complete full-body Armament Haki in the anime, with Vergo coating his entire body in black hardening.",
+      "category": "ABILITIES",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Vergo",
+          "title": "Vergo - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-07"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 610 aired on September 1, 2013 in Japan, but the US simulcast was available a day earlier on August 31, 2013 due to time zone differences.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_610",
+          "title": "Episode 610 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-07"
+        }
+      ]
+    },
+    {
+      "fact": "The artificial Devil Fruit concept introduced in this episode (and fully revealed in the next) becomes a major plot element affecting multiple story arcs including Dressrosa and Wano.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Artificial_Devil_Fruit",
+          "title": "Artificial Devil Fruit - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-07"
+        }
+      ]
+    },
+    {
+      "fact": "Momonosuke's dragon form seen at the end of this episode is pink-colored, which was why Vegapunk considered his artificial Devil Fruit a failure despite it working perfectly otherwise.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Artificial_Devil_Fruit",
+          "title": "Artificial Devil Fruit - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-07"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

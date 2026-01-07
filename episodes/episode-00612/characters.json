@@ -1,0 +1,391 @@
+[
+  {
+    "id": "mocha",
+    "name": {
+      "english": "Mocha",
+      "japanese": "モチャ",
+      "romanized": "Mocha"
+    },
+    "debutEpisode": 600,
+    "debutChapter": 684,
+    "episodeAppearances": [612],
+    "keyMoments": [
+      {
+        "episodeNumber": 612,
+        "eventId": "ep612-event-001",
+        "momentType": "BACKSTORY_REVEAL",
+        "title": "Mocha's Arrival at Punk Hazard",
+        "description": "Flashback reveals how Mocha and Sind arrived at Punk Hazard, where Caesar Clown manipulated them with a fabricated story about illness.",
+        "significance": "Shows the depth of Caesar's manipulation and how he separated children from their families.",
+        "timestamp": "03:45",
+        "quote": ""
+      },
+      {
+        "episodeNumber": 612,
+        "eventId": "ep612-event-002",
+        "momentType": "MAJOR_DECISION",
+        "title": "Mocha's Brave Escape",
+        "description": "After learning the candy will kill the children, Mocha flees with all of it to protect her friends, despite being pursued by drug-affected children.",
+        "significance": "Demonstrates Mocha's selflessness and courage in the face of danger.",
+        "timestamp": "05:20",
+        "quote": ""
+      }
+    ],
+    "status": "ALIVE",
+    "statusHistory": [
+      {
+        "status": "ALIVE",
+        "episodeStart": 600,
+        "episodeEnd": "present"
+      }
+    ],
+    "occupations": ["Child"],
+    "affiliations": [],
+    "age": 8,
+    "reveals": [
+      {
+        "infoType": "BACKSTORY",
+        "information": "Was taken from her mother at age 6 by Caesar Clown under false pretenses of illness",
+        "episodeRevealed": 612,
+        "severity": "MAJOR"
+      }
+    ],
+    "relationships": [
+      {
+        "targetCharacterId": "caesar-clown",
+        "relationshipType": "VICTIM",
+        "description": "Mocha was manipulated and experimented on by Caesar, who fabricated stories to gain her trust.",
+        "episodeEstablished": 612,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 612,
+            "description": "Flashback reveals how Caesar deceived Mocha with a false story about his dead son.",
+            "newRelationshipType": "VICTIM"
+          }
+        ]
+      }
+    ],
+    "voiceActors": {
+      "japanese": "Ao Takahashi",
+      "english": "TBD"
+    }
+  },
+  {
+    "id": "zoro",
+    "name": {
+      "english": "Roronoa Zoro",
+      "japanese": "ロロノア・ゾロ",
+      "romanized": "Roronoa Zoro"
+    },
+    "debutEpisode": 1,
+    "debutChapter": 3,
+    "episodeAppearances": [612],
+    "keyMoments": [
+      {
+        "episodeNumber": 612,
+        "eventId": "ep612-event-003",
+        "momentType": "BATTLE_START",
+        "title": "Defensive Battle Against Monet",
+        "description": "Zoro engages Monet in combat but fights defensively to protect Nami, Robin, and Chopper rather than attacking offensively.",
+        "significance": "Shows Zoro's strategic thinking and his priority to protect his crewmates.",
+        "timestamp": "08:15",
+        "quote": ""
+      }
+    ],
+    "status": "ALIVE",
+    "statusHistory": [
+      {
+        "status": "ALIVE",
+        "episodeStart": 1,
+        "episodeEnd": "present"
+      }
+    ],
+    "occupations": ["Pirate", "Swordsman"],
+    "affiliations": [
+      {
+        "crewId": "straw-hat-pirates",
+        "role": "Combatant",
+        "episodeJoined": 2,
+        "episodeLeft": null
+      }
+    ],
+    "reveals": [],
+    "voiceActors": {
+      "japanese": "Kazuya Nakai",
+      "english": "Christopher Sabat"
+    }
+  },
+  {
+    "id": "monet",
+    "name": {
+      "english": "Monet",
+      "japanese": "モネ",
+      "romanized": "Mone"
+    },
+    "debutEpisode": 581,
+    "debutChapter": 657,
+    "episodeAppearances": [612],
+    "keyMoments": [
+      {
+        "episodeNumber": 612,
+        "eventId": "ep612-event-003",
+        "momentType": "BATTLE_START",
+        "title": "Battle Against Zoro and the Straw Hats",
+        "description": "Monet fights Zoro while attempting to eliminate Nami, Robin, and Chopper, displaying multiple snow-based techniques.",
+        "significance": "Showcases Monet's full combat capabilities with the Yuki Yuki no Mi.",
+        "timestamp": "08:15",
+        "quote": "Why do you only block? Fight back!"
+      },
+      {
+        "episodeNumber": 612,
+        "eventId": "ep612-event-004",
+        "momentType": "TECHNIQUE_DEBUT",
+        "title": "Uses Yuki Gaki",
+        "description": "Creates a solid snow wall to block doorways and prevent pursuit.",
+        "significance": "First use of this defensive technique in the anime.",
+        "timestamp": "10:30",
+        "quote": ""
+      },
+      {
+        "episodeNumber": 612,
+        "eventId": "ep612-event-007",
+        "momentType": "TECHNIQUE_DEBUT",
+        "title": "Uses Mannen Yuki",
+        "description": "Transforms into snow and surrounds opponents to immobilize and weaken them with severe cold.",
+        "significance": "Demonstrates her signature technique and the full power of her Logia fruit.",
+        "timestamp": "14:20",
+        "quote": ""
+      },
+      {
+        "episodeNumber": 612,
+        "eventId": "ep612-event-009",
+        "momentType": "TECHNIQUE_DEBUT",
+        "title": "Uses Tabira Yuki: Hada Gatana",
+        "description": "Freezes her wing feathers into ice blades capable of clashing with Zoro's swords.",
+        "significance": "Shows her versatility in transforming body parts into weapons.",
+        "timestamp": "18:25",
+        "quote": ""
+      }
+    ],
+    "status": "ALIVE",
+    "statusHistory": [
+      {
+        "status": "ALIVE",
+        "episodeStart": 581,
+        "episodeEnd": "present"
+      }
+    ],
+    "occupations": ["Scientist", "Assassin"],
+    "affiliations": [
+      {
+        "crewId": "donquixote-pirates",
+        "role": "Undercover Agent",
+        "episodeJoined": null,
+        "episodeLeft": null
+      }
+    ],
+    "devilFruitProgression": {
+      "fruitId": "yuki-yuki-no-mi",
+      "episodeConsumed": null,
+      "episodeLost": null,
+      "awakeningEpisode": null
+    },
+    "abilities": [
+      {
+        "abilityName": "Yuki Gaki",
+        "abilityType": "DEVIL_FRUIT",
+        "episodeFirstUsed": 612,
+        "description": "Creates a solid snow wall to block doorways and paths."
+      },
+      {
+        "abilityName": "Mannen Yuki",
+        "abilityType": "DEVIL_FRUIT",
+        "episodeFirstUsed": 612,
+        "description": "Transforms into snow and surrounds opponents' bodies, weakening and immobilizing them with severe cold."
+      },
+      {
+        "abilityName": "Tabira Yuki: Hada Gatana",
+        "abilityType": "DEVIL_FRUIT",
+        "episodeFirstUsed": 612,
+        "description": "Freezes wing feathers into sharpened solid snow-blades capable of clashing with swords."
+      }
+    ],
+    "reveals": [],
+    "voiceActors": {
+      "japanese": "Mie Sonozaki",
+      "english": "TBD"
+    }
+  },
+  {
+    "id": "tashigi",
+    "name": {
+      "english": "Tashigi",
+      "japanese": "たしぎ",
+      "romanized": "Tashigi"
+    },
+    "debutEpisode": 48,
+    "debutChapter": 96,
+    "episodeAppearances": [612],
+    "keyMoments": [
+      {
+        "episodeNumber": 612,
+        "eventId": "ep612-event-010",
+        "momentType": "POWER_REVEAL",
+        "title": "Demonstrates Haki-Infused Swordplay",
+        "description": "Tashigi joins Zoro in fighting Monet, using Busoshoku Haki on her sword to harm the Logia-user.",
+        "significance": "Reveals Tashigi's post-timeskip growth and her mastery of Haki, a critical ability for fighting Logia users.",
+        "timestamp": "20:15",
+        "quote": ""
+      }
+    ],
+    "status": "ALIVE",
+    "statusHistory": [
+      {
+        "status": "ALIVE",
+        "episodeStart": 48,
+        "episodeEnd": "present"
+      }
+    ],
+    "occupations": ["Marine", "Swordswoman"],
+    "affiliations": [
+      {
+        "crewId": "marines",
+        "role": "Captain",
+        "episodeJoined": 48,
+        "episodeLeft": null
+      }
+    ],
+    "abilities": [
+      {
+        "abilityName": "Busoshoku Haki",
+        "abilityType": "HAKI",
+        "episodeFirstUsed": 612,
+        "description": "Infuses her sword with Armament Haki to harm Logia-type Devil Fruit users."
+      }
+    ],
+    "reveals": [
+      {
+        "infoType": "ABILITY",
+        "information": "Can use Busoshoku Haki to infuse her sword",
+        "episodeRevealed": 612,
+        "severity": "MAJOR"
+      }
+    ],
+    "voiceActors": {
+      "japanese": "Junko Noda",
+      "english": "Monica Rial"
+    }
+  },
+  {
+    "id": "nami",
+    "name": {
+      "english": "Nami",
+      "japanese": "ナミ",
+      "romanized": "Nami"
+    },
+    "debutEpisode": 1,
+    "debutChapter": 8,
+    "episodeAppearances": [612],
+    "keyMoments": [
+      {
+        "episodeNumber": 612,
+        "eventId": "ep612-event-005",
+        "momentType": "TECHNIQUE_DEBUT",
+        "title": "Uses Heat Egg",
+        "description": "Nami employs her Heat Egg technique with the Clima-Tact against Monet's snow abilities.",
+        "significance": "Shows Nami's tactical approach to counter snow-based attacks with heat.",
+        "timestamp": "11:45",
+        "quote": ""
+      }
+    ],
+    "status": "ALIVE",
+    "statusHistory": [
+      {
+        "status": "ALIVE",
+        "episodeStart": 1,
+        "episodeEnd": "present"
+      }
+    ],
+    "occupations": ["Pirate", "Navigator"],
+    "affiliations": [
+      {
+        "crewId": "straw-hat-pirates",
+        "role": "Navigator",
+        "episodeJoined": 44,
+        "episodeLeft": null
+      }
+    ],
+    "abilities": [
+      {
+        "abilityName": "Heat Egg",
+        "abilityType": "WEAPON",
+        "episodeFirstUsed": 612,
+        "description": "Weather-based heat attack using the Clima-Tact."
+      }
+    ],
+    "reveals": [],
+    "voiceActors": {
+      "japanese": "Akemi Okamura",
+      "english": "Luci Christian"
+    }
+  },
+  {
+    "id": "robin",
+    "name": {
+      "english": "Nico Robin",
+      "japanese": "ニコ・ロビン",
+      "romanized": "Niko Robin"
+    },
+    "debutEpisode": 67,
+    "debutChapter": 114,
+    "episodeAppearances": [612],
+    "keyMoments": [
+      {
+        "episodeNumber": 612,
+        "eventId": "ep612-event-006",
+        "momentType": "TECHNIQUE_DEBUT",
+        "title": "Uses Cuatro Mano: Spank",
+        "description": "Robin manifests multiple limbs using her Hana Hana no Mi to execute Cuatro Mano: Spank against Monet.",
+        "significance": "Demonstrates Robin's combat application of her Devil Fruit powers.",
+        "timestamp": "12:50",
+        "quote": ""
+      }
+    ],
+    "status": "ALIVE",
+    "statusHistory": [
+      {
+        "status": "ALIVE",
+        "episodeStart": 67,
+        "episodeEnd": "present"
+      }
+    ],
+    "occupations": ["Pirate", "Archaeologist"],
+    "affiliations": [
+      {
+        "crewId": "straw-hat-pirates",
+        "role": "Archaeologist",
+        "episodeJoined": 130,
+        "episodeLeft": null
+      }
+    ],
+    "devilFruitProgression": {
+      "fruitId": "hana-hana-no-mi",
+      "episodeConsumed": null,
+      "episodeLost": null,
+      "awakeningEpisode": null
+    },
+    "abilities": [
+      {
+        "abilityName": "Cuatro Mano: Spank",
+        "abilityType": "DEVIL_FRUIT",
+        "episodeFirstUsed": 612,
+        "description": "Manifests four arms to strike opponents."
+      }
+    ],
+    "reveals": [],
+    "voiceActors": {
+      "japanese": "Yuriko Yamaguchi",
+      "english": "Stephanie Young"
+    }
+  }
+]

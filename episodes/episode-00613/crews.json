@@ -1,0 +1,143 @@
+[
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "luffy",
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [613],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 613,
+        "eventId": "ep613-event-004",
+        "momentType": "BATTLE_VICTORY",
+        "title": "Zoro Demonstrates Overwhelming Power",
+        "description": "Zoro showcases the Straw Hats' growth in the New World by using his Ittoryu: Daishinkan technique to defeat Monet.",
+        "significance": "Demonstrates the crew's increased power level after the time skip.",
+        "timestamp": "14:20"
+      },
+      {
+        "episodeNumber": 613,
+        "eventId": "ep613-event-010",
+        "momentType": "RESCUE_MISSION",
+        "title": "Crew Members Aid Mocha and Children",
+        "description": "Chopper, Nami, and Robin work together to help Mocha protect the children from the deadly candy.",
+        "significance": "Shows the crew's compassion and commitment to saving innocent victims.",
+        "timestamp": "07:00"
+      },
+      {
+        "episodeNumber": 613,
+        "eventId": "ep613-event-011",
+        "momentType": "ESCAPE_ATTEMPT",
+        "title": "Luffy Escapes Garbage Disposal",
+        "description": "Luffy climbs out of the garbage chute while carrying Momonosuke.",
+        "significance": "Demonstrates Luffy's determination and protective instincts.",
+        "timestamp": "11:30"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull wearing a straw hat with crossed bones behind it",
+      "episodeFirstSeen": 1,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": [],
+      "enemies": ["donquixote-pirates"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Marines G-5",
+      "japanese": "海軍G-5支部",
+      "romanized": "Kaigun Jī Faibu Shibu"
+    },
+    "crewType": "MARINE_UNIT",
+    "captainId": "smoker",
+    "debutEpisode": 579,
+    "debutChapter": 655,
+    "episodeAppearances": [613],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 613,
+        "eventId": "ep613-event-007",
+        "momentType": "BATTLE_VICTORY",
+        "title": "Tashigi Defeats Monet",
+        "description": "Captain Tashigi of the G-5 Marines defeats the Logia user Monet with her Kiri Shigure technique.",
+        "significance": "Demonstrates the strength and capability of G-5 officers in the New World.",
+        "timestamp": "18:45"
+      },
+      {
+        "episodeNumber": 613,
+        "eventId": "ep613-event-001",
+        "momentType": "TEMPORARY_ALLIANCE",
+        "title": "Marines Fight Alongside Straw Hats",
+        "description": "Tashigi fights alongside Zoro against a common enemy despite their opposing factions.",
+        "significance": "Shows the temporary alliance between Marines and Pirates on Punk Hazard.",
+        "timestamp": "03:45"
+      }
+    ],
+    "ships": [],
+    "bases": ["G-5 Marine Base"],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "Marine symbol with G-5 designation",
+      "episodeFirstSeen": 579,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFFFFF",
+    "relationships": {
+      "allies": ["straw-hat-pirates"],
+      "enemies": ["donquixote-pirates", "caesar-clown"],
+      "parentOrganization": "marines"
+    }
+  },
+  {
+    "name": {
+      "english": "Donquixote Pirates",
+      "japanese": "ドンキホーテ海賊団",
+      "romanized": "Donkihōte Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "donquixote-doflamingo",
+    "debutEpisode": 151,
+    "debutChapter": 234,
+    "episodeAppearances": [613],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 613,
+        "eventId": "ep613-event-008",
+        "momentType": "DEFEAT",
+        "title": "Monet's Defeat",
+        "description": "Donquixote Pirates member Monet is defeated by Tashigi in the Biscuit Room.",
+        "significance": "Represents a setback for the Donquixote Pirates' operations on Punk Hazard.",
+        "timestamp": "19:30"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull with sunglasses and a smiley face",
+      "episodeFirstSeen": 151,
+      "imageUrl": ""
+    },
+    "mainColor": "#FF1493",
+    "relationships": {
+      "allies": ["caesar-clown"],
+      "enemies": ["straw-hat-pirates", "marines-g5"],
+      "parentOrganization": null
+    }
+  }
+]

@@ -1,0 +1,577 @@
+{
+  "episodeNumber": 611,
+  "episodeTitle": "A Small Dragon! Momonosuke Appears!",
+  "episodeTitleJapanese": "小さなドラゴン！モモの助現る",
+  "episodeTitleRomanized": "Chiisana Doragon! Momonosuke Arawaru",
+  "description": "Luffy discovers Momonosuke trapped in his dragon form in the garbage dump beneath Building C. Through flashbacks, Momonosuke reveals he ate Vegapunk's artificial Devil Fruit to survive. Meanwhile, Smoker battles Vergo in the SAD Room, and Zoro defends Robin and the others against Monet's deadly snow attacks.",
+  "airDate": "2013-09-08",
+  "airDateJapan": "2013-09-08",
+  "airDateUS": "2023-04-09",
+  "airDateSimulcast": "2013-09-07",
+  "arcName": "Punk Hazard",
+  "sagaName": "Pirate Alliance Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Hands Up!",
+    "titleJapanese": "ハンズアップ!",
+    "artist": "Kota Shinzato",
+    "composer": "BACK-ON",
+    "lyricist": "BACK-ON",
+    "episodeRange": [591, 628]
+  },
+  "endingSong": null,
+  "credits": {
+    "director": "Takahiro Imamura",
+    "screenplay": "Yoshiyuki Suga",
+    "artDirector": "Ryūji Yoshiike",
+    "animationDirector": "Shigefumi Shingaki",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Smoker",
+        "actor": "Mahito Ōba"
+      },
+      {
+        "character": "Kozuki Momonosuke",
+        "actor": "Ai Orikasa"
+      },
+      {
+        "character": "Vergo",
+        "actor": "Junichi Suwabe"
+      },
+      {
+        "character": "Monet",
+        "actor": "Naoko Matsui"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Smoker",
+        "actor": "Greg Dulcie"
+      },
+      {
+        "character": "Kozuki Momonosuke",
+        "actor": "Corinne Sudberg"
+      },
+      {
+        "character": "Vergo",
+        "actor": "Wes Frazier"
+      },
+      {
+        "character": "Monet",
+        "actor": "Janelle Lutz"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep611-event-001",
+      "episodeNumber": 611,
+      "timestamp": "02:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Luffy Falls into the Waste Container",
+      "description": "Luffy tumbles down into the garbage dump beneath Building C of the research facility. Surrounded by discarded debris and waste, he begins exploring his surroundings while trying to find a way out.",
+      "significance": "Sets up the meeting between Luffy and Momonosuke, one of the most important character introductions in the Punk Hazard arc.",
+      "characterIds": ["luffy"],
+      "locationIds": ["waste-container-building-c"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep611-event-002",
+      "episodeNumber": 611,
+      "timestamp": "04:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Momonosuke Appears in Dragon Form",
+      "description": "Luffy encounters a small pink dragon in the garbage dump who introduces himself as Momonosuke. The dragon appears frightened and confused, stuck in his animal form and unable to transform back to human.",
+      "significance": "The debut of Kozuki Momonosuke, a crucial character who becomes a key ally of the Straw Hats and future Shogun of Wano. This is also the first glimpse of Vegapunk's artificial Devil Fruit technology.",
+      "characterIds": ["luffy", "momonosuke"],
+      "locationIds": ["waste-container-building-c"],
+      "quotes": [
+        {
+          "text": "My name is Momonosuke!",
+          "speaker": "Momonosuke",
+          "context": "The young dragon introduces himself to Luffy"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [612, 613],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep611-event-003",
+      "episodeNumber": 611,
+      "timestamp": "05:45",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MINOR",
+      "title": "Luffy and Momonosuke's First Conversation",
+      "description": "Despite initial tension and Momonosuke's fear, Luffy's friendly demeanor begins to put the young dragon at ease. Luffy asks why Momonosuke doesn't simply transform back into human form, revealing that the dragon didn't know he could change back.",
+      "significance": "Establishes the beginning of Luffy and Momonosuke's relationship, which becomes important throughout the Wano arc. Shows Momonosuke's inexperience with his Devil Fruit powers.",
+      "characterIds": ["luffy", "momonosuke"],
+      "locationIds": ["waste-container-building-c"],
+      "quotes": [
+        {
+          "text": "Why don't you just turn back into a human?",
+          "speaker": "Luffy",
+          "context": "Luffy questions why Momonosuke stays in dragon form"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [612],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep611-event-004",
+      "episodeNumber": 611,
+      "timestamp": "07:00",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Momonosuke's Flashback Begins",
+      "description": "The episode transitions to a flashback showing Momonosuke's past. He reveals how he ended up on Punk Hazard and was captured by Caesar Clown's forces along with other children.",
+      "significance": "Provides crucial context for Momonosuke's presence on Punk Hazard and sets up the revelation about the artificial Devil Fruit.",
+      "characterIds": ["momonosuke"],
+      "locationIds": ["third-research-institute"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [609, 610],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep611-event-005",
+      "episodeNumber": 611,
+      "timestamp": "09:20",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Momonosuke Refuses Caesar's Candy",
+      "description": "In the flashback, Caesar Clown offers candy to the captive children. Despite his hunger and the other children eagerly accepting, Momonosuke proudly refuses the candy, demonstrating his warrior's resolve and suspicion.",
+      "significance": "Shows Momonosuke's strong character and foreshadows the dangers of Caesar's experiments. His refusal to eat the drugged candy saves him from addiction but leads him to find the Devil Fruit.",
+      "characterIds": ["momonosuke", "caesar-clown"],
+      "locationIds": ["third-research-institute"],
+      "quotes": [
+        {
+          "text": "A warrior does not accept food from the enemy!",
+          "speaker": "Momonosuke",
+          "context": "Momonosuke refuses Caesar's candy despite his hunger"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep611-event-006",
+      "episodeNumber": 611,
+      "timestamp": "11:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "CRITICAL",
+      "title": "Vegapunk's Artificial Devil Fruit Revealed",
+      "description": "Starving after refusing Caesar's candy for days, Momonosuke discovers a strange fruit in a secret room. The fruit is pink with swirl patterns - Vegapunk's artificial Devil Fruit that was deemed a 'failure' and left on Punk Hazard.",
+      "significance": "The debut of the first successful artificial Zoan Devil Fruit in the series, created by Vegapunk. This fruit becomes crucial to understanding advanced Devil Fruit science and Kaido's powers. It's a major technological reveal in the One Piece world.",
+      "characterIds": ["momonosuke"],
+      "locationIds": ["third-research-institute"],
+      "devilFruitIds": ["artificial-uo-uo-no-mi-model-seiryu"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [612, 685],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep611-event-007",
+      "episodeNumber": 611,
+      "timestamp": "13:00",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Momonosuke Eats the Artificial Devil Fruit",
+      "description": "Driven by extreme hunger after ten days without food, Momonosuke consumes the artificial Devil Fruit. Immediately after eating it, he transforms involuntarily into a pink dragon with a yellow mane, shocking himself and the guards who witness the transformation.",
+      "significance": "Momonosuke gains the power of an artificial Azure Dragon fruit, unknowingly giving him abilities similar to Kaido. This moment is crucial as it demonstrates that Vegapunk's 'failed' fruit actually works perfectly - the only 'failure' was its pink color instead of blue.",
+      "characterIds": ["momonosuke"],
+      "locationIds": ["third-research-institute"],
+      "devilFruitIds": ["artificial-uo-uo-no-mi-model-seiryu"],
+      "quotes": [
+        {
+          "text": "What's happening to my body?!",
+          "speaker": "Momonosuke",
+          "context": "Momonosuke transforms into a dragon for the first time"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep611-event-008",
+      "episodeNumber": 611,
+      "timestamp": "14:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Momonosuke Learns of the Children's Fate",
+      "description": "During his time in the facility, Momonosuke overhears scientists discussing the cruel truth: the children being experimented on will die within five years if Caesar's experiments continue. This knowledge horrifies him and strengthens his resolve to escape.",
+      "significance": "Reveals the dark nature of Caesar's experiments and raises the stakes for rescuing the children. This information becomes crucial motivation for the Straw Hats' actions.",
+      "characterIds": ["momonosuke", "caesar-clown"],
+      "locationIds": ["third-research-institute"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [612, 613],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep611-event-009",
+      "episodeNumber": 611,
+      "timestamp": "16:00",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Smoker vs Vergo Battle Intensifies",
+      "description": "In the SAD Room in Building D, Vice Admiral Smoker and Vergo exchange fierce blows. Vergo demonstrates his superior Armament Haki by coating his entire body and his bamboo stick, while Smoker struggles to match his former superior's power.",
+      "significance": "This battle reveals Vergo's true strength and his mastery of Haki. It demonstrates the gap between Smoker's abilities and top-tier Haki users, while also showing Vergo's role as a Donquixote Pirates operative.",
+      "characterIds": ["smoker", "vergo"],
+      "locationIds": ["sad-room-building-d"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [610],
+      "payoffInEpisodes": [612, 613],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep611-event-010",
+      "episodeNumber": 611,
+      "timestamp": "17:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Vergo's Demon Bamboo Attack",
+      "description": "Vergo demonstrates his signature technique, coating his bamboo staff with advanced Armament Haki. The weapon becomes incredibly hard and dangerous, capable of breaking through Smoker's defenses.",
+      "significance": "First display of Vergo's Demon Bamboo (Oni Take) technique, showcasing his mastery of weapon-based Haki enhancement. This technique later shatters Smoker's jitte.",
+      "characterIds": ["vergo", "smoker"],
+      "locationIds": ["sad-room-building-d"],
+      "quotes": [
+        {
+          "text": "Let me show you true Haki mastery!",
+          "speaker": "Vergo",
+          "context": "Vergo prepares his Demon Bamboo attack"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [613],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep611-event-011",
+      "episodeNumber": 611,
+      "timestamp": "19:00",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Zoro Confronts Monet",
+      "description": "In Building B, Monet creates a deadly blizzard to stop the Straw Hats and Marines from rescuing the children. When Robin attempts to intervene but is stabbed by Monet's ice pick in the arm, Zoro steps forward to fight the Logia user.",
+      "significance": "Sets up one of the most memorable confrontations in the arc. This battle demonstrates Zoro's intimidation tactics and his understanding of when to use Haki.",
+      "characterIds": ["zoro", "monet", "robin"],
+      "locationIds": ["building-b"],
+      "quotes": [
+        {
+          "text": "I'll handle this. She's a Logia user.",
+          "speaker": "Zoro",
+          "context": "Zoro steps in to protect Robin and the others"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [612],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep611-event-012",
+      "episodeNumber": 611,
+      "timestamp": "20:15",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Robin is Wounded by Monet",
+      "description": "Monet, using her Yuki Yuki no Mi powers, transforms her arm into an ice pick and stabs Robin in the arm. The attack demonstrates Monet's combat abilities and willingness to use lethal force.",
+      "significance": "Shows the danger posed by Monet's Logia abilities and her ruthlessness. This injury to Robin prompts Zoro to take the fight seriously.",
+      "characterIds": ["monet", "robin"],
+      "locationIds": ["building-b"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep611-event-013",
+      "episodeNumber": 611,
+      "timestamp": "21:30",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Vegapunk's Failed Fruit Revealed to Scientists",
+      "description": "Caesar's subordinates discuss the artificial Devil Fruit that Momonosuke ate, revealing it was created by Vegapunk using Kaido's lineage factor. They explain it was deemed a 'failure' by Vegapunk and abandoned on Punk Hazard.",
+      "significance": "First explicit confirmation that artificial Devil Fruits can be created and that Vegapunk attempted to replicate Kaido's mythical Zoan fruit. This revelation has massive implications for the series' power system and foreshadows later developments with SMILE fruits and Vegapunk's research.",
+      "characterIds": ["caesar-clown"],
+      "locationIds": ["third-research-institute"],
+      "devilFruitIds": ["artificial-uo-uo-no-mi-model-seiryu"],
+      "quotes": [
+        {
+          "text": "That's the artificial Devil Fruit that Dr. Vegapunk created and deemed a failure!",
+          "speaker": "Caesar's Subordinate",
+          "context": "Scientists recognize the fruit Momonosuke ate"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [685, 1071],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep611-event-014",
+      "episodeNumber": 611,
+      "timestamp": "22:45",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MINOR",
+      "title": "Momonosuke's Escape from the Facility",
+      "description": "The flashback concludes with Momonosuke, in his new dragon form, managing to escape from Caesar's men and eventually falling into the garbage dump where he became trapped for ten days.",
+      "significance": "Explains how Momonosuke ended up in the waste container and sets up his need for Luffy's help to escape and reunite with his father Kin'emon.",
+      "characterIds": ["momonosuke"],
+      "locationIds": ["waste-container-building-c"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [612],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["momonosuke"],
+    "locations": ["waste-container-building-c"],
+    "devilFruits": ["artificial-uo-uo-no-mi-model-seiryu"],
+    "crews": [],
+    "abilities": ["oni-take"]
+  },
+  "episodeRelationships": {
+    "setupFor": [612, 613],
+    "payoffFrom": [609, 610],
+    "thematicLinks": [685, 1071, 1078]
+  },
+  "quotes": [
+    {
+      "text": "My name is Momonosuke!",
+      "speaker": "Momonosuke",
+      "context": "First introduction to Luffy in dragon form",
+      "timestamp": "04:15"
+    },
+    {
+      "text": "A warrior does not accept food from the enemy!",
+      "speaker": "Momonosuke",
+      "context": "Refusing Caesar's candy despite hunger",
+      "timestamp": "09:20"
+    },
+    {
+      "text": "That's the artificial Devil Fruit that Dr. Vegapunk created and deemed a failure!",
+      "speaker": "Caesar's Subordinate",
+      "context": "Recognizing the fruit Momonosuke consumed",
+      "timestamp": "21:30"
+    },
+    {
+      "text": "I'll handle this. She's a Logia user.",
+      "speaker": "Zoro",
+      "context": "Stepping up to fight Monet",
+      "timestamp": "19:00"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Scientific Ethics and Consequences",
+      "description": "The episode explores the dark side of scientific advancement through Caesar's cruel experiments on children and Vegapunk's abandoned artificial Devil Fruit. It questions the morality of human experimentation and the responsibility scientists have for their creations.",
+      "symbolism": "The 'failed' artificial fruit represents how even genius scientists like Vegapunk can leave dangerous technology behind, and how their abandoned projects can have unforeseen consequences.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Courage and Pride",
+      "description": "Momonosuke's refusal to accept Caesar's candy despite extreme hunger demonstrates his samurai pride and moral strength. His character embodies the warrior code even as a child.",
+      "symbolism": "Momonosuke's transformation into a dragon represents both his loss of control and the hidden strength he gains through adversity.",
+      "culturalReferences": ["Samurai honor code", "Bushido warrior principles"]
+    },
+    {
+      "theme": "Strength vs. Mastery",
+      "description": "The battles between Smoker/Vergo and Zoro/Monet showcase different levels of Haki mastery and combat expertise. Raw power is contrasted with refined technique.",
+      "symbolism": "Vergo's bamboo staff represents traditional martial mastery enhanced by Haki, while Monet's snow represents deceptive beauty hiding deadly intent.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Revelatory", "Action-packed", "Dark"],
+  "characterSpotlights": [
+    {
+      "characterId": "momonosuke",
+      "role": "Deuteragonist - Character debut",
+      "development": "Momonosuke is introduced as a young boy with samurai pride who becomes trapped in dragon form after eating Vegapunk's artificial Devil Fruit. His flashback reveals his courage, moral strength, and the traumatic circumstances of his transformation.",
+      "keyActions": [
+        "Introduces himself to Luffy in dragon form",
+        "Refuses Caesar's drugged candy despite hunger",
+        "Discovers and eats Vegapunk's artificial Devil Fruit",
+        "Transforms into a dragon involuntarily",
+        "Learns about the children's doomed fate",
+        "Escapes and becomes trapped in the garbage dump"
+      ],
+      "quotes": [
+        "My name is Momonosuke!",
+        "A warrior does not accept food from the enemy!"
+      ]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Supporting character",
+      "development": "Luffy discovers Momonosuke in the waste container and begins to form a friendship with the frightened dragon, showing his characteristic ability to befriend unusual allies.",
+      "keyActions": [
+        "Falls into the waste container",
+        "Meets Momonosuke in dragon form",
+        "Questions why Momonosuke doesn't transform back",
+        "Listens to Momonosuke's story"
+      ],
+      "quotes": [
+        "Why don't you just turn back into a human?"
+      ]
+    },
+    {
+      "characterId": "vergo",
+      "role": "Antagonist",
+      "development": "Vergo displays his superior Haki mastery and combat prowess against Smoker, demonstrating why he's feared as a top Donquixote Pirates operative.",
+      "keyActions": [
+        "Battles Smoker in the SAD Room",
+        "Demonstrates full-body Haki coating",
+        "Uses Demon Bamboo technique",
+        "Overpowers Smoker's defenses"
+      ],
+      "quotes": [
+        "Let me show you true Haki mastery!"
+      ]
+    },
+    {
+      "characterId": "zoro",
+      "role": "Supporting character",
+      "development": "Zoro steps up to protect Robin and confront the Logia user Monet, showing his tactical thinking and protective instincts toward his crew.",
+      "keyActions": [
+        "Witnesses Robin being wounded",
+        "Volunteers to fight Monet",
+        "Recognizes her as a Logia user"
+      ],
+      "quotes": [
+        "I'll handle this. She's a Logia user."
+      ]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends the battle scenes between Smoker and Vergo beyond what was shown in the manga, adding additional combat choreography and dialogue.",
+      "episodeTimestamp": "16:00",
+      "mangaReference": "Chapter 685",
+      "type": "EXPANDED_SCENE"
+    },
+    {
+      "difference": "Momonosuke's flashback sequence is more detailed in the anime, with additional scenes showing his time in Caesar's facility and his interactions with other children.",
+      "episodeTimestamp": "07:00",
+      "mangaReference": "Chapter 685, pages 3-19",
+      "type": "EXPANDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episode 611 marks the first appearance of Kozuki Momonosuke in the anime, though he appears only in his dragon form. His human form isn't revealed until Episode 612.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_611",
+          "title": "Episode 611 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-07"
+        }
+      ]
+    },
+    {
+      "fact": "This episode reveals the existence of Vegapunk's artificial Devil Fruit, which was created using Kaido's lineage factor. This is the first mention of artificial Mythical Zoan fruits in the series.",
+      "category": "WORLD_BUILDING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Artificial_Devil_Fruit",
+          "title": "Artificial Devil Fruit - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-07"
+        }
+      ]
+    },
+    {
+      "fact": "The artificial fruit was deemed a 'failure' by Vegapunk simply because it produced a pink dragon instead of a blue one. This is later revealed in Chapter 1069, showing that Vegapunk's standards for 'failure' were purely aesthetic.",
+      "category": "WORLD_BUILDING",
+      "sources": [
+        {
+          "url": "https://www.cbr.com/one-piece-why-momonosuke-devil-fruit-pink-failure/",
+          "title": "One Piece: Why Momonosuke's Devil Fruit Is Considered a Failure by Vegapunk",
+          "platform": "CBR",
+          "accessedAt": "2026-01-07"
+        }
+      ]
+    },
+    {
+      "fact": "Ai Orikasa, who voices young Momonosuke, is known for voicing many young male characters in anime. She would later be joined by Hiro Shimono who voices adult Momonosuke after he's aged up in the Wano arc.",
+      "category": "VOICE_ACTING",
+      "sources": []
+    },
+    {
+      "fact": "The episode aired on September 8, 2013 in Japan, during the middle of the Punk Hazard arc which ran from 2012-2014. This was during One Piece's 15th year of broadcast.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_611",
+          "title": "Episode 611 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-07"
+        }
+      ]
+    },
+    {
+      "fact": "This episode adapts Chapter 685 (pages 3-19) of the manga, showing how the anime was maintaining a relatively steady pace during the Punk Hazard arc.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_611",
+          "title": "Episode 611 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-07"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

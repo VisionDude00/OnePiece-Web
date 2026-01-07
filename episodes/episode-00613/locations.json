@@ -1,0 +1,135 @@
+[
+  {
+    "name": {
+      "english": "Punk Hazard Biscuit Room",
+      "japanese": "パンクハザード ビスケットルーム",
+      "romanized": "Panku Hazādo Bisuketto Rūmu"
+    },
+    "locationType": "ROOM",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 612,
+    "debutChapter": 686,
+    "description": "A room inside Caesar Clown's laboratory on Punk Hazard where the children were kept and given drugged candy. This room becomes the battleground for Zoro and Tashigi's fight against Monet.",
+    "episodeAppearances": [613],
+    "keyEvents": [
+      {
+        "episodeNumber": 613,
+        "eventId": "ep613-event-001",
+        "eventType": "BATTLE_START",
+        "title": "Zoro vs Monet Battle",
+        "description": "The Biscuit Room serves as the arena for the intense battle between Zoro, Tashigi, and Monet.",
+        "significance": "This location witnesses one of the major battles of the Punk Hazard arc and the debut of Zoro's Daishinkan technique.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 613,
+        "eventId": "ep613-event-004",
+        "eventType": "TECHNIQUE_DEBUT",
+        "title": "Zoro's Daishinkan Execution",
+        "description": "Zoro performs his devastating Ittoryu: Daishinkan technique in the Biscuit Room, cutting Monet in half.",
+        "significance": "The room witnesses the debut of one of Zoro's most powerful techniques.",
+        "timestamp": "14:20"
+      },
+      {
+        "episodeNumber": 613,
+        "eventId": "ep613-event-008",
+        "eventType": "BATTLE_END",
+        "title": "Monet's Defeat",
+        "description": "Tashigi defeats Monet in the Biscuit Room with her Kiri Shigure technique.",
+        "significance": "Marks the conclusion of the battle and clearing of this area of the laboratory.",
+        "timestamp": "19:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 612,
+        "episodeEnd": "present",
+        "reason": "Room is operational and being used as a battleground"
+      }
+    ],
+    "parentLocation": "punk-hazard-laboratory",
+    "childLocations": [],
+    "relatedCharacters": ["zoro", "monet", "tashigi"],
+    "relatedCrews": ["straw-hat-pirates", "marines-g5", "donquixote-pirates"],
+    "relatedArcs": ["Punk Hazard"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Punk Hazard Laboratory Corridors",
+      "japanese": "パンクハザード研究所廊下",
+      "romanized": "Panku Hazādo Kenkyūjo Rōka"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 579,
+    "debutChapter": 655,
+    "description": "The various corridors and hallways within Caesar Clown's research laboratory where Mocha flees from the candy-addicted children.",
+    "episodeAppearances": [613],
+    "keyEvents": [
+      {
+        "episodeNumber": 613,
+        "eventId": "ep613-event-009",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Mocha's Continued Flight",
+        "description": "Mocha continues running through the laboratory corridors while being chased by the other children.",
+        "significance": "The corridors serve as the setting for Mocha's heroic sacrifice to protect the children.",
+        "timestamp": "05:20"
+      },
+      {
+        "episodeNumber": 613,
+        "eventId": "ep613-event-010",
+        "eventType": "MAJOR_DECISION",
+        "title": "Straw Hats Intervene",
+        "description": "Chopper, Nami, and Robin intervene in the laboratory to help Mocha.",
+        "significance": "The laboratory becomes the stage for the Straw Hats' efforts to save the children.",
+        "timestamp": "07:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [],
+    "parentLocation": "punk-hazard",
+    "childLocations": ["punk-hazard-biscuit-room"],
+    "relatedCharacters": ["mocha", "chopper", "nami", "robin", "punk-hazard-children"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Punk Hazard"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Punk Hazard Garbage Disposal",
+      "japanese": "パンクハザード ゴミ処理場",
+      "romanized": "Panku Hazādo Gomi Shori-jō"
+    },
+    "locationType": "FACILITY",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 610,
+    "debutChapter": 684,
+    "description": "The garbage disposal area and chute system within Punk Hazard's laboratory where waste and failed experiments are discarded. Luffy and Momonosuke fell into this area and are now attempting to escape.",
+    "episodeAppearances": [613],
+    "keyEvents": [
+      {
+        "episodeNumber": 613,
+        "eventId": "ep613-event-011",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Luffy Climbs Out with Momonosuke",
+        "description": "Luffy struggles to climb out of the garbage chute while carrying the unconscious Momonosuke on his back.",
+        "significance": "Shows Luffy's determination to escape and protect Momonosuke.",
+        "timestamp": "11:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [],
+    "parentLocation": "punk-hazard-laboratory",
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "momonosuke"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Punk Hazard"],
+    "images": []
+  }
+]
