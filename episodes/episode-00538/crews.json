@@ -1,0 +1,121 @@
+[
+  {
+    "id": "new-fish-man-pirates",
+    "name": {
+      "english": "New Fish-Man Pirates",
+      "japanese": "新魚人海賊団",
+      "romanized": "Shin Gyojin Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "hody-jones",
+    "debutEpisode": 529,
+    "debutChapter": 611,
+    "episodeAppearances": [538],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 538,
+        "eventId": "ep538-event-002",
+        "momentType": "POWER_REVEAL",
+        "title": "Energy Steroid Usage in Battle",
+        "description": "The New Fish-Man Pirates demonstrate their reliance on Energy Steroids when Hody's subordinate gives him a pill to recover from Zoro's attack.",
+        "significance": "Shows the crew's dependence on artificial power enhancement to achieve their goals.",
+        "timestamp": "06:45"
+      },
+      {
+        "episodeNumber": 538,
+        "eventId": "ep538-event-003",
+        "momentType": "MAJOR_DECISION",
+        "title": "Capture of Ryugu Palace",
+        "description": "Led by Hody Jones, the New Fish-Man Pirates successfully capture King Neptune, Zoro, Usopp, and Brook, taking control of Ryugu Palace.",
+        "significance": "Major victory for the crew that gives them control of Fish-Man Island's government.",
+        "timestamp": "08:15"
+      }
+    ],
+    "ships": [],
+    "bases": [
+      {
+        "baseName": "Ryugu Palace",
+        "episodeAcquired": 538,
+        "episodeLost": null,
+        "description": "The New Fish-Man Pirates take control of Ryugu Palace by force"
+      }
+    ],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "Unknown",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "mainColor": "#000000",
+    "relationships": {
+      "allies": ["flying-pirates"],
+      "enemies": ["straw-hat-pirates", "neptune-army"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "id": "straw-hat-pirates",
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "luffy",
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [538],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 538,
+        "eventId": "ep538-event-003",
+        "momentType": "MAJOR_DECISION",
+        "title": "Three Members Captured",
+        "description": "Zoro, Usopp, and Brook are captured by Hody Jones along with King Neptune at Ryugu Palace.",
+        "significance": "First major setback for the crew in the Fish-Man Island arc, splitting them into captured and free members.",
+        "timestamp": "08:15"
+      },
+      {
+        "episodeNumber": 538,
+        "eventId": "ep538-event-005",
+        "momentType": "RELATIONSHIP_REVEAL",
+        "title": "Reunion with Jinbe",
+        "description": "Part of the crew reunites with Jinbe at the Sea Forest, strengthening their relationship and setting up his future recruitment.",
+        "significance": "Important step in Jinbe's journey to eventually joining the Straw Hat Pirates.",
+        "timestamp": "13:45"
+      },
+      {
+        "episodeNumber": 538,
+        "eventId": "ep538-event-008",
+        "momentType": "BACKSTORY_REVEAL",
+        "title": "Learn About Jinbe and Arlong's Connection",
+        "description": "The crew learns that Jinbe was indirectly responsible for Arlong's rampage in the East Blue when he released Arlong from Marine captivity.",
+        "significance": "Connects the Fish-Man Island arc to the crew's past with Arlong and deepens their understanding of Jinbe's character.",
+        "timestamp": "18:30"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Thousand Sunny",
+        "episodeAcquired": 321,
+        "episodeLost": null,
+        "description": "Currently being coated by Den at the Sea Forest to prepare for the New World journey"
+      }
+    ],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull wearing a straw hat with crossed bones behind it",
+      "episodeFirstSeen": 45,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": ["jinbe"],
+      "enemies": ["new-fish-man-pirates", "flying-pirates"],
+      "parentOrganization": null
+    }
+  }
+]

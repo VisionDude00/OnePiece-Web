@@ -1,0 +1,117 @@
+[
+  {
+    "id": "ryugu-palace",
+    "name": {
+      "english": "Ryugu Palace",
+      "japanese": "竜宮城",
+      "romanized": "Ryūgū-jō"
+    },
+    "locationType": "PALACE",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Fish-Man Island",
+    "debutEpisode": 527,
+    "debutChapter": 612,
+    "description": "The royal palace of Fish-Man Island, home to the Neptune royal family. Located in the center of Fish-Man Island, it is a grand underwater structure.",
+    "episodeAppearances": [538],
+    "keyEvents": [
+      {
+        "episodeNumber": 538,
+        "eventId": "ep538-event-001",
+        "eventType": "BATTLE_START",
+        "title": "Zoro Cuts Hody Jones",
+        "description": "Zoro slashes Hody Jones inside Ryugu Palace, temporarily defeating him before Hody recovers using Energy Steroids.",
+        "significance": "First major confrontation showing post-timeskip Zoro's strength against the arc's main antagonist.",
+        "timestamp": "05:30"
+      },
+      {
+        "episodeNumber": 538,
+        "eventId": "ep538-event-003",
+        "eventType": "MAJOR_DECISION",
+        "title": "Hody Takes Control of Ryugu Palace",
+        "description": "Hody Jones successfully captures King Neptune, Zoro, Usopp, and Brook, taking complete control of Ryugu Palace while the Ministers and guards escape.",
+        "significance": "Major turning point where the antagonist gains control of the kingdom's seat of power.",
+        "timestamp": "08:15"
+      }
+    ],
+    "status": "CAPTURED",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 527,
+        "episodeEnd": 537,
+        "reason": "Palace functioning normally under King Neptune's rule"
+      },
+      {
+        "status": "CAPTURED",
+        "episodeStart": 538,
+        "episodeEnd": "present",
+        "reason": "Hody Jones and the New Fish-Man Pirates take control"
+      }
+    ],
+    "parentLocation": "fish-man-island",
+    "childLocations": [],
+    "relatedCharacters": ["neptune", "hody-jones", "zoro", "usopp", "brook"],
+    "relatedCrews": ["new-fish-man-pirates", "straw-hat-pirates"],
+    "relatedArcs": ["Fish-Man Island Arc"],
+    "images": []
+  },
+  {
+    "id": "sea-forest",
+    "name": {
+      "english": "Sea Forest",
+      "japanese": "海の森",
+      "romanized": "Umi no Mori"
+    },
+    "locationType": "FOREST",
+    "seaRegion": "GRAND_LINE",
+    "islandName": "Fish-Man Island",
+    "debutEpisode": 536,
+    "debutChapter": 618,
+    "description": "A mysterious underwater forest on Fish-Man Island where ships and graves rest. It contains coral growing due to light from the Sunlight Tree Eve, and houses important historical poneglyphs including Joy Boy's apology.",
+    "episodeAppearances": [538],
+    "keyEvents": [
+      {
+        "episodeNumber": 538,
+        "eventId": "ep538-event-004",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Luffy's Group Arrives",
+        "description": "Luffy, Shirahoshi, Chopper, and Sanji arrive at the Sea Forest where Franky is working on the Thousand Sunny with Den.",
+        "significance": "Brings the split crew members together at an important historical location.",
+        "timestamp": "11:30"
+      },
+      {
+        "episodeNumber": 538,
+        "eventId": "ep538-event-005",
+        "eventType": "RELATIONSHIP_REVEAL",
+        "title": "Luffy and Jinbe Reunion",
+        "description": "Luffy and Jinbe meet for the first time in two years at the Sea Forest, reuniting after their separation following Marineford.",
+        "significance": "Important reunion setting that serves as a place of both memory and new beginnings.",
+        "timestamp": "13:45"
+      },
+      {
+        "episodeNumber": 538,
+        "eventId": "ep538-event-008",
+        "eventType": "BACKSTORY_REVEAL",
+        "title": "Jinbe's Apology",
+        "description": "Jinbe apologizes to the Straw Hats at the Sea Forest for his role in releasing Arlong, who terrorized Nami's village.",
+        "significance": "The Sea Forest serves as an appropriate setting for confronting past mistakes and seeking redemption.",
+        "timestamp": "18:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 536,
+        "episodeEnd": "present",
+        "reason": "Historical site and ship graveyard"
+      }
+    ],
+    "parentLocation": "fish-man-island",
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "jinbe", "franky", "den", "shirahoshi", "nami", "hachi"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Fish-Man Island Arc"],
+    "images": []
+  }
+]
