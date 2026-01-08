@@ -1,0 +1,483 @@
+{
+  "episodeNumber": 617,
+  "episodeTitle": "Caesar's Defeat! The Powerful Grizzly Magnum!",
+  "description": "Luffy defeats Caesar Clown with a powerful new technique while Law finishes his battle against Vergo. The Straw Hats and allies race to escape the collapsing facility as poison gas floods the building.",
+  "airDate": "2013-10-20",
+  "airDateJapan": "2013-10-20",
+  "airDateUS": "2023-05-21",
+  "arcName": "Punk Hazard",
+  "sagaName": "Dressrosa Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Hands Up!",
+    "artist": "Kota Shinzato",
+    "episodeRange": [591, 628]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Masahiro Hosoda",
+    "screenplay": "Shōji Yonemura",
+    "artDirection": "Ryūji Yoshiike",
+    "animation": "Toshio Deguchi",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Caesar Clown",
+        "actor": "Ryūsei Nakao"
+      },
+      {
+        "character": "Trafalgar Law",
+        "actor": "Hiroshi Kamiya"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Ōtani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Smoker",
+        "actor": "Mahito Ōba"
+      },
+      {
+        "character": "Vergo",
+        "actor": "Jūrōta Kosugi"
+      },
+      {
+        "character": "Tashigi",
+        "actor": "Junko Noda"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Caesar Clown",
+        "actor": "Jerry Jewell"
+      },
+      {
+        "character": "Trafalgar Law",
+        "actor": "Matthew Mercer"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher R. Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Smoker",
+        "actor": "Greg Dulcie"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep617-event-001",
+      "episodeNumber": 617,
+      "timestamp": "03:45",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Law Defeats Vergo",
+      "description": "Despite being severely injured and having had his heart crushed, Law defeats Vergo after retrieving his heart from Smoker. He cuts Vergo in half one final time, declaring that Vergo should worry about himself as the facility will soon be destroyed.",
+      "significance": "Marks the end of Law's revenge against Vergo, who had tormented him during his time with the Donquixote Pirates. This victory demonstrates Law's strength and resolve.",
+      "characterIds": ["trafalgar-law", "vergo", "smoker"],
+      "locationIds": ["punk-hazard-sad-room"],
+      "quotes": [
+        {
+          "text": "You don't need to worry about me. You should worry about yourself since this room will soon be completely destroyed.",
+          "speaker": "Trafalgar Law",
+          "context": "Law's final words to Vergo after defeating him"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [610, 613, 614, 615, 616],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [625]
+    },
+    {
+      "id": "ep617-event-002",
+      "episodeNumber": 617,
+      "timestamp": "05:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Law Cuts Punk Hazard in Half",
+      "description": "Using his Ope Ope no Mi abilities, Law creates a massive Room that encompasses the entire laboratory facility and surrounding mountains. He performs a devastating slash that literally cuts the entire structure and landscape in half.",
+      "significance": "Demonstrates the incredible range and power of Law's Devil Fruit abilities. The bisection of the facility allows the deadly Shinokuni poison gas to infiltrate, creating urgency for evacuation.",
+      "characterIds": ["trafalgar-law"],
+      "locationIds": ["punk-hazard-facility"],
+      "devilFruitIds": ["ope-ope-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [616],
+      "payoffInEpisodes": [618, 619],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep617-event-003",
+      "episodeNumber": 617,
+      "timestamp": "08:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Straw Hats Encourage Children to Escape",
+      "description": "The giant children are tired and scared of running from the poison gas. The Straw Hats rally together to encourage and protect the children, convincing them to continue their escape despite their fear and exhaustion.",
+      "significance": "Showcases the Straw Hats' compassion and their commitment to protecting innocent lives, even in the midst of their own dangerous situation.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "mocha"],
+      "locationIds": ["punk-hazard-facility"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [602, 603, 608, 611],
+      "payoffInEpisodes": [618, 619],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep617-event-004",
+      "episodeNumber": 617,
+      "timestamp": "11:20",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Caesar Merges with Shinokuni",
+      "description": "Realizing his operation is collapsing, Caesar Clown uses his Gas-Gas Fruit powers to absorb the deadly Shinokuni poison gas, merging with it to become a massive, terrifying gas monster. His body transforms into a huge purple toxic entity.",
+      "significance": "Shows the full extent of Caesar's Devil Fruit abilities and his willingness to use his own poisonous creation as a weapon. This transformation makes him a more formidable threat.",
+      "characterIds": ["caesar-clown"],
+      "locationIds": ["punk-hazard-building-r66"],
+      "devilFruitIds": ["gasu-gasu-no-mi"],
+      "quotes": [
+        {
+          "text": "I am the king of the land of the dead! Shinokuni!",
+          "speaker": "Caesar Clown",
+          "context": "Caesar declares his power after merging with Shinokuni"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [599, 608],
+      "payoffInEpisodes": [617],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep617-event-005",
+      "episodeNumber": 617,
+      "timestamp": "13:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "CRITICAL",
+      "title": "Caesar Kills His Own Subordinates",
+      "description": "To demonstrate his newfound power and intimidate Luffy, Caesar orders his men in the secret room to open the air vents, flooding the room with Shinokuni. When his subordinates argue that over a hundred of his own men will be killed, he snaps at them, calling them guinea pigs and scum, then proceeds to absorb and kill them.",
+      "significance": "Reveals Caesar's true nature as a completely ruthless villain who views his subordinates as disposable test subjects. This cruel act solidifies him as a despicable antagonist and further motivates Luffy.",
+      "characterIds": ["caesar-clown", "luffy"],
+      "locationIds": ["punk-hazard-building-r66"],
+      "quotes": [
+        {
+          "text": "They're nothing but guinea pigs! Scum!",
+          "speaker": "Caesar Clown",
+          "context": "Caesar's response when his men object to killing their comrades"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep617-event-006",
+      "episodeNumber": 617,
+      "timestamp": "16:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Usopp Rallies Luffy's Resolve",
+      "description": "Seeing Luffy hesitate or struggle against Caesar's monstrous form, Usopp reminds Luffy of his core values and how much Luffy despises those who abuse and tyrannize others. This encouragement reignites Luffy's determination to defeat Caesar.",
+      "significance": "Demonstrates the bond between the Straw Hat crew members and how they support each other in battle. Shows Usopp's growth as someone who can inspire his captain.",
+      "characterIds": ["usopp", "luffy"],
+      "locationIds": ["punk-hazard-building-r66"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep617-event-007",
+      "episodeNumber": 617,
+      "timestamp": "18:00",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Gomu Gomu no Grizzly Magnum Debut",
+      "description": "Luffy activates Gear 3 by blowing air into both his arms simultaneously, expanding them to giant size. He then runs toward Caesar with both arms stretched behind him, leaps into the air, and infuses Armament Haki into both arms, turning them black. He launches a devastating double-armed attack called Grizzly Magnum.",
+      "significance": "First appearance of this powerful Gear 3 technique that combines the size advantage of Gear 3 with the enhanced power of Armament Haki. Named after the Grizzly Win Mag gun, this becomes one of Luffy's signature finishing moves.",
+      "characterIds": ["luffy"],
+      "locationIds": ["punk-hazard-building-r66"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [
+        {
+          "text": "Gomu Gomu no... Grizzly Magnum!",
+          "speaker": "Monkey D. Luffy",
+          "context": "Luffy's battle cry as he launches his new technique"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep617-event-008",
+      "episodeNumber": 617,
+      "timestamp": "19:45",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Luffy Defeats Caesar Clown",
+      "description": "Luffy's Grizzly Magnum attack clashes with Caesar's Shinokuni gas form (an anime-original addition). The devastating power of Luffy's Haki-infused attack overcomes Caesar's transformation, sending him flying through multiple walls and knocking him unconscious.",
+      "significance": "Marks the climactic end of the Punk Hazard arc's main conflict. Caesar's defeat is a major victory for the Straw Hat-Heart alliance and prevents him from continuing his cruel experiments on children.",
+      "characterIds": ["luffy", "caesar-clown"],
+      "locationIds": ["punk-hazard-building-r66"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [581, 585, 597, 599, 608, 610, 615, 616],
+      "payoffInEpisodes": [618, 619],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep617-event-009",
+      "episodeNumber": 617,
+      "timestamp": "21:00",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "News Spreads to Underworld Brokers",
+      "description": "Word of Caesar's defeat begins to spread throughout the underworld, with various brokers and criminals reacting to the news. This sets up future plot developments as the consequences of the alliance's actions ripple across the New World.",
+      "significance": "Establishes that Luffy and Law's actions on Punk Hazard will have far-reaching consequences, drawing attention from powerful figures in the criminal underworld and setting up future conflicts.",
+      "characterIds": ["luffy", "trafalgar-law", "caesar-clown"],
+      "locationIds": ["punk-hazard-facility"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [618, 619, 620],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep617-event-010",
+      "episodeNumber": 617,
+      "timestamp": "22:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Facility Continues Collapsing",
+      "description": "Following Law's bisection of the facility and the defeat of both Vergo and Caesar, the Punk Hazard research facility continues to destabilize. The structure begins to collapse as Shinokuni gas floods more areas, creating an urgent need for evacuation.",
+      "significance": "Creates tension and urgency for the final escape sequences. The facility's destruction represents the end of Caesar's cruel experiments and the downfall of his operations.",
+      "characterIds": [],
+      "locationIds": ["punk-hazard-facility"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [616],
+      "payoffInEpisodes": [618, 619, 620],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["grizzly-magnum", "shinokuni-merger"]
+  },
+  "episodeRelationships": {
+    "setupFor": [618, 619, 620],
+    "payoffFrom": [610, 613, 614, 615, 616],
+    "thematicLinks": [581, 597, 625]
+  },
+  "quotes": [
+    {
+      "text": "You don't need to worry about me. You should worry about yourself since this room will soon be completely destroyed.",
+      "speaker": "Trafalgar Law",
+      "context": "Final words to Vergo after defeating him",
+      "timestamp": "03:45"
+    },
+    {
+      "text": "I am the king of the land of the dead! Shinokuni!",
+      "speaker": "Caesar Clown",
+      "context": "Caesar's declaration after merging with Shinokuni",
+      "timestamp": "11:20"
+    },
+    {
+      "text": "They're nothing but guinea pigs! Scum!",
+      "speaker": "Caesar Clown",
+      "context": "Revealing his true view of his subordinates",
+      "timestamp": "13:45"
+    },
+    {
+      "text": "Gomu Gomu no... Grizzly Magnum!",
+      "speaker": "Monkey D. Luffy",
+      "context": "Launching his new technique to defeat Caesar",
+      "timestamp": "18:00"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Justice and Retribution",
+      "description": "Both Law and Luffy achieve victory over their respective opponents, delivering justice for past wrongs. Law defeats Vergo who had tormented him, while Luffy stops Caesar's cruel experiments on children.",
+      "symbolism": "The literal cutting of Punk Hazard represents the severing of Caesar's evil operations and the past's hold on Law.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Protection of the Innocent",
+      "description": "The episode emphasizes the Straw Hats' commitment to protecting the children from Caesar's experiments and the poison gas, even at great personal risk.",
+      "symbolism": "The children's escape represents hope and freedom from tyranny.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Power and Responsibility",
+      "description": "Caesar's abuse of his scientific knowledge and Devil Fruit powers for cruel experiments contrasts sharply with Luffy and Law using their abilities to protect others.",
+      "symbolism": "Caesar's transformation into a monster literally reflects his monstrous nature.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Intense", "Triumphant", "Dark", "Action-packed"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist - defeating main antagonist",
+      "development": "Luffy demonstrates his growth by combining Gear 3 with Armament Haki, showcasing the fruits of his two-year training. His determination to stop Caesar's cruelty reinforces his core values.",
+      "keyActions": [
+        "Witnesses Caesar killing his own subordinates",
+        "Gets encouraged by Usopp to focus on defeating tyranny",
+        "Activates Gear 3 with Haki infusion for the first time in this manner",
+        "Defeats Caesar with Grizzly Magnum"
+      ],
+      "quotes": ["Gomu Gomu no... Grizzly Magnum!"]
+    },
+    {
+      "characterId": "trafalgar-law",
+      "role": "Deuteragonist - achieving personal victory",
+      "development": "Law completes his revenge against Vergo despite severe injuries, demonstrating his resolve and tactical brilliance. His massive Room showcases the true extent of his abilities.",
+      "keyActions": [
+        "Defeats Vergo after retrieving his heart",
+        "Cuts Vergo in half one final time",
+        "Creates a massive Room encompassing the entire facility",
+        "Bisects Punk Hazard's laboratory and mountains"
+      ],
+      "quotes": ["You don't need to worry about me. You should worry about yourself since this room will soon be completely destroyed."]
+    },
+    {
+      "characterId": "caesar-clown",
+      "role": "Antagonist - arc villain defeated",
+      "development": "Caesar's true evil nature is fully revealed as he kills his own subordinates without hesitation. His desperation leads him to merge with his own poison gas, but he is ultimately defeated.",
+      "keyActions": [
+        "Absorbs Shinokuni and transforms into a gas monster",
+        "Orders his subordinates killed to flood the room with poison gas",
+        "Kills his own men to intimidate Luffy",
+        "Is defeated and knocked unconscious by Luffy's Grizzly Magnum"
+      ],
+      "quotes": ["I am the king of the land of the dead! Shinokuni!", "They're nothing but guinea pigs! Scum!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended the clash between Caesar's Shinokuni form and Luffy's Grizzly Magnum. In the manga, Luffy's attack immediately overwhelms Caesar, but the anime added dramatic tension with a physical clash of the attacks.",
+      "episodeTimestamp": "19:45",
+      "mangaReference": "Chapter 692",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "The anime showed extended scenes of Vergo attempting additional attacks on Law and more animated rubble falling during the facility's destruction.",
+      "episodeTimestamp": "03:45",
+      "mangaReference": "Chapter 691",
+      "type": "EXTENDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the first appearance of Gomu Gomu no Grizzly Magnum, which becomes one of Luffy's signature Gear 3 + Haki combination attacks.",
+      "category": "TECHNIQUE",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Gomu_Gomu_no_Mi/Gear_3_Techniques",
+          "title": "Gomu Gomu no Mi/Gear 3 Techniques - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-08"
+        }
+      ]
+    },
+    {
+      "fact": "The Grizzly Magnum technique is named after the Grizzly Win Mag, a powerful handgun manufactured by L.A.R.",
+      "category": "CULTURAL_REFERENCE",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Gomu_Gomu_no_Mi/Gear_3_Techniques",
+          "title": "Gomu Gomu no Mi/Gear 3 Techniques - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-08"
+        }
+      ]
+    },
+    {
+      "fact": "This episode adapts content from manga chapters 691 and 692, which were part of Volume 70.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_617",
+          "title": "Episode 617 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-08"
+        }
+      ]
+    },
+    {
+      "fact": "Law's feat of cutting the entire mountain and facility in half became one of the most visually impressive displays of the Ope Ope no Mi's power up to this point in the series.",
+      "category": "ANIMATION",
+      "sources": []
+    },
+    {
+      "fact": "Ryūsei Nakao, who voices Caesar Clown, is famous for voicing villains including Frieza from Dragon Ball Z and Mayuri Kurotsuchi from Bleach.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ry%C5%ABsei_Nakao",
+          "title": "Ryūsei Nakao - Wikipedia",
+          "platform": "Wikipedia",
+          "accessedAt": "2026-01-08"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

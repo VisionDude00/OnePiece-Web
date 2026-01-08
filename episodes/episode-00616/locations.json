@@ -1,0 +1,139 @@
+[
+  {
+    "name": {
+      "english": "SAD Production Room",
+      "japanese": "SAD製造室",
+      "romanized": "SAD Seizō-shitsu"
+    },
+    "locationType": "ROOM",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 607,
+    "debutChapter": 673,
+    "description": "A massive chamber within Building D of the Third Research Institute on Punk Hazard, dedicated to the manufacture of SAD, the chemical used by Doflamingo to produce SMILE artificial Devil Fruits. The room contains huge metal vats for SAD production.",
+    "episodeAppearances": [616],
+    "keyEvents": [
+      {
+        "episodeNumber": 616,
+        "eventId": "ep616-event-003",
+        "eventType": "BATTLE_START",
+        "title": "Vergo Defeats Smoker",
+        "description": "Vergo brutally defeats Smoker in the SAD Production Room using his superior Haki.",
+        "significance": "Location of the climactic battle between Vergo and Smoker/Law.",
+        "timestamp": "09:45"
+      },
+      {
+        "episodeNumber": 616,
+        "eventId": "ep616-event-005",
+        "eventType": "MAJOR_DECISION",
+        "title": "Smoker Retrieves Law's Heart",
+        "description": "Smoker uses his abilities to retrieve Law's heart in the SAD Production Room.",
+        "significance": "Critical turning point that enables Law's victory.",
+        "timestamp": "14:30"
+      },
+      {
+        "episodeNumber": 616,
+        "eventId": "ep616-event-009",
+        "eventType": "BATTLE_END",
+        "title": "SAD Chamber Destroyed",
+        "description": "Law's attack cuts through the entire SAD Production Room, destroying it completely along with bisecting Vergo.",
+        "significance": "Destruction of Doflamingo's SMILE manufacturing operation, disrupting his business with Kaido.",
+        "timestamp": "19:30"
+      }
+    ],
+    "status": "DESTROYED",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 607,
+        "episodeEnd": 615,
+        "reason": "SAD production facility operational"
+      },
+      {
+        "status": "DESTROYED",
+        "episodeStart": 616,
+        "episodeEnd": "present",
+        "reason": "Destroyed by Law's attack that bisected Vergo and split the chamber"
+      }
+    ],
+    "parentLocation": "third-research-institute",
+    "childLocations": [],
+    "relatedCharacters": ["law", "vergo", "smoker", "caesar-clown", "doflamingo"],
+    "relatedCrews": ["donquixote-pirates"],
+    "relatedArcs": ["Punk Hazard"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Punk Hazard",
+      "japanese": "パンクハザード",
+      "romanized": "Panku Hazādo"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 579,
+    "debutChapter": 654,
+    "description": "An island in the New World split between fire and ice environments due to a past battle. It was the site of a former government research facility where Caesar Clown conducted experiments and produced SAD for Doflamingo's SMILE operation.",
+    "episodeAppearances": [616],
+    "keyEvents": [
+      {
+        "episodeNumber": 616,
+        "eventId": "ep616-event-009",
+        "eventType": "BATTLE_END",
+        "title": "Punk Hazard Split by Law's Attack",
+        "description": "Law's attack that defeats Vergo also cuts through part of the island itself, splitting a section of Punk Hazard.",
+        "significance": "Demonstrates the incredible power of Law's Room ability and marks a major turning point in the arc.",
+        "timestamp": "19:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 579,
+        "episodeEnd": "present",
+        "reason": "Island remains despite damage"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["sad-production-room", "third-research-institute"],
+    "relatedCharacters": ["law", "luffy", "smoker", "vergo", "caesar-clown"],
+    "relatedCrews": ["straw-hat-pirates", "heart-pirates", "donquixote-pirates"],
+    "relatedArcs": ["Punk Hazard"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Punk Hazard Laboratory",
+      "japanese": "パンクハザード研究所",
+      "romanized": "Panku Hazādo Kenkyūjo"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 591,
+    "debutChapter": 664,
+    "description": "The main laboratory facility on Punk Hazard where Caesar Clown conducts his experiments and battles against the Straw Hats.",
+    "episodeAppearances": [616],
+    "keyEvents": [
+      {
+        "episodeNumber": 616,
+        "eventId": "ep616-event-001",
+        "eventType": "BATTLE_START",
+        "title": "Luffy vs Caesar Continues",
+        "description": "Luffy continues his battle against Caesar in the laboratory, ignoring Caesar's warnings about Doflamingo.",
+        "significance": "Ongoing conflict between Luffy and Caesar.",
+        "timestamp": "04:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [],
+    "parentLocation": "punk-hazard",
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "caesar-clown"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Punk Hazard"],
+    "images": []
+  }
+]

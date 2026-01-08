@@ -1,0 +1,140 @@
+[
+  {
+    "name": {
+      "english": "Punk Hazard",
+      "japanese": "パンクハザード",
+      "romanized": "Panku Hazādo"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 579,
+    "debutChapter": 654,
+    "description": "A former government research facility island split between fire and ice, used by Caesar Clown for illegal experiments.",
+    "episodeAppearances": [617],
+    "keyEvents": [
+      {
+        "episodeNumber": 617,
+        "eventId": "ep617-event-002",
+        "eventType": "WORLD_LORE",
+        "title": "Island Cut in Half by Law",
+        "description": "Law creates a massive Room and performs a slash that literally cuts the entire laboratory facility and surrounding mountains in half.",
+        "significance": "Demonstrates the incredible scale of Law's abilities and causes the facility to begin collapsing.",
+        "timestamp": "05:30"
+      },
+      {
+        "episodeNumber": 617,
+        "eventId": "ep617-event-010",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Facility Continues Collapsing",
+        "description": "The research facility continues to destabilize and collapse following Law's bisection and the defeats of Vergo and Caesar.",
+        "significance": "Represents the end of Caesar's operations and creates urgency for evacuation.",
+        "timestamp": "22:15"
+      }
+    ],
+    "status": "DAMAGED",
+    "statusHistory": [
+      {
+        "status": "DAMAGED",
+        "episodeStart": 617,
+        "episodeEnd": "present",
+        "reason": "Facility cut in half by Law and collapsing from structural damage"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["punk-hazard-building-r66", "punk-hazard-sad-room"],
+    "relatedCharacters": ["luffy", "trafalgar-law", "caesar-clown", "vergo", "smoker"],
+    "relatedCrews": ["straw-hat-pirates", "heart-pirates"],
+    "relatedArcs": ["Punk Hazard"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Punk Hazard Building R-66",
+      "japanese": "パンクハザード R-66棟",
+      "romanized": "Panku Hazādo R-66 Tō"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 607,
+    "debutChapter": 676,
+    "description": "A building within the Punk Hazard facility where Luffy's battle with Caesar Clown takes place.",
+    "episodeAppearances": [617],
+    "keyEvents": [
+      {
+        "episodeNumber": 617,
+        "eventId": "ep617-event-004",
+        "eventType": "POWER_REVEAL",
+        "title": "Caesar Merges with Shinokuni",
+        "description": "Caesar absorbs the deadly Shinokuni poison gas and transforms into a massive gas monster in this building.",
+        "significance": "The location where Caesar makes his last stand against Luffy.",
+        "timestamp": "11:20"
+      },
+      {
+        "episodeNumber": 617,
+        "eventId": "ep617-event-008",
+        "eventType": "BATTLE_END",
+        "title": "Luffy Defeats Caesar",
+        "description": "Luffy defeats Caesar with his Grizzly Magnum attack, sending him crashing through the walls.",
+        "significance": "The climactic battle conclusion takes place in this building.",
+        "timestamp": "19:45"
+      }
+    ],
+    "status": "DAMAGED",
+    "statusHistory": [
+      {
+        "status": "DAMAGED",
+        "episodeStart": 617,
+        "episodeEnd": "present",
+        "reason": "Building flooded with Shinokuni gas and damaged by Luffy's attack"
+      }
+    ],
+    "parentLocation": "punk-hazard-facility",
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "caesar-clown", "usopp"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Punk Hazard"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "SAD Production Room",
+      "japanese": "SAD製造室",
+      "romanized": "SAD Seizō-shitsu"
+    },
+    "locationType": "ROOM",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 613,
+    "debutChapter": 689,
+    "description": "The secret room where SAD, the key ingredient for artificial Devil Fruits (SMILE), is manufactured. Located deep within the Punk Hazard facility.",
+    "episodeAppearances": [617],
+    "keyEvents": [
+      {
+        "episodeNumber": 617,
+        "eventId": "ep617-event-001",
+        "eventType": "BATTLE_END",
+        "title": "Law Defeats Vergo",
+        "description": "Law completely dismembers Vergo and cuts him in half one final time in the SAD production room.",
+        "significance": "The location where Law achieves his revenge against Vergo.",
+        "timestamp": "03:45"
+      }
+    ],
+    "status": "DESTROYED",
+    "statusHistory": [
+      {
+        "status": "DESTROYED",
+        "episodeStart": 617,
+        "episodeEnd": "present",
+        "reason": "Room destroyed by Law before he left, as part of the facility bisection"
+      }
+    ],
+    "parentLocation": "punk-hazard-facility",
+    "childLocations": [],
+    "relatedCharacters": ["trafalgar-law", "vergo", "smoker"],
+    "relatedCrews": [],
+    "relatedArcs": ["Punk Hazard"],
+    "images": []
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "id": "punk-hazard",
+    "name": {
+      "english": "Punk Hazard",
+      "japanese": "パンクハザード",
+      "romanized": "Panku Hazādo"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "episodeAppearances": [619],
+    "description": "A former research facility island split between fire and ice after Akainu and Aokiji's battle. Home to Caesar Clown's illegal experiments.",
+    "keyEvents": [
+      {
+        "episodeNumber": 619,
+        "eventId": "ep619-event-001",
+        "eventType": "BATTLE_START",
+        "title": "Franky vs Baby 5 and Buffalo",
+        "description": "A major battle takes place on Punk Hazard's icy exterior as Franky defends against the Donquixote Pirates.",
+        "significance": "The battle prevents Baby 5 and Buffalo from retrieving Caesar Clown.",
+        "timestamp": "05:00"
+      },
+      {
+        "episodeNumber": 619,
+        "eventId": "ep619-event-011",
+        "eventType": "TECHNIQUE_DEBUT",
+        "title": "General Cannon Devastates Ice Mountains",
+        "description": "Franky's General Cannon attack damages Baby 5, Buffalo, and large portions of Punk Hazard's ice mountains.",
+        "significance": "Demonstrates the destructive power capable of altering the island's landscape.",
+        "timestamp": "20:30"
+      },
+      {
+        "episodeNumber": 619,
+        "eventId": "ep619-event-012",
+        "eventType": "WORLD_LORE",
+        "title": "Self-Destruct Button Activated",
+        "description": "Monet activates Punk Hazard's self-destruct mechanism, causing a massive explosion in the mountain base.",
+        "significance": "Threatens to destroy the entire island and everyone on it.",
+        "timestamp": "22:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 619,
+        "episodeEnd": null,
+        "reason": "Island is threatened by self-destruct explosion"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["room-r-punk-hazard", "third-research-institute"],
+    "relatedCharacters": ["franky", "baby-5", "buffalo", "caesar-clown", "monet", "luffy", "usopp", "momonosuke", "kinemon"],
+    "relatedCrews": ["straw-hat-pirates", "donquixote-pirates"],
+    "relatedArcs": ["Punk Hazard Arc"],
+    "images": []
+  },
+  {
+    "id": "room-r-punk-hazard",
+    "name": {
+      "english": "Room R",
+      "japanese": "R棟",
+      "romanized": "R-tō"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "episodeAppearances": [619],
+    "description": "A transport chamber within the Third Research Institute, connected between sections B, C, and D. It has a train tunnel called Passage 66 leading to the sea.",
+    "keyEvents": [
+      {
+        "episodeNumber": 619,
+        "eventId": "ep619-event-006",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Usopp Arrives with Handcuffs",
+        "description": "Usopp arrives in Room R carrying the Sea Stone handcuffs and accompanied by Caesar's former subordinates.",
+        "significance": "The group gathers in Room R to prepare their escape from the collapsing facility.",
+        "timestamp": "14:20"
+      },
+      {
+        "episodeNumber": 619,
+        "eventId": "ep619-event-007",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Momonosuke Sees Petrified Kin'emon",
+        "description": "Brook brings Kin'emon's petrified body into Room R, shocking Momonosuke.",
+        "significance": "An emotional moment as the group reunites while preparing to escape.",
+        "timestamp": "15:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 619,
+        "episodeEnd": null,
+        "reason": "Serves as gathering point for escape"
+      }
+    ],
+    "parentLocation": "punk-hazard",
+    "childLocations": [],
+    "relatedCharacters": ["usopp", "momonosuke", "kinemon", "brook"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Punk Hazard Arc"],
+    "images": []
+  },
+  {
+    "id": "dressrosa",
+    "name": {
+      "english": "Dressrosa",
+      "japanese": "ドレスローザ",
+      "romanized": "Doresurōza"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Dressrosa",
+    "episodeAppearances": [619],
+    "description": "A kingdom ruled by Donquixote Doflamingo, one of the Seven Warlords of the Sea. Known for its passionate culture and living toys.",
+    "keyEvents": [
+      {
+        "episodeNumber": 619,
+        "eventId": "ep619-event-009",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Doflamingo's Farewell to Vergo",
+        "description": "From Dressrosa, Doflamingo contacts Vergo via Den Den Mushi to send his farewells and thanks.",
+        "significance": "Reveals Doflamingo's location and his emotional connection to his subordinates.",
+        "timestamp": "18:00"
+      },
+      {
+        "episodeNumber": 619,
+        "eventId": "ep619-event-010",
+        "eventType": "MAJOR_DECISION",
+        "title": "Doflamingo Orders Island Destruction",
+        "description": "From Dressrosa, Doflamingo contacts Monet and orders her to activate Punk Hazard's self-destruct mechanism.",
+        "significance": "Shows Doflamingo orchestrating events from afar and his ruthless strategic decisions.",
+        "timestamp": "19:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 619,
+        "episodeEnd": null,
+        "reason": "Doflamingo's base of operations"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": [],
+    "relatedCharacters": ["doflamingo"],
+    "relatedCrews": ["donquixote-pirates"],
+    "relatedArcs": ["Punk Hazard Arc", "Dressrosa Arc"],
+    "images": []
+  }
+]

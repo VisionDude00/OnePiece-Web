@@ -1,0 +1,134 @@
+[
+  {
+    "name": {
+      "english": "Heart Pirates",
+      "japanese": "ハートの海賊団",
+      "romanized": "Hāto no Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "law",
+    "debutEpisode": 392,
+    "debutChapter": 498,
+    "episodeAppearances": [616],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 616,
+        "eventId": "ep616-event-007",
+        "momentType": "WORLD_LORE",
+        "title": "Law Declares the New Era of Supernovas",
+        "description": "Captain Trafalgar Law declares that the Eleven Supernovas will lead the new era, positioning the Heart Pirates as part of the generation that will reshape the world.",
+        "significance": "Establishes the Heart Pirates' role in the coming upheaval of the world order.",
+        "timestamp": "17:30"
+      },
+      {
+        "episodeNumber": 616,
+        "eventId": "ep616-event-009",
+        "momentType": "BATTLE_END",
+        "title": "Law Defeats Vergo and Destroys SAD Production",
+        "description": "Law demonstrates the Heart Pirates' power by defeating Vergo and destroying Doflamingo's SAD operation.",
+        "significance": "Major victory for the Heart Pirates against Doflamingo's organization.",
+        "timestamp": "19:30"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull with a fur hat similar to Law's, with crossed bones behind it",
+      "episodeFirstSeen": 392,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFFFFF",
+    "relationships": {
+      "allies": ["straw-hat-pirates"],
+      "enemies": ["donquixote-pirates"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Donquixote Pirates",
+      "japanese": "ドンキホーテ海賊団",
+      "romanized": "Donkihōte Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "doflamingo",
+    "debutEpisode": 151,
+    "debutChapter": 233,
+    "episodeAppearances": [616],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 616,
+        "eventId": "ep616-event-009",
+        "momentType": "BATTLE_END",
+        "title": "Vergo Defeated and SAD Production Destroyed",
+        "description": "The Donquixote Pirates suffer a major setback as their executive Vergo is defeated and their SAD manufacturing operation is completely destroyed by Law.",
+        "significance": "Critical blow to the Donquixote Pirates' SMILE business with Kaido and their overall power structure.",
+        "timestamp": "19:30"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull with sunglasses and a crown-like symbol above it, with crossed bones behind",
+      "episodeFirstSeen": 151,
+      "imageUrl": ""
+    },
+    "mainColor": "#FF1493",
+    "relationships": {
+      "allies": [],
+      "enemies": ["heart-pirates", "straw-hat-pirates"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Marines G-5",
+      "japanese": "海軍G-5支部",
+      "romanized": "Kaigun G-5 Shibu"
+    },
+    "crewType": "MARINE_UNIT",
+    "captainId": "smoker",
+    "debutEpisode": 579,
+    "debutChapter": 654,
+    "episodeAppearances": [616],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 616,
+        "eventId": "ep616-event-003",
+        "momentType": "BATTLE_START",
+        "title": "Smoker Defeated by Vergo",
+        "description": "Vice Admiral Smoker is brutally defeated by Vergo, who is revealed to be a traitor within the Marines.",
+        "significance": "Demonstrates the corruption within the Marines and Smoker's determination despite being outmatched.",
+        "timestamp": "09:45"
+      },
+      {
+        "episodeNumber": 616,
+        "eventId": "ep616-event-005",
+        "momentType": "MAJOR_DECISION",
+        "title": "Smoker Helps a Pirate",
+        "description": "Smoker makes the difficult decision to help Law, a pirate, by returning his heart to enable his victory over the traitor Vergo.",
+        "significance": "Shows G-5's leader prioritizing true justice over rigid Marine doctrine.",
+        "timestamp": "14:30"
+      }
+    ],
+    "ships": [],
+    "bases": ["G-5 Base"],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "Marine seagull symbol with G-5 designation",
+      "episodeFirstSeen": 579,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFFFFF",
+    "relationships": {
+      "allies": [],
+      "enemies": ["donquixote-pirates"],
+      "parentOrganization": "marines"
+    }
+  }
+]

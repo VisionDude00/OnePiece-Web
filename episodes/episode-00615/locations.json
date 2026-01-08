@@ -1,0 +1,131 @@
+[
+  {
+    "name": {
+      "english": "Punk Hazard - Building R",
+      "japanese": "パンクハザード - R棟",
+      "romanized": "Panku Hazādo - R-tō"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 579,
+    "debutChapter": 655,
+    "description": "Building R is one of the five main sections (A, B, C, D, R) of Caesar Clown's research facility on Punk Hazard. The 'R' stands for research and houses Caesar's primary laboratory and operations center.",
+    "episodeAppearances": [615],
+    "keyEvents": [
+      {
+        "episodeNumber": 615,
+        "eventId": "ep615-event-004",
+        "eventType": "RELATIONSHIP_REVEAL",
+        "title": "Brownbeard Confronts Caesar",
+        "description": "Brownbeard arrives at the first floor of Building R and confronts Caesar about his missing crew.",
+        "significance": "The location where Caesar's betrayal is revealed and Luffy directly engages him.",
+        "timestamp": "10:45"
+      },
+      {
+        "episodeNumber": 615,
+        "eventId": "ep615-event-009",
+        "eventType": "BATTLE_START",
+        "title": "Luffy Punches Caesar",
+        "description": "Luffy arrives at Building R and delivers a powerful Haki-infused punch to Caesar.",
+        "significance": "The beginning of the direct confrontation between Luffy and Caesar.",
+        "timestamp": "17:25"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 579,
+        "episodeEnd": 628,
+        "reason": "Caesar's primary research facility during the Punk Hazard arc"
+      }
+    ],
+    "parentLocation": "punk-hazard",
+    "childLocations": ["punk-hazard-surveillance-room"],
+    "relatedCharacters": ["caesar-clown", "luffy", "brownbeard", "monet", "vergo"],
+    "relatedCrews": ["straw-hat-pirates", "caesar-clown-subordinates"],
+    "relatedArcs": ["Punk Hazard Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Punk Hazard - Surveillance Room",
+      "japanese": "パンクハザード - 監視室",
+      "romanized": "Panku Hazādo - Kanshi-shitsu"
+    },
+    "locationType": "ROOM",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 615,
+    "debutChapter": 689,
+    "description": "A surveillance room within Building R where Caesar Clown and his subordinates monitor the Straw Hats and Marines through multiple screens. This room allows Caesar to track movements throughout the facility.",
+    "episodeAppearances": [615],
+    "keyEvents": [
+      {
+        "episodeNumber": 615,
+        "eventId": "ep615-event-003",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Usopp Discovers the Surveillance Room",
+        "description": "Usopp finds a door leading to Caesar's surveillance room where Caesar is watching everyone on screens.",
+        "significance": "Reveals that Caesar has been monitoring the Straw Hats' and Marines' every move.",
+        "timestamp": "08:20"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 615,
+        "episodeEnd": 628,
+        "reason": "Caesar's surveillance center during the Punk Hazard arc"
+      }
+    ],
+    "parentLocation": "punk-hazard-building-r",
+    "childLocations": [],
+    "relatedCharacters": ["caesar-clown", "monet", "usopp"],
+    "relatedCrews": ["caesar-clown-subordinates"],
+    "relatedArcs": ["Punk Hazard Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Punk Hazard",
+      "japanese": "パンクハザード",
+      "romanized": "Panku Hazādo"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 579,
+    "debutChapter": 654,
+    "description": "A former World Government research facility island in the New World, now split into fire and ice sides. The island is supposedly erased from all maps and official records, with information about it being covered up by Vergo.",
+    "episodeAppearances": [615],
+    "keyEvents": [
+      {
+        "episodeNumber": 615,
+        "eventId": "ep615-event-010",
+        "eventType": "WORLD_LORE",
+        "title": "Revealed That Punk Hazard 'Doesn't Exist'",
+        "description": "Caesar reveals that Punk Hazard is not supposed to exist and nobody is supposed to know what happens there, with Vergo covering up all information.",
+        "significance": "Major revelation about the conspiracy surrounding the island and Marine corruption.",
+        "timestamp": "18:40"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 579,
+        "episodeEnd": 628,
+        "reason": "Location of Caesar's illegal research operations"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["punk-hazard-building-r", "punk-hazard-surveillance-room"],
+    "relatedCharacters": ["caesar-clown", "vergo", "luffy", "trafalgar-law"],
+    "relatedCrews": ["straw-hat-pirates", "marines", "caesar-clown-subordinates"],
+    "relatedArcs": ["Punk Hazard Arc"],
+    "images": []
+  }
+]

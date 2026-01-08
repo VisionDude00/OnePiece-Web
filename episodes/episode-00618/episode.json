@@ -1,0 +1,505 @@
+{
+  "episodeNumber": 618,
+  "episodeTitle": "Raid! An Assassin from Dressrosa!",
+  "description": "Caesar's defeat sends shockwaves through the underworld. The Straw Hats gather in Building R-66 to escape, while Doflamingo sends Baby 5 and Buffalo to retrieve Caesar from Punk Hazard.",
+  "airDate": "2013-10-27",
+  "airDateJapan": "2013-10-27",
+  "airDateUS": "2023-06-04",
+  "arcName": "Punk Hazard",
+  "sagaName": "Dressrosa Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Hands Up!",
+    "artist": "Kota Shinzato",
+    "episodeRange": [591, 628]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Yoshihiro Ueda",
+    "director": "Yoshihiro Ueda",
+    "screenplay": "Tomohiro Nakayama",
+    "artDirection": "Miho Shiraishi",
+    "animation": "Masahiro Kitazaki",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Trafalgar Law",
+        "actor": "Hiroshi Kamiya"
+      },
+      {
+        "character": "Caesar Clown",
+        "actor": "Ryusei Nakao"
+      },
+      {
+        "character": "Baby 5",
+        "actor": "Aya Hirano"
+      },
+      {
+        "character": "Buffalo",
+        "actor": "Shuhei Sakaguchi"
+      },
+      {
+        "character": "Donquixote Doflamingo",
+        "actor": "Hideyuki Tanaka"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Brook",
+        "actor": "Yuichi Nagashima"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Trafalgar Law",
+        "actor": "Matthew Mercer"
+      },
+      {
+        "character": "Caesar Clown",
+        "actor": "Jerry Jewell"
+      },
+      {
+        "character": "Donquixote Doflamingo",
+        "actor": "Robert McCollum"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep618-event-001",
+      "episodeNumber": 618,
+      "timestamp": "03:45",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Caesar's Defeat Confirmed",
+      "description": "Caesar Clown is shown unconscious after being defeated by Luffy's Gomu Gomu no Grizzly Magnum, flying through the facility's corridors into darkness.",
+      "significance": "Marks the conclusion of Luffy's battle with Caesar Clown and sets up the retrieval mission from Doflamingo's crew.",
+      "characterIds": ["luffy", "caesar-clown", "trafalgar-law"],
+      "locationIds": ["punk-hazard"],
+      "quotes": [
+        {
+          "text": "We were supposed to kidnap him, not knock him away!",
+          "speaker": "Trafalgar Law",
+          "context": "Law's frustration with Luffy's approach to capturing Caesar"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [617],
+      "payoffInEpisodes": [619, 620, 621, 622],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep618-event-002",
+      "episodeNumber": 618,
+      "timestamp": "05:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Underworld Brokers React to Caesar's Defeat",
+      "description": "Various underworld brokers across the New World watch Caesar's defeat on their broadcasts, expressing shock and concern about the implications for their business dealings.",
+      "significance": "Establishes Caesar's importance to the criminal underworld and foreshadows future conflicts involving SMILE production and Doflamingo's operations.",
+      "characterIds": ["tamago", "pekoms", "killer", "eustass-kid"],
+      "crewIds": ["big-mom-pirates", "kid-pirates"],
+      "quotes": [
+        {
+          "text": "Mom should hear about this right away.",
+          "speaker": "Tamago",
+          "context": "Recognizing the importance of Caesar's defeat to Big Mom"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [581, 598, 607],
+      "payoffInEpisodes": [625, 651],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep618-event-003",
+      "episodeNumber": 618,
+      "timestamp": "08:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Straw Hats Converge in Building R-66",
+      "description": "The Straw Hat crew members, along with Law, G-5 Marines, and the rescued children, gather in Building R-66 to prepare their escape from Punk Hazard.",
+      "significance": "Marks the regrouping of allies and preparation for evacuation from the dangerous facility.",
+      "characterIds": ["luffy", "nami", "zoro", "robin", "chopper", "usopp", "brook", "franky", "trafalgar-law", "smoker"],
+      "locationIds": ["punk-hazard", "building-r-66"],
+      "quotes": [
+        {
+          "text": "Everyone is finally here!",
+          "speaker": "Nami",
+          "context": "Relief at the crew's reunion in Building R"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [615, 616, 617],
+      "payoffInEpisodes": [619, 620],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep618-event-004",
+      "episodeNumber": 618,
+      "timestamp": "09:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Chopper Carries Mocha to Safety",
+      "description": "Chopper, along with the G-5 medical squad, carries the weakened Mocha toward Building R-66, racing against time to reach safety before the poisonous gas spreads further.",
+      "significance": "Demonstrates Chopper's commitment to saving the children and his medical responsibilities.",
+      "characterIds": ["chopper", "mocha"],
+      "locationIds": ["punk-hazard"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [616, 617],
+      "payoffInEpisodes": [619],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep618-event-005",
+      "episodeNumber": 618,
+      "timestamp": "10:20",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Brook Rescues Petrified Kin'emon",
+      "description": "Brook carries the petrified body of Kin'emon, who was caught in the toxic gas while searching for his son Momonosuke, toward the evacuation point.",
+      "significance": "Sets up Kin'emon's eventual rescue and reunion with Momonosuke.",
+      "characterIds": ["brook", "kinemon"],
+      "locationIds": ["punk-hazard"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [615, 616],
+      "payoffInEpisodes": [622],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep618-event-006",
+      "episodeNumber": 618,
+      "timestamp": "13:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Buffalo's Anime Debut",
+      "description": "Buffalo, a member of the Donquixote Pirates, makes his first appearance in the anime as he flies toward Punk Hazard with Baby 5 riding on his back.",
+      "significance": "Introduces a new antagonist and member of Doflamingo's crew, demonstrating his Devil Fruit ability.",
+      "characterIds": ["buffalo", "baby-5"],
+      "crewIds": ["donquixote-pirates"],
+      "locationIds": ["punk-hazard"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [619, 620, 621, 622],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep618-event-007",
+      "episodeNumber": 618,
+      "timestamp": "13:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Guru Guru no Mi Demonstrated",
+      "description": "Buffalo demonstrates his Guru Guru no Mi (Spin-Spin Fruit) ability by transforming his body parts into propellers, allowing him to fly and create powerful gusts of wind.",
+      "significance": "First showcase of the Guru Guru no Mi's abilities in the anime, establishing Buffalo's combat capabilities.",
+      "characterIds": ["buffalo"],
+      "devilFruitIds": ["guru-guru-no-mi"],
+      "locationIds": ["punk-hazard"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [621, 622],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep618-event-008",
+      "episodeNumber": 618,
+      "timestamp": "14:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Buffalo Uses Wind Dispersal Technique",
+      "description": "Buffalo spins his body rapidly to create a massive gust of wind that disperses the poisonous H2S gas surrounding Punk Hazard, revealing the SAD tanker ship.",
+      "significance": "Demonstrates Buffalo's utility in combat situations and his Devil Fruit's practical applications.",
+      "characterIds": ["buffalo", "baby-5"],
+      "devilFruitIds": ["guru-guru-no-mi"],
+      "locationIds": ["punk-hazard"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep618-event-009",
+      "episodeNumber": 618,
+      "timestamp": "15:30",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MINOR",
+      "title": "Baby 5's Fiancé History Revealed",
+      "description": "During their flight, Baby 5 complains about how Doflamingo has killed her eight fiancés and destroyed their hometowns, revealing her troubled romantic history and relationship with Doflamingo.",
+      "significance": "Provides character depth to Baby 5 and hints at Doflamingo's controlling nature over his crew members.",
+      "characterIds": ["baby-5", "doflamingo"],
+      "quotes": [
+        {
+          "text": "Joker killed all eight of my fiancés!",
+          "speaker": "Baby 5",
+          "context": "Complaining about Doflamingo's interference in her personal life"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [608],
+      "payoffInEpisodes": [711],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep618-event-010",
+      "episodeNumber": 618,
+      "timestamp": "17:00",
+      "eventType": "TREASURE_DISCOVERY",
+      "severity": "MAJOR",
+      "title": "Baby 5 and Buffalo Find Caesar's Body",
+      "description": "After a massive explosion from the tanker, Baby 5 and Buffalo discover Caesar Clown's unconscious body ejected from the facility.",
+      "significance": "Sets up the conflict between the Donquixote Pirates and the Straw Hat crew over Caesar's custody.",
+      "characterIds": ["baby-5", "buffalo", "caesar-clown"],
+      "locationIds": ["punk-hazard"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [617],
+      "payoffInEpisodes": [619, 620, 621, 622],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep618-event-011",
+      "episodeNumber": 618,
+      "timestamp": "18:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Doflamingo Orders Caesar's Recovery",
+      "description": "Buffalo contacts Doflamingo via Den Den Mushi to report Caesar's defeat. Doflamingo immediately changes their mission from surveillance to recovering Caesar and returning to Dressrosa.",
+      "significance": "Escalates the conflict and sets Doflamingo's crew on a collision course with the Straw Hats and Law.",
+      "characterIds": ["doflamingo", "buffalo", "baby-5"],
+      "crewIds": ["donquixote-pirates"],
+      "quotes": [
+        {
+          "text": "Change of plans. Retrieve Caesar and return to Dressrosa immediately.",
+          "speaker": "Doflamingo",
+          "context": "Ordering his subordinates to recover Caesar"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [617],
+      "payoffInEpisodes": [619, 620, 621, 622],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep618-event-012",
+      "episodeNumber": 618,
+      "timestamp": "20:30",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "General Franky Appears on Tanker Deck",
+      "description": "General Franky suddenly emerges from the rubble on the SAD tanker ship's deck, surprising Baby 5 and Buffalo with his massive robotic form.",
+      "significance": "Sets up the confrontation between General Franky and Doflamingo's assassins.",
+      "characterIds": ["franky", "baby-5", "buffalo"],
+      "locationIds": ["punk-hazard", "sad-tanker-ship"],
+      "quotes": [
+        {
+          "text": "Is that... a giant bird?",
+          "speaker": "Buffalo",
+          "context": "Mistaking General Franky's appearance"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [619, 620, 621, 622],
+      "callbacksToEpisodes": [557]
+    },
+    {
+      "id": "ep618-event-013",
+      "episodeNumber": 618,
+      "timestamp": "21:45",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MAJOR",
+      "title": "Doflamingo's Confident Smile",
+      "description": "Upon learning that Caesar's body has been located, Doflamingo smiles knowingly, confident that he can continue SAD production with Caesar back under his control.",
+      "significance": "Foreshadows Doflamingo's continued role as an antagonist and his plans for maintaining control over the SMILE trade.",
+      "characterIds": ["doflamingo"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [579, 598],
+      "payoffInEpisodes": [625, 698, 702],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["buffalo"],
+    "locations": ["building-r-66", "sad-tanker-ship"],
+    "devilFruits": ["guru-guru-no-mi"],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [619, 620, 621, 622],
+    "payoffFrom": [617, 616, 615],
+    "thematicLinks": [608, 625, 698]
+  },
+  "quotes": [
+    {
+      "text": "We were supposed to kidnap him, not knock him away!",
+      "speaker": "Trafalgar Law",
+      "context": "Law's frustration with Luffy's approach",
+      "timestamp": "03:45"
+    },
+    {
+      "text": "Mom should hear about this right away.",
+      "speaker": "Tamago",
+      "context": "Recognizing Caesar's defeat importance to Big Mom",
+      "timestamp": "05:30"
+    },
+    {
+      "text": "Joker killed all eight of my fiancés!",
+      "speaker": "Baby 5",
+      "context": "Complaining about Doflamingo's interference",
+      "timestamp": "15:30"
+    },
+    {
+      "text": "Change of plans. Retrieve Caesar and return to Dressrosa immediately.",
+      "speaker": "Doflamingo",
+      "context": "Ordering Caesar's recovery",
+      "timestamp": "18:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Consequences of Power",
+      "description": "Caesar's defeat sends ripples throughout the underworld, demonstrating how one person's power can affect the criminal economy.",
+      "symbolism": "The broadcast of Caesar's defeat symbolizes the transparency and interconnectedness of the underworld.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Loyalty and Control",
+      "description": "Baby 5's complaints about Doflamingo killing her fiancés highlight the controlling and abusive nature of his leadership style.",
+      "symbolism": "Baby 5's inability to maintain relationships due to Doflamingo's interference represents the crew members' lack of autonomy.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Dramatic", "Anticipatory"],
+  "characterSpotlights": [
+    {
+      "characterId": "buffalo",
+      "role": "Antagonist introduction",
+      "development": "Buffalo debuts as a loyal member of the Donquixote Pirates, showcasing his Devil Fruit abilities and comedic personality alongside Baby 5.",
+      "keyActions": [
+        "Flies to Punk Hazard with Baby 5",
+        "Disperses poisonous gas with wind",
+        "Discovers Caesar's body",
+        "Contacts Doflamingo for orders"
+      ],
+      "quotes": ["Is that... a giant bird?"]
+    },
+    {
+      "characterId": "baby-5",
+      "role": "Supporting antagonist",
+      "development": "Baby 5's character is further developed through revelation of her troubled romantic history and relationship with Doflamingo.",
+      "keyActions": [
+        "Travels to Punk Hazard",
+        "Complains about her past fiancés",
+        "Helps locate Caesar",
+        "Prepares to confront intruders"
+      ],
+      "quotes": ["Joker killed all eight of my fiancés!"]
+    },
+    {
+      "characterId": "doflamingo",
+      "role": "Distant antagonist",
+      "development": "Doflamingo's controlling nature and strategic thinking are highlighted through his orders and past actions.",
+      "keyActions": [
+        "Receives report of Caesar's defeat",
+        "Changes mission to Caesar recovery",
+        "Smiles confidently about continuing SMILE production"
+      ],
+      "quotes": ["Change of plans. Retrieve Caesar and return to Dressrosa immediately."]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended the scenes of Chopper and Brook's journey to Building R-66 compared to the manga.",
+      "episodeTimestamp": "08:00-10:30",
+      "mangaReference": "Chapter 692, pages 6-7",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "The anime omitted Devil Fruit designations in the character information boxes for Baby 5 and Buffalo.",
+      "episodeTimestamp": "13:00",
+      "mangaReference": "Chapter 692, pages 12-13",
+      "type": "ANIME_MODIFICATION"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks Buffalo's debut in the anime, introducing the Guru Guru no Mi Devil Fruit.",
+      "category": "CHARACTER_DEBUT",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_618",
+          "title": "Episode 618 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-08"
+        }
+      ]
+    },
+    {
+      "fact": "Episode 618 achieved a 7.9% TV rating in Japan, ranking 6th in viewership for its time slot.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_618",
+          "title": "Episode 618 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-08"
+        }
+      ]
+    },
+    {
+      "fact": "The episode adapts Chapter 692 pages 6-19, with the previous episode covering pages 3-6 of the same chapter.",
+      "category": "MANGA_ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chapter_692",
+          "title": "Chapter 692 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-08"
+        }
+      ]
+    },
+    {
+      "fact": "This episode aired on Toonami on June 4, 2023, nearly 10 years after its original Japanese broadcast.",
+      "category": "BROADCAST",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_618",
+          "title": "Episode 618 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-08"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

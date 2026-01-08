@@ -1,0 +1,133 @@
+[
+  {
+    "name": {
+      "english": "Building R-66",
+      "japanese": "R-66ビル",
+      "romanized": "R-66 Biru"
+    },
+    "locationType": "BUILDING",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 618,
+    "debutChapter": 692,
+    "description": "A building within the Punk Hazard research facility used as a gathering point for evacuation. Contains a rail cart system designed for SAD transport.",
+    "episodeAppearances": [618],
+    "keyEvents": [
+      {
+        "episodeNumber": 618,
+        "eventId": "ep618-event-003",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Straw Hats Converge in Building R-66",
+        "description": "The Straw Hat crew members, along with Law, G-5 Marines, and rescued children, gather in Building R-66 to prepare their escape from Punk Hazard.",
+        "significance": "Serves as the evacuation rally point for all allies on Punk Hazard.",
+        "timestamp": "08:15"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 618,
+        "episodeEnd": "present",
+        "reason": "Building is operational and used for evacuation"
+      }
+    ],
+    "parentLocation": "punk-hazard",
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "nami", "zoro", "robin", "chopper", "usopp", "brook", "franky", "trafalgar-law", "smoker"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Punk Hazard"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "SAD Tanker Ship",
+      "japanese": "SADタンカー船",
+      "romanized": "SAD Tankā-sen"
+    },
+    "locationType": "SHIP",
+    "seaRegion": "NEW_WORLD",
+    "islandName": null,
+    "debutEpisode": 618,
+    "debutChapter": 692,
+    "description": "A tanker ship anchored near Punk Hazard used for transporting SAD, the chemical ingredient for producing SMILE artificial Devil Fruits. The ship is surrounded by poisonous gas before Buffalo disperses it.",
+    "episodeAppearances": [618],
+    "keyEvents": [
+      {
+        "episodeNumber": 618,
+        "eventId": "ep618-event-008",
+        "eventType": "TECHNIQUE_DEBUT",
+        "title": "Gas Dispersal Reveals Tanker",
+        "description": "Buffalo uses his wind generation ability to disperse the poisonous H2S gas, revealing the SAD tanker ship.",
+        "significance": "Allows Baby 5 and Buffalo to approach and discover Caesar's body.",
+        "timestamp": "14:45"
+      },
+      {
+        "episodeNumber": 618,
+        "eventId": "ep618-event-012",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "General Franky on Tanker Deck",
+        "description": "General Franky emerges from the rubble on the SAD tanker ship's deck, surprising Baby 5 and Buffalo.",
+        "significance": "Sets up the confrontation between General Franky and Doflamingo's assassins.",
+        "timestamp": "20:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 618,
+        "episodeEnd": "present",
+        "reason": "Ship is operational near Punk Hazard"
+      }
+    ],
+    "parentLocation": "punk-hazard",
+    "childLocations": [],
+    "relatedCharacters": ["buffalo", "baby-5", "franky", "caesar-clown"],
+    "relatedCrews": ["donquixote-pirates", "straw-hat-pirates"],
+    "relatedArcs": ["Punk Hazard"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Punk Hazard",
+      "japanese": "パンクハザード",
+      "romanized": "Panku Hazādo"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Punk Hazard",
+    "debutEpisode": 579,
+    "debutChapter": 654,
+    "description": "A former government research facility island in the New World, split between fire and ice. The island is covered in toxic gas and serves as Caesar Clown's base of operations.",
+    "episodeAppearances": [618],
+    "keyEvents": [
+      {
+        "episodeNumber": 618,
+        "eventId": "ep618-event-001",
+        "eventType": "BATTLE_END",
+        "title": "Caesar's Defeat Confirmed",
+        "description": "Caesar Clown's unconscious body is shown flying through the facility after his defeat by Luffy.",
+        "significance": "Marks the conclusion of the Straw Hats' main objective on Punk Hazard.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 618,
+        "eventId": "ep618-event-006",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Baby 5 and Buffalo Arrive",
+        "description": "Doflamingo's assassins arrive at Punk Hazard to investigate Caesar's status.",
+        "significance": "Introduces new antagonists to the Punk Hazard conflict.",
+        "timestamp": "13:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [],
+    "parentLocation": null,
+    "childLocations": ["building-r-66", "sad-tanker-ship"],
+    "relatedCharacters": ["luffy", "trafalgar-law", "caesar-clown", "buffalo", "baby-5"],
+    "relatedCrews": ["straw-hat-pirates", "donquixote-pirates"],
+    "relatedArcs": ["Punk Hazard"],
+    "images": []
+  }
+]

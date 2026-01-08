@@ -1,0 +1,386 @@
+[
+  {
+    "name": {
+      "english": "Brownbeard",
+      "japanese": "茶ひげ",
+      "romanized": "Chahige"
+    },
+    "debutEpisode": 579,
+    "episodeAppearances": [615],
+    "keyMoments": [
+      {
+        "episodeNumber": 615,
+        "eventId": "ep615-event-004",
+        "momentType": "RELATIONSHIP_REVEAL",
+        "title": "Brownbeard Confronts Caesar About His Crew",
+        "description": "Brownbeard confronts Caesar Clown, demanding to know what happened to his crew members who were left outside when Shinokuni was released.",
+        "significance": "Shows Brownbeard's loyalty to his crew and sets up the major betrayal reveal.",
+        "timestamp": "10:45",
+        "quote": "What happened to my men outside on the island before Shinokuni was released?!"
+      },
+      {
+        "episodeNumber": 615,
+        "eventId": "ep615-event-005",
+        "momentType": "BACKSTORY_REVEAL",
+        "title": "Learns Caesar Left His Crew to Die",
+        "description": "Brownbeard discovers that Caesar deliberately ignored his crew's distress call and left them to die in the poison gas.",
+        "significance": "The moment that breaks Brownbeard's trust in Caesar and turns him against his former master.",
+        "timestamp": "12:30",
+        "quote": ""
+      },
+      {
+        "episodeNumber": 615,
+        "eventId": "ep615-event-006",
+        "momentType": "MAJOR_DECISION",
+        "title": "Attempts to Expose Caesar's True Nature",
+        "description": "Angered by the betrayal, Brownbeard tries to reveal Caesar's villainous nature to his subordinates.",
+        "significance": "Brownbeard chooses to protect others even at great personal risk.",
+        "timestamp": "14:15",
+        "quote": ""
+      },
+      {
+        "episodeNumber": 615,
+        "eventId": "ep615-event-007",
+        "momentType": "BATTLE_START",
+        "title": "Drugged and Shot by Caesar's Orders",
+        "description": "Caesar injects Brownbeard with muscle relaxant and orders his subordinates to kill him, but Luffy arrives to save him.",
+        "significance": "Brownbeard becomes a victim of Caesar's cruelty, leading to Luffy's direct intervention.",
+        "timestamp": "15:10",
+        "quote": ""
+      }
+    ],
+    "status": "ALIVE",
+    "statusHistory": [
+      {
+        "status": "CRITICALLY_INJURED",
+        "episodeStart": 615,
+        "episodeEnd": 616,
+        "reason": "Shot by Caesar's subordinates after being drugged"
+      }
+    ],
+    "occupations": ["Pirate"],
+    "affiliations": [
+      {
+        "crewId": "brownbeard-pirates",
+        "role": "Captain",
+        "episodeJoined": null,
+        "episodeLeft": null
+      }
+    ],
+    "relationships": [
+      {
+        "targetCharacterId": "caesar-clown",
+        "relationshipType": "ENEMY",
+        "description": "Brownbeard turns against Caesar after learning he deliberately left his crew to die.",
+        "episodeEstablished": 615,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 615,
+            "description": "Relationship changes from subordinate/follower to enemy after Caesar's betrayal is revealed.",
+            "newRelationshipType": "ENEMY"
+          }
+        ]
+      },
+      {
+        "targetCharacterId": "luffy",
+        "relationshipType": "ALLY",
+        "description": "Luffy saves Brownbeard's life from Caesar, creating a bond of gratitude.",
+        "episodeEstablished": 615,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 615,
+            "description": "Luffy arrives just in time to save Brownbeard from being killed by Caesar.",
+            "newRelationshipType": "ALLY"
+          }
+        ]
+      }
+    ],
+    "reveals": [
+      {
+        "infoType": "BACKSTORY",
+        "information": "Brownbeard's crew was deliberately left to die by Caesar Clown",
+        "episodeRevealed": 615,
+        "severity": "MAJOR"
+      }
+    ],
+    "voiceActors": {
+      "japanese": "Masaru Ikeda",
+      "english": "Randy E. Aguebor"
+    }
+  },
+  {
+    "name": {
+      "english": "Caesar Clown",
+      "japanese": "シーザー・クラウン",
+      "romanized": "Shīzā Kuraun"
+    },
+    "debutEpisode": 581,
+    "episodeAppearances": [615],
+    "keyMoments": [
+      {
+        "episodeNumber": 615,
+        "eventId": "ep615-event-005",
+        "momentType": "BACKSTORY_REVEAL",
+        "title": "Admits to Letting Brownbeard's Crew Die",
+        "description": "Caesar reveals he deliberately ignored the distress call from Brownbeard's crew and left them to die in the Shinokuni gas.",
+        "significance": "Exposes Caesar's complete disregard for human life and his willingness to sacrifice subordinates.",
+        "timestamp": "12:30",
+        "quote": "I received their distress call... but I left them to die outside."
+      },
+      {
+        "episodeNumber": 615,
+        "eventId": "ep615-event-009",
+        "momentType": "BATTLE_START",
+        "title": "Punched by Luffy with Haki",
+        "description": "Luffy arrives and delivers a powerful Haki-infused punch to Caesar's face, demonstrating Haki can affect Logia users.",
+        "significance": "First direct confrontation between Luffy and Caesar, setting up their eventual battle.",
+        "timestamp": "17:25",
+        "quote": ""
+      },
+      {
+        "episodeNumber": 615,
+        "eventId": "ep615-event-012",
+        "momentType": "WORLD_LORE",
+        "title": "Reveals SAD and SMILE Production",
+        "description": "Caesar reveals that SAD production is run by Doflamingo and produces SMILE, artificial Zoan Devil Fruits.",
+        "significance": "Major exposition dump that connects multiple plot threads and reveals the purpose of Punk Hazard.",
+        "timestamp": "19:50",
+        "quote": "SAD production is run by Donquixote Doflamingo, and SAD produces SMILE, an artificial Zoan Devil Fruit."
+      }
+    ],
+    "status": "ALIVE",
+    "statusHistory": [],
+    "occupations": ["Scientist", "Former World Government Scientist"],
+    "affiliations": [
+      {
+        "crewId": "caesar-clown-subordinates",
+        "role": "Leader",
+        "episodeJoined": null,
+        "episodeLeft": null
+      }
+    ],
+    "relationships": [
+      {
+        "targetCharacterId": "brownbeard",
+        "relationshipType": "ENEMY",
+        "description": "Caesar betrays Brownbeard by revealing he left his crew to die, then attempts to kill him.",
+        "episodeEstablished": 615,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 615,
+            "description": "Relationship deteriorates from master/subordinate to betrayer/victim as Caesar tries to kill Brownbeard.",
+            "newRelationshipType": "ENEMY"
+          }
+        ]
+      },
+      {
+        "targetCharacterId": "doflamingo",
+        "relationshipType": "BUSINESS_PARTNER",
+        "description": "Caesar works with Doflamingo on SAD and SMILE production.",
+        "episodeEstablished": 615,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 615,
+            "description": "Caesar's business relationship with Doflamingo is revealed for the first time.",
+            "newRelationshipType": "BUSINESS_PARTNER"
+          }
+        ]
+      },
+      {
+        "targetCharacterId": "vergo",
+        "relationshipType": "ALLY",
+        "description": "Vergo covers up information about Punk Hazard, enabling Caesar's operations.",
+        "episodeEstablished": 615,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 615,
+            "description": "Vergo's role in protecting Caesar's operations is revealed.",
+            "newRelationshipType": "ALLY"
+          }
+        ]
+      }
+    ],
+    "reveals": [
+      {
+        "infoType": "MOTIVATION",
+        "information": "Working with Doflamingo to produce SMILE artificial Devil Fruits",
+        "episodeRevealed": 615,
+        "severity": "CRITICAL"
+      },
+      {
+        "infoType": "ABILITY",
+        "information": "Can create artificial Zoan Devil Fruits using SAD",
+        "episodeRevealed": 615,
+        "severity": "CRITICAL"
+      }
+    ],
+    "voiceActors": {
+      "japanese": "Ryūsei Nakao",
+      "english": "Jerry Jewell"
+    }
+  },
+  {
+    "name": {
+      "english": "Monkey D. Luffy",
+      "japanese": "モンキー・D・ルフィ",
+      "romanized": "Monkī Dī Rufi"
+    },
+    "debutEpisode": 1,
+    "episodeAppearances": [615],
+    "keyMoments": [
+      {
+        "episodeNumber": 615,
+        "eventId": "ep615-event-009",
+        "momentType": "TECHNIQUE_DEBUT",
+        "title": "Saves Brownbeard with Haki-Infused Punch",
+        "description": "Luffy arrives just in time and delivers a powerful Haki-infused punch to Caesar, saving Brownbeard from being killed.",
+        "significance": "Shows Luffy's heroic timing and his ability to use Haki against Logia users.",
+        "timestamp": "17:25",
+        "quote": ""
+      },
+      {
+        "episodeNumber": 615,
+        "eventId": "ep615-event-015",
+        "momentType": "CULTURAL_MOMENT",
+        "title": "Declares Fearlessness Against Powerful Enemies",
+        "description": "When Caesar threatens him with Doflamingo and an Emperor, Luffy responds that he's been dealing with such powerful enemies since entering the Grand Line.",
+        "significance": "Demonstrates Luffy's growth and fearlessness, showing he won't be intimidated by Warlords or Emperors.",
+        "timestamp": "21:20",
+        "quote": "I've been dealing with people like that since I entered the Grand Line!"
+      }
+    ],
+    "status": "ALIVE",
+    "statusHistory": [],
+    "occupations": ["Pirate", "Captain"],
+    "affiliations": [
+      {
+        "crewId": "straw-hat-pirates",
+        "role": "Captain",
+        "episodeJoined": 1,
+        "episodeLeft": null
+      }
+    ],
+    "relationships": [],
+    "reveals": [],
+    "voiceActors": {
+      "japanese": "Mayumi Tanaka",
+      "english": "Colleen Clinkenbeard"
+    }
+  },
+  {
+    "name": {
+      "english": "Roronoa Zoro",
+      "japanese": "ロロノア・ゾロ",
+      "romanized": "Roronoa Zoro"
+    },
+    "debutEpisode": 2,
+    "episodeAppearances": [615],
+    "keyMoments": [
+      {
+        "episodeNumber": 615,
+        "eventId": "ep615-event-001",
+        "momentType": "LOCATION_ARRIVAL",
+        "title": "Carries Tashigi Away from Poisonous Gas",
+        "description": "Zoro continues carrying Tashigi to safety as they escape from the deadly Shinokuni poison gas.",
+        "significance": "Shows Zoro's protective nature despite his rivalry with Tashigi.",
+        "timestamp": "03:15",
+        "quote": ""
+      }
+    ],
+    "status": "ALIVE",
+    "statusHistory": [],
+    "occupations": ["Pirate", "Swordsman"],
+    "affiliations": [
+      {
+        "crewId": "straw-hat-pirates",
+        "role": "Combatant",
+        "episodeJoined": 2,
+        "episodeLeft": null
+      }
+    ],
+    "relationships": [],
+    "reveals": [],
+    "voiceActors": {
+      "japanese": "Kazuya Nakai",
+      "english": "Christopher Sabat"
+    }
+  },
+  {
+    "name": {
+      "english": "Vergo",
+      "japanese": "ヴェルゴ",
+      "romanized": "Verugo"
+    },
+    "debutEpisode": 597,
+    "episodeAppearances": [615],
+    "keyMoments": [
+      {
+        "episodeNumber": 615,
+        "eventId": "ep615-event-011",
+        "momentType": "WORLD_LORE",
+        "title": "Role in Covering Up Punk Hazard Revealed",
+        "description": "It is revealed that Vergo actively covers up information about Punk Hazard and its activities, enabling Caesar's illegal operations.",
+        "significance": "Exposes Vergo as a corrupt Marine working with criminals and traitors.",
+        "timestamp": "19:15",
+        "quote": ""
+      }
+    ],
+    "status": "ALIVE",
+    "statusHistory": [],
+    "occupations": ["Marine Vice Admiral", "G-5 Base Commander", "Donquixote Pirates Officer"],
+    "affiliations": [
+      {
+        "crewId": "marines",
+        "role": "Vice Admiral",
+        "episodeJoined": null,
+        "episodeLeft": null
+      },
+      {
+        "crewId": "donquixote-pirates",
+        "role": "Corazon (First)",
+        "episodeJoined": null,
+        "episodeLeft": null
+      }
+    ],
+    "relationships": [
+      {
+        "targetCharacterId": "caesar-clown",
+        "relationshipType": "ALLY",
+        "description": "Vergo covers up information about Punk Hazard to protect Caesar's operations.",
+        "episodeEstablished": 615,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 615,
+            "description": "Vergo's role in protecting Caesar's illegal activities is revealed.",
+            "newRelationshipType": "ALLY"
+          }
+        ]
+      },
+      {
+        "targetCharacterId": "doflamingo",
+        "relationshipType": "SUBORDINATE",
+        "description": "Vergo works for Doflamingo as a spy within the Marines.",
+        "episodeEstablished": 615,
+        "evolutionMoments": [
+          {
+            "episodeNumber": 615,
+            "description": "Connection between Vergo and Doflamingo's operations becomes clearer.",
+            "newRelationshipType": "SUBORDINATE"
+          }
+        ]
+      }
+    ],
+    "reveals": [
+      {
+        "infoType": "MOTIVATION",
+        "information": "Actively covers up information about Punk Hazard's illegal activities",
+        "episodeRevealed": 615,
+        "severity": "CRITICAL"
+      }
+    ],
+    "voiceActors": {
+      "japanese": "Junichi Suwabe",
+      "english": "Wes Frazier"
+    }
+  }
+]
