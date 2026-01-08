@@ -1,0 +1,547 @@
+{
+  "episodeNumber": 543,
+  "episodeTitle": "The Death of the Hero! A Shocking Truth of Tiger!",
+  "episodeTitleJapanese": "英雄の最期 タイガー衝撃の真実",
+  "episodeTitleRomanized": "Eiyū no Saigo - Taigā Shōgeki no Shinjitsu",
+  "description": "The Sun Pirates return young Koala to her hometown on Foolshout Island, where she is reunited with her mother. After saying goodbye, Fisher Tiger is ambushed by Marines who were tipped off by the villagers. Mortally wounded, Tiger refuses a blood transfusion from humans and reveals the traumatic truth of his enslavement before dying, leaving his crew to carry on his dream of peace between humans and fish-men.",
+  "airDate": "2012-04-15",
+  "airDateJapan": "2012-04-15",
+  "airDateUS": "2022-04-24",
+  "airDateUSFunimation": "2012-04-14",
+  "arcName": "Fish-Man Island",
+  "sagaName": "Fish-Man Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Go!",
+    "titleJapanese": "ウィーゴー!",
+    "artist": "Hiroshi Kitadani",
+    "composer": "Kohei Tanaka",
+    "lyricist": "Shoko Fujibayashi",
+    "episodeRange": [517, 541, 543, 589]
+  },
+  "endingSong": null,
+  "credits": {
+    "director": "Yoshihiro Ueda",
+    "screenplay": "Yoshiyuki Suga",
+    "artDirector": "Miho Shiraishi",
+    "animationDirector": "Shigefumi Shingaki",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Fisher Tiger",
+        "actor": "Kōji Ishii"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Katsuhisa Hōki"
+      },
+      {
+        "character": "Arlong",
+        "actor": "Jūrōta Kosugi"
+      },
+      {
+        "character": "Koala",
+        "actor": "Satsuki Yukino"
+      },
+      {
+        "character": "Aladine",
+        "actor": "Takayuki Sugō"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Fisher Tiger",
+        "actor": "Gabe Kunda"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Daniel Baugh"
+      },
+      {
+        "character": "Arlong",
+        "actor": "Chris Rager"
+      },
+      {
+        "character": "Koala",
+        "actor": "Jeannie Tirado"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep543-event-001",
+      "episodeNumber": 543,
+      "timestamp": "02:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Sun Pirates Give Koala a Makeover",
+      "description": "The Sun Pirates give young Koala new clothes and cut her hair, helping her shed the appearance of her time as a slave. The crew shows her kindness as they prepare to return her to her hometown.",
+      "significance": "Demonstrates the compassion of the Sun Pirates and their effort to help Koala heal from her trauma, contrasting with how humans treated her.",
+      "characterIds": ["koala", "fisher-tiger", "jinbe", "arlong", "aladine"],
+      "crewIds": ["sun-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [539, 540, 541],
+      "payoffInEpisodes": [544],
+      "callbacksToEpisodes": [541]
+    },
+    {
+      "id": "ep543-event-002",
+      "episodeNumber": 543,
+      "timestamp": "04:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Koala's Slave Behavior Persists",
+      "description": "Despite being freed and treated kindly, Koala compulsively cleans the ship and apologizes constantly, exhibiting the psychological trauma from her time as a slave. She cannot break the patterns ingrained during her captivity.",
+      "significance": "Shows the deep psychological scars that slavery leaves, even after physical freedom. This behavior deeply affects Tiger, reminding him of his own trauma.",
+      "characterIds": ["koala", "fisher-tiger"],
+      "quotes": [
+        {
+          "text": "I'm sorry! I'll clean better! Please don't kill me!",
+          "speaker": "Koala",
+          "context": "Koala apologizing while cleaning, showing her ingrained slave behavior"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [541],
+      "payoffInEpisodes": [543],
+      "callbacksToEpisodes": [541]
+    },
+    {
+      "id": "ep543-event-003",
+      "episodeNumber": 543,
+      "timestamp": "06:45",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Arrival at Foolshout Island",
+      "description": "The Sun Pirates arrive at Foolshout Island, Koala's hometown. The crew prepares to return Koala to her family and community.",
+      "significance": "Sets the stage for the tragic events that follow, as the townspeople's fear will lead to Tiger's death.",
+      "characterIds": ["fisher-tiger", "koala", "jinbe", "arlong"],
+      "locationIds": ["foolshout-island"],
+      "crewIds": ["sun-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [541],
+      "payoffInEpisodes": [543],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep543-event-004",
+      "episodeNumber": 543,
+      "timestamp": "08:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Muti's Debut - Koala's Mother",
+      "description": "Muti appears for the first time, rushing out to embrace her daughter Koala after years of separation. She weeps tears of joy at their reunion.",
+      "significance": "Introduces Koala's mother and shows the emotional impact of Koala's return, though Muti will later betray Tiger to the Marines.",
+      "characterIds": ["muti", "koala"],
+      "locationIds": ["foolshout-island"],
+      "quotes": [
+        {
+          "text": "Koala! My baby! You're home!",
+          "speaker": "Muti",
+          "context": "Muti's emotional reunion with her daughter"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [541],
+      "payoffInEpisodes": [543],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep543-event-005",
+      "episodeNumber": 543,
+      "timestamp": "09:30",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Koala Says Goodbye to Fisher Tiger",
+      "description": "Before leaving, Koala runs back to Fisher Tiger to say a proper goodbye and thank him for everything. Tiger smiles at her, showing a rare moment of warmth despite his deep hatred of humans.",
+      "significance": "Demonstrates that Tiger, despite his trauma, still has hope for the next generation and can show kindness to a human child. This is one of his final positive interactions.",
+      "characterIds": ["koala", "fisher-tiger"],
+      "quotes": [
+        {
+          "text": "Thank you, Tiger! Thank you for saving me!",
+          "speaker": "Koala",
+          "context": "Koala's heartfelt goodbye to the fish-man who freed her"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [541],
+      "payoffInEpisodes": [545, 546],
+      "callbacksToEpisodes": [541]
+    },
+    {
+      "id": "ep543-event-006",
+      "episodeNumber": 543,
+      "timestamp": "11:00",
+      "eventType": "BETRAYAL",
+      "severity": "CRITICAL",
+      "title": "Villagers Betray Fisher Tiger to the Marines",
+      "description": "After Tiger leaves Koala with her family, the townspeople of Foolshout Island contact the Marines and reveal Tiger's location. They make a deal: in exchange for not returning Koala to the Celestial Dragons, they will allow the Marines to ambush Tiger.",
+      "significance": "This betrayal directly leads to Tiger's death and exemplifies the cycle of fear and hatred between humans and fish-men. The villagers' fear of the World Government outweighs their gratitude to Tiger for returning Koala.",
+      "characterIds": ["muti", "fisher-tiger", "strawberry"],
+      "locationIds": ["foolshout-island"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [543, 544],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep543-event-007",
+      "episodeNumber": 543,
+      "timestamp": "12:30",
+      "eventType": "BATTLE_START",
+      "severity": "CRITICAL",
+      "title": "Marine Ambush Led by Rear Admiral Strawberry",
+      "description": "As Fisher Tiger returns to his ship, he is ambushed by a fleet of Marine warships led by Rear Admiral Strawberry. The Marines open fire with a barrage of gunfire and cannons.",
+      "significance": "The beginning of the battle that will result in Tiger's mortal wounds. This ambush was made possible by the villagers' betrayal.",
+      "characterIds": ["fisher-tiger", "strawberry"],
+      "locationIds": ["foolshout-island"],
+      "quotes": [
+        {
+          "text": "Fisher Tiger, you are under arrest for assault on Mary Geoise and freeing slaves!",
+          "speaker": "Rear Admiral Strawberry",
+          "context": "Strawberry confronting Tiger during the ambush"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [543],
+      "callbacksToEpisodes": [521]
+    },
+    {
+      "id": "ep543-event-008",
+      "episodeNumber": 543,
+      "timestamp": "14:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Arlong Hijacks a Marine Battleship",
+      "description": "In the midst of the battle, Arlong takes decisive action by hijacking one of the Marine battleships, turning their own vessel against them to help rescue Tiger.",
+      "significance": "Shows Arlong's loyalty to Tiger and his aggressive approach to fighting humans, foreshadowing his later actions and hatred of humanity.",
+      "characterIds": ["arlong", "fisher-tiger"],
+      "crewIds": ["sun-pirates"],
+      "quotes": [
+        {
+          "text": "You humans think you can kill Big Bro Tiger? I'll show you what happens when you mess with us!",
+          "speaker": "Arlong",
+          "context": "Arlong's rage during the rescue attempt"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [544],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep543-event-009",
+      "episodeNumber": 543,
+      "timestamp": "15:30",
+      "eventType": "BATTLE_END",
+      "severity": "CRITICAL",
+      "title": "Jinbe Attacks Strawberry and Rescues Tiger",
+      "description": "Jinbe directly confronts Rear Admiral Strawberry in combat while the Sun Pirates manage to rescue Fisher Tiger from the Marine forces. However, Tiger has sustained severe injuries with multiple bullet wounds.",
+      "significance": "The Sun Pirates successfully rescue their captain, but the damage is already done. Tiger's wounds will prove fatal.",
+      "characterIds": ["jinbe", "strawberry", "fisher-tiger"],
+      "crewIds": ["sun-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [543],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep543-event-010",
+      "episodeNumber": 543,
+      "timestamp": "16:45",
+      "eventType": "DEATH",
+      "severity": "ULTRA_SECRET",
+      "title": "Fisher Tiger Refuses Blood Transfusion",
+      "description": "On the hijacked Marine ship, Aladine attempts to save Tiger's life with a blood transfusion using human blood from the Marines' medical supplies. However, Tiger consciously refuses the transfusion, stating he cannot accept human blood into his body.",
+      "significance": "This is the pivotal moment that seals Tiger's fate. His refusal reveals the depth of his trauma and hatred from his time as a slave, and shows that some wounds run too deep to heal. His choice demonstrates the tragic reality of how systemic oppression creates lasting psychological damage.",
+      "characterIds": ["fisher-tiger", "aladine", "jinbe", "arlong"],
+      "crewIds": ["sun-pirates"],
+      "quotes": [
+        {
+          "text": "I can't... I can't accept their blood... It's tainted with the hatred humans have for us fish-men...",
+          "speaker": "Fisher Tiger",
+          "context": "Tiger explaining why he refuses the life-saving transfusion"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [521],
+      "payoffInEpisodes": [543, 544],
+      "callbacksToEpisodes": [521]
+    },
+    {
+      "id": "ep543-event-011",
+      "episodeNumber": 543,
+      "timestamp": "18:00",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "ULTRA_SECRET",
+      "title": "Tiger Reveals His Past as a Slave",
+      "description": "In his final moments, Fisher Tiger reveals to his crew the truth he had hidden: he was once a slave of the Celestial Dragons. His famous raid on Mary Geoise was not just an act of heroism, but also his own escape from slavery.",
+      "significance": "This revelation recontextualizes Tiger's entire character and his actions. His heroic liberation of slaves was also personal - he was freeing himself. It explains his deep trauma and hatred of humans, and why he could never truly love them despite his philosophical ideals.",
+      "characterIds": ["fisher-tiger", "jinbe", "arlong", "aladine"],
+      "locationIds": ["mariejois"],
+      "crewIds": ["sun-pirates"],
+      "quotes": [
+        {
+          "text": "I was a slave... I was branded by the Celestial Dragons and tortured by humans... I tried to forget, but I can't... that's the demon that lives in my heart.",
+          "speaker": "Fisher Tiger",
+          "context": "Tiger's revelation of his enslavement to his crew"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [521],
+      "payoffInEpisodes": [544, 626],
+      "callbacksToEpisodes": [521]
+    },
+    {
+      "id": "ep543-event-012",
+      "episodeNumber": 543,
+      "timestamp": "19:30",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "CRITICAL",
+      "title": "Tiger's Final Words About Peace and the Next Generation",
+      "description": "As he dies, Fisher Tiger asks his crew not to tell Fish-Man Island about what really happened or pass on their hatred to the next generation. He expresses hope that children like Koala can create a better future between humans and fish-men.",
+      "significance": "Tiger's dying wish establishes the thematic core of the Fish-Man Island arc - the question of whether the cycle of hatred can be broken. His hope for the next generation sets up Koala's future role in the Revolutionary Army and Jinbe's eventual alliance with Luffy.",
+      "characterIds": ["fisher-tiger", "jinbe", "arlong", "koala"],
+      "crewIds": ["sun-pirates"],
+      "quotes": [
+        {
+          "text": "Don't tell the island what happened here... Don't pass on this hatred to the children... They need to decide for themselves... what humans truly are.",
+          "speaker": "Fisher Tiger",
+          "context": "Tiger's final request to his crew before dying"
+        },
+        {
+          "text": "I've tried... But I just can't... love a human!!",
+          "speaker": "Fisher Tiger",
+          "context": "Tiger's heartbreaking final admission"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [528, 541],
+      "payoffInEpisodes": [544, 545, 546, 568, 573],
+      "callbacksToEpisodes": [528, 541]
+    },
+    {
+      "id": "ep543-event-013",
+      "episodeNumber": 543,
+      "timestamp": "21:00",
+      "eventType": "DEATH",
+      "severity": "ULTRA_SECRET",
+      "title": "The Death of Fisher Tiger",
+      "description": "Fisher Tiger, the legendary hero who freed slaves from Mary Geoise and founded the Sun Pirates, dies from blood loss. His crew mourns the loss of their beloved captain and leader.",
+      "significance": "Tiger's death marks a turning point for the Sun Pirates and the fish-man/human conflict. It leads to the crew's split, Arlong's descent into villainy, Jinbe becoming a Warlord, and sets up many future events. Tiger dies as a hero to some and a criminal to others, never achieving his dream of true peace.",
+      "characterIds": ["fisher-tiger", "jinbe", "arlong", "aladine"],
+      "crewIds": ["sun-pirates"],
+      "quotes": [
+        {
+          "text": "Big Bro... Big Bro Tiger!!!",
+          "speaker": "Arlong",
+          "context": "Arlong's anguished cry as Tiger dies"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [521, 541],
+      "payoffInEpisodes": [544, 545, 546],
+      "callbacksToEpisodes": [521, 541]
+    }
+  ],
+  "debuts": {
+    "characters": ["muti"],
+    "locations": ["foolshout-island"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [544, 545, 546],
+    "payoffFrom": [521, 528, 539, 540, 541],
+    "thematicLinks": [31, 32, 33, 37, 528, 568, 573]
+  },
+  "quotes": [
+    {
+      "text": "I've tried... But I just can't... love a human!!",
+      "speaker": "Fisher Tiger",
+      "context": "Tiger's tragic final words revealing his inability to overcome his trauma",
+      "timestamp": "19:30"
+    },
+    {
+      "text": "Don't tell the island what happened here... Don't pass on this hatred to the children... They need to decide for themselves... what humans truly are.",
+      "speaker": "Fisher Tiger",
+      "context": "Tiger's dying wish to his crew",
+      "timestamp": "19:30"
+    },
+    {
+      "text": "I was a slave... I was branded by the Celestial Dragons and tortured by humans... I tried to forget, but I can't... that's the demon that lives in my heart.",
+      "speaker": "Fisher Tiger",
+      "context": "Tiger revealing his past enslavement",
+      "timestamp": "18:00"
+    },
+    {
+      "text": "Thank you, Tiger! Thank you for saving me!",
+      "speaker": "Koala",
+      "context": "Koala's goodbye to Fisher Tiger",
+      "timestamp": "09:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "The Cycle of Hatred and Trauma",
+      "description": "The episode explores how systemic oppression and trauma can create hatred so deep that it cannot be overcome even by one's own moral ideals. Tiger's inability to accept human blood symbolizes how trauma can override rational thought and survival instinct.",
+      "symbolism": "The blood transfusion represents the impossibility of accepting help from one's oppressors, even when it means death.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Hope for the Next Generation",
+      "description": "Despite his own inability to overcome hatred, Tiger expresses hope that the next generation - symbolized by Koala - can break the cycle and create true peace between species.",
+      "symbolism": "Koala represents the possibility of change and healing that Tiger himself could never achieve.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Cost of Heroism",
+      "description": "Tiger is remembered as a hero who freed slaves, but the episode reveals the personal pain and trauma that motivated his heroic act. His heroism came from his own suffering.",
+      "symbolism": "Tiger's death shows that heroes often pay the ultimate price for their ideals.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Fear and Betrayal",
+      "description": "The villagers' betrayal of Tiger, despite him returning their child, shows how fear of authority can override gratitude and morality.",
+      "symbolism": "The villagers represent how ordinary people perpetuate systemic oppression out of fear.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tragic", "Heart-wrenching", "Somber", "Emotional", "Profound"],
+  "characterSpotlights": [
+    {
+      "characterId": "fisher-tiger",
+      "role": "Protagonist/Tragic Hero",
+      "development": "Tiger's death and final revelations complete his character arc. We learn he was a slave, understand the source of his trauma, and witness his tragic inability to overcome his hatred despite his ideals. His final wish shows his nobility despite his flaws.",
+      "keyActions": [
+        "Returns Koala to her family",
+        "Is ambushed by Marines",
+        "Refuses blood transfusion",
+        "Reveals he was a slave",
+        "Makes his final wish for peace",
+        "Dies from blood loss"
+      ],
+      "quotes": [
+        "I've tried... But I just can't... love a human!!",
+        "Don't tell the island what happened here... Don't pass on this hatred to the children..."
+      ]
+    },
+    {
+      "characterId": "koala",
+      "role": "Symbol of Hope",
+      "development": "Koala is reunited with her mother and says goodbye to Tiger, representing the possibility of healing and a better future. Her presence catalyzes Tiger's hope for the next generation.",
+      "keyActions": [
+        "Receives new clothes and haircut",
+        "Reunites with her mother Muti",
+        "Says goodbye to Fisher Tiger"
+      ],
+      "quotes": ["Thank you, Tiger! Thank you for saving me!"]
+    },
+    {
+      "characterId": "jinbe",
+      "role": "Loyal First Mate",
+      "development": "Jinbe fights desperately to save Tiger, showing his deep loyalty and love for his captain. Tiger's death will deeply affect Jinbe's future decisions.",
+      "keyActions": [
+        "Fights Rear Admiral Strawberry",
+        "Helps rescue Tiger",
+        "Witnesses Tiger's refusal of blood",
+        "Hears Tiger's final words"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "arlong",
+      "role": "Vengeful Subordinate",
+      "development": "Arlong's aggressive rescue attempt and devastation at Tiger's death foreshadow his later descent into villainy and hatred of humans.",
+      "keyActions": [
+        "Hijacks a Marine battleship",
+        "Fights to save Tiger",
+        "Mourns Tiger's death"
+      ],
+      "quotes": ["Big Bro... Big Bro Tiger!!!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime expands the scenes of Koala's time on the Sun Pirates ship, showing more of her compulsive cleaning behavior and interactions with the crew.",
+      "episodeTimestamp": "04:30",
+      "mangaReference": "Chapter 623",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "The battle with the Marines is extended in the anime with more action sequences showing Jinbe and Arlong's rescue attempts.",
+      "episodeTimestamp": "14:15",
+      "mangaReference": "Chapter 623",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "The anime adds more emotional reactions from the Sun Pirates crew members as Tiger dies.",
+      "episodeTimestamp": "21:00",
+      "mangaReference": "Chapter 623",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode aired on April 15, 2012, exactly 13 years after the One Piece anime began in 1999.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_543",
+          "title": "Episode 543 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-23"
+        }
+      ]
+    },
+    {
+      "fact": "Fisher Tiger's death scene is considered one of the most emotionally impactful moments in One Piece, dealing with themes of racism, trauma, and the cycle of hatred.",
+      "category": "IMPACT",
+      "sources": []
+    },
+    {
+      "fact": "The episode has a TV rating of 8.1% in Japan and is ranked 4th for its time slot.",
+      "category": "RATINGS",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_543",
+          "title": "Episode 543 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-23"
+        }
+      ]
+    },
+    {
+      "fact": "This episode covers Chapter 623 of the manga, titled 'A Mermaid's True Strength'.",
+      "category": "MANGA_ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_543",
+          "title": "Episode 543 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-23"
+        }
+      ]
+    },
+    {
+      "fact": "In December 2025, it was revealed in Chapter 1167 that Shanks was the one who originally helped Fisher Tiger escape from Mary Geoise, adding new context to Tiger's backstory.",
+      "category": "RETCON",
+      "sources": [
+        {
+          "url": "https://gamerant.com/one-piece-eiichiro-oda-brings-back-legendary-pirate-fisher-tiger/",
+          "title": "After 14 Years, Eiichiro Oda Brings Back A Legendary Pirate In One Piece",
+          "platform": "Game Rant",
+          "accessedAt": "2025-12-23"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

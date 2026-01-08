@@ -1,0 +1,516 @@
+{
+  "episodeNumber": 541,
+  "episodeTitle": "Kizaru Appears! A Trap to Catch Tiger!",
+  "episodeTitleJapanese": "黄猿登場！タイガーを狙う罠！",
+  "episodeTitleRomanized": "Kizaru Tōjō! Taigā o Nerau Wana!",
+  "description": "A flashback reveals Fisher Tiger's liberation of slaves from Mary Geoise and the formation of the Sun Pirates. The crew encounters Marine forces led by Rear Admiral Kadar, where Arlong kills a Marine despite Tiger's philosophy. Kizaru issues bounties for the dangerous crew, and they later rescue a traumatized human slave girl named Koala, with Tiger removing her slave mark and replacing it with the Sun Pirates' symbol.",
+  "airDate": "2012-04-01",
+  "airDateJapan": "2012-04-01",
+  "airDateUS": "2022-04-17",
+  "funimationSimulcast": "2012-03-31",
+  "arcName": "Fish-Man Island Arc",
+  "sagaName": "Fish-Man Island Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "We Go!",
+    "artist": "Hiroshi Kitadani",
+    "episodeRange": [517, 590]
+  },
+  "endingSong": null,
+  "credits": {
+    "screenplay": "Tomohiro Nakayama",
+    "artDirection": "Ryūji Yoshiike",
+    "animation": "Masahiro Shimanuki",
+    "director": "Yoshihiro Ueda",
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Fisher Tiger",
+        "actor": "Kōji Ishii"
+      },
+      {
+        "character": "Koala (Young)",
+        "actor": "Satsuki Yukino"
+      },
+      {
+        "character": "Jinbe",
+        "actor": "Katsuhisa Hōki"
+      },
+      {
+        "character": "Arlong",
+        "actor": "Jūrōta Kosugi"
+      },
+      {
+        "character": "Borsalino (Kizaru)",
+        "actor": "Unshō Ishizuka"
+      },
+      {
+        "character": "Queen Otohime",
+        "actor": "Michiko Neya"
+      },
+      {
+        "character": "King Neptune",
+        "actor": "Minoru Inaba"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Fisher Tiger",
+        "actor": "Gabe Kunda"
+      },
+      {
+        "character": "Koala (Young)",
+        "actor": "Jeannie Tirado"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep541-event-001",
+      "episodeNumber": 541,
+      "timestamp": "03:00",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Fisher Tiger's Mary Geoise Liberation Celebrated",
+      "description": "King Neptune expresses concern that Fisher Tiger's attack on Mary Geoise and liberation of slaves will prevent Fish-Man Island from attending the World Summit. Meanwhile, the citizens of Fish-Man Island celebrate Tiger as a hero for his actions, despite Queen Otohime's attempts to gather signatures for peaceful human migration being rejected.",
+      "significance": "Establishes the political consequences of Fisher Tiger's actions and the divide between Otohime's peaceful approach and the celebration of Tiger's violent rebellion. Sets up the fundamental conflict between different approaches to human-fishman relations.",
+      "characterIds": ["fisher-tiger", "neptune", "otohime", "shirahoshi"],
+      "locationIds": ["fish-man-island", "mary-geoise"],
+      "quotes": [
+        {
+          "text": "Tiger's attack on Mary Geoise means we won't be able to attend the summit for a long time.",
+          "speaker": "King Neptune",
+          "context": "Neptune holds baby Shirahoshi while commenting on the political fallout"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [540],
+      "payoffInEpisodes": [543, 544],
+      "callbacksToEpisodes": [540]
+    },
+    {
+      "id": "ep541-event-002",
+      "episodeNumber": 541,
+      "timestamp": "05:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Sun Pirates Confront Marine Battleship",
+      "description": "The Sun Pirates encounter a Marine battleship led by Rear Admiral Kadar, who demands the fish-men return all the slaves Fisher Tiger had freed. The crew prepares for battle, with Hachi alerting everyone to the approaching Marine ship.",
+      "significance": "First major confrontation between the Sun Pirates and Marine forces after the Mary Geoise incident. Demonstrates the Marines' determination to recapture the freed slaves.",
+      "characterIds": ["fisher-tiger", "kadar", "arlong", "jinbe", "hatchan"],
+      "crewIds": ["sun-pirates"],
+      "locationIds": ["east-blue"],
+      "quotes": [
+        {
+          "text": "Return all the slaves Tiger freed!",
+          "speaker": "Rear Admiral Kadar",
+          "context": "Kadar's demand to the Sun Pirates"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [540]
+    },
+    {
+      "id": "ep541-event-003",
+      "episodeNumber": 541,
+      "timestamp": "07:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Rear Admiral Kadar Debuts",
+      "description": "Rear Admiral Kadar, a Marine officer from G-2 base, makes his first appearance leading the battleship confronting the Sun Pirates. He aggressively demands the return of freed slaves.",
+      "significance": "Introduces a Marine antagonist specifically pursuing the Sun Pirates. Represents the World Government's response to Tiger's liberation of slaves.",
+      "characterIds": ["kadar"],
+      "locationIds": ["east-blue"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [543],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep541-event-004",
+      "episodeNumber": 541,
+      "timestamp": "09:15",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Fisher Tiger Defeats Kadar",
+      "description": "During the violent confrontation with the Marines, Fisher Tiger brutally assaults Rear Admiral Kadar, hitting his head against a wall and declaring they can't tell who was a slave anymore since the marks have been replaced with Sun Pirate symbols. The fish-men dominate the underwater battle.",
+      "significance": "Demonstrates Fisher Tiger's combat prowess and his commitment to protecting the freed slaves. Shows the Sun Pirates' advantage in underwater combat.",
+      "characterIds": ["fisher-tiger", "kadar"],
+      "quotes": [
+        {
+          "text": "We can't tell who was a slave anymore!",
+          "speaker": "Fisher Tiger",
+          "context": "Tiger's response while defeating Kadar"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep541-event-005",
+      "episodeNumber": 541,
+      "timestamp": "11:00",
+      "eventType": "DEATH",
+      "severity": "CRITICAL",
+      "title": "Arlong Kills a Marine",
+      "description": "Despite Fisher Tiger's philosophy of liberation over revenge, Arlong secretly and brutally kills a Marine during the confrontation. The Marine had stated that being human was sinful, which provoked Arlong's hatred. Tiger tries to stop him but is too late.",
+      "significance": "This pivotal moment reveals the deep-seated hatred Arlong harbors toward humans and foreshadows the ideological split within the Sun Pirates. It directly contradicts Tiger's philosophy and sets up future conflicts.",
+      "characterIds": ["arlong", "fisher-tiger"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [544],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep541-event-006",
+      "episodeNumber": 541,
+      "timestamp": "12:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Tiger's Speech on Liberation vs Revenge",
+      "description": "Fisher Tiger scolds Arlong for killing the Marine and delivers a powerful speech about liberation and freedom being more important than revenge. However, he later privately confides to Jinbe that the 'demons' inside him wish he could kill humans, revealing his internal struggle.",
+      "significance": "Reveals the complexity of Fisher Tiger's character - publicly advocating for non-violence while privately struggling with his own trauma and hatred from being enslaved. This duality becomes central to understanding Tiger's tragic arc.",
+      "characterIds": ["fisher-tiger", "arlong", "jinbe"],
+      "quotes": [
+        {
+          "text": "This is about liberation and freedom, not revenge!",
+          "speaker": "Fisher Tiger",
+          "context": "Tiger scolding Arlong for killing the Marine"
+        },
+        {
+          "text": "The demons inside me wish I could kill humans.",
+          "speaker": "Fisher Tiger",
+          "context": "Tiger's private confession to Jinbe"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [543, 544],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep541-event-007",
+      "episodeNumber": 541,
+      "timestamp": "14:00",
+      "eventType": "BOUNTY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Kizaru Issues Bounties for Sun Pirates",
+      "description": "Vice Admiral Borsalino (Kizaru) receives reports about the dangerous Sun Pirates and issues bounties for the two most dangerous members: Fisher Tiger receives 230 million berries and Jinbe receives 76 million berries.",
+      "significance": "Officially establishes the Sun Pirates as major threats to the World Government. These high bounties reflect both their combat abilities and the political threat they represent for freeing slaves.",
+      "characterIds": ["kizaru", "fisher-tiger", "jinbe"],
+      "crewIds": ["sun-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep541-event-008",
+      "episodeNumber": 541,
+      "timestamp": "16:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Koala's Debut",
+      "description": "The Sun Pirates are asked to escort a scruffy human slave girl named Koala back to her hometown. The young girl displays severe psychological trauma from her enslavement, constantly smiling, cleaning, and apologizing in fear. Tiger grudgingly accepts the responsibility.",
+      "significance": "Introduces Koala, a character who becomes important later in the series as a Revolutionary Army member. Her traumatized state powerfully illustrates the psychological damage of slavery in the One Piece world.",
+      "characterIds": ["koala", "fisher-tiger"],
+      "crewIds": ["sun-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [542, 543],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep541-event-009",
+      "episodeNumber": 541,
+      "timestamp": "18:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "CRITICAL",
+      "title": "Arlong Beats Koala",
+      "description": "Arlong violently beats Koala simply for being human. The crew is shocked by Koala's demeanor and fear, watching as she frantically scrubs the deck while apologizing profusely. The Sun Pirates begin to understand the depth of trauma inflicted by the Celestial Dragons.",
+      "significance": "This disturbing scene demonstrates the psychological horror of slavery and begins to change the perspectives of even the most human-hating fish-men. It serves as a powerful indictment of the World Government's slave system.",
+      "characterIds": ["arlong", "koala", "fisher-tiger"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep541-event-010",
+      "episodeNumber": 541,
+      "timestamp": "20:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "CRITICAL",
+      "title": "Tiger Removes Koala's Slave Mark",
+      "description": "Fisher Tiger uses a branding iron to burn a new mark over Koala's Celestial Dragon slave brand, replacing it with the Sun Pirates' symbol. He yells at her that it's alright to cry, stating they are not like the World Nobles. To prove his point, he throws a gun overboard and declares they will not kill anyone and will take her home no matter what.",
+      "significance": "The emotional climax of the episode. Tiger's act of removing the slave mark (the same act he performed for all freed slaves) symbolizes genuine freedom and compassion. This moment allows Koala to finally break free from her psychological chains and express emotion.",
+      "characterIds": ["fisher-tiger", "koala"],
+      "crewIds": ["sun-pirates"],
+      "quotes": [
+        {
+          "text": "It's alright to cry! We're not like those stupid World Nobles!",
+          "speaker": "Fisher Tiger",
+          "context": "Tiger yelling at Koala to show her she's truly free"
+        },
+        {
+          "text": "We will not kill anyone, and we'll take her home no matter what!",
+          "speaker": "Fisher Tiger",
+          "context": "Tiger's declaration after throwing the gun overboard"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [542, 543],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep541-event-011",
+      "episodeNumber": 541,
+      "timestamp": "22:00",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "CRITICAL",
+      "title": "Koala Finally Cries",
+      "description": "After Tiger's passionate declaration and the removal of her slave mark, Koala finally breaks down and cries for the first time since her enslavement. Her emotional release represents her first step toward psychological freedom.",
+      "significance": "The culmination of Koala's emotional arc in this episode. Her ability to cry represents the breaking of psychological conditioning imposed by the Celestial Dragons. This moment exemplifies Fisher Tiger's true heroism - not just physical liberation, but emotional and psychological freedom.",
+      "characterIds": ["koala", "fisher-tiger"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [542, 543],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["koala", "kadar"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [542, 543, 544],
+    "payoffFrom": [540],
+    "thematicLinks": [538, 539, 540, 542, 543, 544]
+  },
+  "quotes": [
+    {
+      "text": "It's alright to cry! We're not like those stupid World Nobles!",
+      "speaker": "Fisher Tiger",
+      "context": "Tiger's passionate declaration to Koala",
+      "timestamp": "20:30"
+    },
+    {
+      "text": "This is about liberation and freedom, not revenge!",
+      "speaker": "Fisher Tiger",
+      "context": "Tiger scolding Arlong after he killed a Marine",
+      "timestamp": "12:30"
+    },
+    {
+      "text": "The demons inside me wish I could kill humans.",
+      "speaker": "Fisher Tiger",
+      "context": "Tiger's private confession to Jinbe revealing his internal struggle",
+      "timestamp": "12:30"
+    },
+    {
+      "text": "We will not kill anyone, and we'll take her home no matter what!",
+      "speaker": "Fisher Tiger",
+      "context": "Tiger's declaration of his principles after throwing the gun overboard",
+      "timestamp": "20:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Trauma and Liberation",
+      "description": "The episode powerfully explores the psychological trauma of slavery through Koala's character. Her constant smiling, cleaning, and apologizing demonstrate how slavery damages the mind as much as the body. Tiger's act of removing her slave mark and encouraging her to cry represents true liberation - not just physical freedom, but psychological and emotional freedom.",
+      "symbolism": "The slave mark represents psychological bondage, while its removal and replacement with the Sun Pirates symbol represents freedom and a new identity.",
+      "culturalReferences": [
+        "The episode's portrayal of slavery trauma reflects real-world discussions about generational trauma and the psychological impacts of oppression."
+      ]
+    },
+    {
+      "theme": "Cycles of Hatred",
+      "description": "Fisher Tiger's internal conflict epitomizes the difficulty of breaking cycles of hatred. Despite publicly advocating for liberation over revenge, he privately admits to harboring demons that wish to kill humans. Arlong represents those who cannot move past hatred, while Tiger struggles to rise above it.",
+      "symbolism": "Tiger throwing the gun overboard symbolizes his commitment to breaking the cycle of violence, even as he struggles internally.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Compassion and Understanding",
+      "description": "The Sun Pirates, including the human-hating Arlong, begin to understand the true horror of slavery through Koala. Even those who harbor hatred toward humans can feel compassion when confronted with the reality of a traumatized child.",
+      "symbolism": "Koala's tears represent the healing power of compassion and safety.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tragic", "Powerful", "Heartbreaking", "Hopeful"],
+  "characterSpotlights": [
+    {
+      "characterId": "fisher-tiger",
+      "role": "Protagonist of flashback",
+      "development": "Tiger's complexity is fully revealed as he struggles between his noble ideals of liberation and his inner demons born from trauma. He emerges as a truly heroic figure who fights against his own hatred to help others, particularly Koala.",
+      "keyActions": [
+        "Defeats Rear Admiral Kadar",
+        "Scolds Arlong for killing a Marine",
+        "Confides his inner demons to Jinbe",
+        "Accepts responsibility for Koala",
+        "Removes Koala's slave mark and replaces it with Sun Pirates symbol",
+        "Throws gun overboard to prove his non-violent intentions",
+        "Encourages Koala to cry and express emotions"
+      ],
+      "quotes": [
+        "This is about liberation and freedom, not revenge!",
+        "It's alright to cry! We're not like those stupid World Nobles!",
+        "We will not kill anyone, and we'll take her home no matter what!"
+      ]
+    },
+    {
+      "characterId": "koala",
+      "role": "Symbolic representation of slavery's trauma",
+      "development": "Koala is introduced as a severely traumatized young slave who has been psychologically conditioned to constantly smile and work without complaint. Through Fisher Tiger's compassion, she begins her journey toward psychological freedom.",
+      "keyActions": [
+        "Arrives with the Sun Pirates",
+        "Frantically cleans and apologizes",
+        "Endures Arlong's abuse without complaint",
+        "Receives the Sun Pirates mark from Tiger",
+        "Cries for the first time, beginning her emotional healing"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "arlong",
+      "role": "Antagonist within the crew",
+      "development": "Arlong's deep hatred of humans is on full display as he kills a Marine and abuses Koala. However, even he is disturbed by Koala's traumatized state, showing that his hatred is challenged by reality.",
+      "keyActions": [
+        "Kills a Marine despite Tiger's philosophy",
+        "Beats Koala for being human",
+        "Witnesses Koala's psychological trauma"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "jinbe",
+      "role": "Tiger's trusted confidant",
+      "development": "Jinbe serves as Tiger's second-in-command and the person Tiger trusts with his deepest struggles. He bears witness to Tiger's internal conflict between idealism and trauma.",
+      "keyActions": [
+        "Receives Tiger's confession about his inner demons",
+        "Participates in the battle with Marines"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended the battle between Fisher Tiger and Rear Admiral Kadar, adding more action sequences than appeared in the manga.",
+      "episodeTimestamp": "09:15",
+      "mangaReference": "Chapter 620-622",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "A scene where a Marine provokes Jinbe was added in the anime for dramatic effect.",
+      "episodeTimestamp": "08:00",
+      "mangaReference": "Chapter 620-622",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "Jinbe's silhouette during explanatory scenes incorrectly displays his current 46-year appearance rather than his 31-year-old form as a Sun Pirate member.",
+      "episodeTimestamp": "Various",
+      "mangaReference": "Chapter 620-622",
+      "type": "ANIMATION_ERROR"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episode 541 aired on April 1, 2012 in Japan, with the Funimation simulcast airing a day earlier on March 31, 2012.",
+      "category": "BROADCAST",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_541",
+          "title": "Episode 541 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-23"
+        }
+      ]
+    },
+    {
+      "fact": "This episode adapts manga chapters 620-622, part of the Fish-Man Island flashback arc.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_541",
+          "title": "Episode 541 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-23"
+        }
+      ]
+    },
+    {
+      "fact": "The episode's TV rating was 9.6%, ranking 3rd for its broadcast slot.",
+      "category": "RATINGS",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_541",
+          "title": "Episode 541 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-23"
+        }
+      ]
+    },
+    {
+      "fact": "Koala would later appear in the series as a member of the Revolutionary Army during the Dressrosa arc, making her introduction in this flashback particularly significant.",
+      "category": "FORESHADOWING",
+      "sources": []
+    },
+    {
+      "fact": "Eiichiro Oda revealed in SBS Volume 75 that Koala is a meaningful character who lives a life completely opposite to Hody Jones, with Fisher Tiger's sacrifice not being in vain as Koala fights for fish-men as part of the Revolutionary Army.",
+      "category": "AUTHOR_COMMENTARY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Koala",
+          "title": "Koala - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-23"
+        }
+      ]
+    },
+    {
+      "fact": "The DVD release of this episode occurred on October 10, 2017, over five years after its original broadcast.",
+      "category": "HOME_MEDIA",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_541",
+          "title": "Episode 541 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-23"
+        }
+      ]
+    },
+    {
+      "fact": "The episode aired on Toonami in the United States on April 17, 2022, exactly 10 years after its Japanese broadcast.",
+      "category": "BROADCAST",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_541",
+          "title": "Episode 541 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2025-12-23"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

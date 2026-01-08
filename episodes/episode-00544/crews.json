@@ -1,0 +1,151 @@
+[
+  {
+    "name": {
+      "english": "Sun Pirates",
+      "japanese": "タイヨウの海賊団",
+      "romanized": "Taiyō no Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "jinbe",
+    "debutEpisode": 538,
+    "debutChapter": 612,
+    "episodeAppearances": [544],
+    "members": [
+      {
+        "characterId": "jinbe",
+        "role": "Captain",
+        "episodeJoined": 538,
+        "episodeLeft": null,
+        "joinCircumstances": "Became captain after Fisher Tiger's death"
+      },
+      {
+        "characterId": "arlong",
+        "role": "Member",
+        "episodeJoined": 538,
+        "episodeLeft": 544,
+        "leaveCircumstances": "Left to form the Arlong Pirates after ideological split with Jinbe over becoming a Shichibukai"
+      },
+      {
+        "characterId": "macro",
+        "role": "Member",
+        "episodeJoined": 538,
+        "episodeLeft": 544,
+        "leaveCircumstances": "Left to form the Macro Pirates when the crew split"
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 544,
+        "eventId": "ep544-event-005",
+        "momentType": "MAJOR_DECISION",
+        "title": "Jinbe Accepts Shichibukai Position",
+        "description": "Jinbe becomes a Shichibukai, pardoning all Sun Pirates members including Arlong.",
+        "significance": "Creates ideological conflict within the crew leading to its dissolution.",
+        "timestamp": "10:15"
+      },
+      {
+        "episodeNumber": 544,
+        "eventId": "ep544-event-012",
+        "momentType": "CREW_DEPARTURE",
+        "title": "The Sun Pirates Split",
+        "description": "The Sun Pirates split into three factions: Jinbe's Sun Pirates, Arlong Pirates, and Macro Pirates.",
+        "significance": "End of Fisher Tiger's dream of a united fish-man crew.",
+        "timestamp": "21:15"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "relationships": {
+      "allies": [],
+      "enemies": [],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Arlong Pirates",
+      "japanese": "アーロン一味",
+      "romanized": "Āron Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "arlong",
+    "debutEpisode": 31,
+    "debutChapter": 69,
+    "episodeAppearances": [544],
+    "members": [
+      {
+        "characterId": "arlong",
+        "role": "Captain",
+        "episodeJoined": 544,
+        "episodeLeft": null,
+        "joinCircumstances": "Founded the crew after leaving the Sun Pirates due to ideological differences with Jinbe"
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 544,
+        "eventId": "ep544-event-010",
+        "momentType": "FORMATION",
+        "title": "Arlong Pirates Founded",
+        "description": "Arlong announces his intention to form the Arlong Pirates and leave the Sun Pirates.",
+        "significance": "Formation of the crew that will later terrorize the East Blue and Nami's village.",
+        "timestamp": "17:45"
+      },
+      {
+        "episodeNumber": 544,
+        "eventId": "ep544-event-012",
+        "momentType": "CREW_DEPARTURE",
+        "title": "Splits from Sun Pirates",
+        "description": "The Arlong Pirates officially separate from the Sun Pirates as one of three splinter factions.",
+        "significance": "Marks the beginning of Arlong's independent path of vengeance.",
+        "timestamp": "21:15"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "relationships": {
+      "allies": [],
+      "enemies": ["straw-hat-pirates"],
+      "parentOrganization": "sun-pirates"
+    }
+  },
+  {
+    "name": {
+      "english": "Macro Pirates",
+      "japanese": "マクロ一味",
+      "romanized": "Makuro Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "macro",
+    "debutEpisode": 385,
+    "debutChapter": 490,
+    "episodeAppearances": [544],
+    "members": [
+      {
+        "characterId": "macro",
+        "role": "Captain",
+        "episodeJoined": 544,
+        "episodeLeft": null,
+        "joinCircumstances": "Founded the crew when the Sun Pirates split into three factions"
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 544,
+        "eventId": "ep544-event-012",
+        "momentType": "FORMATION",
+        "title": "Macro Pirates Founded",
+        "description": "Macro forms his own crew as the Sun Pirates split into three factions.",
+        "significance": "Represents a neutral path, neither choosing Jinbe's diplomacy nor Arlong's vengeance.",
+        "timestamp": "21:15"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "relationships": {
+      "allies": [],
+      "enemies": [],
+      "parentOrganization": "sun-pirates"
+    }
+  }
+]
