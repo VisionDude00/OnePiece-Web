@@ -1,0 +1,536 @@
+{
+  "episodeNumber": 624,
+  "episodeTitle": "The G-5 Wiped Out! Doflamingo's Sudden Attack!",
+  "titleJapanese": "G5壊滅！ドフラミンゴ急襲！",
+  "titleRomanized": "Jī-Faibu Kaimetsu! Dofuramingo Kyūshū!",
+  "description": "The Straw Hat crew, along with Law, Kin'emon, and Momonosuke, sail toward Dressrosa on the Thousand Sunny. Meanwhile, on Punk Hazard, Doflamingo arrives and brutally attacks the G-5 Marines. When Smoker intervenes to protect his men, he is gravely injured. Just as Doflamingo prepares to finish Smoker, Kuzan appears and saves his former colleague.",
+  "airDate": "2013-12-08",
+  "airDateJapan": "2013-12-08",
+  "airDateUS": "2013-12-07",
+  "arcName": "Punk Hazard",
+  "sagaName": "Dressrosa Saga",
+  "animationQuality": "ENHANCED",
+  "openingSong": {
+    "title": "Hands Up!",
+    "artist": "Kōta Shinzato",
+    "episodeRange": [591, 628]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Masahiro Hosoda",
+    "artDirector": "Miho Shiraishi",
+    "keyAnimators": ["Atsuko Kawamura"],
+    "screenwriter": "Jin Tanaka",
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      },
+      {
+        "character": "Brook",
+        "actor": "Cho"
+      },
+      {
+        "character": "Trafalgar Law",
+        "actor": "Hiroshi Kamiya"
+      },
+      {
+        "character": "Donquixote Doflamingo",
+        "actor": "Hideyuki Tanaka"
+      },
+      {
+        "character": "Smoker",
+        "actor": "Mahito Oba"
+      },
+      {
+        "character": "Kuzan",
+        "actor": "Takehito Koyasu"
+      },
+      {
+        "character": "Kin'emon",
+        "actor": "Kenyu Horiuchi"
+      },
+      {
+        "character": "Momonosuke",
+        "actor": "Ai Orikasa"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Donquixote Doflamingo",
+        "actor": "Robert McCollum"
+      },
+      {
+        "character": "Smoker",
+        "actor": "Greg Dulcie"
+      },
+      {
+        "character": "Kuzan",
+        "actor": "Jason Douglas"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep624-event-001",
+      "episodeNumber": 624,
+      "timestamp": "03:20",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MINOR",
+      "title": "Straw Hats Depart Punk Hazard",
+      "description": "The Straw Hat Pirates, along with Law, Kin'emon, and Momonosuke, set sail from Punk Hazard aboard the Thousand Sunny, heading toward Dressrosa.",
+      "significance": "Marks the conclusion of the Punk Hazard arc for the Straw Hats and the beginning of their journey to Dressrosa as part of Law's plan.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky", "brook", "law", "kinemon", "momonosuke"],
+      "locationIds": ["punk-hazard", "thousand-sunny"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [623],
+      "payoffInEpisodes": [625, 629],
+      "callbacksToEpisodes": [579]
+    },
+    {
+      "id": "ep624-event-002",
+      "episodeNumber": 624,
+      "timestamp": "06:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Crew Relaxes After Punk Hazard",
+      "description": "The Straw Hat crew relaxes on the Thousand Sunny, with Kin'emon and Momonosuke sharing tea. Franky recounts the story of how he recovered the Thousand Sunny from the Navy.",
+      "significance": "Provides character moments and reinforces the bonds between the crew and their new allies. Anime-original expansion adding levity after the intense Punk Hazard battles.",
+      "characterIds": ["luffy", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky", "brook", "kinemon", "momonosuke"],
+      "locationIds": ["thousand-sunny"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [623]
+    },
+    {
+      "id": "ep624-event-003",
+      "episodeNumber": 624,
+      "timestamp": "09:15",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Sea Slope Navigation",
+      "description": "The Thousand Sunny encounters a dramatic sea slope where the ocean current shifts at a steep angle, requiring skilled navigation to descend safely.",
+      "significance": "Demonstrates the dangerous and unpredictable nature of the New World's seas, showcasing Nami's navigational skills.",
+      "characterIds": ["nami", "luffy", "usopp"],
+      "locationIds": ["thousand-sunny"],
+      "quotes": [
+        {
+          "text": "This is the New World! The seas here don't follow normal rules!",
+          "speaker": "Nami",
+          "context": "Explaining the sea slope phenomenon"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep624-event-004",
+      "episodeNumber": 624,
+      "timestamp": "12:30",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Luffy Reveals Plan to Defeat Kaidou",
+      "description": "Luffy explains to the Straw Hat crew the alliance's true goal: to take down Yonko Kaidou by destroying his SMILE supply through Doflamingo.",
+      "significance": "Establishes the long-term goal of the alliance and sets up the conflict with one of the Four Emperors, a major storyline spanning multiple arcs.",
+      "characterIds": ["luffy", "law", "zoro", "nami", "usopp", "sanji", "chopper", "robin", "franky", "brook"],
+      "locationIds": ["thousand-sunny"],
+      "crewIds": ["straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "We're going to take down Kaidou, one of the Four Emperors!",
+          "speaker": "Luffy",
+          "context": "Announcing the alliance's ultimate goal"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [668, 594],
+      "payoffInEpisodes": [892, 1000],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep624-event-005",
+      "episodeNumber": 624,
+      "timestamp": "15:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Doflamingo Arrives on Punk Hazard",
+      "description": "Donquixote Doflamingo descends from the sky onto Punk Hazard, where Caesar's former subordinates and the G-5 Marines are searching for petrified soldiers.",
+      "significance": "Marks Doflamingo's first physical appearance on Punk Hazard and the beginning of his direct confrontation with the Marines, establishing him as a major threat.",
+      "characterIds": ["doflamingo", "baby-5", "buffalo"],
+      "locationIds": ["punk-hazard"],
+      "quotes": [
+        {
+          "text": "Fufufufu... What a mess you've made here.",
+          "speaker": "Doflamingo",
+          "context": "First words upon arriving at Punk Hazard"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [622, 623],
+      "payoffInEpisodes": [625],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep624-event-006",
+      "episodeNumber": 624,
+      "timestamp": "16:20",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Doflamingo Uses Conqueror's Haki",
+      "description": "Before the G-5 Marines can attack, Doflamingo unleashes Conqueror's Haki (Haoshoku Haki), instantly knocking out the vast majority of the soldiers.",
+      "significance": "First display of Doflamingo's Conqueror's Haki, establishing him as one of the elite few capable of this rare ability and demonstrating his overwhelming power.",
+      "characterIds": ["doflamingo"],
+      "locationIds": ["punk-hazard"],
+      "devilFruitIds": [],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [723],
+      "callbacksToEpisodes": [389, 517]
+    },
+    {
+      "id": "ep624-event-007",
+      "episodeNumber": 624,
+      "timestamp": "17:45",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Parasite Technique Revealed",
+      "description": "Doflamingo uses his Devil Fruit's Parasite technique to control the remaining conscious G-5 Marines, forcing them to attack each other against their will.",
+      "significance": "First clear demonstration of Doflamingo's ability to control people like puppets using his strings, showcasing the terrifying nature of the Ito Ito no Mi.",
+      "characterIds": ["doflamingo"],
+      "locationIds": ["punk-hazard"],
+      "devilFruitIds": ["ito-ito-no-mi"],
+      "quotes": [
+        {
+          "text": "You're all just puppets dancing on my strings.",
+          "speaker": "Doflamingo",
+          "context": "As he controls the Marines"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [723, 732],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep624-event-008",
+      "episodeNumber": 624,
+      "timestamp": "19:10",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Smoker Confronts Doflamingo",
+      "description": "Vice Admiral Smoker steps forward to defend his G-5 subordinates from Doflamingo, demanding he stop his attack and launching his White Blow technique.",
+      "significance": "Demonstrates Smoker's loyalty to his men and willingness to stand against a Warlord. Sets up the power difference between them.",
+      "characterIds": ["smoker", "doflamingo"],
+      "locationIds": ["punk-hazard"],
+      "quotes": [
+        {
+          "text": "Don't you dare lay another finger on my men, Doflamingo!",
+          "speaker": "Smoker",
+          "context": "Defending his subordinates"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [613]
+    },
+    {
+      "id": "ep624-event-009",
+      "episodeNumber": 624,
+      "timestamp": "20:35",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Smoker Reveals Knowledge of Vergo",
+      "description": "During their confrontation, Smoker derisively mentions Vergo's involvement in Doflamingo's operations, revealing that he learned about the underworld connections.",
+      "significance": "Confirms that Smoker now knows about Doflamingo's underworld operations and the connection to Vergo, making him a liability that Doflamingo must silence.",
+      "characterIds": ["smoker", "doflamingo", "vergo"],
+      "locationIds": ["punk-hazard"],
+      "quotes": [
+        {
+          "text": "I know all about Vergo and your dirty operations, Joker!",
+          "speaker": "Smoker",
+          "context": "Confronting Doflamingo about his crimes"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [613, 622],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep624-event-010",
+      "episodeNumber": 624,
+      "timestamp": "21:50",
+      "eventType": "BATTLE_END",
+      "severity": "CRITICAL",
+      "title": "Smoker Gravely Injured by Doflamingo",
+      "description": "Doflamingo's attack is redirected when Smoker uses his body as a shield to protect his subordinates, resulting in severe injuries to the Vice Admiral. Doflamingo prepares to deliver a finishing blow.",
+      "significance": "Demonstrates Smoker's selflessness and the vast power gap between him and Doflamingo. Places Smoker in mortal danger.",
+      "characterIds": ["smoker", "doflamingo"],
+      "locationIds": ["punk-hazard"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [625],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep624-event-011",
+      "episodeNumber": 624,
+      "timestamp": "23:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "CRITICAL",
+      "title": "Kuzan Appears on Punk Hazard",
+      "description": "Former Admiral Kuzan (Aokiji) suddenly appears on Punk Hazard, interrupting Doflamingo before he can kill Smoker. He asks Doflamingo to step aside, calling Smoker his friend.",
+      "significance": "Kuzan's unexpected appearance saves Smoker's life and raises questions about why the former Admiral is on Punk Hazard. First time seeing Kuzan since his departure from the Marines.",
+      "characterIds": ["kuzan", "smoker", "doflamingo"],
+      "locationIds": ["punk-hazard"],
+      "quotes": [
+        {
+          "text": "Mind stepping aside, Doflamingo? That man is my friend.",
+          "speaker": "Kuzan",
+          "context": "Saving Smoker from Doflamingo"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [574, 579],
+      "payoffInEpisodes": [625],
+      "callbacksToEpisodes": [574]
+    },
+    {
+      "id": "ep624-event-012",
+      "episodeNumber": 624,
+      "timestamp": "24:00",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MAJOR",
+      "title": "Doflamingo Backs Down from Kuzan",
+      "description": "Recognizing the threat posed by a former Admiral, Doflamingo decides not to fight Kuzan and prepares to leave Punk Hazard.",
+      "significance": "Establishes that even Doflamingo respects Kuzan's power. Creates mystery about Kuzan's current status and motivations.",
+      "characterIds": ["doflamingo", "kuzan"],
+      "locationIds": ["punk-hazard"],
+      "quotes": [
+        {
+          "text": "Fufufu... I'm not interested in fighting you today, Kuzan.",
+          "speaker": "Doflamingo",
+          "context": "Deciding to retreat rather than face Kuzan"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [625],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["parasite"]
+  },
+  "episodeRelationships": {
+    "setupFor": [625, 629, 700],
+    "payoffFrom": [622, 623],
+    "thematicLinks": [574, 723]
+  },
+  "quotes": [
+    {
+      "text": "We're going to take down Kaidou, one of the Four Emperors!",
+      "speaker": "Luffy",
+      "context": "Revealing the alliance's plan to the crew",
+      "timestamp": "12:30"
+    },
+    {
+      "text": "Fufufufu... What a mess you've made here.",
+      "speaker": "Doflamingo",
+      "context": "Arriving at Punk Hazard",
+      "timestamp": "15:00"
+    },
+    {
+      "text": "Don't you dare lay another finger on my men, Doflamingo!",
+      "speaker": "Smoker",
+      "context": "Defending his subordinates from Doflamingo",
+      "timestamp": "19:10"
+    },
+    {
+      "text": "Mind stepping aside, Doflamingo? That man is my friend.",
+      "speaker": "Kuzan",
+      "context": "Intervening to save Smoker",
+      "timestamp": "23:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Loyalty and Sacrifice",
+      "description": "Smoker willingly puts himself in harm's way to protect his subordinates from Doflamingo's attack, demonstrating the bond between the Vice Admiral and his men.",
+      "symbolism": "Smoker using his body as a shield represents the Marine ideal of protecting those under your command, even at great personal cost.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Power and Intimidation",
+      "description": "Doflamingo's overwhelming display of Conqueror's Haki and puppet manipulation establishes him as a fearsome villain who operates on a different level from most antagonists.",
+      "symbolism": "The puppet strings represent control, manipulation, and the loss of free will - key themes in Doflamingo's character.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Mysterious Allegiances",
+      "description": "Kuzan's appearance raises questions about his current loyalties and motivations after leaving the Marines, adding intrigue to his character.",
+      "symbolism": "Kuzan appearing from nowhere represents his new role as a wildcard, no longer bound by Marine structure.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Adventurous", "Tense", "Ominous", "Dramatic"],
+  "characterSpotlights": [
+    {
+      "characterId": "doflamingo",
+      "role": "Primary Antagonist",
+      "development": "Doflamingo is established as a truly menacing villain with overwhelming power, including Conqueror's Haki and terrifying Devil Fruit abilities that allow him to control people like puppets.",
+      "keyActions": [
+        "Arrives on Punk Hazard from the sky",
+        "Uses Conqueror's Haki to knock out most G-5 Marines",
+        "Controls Marines with Parasite technique",
+        "Severely injures Smoker",
+        "Backs down when confronted by Kuzan"
+      ],
+      "quotes": ["Fufufufu... What a mess you've made here.", "You're all just puppets dancing on my strings."]
+    },
+    {
+      "characterId": "smoker",
+      "role": "Defender",
+      "development": "Demonstrates his deep loyalty to his subordinates by willingly taking a devastating attack meant for them, nearly costing him his life.",
+      "keyActions": [
+        "Confronts Doflamingo to protect G-5 Marines",
+        "Mentions knowledge of Vergo and underworld operations",
+        "Uses his body as a shield for his men",
+        "Sustains critical injuries from Doflamingo"
+      ],
+      "quotes": ["Don't you dare lay another finger on my men, Doflamingo!", "I know all about Vergo and your dirty operations, Joker!"]
+    },
+    {
+      "characterId": "kuzan",
+      "role": "Mysterious Savior",
+      "development": "Makes his first post-Marine appearance, saving his former colleague Smoker and creating questions about his current status and motivations.",
+      "keyActions": [
+        "Appears unexpectedly on Punk Hazard",
+        "Intervenes to save Smoker from certain death",
+        "Causes Doflamingo to retreat without fighting"
+      ],
+      "quotes": ["Mind stepping aside, Doflamingo? That man is my friend."]
+    },
+    {
+      "characterId": "luffy",
+      "role": "Protagonist/Alliance Leader",
+      "development": "Reveals the true scope of the alliance's ambitions to his crew, showing his growth in taking on challenges against the world's strongest pirates.",
+      "keyActions": [
+        "Explains the plan to defeat Kaidou to the crew",
+        "Sails toward Dressrosa with Law and allies"
+      ],
+      "quotes": ["We're going to take down Kaidou, one of the Four Emperors!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime significantly expanded the battle sequence between Doflamingo and Smoker with enhanced animation detail and additional combat choreography.",
+      "episodeTimestamp": "19:00-22:00",
+      "mangaReference": "Chapter 698",
+      "type": "ANIME_EXPANSION"
+    },
+    {
+      "difference": "Added anime-original scenes of the Straw Hats relaxing on the Thousand Sunny, including Kin'emon and Momonosuke sharing tea and Franky recounting the Thousand Sunny's recovery.",
+      "episodeTimestamp": "06:45",
+      "mangaReference": "Not in manga",
+      "type": "ANIME_ORIGINAL_SCENE"
+    },
+    {
+      "difference": "In the manga, Doflamingo's control of the Marines is more implied, while the anime explicitly shows him using strings to make them shoot each other.",
+      "episodeTimestamp": "17:45",
+      "mangaReference": "Chapter 698",
+      "type": "ANIME_CLARIFICATION"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode features drastically improved animation quality during the Doflamingo vs Smoker fight, with detailed choreography and fluid movements.",
+      "category": "ANIMATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_624",
+          "title": "Episode 624 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-08"
+        }
+      ]
+    },
+    {
+      "fact": "The episode achieved a 9.2% TV rating in Japan, showing strong viewer interest in Doflamingo's confrontation with the Marines.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_624",
+          "title": "Episode 624 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-08"
+        }
+      ]
+    },
+    {
+      "fact": "This is the first time in the anime that Doflamingo's ability is explicitly referred to as a Devil Fruit power.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "The eyecatcher for this episode features Sanji with the One Piece logo.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "This episode adapts material from Chapter 698 of the manga, specifically pages 2-14 and 18-19.",
+      "category": "ADAPTATION",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

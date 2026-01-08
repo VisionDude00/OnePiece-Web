@@ -1,0 +1,121 @@
+[
+  {
+    "name": {
+      "english": "Straw Hat Pirates",
+      "japanese": "麦わらの一味",
+      "romanized": "Mugiwara no Ichimi"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "luffy",
+    "debutEpisode": 1,
+    "debutChapter": 1,
+    "episodeAppearances": [622],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 622,
+        "eventId": "ep622-event-009",
+        "momentType": "CULTURAL_MOMENT",
+        "title": "Straw Hats Share Feast with Marines",
+        "description": "The Straw Hat Pirates share a celebratory feast with their former enemies, the G-5 Marines, demonstrating temporary cooperation.",
+        "significance": "Shows the crew's ability to form temporary alliances even with traditional enemies when circumstances require it.",
+        "timestamp": "17:00"
+      },
+      {
+        "episodeNumber": 622,
+        "eventId": "ep622-event-012",
+        "momentType": "WORLD_LORE",
+        "title": "Alliance Goal Revealed: Defeat Kaidou",
+        "description": "The Straw Hat Pirates' alliance with the Heart Pirates is confirmed to have the goal of taking down Emperor Kaidou.",
+        "significance": "Establishes the crew's next major objective and enemy in the New World.",
+        "timestamp": "20:30"
+      },
+      {
+        "episodeNumber": 622,
+        "eventId": "ep622-event-013",
+        "momentType": "PROPHECY_FORESHADOWING",
+        "title": "Luffy's Ambition to Defeat All Emperors",
+        "description": "Captain Luffy declares the Straw Hats' ultimate goal to defeat all Four Emperors.",
+        "significance": "Sets up the massive scope of the crew's future conflicts and ambitions.",
+        "timestamp": "21:15"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull wearing a straw hat with crossed bones behind it",
+      "episodeFirstSeen": 45,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": ["heart-pirates"],
+      "enemies": ["caesar-clown"],
+      "parentOrganization": null
+    }
+  },
+  {
+    "name": {
+      "english": "Heart Pirates",
+      "japanese": "ハートの海賊団",
+      "romanized": "Hāto no Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "trafalgar-law",
+    "debutEpisode": 392,
+    "debutChapter": 498,
+    "episodeAppearances": [622],
+    "members": [],
+    "keyMoments": [
+      {
+        "episodeNumber": 622,
+        "eventId": "ep622-event-006",
+        "momentType": "POWER_REVEAL",
+        "title": "Law Cures the Children",
+        "description": "Heart Pirates captain Trafalgar Law uses his medical expertise to cure all of Caesar's experimental subjects.",
+        "significance": "Demonstrates the crew's medical capabilities and commitment to helping innocents.",
+        "timestamp": "12:30"
+      },
+      {
+        "episodeNumber": 622,
+        "eventId": "ep622-event-011",
+        "momentType": "WORLD_LORE",
+        "title": "Law Discusses Alliance Strategy",
+        "description": "Captain Law discusses the pirate alliance with Smoker, revealing that Luffy is harder to control than anticipated.",
+        "significance": "Provides insight into the dynamics of the alliance and Law's strategic thinking.",
+        "timestamp": "19:45"
+      },
+      {
+        "episodeNumber": 622,
+        "eventId": "ep622-event-012",
+        "momentType": "WORLD_LORE",
+        "title": "Heart Pirates Alliance Goal: Defeat Kaidou",
+        "description": "The Heart Pirates' alliance with the Straw Hat Pirates is revealed to target Emperor Kaidou, with Law estimating a 30% chance of success.",
+        "significance": "Establishes the crew's ambitious goal and the central conflict for upcoming arcs.",
+        "timestamp": "20:30"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Polar Tang",
+        "episodeAcquired": 392,
+        "episodeLost": null,
+        "description": "A submarine used by the Heart Pirates"
+      }
+    ],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "A skull with a red heart-shaped design and the letters DEATH written across it",
+      "episodeFirstSeen": 392,
+      "imageUrl": ""
+    },
+    "mainColor": "#FFD700",
+    "relationships": {
+      "allies": ["straw-hat-pirates"],
+      "enemies": ["caesar-clown", "doflamingo"],
+      "parentOrganization": null
+    }
+  }
+]

@@ -1,0 +1,558 @@
+{
+  "episodeNumber": 620,
+  "episodeTitle": "A Critical Situation! Punk Hazard Explodes!",
+  "episodeTitleJapanese": "絶体絶命！パンクハザード大爆発",
+  "episodeTitleRomanized": "Zettai Zetsumei! Panku Hazādo Dai-bakuhatsu",
+  "description": "Law reveals his clever heart-switching deception that causes Caesar to accidentally stab Monet instead of Smoker, preventing Punk Hazard's explosion. As the Straw Hats race to escape the collapsing facility and deadly gas, Franky battles Baby 5 and Buffalo at the tanker. Doflamingo, learning the island wasn't destroyed, personally flies toward Punk Hazard using his Sky Path technique.",
+  "airDate": "2013-11-10",
+  "airDateJapan": "2013-11-10",
+  "airDateUS": "2023-06-18",
+  "airDateUSFunimation": "2021-01-05",
+  "funimationSimulcast": "2013-11-09",
+  "arcName": "Punk Hazard",
+  "sagaName": "Dressrosa Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Hands Up!",
+    "titleJapanese": "ハンズアップ!",
+    "artist": "Kota Shinzato",
+    "composer": "BACK-ON",
+    "lyricist": "BACK-ON",
+    "arranger": "BACK-ON",
+    "episodeRange": [591, 628]
+  },
+  "endingSong": null,
+  "credits": {
+    "director": "Ayako Hiraike",
+    "screenplay": "Jin Tanaka",
+    "artDirector": "Miho Shiraishi",
+    "animationDirector": "Yukiko Nakatani",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Trafalgar Law",
+        "actor": "Hiroshi Kamiya"
+      },
+      {
+        "character": "Smoker",
+        "actor": "Mahito Ōba"
+      },
+      {
+        "character": "Caesar Clown",
+        "actor": "Ryūsei Nakao"
+      },
+      {
+        "character": "Monet",
+        "actor": "Naoko Matsui"
+      },
+      {
+        "character": "Donquixote Doflamingo",
+        "actor": "Hideyuki Tanaka"
+      },
+      {
+        "character": "Baby 5",
+        "actor": "Rina Sato"
+      },
+      {
+        "character": "Buffalo",
+        "actor": "Yasuhiro Takato"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Trafalgar Law",
+        "actor": "Matthew Mercer"
+      },
+      {
+        "character": "Smoker",
+        "actor": "Greg Dulcie"
+      },
+      {
+        "character": "Caesar Clown",
+        "actor": "Jerry Jewell"
+      },
+      {
+        "character": "Monet",
+        "actor": "Janelle Lutz"
+      },
+      {
+        "character": "Donquixote Doflamingo",
+        "actor": "Robert McCollum"
+      },
+      {
+        "character": "Baby 5",
+        "actor": "Katelyn Barr"
+      },
+      {
+        "character": "Buffalo",
+        "actor": "Travis Mullenix"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep620-event-001",
+      "episodeNumber": 620,
+      "timestamp": "03:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Caesar Stabs Monet's Heart Thinking It's Smoker's",
+      "description": "Caesar Clown, believing he has Smoker's heart, stabs it with a sharp spike to kill the Marine Vice Admiral. However, he unknowingly stabs Monet's heart instead, causing her to collapse in Building C just as she's about to press the self-destruct button.",
+      "significance": "This is the culmination of Law's brilliant deception and saves everyone on Punk Hazard from certain death. Caesar's mistake prevents the island's explosion and marks a turning point in Monet's fate, demonstrating Law's strategic genius.",
+      "characterIds": ["caesar-clown", "monet", "trafalgar-law", "smoker"],
+      "locationIds": ["punk-hazard-laboratory"],
+      "quotes": [
+        {
+          "text": "Die, Smoker!",
+          "speaker": "Caesar Clown",
+          "context": "Caesar stabbing what he thinks is Smoker's heart"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [617, 618, 619],
+      "payoffInEpisodes": [621],
+      "callbacksToEpisodes": [603, 617]
+    },
+    {
+      "id": "ep620-event-002",
+      "episodeNumber": 620,
+      "timestamp": "05:30",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Law's Heart-Switching Deception Revealed",
+      "description": "Law explains through flashback how he deceived Caesar during their alliance. When Law and Caesar formed their partnership, Caesar demanded Law's heart while giving Monet's heart to Law. However, Law secretly returned Monet's heart to Caesar instead of his own, and when Law later took Smoker's heart, he had two identical hearts—he kept Smoker's and returned Monet's to Caesar disguised as Smoker's.",
+      "significance": "This reveal demonstrates Law's tactical brilliance and distrust of Caesar from the very beginning of their partnership. It shows Law was always several steps ahead and never truly allied with Caesar, having planned contingencies from the start.",
+      "characterIds": ["trafalgar-law", "caesar-clown", "monet", "smoker"],
+      "locationIds": ["punk-hazard-laboratory"],
+      "quotes": [
+        {
+          "text": "I kindly gave back the heart of the secretary, Monet.",
+          "speaker": "Trafalgar Law",
+          "context": "Law explaining his deception to Smoker"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [603, 617],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [603]
+    },
+    {
+      "id": "ep620-event-003",
+      "episodeNumber": 620,
+      "timestamp": "07:45",
+      "eventType": "DEATH",
+      "severity": "CRITICAL",
+      "title": "Monet Collapses from Heart Stabbing",
+      "description": "Monet collapses in Building C with blood flowing from her mouth after Caesar stabs her heart. Her hand falls away from the self-destruct button, and her Den Den Mushi speaker stops swinging, suggesting her death. The facility's explosion is averted.",
+      "significance": "Monet's apparent death saves everyone on Punk Hazard from Caesar's final contingency plan. Her fate has been debated in the One Piece community, with some believing she survived due to the heart not being fully destroyed. This moment represents the cost of Caesar and Doflamingo's ruthless plans.",
+      "characterIds": ["monet"],
+      "locationIds": ["punk-hazard-building-c"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [619],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep620-event-004",
+      "episodeNumber": 620,
+      "timestamp": "09:20",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Straw Hats Feel SAD Room Explosion",
+      "description": "As the Straw Hat Pirates and their allies race through the collapsing laboratory toward the exit, they feel a massive explosion from the SAD production room. The explosion rocks the facility and accelerates the structural collapse, increasing the urgency of their escape.",
+      "significance": "The SAD room explosion marks the destruction of Caesar's primary research facility and his ability to produce artificial Devil Fruits for Doflamingo. This has major implications for the underworld weapons trade and Doflamingo's operations.",
+      "characterIds": ["luffy", "zoro", "nami", "sanji", "franky", "robin", "brook", "chopper", "usopp"],
+      "locationIds": ["punk-hazard-laboratory"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [619],
+      "payoffInEpisodes": [621],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep620-event-005",
+      "episodeNumber": 620,
+      "timestamp": "10:45",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Shinokuni Gas Pursues the Escaping Groups",
+      "description": "The deadly Shinokuni poison gas begins pursuing the Straw Hats and their allies as they race toward the exit. The gas accelerates through the corridors, creating a deadly race against time as the facility collapses around them.",
+      "significance": "This creates intense tension and urgency as the characters must escape both the collapsing facility and the deadly gas that turns victims to stone. It demonstrates the ongoing danger of Caesar's weapons even after his defeat.",
+      "characterIds": ["luffy", "zoro", "nami", "sanji", "smoker", "tashigi"],
+      "locationIds": ["punk-hazard-laboratory"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [619],
+      "payoffInEpisodes": [621],
+      "callbacksToEpisodes": [610, 611]
+    },
+    {
+      "id": "ep620-event-006",
+      "episodeNumber": 620,
+      "timestamp": "12:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Law Questions Smoker About Possessing His Heart",
+      "description": "Smoker asks Law how he managed to possess his heart the entire time when Caesar supposedly had it. Law's explanation reveals the depth of his planning and manipulations throughout the Punk Hazard arc, showing he never trusted Caesar.",
+      "significance": "This conversation provides crucial context for understanding Law's true motivations and plans. It shows that Law's alliance with the Straw Hats was genuine while his partnership with Caesar was always a ruse to take down Doflamingo.",
+      "characterIds": ["trafalgar-law", "smoker"],
+      "locationIds": ["punk-hazard-laboratory"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [603, 617],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [603]
+    },
+    {
+      "id": "ep620-event-007",
+      "episodeNumber": 620,
+      "timestamp": "14:50",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Baby 5's Revolver Girl Attack Fails Against Franky Shogun",
+      "description": "Baby 5 uses her Buki Buki no Mi ability to transform into Revolver Girl, a massive gun form, and fires rapidly at Franky Shogun. Despite the intense barrage, Franky Shogun withstands the attack and the battle continues with renewed intensity.",
+      "significance": "This showcases Baby 5's Devil Fruit abilities and fighting style while demonstrating Franky Shogun's durability. It establishes the ongoing battle at the tanker as a parallel action sequence to the main escape.",
+      "characterIds": ["baby-5", "franky"],
+      "locationIds": ["punk-hazard-tanker"],
+      "devilFruitIds": ["buki-buki-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [619],
+      "payoffInEpisodes": [621],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep620-event-008",
+      "episodeNumber": 620,
+      "timestamp": "15:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Baby 5 Debuts Revolver Girl Technique",
+      "description": "Baby 5 demonstrates her Buki-morphose: Revolver Girl technique for the first time, transforming her body into a giant gun barrel and firing rapidly. This is a named technique using her Buki Buki no Mi (Arms-Arms Fruit) powers.",
+      "significance": "This is the debut of Baby 5's Revolver Girl transformation, showcasing the versatility of the Buki Buki no Mi and establishing her combat capabilities as a member of the Donquixote Pirates.",
+      "characterIds": ["baby-5"],
+      "devilFruitIds": ["buki-buki-no-mi"],
+      "locationIds": ["punk-hazard-tanker"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep620-event-009",
+      "episodeNumber": 620,
+      "timestamp": "16:15",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Franky Shogun Counterattacks Baby 5",
+      "description": "After Baby 5's transformation and attack, Franky Shogun emerges from the flames largely unharmed. Franky counterattacks by punching Baby 5 from behind, demonstrating the mecha's combat capabilities and durability.",
+      "significance": "This shows Franky's post-timeskip power and the effectiveness of his Franky Shogun battle form against capable Devil Fruit users, establishing him as a formidable combatant.",
+      "characterIds": ["franky", "baby-5"],
+      "locationIds": ["punk-hazard-tanker"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [619],
+      "payoffInEpisodes": [621],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep620-event-010",
+      "episodeNumber": 620,
+      "timestamp": "17:30",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "Buffalo Contacts Doflamingo About Failed Explosion",
+      "description": "Buffalo uses a Den Den Mushi to contact Donquixote Doflamingo at Dressrosa, informing him that Punk Hazard was not destroyed as planned and that Caesar Clown has been captured by the Straw Hats. Doflamingo receives the news while in his palace.",
+      "significance": "This communication escalates the conflict to the next level, bringing Doflamingo directly into the action. It sets up Doflamingo's personal involvement and leads directly to the Dressrosa arc events.",
+      "characterIds": ["buffalo", "doflamingo"],
+      "crewIds": ["donquixote-pirates"],
+      "locationIds": ["dressrosa-palace", "punk-hazard-tanker"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [619],
+      "payoffInEpisodes": [621, 622],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep620-event-011",
+      "episodeNumber": 620,
+      "timestamp": "18:45",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Doflamingo Decides to Personally Go to Punk Hazard",
+      "description": "After learning that the island wasn't destroyed and Caesar was captured, Doflamingo makes the decision to personally handle the situation. He puts on his signature pink feather coat and prepares to leave Dressrosa, demonstrating the seriousness of the situation.",
+      "significance": "This marks a major escalation in the conflict and shows how important Caesar and the SAD production are to Doflamingo's operations. His personal involvement indicates the threat level posed by the Straw Hat-Law alliance.",
+      "characterIds": ["doflamingo"],
+      "locationIds": ["dressrosa-palace"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [621, 622, 723],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep620-event-012",
+      "episodeNumber": 620,
+      "timestamp": "20:10",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Doflamingo Uses Sora no Michi to Fly Toward Punk Hazard",
+      "description": "Doflamingo leaps from his palace window and is shown running through the sky over the ocean, using his Sora no Michi (Sky Path) technique. He attaches his strings to clouds in the sky, allowing him to travel through the air from Dressrosa toward Punk Hazard.",
+      "significance": "This is the first time Doflamingo's Sora no Michi technique is shown, revealing a new application of his Ito Ito no Mi powers. It demonstrates his ability to travel great distances quickly and establishes the threat of his imminent arrival.",
+      "characterIds": ["doflamingo"],
+      "devilFruitIds": ["ito-ito-no-mi"],
+      "locationIds": ["sea-between-dressrosa-and-punk-hazard"],
+      "quotes": [
+        {
+          "text": "I'm coming to Punk Hazard.",
+          "speaker": "Donquixote Doflamingo",
+          "context": "Doflamingo declaring his intent to personally handle the situation"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [621, 622, 700],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["revolver-girl", "sora-no-michi"]
+  },
+  "episodeRelationships": {
+    "setupFor": [621, 622, 723],
+    "payoffFrom": [603, 617, 618, 619],
+    "thematicLinks": [603, 617, 619, 621, 622, 700, 723]
+  },
+  "quotes": [
+    {
+      "text": "Die, Smoker!",
+      "speaker": "Caesar Clown",
+      "context": "Caesar stabbing what he believes is Smoker's heart",
+      "timestamp": "03:15"
+    },
+    {
+      "text": "I kindly gave back the heart of the secretary, Monet.",
+      "speaker": "Trafalgar Law",
+      "context": "Law explaining his heart-switching deception to Smoker",
+      "timestamp": "05:30"
+    },
+    {
+      "text": "I'm coming to Punk Hazard.",
+      "speaker": "Donquixote Doflamingo",
+      "context": "Doflamingo declaring his intent to personally handle the situation",
+      "timestamp": "20:10"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Deception and Strategy",
+      "description": "The episode showcases Law's masterful deception of Caesar throughout their entire partnership, revealing that Law was always planning to betray him. The heart-switching plan demonstrates the importance of thinking several steps ahead.",
+      "symbolism": "The swapped hearts represent how appearances can be deceiving and how trust can be weaponized in strategic conflicts.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Consequences of Betrayal",
+      "description": "Caesar's betrayal of Monet and Doflamingo's willingness to sacrifice his subordinates shows the ruthless nature of their operations. Monet's apparent death is a direct consequence of the betrayals layered throughout this arc.",
+      "symbolism": "Monet pressing the button represents loyalty unto death, while Caesar's stabbing represents how such loyalty is rewarded with betrayal.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Escalating Stakes",
+      "description": "As the Punk Hazard arc reaches its climax, the stakes escalate with Doflamingo's personal involvement. What began as a rescue mission has evolved into a conflict that will span multiple arcs.",
+      "symbolism": "Doflamingo flying across the ocean represents the unstoppable force of consequence heading toward the Straw Hats.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Strategic", "Dramatic", "Ominous"],
+  "characterSpotlights": [
+    {
+      "characterId": "trafalgar-law",
+      "role": "Strategic mastermind",
+      "development": "Law's careful planning throughout the arc is revealed, showing his intelligence and distrust of Caesar from the beginning. His ability to manipulate Caesar while maintaining his alliance with the Straw Hats demonstrates his tactical genius.",
+      "keyActions": [
+        "Reveals his heart-switching deception to Smoker",
+        "Explains how he returned Monet's heart to Caesar disguised as Smoker's",
+        "Successfully prevents both his own death and the island's explosion through careful planning"
+      ],
+      "quotes": [
+        "I kindly gave back the heart of the secretary, Monet."
+      ]
+    },
+    {
+      "characterId": "caesar-clown",
+      "role": "Unwitting pawn",
+      "development": "Caesar's arrogance and cruelty are his downfall as he discovers too late that Law outsmarted him from the very beginning. His attempt to kill Smoker results in Monet's death and the failure of his final contingency.",
+      "keyActions": [
+        "Stabs what he thinks is Smoker's heart",
+        "Unknowingly kills Monet instead",
+        "Realizes too late that Law deceived him"
+      ],
+      "quotes": [
+        "Die, Smoker!"
+      ]
+    },
+    {
+      "characterId": "monet",
+      "role": "Tragic loyalist",
+      "development": "Monet's apparent death shows her unwavering loyalty to Doflamingo, willing to sacrifice herself and destroy the island. Her death at Caesar's hands represents the ultimate betrayal after her dedication.",
+      "keyActions": [
+        "Prepares to press the self-destruct button",
+        "Collapses after Caesar stabs her heart",
+        "Appears to die, preventing the island's explosion"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "doflamingo",
+      "role": "Escalating antagonist",
+      "development": "Doflamingo's decision to personally intervene shows the importance of Caesar and SAD to his operations. His willingness to travel across the ocean demonstrates the threat he poses as an antagonist.",
+      "keyActions": [
+        "Learns that Punk Hazard wasn't destroyed",
+        "Decides to personally handle the situation",
+        "Uses Sora no Michi to fly toward Punk Hazard"
+      ],
+      "quotes": [
+        "I'm coming to Punk Hazard."
+      ]
+    },
+    {
+      "characterId": "baby-5",
+      "role": "Donquixote combatant",
+      "development": "Baby 5 demonstrates her Devil Fruit abilities in combat, showcasing her role as one of Doflamingo's elite fighters. Her battle with Franky establishes her capabilities.",
+      "keyActions": [
+        "Uses Revolver Girl transformation against Franky",
+        "Continues fighting despite Franky's counterattacks",
+        "Supports Buffalo in their mission"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended the scenes of the Straw Hats running through the collapsing laboratory with additional reaction shots and environmental details.",
+      "episodeTimestamp": "09:20",
+      "mangaReference": "Chapter 694",
+      "type": "ANIME_EXPANDED_SCENE"
+    },
+    {
+      "difference": "The battle between Baby 5 and Franky was given more screen time with additional combat exchanges not shown in the manga.",
+      "episodeTimestamp": "14:50",
+      "mangaReference": "Chapter 694",
+      "type": "ANIME_EXPANDED_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode adapts Chapter 694 of the manga, titled 'The Most Dangerous Man.'",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_620",
+          "title": "Episode 620 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-08"
+        }
+      ]
+    },
+    {
+      "fact": "This episode marks the first appearance of Doflamingo's Sora no Michi (Sky Path) technique, which would later be revealed to have limitations when there are no clouds in the sky.",
+      "category": "ABILITIES",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Ito_Ito_no_Mi",
+          "title": "Ito Ito no Mi - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-08"
+        }
+      ]
+    },
+    {
+      "fact": "Monet's apparent death in this episode has been heavily debated in the One Piece community, with some fans theorizing she survived because Caesar's weapon was shown on the ground away from her heart, suggesting it didn't fully penetrate.",
+      "category": "LORE",
+      "sources": [
+        {
+          "url": "https://12dimension.wordpress.com/2015/02/12/theory-one-piece-evidence-against-monet-being-dead/",
+          "title": "Theory: Evidence Against Monet Being Dead",
+          "platform": "12Dimension Blog",
+          "accessedAt": "2026-01-08"
+        }
+      ]
+    },
+    {
+      "fact": "This episode aired on November 10, 2013 in Japan and was simulcast on November 9, 2013 by Funimation. It later aired on Toonami on June 18, 2023.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_620",
+          "title": "Episode 620 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-08"
+        }
+      ]
+    },
+    {
+      "fact": "The episode was directed by Ayako Hiraike with screenplay by Jin Tanaka, and animation direction by Yukiko Nakatani.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_620",
+          "title": "Episode 620 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-08"
+        }
+      ]
+    },
+    {
+      "fact": "Like all episodes from 279 to 1070, this episode did not have an ending theme. Toei stopped airing endings during this period to allow for longer openings, with endings only returning 17 years later.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://www.animenewsnetwork.com/news/2023-07-22/one-piece-anime-gets-ending-theme-again-after-17-years/.200560",
+          "title": "One Piece Anime Gets Ending Theme Again After 17 Years",
+          "platform": "Anime News Network",
+          "accessedAt": "2026-01-08"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
