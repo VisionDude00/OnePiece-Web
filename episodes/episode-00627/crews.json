@@ -1,0 +1,110 @@
+[
+  {
+    "name": {
+      "english": "Breed Pirates",
+      "japanese": "ブリード海賊団",
+      "romanized": "Burīdo Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "breed",
+    "debutEpisode": 626,
+    "debutChapter": null,
+    "episodeAppearances": [627],
+    "members": [
+      {
+        "characterId": "breed",
+        "role": "Captain",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Founded the Breed Pirates and uses his Peto Peto powers to control enslaved crew members."
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 627,
+        "eventId": "ep627-event-001",
+        "momentType": "LOCATION_REVEAL",
+        "title": "Arena Headquarters Shown",
+        "description": "Breed's base of operations, a massive underground arena where he forces controlled beings to fight for entertainment, is revealed.",
+        "significance": "Demonstrates the scale of Breed's operation and his twisted entertainment business.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 627,
+        "eventId": "ep627-event-006",
+        "momentType": "PLAN_REVEAL",
+        "title": "World Domination Scheme",
+        "description": "Breed reveals his plan to use Caesar and SMILE fruits to create a world where all humans are transformed into animals under his control.",
+        "significance": "Establishes the crew's ultimate goal of world domination through forced transformation.",
+        "timestamp": "16:50"
+      }
+    ],
+    "ships": [
+      {
+        "shipName": "Breed's Ship",
+        "episodeAcquired": 626,
+        "episodeLost": null,
+        "description": "A large vessel with an underwater entrance and massive internal arena for entertainment battles."
+      }
+    ],
+    "bases": ["breed-arena"],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "Unknown",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "relationships": {
+      "allies": [],
+      "enemies": ["straw-hat-pirates", "heart-pirates", "sea-animal-pirates"],
+      "parentOrganization": null
+    },
+    "canonStatus": "NON_CANON"
+  },
+  {
+    "name": {
+      "english": "Sea Animal Pirates",
+      "japanese": "海獣海賊団",
+      "romanized": "Kaijū Kaizokudan"
+    },
+    "crewType": "PIRATE_CREW",
+    "captainId": "kung-fu-dugong",
+    "debutEpisode": 626,
+    "debutChapter": null,
+    "episodeAppearances": [627],
+    "members": [
+      {
+        "characterId": "kung-fu-dugong",
+        "role": "Captain",
+        "episodeJoined": null,
+        "episodeLeft": null,
+        "joinCircumstances": "Founded the Sea Animal Pirates after being inspired by Luffy during the Alabasta Arc."
+      }
+    ],
+    "keyMoments": [
+      {
+        "episodeNumber": 627,
+        "eventId": "ep627-event-004",
+        "momentType": "CREW_REVEAL",
+        "title": "Kung-Fu Dugong's Crew Returns",
+        "description": "The Sea Animal Pirates, led by the Kung-Fu Dugong from Alabasta, are revealed to have reached the New World before being captured by Breed.",
+        "significance": "Shows that even minor characters from past arcs were inspired by Luffy to pursue their dreams.",
+        "timestamp": "11:40"
+      }
+    ],
+    "ships": [],
+    "bases": [],
+    "totalBountyProgression": [],
+    "jollyRoger": {
+      "description": "Unknown",
+      "episodeFirstSeen": null,
+      "imageUrl": ""
+    },
+    "relationships": {
+      "allies": ["straw-hat-pirates"],
+      "enemies": ["breed-pirates"],
+      "parentOrganization": null
+    },
+    "canonStatus": "NON_CANON"
+  }
+]

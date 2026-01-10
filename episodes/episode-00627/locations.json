@@ -1,0 +1,102 @@
+[
+  {
+    "name": {
+      "english": "Breed's Arena",
+      "japanese": "ブリードの闘技場",
+      "romanized": "Burīdo no Tōgijō"
+    },
+    "locationType": "ENTERTAINMENT_FACILITY",
+    "seaRegion": "NEW_WORLD",
+    "islandName": null,
+    "debutEpisode": 627,
+    "debutChapter": null,
+    "description": "A massive underground arena located within Breed's ship, featuring stadium-style seating, viewing platforms, and a glass floor over water. Breed uses this arena to force his collared captives to fight for his entertainment.",
+    "episodeAppearances": [627],
+    "keyEvents": [
+      {
+        "episodeNumber": 627,
+        "eventId": "ep627-event-001",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Breed Reveals His Arena",
+        "description": "Luffy, Law, and Chopper are brought to Breed's underground arena where they see the scale of his entertainment operation.",
+        "significance": "Establishes the main setting for the confrontation between the alliance and Breed.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 627,
+        "eventId": "ep627-event-003",
+        "eventType": "BATTLE_START",
+        "title": "Luffy vs Law Forced Battle",
+        "description": "Breed forces Luffy and Law to fight each other to the death in the center of the arena.",
+        "significance": "The arena becomes the battleground testing the pirate alliance.",
+        "timestamp": "08:15"
+      },
+      {
+        "episodeNumber": 627,
+        "eventId": "ep627-event-008",
+        "eventType": "STRUCTURAL_DAMAGE",
+        "title": "Glass Floor Shattered",
+        "description": "The Kung-Fu Dugong's Haki-enhanced punch sends Luffy and Law crashing through the glass floor into the water below.",
+        "significance": "Creates a life-threatening situation for the Devil Fruit users.",
+        "timestamp": "20:15"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 627,
+        "episodeEnd": 628,
+        "reason": "Arena is operational and used for forced combat entertainment"
+      }
+    ],
+    "parentLocation": "breed-ship",
+    "childLocations": [],
+    "relatedCharacters": ["breed", "luffy", "trafalgar-law", "chopper", "kung-fu-dugong", "caesar-clown"],
+    "relatedCrews": ["breed-pirates", "straw-hat-pirates", "heart-pirates"],
+    "relatedArcs": ["Caesar Retrieval Arc"],
+    "images": [],
+    "canonStatus": "NON_CANON"
+  },
+  {
+    "name": {
+      "english": "Breed's Ship",
+      "japanese": "ブリードの船",
+      "romanized": "Burīdo no Fune"
+    },
+    "locationType": "SHIP",
+    "seaRegion": "NEW_WORLD",
+    "islandName": null,
+    "debutEpisode": 626,
+    "debutChapter": null,
+    "description": "A large pirate ship commanded by Breed that contains a massive underground arena and entertainment facility. The ship has an underwater entrance and serves as Breed's mobile base of operations.",
+    "episodeAppearances": [627],
+    "keyEvents": [
+      {
+        "episodeNumber": 627,
+        "eventId": "ep627-event-001",
+        "eventType": "LOCATION_EXPLORATION",
+        "title": "Interior Arena Revealed",
+        "description": "The interior of Breed's ship is shown to contain a massive arena facility.",
+        "significance": "Shows the scale of Breed's operation within his ship.",
+        "timestamp": "03:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 626,
+        "episodeEnd": 628,
+        "reason": "Ship is fully operational during the Caesar Retrieval Arc"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["breed-arena"],
+    "relatedCharacters": ["breed", "luffy", "trafalgar-law", "chopper"],
+    "relatedCrews": ["breed-pirates"],
+    "relatedArcs": ["Caesar Retrieval Arc"],
+    "images": [],
+    "canonStatus": "NON_CANON"
+  }
+]

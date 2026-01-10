@@ -1,0 +1,510 @@
+{
+  "episodeNumber": 626,
+  "episodeTitle": "Caesar Goes Missing! The Pirate Alliance Makes a Sortie!",
+  "description": "After leaving Punk Hazard, the Straw Hats face an unexpected attack when the mysterious Breed infiltrates the Thousand Sunny and kidnaps Caesar Clown using his strange powers. Luffy, Law, and Chopper pursue the kidnapper in the Shark Submerge III submarine to retrieve their prisoner.",
+  "airDate": "2013-12-22",
+  "airDateJapan": "2013-12-22",
+  "airDateUS": "2013-12-21",
+  "arcName": "Caesar Retrieval",
+  "sagaName": "Dressrosa Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Hands Up!",
+    "artist": "Kota Shinzato",
+    "episodeRange": [591, 628]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Takashi Ōtsuka",
+    "screenplay": "Jin Tanaka",
+    "artDirection": "Miho Shiraishi",
+    "animation": "Masayuki Takagi",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Trafalgar Law",
+        "actor": "Hiroshi Kamiya"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Otani"
+      },
+      {
+        "character": "Caesar Clown",
+        "actor": "Ryusei Nakao"
+      },
+      {
+        "character": "Breed",
+        "actor": "Kazuya Ichijō"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Trafalgar Law",
+        "actor": "Matthew Mercer"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Caesar Clown",
+        "actor": "Jerry Jewell"
+      },
+      {
+        "character": "Breed",
+        "actor": "Oliver Tull"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep626-event-001",
+      "episodeNumber": 626,
+      "timestamp": "03:15",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Breed's First Appearance",
+      "description": "A mysterious figure named Breed appears riding atop a massive sea creature. He leads an army of Sea Lapahns and approaches the Thousand Sunny with hostile intent. This marks the debut of the Caesar Retrieval Arc's main antagonist.",
+      "significance": "Introduces the primary antagonist of this anime-original filler arc and sets the conflict in motion.",
+      "characterIds": ["breed"],
+      "locationIds": ["thousand-sunny"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [627, 628],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep626-event-002",
+      "episodeNumber": 626,
+      "timestamp": "05:30",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Sea Lapahns Attack the Thousand Sunny",
+      "description": "Breed commands his army of Sea Lapahns to attack the Thousand Sunny. While Usopp, Franky, and Chopper are on watch for Doflamingo, they are caught off guard by this unexpected assault. The Straw Hats begin fighting off the aquatic creatures.",
+      "significance": "Demonstrates Breed's control over sea creatures and initiates the episode's central conflict.",
+      "characterIds": ["breed", "usopp", "franky", "chopper"],
+      "locationIds": ["thousand-sunny"],
+      "crewIds": ["breed-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [626],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep626-event-003",
+      "episodeNumber": 626,
+      "timestamp": "07:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Kung Fu Dugong Returns with Haki",
+      "description": "Luffy attempts to attack Breed but is stopped by a powerful Armament Haki-infused punch from a familiar face - one of the Kung Fu Dugongs he befriended in Alabasta. The dugong has grown significantly stronger since their last meeting, now capable of using Haki.",
+      "significance": "Reveals the return of a character from the Alabasta arc and demonstrates that animals can achieve Haki mastery. This marks the Kung Fu Dugong as the second animal shown using Haki in the series.",
+      "characterIds": ["luffy", "kung-fu-dugong", "breed"],
+      "locationIds": ["thousand-sunny"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [96],
+      "payoffInEpisodes": [627, 628],
+      "callbacksToEpisodes": [96]
+    },
+    {
+      "id": "ep626-event-004",
+      "episodeNumber": 626,
+      "timestamp": "09:20",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Peto Peto no Mi Powers Revealed",
+      "description": "Breed reveals his Devil Fruit ability, the Peto Peto no Mi, which allows him to create green gel-like collars that give him complete control over any living creature. He demonstrates this power by placing a collar on Chopper and commanding him to transform into Monster Point.",
+      "significance": "Establishes the main threat of the arc and the mechanism by which Breed controls his army of creatures. This power makes him a dangerous opponent who can turn allies against each other.",
+      "characterIds": ["breed", "chopper"],
+      "devilFruitIds": ["peto-peto-no-mi"],
+      "locationIds": ["thousand-sunny"],
+      "quotes": [
+        {
+          "text": "Petotototo! Now you're my pet!",
+          "speaker": "Breed",
+          "context": "Breed's signature laugh and declaration after placing a control collar on Chopper"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [627, 628],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep626-event-005",
+      "episodeNumber": 626,
+      "timestamp": "11:00",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Controlled Chopper Attacks Luffy and Law",
+      "description": "Under Breed's control, Chopper is forced to consume a Rumble Ball and transform into his powerful Monster Point form. Against his will, he attacks both Luffy and Law, creating a dangerous situation where they must defend themselves without harming their friend.",
+      "significance": "Demonstrates the cruel effectiveness of Breed's powers and creates emotional tension as the heroes must fight their own crewmate.",
+      "characterIds": ["chopper", "luffy", "law", "breed"],
+      "locationIds": ["thousand-sunny"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [626],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep626-event-006",
+      "episodeNumber": 626,
+      "timestamp": "13:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Caesar Clown is Kidnapped",
+      "description": "While Luffy and Law are distracted fighting the controlled Chopper, Breed successfully kidnaps Caesar Clown from the Thousand Sunny. Breed uses the chaos and Monster Point Chopper as a distraction to accomplish his goal of capturing the scientist.",
+      "significance": "This kidnapping sets up the central mission of the Caesar Retrieval Arc and forces the Straw Hat-Heart alliance to pursue Breed to retrieve their valuable prisoner.",
+      "characterIds": ["caesar-clown", "breed", "luffy", "law"],
+      "locationIds": ["thousand-sunny"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [625],
+      "payoffInEpisodes": [627, 628],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep626-event-007",
+      "episodeNumber": 626,
+      "timestamp": "14:15",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Luffy and Law Receive Control Collars",
+      "description": "During the confusion of battle, Breed manages to place his control collars on both Luffy and Law. This puts both powerful captains under Breed's potential control, significantly raising the stakes of the conflict.",
+      "significance": "Demonstrates that even powerful fighters like Luffy and Law can fall victim to Breed's abilities, making him a serious threat despite his anime-only status.",
+      "characterIds": ["luffy", "law", "breed"],
+      "devilFruitIds": ["peto-peto-no-mi"],
+      "locationIds": ["thousand-sunny"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [627, 628],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep626-event-008",
+      "episodeNumber": 626,
+      "timestamp": "16:00",
+      "eventType": "LOCATION_DEPARTURE",
+      "severity": "MINOR",
+      "title": "Pursuit in the Shark Submerge III",
+      "description": "Recognizing they cannot pursue Breed with the Thousand Sunny due to rough seas, Franky suggests using the Shark Submerge III submarine. Luffy, Chopper (now freed from control), and Law board the three-man submarine to chase after Breed and rescue Caesar.",
+      "significance": "Showcases one of Franky's inventions and narrows the pursuit team to three main characters for the arc.",
+      "characterIds": ["luffy", "law", "chopper", "franky"],
+      "locationIds": ["thousand-sunny", "shark-submerge-iii"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [626],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep626-event-009",
+      "episodeNumber": 626,
+      "timestamp": "18:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Arrival at Breed's Ship-Island",
+      "description": "The Shark Submerge III follows the Sea Lapahns through an underwater entrance and arrives at Breed's massive ship, which is designed like a giant aquarium. The trio disembarks at an underwater dock to begin their infiltration.",
+      "significance": "Introduces the primary location for the Caesar Retrieval Arc - Breed's unique vessel.",
+      "characterIds": ["luffy", "law", "chopper"],
+      "locationIds": ["breeds-ship", "shark-submerge-iii"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [627, 628],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep626-event-010",
+      "episodeNumber": 626,
+      "timestamp": "20:15",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Battle in the Aquarium Hallways",
+      "description": "Upon entering Breed's ship, Luffy, Law, and Chopper find themselves in a large walk-through aquarium. They are immediately attacked by a small army of controlled animals but manage to defeat them without much difficulty.",
+      "significance": "Demonstrates the extent of Breed's animal army and provides action while the heroes navigate his ship.",
+      "characterIds": ["luffy", "law", "chopper"],
+      "locationIds": ["breeds-ship"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [626],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep626-event-011",
+      "episodeNumber": 626,
+      "timestamp": "21:45",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MINOR",
+      "title": "Kung Fu Dugong's Journey Revealed",
+      "description": "The Kung Fu Dugong apologizes to Luffy for attacking him, explaining that he was under Breed's control. He reveals that after leaving Alabasta, he formed the Sea Animal Pirates and successfully reached the New World, where Breed enslaved his entire crew.",
+      "significance": "Provides backstory for the Kung Fu Dugong's development and explains how he gained the strength to use Haki and reach the New World.",
+      "characterIds": ["luffy", "kung-fu-dugong"],
+      "crewIds": ["sea-animal-pirates"],
+      "locationIds": ["breeds-ship"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [96],
+      "payoffInEpisodes": [627, 628],
+      "callbacksToEpisodes": [96]
+    },
+    {
+      "id": "ep626-event-012",
+      "episodeNumber": 626,
+      "timestamp": "23:00",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Breed's Ambitions Revealed",
+      "description": "Caesar realizes that Breed is not working for Doflamingo. Breed reveals his true ambition: to create a kingdom filled entirely with loyal pets under his control. He plans to use Caesar's scientific expertise to produce SMILE fruits that can transform humans into animals.",
+      "significance": "Establishes Breed's motivation and connects the filler arc to the broader storyline involving SMILE fruits and Doflamingo.",
+      "characterIds": ["breed", "caesar-clown"],
+      "locationIds": ["breeds-ship"],
+      "quotes": [
+        {
+          "text": "Stop your whining, you worthless scum!",
+          "speaker": "Breed",
+          "context": "Breed's dismissive response to Caesar asking to be released to see Doflamingo"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [627, 628],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep626-event-013",
+      "episodeNumber": 626,
+      "timestamp": "24:20",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MINOR",
+      "title": "Luffy Mistakes Breed's Power for Slime",
+      "description": "Luffy incorrectly identifies Breed's Peto Peto no Mi ability as a 'slime human' power because the name sounds like 'petopeto' (sticky). This is a subtle foreshadowing of Trebol's actual sticky powers that will be revealed in the Dressrosa Arc.",
+      "significance": "An anime-original moment that coincidentally foreshadows a canon character's abilities.",
+      "characterIds": ["luffy", "breed"],
+      "devilFruitIds": ["peto-peto-no-mi"],
+      "locationIds": ["breeds-ship"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [629, 672],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep626-event-014",
+      "episodeNumber": 626,
+      "timestamp": "23:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Law Calls Chopper 'Tanuki-ya'",
+      "description": "While in the Shark Submerge III, Law refers to Chopper as 'Tanuki-ya', combining the running joke of people mistaking Chopper for a tanuki (raccoon dog) with Law's habit of adding '-ya' to people's names. This is notable as Law's actual nickname for Chopper, according to SBS Volume 72, is 'Tony-ya'.",
+      "significance": "A humorous moment that plays on both Chopper's character gag and Law's naming convention, though it contradicts official canon.",
+      "characterIds": ["law", "chopper"],
+      "locationIds": ["shark-submerge-iii"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["breed", "kung-fu-dugong"],
+    "locations": ["breeds-ship", "shark-submerge-iii"],
+    "devilFruits": ["peto-peto-no-mi"],
+    "crews": ["breed-pirates", "sea-animal-pirates"],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [627, 628],
+    "payoffFrom": [625, 96],
+    "thematicLinks": [96]
+  },
+  "quotes": [
+    {
+      "text": "Petotototo! Now you're my pet!",
+      "speaker": "Breed",
+      "context": "Breed's signature laugh and declaration after placing a control collar",
+      "timestamp": "09:20"
+    },
+    {
+      "text": "Stop your whining, you worthless scum!",
+      "speaker": "Breed",
+      "context": "Breed dismissing Caesar's request to be released",
+      "timestamp": "23:00"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Freedom vs Control",
+      "description": "The episode explores the conflict between personal freedom and forced obedience through Breed's Devil Fruit powers. The controlled characters retain their consciousness but cannot resist his commands, creating a violation of their autonomy.",
+      "symbolism": "The green collars represent the loss of free will and the transformation of individuals into mindless slaves.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Growth and Reunion",
+      "description": "The return of the Kung Fu Dugong showcases how even minor characters can grow and develop between encounters. The dugong was inspired by Luffy's words about freedom and adventure to become a pirate captain himself.",
+      "symbolism": "The Kung Fu Dugong's mastery of Haki symbolizes his dedication to becoming stronger and pursuing his own dreams.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Responsibility",
+      "description": "Despite wanting to reach Dressrosa, the alliance must take responsibility for keeping Caesar in their custody and cannot allow him to fall into the wrong hands.",
+      "symbolism": "Caesar as a burden they must protect despite not liking him represents the weight of their decisions.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Action-packed", "Humorous", "Tense"],
+  "characterSpotlights": [
+    {
+      "characterId": "breed",
+      "role": "Antagonist introduction",
+      "development": "Breed is introduced as the arc's villain with his Peto Peto no Mi powers. His backstory as someone abandoned by humans who now prefers controlling animals is hinted at.",
+      "keyActions": [
+        "Attacks the Thousand Sunny with his army",
+        "Demonstrates the Peto Peto no Mi's control abilities",
+        "Successfully kidnaps Caesar Clown",
+        "Reveals his ambition to create an animal kingdom"
+      ],
+      "quotes": ["Petotototo! Now you're my pet!", "Stop your whining, you worthless scum!"]
+    },
+    {
+      "characterId": "kung-fu-dugong",
+      "role": "Returning character",
+      "development": "The Kung Fu Dugong returns having grown tremendously since Alabasta, now capable of using Armament Haki and leading his own pirate crew through the New World.",
+      "keyActions": [
+        "Stops Luffy's attack with Haki-infused punch",
+        "Reveals his journey since Alabasta",
+        "Explains how Breed enslaved his crew"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "luffy",
+      "role": "Protagonist",
+      "development": "Luffy must balance his joy at reuniting with the Kung Fu Dugong with the urgency of retrieving Caesar, all while dealing with Breed's control collar.",
+      "keyActions": [
+        "Pursues Breed in the Shark Submerge III",
+        "Fights controlled animals in Breed's ship",
+        "Receives a control collar from Breed"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The entire Caesar Retrieval Arc is anime-original filler. In the manga, the journey from Punk Hazard to Dressrosa is not interrupted by Breed's attack.",
+      "episodeTimestamp": "00:00",
+      "mangaReference": "Chapter 699",
+      "type": "ANIME_ORIGINAL_ARC"
+    },
+    {
+      "difference": "The manga shows Sanji and Kinemon being furious over Momonosuke sleeping with Nami and Robin (Chapter 699 pages 14-15), but this scene is omitted from the episode.",
+      "episodeTimestamp": "N/A",
+      "mangaReference": "Chapter 699, pages 14-15",
+      "type": "SCENE_REMOVED"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This is the first episode of the Caesar Retrieval Arc and the last One Piece episode to air in 2013.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_626",
+          "title": "Episode 626 | One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-10"
+        }
+      ]
+    },
+    {
+      "fact": "The Kung Fu Dugong is shown using Armament Haki, making it the second animal in the series capable of using Haki. The first was Alpacacino from the Z's Ambition Arc.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_626",
+          "title": "Episode 626 | One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-10"
+        }
+      ]
+    },
+    {
+      "fact": "Law calls Chopper 'Tanuki-ya' in this episode, but according to SBS Volume 72, Law's actual nickname for Chopper is 'Tony-ya'. This represents an inconsistency between the anime and manga.",
+      "category": "CONTINUITY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_626",
+          "title": "Episode 626 | One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-10"
+        }
+      ]
+    },
+    {
+      "fact": "Luffy's misidentification of Breed's power as a 'slime human' coincidentally foreshadows Trebol's Beta Beta no Mi sticky powers, which will be revealed in the upcoming Dressrosa Arc.",
+      "category": "FORESHADOWING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_626",
+          "title": "Episode 626 | One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-10"
+        }
+      ]
+    },
+    {
+      "fact": "The Shark Submerge III submarine has a diving limit of 5,000 meters and uses a Den Den Mushi to maintain contact with the Thousand Sunny.",
+      "category": "TECHNICAL",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Shark_Submerge_III",
+          "title": "Shark Submerge III | One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-10"
+        }
+      ]
+    },
+    {
+      "fact": "Breed is voiced by Kazuya Ichijō in Japanese and Oliver Tull in the English Funimation dub.",
+      "category": "VOICE_ACTING",
+      "sources": [
+        {
+          "url": "https://www.behindthevoiceactors.com/tv-shows/One-Piece/Breed/",
+          "title": "Breed Voice - One Piece | Behind The Voice Actors",
+          "platform": "Behind The Voice Actors",
+          "accessedAt": "2026-01-10"
+        }
+      ]
+    },
+    {
+      "fact": "This episode covers only pages 14-15 of Chapter 699, making it one of the slowest-paced episodes in terms of manga adaptation, as most of the episode is anime-original content.",
+      "category": "ADAPTATION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_626",
+          "title": "Episode 626 | One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-10"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

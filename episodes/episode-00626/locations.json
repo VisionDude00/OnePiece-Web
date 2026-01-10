@@ -1,0 +1,151 @@
+[
+  {
+    "name": {
+      "english": "Breed's Ship",
+      "japanese": "ブリードの船",
+      "romanized": "Burīdo no Fune"
+    },
+    "locationType": "SHIP",
+    "seaRegion": "NEW_WORLD",
+    "islandName": null,
+    "debutEpisode": 626,
+    "debutChapter": null,
+    "description": "A massive ship resembling a giant aquarium, serving as Breed's base of operations. The ship features walk-through aquarium hallways, underwater docking facilities, and holding cells for captured creatures and prisoners.",
+    "episodeAppearances": [626],
+    "keyEvents": [
+      {
+        "episodeNumber": 626,
+        "eventId": "ep626-event-009",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Arrival at Breed's Ship-Island",
+        "description": "Luffy, Law, and Chopper arrive at Breed's unique aquarium-ship via the Shark Submerge III through an underwater entrance.",
+        "significance": "Introduces the primary setting for the Caesar Retrieval Arc.",
+        "timestamp": "18:30"
+      },
+      {
+        "episodeNumber": 626,
+        "eventId": "ep626-event-010",
+        "eventType": "BATTLE_START",
+        "title": "Battle in the Aquarium Hallways",
+        "description": "The heroes are attacked by Breed's army of controlled animals in the ship's walk-through aquarium sections.",
+        "significance": "Showcases the ship's unique design and Breed's animal army.",
+        "timestamp": "20:15"
+      },
+      {
+        "episodeNumber": 626,
+        "eventId": "ep626-event-012",
+        "eventType": "WORLD_LORE",
+        "title": "Caesar Imprisoned on the Ship",
+        "description": "Caesar is shown locked in a cage with Seastone handcuffs in one of the ship's holding areas.",
+        "significance": "Establishes the ship as a prison for Breed's captives.",
+        "timestamp": "23:00"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 626,
+        "episodeEnd": 628,
+        "reason": "Ship serves as Breed's base during the Caesar Retrieval Arc"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": [],
+    "relatedCharacters": ["breed", "luffy", "law", "chopper", "caesar-clown", "kung-fu-dugong"],
+    "relatedCrews": ["breed-pirates", "sea-animal-pirates"],
+    "relatedArcs": ["Caesar Retrieval"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Shark Submerge III",
+      "japanese": "シャークサブマージ3号",
+      "romanized": "Shāku Sabumāji San-gō"
+    },
+    "locationType": "VEHICLE",
+    "seaRegion": null,
+    "islandName": null,
+    "debutEpisode": 626,
+    "debutChapter": null,
+    "description": "A three-man submarine shaped like a shark, built by Franky as part of the Thousand Sunny's Soldier Docking System. It has a diving limit of 5,000 meters and maintains contact with the main ship via Den Den Mushi.",
+    "episodeAppearances": [626],
+    "keyEvents": [
+      {
+        "episodeNumber": 626,
+        "eventId": "ep626-event-008",
+        "eventType": "LOCATION_DEPARTURE",
+        "title": "Pursuit in the Shark Submerge III",
+        "description": "Luffy, Law, and Chopper board the submarine to pursue Breed and retrieve Caesar Clown.",
+        "significance": "First appearance and usage of this vehicle, showcasing Franky's engineering skills.",
+        "timestamp": "16:00"
+      },
+      {
+        "episodeNumber": 626,
+        "eventId": "ep626-event-014",
+        "eventType": "CULTURAL_MOMENT",
+        "title": "Law Calls Chopper 'Tanuki-ya'",
+        "description": "While traveling in the submarine, Law refers to Chopper as 'Tanuki-ya', creating a humorous moment.",
+        "significance": "Character interaction moment in the confined submarine space.",
+        "timestamp": "23:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 626,
+        "episodeEnd": "present",
+        "reason": "Submarine is part of the Thousand Sunny's equipment"
+      }
+    ],
+    "parentLocation": "thousand-sunny",
+    "childLocations": [],
+    "relatedCharacters": ["franky", "luffy", "law", "chopper"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Caesar Retrieval"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Thousand Sunny",
+      "japanese": "サウザンドサニー号",
+      "romanized": "Sauzando Sanī-gō"
+    },
+    "locationType": "SHIP",
+    "seaRegion": "NEW_WORLD",
+    "islandName": null,
+    "debutEpisode": 321,
+    "debutChapter": 436,
+    "description": "The Straw Hat Pirates' second ship, built by Franky using wood from the legendary Adam Tree. A large brigantine-sloop with a lion figurehead and powered by both sails and Coup de Burst.",
+    "episodeAppearances": [626],
+    "keyEvents": [
+      {
+        "episodeNumber": 626,
+        "eventId": "ep626-event-002",
+        "eventType": "BATTLE_START",
+        "title": "Sea Lapahns Attack the Thousand Sunny",
+        "description": "While the crew is on watch for Doflamingo, Breed launches a surprise attack on the ship with his army of Sea Lapahns.",
+        "significance": "The ship becomes the site of the initial conflict with Breed.",
+        "timestamp": "05:30"
+      },
+      {
+        "episodeNumber": 626,
+        "eventId": "ep626-event-006",
+        "eventType": "MAJOR_DECISION",
+        "title": "Caesar Kidnapped from the Sunny",
+        "description": "Breed successfully infiltrates the ship and kidnaps Caesar Clown while the crew is distracted.",
+        "significance": "The security breach drives the plot of the arc.",
+        "timestamp": "13:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [],
+    "parentLocation": null,
+    "childLocations": ["shark-submerge-iii"],
+    "relatedCharacters": ["luffy", "franky", "chopper", "usopp"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Caesar Retrieval"],
+    "images": []
+  }
+]
