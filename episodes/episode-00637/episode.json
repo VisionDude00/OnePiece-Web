@@ -1,0 +1,456 @@
+{
+  "episodeNumber": 637,
+  "episodeTitle": "Big Names Duke It Out! The Heated Block B Battle!",
+  "episodeTitleJapanese": "群雄割拠！白熱のBブロック!",
+  "episodeTitleRomanized": "Gun'yū-kakkyo! Hakunetsu no Bī Burokku!",
+  "description": "Luffy's true identity is exposed when Don Chinjao recognizes him as Garp's grandson. Block B's battle royale intensifies as Bellamy brutally defeats Abdullah and Jeet, while Bartolomeo reveals his mysterious barrier ability that breaks Hack's arm. Meanwhile, Cavendish pursues Luffy, who manages to escape and hide beneath the arena stands.",
+  "airDate": "2014-03-23",
+  "airDateJapan": "2014-03-23",
+  "airDateUS": "2022-05-22",
+  "funimationSimulcast": "2014-03-22",
+  "arcName": "Dressrosa Arc",
+  "sagaName": "Dressrosa Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Wake up!",
+    "artist": "AAA",
+    "episodeRange": [629, 686]
+  },
+  "endingSong": null,
+  "credits": {
+    "screenplay": "Hirohiko Kamisaka",
+    "artDirection": "Ryūji Yoshiike",
+    "animation": "Toshio Deguchi",
+    "director": "Katsumi Tokoro",
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Don Chinjao",
+        "actor": "Shin Aomori"
+      },
+      {
+        "character": "Bartolomeo",
+        "actor": "Showtaro Morikubo"
+      },
+      {
+        "character": "Cavendish",
+        "actor": "Akira Ishida"
+      },
+      {
+        "character": "Bellamy",
+        "actor": "Wataru Takagi"
+      },
+      {
+        "character": "Sai",
+        "actor": "Kōsuke Takaguchi"
+      },
+      {
+        "character": "Hack",
+        "actor": "Kenichirou Matsuda"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Don Chinjao",
+        "actor": "Bradley Campbell"
+      },
+      {
+        "character": "Bartolomeo",
+        "actor": "Tyson Rinehart"
+      },
+      {
+        "character": "Cavendish",
+        "actor": "Ryan Smith"
+      },
+      {
+        "character": "Bellamy",
+        "actor": "Justin Cook"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep637-event-001",
+      "episodeNumber": 637,
+      "timestamp": "03:45",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Luffy's True Identity Exposed by Chinjao",
+      "description": "Don Chinjao suddenly recognizes 'Lucy' as Monkey D. Luffy, the grandson of his nemesis Garp. He loudly reveals Luffy's true identity in front of other competitors, exposing his disguise. Jean Ango overhears this revelation, confirming that Lucy is indeed the infamous Straw Hat Luffy.",
+      "significance": "This moment removes Luffy's anonymity in the tournament, putting him at risk from competitors who have grudges against him or his family. It transforms the tournament from a simple competition into a direct confrontation with his past connections.",
+      "characterIds": ["luffy", "chinjao", "jean-ango", "cavendish"],
+      "locationIds": ["corrida-colosseum"],
+      "quotes": [
+        {
+          "text": "You're Garp's grandson! I know who you really are!",
+          "speaker": "Don Chinjao",
+          "context": "Chinjao confronts Luffy after recognizing him despite his disguise"
+        },
+        {
+          "text": "Lucy is... Straw Hat Luffy?!",
+          "speaker": "Jean Ango",
+          "context": "Ango overhears Chinjao's revelation about Lucy's true identity"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [631, 633],
+      "payoffInEpisodes": [645, 646],
+      "callbacksToEpisodes": [314, 315]
+    },
+    {
+      "id": "ep637-event-002",
+      "episodeNumber": 637,
+      "timestamp": "06:20",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Sai and Boo Prevent Chinjao's Disqualification",
+      "description": "As Chinjao flies into a rage and attacks Luffy, his grandsons Sai and Boo intervene to stop him. They grab him and remind him that attacking before the match begins will result in disqualification, preventing them from achieving their real objective. They convince Chinjao to wait for Block C where he can fight Luffy legally in the ring.",
+      "significance": "This intervention saves Chinjao from immediate disqualification and sets up a future confrontation in Block C. It reveals that the Chinjao Family has a deeper purpose for entering the tournament beyond just winning the Mera Mera no Mi.",
+      "characterIds": ["chinjao", "sai", "boo", "luffy"],
+      "locationIds": ["corrida-colosseum"],
+      "quotes": [
+        {
+          "text": "Grandfather, this is as far as you should go! You'll be disqualified if you attack him now!",
+          "speaker": "Sai",
+          "context": "Sai restrains Chinjao to prevent his premature attack on Luffy"
+        },
+        {
+          "text": "He's in Block C. We can kill him legally in the ring!",
+          "speaker": "Boo",
+          "context": "Boo convinces Chinjao to wait for the proper match"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [633],
+      "payoffInEpisodes": [645, 646],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep637-event-003",
+      "episodeNumber": 637,
+      "timestamp": "08:15",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Cavendish Pursues Luffy",
+      "description": "After learning Luffy's true identity, Cavendish becomes determined to eliminate him. The beautiful pirate prince chases after Luffy with his sword drawn, driven by his hatred of the Worst Generation who stole his spotlight. Luffy manages to escape Cavendish's pursuit and finds refuge hiding beneath the arena stands.",
+      "significance": "Establishes Cavendish's antagonistic relationship with Luffy and the Worst Generation. Shows Luffy's ability to evade danger even while trying to maintain his cover. Foreshadows future conflicts between these characters.",
+      "characterIds": ["cavendish", "luffy"],
+      "locationIds": ["corrida-colosseum"],
+      "quotes": [
+        {
+          "text": "I won't let you escape, Straw Hat! You're one of those Worst Generation rookies who ruined my fame!",
+          "speaker": "Cavendish",
+          "context": "Cavendish chases Luffy with murderous intent"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [633, 634],
+      "payoffInEpisodes": [644, 645],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep637-event-004",
+      "episodeNumber": 637,
+      "timestamp": "11:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Block B Battle Royale Intensifies",
+      "description": "The Block B tournament battle royale continues with approximately 30 competitors remaining. The arena becomes a chaotic battlefield as gladiators clash for a chance to advance. Notable fighters include Bartolomeo, Bellamy, Hack, Blue Gilly, Tank Lepanto, Ricky, Abdullah, and Jeet, each showcasing their unique fighting styles.",
+      "significance": "This battle royale serves as a showcase for multiple characters who will become important later in the arc. It demonstrates the diverse range of fighters attracted by the Mera Mera no Mi prize and sets up multiple storylines.",
+      "characterIds": ["bartolomeo", "bellamy", "hack", "blue-gilly", "tank-lepanto", "ricky", "abdullah", "jeet", "dagama"],
+      "locationIds": ["corrida-colosseum"],
+      "crewIds": ["bellamy-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [634, 635, 636],
+      "payoffInEpisodes": [638, 639],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep637-event-005",
+      "episodeNumber": 637,
+      "timestamp": "13:45",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Bellamy's Brutal Defeat of Abdullah and Jeet",
+      "description": "Bellamy launches a vicious assault on the bounty hunter duo Abdullah and Jeet. He immobilizes them by impaling their feet with knives, then grabs them by their jaws and uses his Spring-Spring Fruit powers to flip over their heads, brutally twisting and snapping their backs. The crowd reacts with horror at the cruelty of Bellamy's attack.",
+      "significance": "Demonstrates Bellamy's darker, more ruthless fighting style compared to his earlier appearance. Shows his determination to prove himself and his growth in power. The brutality shocks both the audience and viewers, establishing the deadly stakes of the tournament.",
+      "characterIds": ["bellamy", "abdullah", "jeet"],
+      "locationIds": ["corrida-colosseum"],
+      "devilFruitIds": ["bane-bane-no-mi"],
+      "quotes": [
+        {
+          "text": "This is the new world! There's no room for mercy!",
+          "speaker": "Bellamy",
+          "context": "Bellamy justifies his brutal attack on Abdullah and Jeet"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [635],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [146, 152]
+    },
+    {
+      "id": "ep637-event-006",
+      "episodeNumber": 637,
+      "timestamp": "16:20",
+      "eventType": "POWER_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Bartolomeo's Barrier Ability Revealed",
+      "description": "Bartolomeo reveals his mysterious defensive ability when Hack, a fish-man martial artist, attacks him. Bartolomeo crosses his fingers to create an invisible barrier. When Hack strikes the barrier with his Fish-Man Karate, the attack is completely nullified and the force rebounds, breaking Hack's arm instead. Bartolomeo then kicks the injured Hack, knocking him out of the competition.",
+      "significance": "First major reveal of Bartolomeo's Bari Bari no Mi Devil Fruit powers. The barrier's defensive capabilities are shown to be extraordinarily powerful, able to withstand and reflect even a fish-man's attacks. This establishes Bartolomeo as one of the most formidable competitors in the tournament.",
+      "characterIds": ["bartolomeo", "hack"],
+      "locationIds": ["corrida-colosseum"],
+      "devilFruitIds": ["bari-bari-no-mi"],
+      "quotes": [
+        {
+          "text": "What the...?! My attack just... bounced off?!",
+          "speaker": "Hack",
+          "context": "Hack is shocked when his Fish-Man Karate is completely nullified by Bartolomeo's barrier"
+        },
+        {
+          "text": "Did you really think you could break through my barrier? How naive.",
+          "speaker": "Bartolomeo",
+          "context": "Bartolomeo taunts Hack after his barrier deflects the attack"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [636],
+      "payoffInEpisodes": [638, 639, 640],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep637-event-007",
+      "episodeNumber": 637,
+      "timestamp": "17:30",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "Hack Eliminated from Block B",
+      "description": "After his arm is broken by Bartolomeo's barrier, Hack is kicked by Bartolomeo and knocked unconscious, eliminating him from the Block B competition. This reduces the number of remaining participants to approximately 24 fighters.",
+      "significance": "Eliminates a significant fighter from the Revolutionary Army, demonstrating the tournament's dangerous nature. Shows that even trained fighters from major organizations can be quickly defeated. Further establishes Bartolomeo's dominance.",
+      "characterIds": ["hack", "bartolomeo"],
+      "locationIds": ["corrida-colosseum"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [636],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep637-event-008",
+      "episodeNumber": 637,
+      "timestamp": "18:45",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "Blue Gilly Defeats Ricky",
+      "description": "Blue Gilly, a martial artist from the Longleg Tribe, defeats Ricky (secretly King Riku Doldo III) with a powerful kick to the neck. The attack shatters some of Ricky's armor, showcasing Blue Gilly's leg-based fighting prowess.",
+      "significance": "Demonstrates Blue Gilly's combat capabilities and the Longleg Tribe's natural advantages in battle. Puts Ricky at a disadvantage, though his true identity remains hidden. Shows the diverse fighting styles present in Block B.",
+      "characterIds": ["blue-gilly", "ricky"],
+      "locationIds": ["corrida-colosseum"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [634, 636],
+      "payoffInEpisodes": [644],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep637-event-009",
+      "episodeNumber": 637,
+      "timestamp": "20:15",
+      "eventType": "WORLD_LORE",
+      "severity": "MINOR",
+      "title": "Tank Lepanto's True Allegiance Revealed",
+      "description": "It's revealed that Tank Lepanto, commander of Dressrosa's Self-Defense Army, has been coaxed into fighting for the Prodence Kingdom during his participation in Block B, showing the complex political dynamics at play in the tournament.",
+      "significance": "Adds depth to the political intrigue surrounding the tournament. Shows that not all participants are fighting for themselves, but have been influenced by larger political forces. Foreshadows the complex web of alliances and obligations in Dressrosa.",
+      "characterIds": ["tank-lepanto"],
+      "locationIds": ["corrida-colosseum"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [634],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": ["bari-bari-no-mi-barrier"]
+  },
+  "episodeRelationships": {
+    "setupFor": [638, 639, 645, 646],
+    "payoffFrom": [631, 633, 634, 635, 636],
+    "thematicLinks": [146, 152, 314, 315]
+  },
+  "quotes": [
+    {
+      "text": "You're Garp's grandson! I know who you really are!",
+      "speaker": "Don Chinjao",
+      "context": "Chinjao exposes Luffy's true identity",
+      "timestamp": "03:45"
+    },
+    {
+      "text": "Grandfather, this is as far as you should go! You'll be disqualified if you attack him now!",
+      "speaker": "Sai",
+      "context": "Sai prevents Chinjao from being disqualified",
+      "timestamp": "06:20"
+    },
+    {
+      "text": "This is the new world! There's no room for mercy!",
+      "speaker": "Bellamy",
+      "context": "Bellamy's brutal philosophy during his fight",
+      "timestamp": "13:45"
+    },
+    {
+      "text": "Did you really think you could break through my barrier? How naive.",
+      "speaker": "Bartolomeo",
+      "context": "Bartolomeo reveals his barrier ability",
+      "timestamp": "16:20"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Identity and Reputation",
+      "description": "The episode explores how Luffy's identity as Garp's grandson and a member of the Worst Generation affects others' perception and treatment of him. His disguise is compromised, forcing him to deal with the consequences of his lineage and past actions.",
+      "symbolism": "The Lucy disguise represents Luffy's attempt to operate outside his reputation, but his true identity cannot be hidden from those with personal connections to his past.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Legacy and Inherited Grudges",
+      "description": "Chinjao's vendetta against Luffy due to his grandfather's actions demonstrates how grudges and conflicts can be passed down through generations, affecting those who weren't involved in the original conflict.",
+      "symbolism": "Chinjao's pursuit of Luffy represents the weight of family legacy and how past actions continue to echo through time.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Brutality and Survival",
+      "description": "The episode showcases the brutal nature of the Corrida Colosseum battles, where competitors use devastating techniques without mercy. Bellamy's attack on Abdullah and Jeet exemplifies the ruthless mindset required to survive in the New World.",
+      "symbolism": "The Colosseum itself represents the gladiatorial nature of pirate life in the New World, where only the strong survive.",
+      "culturalReferences": ["Roman Colosseum gladiatorial combat"]
+    },
+    {
+      "theme": "Absolute Defense",
+      "description": "Bartolomeo's barrier ability represents the concept of unbreakable defense, a shield that turns enemy strength against them. This creates an interesting dynamic where attacking becomes a liability.",
+      "symbolism": "The invisible barrier represents the unseen walls we build to protect ourselves and how they can reflect others' hostility back at them.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Intense", "Suspenseful", "Brutal", "Dramatic"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist under threat",
+      "development": "Luffy's disguise is blown and he must deal with the consequences of his identity being revealed. He shows his ability to evade danger while trying to maintain his cover.",
+      "keyActions": [
+        "Identity exposed by Chinjao",
+        "Pursued by Cavendish",
+        "Escapes and hides beneath arena stands"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "bartolomeo",
+      "role": "Mysterious powerhouse",
+      "development": "Bartolomeo's Devil Fruit ability is dramatically revealed, establishing him as one of the most formidable competitors in Block B. His defensive prowess shocks both competitors and audience.",
+      "keyActions": [
+        "Reveals Bari Bari no Mi barrier ability",
+        "Breaks Hack's arm with deflected attack",
+        "Eliminates Hack from competition"
+      ],
+      "quotes": ["Did you really think you could break through my barrier? How naive."]
+    },
+    {
+      "characterId": "bellamy",
+      "role": "Ruthless competitor",
+      "development": "Bellamy demonstrates his evolved fighting style and ruthless New World mindset, brutally eliminating Abdullah and Jeet. Shows how much darker and more determined he's become since his loss to Luffy.",
+      "keyActions": [
+        "Immobilizes Abdullah and Jeet by impaling their feet",
+        "Uses Spring-Spring powers to snap their backs",
+        "Shocks the crowd with his brutality"
+      ],
+      "quotes": ["This is the new world! There's no room for mercy!"]
+    },
+    {
+      "characterId": "chinjao",
+      "role": "Antagonist with family grudge",
+      "development": "Chinjao's grudge against Garp extends to Luffy, driving him to attack despite the risk of disqualification. His grandsons' intervention shows family dynamics and strategic thinking.",
+      "keyActions": [
+        "Recognizes and exposes Luffy's identity",
+        "Attacks Luffy in rage",
+        "Restrained by Sai and Boo to prevent disqualification"
+      ],
+      "quotes": ["You're Garp's grandson! I know who you really are!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends several fight scenes in Block B, adding more visual detail to the battles between competitors.",
+      "episodeTimestamp": "11:30-20:00",
+      "mangaReference": "Chapters 707-708",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "Additional reaction shots from the crowd and announcers were added to increase dramatic tension during Bellamy's brutal attack.",
+      "episodeTimestamp": "13:45",
+      "mangaReference": "Chapter 707",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode aired on March 23, 2014, exactly one week after Episode 636 introduced Bartolomeo's character.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_637",
+          "title": "Episode 637 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-15"
+        }
+      ]
+    },
+    {
+      "fact": "The opening theme 'Wake up!' by AAA was certified Gold by RIAJ for selling over 100,000 legal downloads, making it one of the most commercially successful One Piece openings.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Wake_up!",
+          "title": "Wake up! - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-15"
+        }
+      ]
+    },
+    {
+      "fact": "Bartolomeo's Bari Bari no Mi barrier is stated to be nearly indestructible and can withstand even the King Punch, one of the most powerful attacks in the One Piece world.",
+      "category": "ABILITIES",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Bari_Bari_no_Mi",
+          "title": "Bari Bari no Mi - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-15"
+        }
+      ]
+    },
+    {
+      "fact": "This episode's TV rating in Japan was 8.1%, showing strong viewership during the Dressrosa Arc's tournament phase.",
+      "category": "PRODUCTION",
+      "sources": []
+    },
+    {
+      "fact": "The character Ricky, who appears fighting in Block B, is actually King Riku Doldo III in disguise, though this isn't revealed until later episodes.",
+      "category": "PLOT",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

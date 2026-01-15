@@ -1,0 +1,107 @@
+[
+  {
+    "name": {
+      "english": "Corrida Colosseum",
+      "japanese": "コリーダコロシアム",
+      "romanized": "Korīda Koroshiamu"
+    },
+    "locationType": "ARENA",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Dressrosa",
+    "debutEpisode": 631,
+    "description": "A massive gladiatorial arena in Dressrosa where fighters compete in battle royales. The colosseum hosts a tournament for the Mera Mera no Mi Devil Fruit, attracting powerful competitors from across the New World.",
+    "episodeAppearances": [637],
+    "keyEvents": [
+      {
+        "episodeNumber": 637,
+        "eventId": "ep637-event-001",
+        "eventType": "RELATIONSHIP_REVEAL",
+        "title": "Luffy's Identity Exposed in Colosseum Waiting Area",
+        "description": "Don Chinjao exposes Luffy's true identity as Monkey D. Luffy in front of other competitors in the waiting area of the colosseum.",
+        "significance": "The colosseum becomes a dangerous place for Luffy as his disguise is blown and multiple competitors with grudges target him.",
+        "timestamp": "03:45"
+      },
+      {
+        "episodeNumber": 637,
+        "eventId": "ep637-event-004",
+        "eventType": "BATTLE_START",
+        "title": "Block B Battle Royale Intensifies",
+        "description": "The main arena hosts the intense Block B battle royale with approximately 30 competitors fighting for advancement.",
+        "significance": "Showcases the brutal nature of the colosseum battles and introduces multiple powerful fighters.",
+        "timestamp": "11:30"
+      },
+      {
+        "episodeNumber": 637,
+        "eventId": "ep637-event-005",
+        "eventType": "BATTLE_END",
+        "title": "Bellamy's Brutal Victory in Arena",
+        "description": "Bellamy defeats Abdullah and Jeet in the main arena with a shocking display of brutality that horrifies the crowd.",
+        "significance": "Demonstrates the deadly nature of colosseum combat and the ruthlessness required to succeed.",
+        "timestamp": "13:45"
+      },
+      {
+        "episodeNumber": 637,
+        "eventId": "ep637-event-006",
+        "eventType": "POWER_REVEAL",
+        "title": "Bartolomeo's Barrier Revealed in Arena",
+        "description": "Bartolomeo reveals his barrier ability in the main arena, breaking Hack's arm when he attempts to attack.",
+        "significance": "The arena witnesses one of the tournament's most powerful defensive abilities, shocking competitors and spectators.",
+        "timestamp": "16:20"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 631,
+        "episodeEnd": "present",
+        "reason": "Hosting the tournament for the Mera Mera no Mi"
+      }
+    ],
+    "parentLocation": "dressrosa",
+    "childLocations": ["corrida-colosseum-arena", "corrida-colosseum-waiting-area", "corrida-colosseum-underground"],
+    "relatedCharacters": ["luffy", "bartolomeo", "bellamy", "chinjao", "cavendish", "hack", "sai", "boo", "abdullah", "jeet"],
+    "relatedCrews": ["straw-hat-pirates", "barto-club", "bellamy-pirates", "happo-navy", "beautiful-pirates"],
+    "relatedArcs": ["Dressrosa Arc"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Corrida Colosseum Underground",
+      "japanese": "コリーダコロシアム地下",
+      "romanized": "Korīda Koroshiamu Chika"
+    },
+    "locationType": "UNDERGROUND",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Dressrosa",
+    "debutEpisode": 637,
+    "description": "The area beneath the Corrida Colosseum arena where Luffy hides after his identity is exposed. This underground section provides refuge from competitors seeking to attack him.",
+    "episodeAppearances": [637],
+    "keyEvents": [
+      {
+        "episodeNumber": 637,
+        "eventId": "ep637-event-003",
+        "eventType": "MAJOR_DECISION",
+        "title": "Luffy Hides Beneath the Arena",
+        "description": "After being pursued by Cavendish, Luffy escapes and finds refuge in the underground areas beneath the colosseum arena.",
+        "significance": "Establishes the colosseum's underground as a location where Luffy can avoid detection and plan his next moves.",
+        "timestamp": "08:15"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 637,
+        "episodeEnd": "present",
+        "reason": "First shown as Luffy's hiding place"
+      }
+    ],
+    "parentLocation": "corrida-colosseum",
+    "childLocations": [],
+    "relatedCharacters": ["luffy", "cavendish"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Dressrosa Arc"],
+    "images": []
+  }
+]

@@ -1,0 +1,403 @@
+{
+  "episodeNumber": 638,
+  "episodeTitle": "A Deadly Blow! The Astonishing King Punch!",
+  "episodeTitleJapanese": "一撃必殺！驚異のキング・パンチ",
+  "episodeTitleRomanized": "Ichigeki-hissatsu! Kyōi no Kingu Panchi",
+  "description": "The Block B battle reaches its climax as King Elizabello II unleashes his legendary King Punch. Bartolomeo reveals his Barrier-Barrier Fruit powers and emerges victorious. Meanwhile, Thunder Soldier approaches Franky about a plan to destroy the SMILE factory.",
+  "airDate": "2014-03-30",
+  "airDateJapan": "2014-03-30",
+  "airDateUS": "2014-03-29",
+  "arcName": "Dressrosa Arc",
+  "sagaName": "Dressrosa Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Wake up!",
+    "artist": "AAA",
+    "episodeRange": [629, 686]
+  },
+  "endingSong": null,
+  "credits": {
+    "director": "Ayako Hiraike",
+    "screenplay": "Yoshiyuki Suga",
+    "artDirector": "Miho Shiraishi",
+    "keyAnimators": ["Yukiko Nakatani", "Shingo Fujisaki"],
+    "voiceActorsJP": [
+      {
+        "character": "Bartolomeo",
+        "actor": "Showtaro Morikubo"
+      },
+      {
+        "character": "Elizabello II",
+        "actor": "Katsumi Cho"
+      },
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Franky",
+        "actor": "Kazuki Yao"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Bartolomeo",
+        "actor": "Tyson Rinehart"
+      },
+      {
+        "character": "Elizabello II",
+        "actor": "Andy Mullins"
+      },
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Franky",
+        "actor": "Patrick Seitz"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep638-event-001",
+      "episodeNumber": 638,
+      "timestamp": "03:45",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "Bartolomeo Defeats Hack",
+      "description": "Bartolomeo eliminates Hack from the Block B battle, reducing the number of competitors to 24. The brutal nature of the defeat showcases Bartolomeo's fighting prowess.",
+      "significance": "Continues to establish Bartolomeo as a formidable fighter in the tournament and narrows down the competition.",
+      "characterIds": ["bartolomeo", "hack"],
+      "locationIds": ["corrida-colosseum"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [635, 636, 637],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep638-event-002",
+      "episodeNumber": 638,
+      "timestamp": "06:20",
+      "eventType": "BATTLE_END",
+      "severity": "MINOR",
+      "title": "Blue Gilly Defeats Ricky",
+      "description": "Blue Gilly uses his Jao Kun Do martial arts to defeat Ricky with a powerful kick to the helmet, wounding him gravely and eliminating him from the competition.",
+      "significance": "Demonstrates Blue Gilly's fighting abilities as a Longleg Tribe member and his effectiveness in close combat.",
+      "characterIds": ["blue-gilly", "ricky"],
+      "locationIds": ["corrida-colosseum"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep638-event-003",
+      "episodeNumber": 638,
+      "timestamp": "08:15",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MINOR",
+      "title": "Dagama's Double Betrayal",
+      "description": "Dagama orchestrates a complex betrayal by first manipulating fodder fighters to attack Blue Gilly, then revealing he had secretly partnered with Blue Gilly. However, Blue Gilly anticipated this treachery and quickly eliminates Dagama from the ring.",
+      "significance": "Showcases the strategic complexity and lack of trust among the colosseum fighters, highlighting the ruthless nature of the competition.",
+      "characterIds": ["dagama", "blue-gilly"],
+      "locationIds": ["corrida-colosseum"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep638-event-004",
+      "episodeNumber": 638,
+      "timestamp": "11:30",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Bellamy Confronts Bartolomeo",
+      "description": "Bellamy engages in combat with Bartolomeo while the latter stands confidently. The anime extends this confrontation beyond the manga's depiction.",
+      "significance": "Sets up the ongoing tension between these two fighters and showcases their contrasting fighting styles and personalities.",
+      "characterIds": ["bellamy", "bartolomeo"],
+      "locationIds": ["corrida-colosseum"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [639],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep638-event-005",
+      "episodeNumber": 638,
+      "timestamp": "14:20",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "King Punch Unleashed",
+      "description": "After an hour of preparation, King Elizabello II unleashes his legendary King Punch. The devastating attack creates a massive shockwave that illuminates the entire stadium, breaking the sound barrier and eliminating all remaining fighters in its path. The punch is said to be powerful enough to defeat a Yonko.",
+      "significance": "Reveals one of the most powerful single attacks seen in the tournament, demonstrating Elizabello's reputation as the Fighting King and the reason for his kingdom's protection strategy.",
+      "characterIds": ["elizabello-ii", "blue-gilly"],
+      "locationIds": ["corrida-colosseum"],
+      "quotes": [
+        {
+          "text": "King Punch!",
+          "speaker": "Elizabello II",
+          "context": "Unleashing his legendary punch after an hour of preparation"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [635, 636, 637],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep638-event-006",
+      "episodeNumber": 638,
+      "timestamp": "16:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Bartolomeo's Barrier-Barrier Fruit Reveal",
+      "description": "As the smoke from the King Punch clears, a transparent barrier is revealed protecting both Bartolomeo and the audience. Bartolomeo reveals he ate the Bari Bari no Mi, a Devil Fruit that allows him to create impenetrable barriers by crossing his fingers.",
+      "significance": "First reveal of Bartolomeo's Devil Fruit abilities, explaining how he has been invincible throughout the tournament. The barrier proves strong enough to completely withstand the King Punch.",
+      "characterIds": ["bartolomeo"],
+      "locationIds": ["corrida-colosseum"],
+      "devilFruitIds": ["bari-bari-no-mi"],
+      "quotes": [
+        {
+          "text": "I ate the Bari Bari no Mi! I can create a barrier when I cross my fingers!",
+          "speaker": "Bartolomeo",
+          "context": "Revealing his Devil Fruit power after withstanding the King Punch"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [635, 636, 637],
+      "payoffInEpisodes": [639, 640],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep638-event-007",
+      "episodeNumber": 638,
+      "timestamp": "18:10",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Barrier Crash Defeats Elizabello",
+      "description": "Bartolomeo demonstrates the offensive capability of his barrier by launching it at Elizabello II in an attack called Barrier Crash. The attack is powerful enough to injure the king and send him skidding near the edge of the ring.",
+      "significance": "Shows that Bartolomeo's barriers are not just defensive but can be weaponized offensively, making his Devil Fruit incredibly versatile.",
+      "characterIds": ["bartolomeo", "elizabello-ii"],
+      "locationIds": ["corrida-colosseum"],
+      "devilFruitIds": ["bari-bari-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep638-event-008",
+      "episodeNumber": 638,
+      "timestamp": "19:30",
+      "eventType": "BATTLE_END",
+      "severity": "MAJOR",
+      "title": "Bartolomeo Wins Block B",
+      "description": "Bartolomeo emerges as the sole victor of Block B, much to the disappointment of the spectators. His invincible barrier and ruthless tactics secure his advancement to the finals.",
+      "significance": "Establishes Bartolomeo as a major contender for the Mera Mera no Mi and sets up his continued importance in the Dressrosa Arc.",
+      "characterIds": ["bartolomeo"],
+      "locationIds": ["corrida-colosseum"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [635, 636, 637],
+      "payoffInEpisodes": [640, 641, 642],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep638-event-009",
+      "episodeNumber": 638,
+      "timestamp": "21:00",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Thunder Soldier Recruits Franky",
+      "description": "Thunder Soldier reveals to Franky that he is also planning to destroy the SMILE factory and needs the cyborg's help to free the workers imprisoned there. He states that if Franky is serious about standing against Doflamingo, he will explain the dark history of Dressrosa.",
+      "significance": "Marks the beginning of the alliance between Franky and Thunder Soldier (later revealed to be Kyros) that will be crucial to the rebellion against Doflamingo. Sets up the revelation of Dressrosa's tragic past.",
+      "characterIds": ["thunder-soldier", "franky"],
+      "locationIds": ["corrida-colosseum"],
+      "quotes": [
+        {
+          "text": "If you're seriously going to stand up against Doflamingo, then I will explain the history of Dressrosa.",
+          "speaker": "Thunder Soldier",
+          "context": "Recruiting Franky for the operation against the SMILE factory"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [635, 636, 637],
+      "payoffInEpisodes": [639, 640, 645],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": ["bari-bari-no-mi"],
+    "crews": [],
+    "abilities": ["king-punch", "barrier-crash"]
+  },
+  "episodeRelationships": {
+    "setupFor": [639, 640, 641],
+    "payoffFrom": [635, 636, 637],
+    "thematicLinks": []
+  },
+  "quotes": [
+    {
+      "text": "King Punch!",
+      "speaker": "Elizabello II",
+      "context": "Unleashing his legendary punch after an hour of preparation",
+      "timestamp": "14:20"
+    },
+    {
+      "text": "I ate the Bari Bari no Mi! I can create a barrier when I cross my fingers!",
+      "speaker": "Bartolomeo",
+      "context": "Revealing his Devil Fruit power after withstanding the King Punch",
+      "timestamp": "16:45"
+    },
+    {
+      "text": "If you're seriously going to stand up against Doflamingo, then I will explain the history of Dressrosa.",
+      "speaker": "Thunder Soldier",
+      "context": "Recruiting Franky for the operation against the SMILE factory",
+      "timestamp": "21:00"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Overwhelming Power vs. Strategy",
+      "description": "The episode contrasts raw power (Elizabello's King Punch) with defensive strategy (Bartolomeo's barrier), showing that even the most devastating attack can be nullified by the right ability.",
+      "symbolism": "The King Punch represents traditional military might, while Bartolomeo's barrier represents unconventional defense.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Betrayal and Mistrust",
+      "description": "Dagama's complex web of betrayals illustrates the cutthroat nature of the colosseum, where alliances are temporary and everyone is looking out for themselves.",
+      "symbolism": "The colosseum itself serves as a microcosm of the pirate world's ruthless nature.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Hidden Agendas",
+      "description": "Both the colosseum battles and Thunder Soldier's recruitment of Franky reveal that everyone in Dressrosa has secret motivations and plans beyond what's visible on the surface.",
+      "symbolism": "The hidden history of Dressrosa mirrors the hidden powers and plans of the characters.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Intense", "Dramatic", "Suspenseful"],
+  "characterSpotlights": [
+    {
+      "characterId": "bartolomeo",
+      "role": "Block B Victor",
+      "development": "Bartolomeo reveals his Devil Fruit ability and demonstrates both defensive and offensive capabilities, establishing himself as a major player in the tournament.",
+      "keyActions": [
+        "Defeats Hack",
+        "Withstands the King Punch with his barrier",
+        "Reveals Bari Bari no Mi powers",
+        "Defeats Elizabello II with Barrier Crash",
+        "Wins Block B"
+      ],
+      "quotes": ["I ate the Bari Bari no Mi! I can create a barrier when I cross my fingers!"]
+    },
+    {
+      "characterId": "elizabello-ii",
+      "role": "The Fighting King",
+      "development": "Elizabello demonstrates his legendary King Punch, living up to his reputation as a powerful warrior king, though ultimately defeated by an unconventional counter.",
+      "keyActions": [
+        "Prepares for an hour to charge the King Punch",
+        "Unleashes devastating attack that eliminates all fighters except Bartolomeo",
+        "Injured and defeated by Bartolomeo's Barrier Crash"
+      ],
+      "quotes": ["King Punch!"]
+    },
+    {
+      "characterId": "thunder-soldier",
+      "role": "Mysterious Rebel Leader",
+      "development": "Thunder Soldier reveals his larger plans to Franky, hinting at the deeper conspiracy and tragic history of Dressrosa.",
+      "keyActions": [
+        "Approaches Franky about the SMILE factory operation",
+        "Offers to explain Dressrosa's history",
+        "Establishes alliance with Franky"
+      ],
+      "quotes": ["If you're seriously going to stand up against Doflamingo, then I will explain the history of Dressrosa."]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extended Bellamy's confrontation with Bartolomeo beyond the manga's depiction, adding additional scenes of their interaction.",
+      "episodeTimestamp": "11:30",
+      "mangaReference": "Chapter 709",
+      "type": "ANIME_EXTENDED_SCENE"
+    },
+    {
+      "difference": "The anime added scenes featuring Thunder Soldier questioning Franky's motivations in more detail than the manga.",
+      "episodeTimestamp": "21:00",
+      "mangaReference": "Chapter 709",
+      "type": "ANIME_EXTENDED_SCENE"
+    },
+    {
+      "difference": "While not shown in the manga, Bellamy is shown on top of a piece of rubble while floating on the water outside the ring to address the logical issue of Devil Fruit users and water.",
+      "episodeTimestamp": "20:00",
+      "mangaReference": "Chapter 709",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Episode 638 aired on March 30, 2014, in Japan, with a TV rating of 7.9%, ranking 4th in its time slot.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_638",
+          "title": "Episode 638 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-15"
+        }
+      ]
+    },
+    {
+      "fact": "The King Punch is said to be powerful enough to defeat a Yonko, though this claim has never been verified in the series.",
+      "category": "ABILITIES",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Elizabello_II",
+          "title": "Elizabello II - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-15"
+        }
+      ]
+    },
+    {
+      "fact": "The Bari Bari no Mi was previously eaten by Kurozumi Semimaru, one of the conspirators behind the downfall of the Kozuki Family in Wano, before Bartolomeo obtained it.",
+      "category": "DEVIL_FRUITS",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Bari_Bari_no_Mi",
+          "title": "Bari Bari no Mi - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-15"
+        }
+      ]
+    },
+    {
+      "fact": "This episode marks the conclusion of the Block B battle, which began in Episode 635.",
+      "category": "STORY",
+      "sources": []
+    },
+    {
+      "fact": "Opening 17 'Wake up!' by AAA was used for 58 episodes (629-686), making it one of the longer-running openings.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Wake_up!",
+          "title": "Wake up! - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-15"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}
