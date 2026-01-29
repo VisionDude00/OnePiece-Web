@@ -1,0 +1,528 @@
+{
+  "episodeNumber": 641,
+  "episodeTitle": "The Unknown World! The Tontatta Kingdom!",
+  "episodeTitleJapanese": "知られざる世界！トンタッタ王国",
+  "episodeTitleRomanized": "Shirarezaru Sekai! Tontatta Ōkoku",
+  "description": "Robin wakes up in the underground Tontatta Kingdom after being captured by dwarves. The overly gullible Tontatta people immediately trust her promises despite just meeting her. Meanwhile, Sanji's genuine trust in Violet's tears moves her to betray Doflamingo and help him escape, warning him about the Warlord's grand deception. At the Corrida Colosseum, Block C begins with Luffy eager to compete.",
+  "airDate": "2014-04-20",
+  "airDateJapan": "2014-04-20",
+  "airDateUS": "2016-07-16",
+  "arcName": "Dressrosa",
+  "sagaName": "Dressrosa Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Wake Up!",
+    "artist": "AAA",
+    "episodeRange": [629, 686]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Toshinori Fukasawa",
+    "director": "Toshinori Fukasawa",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Trafalgar Law",
+        "actor": "Hiroshi Kamiya"
+      },
+      {
+        "character": "Viola/Violet",
+        "actor": "Mie Sonozaki"
+      },
+      {
+        "character": "Leo",
+        "actor": "Kurumi Mamiya"
+      },
+      {
+        "character": "Kabu",
+        "actor": "Masami Kikuchi"
+      },
+      {
+        "character": "Flapper",
+        "actor": "Hiromi Konno"
+      },
+      {
+        "character": "Inhel",
+        "actor": "Ryohei Nakao"
+      },
+      {
+        "character": "Wicca",
+        "actor": "Miki Nagasawa"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Trafalgar Law",
+        "actor": "Matthew Mercer"
+      },
+      {
+        "character": "Viola/Violet",
+        "actor": "Cristina Valenzuela"
+      },
+      {
+        "character": "Leo",
+        "actor": "Rachel Glass"
+      },
+      {
+        "character": "Flapper",
+        "actor": "Skyler McIntosh"
+      },
+      {
+        "character": "Inhel",
+        "actor": "Blake Shepard"
+      },
+      {
+        "character": "Wicca",
+        "actor": "Sarah Roach"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep641-event-001",
+      "episodeNumber": 641,
+      "timestamp": "03:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Robin Awakens in the Tontatta Kingdom",
+      "description": "Robin regains consciousness to find herself in an underground kingdom beneath Green Bit, surrounded by tiny dwarf-like beings called the Tontatta. She discovers she has been sewn to the ground by Leo's Nui Nui no Mi powers and cannot escape.",
+      "significance": "First appearance of the Tontatta Kingdom, introducing a major new location and culture that plays a crucial role in the Dressrosa arc. This reveals the hidden world beneath Green Bit that has existed for centuries.",
+      "characterIds": ["robin", "usopp", "leo", "kabu"],
+      "locationIds": ["tontatta-kingdom", "green-bit"],
+      "devilFruitIds": ["nui-nui-no-mi"],
+      "quotes": [
+        {
+          "text": "You better stay down. We used a special anesthetic flower to knock you out.",
+          "speaker": "Leo",
+          "context": "Leo warning Robin not to try to escape"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [640],
+      "payoffInEpisodes": [642, 643],
+      "callbacksToEpisodes": [640]
+    },
+    {
+      "id": "ep641-event-002",
+      "episodeNumber": 641,
+      "timestamp": "05:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Leo's Nui Nui no Mi Ability Demonstrated",
+      "description": "Leo demonstrates his Nui Nui no Mi (Stitch-Stitch Fruit) ability by revealing that he has sewn Robin to the ground. The fruit allows him to stitch anything together with his needle, including people and surfaces, making escape nearly impossible.",
+      "significance": "Introduction of the Nui Nui no Mi Devil Fruit and its unique sewing abilities. This power becomes important later in the arc during battles against Doflamingo's forces.",
+      "characterIds": ["leo", "robin"],
+      "locationIds": ["tontatta-kingdom"],
+      "devilFruitIds": ["nui-nui-no-mi"],
+      "quotes": [
+        {
+          "text": "This is the power of the Nui Nui no Mi! You're sewn to the ground!",
+          "speaker": "Leo",
+          "context": "Leo explaining why Robin cannot move"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [705, 714],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep641-event-003",
+      "episodeNumber": 641,
+      "timestamp": "06:45",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MAJOR",
+      "title": "The Tontatta's Legendary Gullibility Revealed",
+      "description": "Robin promises the dwarves she won't tell anyone about their kingdom. The Tontatta, known for being extremely gullible, immediately believe her and free her from her restraints. Robin is shocked by how easily they trust a complete stranger they just captured.",
+      "significance": "Establishes one of the Tontatta tribe's defining characteristics - their extreme gullibility and trusting nature. This trait becomes both a source of comedy and tragedy as it's revealed Doflamingo has been exploiting this trait for years.",
+      "characterIds": ["robin", "leo", "kabu", "flapper", "inhel"],
+      "locationIds": ["tontatta-kingdom"],
+      "quotes": [
+        {
+          "text": "I promise I won't tell anyone about your kingdom.",
+          "speaker": "Robin",
+          "context": "Robin's promise to the dwarves"
+        },
+        {
+          "text": "She promised! That means we can trust her!",
+          "speaker": "Leo",
+          "context": "Leo immediately believing Robin's promise"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [643, 644, 700],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep641-event-004",
+      "episodeNumber": 641,
+      "timestamp": "08:20",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Tontatta Kingdom Chief Arrives",
+      "description": "The chief of the Tontatta Kingdom arrives to investigate the captured humans. After Leo explains that Robin is a 'good person,' the chief immediately trusts this assessment without question, further demonstrating the tribe's gullibility.",
+      "significance": "Introduction of the Tontatta leadership structure and confirmation that their gullibility extends to all members of their society, even their leaders.",
+      "characterIds": ["leo", "robin"],
+      "locationIds": ["tontatta-kingdom"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [644],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep641-event-005",
+      "episodeNumber": 641,
+      "timestamp": "10:15",
+      "eventType": "BACKSTORY_REVEAL",
+      "severity": "MAJOR",
+      "title": "Violet Interrogates Sanji with Giro Giro no Mi",
+      "description": "Violet uses her Giro Giro no Mi (Glare-Glare Fruit) ability to peer into Sanji's mind and verify if he's telling the truth about Law's plan. She recoils from Sanji's perverted thoughts but confirms he knows nothing useful. Sanji is shown beaten and bloodied before her.",
+      "significance": "Demonstrates Violet's Devil Fruit power to read minds and memories, establishing her as a dangerous information gatherer for Doflamingo's organization. Also shows the darker side of Dressrosa's conflict.",
+      "characterIds": ["viola", "sanji"],
+      "locationIds": ["dressrosa"],
+      "devilFruitIds": ["giro-giro-no-mi"],
+      "quotes": [
+        {
+          "text": "Let me look inside your mind and find the truth.",
+          "speaker": "Violet",
+          "context": "Violet using her powers on Sanji"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [639, 640],
+      "payoffInEpisodes": [642],
+      "callbacksToEpisodes": [639]
+    },
+    {
+      "id": "ep641-event-006",
+      "episodeNumber": 641,
+      "timestamp": "12:45",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Sanji's Trust Moves Violet to Betray Doflamingo",
+      "description": "Despite being tortured and knowing Violet is an enemy, Sanji tells her he never doubted her tears from their earlier encounter. This genuine statement of trust shocks Violet and touches her heart, causing her to question her loyalty to Doflamingo.",
+      "significance": "Pivotal moment where Violet begins to turn against Doflamingo. Sanji's unwavering trust and chivalry, even toward an enemy, proves more powerful than fear or manipulation.",
+      "characterIds": ["sanji", "viola"],
+      "locationIds": ["dressrosa"],
+      "quotes": [
+        {
+          "text": "I never doubted your tears.",
+          "speaker": "Sanji",
+          "context": "Sanji's words that moved Violet to help him"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [639],
+      "payoffInEpisodes": [642, 643],
+      "callbacksToEpisodes": [639]
+    },
+    {
+      "id": "ep641-event-007",
+      "episodeNumber": 641,
+      "timestamp": "14:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "CRITICAL",
+      "title": "Violet Defeats Her Subordinates to Save Sanji",
+      "description": "Before Violet's subordinates can execute Sanji, she suddenly attacks and defeats them, choosing to save Sanji's life. This marks her official betrayal of the Donquixote Family and alignment with the Straw Hat alliance.",
+      "significance": "Violet's defection is a major turning point. She becomes a crucial ally who provides vital intelligence about Doflamingo's deception and the true situation in Dressrosa. This decision puts her life at great risk.",
+      "characterIds": ["viola", "sanji"],
+      "locationIds": ["dressrosa"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [639, 640],
+      "payoffInEpisodes": [642, 643],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep641-event-008",
+      "episodeNumber": 641,
+      "timestamp": "16:00",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Violet Reveals Doflamingo's Deception to Sanji",
+      "description": "Violet warns Sanji about the grand deception that Doflamingo and the World Government have orchestrated. She reveals that Doflamingo's resignation from the Shichibukai is fake news designed to trap Law and the Straw Hats.",
+      "significance": "Critical information reveal that exposes the full extent of Doflamingo's plan and his connections to the World Government. This sets up the major conflict at Green Bit and reveals how deeply corrupt the power structure is.",
+      "characterIds": ["viola", "sanji", "doflamingo"],
+      "locationIds": ["dressrosa"],
+      "quotes": [
+        {
+          "text": "It's all a lie! Doflamingo never resigned! The World Government is helping him trap you!",
+          "speaker": "Violet",
+          "context": "Violet revealing the truth to Sanji"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [640],
+      "payoffInEpisodes": [642, 643],
+      "callbacksToEpisodes": [635, 640]
+    },
+    {
+      "id": "ep641-event-009",
+      "episodeNumber": 641,
+      "timestamp": "17:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Sanji Contacts Law to Warn About the Trap",
+      "description": "After learning the truth from Violet, Sanji immediately tries to contact Law via Den Den Mushi to warn him about Doflamingo's deception. He attempts to tell Law to abort the Caesar handover and escape from Green Bit.",
+      "significance": "Sanji's attempt to warn Law shows the alliance working together and his quick strategic thinking. However, the warning comes too late, setting up the confrontation at Green Bit.",
+      "characterIds": ["sanji", "law", "viola"],
+      "locationIds": ["dressrosa", "green-bit"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [642, 643],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep641-event-010",
+      "episodeNumber": 641,
+      "timestamp": "19:00",
+      "eventType": "BATTLE_START",
+      "severity": "MINOR",
+      "title": "Block C Battle Royale Preparation",
+      "description": "At the Corrida Colosseum, the announcer prepares for the start of Block C. Luffy (as Lucy) is shown eager and excited to compete for the Mera Mera no Mi, ready to face the powerful gladiators in his block.",
+      "significance": "Sets up the upcoming Block C battle which features some of the tournament's strongest fighters and important future allies of Luffy.",
+      "characterIds": ["luffy"],
+      "locationIds": ["corrida-colosseum"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [634, 635, 639],
+      "payoffInEpisodes": [642, 645, 646],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep641-event-011",
+      "episodeNumber": 641,
+      "timestamp": "20:15",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Usopp and Robin Learn About the Tontatta",
+      "description": "Robin and Usopp begin to learn about the Tontatta tribe's culture, history, and their connection to Green Bit. The dwarves explain they live underground and have been hidden from the surface world for generations.",
+      "significance": "Provides world-building and establishes the Tontatta as an ancient culture with deep ties to Dressrosa's history. This knowledge becomes important for understanding the full scope of Doflamingo's crimes.",
+      "characterIds": ["robin", "usopp", "leo"],
+      "locationIds": ["tontatta-kingdom", "green-bit"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [640],
+      "payoffInEpisodes": [643, 644],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep641-event-012",
+      "episodeNumber": 641,
+      "timestamp": "21:30",
+      "eventType": "PROPHECY_FORESHADOWING",
+      "severity": "MAJOR",
+      "title": "Hints of the Tontatta's Enslavement",
+      "description": "Subtle hints are dropped about the Tontatta tribe's current situation and their connection to Doflamingo's operations on Dressrosa, foreshadowing the revelation of their enslavement in the SMILE factory.",
+      "significance": "Sets up one of the arc's major revelations about Doflamingo's cruelty and the Tontatta's tragic situation, which motivates their alliance with the Straw Hats.",
+      "characterIds": ["leo"],
+      "locationIds": ["tontatta-kingdom"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [643, 644, 700],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["leo", "kabu", "flapper", "inhel", "wicca"],
+    "locations": ["tontatta-kingdom"],
+    "devilFruits": ["nui-nui-no-mi"],
+    "crews": [],
+    "abilities": ["nui-nui-sewing", "giro-giro-mind-reading"]
+  },
+  "episodeRelationships": {
+    "setupFor": [642, 643, 644, 645],
+    "payoffFrom": [639, 640],
+    "thematicLinks": [700, 714]
+  },
+  "quotes": [
+    {
+      "text": "I never doubted your tears.",
+      "speaker": "Sanji",
+      "context": "Sanji's genuine trust in Violet that convinced her to betray Doflamingo",
+      "timestamp": "12:45"
+    },
+    {
+      "text": "She promised! That means we can trust her!",
+      "speaker": "Leo",
+      "context": "Demonstrating the Tontatta's extreme gullibility",
+      "timestamp": "06:45"
+    },
+    {
+      "text": "It's all a lie! Doflamingo never resigned! The World Government is helping him trap you!",
+      "speaker": "Violet",
+      "context": "Violet revealing Doflamingo's deception to Sanji",
+      "timestamp": "16:00"
+    },
+    {
+      "text": "This is the power of the Nui Nui no Mi! You're sewn to the ground!",
+      "speaker": "Leo",
+      "context": "Leo demonstrating his Devil Fruit ability",
+      "timestamp": "05:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Trust and Betrayal",
+      "description": "The episode explores different facets of trust - Sanji's unwavering trust in Violet despite her being an enemy, the Tontatta's naive trust in strangers, and Violet's decision to betray Doflamingo based on genuine emotion.",
+      "symbolism": "Violet's tears represent genuine emotion that can't be faked, while the Tontatta's gullibility symbolizes innocence that can be both beautiful and dangerous.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Hidden Worlds",
+      "description": "The episode reveals the hidden Tontatta Kingdom beneath Green Bit, paralleling the hidden truths about Dressrosa's government and Doflamingo's deceptions.",
+      "symbolism": "The underground kingdom represents the hidden layers of truth in Dressrosa - what appears on the surface is not the full reality.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Power of Genuine Kindness",
+      "description": "Sanji's chivalrous nature and genuine trust in Violet, despite all evidence suggesting he shouldn't, ultimately wins her over and gains a crucial ally.",
+      "symbolism": "Sanji's unwavering principles, even in the face of torture, demonstrate that genuine kindness can be more powerful than manipulation or force.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Mysterious", "Tense", "Heartwarming", "Intriguing"],
+  "characterSpotlights": [
+    {
+      "characterId": "robin",
+      "role": "Captive and diplomat",
+      "development": "Robin demonstrates her intelligence and adaptability by quickly understanding the Tontatta's nature and using diplomacy rather than force to handle the situation.",
+      "keyActions": [
+        "Wakes up in the Tontatta Kingdom",
+        "Realizes she's been sewn to the ground",
+        "Uses promises to gain the Tontatta's trust",
+        "Begins learning about the Tontatta culture"
+      ],
+      "quotes": ["I promise I won't tell anyone about your kingdom."]
+    },
+    {
+      "characterId": "sanji",
+      "role": "Information gatherer and warner",
+      "development": "Sanji's unwavering chivalry and trust prove to be strategic assets, winning Violet's loyalty and gaining crucial intelligence about Doflamingo's plans.",
+      "keyActions": [
+        "Endures interrogation by Violet",
+        "Expresses genuine trust in Violet despite torture",
+        "Receives Violet's help and learns about Doflamingo's deception",
+        "Attempts to warn Law about the trap"
+      ],
+      "quotes": ["I never doubted your tears."]
+    },
+    {
+      "characterId": "viola",
+      "role": "Defector and informant",
+      "development": "Violet's character transforms from enemy to ally after being moved by Sanji's genuine trust, showing her inner conflict and desire to oppose Doflamingo.",
+      "keyActions": [
+        "Interrogates Sanji with her Devil Fruit powers",
+        "Is moved by Sanji's genuine trust",
+        "Defeats her own subordinates to save Sanji",
+        "Reveals Doflamingo's deception to Sanji"
+      ],
+      "quotes": ["It's all a lie! Doflamingo never resigned!"]
+    },
+    {
+      "characterId": "leo",
+      "role": "Tontatta representative",
+      "development": "Leo is introduced as a key member of the Tontatta tribe, demonstrating both their impressive abilities (Devil Fruit power) and their defining weakness (extreme gullibility).",
+      "keyActions": [
+        "Uses Nui Nui no Mi to restrain Robin",
+        "Immediately believes Robin's promise",
+        "Shows the Tontatta Kingdom to the captives",
+        "Begins explaining Tontatta culture"
+      ],
+      "quotes": ["She promised! That means we can trust her!"]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends the scenes of Robin waking up in the Tontatta Kingdom with additional dialogue and reactions from the dwarves.",
+      "episodeTimestamp": "03:15",
+      "mangaReference": "Chapter 711",
+      "type": "ANIME_EXTENDED"
+    },
+    {
+      "difference": "Sanji's interrogation scene is expanded with more detailed depiction of his injuries and Violet's internal conflict.",
+      "episodeTimestamp": "10:15",
+      "mangaReference": "Chapter 712",
+      "type": "ANIME_EXTENDED"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode primarily adapts Chapter 711 of the manga, titled 'Adventure in the Land of Fairies.'",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_641",
+          "title": "Episode 641 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-29"
+        }
+      ]
+    },
+    {
+      "fact": "The Tontatta's extreme gullibility is inspired by various fairy and dwarf folklore from different cultures, where small magical beings are often portrayed as naive or easily tricked.",
+      "category": "CULTURAL",
+      "sources": []
+    },
+    {
+      "fact": "This episode has an IMDb rating of 7.5/10, making it a well-received episode during the Dressrosa arc.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://www.imdb.com/title/tt3660966/",
+          "title": "One Piece Episode 641 - IMDb",
+          "platform": "IMDb",
+          "accessedAt": "2026-01-29"
+        }
+      ]
+    },
+    {
+      "fact": "The Nui Nui no Mi (Stitch-Stitch Fruit) is one of the more creative Paramecia-type Devil Fruits, with applications ranging from restraining enemies to medical uses.",
+      "category": "DEVIL_FRUIT",
+      "sources": []
+    },
+    {
+      "fact": "Leo's voice actor Kurumi Mamiya also voices other small or cute characters in various anime series, making her well-suited for the diminutive Tontatta character.",
+      "category": "VOICE_ACTING",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

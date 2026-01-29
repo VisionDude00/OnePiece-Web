@@ -1,0 +1,518 @@
+{
+  "episodeNumber": 642,
+  "episodeTitle": "The Stratagem of the Century - Doflamingo Makes His Move!",
+  "description": "Sanji warns Law that Doflamingo's resignation is a hoax, but it's too late as Doflamingo and Admiral Issho arrive at Green Bit to trap Law. Meanwhile, Luffy struggles to hide his rubber powers during Block C of the Corrida Colosseum tournament.",
+  "airDate": "2014-04-27",
+  "airDateJapan": "2014-04-27",
+  "airDateUS": "2016-07-23",
+  "arcName": "Dressrosa",
+  "sagaName": "Dressrosa Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Wake Up!",
+    "artist": "AAA",
+    "episodeRange": [629, 686]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Masahiro Kitazaki",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Trafalgar Law",
+        "actor": "Hiroshi Kamiya"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Donquixote Doflamingo",
+        "actor": "Hideyuki Tanaka"
+      },
+      {
+        "character": "Issho/Fujitora",
+        "actor": "Ikuya Sawaki"
+      },
+      {
+        "character": "Viola",
+        "actor": "Mie Sonozaki"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Caesar Clown",
+        "actor": "Ryusei Nakao"
+      },
+      {
+        "character": "Cavendish",
+        "actor": "Akira Ishida"
+      },
+      {
+        "character": "Gatz",
+        "actor": "Bin Shimada"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Trafalgar Law",
+        "actor": "Matthew Mercer"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Donquixote Doflamingo",
+        "actor": "Robert McCollum"
+      },
+      {
+        "character": "Issho/Fujitora",
+        "actor": "Charles C. Campbell"
+      },
+      {
+        "character": "Viola",
+        "actor": "Christine Auten"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Caesar Clown",
+        "actor": "Jerry Jewell"
+      },
+      {
+        "character": "Cavendish",
+        "actor": "Matt Shipman"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep642-event-001",
+      "episodeNumber": 642,
+      "timestamp": "02:15",
+      "eventType": "WORLD_LORE",
+      "severity": "MAJOR",
+      "title": "News Coo Delivers Correction About Doflamingo's Resignation",
+      "description": "News Coo birds deliver a new edition of the newspaper revealing that Doflamingo's resignation from the Shichibukai and abdication from the Dressrosa throne was false. The world is shocked by this reversal.",
+      "significance": "Reveals the extent of Doflamingo's influence and connections to the World Government, showing he can manipulate global news to trap his enemies.",
+      "characterIds": ["doflamingo"],
+      "locationIds": ["dressrosa"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [641],
+      "payoffInEpisodes": [643],
+      "callbacksToEpisodes": [641]
+    },
+    {
+      "id": "ep642-event-002",
+      "episodeNumber": 642,
+      "timestamp": "04:30",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Viola Helps Sanji Escape",
+      "description": "Viola aids Sanji in escaping from Doflamingo's men after being moved by his genuine trust in her tears. She defeats her own subordinates to protect him.",
+      "significance": "Establishes Viola's defection from Doflamingo's crew and her alliance with the Straw Hats, particularly her connection with Sanji.",
+      "characterIds": ["viola", "sanji"],
+      "locationIds": ["dressrosa"],
+      "quotes": [
+        {
+          "text": "I never doubted your tears.",
+          "speaker": "Sanji",
+          "context": "Sanji's words that convinced Viola to help him"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [641],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [641]
+    },
+    {
+      "id": "ep642-event-003",
+      "episodeNumber": 642,
+      "timestamp": "06:45",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Sanji Warns Law About Doflamingo's Deception",
+      "description": "Sanji contacts Law via Den Den Mushi to warn him that Doflamingo's resignation is a hoax and that handing over Caesar would be a trap. He urges Law to leave Green Bit immediately.",
+      "significance": "Critical moment where the Straw Hat alliance learns the full extent of Doflamingo's trap, though the warning comes too late.",
+      "characterIds": ["sanji", "law", "viola"],
+      "locationIds": ["dressrosa", "green-bit"],
+      "quotes": [
+        {
+          "text": "Doflamingo's resignation is a hoax! Handing over Caesar won't be a trade at all!",
+          "speaker": "Sanji",
+          "context": "Sanji's urgent warning to Law"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [641],
+      "payoffInEpisodes": [643],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep642-event-004",
+      "episodeNumber": 642,
+      "timestamp": "08:20",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MAJOR",
+      "title": "Robin Communicates from Underground",
+      "description": "Robin's upper half sprouts from the ground near Law, explaining that she and Usopp are trapped underground in the Tontatta Kingdom and cannot help at the moment.",
+      "significance": "Shows Robin's ability to communicate remotely using her Devil Fruit powers despite being captured, and reveals the parallel storyline underground.",
+      "characterIds": ["robin", "law", "usopp"],
+      "locationIds": ["green-bit", "tontatta-kingdom"],
+      "devilFruitIds": ["hana-hana-no-mi"],
+      "quotes": [
+        {
+          "text": "What you see is just a clone. I cannot help at the moment, since Usopp and I are both stuck underground.",
+          "speaker": "Robin",
+          "context": "Robin explaining her situation to Law"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [640, 641],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [640, 641]
+    },
+    {
+      "id": "ep642-event-005",
+      "episodeNumber": 642,
+      "timestamp": "10:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "CRITICAL",
+      "title": "Admiral Issho Arrives at Green Bit",
+      "description": "Admiral Issho (Fujitora) arrives at Green Bit with a group of Marines, cutting off Law's escape route. This marks the beginning of Law's entrapment.",
+      "significance": "The trap begins to close on Law as one of the Navy's most powerful admirals arrives to arrest him.",
+      "characterIds": ["issho", "law", "caesar-clown"],
+      "locationIds": ["green-bit"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [641],
+      "payoffInEpisodes": [643],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep642-event-006",
+      "episodeNumber": 642,
+      "timestamp": "11:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "CRITICAL",
+      "title": "Doflamingo Arrives at Green Bit",
+      "description": "Donquixote Doflamingo arrives at Green Bit using his Devil Fruit abilities to fly across the water. Law realizes he is completely trapped between Doflamingo and the Marines.",
+      "significance": "The completion of Doflamingo's trap, with Law now surrounded by both a Warlord and a Marine Admiral with no escape route.",
+      "characterIds": ["doflamingo", "law", "issho"],
+      "locationIds": ["green-bit"],
+      "devilFruitIds": ["ito-ito-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [641],
+      "payoffInEpisodes": [643],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep642-event-007",
+      "episodeNumber": 642,
+      "timestamp": "13:45",
+      "eventType": "WORLD_LORE",
+      "severity": "CRITICAL",
+      "title": "Law Questions Doflamingo's World Noble Connection",
+      "description": "Law asks Doflamingo if he really used the powers of the World Government to trick the entire world just to fool ten pirates. Law realizes that only World Nobles have the authority to manipulate news on such a scale, hinting at Doflamingo's true background.",
+      "significance": "First major hint that Doflamingo has connections to the World Nobles (Celestial Dragons), foreshadowing his true identity.",
+      "characterIds": ["law", "doflamingo"],
+      "locationIds": ["green-bit"],
+      "quotes": [
+        {
+          "text": "Did you really use the powers of the World Government and trick the whole world just to fool ten pirates? Only World Nobles have that authority.",
+          "speaker": "Law",
+          "context": "Law realizing the depth of Doflamingo's connections"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [702, 703],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep642-event-008",
+      "episodeNumber": 642,
+      "timestamp": "15:20",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "CRITICAL",
+      "title": "Doflamingo's True Intention Revealed",
+      "description": "The episode reveals that Doflamingo's only purpose for this elaborate trap was to kill Law, showing the personal nature of their conflict.",
+      "significance": "Establishes that the conflict between Doflamingo and Law is deeply personal, not just business, setting up their eventual confrontation.",
+      "characterIds": ["doflamingo", "law"],
+      "locationIds": ["green-bit"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [643, 721],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep642-event-009",
+      "episodeNumber": 642,
+      "timestamp": "16:45",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Block C of Corrida Colosseum Begins",
+      "description": "Gatz announces the start of Block C with all gladiators entering the arena. The battle begins with numerous fighters competing for the Flame-Flame Fruit.",
+      "significance": "Marks the beginning of one of the most important blocks of the tournament, featuring Luffy and several powerful fighters.",
+      "characterIds": ["luffy", "gatz", "hajrudin", "ideo", "kelly-funk", "bobby-funk", "chinjao", "cavendish", "sai"],
+      "locationIds": ["corrida-colosseum"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [635, 639],
+      "payoffInEpisodes": [645, 646],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep642-event-010",
+      "episodeNumber": 642,
+      "timestamp": "18:30",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Ideo's Explosive Punching Power Demonstrated",
+      "description": "Ideo, known as 'Destroyer Cannon,' demonstrates his powerful explosive punches by defeating the giant Hajrudin, launching his massive body into the audience stands.",
+      "significance": "Introduces Ideo's fighting style and shows the high level of competition in Block C.",
+      "characterIds": ["ideo", "hajrudin"],
+      "locationIds": ["corrida-colosseum"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep642-event-011",
+      "episodeNumber": 642,
+      "timestamp": "19:45",
+      "eventType": "POWER_REVEAL",
+      "severity": "MINOR",
+      "title": "Kelly Funk's Jake Jake no Mi Revealed",
+      "description": "Kelly Funk demonstrates his Jake Jake no Mi ability, transforming into a jacket that Bobby Funk wears to combine their strength. Sai easily counters this technique with a powerful kick.",
+      "significance": "Introduces the Jake Jake no Mi Devil Fruit and the Funk Brothers' fighting style.",
+      "characterIds": ["kelly-funk", "bobby-funk", "sai"],
+      "locationIds": ["corrida-colosseum"],
+      "devilFruitIds": ["jake-jake-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep642-event-012",
+      "episodeNumber": 642,
+      "timestamp": "20:50",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Luffy Struggles to Hide His Rubber Powers",
+      "description": "As Lucy, Luffy defeats opponents with ease but struggles to hide his stretching abilities. Some gladiators notice he can stretch like rubber, nearly exposing his identity.",
+      "significance": "Creates tension as Luffy's disguise is nearly blown, adding stakes to his participation in the tournament.",
+      "characterIds": ["luffy"],
+      "locationIds": ["corrida-colosseum"],
+      "devilFruitIds": ["gomu-gomu-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [634],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep642-event-013",
+      "episodeNumber": 642,
+      "timestamp": "21:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Cavendish Shouts Lucy's True Identity",
+      "description": "Near the entrance of the ring, Cavendish shouts that 'Lucy' is actually Luffy in disguise, but nobody hears him due to the noise of the tournament.",
+      "significance": "Comic relief moment showing Cavendish's frustration and the chaos of the colosseum masking important information.",
+      "characterIds": ["cavendish", "luffy"],
+      "locationIds": ["corrida-colosseum"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [637],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [637]
+    }
+  ],
+  "debuts": {
+    "characters": [],
+    "locations": [],
+    "devilFruits": ["jake-jake-no-mi"],
+    "crews": [],
+    "abilities": ["jake-jake-transformation", "ideo-explosive-punch"]
+  },
+  "episodeRelationships": {
+    "setupFor": [643, 644, 645, 646],
+    "payoffFrom": [640, 641],
+    "thematicLinks": [702, 703, 721]
+  },
+  "quotes": [
+    {
+      "text": "I never doubted your tears.",
+      "speaker": "Sanji",
+      "context": "Sanji's words to Viola that convinced her to betray Doflamingo",
+      "timestamp": "04:30"
+    },
+    {
+      "text": "Doflamingo's resignation is a hoax! Handing over Caesar won't be a trade at all!",
+      "speaker": "Sanji",
+      "context": "Warning Law about the trap",
+      "timestamp": "06:45"
+    },
+    {
+      "text": "What you see is just a clone. I cannot help at the moment, since Usopp and I are both stuck underground.",
+      "speaker": "Robin",
+      "context": "Explaining her situation to Law",
+      "timestamp": "08:20"
+    },
+    {
+      "text": "Did you really use the powers of the World Government and trick the whole world just to fool ten pirates? Only World Nobles have that authority.",
+      "speaker": "Law",
+      "context": "Questioning Doflamingo's connections",
+      "timestamp": "13:45"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Deception and Manipulation",
+      "description": "The episode centers on Doflamingo's elaborate deception using fake news to trap Law, demonstrating the power of misinformation and political manipulation.",
+      "symbolism": "The newspaper represents how those with power can control narratives and reality itself to achieve their goals.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Trust and Betrayal",
+      "description": "Viola's decision to help Sanji despite being part of Doflamingo's crew shows the power of genuine trust and compassion to change allegiances.",
+      "symbolism": "Sanji's unwavering belief in Viola's tears symbolizes the importance of emotional truth over strategic suspicion.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "The Trap Closes",
+      "description": "Multiple storylines converge as traps close around different characters - Law at Green Bit, Luffy's identity nearly exposed at the Colosseum.",
+      "symbolism": "The physical trap at Green Bit mirrors the narrative trap of escalating tension with no easy escape.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Tense", "Strategic", "Action-packed", "Dramatic"],
+  "characterSpotlights": [
+    {
+      "characterId": "law",
+      "role": "Victim of Doflamingo's trap",
+      "development": "Law realizes the full extent of Doflamingo's connections and influence, understanding he's been outmaneuvered by someone with World Noble-level authority.",
+      "keyActions": [
+        "Receives warning from Sanji about Doflamingo's deception",
+        "Confronted by Admiral Issho and Marines",
+        "Trapped by Doflamingo's arrival",
+        "Questions Doflamingo about his World Noble connections"
+      ],
+      "quotes": ["Did you really use the powers of the World Government and trick the whole world just to fool ten pirates?"]
+    },
+    {
+      "characterId": "sanji",
+      "role": "Warner and information gatherer",
+      "development": "Sanji proves his strategic value by gathering critical intelligence and attempting to warn Law, while his genuine nature wins Viola's trust.",
+      "keyActions": [
+        "Escapes with Viola's help",
+        "Contacts Law to warn about the trap",
+        "Fights off Doflamingo's thugs while on the move"
+      ],
+      "quotes": ["I never doubted your tears.", "Doflamingo's resignation is a hoax!"]
+    },
+    {
+      "characterId": "doflamingo",
+      "role": "Master manipulator",
+      "development": "Doflamingo's true power is revealed - not just physical strength but the ability to manipulate world events through his mysterious connections.",
+      "keyActions": [
+        "Arrives at Green Bit using his Devil Fruit abilities",
+        "Completes his trap around Law",
+        "His World Noble connections are hinted at"
+      ],
+      "quotes": []
+    },
+    {
+      "characterId": "luffy",
+      "role": "Tournament fighter",
+      "development": "Luffy continues to dominate in Block C while struggling with his disguise, showing both his overwhelming strength and his inability to hide his true nature.",
+      "keyActions": [
+        "Participates in Block C battle",
+        "Defeats opponents easily",
+        "Struggles to hide his rubber powers"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends the Block C battle scenes with additional fighting sequences not shown in detail in the manga.",
+      "episodeTimestamp": "16:45",
+      "mangaReference": "Chapter 706, 711, 712",
+      "type": "ANIME_EXTENDED"
+    },
+    {
+      "difference": "Additional scenes of Sanji fighting thugs while escaping with Viola were expanded in the anime.",
+      "episodeTimestamp": "04:30",
+      "mangaReference": "Chapter 712",
+      "type": "ANIME_EXTENDED"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode covers parts of three different manga chapters (706, 711, and 712), showing the anime's approach to pacing during the Dressrosa arc.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_642",
+          "title": "Episode 642 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-29"
+        }
+      ]
+    },
+    {
+      "fact": "The episode title in Japanese is 'Seiki no Bouryaku: Doflamingo Ugoku' which literally translates to 'Stratagem of the Century: Doflamingo Moves.'",
+      "category": "TRANSLATION",
+      "sources": []
+    },
+    {
+      "fact": "This episode has an IMDb rating of 8.4/10, indicating it was well-received by viewers for its tension and plot developments.",
+      "category": "RECEPTION",
+      "sources": [
+        {
+          "url": "https://www.imdb.com/title/tt3660976/",
+          "title": "One Piece Episode 642 - IMDb",
+          "platform": "IMDb",
+          "accessedAt": "2026-01-29"
+        }
+      ]
+    },
+    {
+      "fact": "The Jake Jake no Mi (Jacket-Jacket Fruit) debuts in this episode, one of the more unusual Paramecia-type Devil Fruits in the series.",
+      "category": "DEVIL_FRUIT",
+      "sources": []
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

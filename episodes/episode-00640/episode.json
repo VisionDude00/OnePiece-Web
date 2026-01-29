@@ -1,0 +1,485 @@
+{
+  "episodeNumber": 640,
+  "episodeTitle": "Explore! Fairies' Island - Green Bit!",
+  "episodeTitleAlternate": "Adventure! The Island of Fairies, Green Bit",
+  "episodeTitleJapanese": "冒険!妖精の島グリーンビット",
+  "episodeTitleRomanized": "Bōken! Yōsei no Shima Gurīn Bitto",
+  "description": "Upon arriving at Green Bit, the group discovers a crashed Marine ship and splits up to complete their missions. Robin and Usopp explore the mysterious island where they encounter fast, invisible thieves - the Tontatta dwarves. Meanwhile, Zoro meets Wicca, a dwarf who stole his sword and needs his help to deliver an urgent warning about the Donquixote family's plans.",
+  "airDate": "2014-04-13",
+  "airDateJapan": "2014-04-13",
+  "airDateUS": "2023-11-18",
+  "arcName": "Dressrosa",
+  "sagaName": "Dressrosa Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Wake Up!",
+    "artist": "AAA",
+    "episodeRange": [629, 686]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Kōhei Kureta",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Kazuya Nakai"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Yuriko Yamaguchi"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Kappei Yamaguchi"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Hiroaki Hirata"
+      },
+      {
+        "character": "Trafalgar Law",
+        "actor": "Hiroshi Kamiya"
+      },
+      {
+        "character": "Caesar Clown",
+        "actor": "Ryūsei Nakao"
+      },
+      {
+        "character": "Leo",
+        "actor": "Kōki Miyata"
+      },
+      {
+        "character": "Wicca",
+        "actor": "Rina Hidaka"
+      },
+      {
+        "character": "Violet (Viola)",
+        "actor": "Mie Sonozaki"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Roronoa Zoro",
+        "actor": "Christopher Sabat"
+      },
+      {
+        "character": "Nico Robin",
+        "actor": "Stephanie Young"
+      },
+      {
+        "character": "Usopp",
+        "actor": "Sonny Strait"
+      },
+      {
+        "character": "Sanji",
+        "actor": "Eric Vale"
+      },
+      {
+        "character": "Trafalgar Law",
+        "actor": "Matthew Mercer"
+      },
+      {
+        "character": "Caesar Clown",
+        "actor": "Jerry Jewell"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep640-event-001",
+      "episodeNumber": 640,
+      "timestamp": "03:15",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Arrival at Green Bit",
+      "description": "The group arrives at Green Bit and discovers a crashed Marine ship with significant damage to the surrounding plants and trees, though the ship itself appears relatively intact. Caesar becomes paranoid that the exchange has been compromised.",
+      "significance": "Sets up the mysterious nature of Green Bit and introduces the danger posed by the Marines' presence on the island.",
+      "characterIds": ["law", "caesar-clown"],
+      "locationIds": ["green-bit"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [639],
+      "payoffInEpisodes": [641, 642, 643],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep640-event-002",
+      "episodeNumber": 640,
+      "timestamp": "05:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MINOR",
+      "title": "Group Splits Up on Green Bit",
+      "description": "With 14 minutes left before the exchange, the group splits up. Robin and Usopp begin to scout the island to ensure nothing suspicious is happening, while Law takes Caesar to the meeting point for the exchange with Doflamingo.",
+      "significance": "This decision separates the group and leads to both Robin and Usopp's encounter with the Tontatta dwarves and Law's eventual confrontation.",
+      "characterIds": ["law", "robin", "usopp", "caesar-clown"],
+      "locationIds": ["green-bit"],
+      "quotes": [
+        {
+          "text": "Robin-ya, Usopp-ya, I need you to check out the forest and make sure there is nothing strange going on.",
+          "speaker": "Trafalgar Law",
+          "context": "Law asks Robin and Usopp to scout Green Bit before the exchange"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [639],
+      "payoffInEpisodes": [641],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep640-event-003",
+      "episodeNumber": 640,
+      "timestamp": "08:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Marines Attacked by Invisible Thieves",
+      "description": "Robin and Usopp discover a squad of Marines being attacked by the forest's inhabitants - fast, seemingly invisible creatures that strip the Marines of all their belongings in the blink of an eye, leaving them in their underwear.",
+      "significance": "First hint of the Tontatta dwarves' presence and their incredible speed and strength despite their tiny size.",
+      "characterIds": ["robin", "usopp"],
+      "locationIds": ["green-bit"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [641],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep640-event-004",
+      "episodeNumber": 640,
+      "timestamp": "10:20",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MINOR",
+      "title": "Robin Captures the Invisible Thieves",
+      "description": "Robin uses her Hana Hana no Mi Devil Fruit powers to capture the fast, seemingly invisible thieves. She reveals to Usopp that she believes they are dwarves (Tontattas).",
+      "significance": "Robin's quick thinking reveals the true nature of the 'invisible' attackers - they are simply moving too fast for normal human eyes to track.",
+      "characterIds": ["robin", "usopp"],
+      "locationIds": ["green-bit"],
+      "devilFruitIds": ["hana-hana-no-mi"],
+      "quotes": [
+        {
+          "text": "I believe they are dwarves.",
+          "speaker": "Nico Robin",
+          "context": "Robin identifies the captured thieves as dwarves"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [641],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep640-event-005",
+      "episodeNumber": 640,
+      "timestamp": "11:50",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Leo's First Appearance",
+      "description": "Leo, a Tontatta dwarf warrior, appears before the Marines and asks them if they are good guys or bad guys. When the Marines refuse to lay down their weapons, Leo and his fellow dwarves instantly strip them to their underwear.",
+      "significance": "Introduction of Leo, who becomes an important ally to the Straw Hats and a key figure in the Tontatta tribe's resistance against Doflamingo.",
+      "characterIds": ["leo", "robin", "usopp"],
+      "locationIds": ["green-bit"],
+      "quotes": [
+        {
+          "text": "Are you good guys or bad guys?",
+          "speaker": "Leo",
+          "context": "Leo's first words to the Marines"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [641, 642],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep640-event-006",
+      "episodeNumber": 640,
+      "timestamp": "14:30",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Zoro in Acacia with the Sword Thief",
+      "description": "At Dressrosa's port city Acacia, Zoro is running while carrying a small dwarf named Wicca, who had stolen his sword earlier. She sprained her ankle when Zoro caught her, and she berates herself for being captured.",
+      "significance": "Introduces Wicca and shows the connection between the dwarves in Green Bit and those in Dressrosa, establishing that the Tontattas move between the two locations.",
+      "characterIds": ["zoro", "wicca"],
+      "locationIds": ["acacia", "dressrosa"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [639],
+      "payoffInEpisodes": [641],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep640-event-007",
+      "episodeNumber": 640,
+      "timestamp": "15:45",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Wicca's First Appearance and Warning",
+      "description": "Wicca, despite her injury, desperately begs Zoro to take her to the flower field so she can deliver an urgent report: the Donquixote family is planning to attack the Straw Hats' ship, the Thousand Sunny.",
+      "significance": "Introduces Wicca and reveals critical information about Doflamingo's plans, showing the Tontattas' role as informants and their good intentions toward the Straw Hats.",
+      "characterIds": ["zoro", "wicca"],
+      "locationIds": ["dressrosa"],
+      "crewIds": ["straw-hat-pirates", "donquixote-pirates"],
+      "quotes": [
+        {
+          "text": "The Donquixote family is planning to attack the Straw Hat's ship!",
+          "speaker": "Wicca",
+          "context": "Wicca reveals the danger facing the Thousand Sunny"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [641, 642],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep640-event-008",
+      "episodeNumber": 640,
+      "timestamp": "17:20",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Violet Reveals Her True Allegiance",
+      "description": "Sanji is shown beaten and surrounded by Doflamingo's men. Violet reveals that she fooled Sanji and is actually an assassin for Doflamingo, a member of the Trébol Army.",
+      "significance": "Appears to establish Violet as an enemy, though this is later revealed to be more complex. Shows Sanji's weakness for women being exploited.",
+      "characterIds": ["sanji", "violet"],
+      "locationIds": ["dressrosa"],
+      "crewIds": ["donquixote-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [632],
+      "payoffInEpisodes": [640],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep640-event-009",
+      "episodeNumber": 640,
+      "timestamp": "18:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Violet's Giro Giro no Mi Powers Demonstrated",
+      "description": "Violet demonstrates her Giro Giro no Mi Devil Fruit power, which allows her to see through people's clothes and even into their minds. She looks into Sanji's mind to discover information about Law and Luffy's alliance.",
+      "significance": "Reveals Violet's Devil Fruit ability and its strategic intelligence-gathering capabilities. Also demonstrates Sanji's perverted thoughts prevent her from seeing clear details.",
+      "characterIds": ["sanji", "violet"],
+      "devilFruitIds": ["giro-giro-no-mi"],
+      "locationIds": ["dressrosa"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [641],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep640-event-010",
+      "episodeNumber": 640,
+      "timestamp": "20:15",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MAJOR",
+      "title": "Sanji Believes Violet's Tears",
+      "description": "Despite being beaten and betrayed, Sanji tells Violet that he believes she was telling the truth earlier because of the tears in her eyes, declaring that he would never doubt a woman's tears. This honest declaration deeply touches Violet and brings her to genuine tears.",
+      "significance": "Shows Sanji's unwavering chivalry even in dire circumstances and marks the true turning point in Violet's allegiance, though this is not immediately apparent.",
+      "characterIds": ["sanji", "violet"],
+      "locationIds": ["dressrosa"],
+      "quotes": [
+        {
+          "text": "I'd never doubt a woman's tears.",
+          "speaker": "Sanji",
+          "context": "Sanji explains why he believes Violet despite her apparent betrayal"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [632],
+      "payoffInEpisodes": [641],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep640-event-011",
+      "episodeNumber": 640,
+      "timestamp": "21:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Violet Defeats Her Subordinates",
+      "description": "Before her subordinates can kill Sanji, Violet quickly defeats them herself and warns Sanji that he was right about her, beginning to reveal her true feelings and allegiance.",
+      "significance": "Reveals Violet's true allegiance to Dressrosa and against Doflamingo, establishing her as an ally to the Straw Hats. This is a critical turning point in the Dressrosa arc.",
+      "characterIds": ["sanji", "violet"],
+      "locationIds": ["dressrosa"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [641, 642],
+      "callbacksToEpisodes": []
+    }
+  ],
+  "debuts": {
+    "characters": ["leo", "wicca"],
+    "locations": ["green-bit"],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [641, 642, 643],
+    "payoffFrom": [639, 632],
+    "thematicLinks": [641]
+  },
+  "quotes": [
+    {
+      "text": "Are you good guys or bad guys?",
+      "speaker": "Leo",
+      "context": "Leo's question to the Marines on Green Bit",
+      "timestamp": "11:50"
+    },
+    {
+      "text": "I believe they are dwarves.",
+      "speaker": "Nico Robin",
+      "context": "Robin identifies the invisible thieves",
+      "timestamp": "10:20"
+    },
+    {
+      "text": "The Donquixote family is planning to attack the Straw Hat's ship!",
+      "speaker": "Wicca",
+      "context": "Wicca's urgent warning to Zoro",
+      "timestamp": "15:45"
+    },
+    {
+      "text": "I'd never doubt a woman's tears.",
+      "speaker": "Sanji",
+      "context": "Sanji's declaration of trust in Violet",
+      "timestamp": "20:15"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Trust and Deception",
+      "description": "The episode explores themes of trust through multiple storylines: Robin and Usopp encountering the initially mysterious dwarves, Sanji being deceived by Violet, and his ultimate choice to trust her tears despite the betrayal.",
+      "symbolism": "The 'invisible' dwarves represent hidden truths that require different perspectives to see clearly. Violet's tears symbolize genuine emotion breaking through layers of deception.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Size vs. Strength",
+      "description": "The Tontatta dwarves demonstrate that their tiny size belies incredible speed and strength, easily overwhelming much larger Marines and humans.",
+      "symbolism": "The dwarves challenge assumptions about power based on physical appearance, a recurring theme in One Piece.",
+      "culturalReferences": ["References to fairy folklore and dwarf mythology"]
+    },
+    {
+      "theme": "Chivalry and Honor",
+      "description": "Sanji's unwavering code of never doubting a woman's tears, even when beaten and betrayed, demonstrates his commitment to his personal code of honor.",
+      "symbolism": "Sanji's chivalry serves as a bridge between deception and truth, allowing Violet to reveal her true allegiance.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Mysterious", "Suspenseful", "Adventurous", "Tense"],
+  "characterSpotlights": [
+    {
+      "characterId": "robin",
+      "role": "Scout and Investigator",
+      "development": "Robin demonstrates her analytical abilities by quickly deducing the nature of the 'invisible' attackers and using her Devil Fruit powers strategically to capture them.",
+      "keyActions": [
+        "Explores Green Bit forest with Usopp",
+        "Identifies the invisible thieves as dwarves",
+        "Uses her Devil Fruit powers to capture the Tontattas"
+      ],
+      "quotes": ["I believe they are dwarves."]
+    },
+    {
+      "characterId": "sanji",
+      "role": "Victim turned Believer",
+      "development": "Sanji's character is tested through betrayal, yet his core values of chivalry and trust in women's emotions prove to be correct, turning an enemy into an ally.",
+      "keyActions": [
+        "Gets beaten by Violet's subordinates",
+        "Has his mind read by Violet's Devil Fruit",
+        "Declares his trust in Violet's tears",
+        "Is saved by Violet"
+      ],
+      "quotes": ["I'd never doubt a woman's tears."]
+    },
+    {
+      "characterId": "zoro",
+      "role": "Unwitting Helper",
+      "development": "Zoro finds himself helping Wicca despite her having stolen his sword, showing his pragmatic nature when faced with urgent information.",
+      "keyActions": [
+        "Catches the sword thief Wicca",
+        "Agrees to help her despite the theft",
+        "Carries her to deliver the warning"
+      ],
+      "quotes": []
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime adds extended scenes of the Marines being stripped by the dwarves for comedic effect, which was briefer in the manga.",
+      "episodeTimestamp": "11:00",
+      "mangaReference": "Chapter 710",
+      "type": "ANIME_EXPANSION"
+    },
+    {
+      "difference": "Additional dialogue between Caesar and Law about the Marines' presence was added to build tension.",
+      "episodeTimestamp": "04:00",
+      "mangaReference": "Chapter 710",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "This episode marks the first appearance of the Tontatta tribe in the anime, introducing a completely new race of beings in the One Piece world.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_640",
+          "title": "Episode 640 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-29"
+        }
+      ]
+    },
+    {
+      "fact": "The episode adapts content from three different manga chapters: Chapter 710 (pages 14-19), Chapter 711 (pages 10-13), and Chapter 712 (pages 2-7).",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Episode_640",
+          "title": "Episode 640 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-29"
+        }
+      ]
+    },
+    {
+      "fact": "The opening theme 'Wake Up!' by AAA was used from episodes 629-686, making this episode part of that sequence.",
+      "category": "MUSIC",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/One_Piece_Music",
+          "title": "One Piece Music - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-29"
+        }
+      ]
+    },
+    {
+      "fact": "Leo and Wicca are voiced by Kōki Miyata and Rina Hidaka respectively in Japanese, both of whom use higher-pitched voices to emphasize the dwarves' small stature.",
+      "category": "VOICE_ACTING",
+      "sources": []
+    },
+    {
+      "fact": "Green Bit is revealed to be connected to Dressrosa by a bridge that was destroyed 200 years ago by the arrival of Fighting Fish.",
+      "category": "STORY",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Green_Bit",
+          "title": "Green Bit - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-29"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

@@ -1,0 +1,462 @@
+{
+  "episodeNumber": 644,
+  "episodeTitle": "A Blow of Anger! A Giant vs. Lucy!",
+  "description": "Block C of the Corrida Colosseum tournament rages on as Luffy tames the Fighting Bull Ucy and faces the giant warrior Hajrudin. Meanwhile, on the Thousand Sunny, Giolla uses her Ato Ato no Mi powers to transform the ship and crew into abstract art.",
+  "airDate": "2014-05-11",
+  "airDateJapan": "2014-05-11",
+  "airDateUS": "2017-05-20",
+  "arcName": "Dressrosa",
+  "sagaName": "Dressrosa Saga",
+  "animationQuality": "STANDARD",
+  "openingSong": {
+    "title": "Wake up!",
+    "artist": "AAA",
+    "episodeRange": [629, 686]
+  },
+  "endingSong": null,
+  "credits": {
+    "animationDirector": "Atsuko Kawamura",
+    "director": "Tetsuya Endō",
+    "writer": "Shōji Yonemura",
+    "artDirector": "Miho Shiraishi",
+    "keyAnimators": [],
+    "voiceActorsJP": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Mayumi Tanaka"
+      },
+      {
+        "character": "Nami",
+        "actor": "Akemi Okamura"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Ikue Ōtani"
+      },
+      {
+        "character": "Brook",
+        "actor": "Chō"
+      },
+      {
+        "character": "Hajrudin",
+        "actor": "Takuya Kirimoto"
+      },
+      {
+        "character": "Giolla",
+        "actor": "Yoshiko Kamei"
+      },
+      {
+        "character": "Momonosuke",
+        "actor": "Ai Orikasa"
+      },
+      {
+        "character": "Rebecca",
+        "actor": "Megumi Hayashibara"
+      }
+    ],
+    "voiceActorsEN": [
+      {
+        "character": "Monkey D. Luffy",
+        "actor": "Colleen Clinkenbeard"
+      },
+      {
+        "character": "Nami",
+        "actor": "Luci Christian"
+      },
+      {
+        "character": "Tony Tony Chopper",
+        "actor": "Brina Palencia"
+      },
+      {
+        "character": "Brook",
+        "actor": "Ian Sinclair"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "ep644-event-001",
+      "episodeNumber": 644,
+      "timestamp": "03:00",
+      "eventType": "LOCATION_ARRIVAL",
+      "severity": "MINOR",
+      "title": "Giolla Invades the Thousand Sunny",
+      "description": "Giolla of the Donquixote Pirates boards the Thousand Sunny off the coast of Dressrosa, confronting Nami, Brook, Chopper, and Momonosuke who are guarding the ship.",
+      "significance": "Sets up the B-plot conflict of the episode, establishing the threat to the Straw Hats' ship and Momonosuke's safety.",
+      "characterIds": ["giolla", "nami", "brook", "chopper", "momonosuke"],
+      "locationIds": ["thousand-sunny"],
+      "crewIds": ["donquixote-pirates", "straw-hat-pirates"],
+      "quotes": [
+        {
+          "text": "Our goal is to capture Momonosuke, and since the ship is deformed, the Straw Hat Pirates have no way of leaving Dressrosa.",
+          "speaker": "Giolla",
+          "context": "Giolla reveals the Donquixote Pirates' plan to trap the Straw Hats"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [635, 638],
+      "payoffInEpisodes": [648],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep644-event-002",
+      "episodeNumber": 644,
+      "timestamp": "05:30",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Giolla Transforms the Crew with Ato Ato no Mi",
+      "description": "Giolla uses her Ato Ato no Mi devil fruit powers to transform Nami, Brook, Chopper, and Momonosuke into bizarre abstract art forms, rendering them mostly helpless.",
+      "significance": "First major display of Giolla's Art-Art Fruit powers in combat, demonstrating its ability to transform living beings into dysfunctional art pieces.",
+      "characterIds": ["giolla", "nami", "brook", "chopper", "momonosuke"],
+      "locationIds": ["thousand-sunny"],
+      "devilFruitIds": ["ato-ato-no-mi"],
+      "quotes": [
+        {
+          "text": "You're all pieces of art now!",
+          "speaker": "Giolla",
+          "context": "Giolla celebrates her artistic transformations of the Straw Hats"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [648],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep644-event-003",
+      "episodeNumber": 644,
+      "timestamp": "08:00",
+      "eventType": "POWER_REVEAL",
+      "severity": "MAJOR",
+      "title": "Giolla Transforms the Thousand Sunny",
+      "description": "When the crew tries to lure Giolla away from the ship, she sees through their plan and unleashes her powers on the Thousand Sunny itself, transforming it into abstract art and making it unable to sail.",
+      "significance": "Escalates the threat by making the Straw Hats' ship inoperable, trapping them in Dressrosa as part of Doflamingo's plan.",
+      "characterIds": ["giolla", "nami", "brook", "chopper", "momonosuke"],
+      "locationIds": ["thousand-sunny"],
+      "devilFruitIds": ["ato-ato-no-mi"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [648],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep644-event-004",
+      "episodeNumber": 644,
+      "timestamp": "10:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MINOR",
+      "title": "Block C Battle Royale Begins",
+      "description": "Block C of the Corrida Colosseum tournament begins with numerous gladiators fighting for the chance to advance and win the Mera Mera no Mi.",
+      "significance": "Introduces the Block C fighters including Luffy (as Lucy) and Hajrudin, advancing the tournament storyline.",
+      "characterIds": ["luffy", "hajrudin", "ucy"],
+      "locationIds": ["corrida-colosseum"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [641, 642, 643],
+      "payoffInEpisodes": [645, 646],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep644-event-005",
+      "episodeNumber": 644,
+      "timestamp": "12:30",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MINOR",
+      "title": "Luffy Tames Fighting Bull Ucy",
+      "description": "Luffy befriends and tames the Fighting Bull known as Ucy, nicknamed the 'Colosseum's Grim Reaper,' and rides him around the arena, calling him by the affectionate name 'Ucy.'",
+      "significance": "Shows Luffy's natural ability to befriend animals and establishes the bond that will motivate his anger when Ucy is hurt.",
+      "characterIds": ["luffy", "ucy"],
+      "locationIds": ["corrida-colosseum"],
+      "quotes": [
+        {
+          "text": "Hey there, Ucy! Let's do this together!",
+          "speaker": "Luffy",
+          "context": "Luffy nicknames and befriends the Fighting Bull"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep644-event-006",
+      "episodeNumber": 644,
+      "timestamp": "14:00",
+      "eventType": "FIRST_APPEARANCE",
+      "severity": "MAJOR",
+      "title": "Hajrudin Declares His Goal",
+      "description": "Hajrudin, a giant warrior from Elbaf, easily defeats numerous competitors and declares his intention to win the Mera Mera no Mi and become king of the giants.",
+      "significance": "Establishes Hajrudin as a major Block C contender and reveals his ambitions, setting up his future role as a Straw Hat Grand Fleet member.",
+      "characterIds": ["hajrudin"],
+      "locationIds": ["corrida-colosseum"],
+      "quotes": [
+        {
+          "text": "I will wield the Mera Mera no Mi and become the king of the giants!",
+          "speaker": "Hajrudin",
+          "context": "Hajrudin announces his ambition to the colosseum"
+        }
+      ],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [665, 666, 745],
+      "callbacksToEpisodes": [116, 117]
+    },
+    {
+      "id": "ep644-event-007",
+      "episodeNumber": 644,
+      "timestamp": "15:30",
+      "eventType": "BATTLE_START",
+      "severity": "MAJOR",
+      "title": "Hajrudin Crushes Lucy and Ucy",
+      "description": "Luffy and Ucy accidentally run into Hajrudin's leg. Taking this as a challenge, the giant attacks with his massive fist, crushing both Luffy and Ucy into the ground and breaking Ucy's horn.",
+      "significance": "Creates the central conflict of the episode and demonstrates Hajrudin's overwhelming strength.",
+      "characterIds": ["luffy", "hajrudin", "ucy"],
+      "locationIds": ["corrida-colosseum"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep644-event-008",
+      "episodeNumber": 644,
+      "timestamp": "17:00",
+      "eventType": "TECHNIQUE_DEBUT",
+      "severity": "MAJOR",
+      "title": "Luffy Defeats Hajrudin with Haki-Infused Punch",
+      "description": "Enraged by Hajrudin injuring his friend Ucy, Luffy activates Gear Second, hardens his arm with Armament Haki, and delivers a powerful punch that knocks out the giant with a single blow. The entire crowd is shocked that Lucy defeated a giant so easily.",
+      "significance": "Demonstrates Luffy's growth in power and his use of Haki, while also showing his emotional connection to his friends. Establishes Lucy as a tournament favorite.",
+      "characterIds": ["luffy", "hajrudin"],
+      "locationIds": ["corrida-colosseum"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": [517, 597]
+    },
+    {
+      "id": "ep644-event-009",
+      "episodeNumber": 644,
+      "timestamp": "18:30",
+      "eventType": "CULTURAL_MOMENT",
+      "severity": "MINOR",
+      "title": "Lucy Becomes Crowd Favorite",
+      "description": "After defeating Hajrudin, Luffy (as Lucy) becomes immensely popular with the Colosseum crowd, who are amazed by his feat of defeating a giant.",
+      "significance": "Increases Luffy's profile in Dressrosa and makes it harder for him to remain incognito.",
+      "characterIds": ["luffy"],
+      "locationIds": ["corrida-colosseum"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [],
+      "payoffInEpisodes": [],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep644-event-010",
+      "episodeNumber": 644,
+      "timestamp": "19:30",
+      "eventType": "RELATIONSHIP_REVEAL",
+      "severity": "MINOR",
+      "title": "Ricky Meets Rebecca",
+      "description": "In the medical treatment area, the injured gladiator Ricky initially refuses treatment but agrees when he encounters Rebecca, who he seems to remember as a child.",
+      "significance": "Hints at Ricky's true identity as King Riku and his connection to Rebecca, foreshadowing major revelations about Dressrosa's history.",
+      "characterIds": ["ricky", "rebecca"],
+      "locationIds": ["corrida-colosseum"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [640, 643],
+      "payoffInEpisodes": [662, 663],
+      "callbacksToEpisodes": []
+    },
+    {
+      "id": "ep644-event-011",
+      "episodeNumber": 644,
+      "timestamp": "20:30",
+      "eventType": "MAJOR_DECISION",
+      "severity": "MAJOR",
+      "title": "Bellamy Receives Orders to Kill Luffy",
+      "description": "Diamante gives Bellamy a note instructing him to assassinate Luffy as a second chance to earn Doflamingo's favor and be promoted to a higher rank in the Donquixote Family. However, Bellamy is conflicted about this order.",
+      "significance": "Sets up a moral conflict for Bellamy and tests his loyalty to Doflamingo versus his respect for Luffy, who had previously spared his life.",
+      "characterIds": ["bellamy", "diamante", "luffy"],
+      "locationIds": ["corrida-colosseum"],
+      "crewIds": ["donquixote-pirates"],
+      "quotes": [],
+      "images": [],
+      "setupInEpisodes": [629, 635],
+      "payoffInEpisodes": [702, 703],
+      "callbacksToEpisodes": [146, 147, 151]
+    }
+  ],
+  "debuts": {
+    "characters": ["hajrudin", "ucy"],
+    "locations": [],
+    "devilFruits": [],
+    "crews": [],
+    "abilities": []
+  },
+  "episodeRelationships": {
+    "setupFor": [645, 646, 648],
+    "payoffFrom": [641, 642, 643],
+    "thematicLinks": [116, 117, 146, 147]
+  },
+  "quotes": [
+    {
+      "text": "I will wield the Mera Mera no Mi and become the king of the giants!",
+      "speaker": "Hajrudin",
+      "context": "Hajrudin declares his ambition in the colosseum",
+      "timestamp": "14:00"
+    },
+    {
+      "text": "Our goal is to capture Momonosuke, and since the ship is deformed, the Straw Hat Pirates have no way of leaving Dressrosa.",
+      "speaker": "Giolla",
+      "context": "Giolla reveals the plan to trap the Straw Hats",
+      "timestamp": "03:00"
+    },
+    {
+      "text": "Hey there, Ucy! Let's do this together!",
+      "speaker": "Luffy",
+      "context": "Luffy befriends the Fighting Bull",
+      "timestamp": "12:30"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Friendship and Loyalty",
+      "description": "Luffy's instant friendship with Ucy and his rage when the bull is hurt demonstrates his protective nature toward friends, while Bellamy's conflict about killing Luffy shows the impact of their previous encounter.",
+      "symbolism": "The bond between Luffy and Ucy represents Luffy's ability to form connections with any creature, while Bellamy's hesitation symbolizes the moral complexity of loyalty.",
+      "culturalReferences": []
+    },
+    {
+      "theme": "Art versus Function",
+      "description": "Giolla's devil fruit power transforms functional objects and people into beautiful but useless art pieces, creating a philosophical conflict between aesthetic beauty and practical utility.",
+      "symbolism": "The abstract art transformations reference famous artists like Dalí, Munch, and Picasso, contrasting high art with the pragmatic needs of pirates.",
+      "culturalReferences": ["Salvador Dalí", "Edvard Munch", "Pablo Picasso"]
+    },
+    {
+      "theme": "Strength and Honor",
+      "description": "Hajrudin's goal to become king of the giants and Luffy's protective fury both demonstrate different aspects of warrior honor and what it means to be strong.",
+      "symbolism": "The giant Hajrudin represents raw power and ambition, while Luffy's victory shows that true strength comes from protecting those you care about.",
+      "culturalReferences": []
+    }
+  ],
+  "emotionalTone": ["Comedic", "Tense", "Action-Packed", "Heartwarming"],
+  "characterSpotlights": [
+    {
+      "characterId": "luffy",
+      "role": "Protagonist competing as Lucy",
+      "development": "Demonstrates both his compassionate nature in befriending Ucy and his fierce protective instincts when his friend is hurt.",
+      "keyActions": [
+        "Tames and befriends Fighting Bull Ucy",
+        "Fights against Hajrudin",
+        "Uses Gear Second and Armament Haki to defeat Hajrudin",
+        "Becomes crowd favorite in the Colosseum"
+      ],
+      "quotes": ["Hey there, Ucy! Let's do this together!"]
+    },
+    {
+      "characterId": "hajrudin",
+      "role": "Block C antagonist and future ally",
+      "development": "Introduced as a powerful giant warrior from Elbaf with ambitions to become king of the giants, demonstrating both his strength and his pride.",
+      "keyActions": [
+        "Defeats numerous Block C competitors with ease",
+        "Declares intention to win Mera Mera no Mi",
+        "Crushes Luffy and Ucy with his giant fist",
+        "Is defeated by Luffy's Haki-infused punch"
+      ],
+      "quotes": ["I will wield the Mera Mera no Mi and become the king of the giants!"]
+    },
+    {
+      "characterId": "giolla",
+      "role": "Antagonist attacking the Thousand Sunny",
+      "development": "Showcases her Ato Ato no Mi powers and her role in Doflamingo's plan to trap the Straw Hats in Dressrosa.",
+      "keyActions": [
+        "Invades the Thousand Sunny",
+        "Transforms Nami, Brook, Chopper, and Momonosuke into art",
+        "Transforms the Thousand Sunny into abstract art",
+        "Reveals plan to capture Momonosuke"
+      ],
+      "quotes": ["Our goal is to capture Momonosuke, and since the ship is deformed, the Straw Hat Pirates have no way of leaving Dressrosa."]
+    }
+  ],
+  "mangaDifferences": [
+    {
+      "difference": "The anime extends the fight scenes in Block C with additional competitors and action sequences not shown in the manga.",
+      "episodeTimestamp": "10:00-15:00",
+      "mangaReference": "Chapter 714",
+      "type": "EXTENDED_SCENE"
+    },
+    {
+      "difference": "The anime adds more comedic reactions from the Colosseum crowd watching Lucy's exploits.",
+      "episodeTimestamp": "18:30",
+      "mangaReference": "Chapter 714",
+      "type": "ANIME_ORIGINAL_SCENE"
+    }
+  ],
+  "trivia": [
+    {
+      "fact": "Hajrudin is later revealed to be the first son of King Harald of Elbaf, making him a prince of the giant nation.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Hajrudin",
+          "title": "Hajrudin - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-29"
+        }
+      ]
+    },
+    {
+      "fact": "Giolla's artistic transformations are inspired by the work of famous painters Salvador Dalí, Edvard Munch, and Pablo Picasso.",
+      "category": "CULTURAL_REFERENCE",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Ato_Ato_no_Mi",
+          "title": "Ato Ato no Mi - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-29"
+        }
+      ]
+    },
+    {
+      "fact": "Ucy (Fighting Bull) is known as the 'Colosseum's Grim Reaper' and had defeated 21 death row prisoners before meeting Luffy.",
+      "category": "CHARACTER",
+      "sources": [
+        {
+          "url": "https://wiki.sportskeeda.com/one-piece/fighting-bull-in-one-piece",
+          "title": "Who is Fighting Bull in One Piece?",
+          "platform": "Sportskeeda",
+          "accessedAt": "2026-01-29"
+        }
+      ]
+    },
+    {
+      "fact": "This episode adapts Chapter 714 titled 'Lucy and Ucy' from the manga.",
+      "category": "PRODUCTION",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Chapter_714",
+          "title": "Chapter 714 - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-29"
+        }
+      ]
+    },
+    {
+      "fact": "Hajrudin eventually becomes one of the founding members of the Straw Hat Grand Fleet after the events of Dressrosa.",
+      "category": "FORESHADOWING",
+      "sources": [
+        {
+          "url": "https://onepiece.fandom.com/wiki/Hajrudin",
+          "title": "Hajrudin - One Piece Wiki",
+          "platform": "Fandom",
+          "accessedAt": "2026-01-29"
+        }
+      ]
+    }
+  ],
+  "fanTheories": [],
+  "externalMedia": []
+}

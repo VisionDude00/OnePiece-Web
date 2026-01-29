@@ -1,0 +1,102 @@
+[
+  {
+    "name": {
+      "english": "Green Bit",
+      "japanese": "グリーンビット",
+      "romanized": "Gurīn Bitto"
+    },
+    "locationType": "ISLAND",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Green Bit",
+    "debutEpisode": 640,
+    "debutChapter": 710,
+    "description": "A mysterious, densely forested island located north of Dressrosa, connected by a destroyed bridge. It serves as the home of the Tontatta tribe and features lush vegetation, dangerous Fighting Fish in the surrounding waters, and is chosen as the meeting point for Law's exchange with Doflamingo.",
+    "episodeAppearances": [640],
+    "keyEvents": [
+      {
+        "episodeNumber": 640,
+        "eventId": "ep640-event-001",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Arrival at Green Bit",
+        "description": "The group arrives at Green Bit and discovers a crashed Marine ship with significant damage to the surrounding plants and trees.",
+        "significance": "First appearance of Green Bit in the anime and setup for the exchange between Law and Doflamingo.",
+        "timestamp": "03:15"
+      },
+      {
+        "episodeNumber": 640,
+        "eventId": "ep640-event-003",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Marines Attacked by Invisible Thieves",
+        "description": "Marines are attacked by the forest's inhabitants - the incredibly fast Tontatta dwarves who strip them of their belongings.",
+        "significance": "Reveals the presence of the Tontatta tribe on Green Bit and demonstrates their incredible speed and strength.",
+        "timestamp": "08:45"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 640,
+        "episodeEnd": "present",
+        "reason": "Island is inhabited by the Tontatta tribe and used as meeting point"
+      }
+    ],
+    "parentLocation": null,
+    "childLocations": ["tontatta-kingdom"],
+    "relatedCharacters": ["law", "robin", "usopp", "caesar-clown", "leo"],
+    "relatedCrews": ["straw-hat-pirates", "heart-pirates"],
+    "relatedArcs": ["Dressrosa"],
+    "geography": {
+      "terrain": "Dense forest with lush vegetation",
+      "climate": "Tropical",
+      "notableFeatures": [
+        "Destroyed bridge connecting to Dressrosa (destroyed 200 years ago)",
+        "Home to dangerous Fighting Fish in surrounding waters",
+        "Underground Tontatta Kingdom beneath the island",
+        "Crashed Marine ship on the coast"
+      ]
+    },
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Acacia",
+      "japanese": "アカシア",
+      "romanized": "Akashia"
+    },
+    "locationType": "CITY",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Dressrosa",
+    "debutEpisode": 630,
+    "debutChapter": 701,
+    "description": "The port city of Dressrosa where Zoro encounters Wicca, a dwarf who stole his sword. It serves as one of the main urban areas on Dressrosa.",
+    "episodeAppearances": [640],
+    "keyEvents": [
+      {
+        "episodeNumber": 640,
+        "eventId": "ep640-event-006",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Zoro in Acacia with the Sword Thief",
+        "description": "Zoro is running through Acacia while carrying Wicca, the dwarf who stole his sword and is now injured.",
+        "significance": "Shows the connection between the dwarves in Green Bit and those in Dressrosa.",
+        "timestamp": "14:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [],
+    "parentLocation": "dressrosa",
+    "childLocations": [],
+    "relatedCharacters": ["zoro", "wicca"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Dressrosa"],
+    "geography": {
+      "terrain": "Urban port city",
+      "climate": "Tropical",
+      "notableFeatures": [
+        "Port area of Dressrosa",
+        "Flower fields nearby"
+      ]
+    },
+    "images": []
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "name": {
+      "english": "Thousand Sunny",
+      "japanese": "サウザンドサニー号",
+      "romanized": "Sauzando Sanī-gō"
+    },
+    "locationType": "SHIP",
+    "seaRegion": "NEW_WORLD",
+    "islandName": null,
+    "debutEpisode": 321,
+    "debutChapter": 436,
+    "description": "The Straw Hat Pirates' second ship, built by Franky and given to them by the Galley-La Company and Franky Family. In this episode, it is anchored off the coast of Dressrosa.",
+    "episodeAppearances": [644],
+    "keyEvents": [
+      {
+        "episodeNumber": 644,
+        "eventId": "ep644-event-001",
+        "eventType": "LOCATION_ARRIVAL",
+        "title": "Giolla Invades the Thousand Sunny",
+        "description": "Giolla of the Donquixote Pirates boards the Thousand Sunny and confronts the crew members guarding it.",
+        "significance": "The ship becomes the target of the Donquixote Pirates' plan to trap the Straw Hats.",
+        "timestamp": "03:00"
+      },
+      {
+        "episodeNumber": 644,
+        "eventId": "ep644-event-003",
+        "eventType": "POWER_REVEAL",
+        "title": "Thousand Sunny Transformed into Art",
+        "description": "Giolla uses her Ato Ato no Mi powers to transform the entire ship into abstract art, rendering it unable to sail.",
+        "significance": "The ship is temporarily disabled as part of Doflamingo's plan to prevent the Straw Hats from escaping Dressrosa.",
+        "timestamp": "08:00"
+      }
+    ],
+    "status": "COMPROMISED",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 321,
+        "episodeEnd": 643,
+        "reason": "Ship is operational"
+      },
+      {
+        "status": "COMPROMISED",
+        "episodeStart": 644,
+        "episodeEnd": 647,
+        "reason": "Transformed into abstract art by Giolla's devil fruit powers"
+      }
+    ],
+    "parentLocation": "Dressrosa Waters",
+    "childLocations": [],
+    "relatedCharacters": ["nami", "brook", "chopper", "momonosuke", "giolla"],
+    "relatedCrews": ["straw-hat-pirates", "donquixote-pirates"],
+    "relatedArcs": ["Dressrosa"],
+    "images": []
+  },
+  {
+    "name": {
+      "english": "Corrida Colosseum",
+      "japanese": "コリーダコロシアム",
+      "romanized": "Korīda Koroshiamu"
+    },
+    "locationType": "ARENA",
+    "seaRegion": "NEW_WORLD",
+    "islandName": "Dressrosa",
+    "debutEpisode": 631,
+    "debutChapter": 703,
+    "description": "A large colosseum in Dressrosa where gladiator battles are held. The Corrida Colosseum is hosting a tournament with the Mera Mera no Mi as the prize.",
+    "episodeAppearances": [644],
+    "keyEvents": [
+      {
+        "episodeNumber": 644,
+        "eventId": "ep644-event-004",
+        "eventType": "FIRST_APPEARANCE",
+        "title": "Block C Battle Royale",
+        "description": "Block C of the tournament begins with numerous gladiators fighting, including Luffy (as Lucy) and Hajrudin.",
+        "significance": "Major tournament progression as Block C participants battle for advancement.",
+        "timestamp": "10:00"
+      },
+      {
+        "episodeNumber": 644,
+        "eventId": "ep644-event-008",
+        "eventType": "TECHNIQUE_DEBUT",
+        "title": "Lucy Defeats Hajrudin",
+        "description": "Luffy defeats the giant Hajrudin with a single Haki-infused punch, shocking the entire crowd.",
+        "significance": "Establishes Lucy as a tournament favorite and demonstrates the level of competition.",
+        "timestamp": "17:00"
+      },
+      {
+        "episodeNumber": 644,
+        "eventId": "ep644-event-010",
+        "eventType": "RELATIONSHIP_REVEAL",
+        "title": "Ricky and Rebecca Meet",
+        "description": "In the colosseum's medical treatment area, Ricky encounters Rebecca and seems to recognize her.",
+        "significance": "Hints at the deeper connections between characters in Dressrosa.",
+        "timestamp": "19:30"
+      }
+    ],
+    "status": "ACTIVE",
+    "statusHistory": [
+      {
+        "status": "ACTIVE",
+        "episodeStart": 631,
+        "episodeEnd": "present",
+        "reason": "Tournament is ongoing"
+      }
+    ],
+    "parentLocation": "Dressrosa",
+    "childLocations": ["Medical Treatment Area", "Arena Floor", "Spectator Stands"],
+    "relatedCharacters": ["luffy", "hajrudin", "ucy", "rebecca", "ricky", "bellamy", "diamante"],
+    "relatedCrews": ["straw-hat-pirates"],
+    "relatedArcs": ["Dressrosa"],
+    "images": []
+  }
+]
